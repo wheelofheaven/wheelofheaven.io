@@ -19,4 +19,3 @@ This is a list of curated gitbooks that are maintained and hosted by Wheel of He
 - [The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/) by Rael
 - [Extraterrestrial Took Me To Their Planet](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/) by Rael
 - [Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth](https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/) by Giorgio de Santillana and Hertha von Dechend
-

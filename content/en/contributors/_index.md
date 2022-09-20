@@ -1,10 +1,10 @@
 ---
 title: "Contributors"
-description: "The Doks contributors."
-date: 2020-10-06T08:50:29+00:00
-lastmod: 2020-10-06T08:50:29+00:00
+description: "The people behind Wheel of Heaven."
+date: 2022-09-20T00:00:00+00:00
+lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 ---
 
-The Doks contributors.
+The people behind Wheel of Heaven.

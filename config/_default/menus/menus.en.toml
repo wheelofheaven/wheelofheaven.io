@@ -59,14 +59,14 @@
   name = "Summary"
   weight = 40
   identifier = "summary"
-  url = "/intro/"
+  url = "/intro/summary"
   parent = "intro"
 
 [[main]]
   name = "Timeline"
   weight = 50
   identifier = "timeline"
-  url = "https://getdoks.org/tutorial/introduction/"
+  url = "/intro/timeline"
   parent = "intro"
 
 [[social]]
@@ -82,7 +82,7 @@
   url = "https://t.me/wheelofheaven"
   weight = 20
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "Privacy"
+  url = "/privacy-policy/"
+  weight = 10

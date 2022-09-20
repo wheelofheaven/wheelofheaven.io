@@ -1,42 +1,42 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
-titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title = "Wheel of Heaven"
+titleSeparator = "|"
+titleAddition = "The democratization of the Age of Aquarius is here."
+description = "The democratization of the Age of Aquarius is here. Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["wheel-of-heaven.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+titleHome = "Wheel of Heaven"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = ""
+twitterCreator = ""
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaName = "Wheel of heaven"
+schemaAuthor = "Zara Zinsfuss"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/zarazinsfuss/"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "wheel-of-heaven-square.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "wheel-of-heaven.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/wheelofheaven/"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -80,7 +80,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/wheelofheaven/site"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false

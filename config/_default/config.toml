@@ -1,4 +1,4 @@
-baseurl = "https://wheelofheaven.github.io/"
+baseurl = "https://wheelofheaven.github.io/site"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

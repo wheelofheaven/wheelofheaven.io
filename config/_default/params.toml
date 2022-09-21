@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.github.com/\">Github</a>, <a class=\"text-muted\" href=\"https://getzola.org/\">Zola</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://github.com/wheelofheaven/\">Github</a>, <a class=\"text-muted\" href=\"https://getzola.org/\">Zola</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2022 Zara Zinsfuss"
@@ -94,8 +94,8 @@ lastMod = false
   clipBoard = true
   instantPage = true
   flexSearch = true
-  searchSectionsShow = []
-  searchSectionsIndex = []
+  searchSectionsShow = ["resources"]
+  searchSectionsIndex = ["resources"]
   darkMode = true
   bootStrapJs = true
   breadCrumb = false

@@ -64,8 +64,8 @@ rel  = "sitemap"
 [permalinks]
   intro = "/intro/:title/"
   wiki = "/wiki/:title/"
-  resources = "/resources/:title/"
   articles = "/articles/:title/"
+  resources = "/resources/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false

@@ -140,7 +140,7 @@ button#doks-versions {
 
 .header-bar {
   border-top: 4px solid;
-  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, #d32e9d);
+  border-image-source: linear-gradient(90deg, hsla(311, 64%, 85%, 1) 0%, hsla(263, 64%, 84%, 1) 25%, hsla(215, 77%, 80%, 1) 50%, hsla(185, 84%, 76%, 1) 75%, hsla(167, 82%, 78%, 1) 100%);
   border-image-slice: 1;
 }
 

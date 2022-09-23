@@ -1,6 +1,6 @@
 ---
 title : "Wiki"
-description: "Wiki Doks."
+description: "Wiki"
 lead: ""
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00

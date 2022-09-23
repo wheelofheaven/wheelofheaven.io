@@ -14,5 +14,3 @@ toc: true
 ---
 
 Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
-
-

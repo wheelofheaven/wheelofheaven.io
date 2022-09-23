@@ -17,4 +17,3 @@ homepage: false
 These links should help you dig deeper:
 
 [Internet Sacred Text Archive](https://www.sacred-texts.com/)
-

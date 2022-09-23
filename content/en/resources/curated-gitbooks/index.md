@@ -38,6 +38,14 @@ The second book by Raël, also a written testimony of another encounter with Yah
 
 ---
 
+#### L'Ère du Verseau, la Fin de l'Illusion Humaniste (1970) [FR]
+
+A non-fiction book about the Aquarian Age and how that relates to the possibility of the biblical creation myth being extraterrestrial in nature.
+
+📖  [L'Ère du Verseau, la Fin de l'Illusion Humaniste](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
+
+---
+
 #### Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969)
 
 An academic essay by two authors, namely Giorgio de Santillana and Hertha von Dechedn, about history and comparative mythology, particularly the subfield of archaeoastronomy. It is mostly about the claim of a Megalithic era discovery of axial precession and the encoding of this knowledge in mythology.

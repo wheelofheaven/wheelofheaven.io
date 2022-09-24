@@ -2,7 +2,7 @@
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar d-none d-lg-block">
 			<nav class="docs-links" aria-label="Main navigation">
-				{{ partial "sidebar/showcase-menu.html" . }}
+				{{ partial "sidebar/resources-menu.html" . }}
 			</nav>
 		</div>
 		{{ if ne .Params.toc false -}}
@@ -33,9 +33,6 @@
 			</div>
 			<h1>{{ .Title }}</h1>
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
-			{{ if ne (hugo.Environment) "development" -}}
-				{{ partial "main/carbonads.html" . }}
-			{{ end -}}
 			{{ partial "main/headline-hash.html" .Content }}
 			{{ if .Params.topics -}}
 				<h2>Topics</h2>

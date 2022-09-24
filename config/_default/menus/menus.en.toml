@@ -2,7 +2,7 @@
   name = "Intro"
   weight = 10
   identifier = "intro"
-  url = "/intro/wheel-of-heaven/"  
+  url = "/intro/wheel-of-heaven/"
 
 [[main]]
   name = "Wiki"
@@ -17,35 +17,7 @@
 [[main]]
   name = "Resources"
   url = "/resources/"
-  weight = 25  
-
-[[main]]
-  name = "Gitbooks"
-  weight = 40
-  identifier = "gitbooks"
-  url = "/resources/curated-gitbooks/"
-  parent = "Resources"
-
-[[main]]
-  name = "Further reading"
-  weight = 45
-  identifier = "furter-reading"
-  url = "/resources/further-reading/"
-  parent = "Resources"
-
-[[main]]
-  name = "References"
-  weight = 50
-  identifier = "references"
-  url = "/resources/references/"
-  parent = "Resources"
-
-[[main]]
-  name = "Community"
-  weight = 55
-  identifier = "community"
-  url = "/resources/community/"
-  parent = "Resources"
+  weight = 25
 
 # [[social]]
 #   name = "GitHub"

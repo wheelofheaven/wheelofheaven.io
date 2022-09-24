@@ -5,16 +5,16 @@ lead: "Internet Sacred Text Archive"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: ["apklab.png"]
+images: ["internet-sacred-text-archive.png"]
 link: "https://www.sacred-texts.com/"
 menu:
   resources:
     parent: "browse"
-weight: 170
+weight: 310
 toc: false
 pinned: false
 featured: false
 contributors: ["Zara Zinsfuss"]
-types: ["www"]
+types: ["Website"]
 topics: ["religion", "mythology", "archive"]
 ---

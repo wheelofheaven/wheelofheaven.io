@@ -5,7 +5,7 @@ lead: "De Santillana & Von Dechend — Hamlet's Mill: An Essay Investigating the
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: ["extraterrestrial-took-me-to-their-planet.png"]
+images: ["resources-gitbook.jpg"]
 link: "https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/"
 menu:
   resources:

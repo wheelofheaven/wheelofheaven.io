@@ -5,7 +5,7 @@ lead: "Jean Sendy — L'Ère du Verseau, la Fin de l'Illusion Humaniste (1970)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: ["l-ere-du-verseau.png"]
+images: ["resources-gitbook.jpg"]
 link: "https://wheelofheaven.github.io/sendy-l-ere-du-verseau/"
 menu:
   resources:

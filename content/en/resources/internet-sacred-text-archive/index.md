@@ -5,7 +5,7 @@ lead: "Internet Sacred Text Archive"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: ["internet-sacred-text-archive.png"]
+images: ["resources-website.jpg"]
 link: "https://www.sacred-texts.com/"
 menu:
   resources:

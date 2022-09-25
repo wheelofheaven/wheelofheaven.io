@@ -1,7 +1,7 @@
 ---
 title: "The Book Which Tells The Truth (1973)"
-description: "Rael I — The Book Which Tells The Truth (1973)"
-lead: "Rael I — The Book Which Tells The Truth (1973)"
+description: "Raël — The Book Which Tells The Truth (1973)"
+lead: "Raël — The Book Which Tells The Truth (1973)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

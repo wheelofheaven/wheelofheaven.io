@@ -22,4 +22,3 @@ topics: ["canon", "ancient-aliens", "gitbooks"]
 The second book by Raël, also a written testimony of another encounter with Yahweh where he was taken to another planet.
 
 📖  [Rael II — Extraterrestrials Took Me To Their Planet](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/)
-w

@@ -59,7 +59,7 @@ rel  = "sitemap"
 [taxonomies]
   contributor = "contributors"
   category = "categories"
-  tag = "tags"
+  tags = "tags"
   type = "types"
   topics = "topics"
 

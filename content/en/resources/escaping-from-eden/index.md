@@ -12,7 +12,7 @@ menu:
     parent: "browse"
 weight: 300
 toc: false
-pinned: true
+pinned: false
 featured: false
 contributors: ["Zara Zinsfuss"]
 types: ["Books"]

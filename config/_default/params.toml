@@ -40,7 +40,7 @@ schemaGitHub = "https://github.com/wheelofheaven/"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = true
+siteLinksSearchBox = false
 
 ## Chrome Browser
 themeColor = "#fff"

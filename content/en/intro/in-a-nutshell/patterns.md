@@ -7,7 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
-  docs:
+  intro:
     parent: "in-a-nutshell"
 weight: 130
 toc: true

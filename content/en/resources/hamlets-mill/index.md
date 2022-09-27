@@ -1,7 +1,7 @@
 ---
-title: "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969)"
+title: "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth"
 description: "De Santillana & Von Dechend — Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969)"
-lead: "De Santillana & Von Dechend — Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969)"
+lead: "Giorgio de Santillana & Hertha von Dechend (1969)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

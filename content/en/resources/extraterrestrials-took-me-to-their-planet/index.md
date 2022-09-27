@@ -1,7 +1,7 @@
 ---
-title: "Extraterrestrials Took Me To Their Planet (1976)"
+title: "Extraterrestrials Took Me To Their Planet"
 description: "Raël — Extraterrestrials Took Me To Their Planet (1976)"
-lead: "Raël — Extraterrestrials Took Me To Their Planet (1976)"
+lead: "Raël / Claude Vorhilon (1976)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

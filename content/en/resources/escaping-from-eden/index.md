@@ -1,7 +1,7 @@
 ---
-title: "Escaping from Eden (2020)"
+title: "Escaping from Eden"
 description: "Paul Anthony Wallis — Escaping from Eden: Does Genesis teach that the human race was created by God or engineered by ETs? (2020)"
-lead: "Paul Anthony Wallis — Escaping from Eden: Does Genesis teach that the human race was created by God or engineered by ETs? (2020)"
+lead: "Paul Anthony Wallis (2020)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -10,7 +10,7 @@ link: "https://paulanthonywallis.com/2016/10/12/blog-post-title-2/"
 menu:
   resources:
     parent: "browse"
-weight: 300
+weight: 310
 toc: false
 pinned: false
 featured: false

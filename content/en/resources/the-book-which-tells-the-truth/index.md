@@ -1,7 +1,7 @@
 ---
-title: "The Book Which Tells The Truth (1973)"
-description: "Raël — The Book Which Tells The Truth (1973)"
-lead: "Raël — The Book Which Tells The Truth (1973)"
+title: "The Book Which Tells The Truth"
+description: "Raël / Claude Vorhilon — The Book Which Tells The Truth (1973)"
+lead: "Raël / Claude Vorhilon (1973)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

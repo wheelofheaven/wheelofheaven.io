@@ -1,7 +1,7 @@
 ---
-title: "L'Ère du Verseau, la Fin de l'Illusion Humaniste (1970)"
-description: "Jean Sendy — L'Ère du Verseau, la Fin de l'Illusion Humaniste (1970)"
-lead: "Jean Sendy — L'Ère du Verseau, la Fin de l'Illusion Humaniste (1970)"
+title: "L'Ère du Verseau: la Fin de l'Illusion Humaniste"
+description: "Jean Sendy — L'Ère du Verseau: la Fin de l'Illusion Humaniste (1970)"
+lead: "Jean Sendy (1970)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

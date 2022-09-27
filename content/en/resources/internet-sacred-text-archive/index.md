@@ -1,7 +1,7 @@
 ---
 title: "Internet Sacred Text Archive"
 description: "Internet Sacred Text Archive"
-lead: "Internet Sacred Text Archive"
+lead: "www.sacred-texts.com | ISTA - Internet Sacred Text Archive"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

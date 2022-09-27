@@ -40,7 +40,7 @@ schemaGitHub = "https://github.com/wheelofheaven/"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -81,13 +81,13 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 repoHost = "GitHub"
 #repoHost = "Gitea"
 docsRepo = "https://github.com/wheelofheaven/site"
-docsRepoBranch = "master"
+docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["docs", "guides"]
+  sectionNav = ["intro", "wiki", "resources"]
 
 [options]
   lazySizes = true

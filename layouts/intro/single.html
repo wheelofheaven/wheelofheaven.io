@@ -1,8 +1,8 @@
 {{ define "main" }}
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar{{ if ne .Site.Params.options.navbarSticky true }} docs-sidebar-top{{ end }} d-none d-lg-block">
-			<nav {{ if eq .Site.Params.menu.section.collapsibleSidebar false }}id="sidebar-default" {{ end }}class="docs-links" aria-label="Main navigation">
-				{{ partial "sidebar/docs-menu.html" . }}
+			<nav id="sidebar-default" class="docs-links" aria-label="Main navigation">
+				{{ partial "sidebar/manual-collapsible-menu.html" . -}}
 			</nav>
 		</div>
 		{{ if ne .Params.toc false -}}
@@ -42,7 +42,7 @@
 			</div>
 			{{ partial "main/docs-navigation.html" . }}
 			<!--
-			{{ if not .Site.Params.options.collapsibleSidebar -}}
+			{{ if not .Site.Params.options.collapsibleIntroSidebar -}}
 				{{ partial "main/docs-navigation.html" . }}
 			{{ else -}}
 				<div class="my-n3"></div>

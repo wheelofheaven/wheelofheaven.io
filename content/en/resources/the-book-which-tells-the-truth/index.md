@@ -21,4 +21,6 @@ topics: ["canon", "ancient-aliens", "gitbooks"]
 
 The first book by Raël, the written testimony of his first several encounters with Yahweh.
 
+![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
+
 📖 [Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)

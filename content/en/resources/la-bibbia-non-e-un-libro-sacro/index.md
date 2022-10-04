@@ -18,3 +18,5 @@ contributors: ["Zara Zinsfuss"]
 types: ["Books"]
 topics: ["elohim", "ancient-aliens", "gitbooks"]
 ---
+
+![Image](images/la-bibbia-non-e-un-libro-sacro-book.jpg "La Bibbia non è un libro sacro, 2013 — Mauro Biglino")

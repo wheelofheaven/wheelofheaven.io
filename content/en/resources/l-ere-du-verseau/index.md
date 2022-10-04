@@ -21,4 +21,6 @@ topics: ["ancient-aliens", "age-of-aquarius", "precession", "great-year", "gitbo
 
 A non-fiction book about the Aquarian Age and how that relates to the possibility of the biblical creation myth being extraterrestrial in nature.
 
+![Image](images/l-ere-du-verseau-book.jpg "L'Ère du Verseau, 1970 — Jean Sendy")
+
 📖  [L'Ère du Verseau, la Fin de l'Illusion Humaniste](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)

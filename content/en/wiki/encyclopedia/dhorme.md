@@ -25,10 +25,9 @@ The Dhorme a French Bible translation lead by the French Assyrologist and Semito
 
 ![Image](images/dhorme-bible-books.jpg "La Bible: Ancient Testament, Tome I & Tome II (1956) — Edouard Dhorme")
 
+### As for Raelism
 
-### As for Raelism 
-
-The Dhorme Bible also happens to be the very same book that Claude Vorhilon aka Raël had with him during his purported encounter with Yahweh. 
+The Dhorme Bible also happens to be the very same book that Claude Vorhilon aka Raël had with him during his purported encounter with Yahweh.
 
 ### External resources
 

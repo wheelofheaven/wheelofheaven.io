@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   intro:
-    parent: "in-a-nutshell"
+    parent: "at-a-glance"
 weight: 110
 toc: true
 ---

@@ -16,3 +16,4 @@ toc: true
 There are a few premises (predicats) that one can acknowledge:
 
 - **Neo-euhemerism:** From the French néo-évhémérisme which itself is a neologism of the idea derived by the Greek philosopher Εὐήμερος (Euḗmeros). Neo-euhemerism can be understood as the speculative conjecture where the gods and people of ancient mythological lore are indeed humanoid people, in particular extraterrestrial humanoid people.
+

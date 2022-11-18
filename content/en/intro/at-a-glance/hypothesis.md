@@ -30,7 +30,6 @@ Astronomy is only so old. Inter-planetary space travel even younger. We seem to 
 
 ### Sendy's law
 
-
 ## Assumptions
 
 ### Life on Earth is meaningful
@@ -39,8 +38,8 @@ Astronomy is only so old. Inter-planetary space travel even younger. We seem to 
 
 ### Scriptures and religion are deliberate
 
-
 ## Important aspects we should retain from here on
 
 ### Gods must have been real
+
 - **Neo-euhemerism:** From the French néo-évhémérisme which itself is a neologism of the idea derived by the Greek philosopher Εὐήμερος (Euḗmeros). Neo-euhemerism can be understood as the speculative conjecture where the gods and people of ancient mythological lore are indeed humanoid people, in particular extraterrestrial humanoid people.

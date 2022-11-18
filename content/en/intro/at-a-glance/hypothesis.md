@@ -18,6 +18,7 @@ If you made it this far, you most likely came here to familiarize yourself with 
 ## Opening considerations
 
 ### Nothing seems impossible and yet
+
 Astronomy is only so old. Inter-planetary space travel even younger. We seem to know everything. And yet, most of human history, we've been wrong. Let's not fall into the pitfall of bolstering too much hubris and let's be humble about our achievements in science and technology. Before the sensibly reasoned reader calls bullshit, let's remind ourselved how wrong that kind of thinking has got us in the past. Let's see for what things are, let's not claim fictional science (Sendy quote) is the same as actual scientific inquiry (Feyerabend). Whenever things seem unobstrusive, let's look at the bigger picture and go on from there.
 
 ### Life on Earth, where else

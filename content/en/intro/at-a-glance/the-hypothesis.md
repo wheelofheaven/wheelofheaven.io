@@ -35,7 +35,7 @@ Astronomy is only so old. Inter-planetary space travel even younger. We seem to 
 
 > The importance of the Drake Equation is not in the solving, but rather in the contemplation. It was written not for purposes of quantification at all, but rather as the agenda for the world's first SETI meeting, in Green Bank WV in 1961. It was quite useful for its intended application, which was to summarize all the various factors which scientists must contemplate when considering the question of other life.
 >
-> Dr. Frank Drake (http://www.setileague.org/askdr/drake.htm)
+> Dr. Frank Drake (from [Ask Dr. SETI | Chapter 3: Philosophy](http://www.setileague.org/askdr/drake.htm))
 
 ### Do we remember deep history?
 

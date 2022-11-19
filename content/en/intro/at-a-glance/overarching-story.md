@@ -13,6 +13,8 @@ weight: 130
 toc: true
 ---
 
+![Image](images/moodscape_03.jpg "moodscape_03")
+
 Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
 
 Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.

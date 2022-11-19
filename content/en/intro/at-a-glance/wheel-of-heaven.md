@@ -17,7 +17,6 @@ toc: true
 
 If you made it to this site, you may wonder what the whole fuzz is actually about. Wheel of Heaven, a web knowledge base for a seemingly fringe hypothesis? Namely that life on Earth was intelligently designed by an alleged extraterrestrial civilization capable of interstellar travel? Simply put, the answer to that question is a ressounding yes. Or more accurately, it-does-seem-that-way sort of modest yes that begs to ask further questions. This site considers itself a repository of informations predicated on the premise that life on Earth has a deliberate purpose, that the origins of sentient life can't conclusively be attributed to the disorganized doings of _whatever_ nor to the mere unwillingness of _chaos_. And more, that these truths are as much encoded in scriptures and artifacts still available to us, hailing from a remote past as they are kept at least partially intact and alive in the collective experience and preservation of religious traditions.
 
-
 Not only that, but Wheel of Heaven is a place where such a hypothesis is upheld and laid out, but where everyone is invited to immerse him or herself in this fascinating realm of inquisitive curiosity and consider the possibility of the very premises laid out on here to be congruent enough to elaborate and to contribute additional considerations, utlimately expanding the narrative even further.
 
 ## What you will find

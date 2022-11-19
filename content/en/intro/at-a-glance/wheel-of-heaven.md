@@ -42,4 +42,4 @@ We hope you enjoy your stay on Wheel of Heaven and even if you don't end up conv
 
 ## What's next
 
-So, it is time to take the plunge and see for ourselves what the fuzz is effectively about. [On to the hypothesis!]({{< ref "/intro/at-a-glance/hypothesis" >}})
+So, it is time to take the plunge and see for ourselves what the fuzz is effectively about. [On to the hypothesis!]({{< ref "/intro/at-a-glance/the-hypothesis" >}})

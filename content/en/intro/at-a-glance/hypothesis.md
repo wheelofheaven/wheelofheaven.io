@@ -17,6 +17,10 @@ If you made it this far, you most likely came here to familiarize yourself with 
 
 ## Opening considerations
 
+The idea here is to lay out a few considerations so we can slowly build up a framework of thought wherein we can properly navigate the very premises that follow therefrom. These considerations are not mere thought experiments, moreso foundational building blocks so you can properly be able to integrate the rumings upon which we can the whole narrative is based.
+
+Perhaps, this is a good moment to mention that while we seemingly build a case bottom-up so to speak, meaning that we derive conclusions upon a set of bodies of evidence, let us be clear here, that the overall narrative will only start to make sense and be congruent enough for the few of you that stick through once you've taken in the full spectrum of aspects. 
+
 ### Nothing seems impossible and yet
 
 Astronomy is only so old. Inter-planetary space travel even younger. We seem to know everything. And yet, most of human history, we've been wrong. Let's not fall into the pitfall of bolstering too much hubris and let's be humble about our achievements in science and technology. Before the sensibly reasoned reader calls bullshit, let's remind ourselved how wrong that kind of thinking has got us in the past. Let's see for what things are, let's not claim fictional science (Sendy quote) is the same as actual scientific inquiry (Feyerabend). Whenever things seem unobstrusive, let's look at the bigger picture and go on from there.
@@ -24,6 +28,10 @@ Astronomy is only so old. Inter-planetary space travel even younger. We seem to 
 ### Life on Earth, where else
 
 ### Vastness of space
+
+> The importance of the Drake Equation is not in the solving, but rather in the contemplation. It was written not for purposes of quantification at all, but rather as the agenda for the world's first SETI meeting, in Green Bank WV in 1961. It was quite useful for its intended application, which was to summarize all the various factors which scientists must contemplate when considering the question of other life.
+>
+> Dr. Frank Drake (http://www.setileague.org/askdr/drake.htm)
 
 ### Do we remember deep history?
 

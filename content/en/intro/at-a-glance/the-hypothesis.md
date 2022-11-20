@@ -37,6 +37,10 @@ Astronomy is only so old. Inter-planetary space travel even younger. We seem to 
 >
 > Dr. Frank Drake (from [Ask Dr. SETI | Chapter 3: Philosophy](http://www.setileague.org/askdr/drake.htm))
 
+In the same chapter, Dr. Franke Drake goes on to say the following sentence:
+
+> For the record, I consider the Drake Equation to be a marvelous tool for quantifying our ignorance.
+
 ### Do we remember deep history?
 
 ### What do the scriptures say?

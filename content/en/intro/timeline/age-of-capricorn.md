@@ -13,6 +13,8 @@ weight: 205
 toc: true
 ---
 
+![Image](images/moodscape_04.jpg "moodscape_04")
+
 The Age of Capricon is the first house that we're going to look at. Using the nominal period of 25'920 years for the precessional Year, we can determine the duration of one precessional Month to be exactly 2'190 years. That is the period of time durng which the rising Sun on the Vernal Equinox faces a given Zodiacal house on the ecliptic. The Age of Capricorn is therefore the precessional Month or the period of time during which the Sun rises in the Zodiacal image of the Capricorn constellation in its background during Spring Equinox.
 
 As with the orbital year defined by the Earth's revolution around it's central star, the Sun, which we deliberately divide into 12 segments (which in turn are derived from the orbital period of the Moon), so-called months, the precessional Year, the Great Year is also divided into 12 precessional Months, or Great Months. We call them Great because they're based on a larger and longer cycle than to what we're used to with the orbital year which takes some 365 days to resolve. That Great cycle is called Precession and is based on the steady change of the orientation of the rotational axis of our planet Earth. If you happen to have been unfamiliar with these astronomical concepts, don't worry, we are well aware that's a lot to take in. We're going to write a visual tutorial on the subject as we deem that this is an important key piece to the overall understanding of the narrative.
@@ -25,7 +27,7 @@ Have you ever seen Steven Spielberg's cult classic _Jurassic Park_ or any of its
 
 As with all suspensful movies, things go wrong, awfully wrong and several of these dinosaurs break free and create havoc whereever they go. The main protagonists somehow manage to stay alive and spectacularly emerge unharmed in each perilous encounter with one of the carnivorous species against all the odds. As the lone survivors, they get rescued by a dedicated extraction team at the end of the movie, a pattern that will remain a stable in the movie series' legacy (that counts 6 movies as of the time of the writing).
 
-The movie and its subsequent entries are known to have a skeptical stance towards scientific progress and the human hubris. This is no wonder as the movie is based on a 1990 novel of the same name written by a certain Michael Crichton. 
+The movie and its subsequent entries are known to have a skeptical stance towards scientific progress and the human hubris. This is no wonder as the movie is based on a 1990 novel of the same name written by a certain Michael Crichton.
 
 Here's the catch: What happened in the beginning of the Age of Capricorn could have been taken straight out of _Jurassic Park_.
 
@@ -39,9 +41,8 @@ Yahweh goes on and says:
 >
 > Since at that time, interplanetary and intergalactic explorations had also made progress, the scientists decided to set out for a distant planet where they could find most of the necessary conditions to pursue their experiments.
 
-In the 4rd movie installment of the Jurassic Park's franchise, _Jurassic World_ (2015), the lead female protagonist Claire Dearing mentions that another business venue supposedly as profitable as the dinosaur based theme parks is the space program. While the movie is purely fictional, this is an interesting detail. The story writers seem to agree that within the imaginary setting depicting a similary advanced society to ours it can be concluded congruent enough to assume that the development of genetic engineering can coincide with the development of space travel. One may be inclined to interject that the two premises are evidently square and must happen at the same time. Fair enough, but let us remind you that this sort of reasoning falls under the category of bias that come from historical myopia, or the tendency to forget how things used to be only a few decades ago. 
+In the 4rd movie installment of the Jurassic Park's franchise, _Jurassic World_ (2015), the lead female protagonist Claire Dearing mentions that another business venue supposedly as profitable as the dinosaur based theme parks is the space program. While the movie is purely fictional, this is an interesting detail. The story writers seem to agree that within the imaginary setting depicting a similary advanced society to ours it can be concluded congruent enough to assume that the development of genetic engineering can coincide with the development of space travel. One may be inclined to interject that the two premises are evidently square and must happen at the same time. Fair enough, but let us remind you that this sort of reasoning falls under the category of bias that come from historical myopia, or the tendency to forget how things used to be only a few decades ago.
 
 Right after the aforementioned passage, Yahweh goes on and adds:
 
 > They chose Earth where you live.
-

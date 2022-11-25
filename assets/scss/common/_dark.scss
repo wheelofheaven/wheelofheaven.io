@@ -324,6 +324,7 @@ $navbar-dark-active-color:          $link-color-dark;
 }
 
 [data-dark-mode] body blockquote {
+  background: $black;
   border-left: 3px solid $border-dark;
 }
 

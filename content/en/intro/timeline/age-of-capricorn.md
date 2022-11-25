@@ -35,7 +35,7 @@ Here's the catch: What happened in the beginning of the Age of Capricorn could h
 
 Yahweh goes on and says:
 
-> A very long time ago on our distant planet, we had reached a level of technical and scientific knowledge, comparable to that which you will soon reach. Our scientists had started to create primitive, embryonic forms of life, namely living cells in test tubes. Everyone was thrilled by this.'
+> A very long time ago on our distant planet, we had reached a level of technical and scientific knowledge, comparable to that which you will soon reach. Our scientists had started to create primitive, embryonic forms of life, namely living cells in test tubes. Everyone was thrilled by this.
 >
 > The scientists perfected their techniques and began creating bizarre little animals but the government, under pressure from public opinion, ordered the scientists to stop their experiments for fear they would create monsters, which would become dangerous to society. In fact one of these animals had broken loose and killed several people.
 >

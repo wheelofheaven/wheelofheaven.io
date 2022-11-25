@@ -26,7 +26,7 @@ $granny-smith-apple: #b9fbc0;
 
 $yellow:   $lemon-chiffon;
 $black:    #1d2d35;
-$beige:    $champagne-pink;
+$beige:    $baby-pink;
 
 // $red:      #e55235;
 $purple:   $mauve;
@@ -36,10 +36,11 @@ $blue-300: $magic-mint;
 $pink-100: $baby-pink;
 $pink-500: $pink-lavender;
 
-$primary: $magic-mint;
+// $primary: $magic-mint;
+$primary: $baby-pink;
 
 $color-btn-bg: $magic-mint;
-$color-btn-border: darken($magic-mint, 5%);
+$color-btn-border: darken($magic-mint, 25%);
 $color-btn-text: $white;
 
 // Options

@@ -1,7 +1,7 @@
 ---
 title: "Great Year"
 description: "Great Year"
-lead: "See Precession"
+lead: "Period of time of around 25'920 years"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

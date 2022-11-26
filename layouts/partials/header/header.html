@@ -93,25 +93,23 @@
   </nav>
 </header>
 
-{{ if eq .Section "wiki" -}}
+{{ if or (eq .Section "wiki") (eq .Section "intro") -}}
 <nav class="doks-subnavbar py-2 sticky-lg-top" aria-label="Secondary navigation">
   <div class="container-xxl d-flex align-items-md-center">
 
-    <!--
     <form class="doks-search position-relative flex-grow-1 me-auto">
-      <input id="search" class="form-control is-search" type="search" placeholder="Search docs..." aria-label="Search docs..." autocomplete="off">
+      <input id="search" class="form-control is-search" type="search" placeholder="Search (off)..." aria-label="Search (off).." autocomplete="off">
     </form>
-    -->
-    <!--
     <div id="docsearch" class="me-auto"></div>
-    -->
 
+    <!--
     <div class="d-inline-flex me-auto placeholder-glow">
       <div id="search-placeholder" aria-hidden="true">
         <a href="#" tabindex="-1" class="btn btn-light disabled placeholder"></a>
       </div>
       <div id="wikisearch"></div>
     </div>
+    -->
 
     {{ if eq .Site.Params.options.docsVersioning true -}}
     <div class="dropdown ms-3">
@@ -129,7 +127,9 @@
       </ul>
     </div>
     {{ else -}}
+    <!--
       <span class="navbar-text fs-6 d-none d-sm-block">v{{ $data := getJSON "https://raw.githubusercontent.com/h-enk/doks/master/package.json" }}{{ $data.version }}</span>
+    -->  
     {{ end -}}
 
     <button class="btn doks-sidebar-toggle d-lg-none ms-3 order-3 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#doks-docs-nav" aria-controls="doks-docs-nav" aria-expanded="false" aria-label="Toggle documentation navigation">

@@ -20,4 +20,3 @@ toc: true
 ### Infinity in time
 
 #### Swastika ࿕
-

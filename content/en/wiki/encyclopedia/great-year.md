@@ -52,4 +52,3 @@ As the precession of the equinoxes is thought to have been discovered {to be con
 [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})</br>
 [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
 [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>
-

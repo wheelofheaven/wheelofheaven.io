@@ -13,3 +13,8 @@ weight: 200
 toc: true
 ---
 
+### See also
+
+[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
+[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
+[Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})</br>

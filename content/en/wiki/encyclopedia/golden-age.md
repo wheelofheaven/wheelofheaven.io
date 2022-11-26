@@ -13,3 +13,6 @@ weight: 200
 toc: true
 ---
 
+### See also
+
+[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>

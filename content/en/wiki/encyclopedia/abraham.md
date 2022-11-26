@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-## In Raëlism 🔯
+### In Raëlism 🔯
 
 Abraham is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#the-sacrifice-of-abraham)), showcases the mentioning of Abraham:
 

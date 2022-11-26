@@ -13,3 +13,11 @@ weight: 200
 toc: true
 ---
 
+### Infinity in space
+
+#### Magen David ✡
+
+### Infinity in time
+
+#### Swastika ࿕
+

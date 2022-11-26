@@ -13,3 +13,6 @@ weight: 200
 toc: true
 ---
 
+### See also
+
+[Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})</br>

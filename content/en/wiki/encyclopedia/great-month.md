@@ -17,4 +17,6 @@ A Great Month is the amount of time it takes for the phenomonen of precession to
 
 ## See also
 
-[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
+[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})</br>
+[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
+[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>

@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-## In Raëlism 🔯
+### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, Genesis, where Eden is heavily implied being synonymous with the biblical paradise, says the following about this specific place:
 

@@ -1,7 +1,7 @@
 ---
 title: "Moses"
-description: "Moses"
-lead: "..."
+description: "Moses, a Biblical patriarch from the times of Exodus."
+lead: "A Biblical patriarch from the times of Exodus."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

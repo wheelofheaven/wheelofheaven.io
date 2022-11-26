@@ -1,7 +1,7 @@
 ---
 title: "Dhorme"
-description: "Dhorme, a French Bible translation lead by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966)."
-lead: "A French Bible translaton lead by the French Assyrologist and Semitologist Édouard Dhorme (1881-1966)."
+description: "Dhorme, a French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966) known for its literal translation style that kept the original meanings intact in the French language."
+lead: "A French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881-1966) known for its literal translation style that kept the original meanings intact in the French language."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

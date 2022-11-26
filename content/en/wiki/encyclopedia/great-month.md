@@ -15,4 +15,6 @@ toc: true
 
 A Great Month is the amount of time it takes for the phenomonen of precession to shift westwards by 30 degrees.
 
-[See Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}}) for more information.
+## See also
+
+[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})

@@ -1,7 +1,7 @@
 ---
 title : "Wheel of Heaven"
-description: "The democratization of the Age of Aquarius is here. Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-lead: "The democratization of the Age of Aquarius is here. Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "水瓶座の時代の民主化がここにあります。 Wheel of Heaven は、地球上の生命は地球外文明、いわゆるエロヒムによって知的に設計されたという作業理論に関する知識ベースです。"
+lead: "水瓶座の時代の民主化がここにあります。 Wheel of Heaven は、地球上の生命は地球外文明、いわゆるエロヒムによって知的に設計されたという作業理論に関する知識ベースです。</br> ⚠️ 免責事項: この翻訳は作成中です。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

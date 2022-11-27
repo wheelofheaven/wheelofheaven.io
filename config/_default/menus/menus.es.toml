@@ -1,21 +1,21 @@
 [[main]]
-  name = "はじめに"
+  name = "Intro"
   weight = 10
   identifier = "intro"
   url = "ja/intro/wheel-of-heaven/"
 
 [[main]]
-  name = "ウィキ"
+  name = "Wiki"
   url = "ja/wiki/wheel-of-heaven/"
   weight = 15
 
 [[main]]
-  name = "ブログ記事"
+  name = "Articles"
   url = "ja/articles/"
   weight = 20
 
 [[main]]
-  name = "資力"
+  name = "Resources"
   url = "ja/resources/"
   weight = 25
 
@@ -41,6 +41,6 @@
   weight = 20
 
 [[footer]]
-  name = "プライバシーポリシー"
+  name = "Privacy"
   url = "/privacy-policy/"
   weight = 10

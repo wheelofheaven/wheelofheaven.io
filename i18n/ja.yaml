@@ -1,17 +1,17 @@
 - id: get-started
-  translation: "Aan de slag"
+  translation: "もっと詳しく知る"
 
 - id: on-this-page
-  translation: "Op deze pagina"
+  translation: ""
 
 - id: search-text
-  translation: "Zoeken..."
+  translation: ""
 
 - id: 404-title
-  translation: "Pagina niet gevonden :("
+  translation: ""
 
 - id: 404-text
-  translation: "De gezochte pagina bestaat niet of deze is verplaatst."
+  translation: ""
 
 - id: browse
-  translation: "Browse"
+  translation: ""

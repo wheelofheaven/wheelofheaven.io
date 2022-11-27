@@ -2,21 +2,21 @@
   name = "Intro"
   weight = 10
   identifier = "intro"
-  url = "ja/intro/wheel-of-heaven/"
+  url = "fr/intro/wheel-of-heaven/"
 
 [[main]]
   name = "Wiki"
-  url = "ja/wiki/wheel-of-heaven/"
+  url = "fr/wiki/wheel-of-heaven/"
   weight = 15
 
 [[main]]
   name = "Articles"
-  url = "ja/articles/"
+  url = "fr/articles/"
   weight = 20
 
 [[main]]
   name = "Resources"
-  url = "ja/resources/"
+  url = "fr/resources/"
   weight = 25
 
 # [[social]]
@@ -41,6 +41,6 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy"
+  name = "Protection des données"
   url = "/privacy-policy/"
   weight = 10

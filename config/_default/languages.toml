@@ -18,10 +18,10 @@
   [de.params]
     languageISO = "DE"
     languageTag = "de-DE"
-titleAddition = ""
-    description = ""
+titleAddition = "Die Demokratisierung des Wassermannzeitalters ist hier."
+    description = "Die Demokratisierung des Wassermannzeitalters ist hier. Wheel of Heaven ist eine sogenannte Knowledge Base, welche die Arbeitsthese vertritt, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, geschaffen wurde."
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, und <a href=\"https://getdoks.org/\">Doks</a>"
  
 [es]
   languageName = "Español"
@@ -30,28 +30,28 @@ titleAddition = ""
   [es.params]
     languageISO = "ES"
     languageTag = "es-ES"
-titleAddition = ""
-    description = ""
+titleAddition = "La democratización de la Era de Acuario está aquí."
+    description = "La democratización de la Era de Acuario está aquí. Wheel of Heaven es una knowledge base alrededor de la teoría de trabajo de que la vida en la tierra fue diseñada de manera inteligente por una civilización extraterrestre, el llamado Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, y <a href=\"https://getdoks.org/\">Doks</a>"
     
 
 [fr]
   languageName = "Français"
   contentDir = "content/fr"
-  weight = 15
+  weight = 25
   [fr.params]
     languageISO = "FR"
     languageTag = "fr-FR"
-titleAddition = ""
-    description = ""
+titleAddition = "La démocratisation de l'Âge du Verseau est là."
+    description = "La démocratisation de l'Âge du Verseau est là. Wheel of Heaven est une knowledge base autour de la théorie de travail selon laquelle la vie sur terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, et <a href=\"https://getdoks.org/\">Doks</a>"
       
 [ja]
   languageName = "日本語"
   contentDir = "content/ja"
-  weight = 35
+  weight = 30
   [ja.params]
     languageISO = "JA"
     languageTag = "ja-JA"
@@ -64,24 +64,24 @@ titleAddition = ""
 [ru]
   languageName = "Pусский"
   contentDir = "content/ru"
-  weight = 15
+  weight = 35
   [ru.params]
     languageISO = "RU"
     languageTag = "ru-RU"
-titleAddition = ""
-    description = ""
+titleAddition = "Демократизация эпохи Водолея здесь."
+    description = "Демократизация эпохи Водолея здесь. Wheel of Heaven-это база знаний вокруг рабочей теории, что жизнь на Земле была разумно разработана внеземной цивилизацией, так называемым Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ в Швейцарии c<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, и <a href=\"https://getdoks.org/\">Doks</a>"
     
 [zh]
   languageName = "中文"
   contentDir = "content/zh"
-  weight = 15
+  weight = 40
   [zh.params]
     languageISO = "ZH"
     languageTag = "zh-CN"
-titleAddition = ""
-    description = ""
+titleAddition = "水瓶座时代的民主化就在这里。"
+    description = "水瓶座时代的民主化就在这里。 天堂是围绕着工作理论的知识基础，即地球上的生命是由外星文明智能设计的，即所谓的埃洛因（Elohim）。"
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "使用<a href=\"https://github.com/wheelofheaven/\">Github</a>，<a href=\"https://www.getzola.org/\">Zola</a> 和 <a href=\"https://getdoks.org/\">Doks</a> 在瑞士制造♥"
  

@@ -1,22 +1,22 @@
 [[main]]
-  name = "Intro"
+  name = "внесение"
   weight = 10
   identifier = "intro"
-  url = "ja/intro/wheel-of-heaven/"
+  url = "ru/intro/wheel-of-heaven/"
 
 [[main]]
-  name = "Wiki"
-  url = "ja/wiki/wheel-of-heaven/"
+  name = "Вики"
+  url = "ru/wiki/wheel-of-heaven/"
   weight = 15
 
 [[main]]
-  name = "Articles"
-  url = "ja/articles/"
+  name = "Статьи"
+  url = "ru/articles/"
   weight = 20
 
 [[main]]
-  name = "Resources"
-  url = "ja/resources/"
+  name = "Ресурсы"
+  url = "ru/resources/"
   weight = 25
 
 # [[social]]
@@ -41,6 +41,6 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy"
+  name = "Правила защиты данных"
   url = "/privacy-policy/"
   weight = 10

@@ -1,22 +1,22 @@
 [[main]]
-  name = "Intro"
+  name = "介绍"
   weight = 10
   identifier = "intro"
-  url = "ja/intro/wheel-of-heaven/"
+  url = "zh/intro/wheel-of-heaven/"
 
 [[main]]
-  name = "Wiki"
-  url = "ja/wiki/wheel-of-heaven/"
+  name = "维基"
+  url = "zh/wiki/wheel-of-heaven/"
   weight = 15
 
 [[main]]
-  name = "Articles"
-  url = "ja/articles/"
+  name = "博客文章"
+  url = "zh/articles/"
   weight = 20
 
 [[main]]
-  name = "Resources"
-  url = "ja/resources/"
+  name = "资源"
+  url = "zh/resources/"
   weight = 25
 
 # [[social]]
@@ -41,6 +41,6 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy"
+  name = "数据保护法规"
   url = "/privacy-policy/"
   weight = 10

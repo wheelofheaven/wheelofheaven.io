@@ -1,22 +1,22 @@
 [[main]]
-  name = "Intro"
+  name = "Introducción"
   weight = 10
   identifier = "intro"
-  url = "ja/intro/wheel-of-heaven/"
+  url = "es/intro/wheel-of-heaven/"
 
 [[main]]
   name = "Wiki"
-  url = "ja/wiki/wheel-of-heaven/"
+  url = "es/wiki/wheel-of-heaven/"
   weight = 15
 
 [[main]]
-  name = "Articles"
-  url = "ja/articles/"
+  name = "Artículos"
+  url = "es/articles/"
   weight = 20
 
 [[main]]
-  name = "Resources"
-  url = "ja/resources/"
+  name = "Recursos"
+  url = "es/resources/"
   weight = 25
 
 # [[social]]
@@ -41,6 +41,6 @@
   weight = 20
 
 [[footer]]
-  name = "Privacy"
+  name = "Protección de datos"
   url = "/privacy-policy/"
   weight = 10

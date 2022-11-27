@@ -1,0 +1,15 @@
+---
+title: "Bible"
+description: "Bible, a set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again."
+lead: "A set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again."
+date: 2022-09-20T00:00:00+00:00
+lastmod: 2022-09-20T00:00:00+00:00
+draft: false
+images: []
+menu:
+  wiki:
+    parent: "Wiki"
+weight: 200
+toc: true
+---
+

@@ -8,7 +8,7 @@
     titleAddition = "The democratization of the Age of Aquarius is here."
     description = "The democratization of the Age of Aquarius is here. Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>, <a href=\"https://www.getzola.org/\" target="_blank">Zola</a>, and <a href=\"https://getdoks.org/\" target="_blank">Doks</a>"
     alertText = ""
 
 [de]
@@ -21,7 +21,7 @@
 titleAddition = "Die Demokratisierung des Wassermannzeitalters ist hier."
     description = "Die Demokratisierung des Wassermannzeitalters ist hier. Wheel of Heaven ist eine sogenannte Knowledge Base, welche die Arbeitsthese vertritt, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, geschaffen wurde."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, und <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>, <a href=\"https://www.getzola.org/\" target="_blank">Zola</a>, und <a href=\"https://getdoks.org/\" target="_blank">Doks</a>"
  
 [es]
   languageName = "Español"
@@ -33,7 +33,7 @@ titleAddition = "Die Demokratisierung des Wassermannzeitalters ist hier."
 titleAddition = "La democratización de la Era de Acuario está aquí."
     description = "La democratización de la Era de Acuario está aquí. Wheel of Heaven es una knowledge base alrededor de la teoría de trabajo de que la vida en la tierra fue diseñada de manera inteligente por una civilización extraterrestre, el llamado Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, y <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>, <a href=\"https://www.getzola.org/\" target="_blank">Zola</a>, y <a href=\"https://getdoks.org/\" target="_blank">Doks</a>"
     
 
 [fr]
@@ -46,7 +46,7 @@ titleAddition = "La democratización de la Era de Acuario está aquí."
 titleAddition = "La démocratisation de l'Âge du Verseau est là."
     description = "La démocratisation de l'Âge du Verseau est là. Wheel of Heaven est une knowledge base autour de la théorie de travail selon laquelle la vie sur terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, et <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>, <a href=\"https://www.getzola.org/\" target="_blank">Zola</a>, et <a href=\"https://getdoks.org/\" target="_blank">Doks</a>"
       
 [ja]
   languageName = "日本語"
@@ -58,7 +58,7 @@ titleAddition = "La démocratisation de l'Âge du Verseau est là."
     titleAddition = "水瓶座の時代の民主化がここにあります。" 
     description = "水瓶座の時代の民主化がここにあります。 Wheel of Heaven は、地球上の生命は地球外文明、いわゆるエロヒムによって知的に設計されたという作業理論に関する知識ベースです。"
     titleHome = "Wheel of Heaven"
-    footer = "<a href=\"https://github.com/wheelofheaven/\">Github</a>、<a href=\"https://www.getzola.org/\">Zola</a>、<a href=\"https://getdoks.org/\">Doks</a> を使用してスイスで ♥ で作成"
+    footer = "<a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>、<a href=\"https://www.getzola.org/\" target="_blank">Zola</a>、<a href=\"https://getdoks.org/\" target="_blank">Doks</a> を使用してスイスで ♥ で作成"
     alertText = ""
 
 [ru]
@@ -71,7 +71,7 @@ titleAddition = "La démocratisation de l'Âge du Verseau est là."
 titleAddition = "Демократизация эпохи Водолея здесь."
     description = "Демократизация эпохи Водолея здесь. Wheel of Heaven-это база знаний вокруг рабочей теории, что жизнь на Земле была разумно разработана внеземной цивилизацией, так называемым Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ в Швейцарии c<a href=\"https://github.com/wheelofheaven/\">Github</a>, <a href=\"https://www.getzola.org/\">Zola</a>, и <a href=\"https://getdoks.org/\">Doks</a>"
+    footer = "Made with ♥ в Швейцарии c<a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>, <a href=\"https://www.getzola.org/\" target="_blank">Zola</a>, и <a href=\"https://getdoks.org/\" target="_blank">Doks</a>"
     
 [zh]
   languageName = "中文"
@@ -83,5 +83,5 @@ titleAddition = "Демократизация эпохи Водолея здес
 titleAddition = "水瓶座时代的民主化就在这里。"
     description = "水瓶座时代的民主化就在这里。 天堂是围绕着工作理论的知识基础，即地球上的生命是由外星文明智能设计的，即所谓的埃洛因（Elohim）。"
     titleHome = "Wheel of Heaven"
-    footer = "使用<a href=\"https://github.com/wheelofheaven/\">Github</a>，<a href=\"https://www.getzola.org/\">Zola</a> 和 <a href=\"https://getdoks.org/\">Doks</a> 在瑞士制造♥"
+    footer = "使用<a href=\"https://github.com/wheelofheaven/\" target="_blank">Github</a>，<a href=\"https://www.getzola.org/\" target="_blank">Zola</a> 和 <a href=\"https://getdoks.org/\" target="_blank">Doks</a> 在瑞士制造♥"
  

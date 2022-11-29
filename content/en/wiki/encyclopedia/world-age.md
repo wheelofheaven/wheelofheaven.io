@@ -33,7 +33,6 @@ The following table shows the last precessional cycle starting with the Age of A
 | 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, analysis |
 | ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void      |
 
-
 ### See also
 
 [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})</br>

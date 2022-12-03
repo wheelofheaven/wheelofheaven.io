@@ -33,4 +33,5 @@ The second book by Raël, also a written testimony of another encounter with Yah
 [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
 
 ### External links
+
 [Download The Message | rael.org](https://www.rael.org/downloads/)

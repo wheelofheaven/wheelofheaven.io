@@ -33,4 +33,5 @@ The first book by Raël, the written testimony of his first several encounters w
 [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
 
 ### External links
+
 [Download The Message | rael.org](https://www.rael.org/downloads/)

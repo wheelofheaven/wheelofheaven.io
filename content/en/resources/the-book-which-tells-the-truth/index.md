@@ -23,4 +23,6 @@ The first book by Raël, the written testimony of his first several encounters w
 
 ![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
 
+Read it for yourself here:
+
 📖 [Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)

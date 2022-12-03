@@ -30,6 +30,7 @@ The following table shows the an exhaustive list of religions. The list contains
 | ...                   |                   |                            |                           |                             |
 
 ### List of prophets
+
 {tbd}
 
 ### See also

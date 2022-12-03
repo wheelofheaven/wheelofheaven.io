@@ -20,3 +20,9 @@ toc: true
 ### Infinity in time
 
 #### Swastika ࿕
+
+### See also
+
+[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
+[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})

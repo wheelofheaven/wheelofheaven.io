@@ -38,4 +38,4 @@ The interlaced Swastika within the Raëlian symbol of infinity represents cyclic
 
 If you want to learn more about what the Raëlian symbol of infinity means and what the Raëlian religion teaches, then you're in the right place as we at Wheel of Heaven research the very premises of Raëlism as the only existing embodiment of a system of thought that asserts that the Creation myth of Genesis AND the non-existence of an immaterial god as equally true.
 
-Start with [our introduction into Wheel of Heaven and its premises!]({{< relref "intro/wheel-of-heaven.md" >}})</br>
+Start with [our introduction into Wheel of Heaven and its premises!]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})</br>

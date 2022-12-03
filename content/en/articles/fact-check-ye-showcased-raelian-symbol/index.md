@@ -6,7 +6,7 @@ date: 2022-12-03T00:00:00+00:00
 lastmod: 2022-12-03T00:00:00+00:00
 draft: false
 weight: 50
-images: []
+images: ["fact-check-ye.jpg"]
 categories: ["News"]
 tags: ["wheel-of-heaven", "religious", "ancient-alients", "kanye-west", "ye", "swastika", "magen-david", "star-of-david", "infinity", "lovespeech", "raelism"]
 contributors: ["Zara Zinsfuss"]

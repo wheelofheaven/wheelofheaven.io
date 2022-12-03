@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: ["fact-check.jpg"]
 categories: ["News"]
-tags: ["wheel-of-heaven", "religious", "ancient-alients", "kanye-west", "ye", "swastika", "magen-david", "star-of-david", "infinity", "lovespeech", "raelism"]
+tags: ["wheel-of-heaven", "religious", "ancient-alients", "kanye-west", "ye", "swastika", "magen-david", "star-of-david", "infinity", "lovespeech", "raëlism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

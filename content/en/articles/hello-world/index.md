@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: ["hello-world.jpg"]
 categories: ["News"]
-tags: ["introduction", "get-started", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raelism"]
+tags: ["introduction", "get-started", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

@@ -18,3 +18,13 @@ contributors: [""]
 types: ["Website"]
 topics: ["religion", "mythology", "archive"]
 ---
+
+### Description
+
+The following excerpt was directly taken from John B. Hare's website (from his [FAQ](https://www.sacred-texts.com/faq.htm)):
+
+> This site strives to produce the best possible transcriptions of public domain texts on the subject of religion, mythology, folklore and the esoteric. The texts are posted for free access on the Internet. This site is like a public library: it is accessible to anyone, contains unfiltered information, and does not advocate any particular point of view. However, nobody is going to shush you if you make too much noise while using this site.
+
+### See also
+
+[Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})</br>

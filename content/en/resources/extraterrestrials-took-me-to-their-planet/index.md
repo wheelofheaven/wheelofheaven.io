@@ -23,6 +23,14 @@ The second book by Raël, also a written testimony of another encounter with Yah
 
 ![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
 
-Read it for yourself here:
+### Read it for yourself
 
 📖  [Rael II — Extraterrestrials Took Me To Their Planet](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/)
+
+### See also
+
+[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
+[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+
+### External links
+[Download The Message | rael.org](https://www.rael.org/downloads/)

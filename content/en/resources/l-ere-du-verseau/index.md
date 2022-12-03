@@ -23,4 +23,14 @@ A non-fiction book about the Aquarian Age and how that relates to the possibilit
 
 ![Image](images/l-ere-du-verseau-book.jpg "L'Ère du Verseau, 1970 — Jean Sendy")
 
+### Read it for yourself
+
 📖  [L'Ère du Verseau, la Fin de l'Illusion Humaniste](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
+
+### See also
+
+[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+
+### External links
+
+[L'Ère du Verseau: Fin de l'Illusion Humaniste | Google Books](https://books.google.ch/books/about/L_%C3%A8re_du_Verseau.html)

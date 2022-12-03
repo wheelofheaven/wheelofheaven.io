@@ -6,7 +6,7 @@ date: 2022-12-03T00:00:00+00:00
 lastmod: 2022-12-03T00:00:00+00:00
 draft: false
 weight: 50
-images: ["fact-check-ye.jpg"]
+images: ["fact-check-ye.*"]
 categories: ["News"]
 tags: ["wheel-of-heaven", "religious", "ancient-alients", "kanye-west", "ye", "swastika", "magen-david", "star-of-david", "infinity", "lovespeech", "raelism"]
 contributors: ["Zara Zinsfuss"]
@@ -15,6 +15,12 @@ homepage: false
 ---
 
 "Love everyone. #lovespeech" was Ye's accompanying tweet saying. The emblematic symbol combining the Shield of David and the Swastika represents infinity in the Raëlian theology. Indeed a symbol that colloquially equated with love among Raëlians.
+
+### Ye's Tweet
+
+On the 2nd of December 2022, Ye posted the following Tweet on Twitter:
+
+![Image](images/ye-tweet-raelian-symbol.jpg "ye-tweet-raelian-symbol.jpg")
 
 ### Fact
 

@@ -9,7 +9,7 @@
     description = "The democratization of the Age of Aquarius is here. Wheel of Heaven is a knowledge base around the working theory that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
     titleHome = "Wheel of Heaven"
     footer = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, and <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
-    alertText = "Welcome to Wheel of Heaven. Please note this website is still improved on a daily basis. 😊"
+    alertText = "Welcome to Wheel of Heaven. Please note this website is being still improved on a daily basis. 😊"
 
 [de]
   languageName = "Deutsch"

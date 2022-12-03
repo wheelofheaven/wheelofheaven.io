@@ -12,3 +12,16 @@ menu:
 weight: 200
 toc: true
 ---
+
+### See also
+
+[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+
+### Read more
+
+[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
+[Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})</br>
+
+### External links
+
+[Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)

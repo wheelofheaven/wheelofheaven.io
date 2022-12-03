@@ -18,9 +18,11 @@ homepage: false
 
 ### Ye's Tweet
 
-On the 2nd of December 2022, Ye posted the following Tweet on Twitter:
+Yesterday, on the 2nd of December 2022, Ye posted the following Tweet on Twitter:
 
 ![Image](images/ye-tweet-raelian-symbol.jpg "ye-tweet-raelian-symbol.jpg")
+
+This is interesting as it may be the first time that a well-known celebrity showcases the Raëlian symbol so obviously so that one may ask what this may actually represent.  
 
 ### Fact
 

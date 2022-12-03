@@ -62,7 +62,7 @@ imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
 defaultImage = "wheel-of-heaven-banner.jpg" # put in `./assets/images/`
-fillImage = "1270x740 Center" # normalize image size
+fillImage = "900x507 Center" # normalize image size
 
 # Footer
 footer = "Powered by <a class=\"text-muted\" href=\"https://github.com/wheelofheaven/\">Github</a>, <a class=\"text-muted\" href=\"https://getzola.org/\">Zola</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"

@@ -15,6 +15,6 @@ toc: true
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
+[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>
+[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>

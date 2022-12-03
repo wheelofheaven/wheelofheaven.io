@@ -23,6 +23,6 @@ toc: true
 
 ### See also
 
-[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
-[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
+[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>
+[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>

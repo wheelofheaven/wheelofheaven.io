@@ -15,6 +15,6 @@ toc: true
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
+[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
+[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>

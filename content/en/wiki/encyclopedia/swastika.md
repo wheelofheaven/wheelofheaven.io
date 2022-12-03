@@ -15,6 +15,6 @@ toc: true
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
-[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
+[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
+[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>

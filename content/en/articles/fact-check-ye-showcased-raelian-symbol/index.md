@@ -14,7 +14,7 @@ pinned: false
 homepage: false
 ---
 
-"Love everyone. #lovespeech" was Ye's accompanying tweet saying. The emblematic symbol combining the Shield of David and the Swastika represents infinity in the Raëlian theology. Indeed a symbol that colloquially equated with love among Raëlians.
+Ye recently posted a tweet that got him banned (again) from Twitter. Superifically, it looks a lot like some sort of provocation, that is tweeting a picture featuring what appears to be combining two seemingly opposing symbols. Two symbols that carry heavy historical connotations. "Love everyone. #lovespeech" wrote Ye alongside his provoking tweet. What one may not know however (and what Ye himself may have not known either) is that this intertwined synthetization of two ostensibly unrelated, opposing symbols was not a new creation by Ye or someone affiliated. This symbol has already been in use for some time. The merging of the Shield of David and the Swastika represents infinity in the Raëlian theology. Indeed a symbol that colloquially equated with love among Raëlians. While Raëlian claim that symbol as their religious emblem, they are also very clear about its origin, namely that they haven't invented it either, but it is deeply entrenched in our historical past and has been used by multiple important civilizations a long time ago.
 
 ### Ye's Tweet
 

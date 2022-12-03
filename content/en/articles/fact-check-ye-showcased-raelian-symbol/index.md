@@ -30,4 +30,14 @@ Yes, the screenshot portraying a computer screen showing an open Adobe Photoshop
 
 ### Explanation
 
-In the Raëlian theology, more specifically Raëlian cosmology, what we commonly refer as to the universe is considered infinite in its scale, infinite space without any relevant borders. Space doesn't end where we think it does, it keeps on being bigger and larger than any we can image. Infinity of space so to speak. Not only that, but space consitsts multiple levels of scale. If the entirey of our known universe is part of an even bigger being, then that scale of existence is higher up so to speak. If that is true for the highest scale, it would be conducive to consider the very same analogy to work for the smallest scales. And indeed, for Raëlians, we are these larger beings for much smaller worlds living in a scale even smaller than sub-atomic particles. As above so below goes the Hermetic saying which takes a new dimension within Raëlian theology. This relationship between smaller and larger scales of existence is the very meaning of the Star of David.
+In the Raëlian theology, more specifically Raëlian cosmology, what we commonly refer as to the universe is considered infinite in size and in scale: infinite space without any relevant borders. Space doesn't end where we think it does, it keeps on being bigger and larger than any we can image. Infinity of space so to speak. Not only that, but space consitsts multiple levels of scale. If the entirey of our known universe is part of an even bigger being, then that scale of existence is higher up so to speak. If that is true for the highest scale, it would be conducive to consider the very same analogy to work for the smallest scales. And indeed, for Raëlians, we are these larger beings for much smaller worlds living in a scale even smaller than sub-atomic particles. As above so below goes the Hermetic saying which takes a new dimension within Raëlian theology. This relationship between smaller and larger scales of existence is the very meaning of the Star of David.
+
+The interlaced Swastika within the Raëlian symbol of infinity represents cyclical nature of an infinite timeline. Combined together, Magen David representing the infinity of space, "as above, so below" and the Swastika representing the infinity of time are utlimately symbolizing the infity of time and space. 
+
+### Dive deeper
+
+If you want to learn more about what the Raëlian symbol of infinity means and what the Raëlian religion teaches, then you're in the right place as we at Wheel of Heaven research the very premises of Raëlism as the only existing embodiment of a system of thought that asserts that the Creation myth of Genesis AND the non-existence of an immaterial god as equally true.
+
+Start with [our introduction into Wheel of Heaven and its premises!]({{< relref "intro/wheel-of-heaven.md" >}})</br>
+
+

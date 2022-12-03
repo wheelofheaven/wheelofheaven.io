@@ -14,7 +14,7 @@ weight: 310
 toc: false
 pinned: false
 featured: false
-contributors: ["Zara Zinsfuss"]
+contributors: [""]
 types: ["Website"]
 topics: ["religion", "mythology", "archive"]
 ---

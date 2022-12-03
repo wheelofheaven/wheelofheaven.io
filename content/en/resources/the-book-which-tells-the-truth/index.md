@@ -14,7 +14,7 @@ weight: 210
 toc: false
 pinned: true
 featured: false
-contributors: ["Zara Zinsfuss"]
+contributors: [""]
 types: ["Maintained Books"]
 topics: ["canon", "ancient-aliens", "gitbooks"]
 ---

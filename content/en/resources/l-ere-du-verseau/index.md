@@ -14,7 +14,7 @@ weight: 240
 toc: false
 pinned: false
 featured: false
-contributors: ["Zara Zinsfuss"]
+contributors: [""]
 types: ["Maintained Books"]
 topics: ["ancient-aliens", "age-of-aquarius", "precession", "great-year", "gitbooks"]
 ---

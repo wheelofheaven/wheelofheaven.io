@@ -14,7 +14,7 @@ weight: 320
 toc: false
 pinned: false
 featured: false
-contributors: ["Zara Zinsfuss"]
+contributors: [""]
 types: ["Books"]
 topics: ["elohim", "ancient-aliens", "gitbooks"]
 ---

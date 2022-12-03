@@ -14,7 +14,7 @@ weight: 230
 toc: false
 pinned: false
 featured: false
-contributors: ["Zara Zinsfuss"]
+contributors: [""]
 types: ["Maintained Books"]
 topics: ["mythology", "age-of-aquarius", "precession", "great-year", "builder-race", "gitbooks"]
 ---

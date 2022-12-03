@@ -42,7 +42,7 @@
 			{{ end -}}
 			<h2>Website</h2>
 			<ul>
-				<li><a href="{{ .Params.link }}">{{ strings.TrimPrefix "https://" .Params.link }}</a></li>
+				<li><a href="{{ .Params.link }}" target="_blank">{{ strings.TrimPrefix "https://" .Params.link }}</a></li>
 			</ul>
 			<!-- {{ partial "main/edit-page.html" . }} -->
 			{{ partial "main/docs-navigation.html" . }}

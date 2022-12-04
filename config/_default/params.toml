@@ -12,19 +12,18 @@ description = "The democratization of the Age of Aquarius is here. Wheel of Heav
 ## Open Graph
 images = ["wheel-of-heaven.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
 titleHome = "Wheel of Heaven"
 
 ## Twitter Cards
-twitterSite = ""
-twitterCreator = ""
+twitterSite = "wheelofheaven"
+twitterCreator = "wheelofheaven"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Wheel of heaven"
 schemaAuthor = "Zara Zinsfuss"
-schemaAuthorTwitter = ""
+schemaAuthorTwitter = "zarazinsfuss"
 schemaAuthorLinkedIn = ""
 schemaAuthorGitHub = "https://github.com/zarazinsfuss/"
 schemaLocale = "en-US"

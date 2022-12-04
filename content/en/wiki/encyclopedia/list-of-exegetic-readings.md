@@ -19,7 +19,7 @@ The following table shows the majority of words that can be read with a neo-euhe
 
 | Word                  | Exegesis                                                | Source                                         |
 |-----------------------|---------------------------------------------------------|------------------------------------------------|
-| Genesis               | A half a Great Year long project to render Earth suitable to life, to synthetize life on Earth which ultimately cumulated in the effort to create the Human species of which are all part of today. | | 
+| Genesis               | A half a Great Year long project to render Earth suitable to life, to synthetize life on Earth which ultimately cumulated in the effort to create the Human species of which are all part of today. | |
 | Noah's Ark            | A life-preserving project cumulating in a Earth orbiting space craft containing all genetic information of all Earthly living beings. | |
 | Star of David         | Elohimian symbol representing infinity of space, more particularly the equivalence of macroscopic and microsopic scales of existence. | |
 | Swastika              | Elohimian symbol representing infinity of time, more precisely the eternal cyclical nature of time. | |

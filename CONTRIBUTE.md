@@ -17,12 +17,11 @@ The primary language of content creation is English. All content is therefore wr
 
 We use a static page generator that generate html markup language from markdown markup language. These files contain the content written in English that need to be translated. Open one of these content files that you want to translate. If it doesn't exist, create it with the same naming as in English. Commit the change through git and open a pull request which we're going to approve if the translations are meeting our requirements of quality.
 
-
 ### Content structure
 
 The project is structured in the way as the Hugo static page generator expects it to be. There are some additionnal directories that are of now interest in terms of content translation and/or editing. All content is found in the `content` directory in the root folder. Inside that `content` directories, all the languages are to be found.
 
-```
+```text
  content/
 ├──  de
 │  ├──  _index.md

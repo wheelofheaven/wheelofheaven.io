@@ -24,7 +24,7 @@
 {{ if gt $image.Width site.Params.smallLimit -}}
   <figure class="figure">
     <img class="figure-img img-fluid lazyload blur-up" data-sizes="auto" src="{{ $lqip.Permalink }}" data-srcset="{{ $imgSrcSet }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .Title }}">
-    <noscript><img class="figure-img img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .Title }}"></noscript>sdsdskd
+    <noscript><img class="figure-img img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .Title }}"></noscript>
     <!-- {{ with .Title }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end -}} -->
   </figure>
 {{ else -}}

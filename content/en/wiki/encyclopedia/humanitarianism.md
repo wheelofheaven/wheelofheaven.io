@@ -50,9 +50,9 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 
 ### External links
 
-[Humanitarnism | Wikipedia](https://en.wikipedia.org/wiki/Humanitarianism)
-[Homaranismo | Wikipedia](https://en.wikipedia.org/wiki/Homaranismo)
-[Left-libertarianism #Peter-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)
-[Jubilee | Wikipedia](https://en.wikipedia.org/wiki/Jubilee_(biblical))
-[Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)
-[Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)
+[Humanitarnism | Wikipedia](https://en.wikipedia.org/wiki/Humanitarianism)</br>
+[Homaranismo | Wikipedia](https://en.wikipedia.org/wiki/Homaranismo)</br>
+[Left-libertarianism #Peter-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)</br>
+[Jubilee | Wikipedia](https://en.wikipedia.org/wiki/Jubilee_(biblical))</br>
+[Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)</br>
+[Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)</br>

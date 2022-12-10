@@ -20,12 +20,25 @@ The following table shows the an exhaustive list of religions. The list contains
 | Religion              | Historical period | Prophet(s)                 | Theological notions       | Authenticity (approximated) |
 |-----------------------|-------------------|----------------------------|---------------------------|-----------------------------|
 | Räelism               | 1973–today        | Claude Vorhilon (Raël)     | Infinity, religious syncretism, polytheistic atheism | canonical |
+| Eckankar              | 1965-today        | Paul Twitchell             |                           | unlikely                    |
+| Wicca                 | 1953-today        | Gerald Gardner             |                           | unlikely                    |
 | Caodism (Đạo Cao Đài) | 1921–today        | Ngô Văn Chiêu              |                           | highly likely               |
+| Thelema               | 1900-today        | Aleister Crowley           |                           | highly unlikely             |
 | Ōmoto (大本)          | 1892–today        | Nao Deguchi (出口 なお)    |                           | highly likely               |
+| Tenrikyō (天理教)     | 1834-today        | Nakayama Mik (中山 みき)   |                           | highly likely               |
 | Mormonism             | 1830–today        | Joseph Smith               | Exoplanet, tangible gods  | canonical                   |
 | Bahá'í Faith          | 1819–today        | Báb, 'Abdu'l-Bahá          | Unity, religious syncretism | highly likely             |
+| Sikhism               | 15th ce-today     | Bābā Nānak                 |                           | likely                      |
 | al-ʾIslām             | 7th ce–today      | Muhammad                   |                           | canonical                   |
 | Christianity          | 1st ce–today      | Jesus Christ               |                           | canonical                   |
+| Shintō                | 3th bce-today     | -                          |                           | likely                      |
+| Taoism                | 4th bce-today     | Laozi (老子)               |                           | likely                      |
+| Buddhism              | 5th bce-today     | Siddhārtha Gautama         |                           | canonical                   |
+| Judaism               | 6th bce-today     | Moses                      |                           | canonical                   |
+| Zoroastrianism        | 7th bce-7th ce    | Zarathustra                |                           | highly likely               |
+| Hinduism              | 7th bce-today     | -                          |                           | highly likely               |
+| Jainism               | 9th bce-today     | Parshva et al.             |                           | highly likely               |
+| Sabaeans (Harran)     | 12th bce-7th ce   | Idris/Thoth                |                           | highly likely               |
 | ...                   |                   |                            |                           |                             |
 
 ### List of prophets

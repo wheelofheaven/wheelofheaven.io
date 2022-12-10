@@ -38,4 +38,4 @@ For now, we have very little uptime costs, howver if you feel inclined to contri
 
 ---
 
-Made with ♥ in Switzerland using Github, Zola, Doks and mdBook.
+_Made with ♥ in Switzerland using [Github](https://github.com), [Zola](https://www.getzola.org/), [Doks](https://getdoks.org/) and [mdBook](https://rust-lang.github.io/mdBook/)_

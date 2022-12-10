@@ -1,7 +1,7 @@
 ---
 title: "Humanitarianism"
-description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
+description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
+lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -15,7 +15,7 @@ toc: true
 
 ### In todays usage
 
-Humanitarianism is not a neologism, but has been in use for a while now. It proposes the belief that puts the human and humanity as a collective in the center of moralistic thinking.
+Humanitarianism as a notion is not a new invention, but has been in use for a while now. It proposes the belief that puts the human and humanity as a collective in the center of moralistic thinking.
 
 Quoting the current article about Humanitarniasm on Wikipedia:
 > Humanitarianism is an informal ideology of practice; it is "the doctrine that people's duty is to promote human welfare".
@@ -52,7 +52,7 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 
 [Humanitarnism | Wikipedia](https://en.wikipedia.org/wiki/Humanitarianism)</br>
 [Homaranismo | Wikipedia](https://en.wikipedia.org/wiki/Homaranismo)</br>
-[Left-libertarianism #Peter-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)</br>
+[Left-libertarianism › Steiner-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)</br>
 [Jubilee | Wikipedia](https://en.wikipedia.org/wiki/Jubilee_(biblical))</br>
 [Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)</br>
 [Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)</br>

@@ -33,4 +33,4 @@ A non-fiction book about the Aquarian Age and how that relates to the possibilit
 
 ### External links
 
-[L'Ère du Verseau: Fin de l'Illusion Humaniste | Google Books](https://books.google.ch/books/about/L_%C3%A8re_du_Verseau.html)
+[L'Ère du Verseau: Fin de l'Illusion Humaniste | Google Books](https://books.google.ch/books/about/L_%C3%A8re_du_Verseau.html)</br>

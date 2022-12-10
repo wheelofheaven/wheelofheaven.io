@@ -17,7 +17,7 @@ toc: true
 
 Saṃsāra (Sanskrit: संसार, Pali: saṃsāra; also samsara) in Buddhism and Hinduism is the beginningless cycle of repeated birth, mundane existence and dying again.[1] Samsara is considered to be dukkha, suffering, and in general unsatisfactory and painful,[2] perpetuated by desire and avidya (ignorance), and the resulting karma.
 
-#### The Wheel of Life (Bhavacakra) 
+#### The Wheel of Life (Bhavacakra)
 
 The bhavacakra (Sanskrit: भवचक्र; Pāli: bhavacakka; Tibetan: སྲིད་པའི་འཁོར་ལོ, Wylie: srid pa'i 'khor lo) is a symbolic representation of saṃsāra (or cyclic existence). It is found on the outside walls of Tibetan Buddhist temples and monasteries in the Indo-Tibetan region, to help non Buddhists understand Buddhist teachings. It is used in Indian Buddhism and Tibetan Buddhism.
 

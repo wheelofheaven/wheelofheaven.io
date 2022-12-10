@@ -15,7 +15,6 @@ toc: true
 
 ### In Raëlism 🔯
 
-
 According to the _Book Which Tells The Truth_, Second Chapter Truth, Genesis, where Eden is heavily implied being synonymous with the biblical paradise, says the following about this specific place:
 
 > The team located in the country you now call Israel, which at the time was not far from Greece and Turkey on the original continent, was composed of brilliant creators who were perhaps the most talented team of all.

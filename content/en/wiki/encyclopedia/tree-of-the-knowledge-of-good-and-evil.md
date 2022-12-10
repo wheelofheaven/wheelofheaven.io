@@ -1,7 +1,7 @@
 ---
 title: "Tree of the Knowledge of Good and Evil"
-description: "Tree of Life, a scientific body of knowledge on how to provide the technological means to achieve eternal life, more specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-lead: "A scientific body of knowledge on how to provide the technological means to achieve eternal life, more specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
+description: "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therin."
+lead: "A Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therin."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

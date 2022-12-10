@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### In Raëlism
+### In Raëlism 🔯
 
 According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter Paradise on Earth, Yahweh says the following about the potential of establishing an Earthly paradise in the image of the Elohim's home planet:
 

@@ -24,4 +24,5 @@ The New Commandments are constituted of the following aspects:
 
 ### See also
 
+[Wiki › Geniocracy]({{< relref "wiki/encyclopedia/geniocracy.md" >}})</br>
 [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})</br>

@@ -1,7 +1,7 @@
 ---
 title: "Humanitarianism"
-description: "Humanitarniasm, a socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
+description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
+lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately beneffing talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -55,4 +55,3 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 [Jubilee | Wikipedia](https://en.wikipedia.org/wiki/Jubilee_(biblical))
 [Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)
 [Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)
-

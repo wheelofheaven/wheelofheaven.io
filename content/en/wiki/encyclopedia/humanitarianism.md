@@ -14,6 +14,7 @@ toc: true
 ---
 
 ### In todays usage
+
 Humanitarianism is not a neologism, but has been in use for a while now. It proposes the belief that puts the human and humanity as a collective in the center of moralistic thinking.
 
 Quoting the current article about Humanitarniasm on Wikipedia:

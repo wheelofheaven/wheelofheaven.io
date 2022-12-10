@@ -22,36 +22,36 @@ We use a static page generator that generate html markup language from markdown 
 The project is structured in the way as the Hugo static page generator expects it to be. There are some additionnal directories that are of now interest in terms of content translation and/or editing. All content is found in the `content` directory in the root folder. Inside that `content` directories, all the languages are to be found.
 
 ```text
- content/
-├──  de
-│  ├──  _index.md
-│  └──  intro
-├──  en
-│  ├──  _index.md
-│  ├──  articles
-│  ├──  contact
-│  ├──  contributors
-│  ├──  intro
-│  ├──  privacy-policy
-│  ├──  resources
-│  ├──  topics
-│  ├──  types
-│  └──  wiki
-├──  es
-│  ├──  _index.md
-│  └──  intro
-├──  fr
-│  ├──  _index.md
-│  └──  intro
-├──  ja
-│  ├──  _index.md
-│  └──  intro
-├──  ru
-│  ├──  _index.md
-│  └──  intro
-└──  zh
-   ├──  _index.md
-   └──  intro
+📁 content/
+├── 📁 de
+│  ├── 📄 _index.md
+│  └── 📁 intro
+├── 📁 en
+│  ├── 📄 _index.md
+│  ├── 📁 articles
+│  ├── 📁 contact
+│  ├── 📁 contributors
+│  ├── 📁 intro
+│  ├── 📁 privacy-policy
+│  ├── 📁 resources
+│  ├── 📁 topics
+│  ├── 📁 types
+│  └── 📁 wiki
+├── 📁 es
+│  ├── 📄 _index.md
+│  └── 📁 intro
+├── 📁 fr
+│  ├── 📄 _index.md
+│  └── 📁 intro
+├── 📁 ja
+│  ├── 📄 _index.md
+│  └── 📁 intro
+├── 📁 ru
+│  ├── 📄 _index.md
+│  └── 📁 intro
+└── 📁 zh
+   ├── 📄 _index.md
+   └── 📁 intro
 ```
 
 As mentioned earlier, English is the blueprint so to speak for all content that needs to be translated. Therefore, if a given content file in the `content/en/` subdirectory needs to be translated, then the very same content file needs to be present (if it doesn't exist at the time of translsation, create it in the very same structure and naming convention) in the target language subdirectory, ie. `content/de/`.

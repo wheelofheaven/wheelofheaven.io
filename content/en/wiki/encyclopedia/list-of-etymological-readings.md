@@ -23,10 +23,9 @@ The following table shows the majority of words that can be read etymologically:
 | Apocalypse            | ἀποκάλυψις apokálupsis (Ancient Greek)                  | Uncovering, revelation                         |
 | Eloha                 | אֱלוֹהַּ ʾĔlōah (Biblical Hebrew)                           | A Powerful One                                 |
 | Elohim                | אֱלֹהִים ʾĔlōhīm (Biblical Hebrew)                         | Plural of Eloha, the Powerful One              |
-| Lucifer               | Lūcifer (Latin), from lūx (“light”) + ferō (“carry”)    | The one who carries light, morning star, Venus | 
+| Lucifer               | Lūcifer (Latin), from lūx (“light”) + ferō (“carry”)    | The one who carries light, morning star, Venus |
 | Satan                 | שָׂטָן śāṭān (Biblical Hebrew)                             | The obstructor, the accuser                    |
 | Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the Eternal One                     |
-
 
 ### See also
 

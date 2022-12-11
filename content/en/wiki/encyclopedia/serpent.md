@@ -38,7 +38,6 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh exp
 [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
 [Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})</br>
 
-
 ### External links
 
 [Serpent in the Bible | Wikipedia](https://en.wikipedia.org/wiki/Serpents_in_the_Bible)

@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### In Raëlism
+### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahweh explicitly mentions the Tower of Babel and says the following about its specific purpose:
 

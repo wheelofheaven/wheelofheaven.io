@@ -13,6 +13,13 @@ weight: 200
 toc: true
 ---
 
+### Techno-utopia
+
+Paradism can be contextualized in the contemporary dialogue with consideration to following aspects:
+- Post-scarcity economy
+- Technological determinism
+- Transhumanism
+
 ### In Raëlism 🔯
 
 According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter Paradise on Earth, Yahweh says the following about the potential of establishing an Earthly paradise in the image of the Elohim's home planet:
@@ -33,6 +40,7 @@ According to the second book _Extraterrestrials Took Me To Their Planet_, Chapte
 
 ### External links
 
+[Post-scarcity economy | Wikipedia](https://en.wikipedia.org/wiki/Post-scarcity_economy)</br>
 [Paradism | Spin-off organization of Raëlism](https://paradism.org/)</br>
 [Fully Automated Luxury Individualist Anarchism | Edmund Berger article](https://thelibertarianideal.com/2017/03/06/fully-automated-luxury-individualist-anarchism/)</br>
 [Fully Automated Luxury Communism | Wikipedia](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)</br>

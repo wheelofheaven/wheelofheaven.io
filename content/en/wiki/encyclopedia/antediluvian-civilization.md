@@ -1,7 +1,7 @@
 ---
-title: "Eden"
-description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth."
-lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth."
+title: "Antediluvian civilization"
+description: ""
+lead: ""
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -27,9 +27,8 @@ Out of the seven creator teams, one industrious and talented team that happened 
 
 ### See also
 
-[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
 [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
 
 ### External links
 
-[Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
+[Antediluvian | Wikipedia](https://en.wikipedia.org/wiki/Antediluvian)

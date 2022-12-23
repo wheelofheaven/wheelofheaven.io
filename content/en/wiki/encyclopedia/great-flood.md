@@ -13,3 +13,12 @@ weight: 200
 toc: true
 ---
 
+### See also
+
+[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
+[Wiki › Noah's Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})</br>
+[Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
+
+### External links
+
+[Flood myth | Wikipedia](https://en.wikipedia.org/wiki/Flood_myth)

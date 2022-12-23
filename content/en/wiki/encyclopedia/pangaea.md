@@ -17,5 +17,10 @@ The name pangaea is neologism of modern times and does not come from a line of t
 
 ### See also
 
+[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
 [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})</br>
 [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
+
+### External links
+
+[Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)

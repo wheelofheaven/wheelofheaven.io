@@ -17,7 +17,7 @@ toc: true
 
 The following table lists an extensive enumeration of known megalithic sites:
 
-| Site name                   | Location                                | Excavation status | Archeoastronimcal alignment(s)        |
+| Site name                   | Location                                | Excavation status | Archaeoastronomical alignment(s)        |
 |-----------------------------|-----------------------------------------|-------------------|---------------------------------------|
 | Baalbek temple complex      | Beqaa Valley, Libanon                   |                   |                                       |
 | Giza pyramid complex        | Near the city of Giza, Egypt            |                   |                                       |

@@ -16,6 +16,7 @@ toc: true
 ### Techno-utopia
 
 Paradism can be contextualized in the contemporary dialogue with consideration to following aspects:
+
 - Post-scarcity economy
 - Technological determinism
 - Transhumanism

@@ -24,6 +24,9 @@ The following table shows the majority of words that can be read etymologically:
 | Eloha                 | אֱלוֹהַּ ʾĔlōah (Biblical Hebrew)                           | A Powerful One                                 |
 | Elohim                | אֱלֹהִים ʾĔlōhīm (Biblical Hebrew)                         | Plural of Eloha, the Powerful One              |
 | Lucifer               | Lūcifer (Latin), from lūx (“light”) + ferō (“carry”)    | The one who carries light, morning star, Venus |
+| Kabbalah              |                                                         | Tradition                                      |
+| Ra-el                 | Ra, El                                                  | Light of the El, of the Elohim                 |
+| Prophet               |                                                         | Representative                                 |
 | Satan                 | שָׂטָן śāṭān (Biblical Hebrew)                             | The obstructor, the accuser                    |
 | Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the Eternal One                     |
 

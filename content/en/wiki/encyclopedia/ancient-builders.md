@@ -20,3 +20,6 @@ toc: true
 [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
 [Wiki › Sacred Geometry]({{< relref "wiki/encyclopedia/sacred-geometry.md" >}})</br>
 [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
+
+### External links
+

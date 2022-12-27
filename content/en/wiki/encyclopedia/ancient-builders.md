@@ -22,4 +22,3 @@ toc: true
 [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
 
 ### External links
-

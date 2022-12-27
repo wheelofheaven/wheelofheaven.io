@@ -18,7 +18,6 @@ toc: true
 [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
 [Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})</br>
 
-
 ### External links
 
 [Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)

@@ -19,16 +19,17 @@ The following table shows the majority of words that can be read etymologically:
 
 | Word                  | Etymology                                               | Meaning                                        |
 |-----------------------|---------------------------------------------------------|------------------------------------------------|
-| Angel                 | ἄγγελος angelos (Late Greek)                            | Messenger                                      |
+| Angel                 | ἄγγελος angelos (Late Greek)                            | The messenger                                  |
 | Apocalypse            | ἀποκάλυψις apokálupsis (Ancient Greek)                  | Uncovering, revelation                         |
-| Eloha                 | אֱלוֹהַּ ʾĔlōah (Biblical Hebrew)                           | A Powerful One                                 |
-| Elohim                | אֱלֹהִים ʾĔlōhīm (Biblical Hebrew)                         | Plural of Eloha, the Powerful One              |
+| Eloha                 | אֱלוֹהַּ ʾĔlōah (Biblical Hebrew)                           | A powerful one                                 |
+| Elohim                | אֱלֹהִים ʾĔlōhīm (Biblical Hebrew)                         | Plural of Eloha, the powerful ones             |
+| Kabbalah              | קַבָּלָה kabalá (Hebrew)                                    | Something received, tradition                  |
 | Lucifer               | Lūcifer (Latin), from lūx (“light”) + ferō (“carry”)    | The one who carries light, morning star, Venus |
-| Kabbalah              |                                                         | Tradition                                      |
-| Ra-el                 | Ra, El                                                  | Light of the El, of the Elohim                 |
-| Prophet               |                                                         | Representative                                 |
+| Messiah               | מָשִׁיחַ māšīyaḥ (Hebrew)                                   | The anointed one                               |
+| Ra-el                 | rꜥ ra (Proto-Afroasiatic), 𐤀𐤋 *ʔil- el (Proto-Semitic)  | Sun of the El, light of the Elohim             |
+| Prophet               | προφήτης prophḗtēs (Greek)                              | He who speaks on behalf of, representative     |
 | Satan                 | שָׂטָן śāṭān (Biblical Hebrew)                             | The obstructor, the accuser                    |
-| Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the Eternal One                     |
+| Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the eternal one                     |
 
 ### See also
 

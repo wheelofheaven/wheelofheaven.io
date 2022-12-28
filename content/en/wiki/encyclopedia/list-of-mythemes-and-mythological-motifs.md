@@ -19,11 +19,11 @@ The following table shows the majority of well-established, well-known mythemes 
 
 | Motif                     | Motif-Index | Myth(s)                                                | Reading                          |
 |---------------------------|-------------|--------------------------------------------------------|----------------------------------|
-| Serpent-slaying battle    | | Zeus vs. Typhon (Greek) <br /> Thor vs. Jörmungandr (Norse) <br /> Baʿal vs. Yam (Canaanite) <br /> Marduk vs. Tiamat (Babylonian) <br /> Ra vs. Apep (Egyptian) <br /> Quetzalcoatl vs. Cipactli (Aztec) <br /> Yu the Great vs. Xiangliu or Gong Gong (Chinese) <br /> Benzaiten vs. Gozuryu (Japanese Buddhism) <br /> Lac Long Quan vs. Ngu Tinh (Vietnamese mythology) | Victory over the Elohimian Serpent (Leviathan)      | 
+| Serpent-slaying battle    | | Zeus vs. Typhon (Greek) <br /> Thor vs. Jörmungandr (Norse) <br /> Baʿal vs. Yam (Canaanite) <br /> Marduk vs. Tiamat (Babylonian) <br /> Ra vs. Apep (Egyptian) <br /> Quetzalcoatl vs. Cipactli (Aztec) <br /> Yu the Great vs. Xiangliu or Gong Gong (Chinese) <br /> Benzaiten vs. Gozuryu (Japanese Buddhism) <br /> Lac Long Quan vs. Ngu Tinh (Vietnamese mythology) | Victory over the Elohimian Serpent (Leviathan)      |
 | Creation of man from clay | Genesis 2:7 (Judeo-Christian) <br /> Qur'an 23:12 (Islamic) <br /> Enki and Enlil (Sumerian) <br /> Khnum (Egyptian) <br /> | Genetic engineering of mankind with basic source chemicals |
 | Creation myth             | | | |
-| Creator from above        | A21   | | | 
-| Flood myth                | A10XX | | | 
+| Creator from above        | A21   | | |
+| Flood myth                | A10XX | | |
 | Primordial chaos          | | | |
 | Sky father                | A210  | | |
 | Theft of fire             | A1415 | | |

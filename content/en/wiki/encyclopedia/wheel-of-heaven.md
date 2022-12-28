@@ -29,7 +29,7 @@ The knowledge base is a web presence that provides all the information and data 
 
 ### Continous development
 
-The latest developments in web technology make it progressively more accesible to build and host independent web content platforms. Wheel of Heaven makes extensive use of various open source technologies to provide the most integrated and most efficient developer experience. To this end, content management and content itself is hosted as various git projects which generate static web pages which in turn are hosted on the Github CDN. Everyone is invited to contribute to the Wheel of Heaven project to provide an even better user and developer experience. 
+The latest developments in web technology make it progressively more accesible to build and host independent web content platforms. Wheel of Heaven makes extensive use of various open source technologies to provide the most integrated and most efficient developer experience. To this end, content management and content itself is hosted as various git projects which generate static web pages which in turn are hosted on the Github CDN. Everyone is invited to contribute to the Wheel of Heaven project to provide an even better user and developer experience.
 
 ### Meaning of Wheel of Heaven
 
@@ -37,7 +37,7 @@ Wheel of Heaven is a direct reference to the precessional cycle of 25'920 years.
 
 The units of the precessional cycle are called Great Months and we name each of these Great Months after the Zodiacal sign under which the sun is rising on the vernal equinox. Since 1950, while the sun is still rising in the sign of Pisces on the vernal equinox, we have entered the Age of Aquarius as the Great Month of the Age of Pisces lasted for 2'160 years and finished in 1950. That's why many say that we live in a new age, the Aquarian age. The Wheel of Heaven therefore points to the importance of precessional world ages and that it cannot be mere coincidence that world transforming events happened at the very passing from one world age to the next one.
 
-The Wheel of Heaven, besides being a direct reference to an astronimical cycle that can be perceived in the heavens above us, as it happens, is also a more obscure reference to spherical spacecrafts, allegedly belonging to the Celestials describted at the outset. Such a spacecraft may have been observed by the infamous Egyptian pharao Akhenaton. He described a fiery spaceship in the shape of a flat disk that appeared to him and asked him to build a new capital city which he shall name Armana. The Egyptians recorded the object that Akhenaton had seen and simply named it the Wheel of Heaven. 
+The Wheel of Heaven, besides being a direct reference to an astronimical cycle that can be perceived in the heavens above us, as it happens, is also a more obscure reference to spherical spacecrafts, allegedly belonging to the Celestials describted at the outset. Such a spacecraft may have been observed by the infamous Egyptian pharao Akhenaton. He described a fiery spaceship in the shape of a flat disk that appeared to him and asked him to build a new capital city which he shall name Armana. The Egyptians recorded the object that Akhenaton had seen and simply named it the Wheel of Heaven.
 
 ### See also
 

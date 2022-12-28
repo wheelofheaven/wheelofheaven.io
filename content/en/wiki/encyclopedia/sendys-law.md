@@ -15,7 +15,7 @@ toc: true
 
 ### The Logic of the Biblical Text
 
-In his 1970 book, The Coming of the Gods, Jean Sendy writes the following about what conditions need to be met to make introduce his exegetical reading into the Bible:
+In his 1970 book, The Coming of the Gods, Jean Sendy writes the following about what conditions need to be met in order to introduce his exegetical reading onto the Bible:
 
 > To make the Biblical text appear with the relief and coherence of a hologram, there are four conditions to be met: first, you must know the Bible; second, you must know the possibilities and limitations of astronautics within the framework of today's physics; third, you must have some clear and recent knowledge, even if it is elementary, of biology, prehistory, history, and evolution; and fourth, you must reject any "explanation by the inexplicable", that is, any intrusion of the supernatural.
 >

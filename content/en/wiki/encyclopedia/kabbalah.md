@@ -1,7 +1,7 @@
 ---
 title: "Kabbalah"
-description: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. It's major written work in known as the Zohar."
-lead: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. It's major written work in known as the Zohar."
+description: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. Its major written work in known as the Zohar."
+lead: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. Its major written work in known as the Zohar."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

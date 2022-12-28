@@ -13,3 +13,12 @@ weight: 200
 toc: true
 ---
 
+### See also
+
+[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
+[Wiki › Sendy\'s law]({{< relref "wiki/encyclopedia/sendys-law.md" >}})</br>
+
+### External links
+
+[Euhemerism | Wikipedia](https://en.wikipedia.org/wiki/Euhemerism)</br>
+[néo-évhémérisme | Wiktionary \[FR\]](https://fr.wiktionary.org/wiki/n%C3%A9o-%C3%A9vh%C3%A9m%C3%A9risme)

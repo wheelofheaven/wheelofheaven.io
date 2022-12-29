@@ -17,6 +17,7 @@ toc: true
 
 [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
 [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+[Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})</br>
 [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
 
 ### Read more

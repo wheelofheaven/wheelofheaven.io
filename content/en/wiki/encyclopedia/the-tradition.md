@@ -16,6 +16,7 @@ toc: true
 ### See also
 
 [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
+[Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})</br>
 [Wiki › Kabbalah]({{< relref "wiki/encyclopedia/kabbalah.md" >}})</br>
 
 ### External links

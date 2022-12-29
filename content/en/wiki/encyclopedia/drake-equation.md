@@ -15,7 +15,7 @@ toc: true
 
 ### Equation
 
-The Drake euqation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way Galaxy. 
+The Drake euqation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way Galaxy.
 
 In resolving the equation, the number of civilizations in the Milky way galaxy whose electromagnetic emmisions are detectable $N$ is the product of all factors that contribute to the likelihood of existence of such civilizations.
 
@@ -41,7 +41,7 @@ Where the contributing factors are (in order):
 
 - $L$: The average length of time such civilizations produce such signs (years)
 
-### Usefuleness 
+### Usefuleness
 
 In an interview, Drake says the following about the purpose of the equation as a thought experiment:
 

@@ -127,7 +127,19 @@ The following table shows the majority of close encounters that have been report
 | Bright white ball of light    | 1193 June     | London, England      | |
 | Five Moons in formation       | 1200 December | Yorkshire, England   | |
 | Mystical light, visitation    | 1224 September 14 | Mount Alverne, Italy | |
-| Lights, and an 'angel' brings a cross | 1232 May 3 | Caravaca, Spain | | 
+| Lights, and an 'angel' brings a cross | 1232 May 3 | Caravaca, Spain | |
+| Circling lights in the sky    | 1235 October 2 | Japan               | |
+| A fleet of seven lights       | 1237          | El Puig, Valencia    | |
+| A great light ascending       | 1239 July 24  | France               | |
+| Flying light, seen for an hour | 1252         | Padua, Italy         | |
+| A battle of stars             | 1253 October 14 | England            | |
+| Saved from execution by a flying sphere | 1271 September 12 | Japan  | |
+| A light enters the bedroom of a sick man | 1273 | Naples, Italy      | |
+| Strange events seen at dawn   | 1277 June 3     | China              | |
+| A duel of stars               | Ca. 1284        | Parma, Saint Ruffino, Italy | |
+| Red shining object            | 1294 August 3   | Japan              | |
+| Two flying dragons fall into a lake | 1295 May  | I Hing, China      | |
+| Globes of light and an elliptical object | 1296 September 8 | Loreto, Italy | |
 
 ### See also
 

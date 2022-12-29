@@ -15,7 +15,7 @@ toc: true
 
 ### See also
 
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
+[Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})</br>
 
 ### External links
 

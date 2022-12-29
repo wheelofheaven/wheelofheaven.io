@@ -15,4 +15,8 @@ toc: true
 
 ### See also
 
+[Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})</br>
 [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})</br>
+[Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
+[Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})</br>
+[Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})</br>

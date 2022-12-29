@@ -1,7 +1,8 @@
 ---
 title: "Mazzaroth"
 description: "Mazzaroth | The Alpha and the Omage Web Site"
-lead: "mazzaroth.com | Mazzaroth | The Alpha and the Omega Web Site"
+lead: ""
+author: "Jim A. Cornwell"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["religion", "mythology", "mazzaroth", "precession", "gospel-in-the-stars", "archive"]
+topics: ["Archive", "Gosepl in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 
 ### Description

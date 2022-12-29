@@ -1,7 +1,8 @@
 ---
 title: "The Book Which Tells The Truth"
-description: "Raël / Claude Vorhilon — The Book Which Tells The Truth (1973)"
-lead: "Raël / Claude Vorhilon (1973)"
+description: "Claude Vorhilon aka Raël — The Book Which Tells The Truth (1973)"
+lead: ""
+author: "Claude Vorhilon (aka Raël)"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: true
 featured: false
 contributors: [""]
 types: ["Maintained Books"]
-topics: ["canon", "ancient-aliens", "gitbooks"]
+topics: ["Ancient Astronauts", "Canon", "Elohim", "Intelligent Design", "Neo-Euhemerism"]
 ---
 
 The first book by Raël, the written testimony of his first several encounters with Yahweh.

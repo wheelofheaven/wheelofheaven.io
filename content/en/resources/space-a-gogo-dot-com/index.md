@@ -1,7 +1,8 @@
 ---
 title: "Space a Go Go"
 description: "Space a Go Go (archived) | Web site"
-lead: "www.spaceagogo.com (archived) | Web site"
+lead: ""
+author: "Toyama"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["elohim", "pyramids", "intelligent-design", "ancient-aliens", "raëlism", "archive"]
+topics: ["Ancient Astronauts", "Intelligent Design", "Neo-Euhemerism", "Pyramids", "Raëlism"]
 ---
 
 ### Description

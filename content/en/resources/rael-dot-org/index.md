@@ -1,7 +1,8 @@
 ---
 title: "Rael.org"
 description: "Rael.org: The true origin of life on Earth: Extraterrestrials created us in their image"
-lead: "rael.org | The true origin of life on Earth: Extraterrestrials created us in their image"
+lead: ""
+author: "Raëlian Movement"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["religion", "raëlism", "intelligent-design", "ancient-aliens", "canon", "elohim"]
+topics: ["Ancient Astronauts", "Canon", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism"]
 ---
 
 ### Description

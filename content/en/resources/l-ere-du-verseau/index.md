@@ -1,7 +1,8 @@
 ---
 title: "L'Ère du Verseau: la Fin de l'Illusion Humaniste"
 description: "Jean Sendy — L'Ère du Verseau: la Fin de l'Illusion Humaniste (1970)"
-lead: "Jean Sendy (1970)"
+lead: ""
+author: "Jean Sendy"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Maintained Books"]
-topics: ["ancient-aliens", "age-of-aquarius", "precession", "great-year", "gitbooks"]
+topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession"]
 ---
 
 A non-fiction book about the Aquarian Age and how that relates to the possibility of the biblical creation myth being extraterrestrial in nature.
@@ -25,7 +26,7 @@ A non-fiction book about the Aquarian Age and how that relates to the possibilit
 
 ### Read it for yourself
 
-📖  [L'Ère du Verseau, la Fin de l'Illusion Humaniste](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
+📖  [L\'Ère du Verseau, la Fin de l\'Illusion Humaniste](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
 
 ### See also
 
@@ -33,4 +34,4 @@ A non-fiction book about the Aquarian Age and how that relates to the possibilit
 
 ### External links
 
-[L'Ère du Verseau: Fin de l'Illusion Humaniste | Google Books](https://books.google.ch/books/about/L_%C3%A8re_du_Verseau.html)</br>
+[L\'Ère du Verseau: Fin de l\'Illusion Humaniste | Google Books](https://books.google.ch/books/about/L_%C3%A8re_du_Verseau.html)</br>

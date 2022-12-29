@@ -1,7 +1,8 @@
 ---
 title: "The Pillar of Enoch"
-description: "The Pillar of Enoch Web Site"
-lead: "pillar-of-enoch.com | The Pillar of Enoch Web Site"
+description: "pillar-of-enoch.com | The Pillar of Enoch Web Site"
+lead: 
+author: "Helena Lehman"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["religion", "mythology", "mazzaroth", "precession", "gospel-in-the-stars", "archive"]
+topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "The Tradition", "Precession"]
 ---
 
 ### Description

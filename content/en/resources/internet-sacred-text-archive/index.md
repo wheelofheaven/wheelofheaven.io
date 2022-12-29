@@ -1,7 +1,8 @@
 ---
 title: "Internet Sacred Text Archive"
-description: "Internet Sacred Text Archive"
-lead: "www.sacred-texts.com | ISTA - Internet Sacred Text Archive"
+description: "www.sacred-texts.com | ISTA - Internet Sacred Text Archive"
+lead: ""
+author: "John B. Hare"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -16,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["religion", "mythology", "archive"]
+topics: ["Archive", "Mythology", "Religion", "The Tradition"]
 ---
 
 ### Description

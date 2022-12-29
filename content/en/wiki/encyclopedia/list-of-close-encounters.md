@@ -170,7 +170,7 @@ The following table shows the majority of close encounters that have been report
 | Great ship in the air         | 1465 February 19 | Italy             | |
 | Dark object, sound of a spinning wheel | 1468 March 8 | Mount Kasuga, Japan | |
 | Luminous object with cotton-like substance | 1477 September 27 | Japan | |
-| Two flying objects during a war | 1478 |        | Milan, Italy       | |
+| Two flying objects during a war | 1478          | Milan, Italy       | |
 | Sharply pointed beam rocket   | 1479            | Arabia             | |
 | A dazzling object stops a battle | 1482 October 18 | Albisola, Savona, Italy | |
 | Floating cartwheel in the sky | 1487 August     | Forli, Italy       | |

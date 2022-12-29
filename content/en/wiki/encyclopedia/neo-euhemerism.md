@@ -16,7 +16,7 @@ toc: true
 ### See also
 
 [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Sendy\'s law]({{< relref "wiki/encyclopedia/sendys-law.md" >}})</br>
+[Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})</br>
 
 ### External links
 

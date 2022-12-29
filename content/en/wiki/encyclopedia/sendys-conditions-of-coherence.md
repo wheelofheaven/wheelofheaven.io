@@ -1,6 +1,6 @@
 ---
-title: "Sendy's law"
-description: "Sendy's law, a set of conditions that need to be met in order to allow for an exegetical reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
+title: "Sendy's conditions of coherence"
+description: "Sendy's conditions of coherence, a set of conditions that need to be met in order to allow for an exegetical reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
 lead: "A set of conditions that need to be met in order to allow for an exegetical reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00

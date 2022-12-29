@@ -140,6 +140,46 @@ The following table shows the majority of close encounters that have been report
 | Red shining object            | 1294 August 3   | Japan              | |
 | Two flying dragons fall into a lake | 1295 May  | I Hing, China      | |
 | Globes of light and an elliptical object | 1296 September 8 | Loreto, Italy | |
+| Globes of light and an elliptical object | 1299 December 24 | Trier, Germany | |
+| Luminous phenomenon over a burial site | 1320 | Durham, Saint Leonard, England | |
+| A pillar of red flame         | 1322 November 4 | Uxbridge, England  | |
+| Low-flying cigar-shaped objects at the time of the Black Plague | Ca. 1347 | Florence, Italy | |
+| Two shining objects clash     | 1349 July 20    | Japan              | |
+| Enigma of descruction         | 1355 February 5 | Suzhou, Jiangsu, China | |
+| Armies and towers in the sky  | 1360 Summer     | England and France | |
+| Drum-like object emerges from the sea | 1361    | Yamaguti, Japan    | |
+| Roaming, flashing globe       | Ca. 1382 February | Paris, France    | |
+| Two lights watch over holy relics | 1384        | Caravaca, Spain    | |
+| Three lights join as one      | 1385 July 15    | London and Dover, England | |
+| Revolving wheel in the sky    | 1387 October 14 | Leicester and Derbyshire, England | |
+| Unknown creatures flying aboard a fiery object | 1390 | Bologna, Italy | |
+| Light descending, ascending   | 1390 January 26 | Messina, Sicily, Italy | |
+| Another wheel-shaped object   | 1394 Winter     | England            | |
+| Huge celestial object         | 1394 September 2 | Forli, Italy      | |
+| Aerial combat                 | 1395            | Languedoc, France  | |
+| Flying formation              | 1408 September 16 | Rome, Italy      | |
+| The lady in the light         | 1420 July 2     | Castle Godego, Treviso, Italy | |
+| Celestial object              | 1428 March 3    | Forli, Italy       | |
+| Luminous globe                | 1433 January 5  | Nice, France       | |
+| Unexplained golden globes of light | 1444 June  | Bibbena, Arezzo, Italy | |
+| Light from the sky during siege | 1453 May 29   | Istanbul, Turkey   | |
+| Four wonderful stars          | 1456 December   | Piacenza, Italy    | |
+| Five stars circle the moon    | 1458 March 7    | Kyoto, Japan       | |
+| Many lights, seen twice       | 1461 October    | Metz, France       | |
+| Hovering object of burning steel | 1461 November 1 | Arras, France   | |
+| Great ship in the air         | 1465 February 19 | Italy             | |
+| Dark object, sound of a spinning wheel | 1468 March 8 | Mount Kasuga, Japan | |
+| Luminous object with cotton-like substance | 1477 September 27 | Japan | |
+| Two flying objects during a war | 1478 |        | Milan, Italy       | |
+| Sharply pointed beam rocket   | 1479            | Arabia             | |
+| A dazzling object stops a battle | 1482 October 18 | Albisola, Savona, Italy | |
+| Floating cartwheel in the sky | 1487 August     | Forli, Italy       | |
+| A figure rises in the air     | 1491            | Vladimir, Russia   | |
+| Summoning the aliens          | 1491 August 13  | Milan, Italy       | |
+| The light seen by Columbus    | 1492 October 11 | Guanahany, Bahamas | |
+| Three suns at night           | 1494            | Apulia, Italy      | |
+| Umbrella-shaped object        | 1498 September 20 | Japan            | |
+| The slow-moving light seen by Pedro Cabral | 1499 | South Atlantic, off Africa | |
 
 ### See also
 

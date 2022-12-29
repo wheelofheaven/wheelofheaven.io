@@ -56,7 +56,7 @@ In the same chapter, Drake goes on to say the following about the equation being
 ### See also
 
 [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})</br>
-[Wiki › Sendy\'s law]({{< relref "wiki/encyclopedia/sendys-law.md" >}})</br>
+[Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})</br>
 
 ### External links
 

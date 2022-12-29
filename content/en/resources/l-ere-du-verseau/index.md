@@ -31,6 +31,8 @@ A non-fiction book about the Aquarian Age and how that relates to the possibilit
 ### See also
 
 [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+[Resources › The Coming Of The Gods by Jean Sendy]({{< relref "resources/the-coming-of-the-gods/_index.md" >}})</br>
+[Resources › Those Gods Who Made Heaven and Earth by Jean Sendy]({{< relref "resources/those-gods-who-made-heaven-and-earth/_index.md" >}})</br>
 
 ### External links
 

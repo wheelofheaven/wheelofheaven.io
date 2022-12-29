@@ -1,5 +1,5 @@
 ---
-title: "The Scars of Eden"
+title: "The Scars of Eden: Has humanity confused the idea of God with memories of ET contact?"
 description: "Paul Anthony Wallis — The Scars of Eden: Has Humanity confused the idea of God with memories of ET contact? (2021)"
 lead: "Do our world mythologies convey our ancestors' ideas about God? Or are they in reality ancestral memories of extra-terrestrial contact? How do ancient stories of contact, adaptation and abduction relate to people's experiences around the world today? The Scars of Eden will take you around the world to hear first-hand from ancestral voices alongside contemporary experiencers and world-renowned researchers. Recent revelations from US Navy, the Pentagon, and French Intelligence bring the reader right up to date in examining what has been forgotten and remembered, hidden and disclosed. If world mythologies, including the Bible, have confused the idea of God with ancient ET visitations, what difference does it make? How does it impact society today? And why is this cultural taboo so widespread and, for the author, so personal?"
 author: "Paul Anthony Wallis"
@@ -20,4 +20,4 @@ types: ["Books"]
 topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
 ---
 
- ![Image](images/the-scars-of-eden-book.jpg "The Scars of Eden, 2021 — Paul Anthony Wallis")
+![Image](images/the-scars-of-eden-book.jpg "The Scars of Eden, 2021 — Paul Anthony Wallis")

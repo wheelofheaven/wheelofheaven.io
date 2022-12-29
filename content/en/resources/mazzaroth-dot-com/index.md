@@ -17,7 +17,7 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Website"]
-topics: ["Archive", "Gosepl in the Stars", "Mazzaroth", "Mythology", "Precession"]
+topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 
 ### Description

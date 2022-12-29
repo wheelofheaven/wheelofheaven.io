@@ -1,5 +1,5 @@
 ---
-title: "Echoes of Eden"
+title: "Echoes of Eden: What secrets of human potential were buried with our ancestors' memories of ET contact?"
 description: "Paul Anthony Wallis — Echoes of Eden: What secrets of human potential were buried with our ancestors' memories of ET contact? (2022)"
 lead: "Ancient stories from around the world describe entities which today we would call ETs. What other secrets lie hidden in the world's ancestral narratives? From Senate briefings in Washington DC to secret ceremonies in southern Africa, from strange phenomena in Australia and Iraq to mysterious encounters in modern Brazil and ancient Greece, Echoes of Eden will take you around the globe to discover why Military, Intelligence and other government agencies are so interested in archeology, indigenous rituals and traditional initiation practices. What is the connection between higher cognitive powers like remote viewing and precognition and ET contact in the deep past? And what are the implications for you and me?"
 author: "Paul Anthony Wallis"
@@ -17,5 +17,5 @@ pinned: false
 featured: false
 contributors: [""]
 types: ["Books"]
-topics: ["elohim", "ancient-aliens", "gitbooks"]
+topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
 ---

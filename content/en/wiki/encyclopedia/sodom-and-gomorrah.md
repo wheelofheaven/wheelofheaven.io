@@ -13,6 +13,14 @@ weight: 200
 toc: true
 ---
 
+The biblical story of Sodom and Gomorrah is a story from the Book of Genesis in the Old Testament. It is about two cities, Sodom and Gomorrah, that were said to have been located in the region of the Dead Sea.
+
+According to the story, the cities were known for their great wickedness and sin. God sent two angels to visit the city of Sodom to see if the reports of its wickedness were true. When the people of Sodom demanded that the angels be handed over to them so they could be sexually abused, the angels blinded the people and warned Lot, a righteous man who lived in the city, to flee with his family.
+
+God then destroyed Sodom and Gomorrah with fire and brimstone, raining down on the cities from the sky, killing all the people who lived there. Only Lot and his two daughters escaped the destruction.
+
+The story of Sodom and Gomorrah has been interpreted in various ways over the centuries, with some viewing it as a cautionary tale about the dangers of sin and disobedience, while others see it as a story about God's wrath and justice. It has also been used to justify the condemnation of homosexuality, and is still a source of debate and interpretation today.
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh mentions Sodom and Gomorrah and explains what happened with following words:

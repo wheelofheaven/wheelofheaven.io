@@ -59,7 +59,6 @@ In the modern era, some religious groups, such as the Ethiopian Orthodox Church,
 
 Ultimately, the interpretation of the Book of Enoch and its relationship to the Biblical scriptures will depend on the individual reader's beliefs, perspective, and the religious or scholarly context in which it is being considered.
 
-
 ### See also
 
 [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})</br>

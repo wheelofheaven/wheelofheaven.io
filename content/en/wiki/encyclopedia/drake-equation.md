@@ -53,6 +53,8 @@ In the same chapter, Drake goes on to say the following about the equation being
 
 > For the record, I consider the Drake Equation to be a marvelous tool for quantifying our ignorance.
 
+The Drake Equation is meant to be a way of considering all the factors that might affect the existence and detection of extraterrestrial civilizations, and to provide a rough estimate of the number of civilizations that might exist. However, due to the lack of data on many of the variables, the answer is highly uncertain.
+
 ### See also
 
 [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})</br>

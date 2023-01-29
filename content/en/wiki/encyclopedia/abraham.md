@@ -13,6 +13,15 @@ weight: 200
 toc: true
 ---
 
+Abraham is a central figure in Judaism, Christianity, and Islam and is considered the father of these three monotheistic religions. In the Bible, he is described as the father of Isaac and a patriarch of the Israelites. In the Tanakh, he is considered the first Hebrew and the founder of the Jewish nation. In the Quran, Abraham is considered a prophet of Allah and a friend of God.
+
+In the Bible, Abraham is described as:
+
+- A Chaldean from Ur, who was called by God to leave his home and journey to a new land (Genesis 12:1-3)
+- A faithful servant of God who was willing to sacrifice his son Isaac (Genesis 22)
+- The founder of the covenant between God and the Israelites, through which God promised to make Abraham's descendants a great nation (Genesis 12:1-3, 15:18)
+- The ancestor of Jesus (Matthew 1:1-17)
+
 ### In Raëlism 🔯
 
 Abraham is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#the-sacrifice-of-abraham)), showcases the mentioning of Abraham:

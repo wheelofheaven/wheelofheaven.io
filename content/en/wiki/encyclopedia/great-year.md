@@ -1,7 +1,7 @@
 ---
 title: "Great Year"
-description: "Great Year, a period of time of around 25'920 years"
-lead: "A period of time of around 25'920 years"
+description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years."
+lead: "Also known as a Platonic Year, a period of time of around 25'920 years."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-The Great Year is defined as the period of one complete cycle of the equinoxes around the ecliptic, which amounts to 25'920 years. This number is close enough and slightly more convenient than the actual scientifically established number of 25'800 which is considered more accurate, even though it itself is as estimation derived by extrapolation. The former number, which we consider to be more convenient, is derived from the ancient observation of westward shift of 1 degree every 72 years. The cycle of the equinoxes around the ecliptic is therefore a full 360 degrees of that westward shift which gives us:
+The Great Year is defined as the period of one complete cycle of the equinoxes around the ecliptic, which amounts to 25'920 years. This cycle is caused by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge. The number of 25'920 is close enough and slightly more convenient than the actual scientifically established number of 25'800 which is considered more accurate, even though it itself is as estimation derived by extrapolation. The former number, which we consider to be more convenient, is derived from the ancient observation of westward shift of 1 degree every 72 years. The cycle of the equinoxes around the ecliptic is therefore a full 360 degrees of that westward shift which gives us:
 
 $$
 \begin{equation*}

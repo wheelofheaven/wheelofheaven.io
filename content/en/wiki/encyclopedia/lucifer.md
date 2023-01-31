@@ -13,6 +13,10 @@ weight: 200
 toc: true
 ---
 
+Lucifer is a name that is often associated with the Devil or Satan, although its original meaning and interpretation have changed over time. The name "Lucifer" comes from the Latin word "Luciferus," which means "light-bringer."
+
+In the Bible, the name "Lucifer" is first mentioned in the book of Isaiah, where it is used to describe the King of Babylon as a fallen angel who was once a bright star but was cast down to hell because of his pride and sin. This passage is often interpreted as referring to Satan, who is believed by many Christians to have been a powerful angel who rebelled against God and was cast out of heaven.
+
 ### See also
 
 [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})</br>

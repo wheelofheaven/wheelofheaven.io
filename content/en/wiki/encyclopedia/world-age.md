@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+The precessional Great Year is a term is used to describe the approximately 26'000 year cycle of the slow wobble of the Earth's axis. This cycle of precession affects the position of the stars in the sky and the way that the sun appears to move through the constellations over time.
+
+In astrology, the precessional World Ages are often associated with different historical periods and cultural developments, with each Age being seen as having a distinct spiritual or cultural significance. For example, the current World Age is sometimes referred to as the Age of Pisces, and is associated with the rise of Christianity and the development of Western civilization. Wheel of Heaven considers the current World Age to be the Age of Aquarius which started at around the year 1950 of the Common Era.
+
+In addition to its astrological significance, the precessional World Age has also been of interest to scholars and scientists who study the history of astronomy and the movements of the Earth and the stars. By studying the effects of precession on the sky, scientists have been able to gain a deeper understanding of the motion of the Earth and the position of the stars, and to reconstruct the history of the sky over thousands of years.
+
 ### Overview
 
 The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.

@@ -43,7 +43,7 @@ In conclusion, "HOMARANISMO" provides insight into Zamenhof's thoughts on the co
 
 ### In Raëlism 🔯
 
-According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, Yahweh explores a way to handle Earthly economics which he tentatively named Humanitarniasm. The first paragraph of the New Commadment called Humanitarniasm goes as follows:
+According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, Yahweh explores a way to handle Earthly economics which he tentatively named Humanitarianism. The first paragraph of the New Commadment called Humanitarniasm goes as follows:
 
 > Second point: Your world is paralyzed by profit, and Communism fails to provide a carrot big enough to motivate people and encourage them to make progress.
 >

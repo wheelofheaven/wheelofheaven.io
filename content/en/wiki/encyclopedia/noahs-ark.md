@@ -17,7 +17,11 @@ The story of Noah's Ark is a well-known biblical account from the book of Genesi
 
 Noah obeyed God's instructions and built the ark, which was made of gopher wood and coated with pitch. When the animals were all gathered, God closed the door of the ark, and the flood began. The rain lasted for 40 days and 40 nights, and the waters rose so high that even the highest mountains were covered.
 
-Everyone and everything on the earth, except for those on the ark, perished in the flood. After the rain stopped and the waters receded, Noah released a dove from the ark to find dry land.
+Everyone and everything on the earth, except for those on the ark, perished in the flood. After the rain stopped and the waters receded, Noah released a dove from the ark to find dry land. The dove eventually returned with an olive branch, signifying the end of the flood and the start of a new beginning.
+
+God then made a covenant, or a promise, with Noah never to destroy the earth with a flood again. He set a rainbow in the sky as a symbol of this promise.
+
+The story of Noah's Ark is considered by many as a reminder of God's power and mercy, and is still widely known and retold today.
 
 ### See also
 

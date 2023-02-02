@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+The story of Noah's Ark is a well-known biblical account from the book of Genesis in the Old Testament. According to the story, God saw that the world had become corrupt and wicked, and decided to cleanse it with a great flood. He chose Noah, a righteous man, to build an ark and gather two of every kind of animal and bird, as well as his family, to survive the flood.
+
+Noah obeyed God's instructions and built the ark, which was made of gopher wood and coated with pitch. When the animals were all gathered, God closed the door of the ark, and the flood began. The rain lasted for 40 days and 40 nights, and the waters rose so high that even the highest mountains were covered.
+
+Everyone and everything on the earth, except for those on the ark, perished in the flood. After the rain stopped and the waters receded, Noah released a dove from the ark to find dry land.
+
 ### See also
 
 [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})

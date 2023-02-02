@@ -13,6 +13,18 @@ weight: 200
 toc: true
 ---
 
+Elijah was a prophet in the Hebrew Bible and is considered one of the greatest prophets of Israel. He is known for his powerful miracles, strong faith, and unwavering commitment to the Lord.
+
+According to the biblical accounts, Elijah lived in the northern kingdom of Israel during the reign of King Ahab. Ahab was a wicked king who worshiped the pagan god Baal and led the people of Israel astray. Elijah challenged Ahab and the people of Israel to repent of their idolatry and return to the worship of the Lord.
+
+One of the most famous stories of Elijah is the contest on Mount Carmel, where he challenged the prophets of Baal to a public showdown. The prophets of Baal were unable to produce any fire from heaven, but Elijah prayed to God and God answered by sending fire from heaven, demonstrating his power and confirming Elijah as a true prophet of the Lord.
+
+Elijah also performed many other miracles, such as multiplying food, healing the sick, and calling down fire from heaven. Despite facing opposition and persecution, Elijah remained steadfast in his faith and never wavered in his commitment to the Lord.
+
+In addition to his miracles and powerful preaching, Elijah is also known for his ascension into heaven in a whirlwind. According to the biblical account, Elijah was taken up into heaven without dying, and is believed to have been taken directly into the presence of God.
+
+The story of Elijah has had a lasting impact on Judaism, Christianity, and Islam, and he is still remembered as one of the greatest prophets of the Bible. His life serves as an example of faith, obedience, and courage in the face of opposition, and continues to inspire people of faith to this day.
+
 ### In Raëlism 🔯
 
 Elijah is mentioned multiple times by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/3_watching_over_the_chosen_people.html#samson-the-telepathist), showcases the first mentioning of Elijah as follows:

@@ -32,9 +32,9 @@ According to the _Book Which Tells The Truth_, Sixth Chapter "The New Commandmen
 > The residence should be situated at a distance of at least one thousand meters from the walls around the park. It will have a maximum of two stories and should be further screened from view by an inner barrier of trees and bushes. Install two entrances in the surrounding wall, one to the south and another on the northern side.
 >
 > The residence will also have two entrances. There will be a terrace on the roof where a spacecraft of twelve meters in diameter may land. Access from that terrace to the interior is essential.
-> 
+>
 > The air space above and around the residence should not be under direct military or radar surveillance.
-> 
+>
 > You will try to ensure that the area where this residence is built -if possible larger than stipulated here- is treated as neutral territory by other nations and by the nation on whose territory it is located, by virtue of it being our embassy on Earth.
 
 ### See also

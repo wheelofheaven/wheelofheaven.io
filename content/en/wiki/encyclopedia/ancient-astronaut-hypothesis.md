@@ -17,6 +17,7 @@ toc: true
 
 [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})</br>
 [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
+[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
 
 ### External links
 

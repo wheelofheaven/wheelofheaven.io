@@ -27,6 +27,7 @@ Neo-Euhemerism is a modern interpretation of the ancient philosophy of Euhemeris
 
 ### See also
 
+[Wiki › Ancient Astronaut hypothesis]({{< relref "wiki/encyclopedia/ancient-astronaut-hypothesis.md" >}})</br>
 [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
 [Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})</br>
 

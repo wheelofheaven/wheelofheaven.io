@@ -44,6 +44,14 @@ Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
 
 > « Le message préservé par la Kabale porte sur la correspondance des deux mondes, céleste et terrestre, sur leur unification par l’homme. [...] L’homme renouvellera les actes relatés au début de la Genèse », écrit Alexandre Safran, grand-rabbin de Genève, dans la Kabale (Payot), où il précise aussi que « la Kabale remonte aux temps préhistoriques ; Moïse ne fait que l’introduire dans l’Histoire d’Israël ».
 
+### In Raëlism 🔯
+
+According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the World", Section "At the Roots of All Religions", Yahweh mentions the Kabbalah as being a body of mystical traditions that are rich in allusions to our Creators, the Elohim:
+
+> It is not only in the Bible and the Gospels that there are traces of the truth; testimonies can be found in practically every religion. The Kabala especially is one of the richest in testimonies, but it would not have been easy for you to get hold of one.
+>
+> If one day you can find a copy, then you will be able to see that there are a great number of allusions to us. [...]
+
 ### See more
 
 [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>

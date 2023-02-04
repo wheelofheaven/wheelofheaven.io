@@ -17,7 +17,7 @@ Antediluvian refers to a time before the Biblical Great Flood. The exact appeara
 
 ### In Raëlism 🔯
 
-According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, says the following about the antediluvian world and its advanced human civilization:
+According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the antediluvian world and its advanced human civilization:
 
 > The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the "tree of life", and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on as is stated in Genesis, Chapter 5, Verses 1-11.
 >

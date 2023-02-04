@@ -1,7 +1,7 @@
 ---
 title: "Zodiac"
-description: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the main singular god and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-lead: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the main singular god and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
+description: "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
+lead: "A band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -24,6 +24,14 @@ The Zodiac is still used today, primarily in astrology, where the positions and 
 ### Etymology
 
 The word "Zodiac" is derived from the Greek word "zōdiakos kyklos" which means "circle of animals." This term was used to describe the band of the sky containing the twelve constellations of the zodiac, which were symbolized by various animals and creatures, such as a ram (Aries), bull (Taurus), twins (Gemini), crab (Cancer), lion (Leo), virgin (Virgo), scales (Libra), scorpion (Scorpio), archer (Sagittarius), goat (Capricorn), water-bearer (Aquarius), and fish (Pisces).
+
+### Eastward shift
+
+The shift of the zodiac over the years is due to the phenomenon of precession. Precession is a slow, cyclical movement of the Earth's rotational axis that causes the direction of the axis to trace out a large circle in the sky over a period of 26,000 years. This movement causes the positions of the stars as seen from the Earth to appear to change over time, and it also affects the positions of the equinoxes, which mark the beginning of the zodiac constellations.
+
+The effect of precession on the zodiac is that the equinoxes slowly move westward along the ecliptic, which is the path of the sun through the sky, relative to the fixed stars. As a result, over the course of several thousand years, the sun appears to move through different zodiac constellations on the spring equinox, which marks the beginning of the astrological year.
+
+For example, around 2,000 years ago, the sun rose in the constellation of Aries on the spring equinox. Today, the sun rises in the constellation of Pisces on the spring equinox, and in the next few thousand years, it will rise in the constellation of Aquarius.
 
 ### Mazzaroth
 

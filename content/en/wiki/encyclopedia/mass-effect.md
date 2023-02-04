@@ -17,7 +17,7 @@ toc: true
 
 The law of masstime simply states that **time is inversely proportional to mass**.
 
-The law can easily be derived empirically from observing various life forms that each feature various masses. A eukaryotic cell makes more movements in a given span of time in relation to its body size than an ant does. An ant does make more movements than an elephant does. An elephant does however more movements than a whole planet does (given that a planet is considered to be a living being). A planet does resolve more movements than a being the size of a galaxy. Which in turn would do produce more movement than a even higher scaled being. So on and so forth.
+The law can easily be derived empirically from observing various kinetic bodies, especially apparent in life forms, that each feature various masses. A eukaryotic cell causes a higher amount of gesticulations in a given span of time in relation to its body size than an ant would cause. An ant in turn does cause more kinetic activity than an elephant would. An elephant causes, to increase the scale of mass even further, amount of motion than a higher kinetic body such as a planet would. The law is universal insofar it applies to all levels of existence and therefore applies to cosmic bodies as much as to Earthly life forms. That induces that a give planet does cause a higher amount of motion by resolving its revolutions than a galaxy would in the same amount of time relative to its size, which in turn would do cause more motion than an even higher-scale entity. So on and so forth.
 
 ### In Raëlism 🔯
 

@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.
+
+The story of the Tower of Babel is often interpreted as a symbol of human pride and ambition, and as a warning against trying to reach for things that are beyond our understanding and control. It is also seen as an explanation for the diversity of languages and cultures in the world.
+
+In addition to its religious significance, the Tower of Babel has also played a role in literature, art, and popular culture throughout history. The image of the tower has been used to symbolize various forms of human endeavor and ambition, and has been referenced and portrayed in a wide range of cultural contexts.
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahweh explicitly mentions the Tower of Babel and says the following about its specific purpose:

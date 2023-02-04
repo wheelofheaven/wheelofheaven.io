@@ -43,6 +43,10 @@ Where the contributing factors are (in order):
 
 ### Usefuleness
 
+The Drake equation is a mathematical formula used to estimate the number of detectable extraterrestrial civilizations in the Milky Way galaxy. Its intended purpose is to serve as a starting point for a scientific discussion about the possibility of extraterrestrial life and the likelihood of making contact with such civilizations.
+
+However, the equation is highly speculative and based on a number of assumptions and unknown variables, so its usefulness in determining a definitive answer to the question of extraterrestrial life is limited. Nevertheless, it provides a framework for considering the factors that may influence the existence and detection of extraterrestrial civilizations, and it has inspired further research and discussion on the subject.
+
 In an interview, Drake says the following about the purpose of the equation as a thought experiment:
 
 > The importance of the Drake Equation is not in the solving, but rather in the contemplation. It was written not for purposes of quantification at all, but rather as the agenda for the world's first SETI meeting, in Green Bank WV in 1961. It was quite useful for its intended application, which was to summarize all the various factors which scientists must contemplate when considering the question of other life.
@@ -52,6 +56,8 @@ In an interview, Drake says the following about the purpose of the equation as a
 In the same chapter, Drake goes on to say the following about the equation being a mirror of our ignorance about life in the universe:
 
 > For the record, I consider the Drake Equation to be a marvelous tool for quantifying our ignorance.
+
+The Drake Equation is meant to be a way of considering all the factors that might affect the existence and detection of extraterrestrial civilizations, and to provide a rough estimate of the number of civilizations that might exist. However, due to the lack of data on many of the variables, the answer is highly uncertain.
 
 ### See also
 

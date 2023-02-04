@@ -20,4 +20,12 @@ types: ["Books"]
 topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
 ---
 
+"Escaping from Eden: Does Genesis teach that the human race was created by God or engineered by ETs?" is a book written by Paul Anthony Wallis, an author and researcher in the fields of religion and extraterrestrial life. The book presents the author's views on the origins of humanity and the possible connection between human creation and extraterrestrial life.
+
+The book argues that the biblical story of Adam and Eve in the book of Genesis may have been inspired by ancient knowledge of extraterrestrial visitations. Wallis asserts that the biblical story contains elements that suggest that the first humans were genetically engineered by extraterrestrial beings, rather than being created by a deity.
+
+The author uses various biblical texts, along with ancient myths and legends, to support his argument that extraterrestrial beings played a role in human creation. He also examines evidence from archaeology and anthropology to suggest that ancient cultures had advanced knowledge of astronomy and genetic engineering, which he believes may have been passed down from extraterrestrial visitors.
+
+The book has been met with criticism from some religious scholars and mainstream scientists, who reject the author's claims as unsupported and lacking credible evidence. Nevertheless, "Escaping from Eden" remains a popular and widely discussed work in the field of alternative religion and extraterrestrial life.
+
  ![Image](images/escaping-from-eden-book.jpg "Escaping from Eden, 2020 — Paul Anthony Wallis")

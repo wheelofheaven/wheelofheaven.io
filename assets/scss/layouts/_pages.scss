@@ -8,7 +8,12 @@
 }
 
 .lead-tldr {
-  text-decoration: underline;
+  text-decoration-line: underline overline;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: $body-color;
+  background: $magic-mint;
+  font-weight: bold;
+  color: $body-color
 }
 
 .anchor {

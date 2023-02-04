@@ -23,7 +23,7 @@ Euhemerism has been influential in the study of religion, mythology, and the his
 
 ### Neo-euhemerism
 
-Neo-Euhemerism is a modern interpretation of the ancient philosophy of Euhemerism, which views myths and legends as exaggerated accounts of historical events. While the original Euhemeristic approach emphasized the historical basis of myth and saw the gods of mythology as originally historical figures who were later deified, neo-Euhemerism expands on this approach and views myth as a symbolic representation of the human experience.
+Neo-Euhemerism is a modern interpretation of the ancient philosophy of Euhemerism, which views myths and legends as exaggerated accounts of historical events. While the original Euhemeristic approach emphasized the historical basis of myth and saw the gods of mythology as originally historical figures who were later deified, neo-Euhemerism expands on this approach and views the deified people as extraterrestrial in origin and were deified because of their scientific and technological leap which looked magical and supernatural in the eyes of earlier human civilizations.
 
 ### See also
 

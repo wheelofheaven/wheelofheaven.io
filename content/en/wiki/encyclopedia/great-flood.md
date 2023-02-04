@@ -22,7 +22,7 @@ The story of the Great Flood has been interpreted in various ways throughout his
 ### See also
 
 [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
-[Wiki › Noah's Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})</br>
+[Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})</br>
 [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
 
 ### External links

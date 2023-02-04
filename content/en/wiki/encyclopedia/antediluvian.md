@@ -13,6 +13,8 @@ weight: 200
 toc: true
 ---
 
+Antediluvian refers to a time before the Biblical Great Flood. The exact appearance of the antediluvian world is not described in detail in the Bible or any other historical record. Some religious texts suggest that the antediluvian world was a time of great prosperity, peace, and advanced civilization. However, this colloquially considered largely a matter of speculation and interpretation.
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, says the following about the antediluvian world and its advanced human civilization:

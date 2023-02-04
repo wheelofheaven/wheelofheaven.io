@@ -1,7 +1,7 @@
 ---
 title: "Great Month"
 description: "Great Month"
-lead: "Period of time of around 2'160 years."
+lead: "Period of time of around 2'160 years, or in other words, a Great Month is the amount of time it takes for the phenomonen of precession to shift westwards by 30 degrees."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,7 +13,9 @@ weight: 200
 toc: true
 ---
 
-A Great Month is the amount of time it takes for the phenomonen of precession to shift westwards by 30 degrees.
+The precessional Great Year refers to the period of time it takes for the Earth's axis to complete one full cycle of precession, which is the slow, cyclical movement of the Earth's rotational axis in space. This cycle is caused by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge, and it takes approximately 25,800 years to complete.
+
+In many ancient cultures, the precession of the Earth's axis was seen as a metaphor for the cycle of birth, death, and rebirth of the cosmos. The precessional cycle was divided into smaller units of time, such as the precessional Great Month, which was a unit of time equal to one-twelfth of the precessional cycle, or approximately 2,150 years.
 
 ## See also
 

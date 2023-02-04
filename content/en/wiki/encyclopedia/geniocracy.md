@@ -44,27 +44,27 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 > Therefore, your world must revalorize its geniuses and allow them to govern the Earth.
 >
 > Power was in the hands of brutes, who were superior to others because of their muscular strength. Next in power were the rich, who used their money to employ many "brutes" in their service. Then came the politicians who ensnared the people of democratic countries with their own hopes — not to mention military men whose success has been based around the rational organization of brutality.
-> 
+>
 > The only type of people you have never placed in power are the ones who help humanity to progress. Whether they discovered the wheel, gunpowder, the internal combustion engine or the atom, the geniuses have always allowed less intelligent people in power to benefit from their inventions. Often such people have used peaceful inventions for murderous ends. All that must be changed.
-> 
+>
 > For this to happen, you must abolish all your electoral and polling systems because in their present form, they are completely unsuited to human development. Each person is a useful cell in this huge body we call humanity. The cell in your foot should not decide whether or not your hand should pick up a given object. It is the brain, which must decide, and if the object in question is good, the cell of your foot will benefit from it. It is not up to the foot to vote. Its job is simply to transport the body -including the brain- and it is not capable of judging if what the hand takes is good or not.
 > 
 > Votes only have a positive effect when there is an equivalence of knowledge and intellect. Copernicus was condemned by a majority of incompetent people because he was the only one at that time who had a sufficiently high level of comprehension. Although the Church -that is t say the majority- believed the Earth was the center of the universe, this turned out to be wrong. The Earth really revolved around the sun, and Copernicus -the minority- turned out to be right.
-> 
+>
 > When the first cars were invented, if we had asked everyone to vote to establish whether cars should be allowed to exist or not, the majority, who knew nothing about cars and did not care, would have responded negatively, and you would still be riding in a horse and cart. So, how can you change all that?
-> 
+>
 > These days, you have psychologists who are capable of creating tests to evaluate the intelligence and adaptation of every individual.
-> 
+>
 > These tests should be applied systematically from infancy onward in order to define each individual's orientation towards subjects studied.
-> 
+>
 > When individuals reach a responsible age, their intellectual coefficient can be measured and included on their identity or voter's card. Only those with an intellectual capacity of at least fifty per cent above the average should be eligible for a public post. To vote, individuals would need an intellectual coefficient of at least ten per cent above average. If such a system existed now, many of your present politicians would not hold the positions they do today.
-> 
+>
 > This is a totally democratic system. There are many engineers, for example, who are of lower than average intelligence, but who have very good memories and have obtained several academic degrees because of this.
-> 
+>
 > On the other hand, there are many laborers or farm workers who have no specialized education at all, but whose intelligence is fifty per cent above the average. What is totally unacceptable now is that the voice of someone whom you might vulgarly call "a cretin" is worth as much as that of a genius, who has thought maturely about the way he or she is going to vote. In some small cities, elections are won by the candidate who buys people the most drinks — not by the individual whose policies are the most interesting.
-> 
+>
 > Therefore, right from the start, the right to vote should be reserved for those people whose brains are more suited to thinking and finding solutions to problems - that is to say, an elite group of high intelligence. This does not necessarily mean those people who have done the most studying.
-> 
+>
 > We are talking about placing the genius in power, and you may call that "Geniocracy".
 
 ### See also

@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+The Leviathan is a mythical sea monster mentioned in the Bible, specifically in the book of Job and in the book of Psalms. In the Bible, the Leviathan is described as a powerful and fearsome creature that lives in the sea and is difficult to control.
+
+The Leviathan has been interpreted in various ways throughout history. In some interpretations, it is seen as a symbol of chaos and evil, while in others it is viewed as a symbol of the power of God and the natural order of the universe. In Jewish, Christian, and Islamic traditions, the Leviathan is often associated with the idea of a great, apocalyptic battle between good and evil, in which God will defeat the monster and restore order to the world.
+
+In popular culture, the Leviathan has been depicted in many different ways, often as a giant sea serpent or dragon. It has also been used as a metaphor for various forms of evil, oppression, and tyranny throughout history. The image of the Leviathan continues to hold great cultural and symbolic significance, and it is often referenced in literature, art, and other forms of popular culture.
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Yahweh explains how a group of exiled Elohim came to hide in the oceans:

@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+Yahweh is the English transliteration of the tetragrammaton YHWH, a four-letter Hebrew name of God that is considered too sacred to be pronounced. Yahweh is considered the personal name of God in Judaism and is the name used most often in the Hebrew Bible. In English, it is often written as "Yahweh" or "Jehovah."
+
+YHWH is considered the personal name of God in Judaism and is the name used most often in the Hebrew Bible. It is also the name used in Jewish liturgy and prayers, where it is often abbreviated as "Adonai" (Lord) in order to avoid speaking the divine name directly.
+
+The exact meaning of YHWH is not clear, but it is thought to derive from the Hebrew verb "to be," suggesting that God is the source of all existence. The use of YHWH as the personal name of God reflects the Jewish belief in a personal, loving, and involved deity who is present in the world and actively involved in the lives of his people.
+
 ### See also
 
 [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>

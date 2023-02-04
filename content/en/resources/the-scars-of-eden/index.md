@@ -20,4 +20,12 @@ types: ["Books"]
 topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
 ---
 
+"The Scars of Eden: Has humanity confused the idea of God with memories of ET contact?" is a book written by Paul Anthony Wallis, an author and researcher in the fields of religion and extraterrestrial life. The book presents the author's views on the relationship between humanity's understanding of God and extraterrestrial life.
+
+The book argues that humanity's belief in God and religious practices may have their roots in ancient experiences of extraterrestrial contact. Wallis asserts that many religious beliefs, including the creation stories found in various religions, may be based on actual events of extraterrestrial visitations that have been misinterpreted and mythologized over time.
+
+The author uses evidence from archaeology, anthropology, and religious texts to support his argument that extraterrestrial visitations have had a profound influence on human culture and religion. He also examines the similarities between religious beliefs and accounts of extraterrestrial encounters, suggesting that these experiences may have shaped humanity's understanding of God and the afterlife.
+
+"The Scars of Eden" has been met with criticism from some religious scholars and mainstream scientists, who reject the author's claims as unsupported and lacking credible evidence. Nevertheless, the book remains a popular and widely discussed work in the field of alternative religion and extraterrestrial life.
+
 ![Image](images/the-scars-of-eden-book.jpg "The Scars of Eden, 2021 — Paul Anthony Wallis")

@@ -13,6 +13,12 @@ weight: 200
 toc: true
 ---
 
+The Confusion of Tongues is an event described in the Book of Genesis in the Bible. According to the story, the people of the world were initially of one language and lived together in harmony. However, they decided to build a great tower that would reach the heavens, as a symbol of their unity and achievement. God saw this as a challenge to his authority and decided to confuse their language, making it impossible for them to understand each other. This caused the people to scatter across the world, unable to work together on their tower, and resulted in the division of humanity into different linguistic groups.
+
+The story of the Confusion of Tongues is often interpreted as a metaphor for the division of humanity and the formation of different cultures, languages, and nations. It can also be seen as a cautionary tale about the dangers of pride, ambition, and overreach. The story highlights the importance of unity, cooperation, and humility in the face of divine power, and suggests that those who challenge the will of the gods will face divine retribution.
+
+In modern times, the Tower of Babel has become a symbol of cultural and linguistic diversity, and has been depicted in art, literature, and popular culture in various forms. The story continues to be relevant and has inspired discussions and interpretations on themes such as the nature of language, the division of humanity, and the relationship between humanity and the divine.
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh mentions the confusion of tongues and says the following about what happened:

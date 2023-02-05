@@ -31,8 +31,8 @@ The following table shows the majority of well-established, well-known mythemes 
 
 ### See also
 
-[Wiki › Mytheme]({{< relref "wiki/encyclopedia/mytheme.md" >}})</br>
+- [Wiki › Mytheme]({{< relref "wiki/encyclopedia/mytheme.md" >}})
 
 ### External links
 
-[Motif-Index of Folk Literature | Wikipedia](https://en.wikipedia.org/wiki/Motif-Index_of_Folk-Literature)
+- [Motif-Index of Folk Literature | Wikipedia](https://en.wikipedia.org/wiki/Motif-Index_of_Folk-Literature)

@@ -25,4 +25,9 @@ The story of Noah's Ark is considered by many as a reminder of God's power and m
 
 ### See also
 
-[Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
+- [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
+
+### External links
+
+- [Noah\'s Ark | Wikipedia](https://en.wikipedia.org/wiki/Noah%27s_Ark)
+- [Ark of Noah | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/1780-ark-of-noah)

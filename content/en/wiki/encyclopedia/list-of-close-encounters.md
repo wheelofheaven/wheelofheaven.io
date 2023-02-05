@@ -183,6 +183,9 @@ The following table shows the majority of close encounters that have been report
 
 ### See also
 
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
-[Resources › Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times]({{< relref "resources/wonders-in-the-sky/_index.md" >}})</br>
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+
+### Read more
+
+- [Resources › Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times]({{< relref "resources/wonders-in-the-sky/_index.md" >}})

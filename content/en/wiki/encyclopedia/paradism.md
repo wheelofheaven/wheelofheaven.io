@@ -41,14 +41,14 @@ According to the second book _Extraterrestrials Took Me To Their Planet_, Chapte
 
 ### See also
 
-[Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})</br>
-[Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})</br>
-[Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})</br>
+- [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
+- [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})
+- [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})
 
 ### External links
 
-[Post-scarcity economy | Wikipedia](https://en.wikipedia.org/wiki/Post-scarcity_economy)</br>
-[Paradism | Spin-off organization of Raëlism](https://paradism.org/)</br>
-[Fully Automated Luxury Individualist Anarchism | Edmund Berger article](https://thelibertarianideal.com/2017/03/06/fully-automated-luxury-individualist-anarchism/)</br>
-[Fully Automated Luxury Communism | Wikipedia](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)</br>
-[Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)</br>
+- [Paradism | Spin-off organization of Raëlism](https://paradism.org/)
+- [Post-scarcity economy | Wikipedia](https://en.wikipedia.org/wiki/Post-scarcity_economy)
+- [Fully Automated Luxury Individualist Anarchism | Edmund Berger article](https://thelibertarianideal.com/2017/03/06/fully-automated-luxury-individualist-anarchism/)
+- [Fully Automated Luxury Communism | Wikipedia](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)
+- [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)

@@ -29,6 +29,6 @@ The following table shows the majority of words that can be read with a neo-euhe
 
 ### See also
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › List of etymologicalreadings]({{< relref "wiki/encyclopedia/list-of-etymological-readings.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › List of etymologicalreadings]({{< relref "wiki/encyclopedia/list-of-etymological-readings.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})

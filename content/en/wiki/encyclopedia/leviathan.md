@@ -33,9 +33,9 @@ According to the _Book Which Tells The Truth_, Yahweh explains how a group of ex
 
 ### See also
 
-[Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
-[Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
+- [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
+- [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
 
 ### External links
 
-[Leviathan | Wikipedia](https://en.wikipedia.org/wiki/Leviathan)
+- [Leviathan | Wikipedia](https://en.wikipedia.org/wiki/Leviathan)

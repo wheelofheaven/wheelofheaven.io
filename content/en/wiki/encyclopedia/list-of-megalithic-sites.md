@@ -32,9 +32,13 @@ The following table lists an extensive enumeration of known megalithic sites:
 
 ### See also
 
-[Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})</br>
-[Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})</br>
+- [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
+- [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
+
+### Read more
+
+- [Graham Hancock\'s Fingerprints of the Gods\: The Evidence of Earth\'s Lost Civilization]({{< relref "resources/fingerprints-of-the-gods/index.md" >}})
 
 ### External links
 
-[Megalith | Wikipedia](https://en.wikipedia.org/wiki/Megalith)
+- [Megalith | Wikipedia](https://en.wikipedia.org/wiki/Megalith)

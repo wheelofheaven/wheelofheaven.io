@@ -24,5 +24,9 @@ The New Commandments are constituted of the following aspects:
 
 ### See also
 
-[Wiki › Geniocracy]({{< relref "wiki/encyclopedia/geniocracy.md" >}})</br>
-[Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})</br>
+- [Wiki › Geniocracy]({{< relref "wiki/encyclopedia/geniocracy.md" >}})
+- [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})
+
+### Read more
+
+- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})

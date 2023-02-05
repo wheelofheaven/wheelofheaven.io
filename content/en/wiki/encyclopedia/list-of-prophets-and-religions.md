@@ -47,6 +47,10 @@ The following table shows the an exhaustive list of religions. The list contains
 
 ### See also
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
-[Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})
+
+### External links
+
+- [List of religions and spiritual traditions | Wikipedia](https://en.wikipedia.org/wiki/List_of_religions_and_spiritual_traditions)

@@ -31,8 +31,9 @@ In the Septuagint, an ancient Greek translation of the Hebrew Bible, Moses' name
 
 ### See also
 
-[Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})</br>
+- [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 
 ### External links
 
-[Moses | Wikipedia](https://en.wikipedia.org/wiki/Moses)
+- [Moses | Wikipedia](https://en.wikipedia.org/wiki/Moses)
+- [Moses | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/11049-moses)

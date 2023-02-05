@@ -39,9 +39,9 @@ These are just a few examples of famous mythemes found in mythology and folklore
 
 ### See also
 
-[Wiki › Comparative mythology]({{< relref "wiki/encyclopedia/comparative-mythology.md" >}})</br>
-[Wiki › List of mythemes and mythological motifs]({{< relref "wiki/encyclopedia/list-of-mythemes-and-mythological-motifs.md" >}})</br>
+- [Wiki › Comparative mythology]({{< relref "wiki/encyclopedia/comparative-mythology.md" >}})
+- [Wiki › List of mythemes and mythological motifs]({{< relref "wiki/encyclopedia/list-of-mythemes-and-mythological-motifs.md" >}})
 
 ### External links
 
-[Mytheme | Wikipedia](https://en.wikipedia.org/wiki/Mytheme)
+- [Mytheme | Wikipedia](https://en.wikipedia.org/wiki/Mytheme)

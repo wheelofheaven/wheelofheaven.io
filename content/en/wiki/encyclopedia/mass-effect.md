@@ -31,4 +31,4 @@ In Chapter 2 "Neither God Nor Soul", Yahweh says the following about the percept
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
+- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>

@@ -19,11 +19,12 @@ In the Bible, the name "Lucifer" is first mentioned in the book of Isaiah, where
 
 ### See also
 
-[Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})</br>
-[Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})</br>
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
+- [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
 ### External links
 
-[Lucifer | Wikipedia](https://en.wikipedia.org/wiki/Lucifer)
+- [Lucifer | Wikipedia](https://en.wikipedia.org/wiki/Lucifer)
+- [Lucifer | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/10177-lucifer)

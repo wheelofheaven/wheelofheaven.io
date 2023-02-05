@@ -54,11 +54,16 @@ According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the Wor
 
 ### See more
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})</br>
-[Resources › The Zohar: Pritzker Edition]({{< relref "resources/the-zohar-pritzker/_index.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})
+
+### Read more
+
+- [Resources › The Zohar: Pritzker Edition]({{< relref "resources/the-zohar-pritzker/_index.md" >}})
 
 ### External links
 
-[Kabbalah | Wikipedia](https://en.wikipedia.org/wiki/Kabbalah)
-[Zohar | Wikipedia](https://en.wikipedia.org/wiki/Zohar)
+- [Kabbalah | Wikipedia](https://en.wikipedia.org/wiki/Kabbalah)
+- [Zohar | Wikipedia](https://en.wikipedia.org/wiki/Zohar)
+- [Cabala | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/3878-cabala)
+- [Zohar | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/15278-zohar)

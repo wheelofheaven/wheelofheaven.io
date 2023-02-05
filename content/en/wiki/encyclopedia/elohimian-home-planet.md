@@ -31,9 +31,10 @@ John Tvedtnes proposes in his 2005 essay titled "Authentic Ancient Names and Wor
 
 ### See also
 
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
+- [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 
 ### External links
 
-[Kolob | Wikipedia](https://en.wikipedia.org/wiki/Kolob)</br>
-[Sirius | Wikipedia](https://en.wikipedia.org/wiki/Sirius)</br>
+- [Kolob | Wikipedia](https://en.wikipedia.org/wiki/Kolob)
+- [Sirius | Wikipedia](https://en.wikipedia.org/wiki/Sirius)

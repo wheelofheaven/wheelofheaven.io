@@ -35,7 +35,13 @@ Throughout his ministry, Jesus emphasized God's love and the importance of lovin
 
 ### See also
 
-[Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})</br>
-[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>
+- [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})
+- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+
+### External links
+
+- [Jesus | Wikipedia](https://en.wikipedia.org/wiki/Jesus) 
+- [Jesus | Britannica](https://www.britannica.com/biography/Jesus)
+- [Jesus Christ | World History Encylopedia](https://www.worldhistory.org/Jesus_Christ/)

@@ -21,10 +21,13 @@ The story of the Great Flood has been interpreted in various ways throughout his
 
 ### See also
 
-[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
-[Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})</br>
-[Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
+- [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
+- [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
+- [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
 
 ### External links
 
-[Flood myth | Wikipedia](https://en.wikipedia.org/wiki/Flood_myth)
+- [Flood myth | Wikipedia](https://en.wikipedia.org/wiki/Flood_myth)
+- [Flood myth | Britannica](https://www.britannica.com/topic/flood-myth)
+- [Flood, the. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/6192-flood-the)
+- [Great Flood | New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Great_Flood)

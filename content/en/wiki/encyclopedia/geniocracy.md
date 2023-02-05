@@ -69,4 +69,9 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 
 ### See also
 
-[Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})</br>
+- [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})
+
+### External links
+
+- [Geniocracy | Wikipedia](https://en.wikipedia.org/wiki/Geniocracy)
+- [Geniocracy: Government of the People, for the People, by the Geniuses](http://www.geniocracy.org/)

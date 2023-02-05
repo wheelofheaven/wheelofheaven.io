@@ -29,3 +29,8 @@ As a result of these criticisms, Intelligent Design is not widely accepted in th
 ### Read more
 
 [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
+
+### External links
+
+- [Intelligent Design | Wikipedia](https://en.wikipedia.org/wiki/Intelligent_design)
+- [Intelligent Design | Britannica](https://www.britannica.com/topic/intelligent-design)

@@ -39,4 +39,8 @@ In Hinduism and Buddhism, the end of the world is seen as a natural cycle of cre
 
 ### See also
 
-[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>
+- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+
+### External links
+
+- [Golden Age | Wikipedia](https://en.wikipedia.org/wiki/Golden_Age)

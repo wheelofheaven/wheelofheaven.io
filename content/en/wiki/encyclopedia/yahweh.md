@@ -21,5 +21,12 @@ The exact meaning of YHWH is not clear, but it is thought to derive from the Heb
 
 ### See also
 
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+
+### External links
+
+- [Yahweh | Wikipedia](https://en.wikipedia.org/wiki/Yahweh)
+- [Tetragrammaton | Wikipedia](https://en.wikipedia.org/wiki/Tetragrammaton)
+- [Alpha and Omega | Wikipedia](https://en.wikipedia.org/wiki/Alpha_and_Omega)
+- [Jehovah | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/8568-jehovah)

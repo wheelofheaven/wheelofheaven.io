@@ -53,7 +53,15 @@ The Gospel in the Stars hypothesis is not a widely accepted scientific or biblic
 
 ### See also
 
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
-[Resources › Frances Rolleston — Mazzaroth; or, The constellations (1862)]({{< relref "resources/mazzaroth-rolleston/index.md" >}})</br>
-[Resources › Joseph A. Seiss — The Gospel in the Stars (1884)]({{< relref "resources/the-gospels-in-the-stars/index.md" >}})</br>
-[Resources › Jim A. Cornwell — mazzaroth.com | The Alpha and the Omega website]({{< relref "resources/mazzaroth-dot-com/index.md" >}})</br>
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+
+### Read more
+
+- [Resources › Frances Rolleston — Mazzaroth; or, The constellations (1862)]({{< relref "resources/mazzaroth-rolleston/index.md" >}})
+- [Resources › Joseph A. Seiss — The Gospel in the Stars (1884)]({{< relref "resources/the-gospels-in-the-stars/index.md" >}})
+- [Resources › Jim A. Cornwell — mazzaroth.com | The Alpha and the Omega website]({{< relref "resources/mazzaroth-dot-com/index.md" >}})
+
+### External links
+
+- [Zodiac | Wikipedia](https://en.wikipedia.org/wiki/Zodiac)
+- [Zodiac | Britannica](https://www.britannica.com/topic/zodiac)

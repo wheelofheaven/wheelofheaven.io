@@ -43,11 +43,11 @@ If humanity is not sufficiently wary of these devils, it will fall back into the
 
 ### See also
 
-[Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})</br>
-[Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})</br>
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>
+- [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
+- [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})
+- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
 
 ### External links
 
-[Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism))
-[Bhavacakra | Wikipedia](https://en.wikipedia.org/wiki/Bhavacakra)
+- [Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism))
+- [Bhavacakra | Wikipedia](https://en.wikipedia.org/wiki/Bhavacakra)

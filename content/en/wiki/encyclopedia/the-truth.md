@@ -15,11 +15,11 @@ toc: true
 
 ### See also
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
-[Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})</br>
-[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})
+- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
 ### Read more
 
-[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
+- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})

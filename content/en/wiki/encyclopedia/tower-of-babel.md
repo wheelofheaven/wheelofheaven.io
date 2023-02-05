@@ -31,6 +31,13 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahw
 
 ### See also
 
-[Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
-[Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
-[Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})</br>
+- [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
+- [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
+- [Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})
+- [Wiki › Noah\'s Ark']({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
+
+### External links
+
+- [Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)
+- [Tower of Babel (mythological tower, Babylonia)](https://www.britannica.com/topic/Tower-of-Babel)
+- [Babel, Tower of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/2279-babel-tower-of)

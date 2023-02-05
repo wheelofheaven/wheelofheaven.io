@@ -83,4 +83,9 @@ The equinoxes were used by ancient astronomers and astrologers to determine the 
 
 ### See also
 
-[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})</br>
+- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
+
+### External links
+
+- [Axial precession](https://en.wikipedia.org/wiki/Axial_precession)
+- [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)

@@ -25,8 +25,8 @@ The Tree of Life continues to hold great symbolic significance, and is often ref
 
 ### See also
 
-[Wiki › Tree of the Knowledge of Good and Evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}})</br>
+- [Wiki › Tree of the Knowledge of Good and Evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}})
 
 ### External links
 
-[Tree of life | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_life)
+- [Tree of life | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_life)

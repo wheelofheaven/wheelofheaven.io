@@ -39,8 +39,8 @@ According to the first book _The Book Which Tells The Truth_, 2nd chapter, Genes
 
 ### See also
 
-[Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})</br>
+- [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})
 
 ### External links
 
-[Tree of the knowledge of good and evil | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil)
+- [Tree of the knowledge of good and evil | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil)

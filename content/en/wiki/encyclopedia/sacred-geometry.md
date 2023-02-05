@@ -59,8 +59,8 @@ These are just a few examples of the many historical buildings and structures th
 
 ### See also
 
-[Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})</br>
+- [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 
 ### External links
 
-[Sacred Geometry | Wikipedia](https://en.wikipedia.org/wiki/Sacred_geometry)
+- [Sacred Geometry | Wikipedia](https://en.wikipedia.org/wiki/Sacred_geometry)

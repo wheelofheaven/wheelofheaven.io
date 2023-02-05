@@ -21,7 +21,7 @@ Various rendering of the Raelian Symbol of Infinity.
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
-[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>
+- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})

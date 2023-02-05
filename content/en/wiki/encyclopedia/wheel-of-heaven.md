@@ -41,10 +41,13 @@ The Wheel of Heaven, besides being a direct reference to an astronimical cycle t
 
 ### See also
 
-[Intro › Wheel of Heaven]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})</br>
-[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+
+### Read more
+
+- [Intro › Wheel of Heaven]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})
 
 ### External links
 
-[Wheel of Heaven | Github](https://github.com/wheelofheaven/)
+- [Wheel of Heaven | Github](https://github.com/wheelofheaven/)

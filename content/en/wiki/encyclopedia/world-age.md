@@ -1,7 +1,7 @@
 ---
 title: "World Age"
-description: "World Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-lead: "A colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
+description: "World Age, also known known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
+lead: "Also known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -41,6 +41,10 @@ The following table shows the last precessional cycle starting with the Age of A
 
 ### See also
 
-[Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})</br>
-[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
+- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+
+### External links
+
+- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)

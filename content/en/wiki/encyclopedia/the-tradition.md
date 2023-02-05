@@ -31,11 +31,11 @@ In conclusion, The Tradition can be understood as a remnant of ancient scientifi
 
 ### See also
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})</br>
-[Wiki › Kabbalah]({{< relref "wiki/encyclopedia/kabbalah.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})
+- [Wiki › Kabbalah]({{< relref "wiki/encyclopedia/kabbalah.md" >}})
 
 ### External links
 
-[Perennial philosophy | Wikipedia](https://en.wikipedia.org/wiki/Perennial_philosophy)
-[Tradition | Wikipedia](https://en.wikipedia.org/wiki/Tradition)
+- [Perennial philosophy | Wikipedia](https://en.wikipedia.org/wiki/Perennial_philosophy)
+- [Tradition | Wikipedia](https://en.wikipedia.org/wiki/Tradition)

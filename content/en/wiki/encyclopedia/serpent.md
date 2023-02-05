@@ -39,11 +39,11 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh exp
 
 ### See also
 
-[Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})</br>
-[Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
-[Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
-[Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})</br>
+- [Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
+- [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
+- [Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})
 
 ### External links
 
-[Serpent in the Bible | Wikipedia](https://en.wikipedia.org/wiki/Serpents_in_the_Bible)
+- [Serpent in the Bible | Wikipedia](https://en.wikipedia.org/wiki/Serpents_in_the_Bible)

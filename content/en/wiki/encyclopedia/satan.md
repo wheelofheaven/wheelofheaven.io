@@ -27,11 +27,12 @@ The etymology of the word "Satan" highlights the role of this figure as an accus
 
 ### See also
 
-[Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
-[Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})</br>
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
+- [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
 ### External links
 
-[Satan | Wikipedia](https://en.wikipedia.org/wiki/Satan)
+- [Satan | Wikipedia](https://en.wikipedia.org/wiki/Satan)
+- [Satan | Britannica](https://www.britannica.com/topic/Satan)

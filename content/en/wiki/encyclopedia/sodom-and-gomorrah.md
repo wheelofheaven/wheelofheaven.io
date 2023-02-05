@@ -49,10 +49,10 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh men
 
 ### See also
 
-[Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})</br>
-[Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})</br>
+- [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
+- [Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})
 
 ### External links
 
-[Sodom and Gomorrah | Wikipedia](https://en.wikipedia.org/wiki/Sodom_and_Gomorrah)</br>
-[Dead Sea | Wikipedia](https://en.wikipedia.org/wiki/Dead_Sea)</br>
+- [Sodom and Gomorrah | Wikipedia](https://en.wikipedia.org/wiki/Sodom_and_Gomorrah)
+- [Dead Sea | Wikipedia](https://en.wikipedia.org/wiki/Dead_Sea)

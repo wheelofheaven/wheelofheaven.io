@@ -25,6 +25,12 @@ Others see the Star of David as having a more abstract meaning, representing the
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
-[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
-[Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>
+- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
+- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+
+### External links
+
+- [Star of David | Wikipedia](https://en.wikipedia.org/wiki/Star_of_David)
+- [Star of David | Britannica](https://www.britannica.com/topic/Star-of-David)
+- [Magen Dawid | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/10257-magen-dawid)

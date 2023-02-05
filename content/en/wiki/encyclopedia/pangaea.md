@@ -23,16 +23,16 @@ In terms of its appearance, Pangea would have been a vastly different landscape 
 
 Overall, Pangea is a fascinating scientific theory that offers a glimpse into the Earth's geological history and provides a unique perspective on the formation and movement of the planet's continents.
 
-## Etymology
+### Etymology
 
 The name pangaea is neologism of modern times and does not come from a line of the Tradition. It is derived from Ancient Greek pan (πᾶν) and Gaea (Γαῖα), meaning the whole earth.
 
 ### See also
 
-[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
-[Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})</br>
-[Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
+- [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
+- [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 
 ### External links
 
-[Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)
+- [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)

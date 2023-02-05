@@ -35,6 +35,10 @@ The five conditions that Sendy mentions in his book can be seen as a blueprint o
 
 ### See also
 
-[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+- [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+
+### External links
+
+- [Jean Sendy | Wikipedia](https://en.wikipedia.org/wiki/Jean_Sendy)

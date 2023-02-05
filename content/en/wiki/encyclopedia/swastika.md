@@ -23,6 +23,11 @@ Due to its historical association with the Nazi regime, the display of the swast
 
 ### See also
 
-[Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>
-[Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
-[Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>
+- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
+- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+
+### External links
+
+- [Swastika | Wikipedia](https://en.wikipedia.org/wiki/Swastika)
+- [Swastika | Britannica](https://www.britannica.com/topic/swastika)

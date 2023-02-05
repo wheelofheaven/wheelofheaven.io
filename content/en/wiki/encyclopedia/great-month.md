@@ -1,7 +1,7 @@
 ---
 title: "Great Month"
-description: "Great Month"
-lead: "Period of time of around 2'160 years, or in other words, a Great Month is the amount of time it takes for the phenomonen of precession to shift westwards by 30 degrees."
+description: "Great Month, also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
+lead: "Also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -17,8 +17,12 @@ The precessional Great Year refers to the period of time it takes for the Earth'
 
 In many ancient cultures, the precession of the Earth's axis was seen as a metaphor for the cycle of birth, death, and rebirth of the cosmos. The precessional cycle was divided into smaller units of time, such as the precessional Great Month, which was a unit of time equal to one-twelfth of the precessional cycle, or approximately 2,150 years.
 
-## See also
+### See also
 
-[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
-[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>
+- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+
+### External links
+
+- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)

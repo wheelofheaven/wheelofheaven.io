@@ -27,11 +27,11 @@ Neo-Euhemerism is a modern interpretation of the ancient philosophy of Euhemeris
 
 ### See also
 
-[Wiki › Ancient Astronaut hypothesis]({{< relref "wiki/encyclopedia/ancient-astronaut-hypothesis.md" >}})</br>
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})</br>
+- [Wiki › Ancient Astronaut hypothesis]({{< relref "wiki/encyclopedia/ancient-astronaut-hypothesis.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})
 
 ### External links
 
-[Euhemerism | Wikipedia](https://en.wikipedia.org/wiki/Euhemerism)</br>
-[néo-évhémérisme | Wiktionary \[FR\]](https://fr.wiktionary.org/wiki/n%C3%A9o-%C3%A9vh%C3%A9m%C3%A9risme)
+- [Euhemerism | Wikipedia](https://en.wikipedia.org/wiki/Euhemerism)
+- [néo-évhémérisme | Wiktionary \[FR\]](https://fr.wiktionary.org/wiki/n%C3%A9o-%C3%A9vh%C3%A9m%C3%A9risme)

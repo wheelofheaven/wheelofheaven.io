@@ -23,14 +23,14 @@ While Raëlism has gained a significant following in some countries, it is consi
 
 ### See also
 
-[Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
+- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
 ### Read more
 
-[Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})</br>
-[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
-[Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})</br>
+- [Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
+- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
 
 ### External links
 
-[Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
+- [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)

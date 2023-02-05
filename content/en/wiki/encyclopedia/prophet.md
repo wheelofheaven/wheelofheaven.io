@@ -31,9 +31,11 @@ This Greek word was later adopted and used in the Septuagint, the Greek translat
 
 ### See also
 
-[Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
-[Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})</br>
+- [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
+- [Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})
 
 ### External links
 
-[Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)
+- [Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)
+- [Prophecy | Britannica](https://www.britannica.com/topic/prophecy)
+- [Prophets and Prophecy | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/12389-prophets-and-prophecy)

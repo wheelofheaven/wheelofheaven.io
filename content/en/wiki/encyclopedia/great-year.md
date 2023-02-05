@@ -1,7 +1,7 @@
 ---
 title: "Great Year"
-description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years."
-lead: "Also known as a Platonic Year, a period of time of around 25'920 years."
+description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
+lead: "Also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -49,6 +49,10 @@ As the precession of the equinoxes is thought to have been discovered {to be con
 
 ### See also
 
-[Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
-[Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})</br>
+- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+
+### External links
+
+- [Great Year | Wikipedia](https://en.wikipedia.org/wiki/Great_Year)

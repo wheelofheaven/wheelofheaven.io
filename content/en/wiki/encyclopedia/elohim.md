@@ -23,8 +23,15 @@ Regardless of the interpretation, the use of the plural noun "Elohim" remains si
 
 ### See also
 
-[Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})</br>
-[Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})</br>
-[Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})</br>
-[Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})</br>
-[Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})</br>
+- [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
+- [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
+- [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
+- [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
+- [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
+
+### External links
+
+- [Elohim | Wikipedia](https://en.wikipedia.org/wiki/Elohim)
+- [Elohim (Hebrew God) | Britannica](https://www.britannica.com/topic/Elohim)
+- [Elohim | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5704-elohim)
+- [Names of God | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/11305-names-of-god)

@@ -35,8 +35,9 @@ Findings that would be considered strong indications of extraterrestrial life wo
 
 ### See also
 
-[Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})</br>
+- [Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})
 
 ### External links
 
-[Astrobiology | Wikipedia](https://en.wikipedia.org/wiki/Astrobiology)
+- [Astrobiology | Wikipedia](https://en.wikipedia.org/wiki/Astrobiology)
+- [Astrobiology (science) | Britannica](https://www.britannica.com/science/astrobiology)

@@ -32,8 +32,11 @@ Abraham is mentioned by Yahweh during their encounter with Raël. The following 
 
 ### See also
 
-[Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})</br>
+- [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 
 ### External links
 
-[Abraham | Wikipedia](https://en.wikipedia.org/wiki/Abraham)
+- [Abraham | Wikipedia](https://en.wikipedia.org/wiki/Abraham)
+- [Abraham (Hebrew Patriach) | Britannica](https://www.britannica.com/biography/Abraham)
+- [Abraham | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/360-abraham)
+- [Abraham, the Patriach | World History Encyclopedia](https://www.worldhistory.org/Abraham,_the_Patriarch/)

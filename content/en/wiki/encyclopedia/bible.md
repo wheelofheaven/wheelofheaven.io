@@ -61,12 +61,15 @@ Ultimately, the interpretation of the Book of Enoch and its relationship to the 
 
 ### See also
 
-[Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})</br>
-[Wiki › Dhorme Bible translation]({{< relref "wiki/encyclopedia/dhorme-bible-translation.md" >}})</br>
-[Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
-[Wiki › Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})</br>
+- [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
+- [Wiki › Dhorme Bible translation]({{< relref "wiki/encyclopedia/dhorme-bible-translation.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})
 
 ### External links
 
-[Bible | Wikipedia](https://en.wikipedia.org/wiki/Bible)</br>
+- [Bible | Wikipedia](https://en.wikipedia.org/wiki/Bible)
+- [Bible (sacred text) | Britannica](https://www.britannica.com/topic/Bible)
+- [Torah | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/14446-torah)
+- [Bible | World History Encyclopedia](https://www.worldhistory.org/bible/)

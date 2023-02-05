@@ -27,10 +27,10 @@ Archeoastronomy has made several significant contributions to our understanding 
 
 ### See also
 
-[Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})</br>
-[Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
+- [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
+- [Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
 
 ### External links
 
-[Archaeoastronomy | Wikipedia](https://en.wikipedia.org/wiki/Archaeoastronomy)
+- [Archaeoastronomy | Wikipedia](https://en.wikipedia.org/wiki/Archaeoastronomy)

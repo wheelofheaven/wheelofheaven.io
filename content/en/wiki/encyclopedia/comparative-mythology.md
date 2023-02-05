@@ -21,9 +21,10 @@ Hamlet's Mill by Giorgio de Santillana and Hertha von Dechends is considered a m
 
 ### See also
 
-[Wiki › Mytheme]({{< relref "wiki/encyclopedia/mytheme.md" >}})</br>
+- [Wiki › Mytheme]({{< relref "wiki/encyclopedia/mytheme.md" >}})
 
 ### External links
 
-[Comparative Mythology | Wikipedia](https://en.wikipedia.org/wiki/Comparative_mythology)
-[Comparative Mythology | Art & Popular Culture Encyclopedia](http://www.artandpopularculture.com/Comparative_mythology)
+- [Comparative Mythology | Wikipedia](https://en.wikipedia.org/wiki/Comparative_mythology)
+- [Comparative Mythology | Art & Popular Culture Encyclopedia](http://www.artandpopularculture.com/Comparative_mythology)
+- [Mythology | World History Encyclopedia](https://www.worldhistory.org/mythology/)

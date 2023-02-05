@@ -31,8 +31,11 @@ The Dhorme a French Bible translation lead by the French Assyrologist and Semito
 
 The Dhorme Bible also happens to be the very same book that Claude Vorhilon aka Raël had with him during his purported encounter with Yahweh.
 
+### See also
+
+[Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+
 ### External links
 
-[La Bible: Ancient Testament (1956), [Paris] Gallimard. Online book hosted by the Internet Archive.](https://archive.org/details/labibleancientes0000unse/mode/2up)
-
-[Référence bibliographique Edouard Dhorme, Revue de l'histoire des religions (1966). Online publication.](https://www.persee.fr/doc/rhr_0035-1423_1966_num_169_2_8335)
+- [La Bible: Ancient Testament (1956), [Paris] Gallimard. Online book hosted by the Internet Archive.](https://archive.org/details/labibleancientes0000unse/mode/2up)
+- [Référence bibliographique Edouard Dhorme, Revue de l'histoire des religions (1966). Online publication.](https://www.persee.fr/doc/rhr_0035-1423_1966_num_169_2_8335)

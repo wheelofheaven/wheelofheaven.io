@@ -51,9 +51,11 @@ Later on, in the following chapter named after Elijah ([see here](https://wheelo
 
 ### See also
 
-[Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
-[Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})</br>
+- [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
+- [Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})
 
 ### External links
 
-[Elijah | Wikipedia](https://en.wikipedia.org/wiki/Elijah)
+- [Elijah | Wikipedia](https://en.wikipedia.org/wiki/Elijah)
+- [Elijah (Hebrew prophet) | Britannica](https://www.britannica.com/biography/Elijah-Hebrew-prophet)
+- [Elijah | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5634-elijah)

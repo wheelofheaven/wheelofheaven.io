@@ -27,5 +27,11 @@ According to the second book _Extraterrestrials Took Me To Their Planet_, Chapte
 
 ### See also
 
-[Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})</br>
-[Wiki › Saṃsāra]({{< relref "wiki/encyclopedia/samsara.md" >}})</br>
+- [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})
+- [Wiki › Saṃsāra]({{< relref "wiki/encyclopedia/samsara.md" >}})
+
+### External links
+
+- [Apocalypse | Wikipedia](https://en.wikipedia.org/wiki/Apocalypse)
+- [Biblical Apocalypse | World History Encyclopedia](https://www.worldhistory.org/article/1801/biblical-apocalypse/)
+

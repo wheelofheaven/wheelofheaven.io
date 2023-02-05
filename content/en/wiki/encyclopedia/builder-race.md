@@ -15,9 +15,11 @@ toc: true
 
 ### See also
 
-[Wiki › Ancient Builder]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})</br>
-[Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})</br>
-[Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
-[Wiki › Sacred Geometry]({{< relref "wiki/encyclopedia/sacred-geometry.md" >}})</br>
-[Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
+- [Wiki › Ancient Builder]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
+- [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
+- [Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › Sacred Geometry]({{< relref "wiki/encyclopedia/sacred-geometry.md" >}})
+- [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
+
+### External links

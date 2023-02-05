@@ -35,9 +35,12 @@ Out of the seven creator teams, one industrious and talented team that happened 
 
 ### See also
 
-[Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})</br>
-[Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
+- [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
+- [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
 
 ### External links
 
-[Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
+- [Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
+- [Garden of Eden | Britannica](https://www.britannica.com/topic/Garden-of-Eden)
+- [Eden, Garden of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5428-eden-garden-of)
+

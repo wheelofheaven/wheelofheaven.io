@@ -61,9 +61,11 @@ The Drake Equation is meant to be a way of considering all the factors that migh
 
 ### See also
 
-[Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})</br>
-[Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})</br>
+- [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
+- [Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})
 
 ### External links
 
-[Drake equation | Wikipedia](https://en.wikipedia.org/wiki/Drake_equation)
+- [Drake equation | Wikipedia](https://en.wikipedia.org/wiki/Drake_equation)
+- [Drake equation (astronomy) | Britannica](https://www.britannica.com/science/Drake-equation)
+- [Drake Equation | SETI Institute](https://www.seti.org/drake-equation-index)

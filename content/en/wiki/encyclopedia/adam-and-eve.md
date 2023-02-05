@@ -25,8 +25,11 @@ On for Adam's companion Eve, the etymology of the name "Eve" is as already menti
 
 ### See also
 
-[Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})</br>
+- [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
 
 ### External links
 
-[Adam and Eve | Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
+- [Adam and Eve | Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
+- [Adam and Eve | Britannica](https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures)
+- [Adam | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/758-adam)
+- [Eve | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/5916-eve)

@@ -33,9 +33,12 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh men
 
 ### See also
 
-[Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})</br>
-[Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})</br>
+- [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
+- [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 
 ### External links
 
-[Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)</br>
+- [Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)
+- [Tower of Babel (mythological tower, Babylonia)](https://www.britannica.com/topic/Tower-of-Babel)
+- [Babel, Tower of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/2279-babel-tower-of)
+

@@ -41,12 +41,12 @@ According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, 
 
 ### See also
 
-[Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})</br>
-[Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})</br>
-[Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})</br>
-[Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
-[Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})</br>
+- [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})
+- [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
+- [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
+- [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
+- [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})
 
 ### External links
 
-[Antediluvian | Wikipedia](https://en.wikipedia.org/wiki/Antediluvian)
+- [Antediluvian | Wikipedia](https://en.wikipedia.org/wiki/Antediluvian)

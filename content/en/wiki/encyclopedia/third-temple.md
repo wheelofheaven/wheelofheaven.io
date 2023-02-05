@@ -39,9 +39,11 @@ According to the _Book Which Tells The Truth_, Sixth Chapter "The New Commandmen
 
 ### See also
 
-[Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
-[Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})</br>
+- [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>
+- [Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})</br>
 
 ### External links
 
-[Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)
+- [Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)
+- [Prophecy | Britannica](https://www.britannica.com/topic/prophecy)
+- [Prophecy | Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/prophecy/)

@@ -43,4 +43,3 @@ Out of the seven creator teams, one industrious and talented team that happened 
 - [Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
 - [Garden of Eden | Britannica](https://www.britannica.com/topic/Garden-of-Eden)
 - [Eden, Garden of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5428-eden-garden-of)
-

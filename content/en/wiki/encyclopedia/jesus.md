@@ -42,6 +42,6 @@ Throughout his ministry, Jesus emphasized God's love and the importance of lovin
 
 ### External links
 
-- [Jesus | Wikipedia](https://en.wikipedia.org/wiki/Jesus) 
+- [Jesus | Wikipedia](https://en.wikipedia.org/wiki/Jesus)
 - [Jesus | Britannica](https://www.britannica.com/biography/Jesus)
 - [Jesus Christ | World History Encylopedia](https://www.worldhistory.org/Jesus_Christ/)

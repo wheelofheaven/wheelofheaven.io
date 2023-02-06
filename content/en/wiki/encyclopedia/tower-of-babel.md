@@ -34,7 +34,7 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahw
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 - [Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})
-- [Wiki › Noah\'s Ark']({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
+- [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
 
 ### External links
 

@@ -40,10 +40,12 @@
 				{{ range $index, $type := .Params.topics }}<li><a href="{{ "/resources/topics/" | relURL }}{{ . | urlize }}/">{{ . | title }}</a></li>{{ end -}}
 				</ul>
 			{{ end -}}
+      <!--
 			<h2>Website</h2>
 			<ul>
 				<li><a href="{{ .Params.link }}" target="_blank">{{ strings.TrimPrefix "https://" .Params.link }}</a></li>
 			</ul>
+      -->
 			<!-- {{ partial "main/edit-page.html" . }} -->
 			{{ partial "main/docs-navigation.html" . }}
 		</main>

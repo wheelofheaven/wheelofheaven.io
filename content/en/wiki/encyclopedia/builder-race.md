@@ -15,7 +15,7 @@ toc: true
 
 ### See also
 
-- [Wiki › Ancient Builder]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
+- [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 - [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
 - [Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})
 - [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})

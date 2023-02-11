@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-{{< email user="zarazinsfuss" domain="protonmail.com" >}}
+{{< email user="zarazinsfuss" domain="protonmail(dot)com" >}}

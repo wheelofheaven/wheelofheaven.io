@@ -41,11 +41,11 @@ If the formula is solved against $n = 36$, the triangular number formula will re
 
 $$
 \begin{equation*}
-   T_36 = \sum_{k=0}^{36} k = 0 + 1 + 2 + 3 + ... + 36 = \frac{36(36+1)}{2} = 666
+   T_{36} = \sum_{k=0}^{36} k = 0 + 1 + 2 + 3 + ... + 36 = \frac{36(36+1)}{2} = 666
 \end{equation*}
 $$
 
-This is mathematically interesting as triangular numbers is a subtype of figurative numbers.
+This is mathematically interesting as triangular numbers are a subtype of figurative numbers.
 
 ### In Raëlism 🔯
 

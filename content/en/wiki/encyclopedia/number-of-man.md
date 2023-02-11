@@ -19,6 +19,28 @@ The Number of the Beast is mentioned in the New Testament Book of Revelation, sp
 >
 > <sup>18</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is 666.
 
+### Triangular number
+
+
+
+### In Raëlism 🔯
+
+According to the _Let's Welcome the Extraterrestrials_, The Apocalypse of the Final Nuclear Cataclysm, Yahweh explains what has been described in the Book of the Apocalypse which was revealed to John:
+
+> This final test of Humanity, that is, the choice between self-destruction or the passage into the Golden Age, is the last opportunity for Satan to prove that he was right in saying that humanity was bad.
+>
+> If Humanity brilliantly overcomes this last ordeal and succeeds in obtaining total disarmament on the planet, then men will have proven themselves worthy of receiving our inheritance, since they will have shown they are truly non-violent.
+>
+> The “beast”, as described further on in the text, is simply the use of nuclear energy for murderous means:
+>
+> > Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six. Revelation 13: 18.
+>
+> In fact, 666 is the number of human generations which will have existed on Earth since the creation of the first men in the original laboratories. The very first humans were created some 13,000 years ago, and a human generation is estimated at an average of 20 years, so if one multiplies 666 by 20, it equals 13,320 years.
+>
+> The generation born at the beginning of the Age of Apocalypse in 1945 of the Christian era, was in fact the 666th since the creation of the first man in a laboratory by the Elohim. This generation coincides precisely with the first use of nuclear energy for destructive purposes at Hiroshima, on August 6th, 1945.
+>
+> Once again, interpretation was not required in order to understand. One had only to read what had been written. 666 was effectively the “number of Man”, the number of men who descended from the creation, that is to say, the number of generations.
+
 ### See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})

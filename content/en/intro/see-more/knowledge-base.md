@@ -18,4 +18,3 @@ You made it through the Introduction, but the inquisitive journey doesn't end he
 - [A wiki space with lots of entries and points of interests 🔗]({{< ref "/wiki/" >}})
 - [A resources space with web books curated by us 🔗]({{< ref "/resources/" >}})
 - [A regularly updated blog where new insights and considerations are posted 🔗]({{< ref "/articles/" >}})
-

@@ -33,7 +33,7 @@ The mathematical way to express the sequence is contained in the following formu
 
 $$
 \begin{equation*}
-   T_n = \sum_{k=0}^{n} k = 0 + 1 + 2 + 3 + ... + n = \frac{n(n+1)}{2} 
+   T_n = \sum_{k=0}^{n} k = 0 + 1 + 2 + 3 + ... + n = \frac{n(n+1)}{2}
 \end{equation*}
 $$
 
@@ -41,7 +41,7 @@ If the formula is solved against $n = 36$, the triangular number formula will re
 
 $$
 \begin{equation*}
-   T_36 = \sum_{k=0}^{36} k = 0 + 1 + 2 + 3 + ... + 36 = \frac{36(36+1)}{2} = 666 
+   T_36 = \sum_{k=0}^{36} k = 0 + 1 + 2 + 3 + ... + 36 = \frac{36(36+1)}{2} = 666
 \end{equation*}
 $$
 
@@ -73,7 +73,7 @@ If we use 20 years for a generation, and the Number of Man being the total amoun
 
 $$
 \begin{equation*}
-  20y * 666 = 13'320y 
+  20y * 666 = 13'320y
 \end{equation*}
 $$
 
@@ -85,7 +85,9 @@ $$
 \end{equation*}
 $$
 
-With these assumptions, we can say the Number of Man amounts to 6 Great Months or in other words half a full precessional cycle.
+With these assumptions, we can say the Number of Man amounts to 6 Great Months or in other words half a full precessional cycle. If we now consider Yahweh's statement that the 666th generation has been born around 1945 which coincided with the first man-made explosion of a nuclear weapon, we can determine when the first generation of human beings created during the later stages of Genesis: Exactly 13'320 years before 1945 of the Common Era which would date back to the year 11'375 BCE.
+
+Interestingly enough, this date of 11'375 BCE is quite significant as that period of time is located right at the verge where the Age of Virgo (13'170—11'010BCE) passes into the Age of Leo (11'010—8'850BCE).
 
 ### See also
 

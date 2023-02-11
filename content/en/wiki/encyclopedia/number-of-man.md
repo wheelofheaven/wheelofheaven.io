@@ -73,7 +73,7 @@ If we use 20 years for a generation, and the Number of Man being the total amoun
 
 $$
 \begin{equation*}
-  20y * 666 = 13'320y
+  20y \times 666 = 13'320y
 \end{equation*}
 $$
 

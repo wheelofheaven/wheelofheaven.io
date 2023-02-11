@@ -35,7 +35,7 @@ $$
 \begin{equation*}
    T_n = \sum_{k=0}^{n} k = 0 + 1 + 2 + 3 + ... + n = \frac{n(n+1)}{2}
 \end{equation*}
-$$
+$$11'010—8'850BC
 
 If the formula is solved against $n = 36$, the triangular number formula will result in being equal to $666$:
 
@@ -73,7 +73,7 @@ If we use 20 years for a generation, and the Number of Man being the total amoun
 
 $$
 \begin{equation*}
-  20y * 666 = 13'320y
+  20y*666 = 13'320y
 \end{equation*}
 $$
 

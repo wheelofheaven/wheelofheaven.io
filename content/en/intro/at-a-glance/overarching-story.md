@@ -21,7 +21,7 @@ While we are aware that some may accuse us of selectively choosing facts and mis
 
 To that effect, let us consider 4 aspects by which we're going to establish the cornerstone of the grand narrative. These four aspects can be summarized as follows:
 
-- **Cosmic pluralism**: The notion that there's a plurality of worlds to be found within the vastness of space, each harbouring intelligent life. 
+- **Cosmic pluralism**: The notion that there's a plurality of worlds to be found within the vastness of space, each harbouring intelligent life.
 - **The Tradition**: The notion that the awareness of the reality of the first aspect, namely that we're but one of many inhabited worlds, has been established on Earth throughout history. This awareness as well as the ancestral wisdom about a wide range of scientifc, technological and historical knowledge has been attempted to be safeguarded through an all-ecompassing Tradition.
 - **The Truth**: The notion that the truth about our origins has not only been preserved by Earthly safeguarding known as the Tradition, but that the Gods of Old, the Heavinly Fathers, the Spacefarers, the Ones who came from the Skies have not just vanished, but have proactively interacted with our progress ever since our synthetic inception.
 - **The Cycle**: The notion that intelligent life preserves itself throughout interstellar space by spreading life onto new planetary frontiers. Interstellar procreation is encoded in us so to speak and the cycle is going to be renewed in accordance with the secular movement of Precession. The entering into the Age of Aquarius bears the hallmarks of becoming aware again of what has been lost previously.

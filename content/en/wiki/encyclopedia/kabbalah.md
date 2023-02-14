@@ -46,7 +46,7 @@ Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
 
 ### In Raëlism 🔯
 
-According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the World", Section "At the Roots of All Religions", Yahweh mentions the Kabbalah as being a body of mystical traditions that are rich in allusions to our Creators, the Elohim:
+According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the World", Section "At the Roots of All Religions", Yahweh mentions the Kabbalah as being a body of mystical traditions that is rich in allusions to our Creators, the Elohim:
 
 > It is not only in the Bible and the Gospels that there are traces of the truth; testimonies can be found in practically every religion. The Kabala especially is one of the richest in testimonies, but it would not have been easy for you to get hold of one.
 >

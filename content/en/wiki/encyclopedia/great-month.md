@@ -21,7 +21,7 @@ In many ancient cultures, the precession of the Earth's axis was seen as a metap
 
 Dividing the length of duration of the precessional cycle into 12 segments gives us the length of duration of each segment. The same way a year is divided into twelve months, the precessional Great Year is best divided into 12 Great Months. Depending on the length of duration of the Great Month, which nothing but the amount of time one complete cycle of precession takes, one can determine how long a monthly segment is.
 
-As with the year where we count 365 days where we know it takes a slightly bit longer for the Earth to complete a full revolution around the Sun, we apply an approximative, but convenient count of years to the precession. The current estimation for the precession to complete is 25,771.5 years, a number that is based on the mathematically sound method of extrapolation of a much shorter time span. The extrapolation is applied to a set of meticulous measurements of the shifting of closer stellar bodies against more distant ones over a certain amount of time. 
+As with the year where we count 365 days where we know it takes a slightly bit longer for the Earth to complete a full revolution around the Sun, we apply an approximative, but convenient count of years to the precession. The current estimation for the precession to complete is 25,771.5 years, a number that is based on the mathematically sound method of extrapolation of a much shorter time span. The extrapolation is applied to a set of meticulous measurements of the shifting of closer stellar bodies against more distant ones over a certain amount of time.
 
 With the empirical number of 25'771.5 years for a given precessional cycle, the Great Month would amount to 2'147.625 years.
 

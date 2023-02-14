@@ -77,11 +77,11 @@ $$
 \end{equation*}
 $$
 
-Given that at Wheel of Heaven, we think in terms of precessional cycles, we would like to determine how many Great Months or World Ages that amount of years represents. A Great Month is defined as the $12th$ of the precessional Great Year which is nominally defined as 25'920 years, rendering a Great Month to be nominally a duration of 2'190 years.
+Given that at Wheel of Heaven, we think in terms of precessional cycles, we would like to determine how many Great Months or World Ages that amount of years represents. A Great Month is defined as the $12th$ of the precessional Great Year which is nominally defined as 25'920 years, rendering a Great Month to be nominally a duration of 2'160 years.
 
 $$
 \begin{equation*}
-  \frac{13'320y}{2'190y} = 6.0821...
+  \frac{13'320y}{2'160y} = 6.166...
 \end{equation*}
 $$
 

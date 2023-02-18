@@ -23,6 +23,25 @@ One theory is that the name "Adam" is derived from the Hebrew word "adamah," whi
 
 On for Adam's companion Eve, the etymology of the name "Eve" is as already mention neither certain, but it is thought to be derived from the Hebrew word "chavah," which means "to give life." This interpretation is in line with the biblical account of Eve being the mother of all living things (Genesis 3:20). Another theory is that the name "Eve" is related to the Hebrew word "haya," which means "to live." This interpretation emphasizes the idea of Eve as the source of life for all humankind. In addition, the name "Eve" has been connected to the Akkadian word "awwatu," which means "living one," further emphasizing the idea of Eve as a symbol of life and vitality.
 
+### In Raëlism 🔯
+
+Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of them:
+
+>> And Yahweh Elohim said unto the serpent, 'Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.'
+>>
+>> — Genesis 3: 14.
+>
+> The "serpent" was this small group of creators who had wished to tell the truth to Adam and Eve, and as a result they were condemned by the government of their own planet to live in exile on Earth, while all the other scientists had to put a stop to their experiments and leave the Earth.
+>
+>> Unto Adam also and to his wife did Yahweh Elohim make coats of skins, and clothed them.
+>>
+>>— Genesis 3: 21.
+>
+> The creators gave their creations the basic means of survival, enough to manage without needing any further contact with them.
+
+This passage is from the book of Genesis in the Bible and describes the story of Adam and Eve. In the story, a serpent tells Adam and Eve the truth, which results in the serpent being cursed by God and forced to live in exile on Earth. Adam and Eve are then provided with clothing made of animal skins by God.
+
+
 ### See also
 
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})

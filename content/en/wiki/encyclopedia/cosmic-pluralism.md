@@ -45,6 +45,14 @@ Bruno's beliefs were not well received in his time and he was eventually put on 
 
 Despite the tragic end to his life, Bruno's ideas had a profound impact on the scientific and philosophical community and paved the way for future scientists and philosophers to explore the concept of cosmic pluralism. His beliefs in multiple inhabited worlds, the infinity of the universe, and the heliocentric model of the universe were highly controversial in his time, but have since become widely accepted as part of our modern understanding of the universe.
 
+### In Raëlism 🔯
+
+According to Raëlian teachings, the Elohim are believed to have created life on other planets as well, and may have communicated with humans throughout history, including in religious texts such as the Bible. Raëlism therefore places a strong emphasis on the idea of cosmic pluralism, and believes that humans should be open to the possibility of communicating with extraterrestrial life forms.
+
+Furthermore, Raëlism sees the creation of life on other planets as part of a larger cosmic plan that aims to bring humanity to a higher level of consciousness and enlightenment. The movement believes that humans have the potential to evolve into a new species with a greater capacity for love, wisdom, and harmony. This transformation is seen as part of a larger cosmic plan that is guided by the Elohim, who are believed to be working towards the betterment of humanity and all life in the universe.
+
+In summary, Raëlism incorporates the idea of cosmic pluralism into its religious beliefs, viewing the existence of intelligent life on other planets as part of a larger cosmic plan guided by the Elohim. This belief is central to the movement's teachings and emphasizes the importance of being open to the possibility of communicating with extraterrestrial life forms.
+
 ### See also
 
 - [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})

@@ -39,6 +39,12 @@ According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, 
 >
 > There you have proof that the creators could have intercourse with the daughters of humanity whom they had created in their own image, and in so doing produced exceptional children. These actions seemed very dangerous to people on the distant planet. The scientific progress on Earth was fantastic, and they decided to destroy what had been created.
 
+This passage discusses the antediluvian world, a time period in the Bible before the Great Flood. The Elohim, the creators, who were in exile and under military surveillance, urged humans to bring them food as a way to show their superiors, the representative of the Elohimian home planet, that the newly created humans were loyal to their creators. In exchange, the leaders of these humans were allowed to benefit from the Tree of Life, which is said to have allowed them to live extremely long lives.
+
+However, the creators also took the most beautiful daughters of humanity and made them their wives. The resulting children were exceptional, but longevity was not hereditary and the secret of life was lost. The offspring of the creators and humans became known as "mighty men of old, men of renown".
+
+The scientific progress on Earth during this time was deemed dangerous by those on the distant planet, and they decided to destroy what had been created. This ultimately led to the Great Flood, as described in the following chapters of Genesis.
+
 ### See also
 
 - [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})

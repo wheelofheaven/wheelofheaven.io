@@ -47,6 +47,8 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh men
 >
 > As you now know, burns caused by an atomic explosion kill those who are too near and make them look like salt statues.
 
+The group of humans who had been dispersed on Earth, harbored a desire for vengeance against those who tried to destroy them. They managed to salvage a few scientific secrets and prepared an expedition to punish their oppressors. They warned the peaceful people to leave Sodom and Gomorrah, as they were going to destroy it with an atomic explosion. The peaceful people did not realize the implications of an atomic explosion and were in no hurry to leave the town. The bomb fell on Sodom and Gomorrah, and the cities were overthrown, and all the inhabitants of the cities were killed. Burns caused by the explosion made people look like salt statues, which is what happened to the wife of Lot who looked back during her escape. The explosion was also responsible for the formation of the Dead Sea.
+
 ### See also
 
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})

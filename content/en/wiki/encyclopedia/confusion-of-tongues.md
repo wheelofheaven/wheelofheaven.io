@@ -31,6 +31,10 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh men
 >
 > So they came and took the Jews who had the most scientific knowledge and scattered them all over the continent among primitive tribes in countries where nobody could understand them because the language was different, and they destroyed all their scientific instruments.
 
+This passage is referring to the story of the Tower of Babel in the book of Genesis in the Bible. The Elohim, the creators, who are observing the Earth, decide to confound the language of the people who were building space-travelling technology to reach the heavens. As a result, the people were scattered across the Earth and could no longer communicate with each other.
+
+The author of the passage suggests that the creators took this action to prevent the people from becoming too powerful and to slow down their scientific progress. The creators took the Jews with the most scientific knowledge and scattered them among primitive tribes in countries where they could not be understood due to language barriers. Additionally, the creators destroyed all the scientific instruments of the Jews, further hindering their progress.
+
 ### See also
 
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})

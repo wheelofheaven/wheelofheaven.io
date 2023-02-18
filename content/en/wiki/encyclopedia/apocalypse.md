@@ -25,6 +25,12 @@ According to the second book _Extraterrestrials Took Me To Their Planet_, Chapte
 >
 > Such false prophets prefer to believe what narrow-minded and primitive people have fearfully copied down long ago while listening to those whom they considered to be gods because they came from the sky. They should instead believe the message of the Elohim that has been given now to people who no longer kneel stupidly before all that comes from the sky. These latter people try to understand the universe, and they can be addressed as adults.
 
+This passage discusses the arrival of the Apocalypse, also known as the Age of Revelation, and the presence of false prophets during this time. The author argues that false prophets can be found in those who reject the benefits of science and instead cling to ancient writings that were given to primitive people by the Elohim.
+
+The author suggests that these primitive people fearfully copied down messages from those they considered to be gods because they came from the sky. However, the author argues that people should instead believe the message of the Elohim that is being given now to people who try to understand their place in the universe and can be addressed as adults.
+
+The context of this passage is the Age of Apocalypse, which is a concept found in various religions and refers to a time of great upheaval and change. The author suggests that in this time of change, it is important to listen to the message of the Elohim, rather than false prophets who hold on to narrow-minded and primitive beliefs. The author also emphasizes the importance of scientific understanding and critical thinking.
+
 ### See also
 
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})

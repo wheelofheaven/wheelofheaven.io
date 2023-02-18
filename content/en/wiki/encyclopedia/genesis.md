@@ -213,7 +213,7 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 | 19'650 BC | 17'490 BC | Age of Sagittarius | 2nd day         | Analysis     |
 | 17'490 BC | 15'330 BC | Age of Scorpio     | 3rd day         | Terraforming |
 | 15'330 BC | 13'170 BC | Age of Libra       | 4th day         | Accomodation |
-| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecosystems   |
+| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecology      |
 | 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Human beings |
 | 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day of Rest | Aftermath    |
 

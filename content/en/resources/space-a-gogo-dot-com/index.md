@@ -22,7 +22,7 @@ topics: ["Ancient Astronauts", "Intelligent Design", "Neo-Euhemerism", "Pyramids
 
 ### Description
 
-The web site is not online anymoe. Thanks to the conservancy efforts done at [The Internet Archive](https://archive.org/), we can still access multiple snapshots through [web.archive.org](https://web.archive.org/web/20180207000504/http://www.spaceagogo.com/index.html). The following excerpt was directly taken from Mr. Toyama's website:
+The web site is not online anymore. Thanks to the conservancy efforts done at [The Internet Archive](https://archive.org/), we can still access multiple snapshots through [web.archive.org](https://web.archive.org/web/20180207000504/http://www.spaceagogo.com/index.html). The following excerpt was directly taken from Mr. Toyama's website:
 
 > Hello, everyone ! This Web site verifies new evidence that humans were created by extraterrestrials, mainly from the perspective of archaeology. You may be thinking "Extraterrestrial created humans ? What are you saying ? " But when we investigate, we see that it is quite highly possible.
 >

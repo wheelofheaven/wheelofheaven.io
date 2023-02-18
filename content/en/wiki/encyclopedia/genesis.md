@@ -45,6 +45,16 @@ According to this interpretation, each "day" in the creation story would represe
 
 In the Hebrew language and in the Bible, the word "yom" (יום) is typically translated as "day" and is understood to refer to a 24-hour period. The idea that "yom" could mean a much longer period of time, such as a precessional month, is not a widely accepted interpretation within the scholarly community.
 
+| Begins in | Ends in   | Zodiacal house     | Day of Creation | Theme        |
+|-----------|-----------|--------------------|-----------------|--------------|
+| 21'810 BC | 19'650 BC | Age of Capricorn   | 1st day         | Exploration  | 
+| 19'650 BC | 17'490 BC | Age of Sagittarius | 2nd day         | Analysis     |
+| 17'490 BC | 15'330 BC | Age of Scorpio     | 3rd day         | Terraforming |
+| 15'330 BC | 13'170 BC | Age of Libra       | 4th day         | Accomodation |
+| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecology      | 
+| 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Magnus Opus  |
+| 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day         | Rest in Eden |
+
 ### See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

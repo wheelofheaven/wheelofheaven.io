@@ -31,6 +31,8 @@ According to the _Book Which Tells The Truth_, Yahweh explains how a group of ex
 >
 > At that time the government of their planet wanted to destroy those who had created the humans.
 
+The Leviathan is the group of scientists led by Lucifer, also known as the Serpent, who had been banished at the outset and had hidden themselves in the oceans, and according to Isaiah 27:1, the government of their planet wanted to destroy those who had created the humans.
+
 ### See also
 
 - [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})

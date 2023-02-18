@@ -27,6 +27,20 @@ Overall, Pangea is a fascinating scientific theory that offers a glimpse into th
 
 The name pangaea is neologism of modern times and does not come from a line of the Tradition. It is derived from Ancient Greek pan (πᾶν) and Gaea (Γαῖα), meaning the whole earth.
 
+### In Raëlism 🔯
+
+According to the _Book Which Tells The Truth_, Yahweh explains how during the third day of creation a aritfical supercontinent was terraformed:
+
+> So then, by means of fairly strong explosions, which acted rather like bulldozers, they raised matter from the bottom of the seas and piled it up into one place to form a continent. Originally there was on Earth only one continent, and your scientists have recently acknowledged that all the continents, which have drifted apart over many years, used to fit perfectly into one another to form one land mass.
+
+The text describes how the Elohim created a continent on the third day of creation by raising matter from the bottom of the seas and piling it up into one place through explosions, and suggests that originally there was only one continent on Earth which has since the impact of the Great Flood drifted apart into different land masses.
+
+The following is said about the Great Flood:
+
+> When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
+
+The Pangea continent drifted away after a catastrophic explosion that provoked the Great Flood, and the exiled creators asked Noah to build a spaceship to safequard all life's genetic code to orbit the Earth during the cataclysm. When the explosion took place, life had already been preserved a few thousand kilometers above the Earth, and the continent was submerged by a gigantic tidal wave, destroying all life on its surface.
+
 ### See also
 
 - [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})

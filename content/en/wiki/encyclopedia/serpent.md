@@ -21,6 +21,8 @@ In Christian tradition, the serpent is often associated with the idea of the fal
 
 ### In Raëlism 🔯
 
+the Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
+
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh explains how a group of engineering Elohim disobeyed and came to be known as the Serpent:
 
 > Some scientists in this team felt a deep love for their little human beings, their "creatures", and they wanted to give them a complete education in order to make them scientists like themselves. So they told these young people who were almost adults that they could pursue their scientific studies and in so doing they would become as knowledgeable as their creators.

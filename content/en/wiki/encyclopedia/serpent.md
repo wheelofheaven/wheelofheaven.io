@@ -37,6 +37,9 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh exp
 >
 > The "serpent" was this small group of creators who had wished to tell the truth to Adam and Eve, and as a result they were condemned by the government of their own planet to live in exile on Earth, while all the other scientists had to put a stop to their experiments and leave the Earth.
 
+In this passage, a team of scientists on Earth create human beings who are almost as intelligent as their creators. However, the creators are cautious and keep the scientific books away from the young human beings, wanting to ensure they don't surpass their own knowledge. But some of the creators take pity on the humans and decide to give them a complete education so that they too can become scientists. The humans become angry with their "parents" for keeping them in ignorance, and the creators who tried to help them are cursed and exiled to Earth. The "serpent" referred to in the Bible is actually this small group of creators who wanted to share knowledge with the humans.
+
+
 ### See also
 
 - [Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})

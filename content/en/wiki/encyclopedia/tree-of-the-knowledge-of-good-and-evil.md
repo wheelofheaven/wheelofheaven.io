@@ -37,6 +37,8 @@ According to the first book _The Book Which Tells The Truth_, 2nd chapter, Genes
 >
 > This means you - the created - can learn all you want, read all of the books that we have here at your disposal, but never touch the scientific books, otherwise you will die.
 
+The human beings created were extremely intelligent, which led to steps being taken to prevent them from surpassing their creators. They were kept ignorant of great scientific secrets, but were educated to measure their intelligence. The prohibition against eating from the tree of knowledge of good and evil meant that the created beings could learn and read whatever they wanted, but they were not allowed to access scientific knowledge or they would face death. This is described in Genesis 2:16-17.
+
 ### See also
 
 - [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})

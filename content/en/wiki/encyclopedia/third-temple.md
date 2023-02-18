@@ -37,6 +37,16 @@ According to the _Book Which Tells The Truth_, Sixth Chapter "The New Commandmen
 >
 > You will try to ensure that the area where this residence is built -if possible larger than stipulated here- is treated as neutral territory by other nations and by the nation on whose territory it is located, by virtue of it being our embassy on Earth.
 
+The passage outlines instructions for the construction of a residence in a pleasant country with a mild climate, to be used as an embassy on Earth for extraterrestrial beings. The residence should have seven rooms with separate bathrooms, a conference room for 21 people, a swimming pool, and a dining room for 21 people. It should be situated in the middle of a park surrounded by walls, at a distance of at least one thousand meters from the park walls. The residence will have two entrances and will be screened by trees and bushes. The air space around the residence should not be under direct military or radar surveillance. The area around the residence should be treated as neutral territory by other nations and by the nation on whose territory it is located.
+
+In Raëlian beliefs, the third temple refers to the embassy that the Elohim, the extraterrestrial creators, asked to be built on Earth in accordance with their plan. They believe that the embassy is the symbol of the third temple, which is a place of worship for those who believe in the message of the Elohim.
+
+According to their beliefs, the first temple was built by King Solomon in Jerusalem and destroyed by the Babylonians in 586 BCE, while the second temple was rebuilt after the Babylonian exile and destroyed by the Romans in 70 CE. They see the construction of the embassy as the fulfillment of the prophecy in the Bible that the third temple will be built by the Messiah.
+
+The embassy is seen as the place where the Elohim will meet with their ambassadors and provide them with guidance and knowledge. The Raëlians see the embassy as a place of peace and education, where the Elohim's message of love, peace, and respect for life can be shared with the world.
+
+In this sense, the embassy can be considered the third temple, as it represents the physical manifestation of the Raëlian belief system and their connection to the Elohim. It is a place where their members can come together to worship and learn, and where they can share their beliefs with others in the hopes of promoting a more peaceful and harmonious world.
+
 ### See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>

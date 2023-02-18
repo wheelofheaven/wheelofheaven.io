@@ -41,7 +41,6 @@ In conclusion, Homaranismo provides insight into Zamenhof's thoughts on the conc
 >
 > L. L. Zamehof in Homaranismo
 
-
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, Yahweh explores a way to handle Earthly economics which he tentatively named Humanitarianism. The first paragraph of the New Commandments called Humanitarniasm goes as follows:
@@ -89,11 +88,11 @@ The passage discusses the problems with profit-driven societies and the limitati
 >> And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
 >>
 >> — Leviticus 25: 8.
->
+>>
 >> And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour's hand, ye shall not oppress one another: According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee: According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.
 >>
 >> — Leviticus 25: 14-16.
->
+>>
 >> The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.
 >>
 >> — Leviticus 25: 23.

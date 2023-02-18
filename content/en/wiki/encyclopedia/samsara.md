@@ -41,6 +41,8 @@ If humanity is not sufficiently wary of these devils, it will fall back into the
 >
 > That is why we can find the swastika in our symbol, as in numerous ancient writings, which signifies "the cycle". It is the choice between paradise, which the peaceful use of science makes possible, and the hell of returning to the primitive stage where humanity submits to nature instead of dominating and benefiting from it.
 
+According to the excerpt, the swastika is a symbol for the eternal recurrence, which is the idea that history repeats itself in cycles. The swastika is associated with the cycle because it represents the choice between a golden age of civilization, where science serves the people and creates an earthly paradise, and a primitive stage where humanity submits to nature instead of dominating and benefiting from it. In this context, the swastika symbolizes the choice between escaping the cycle of suffering and achieving a state of bliss through overcoming and awakening or being trapped in the cycle of reincarnation of the whole human species and growing another global civilization from anew.
+
 ### See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})

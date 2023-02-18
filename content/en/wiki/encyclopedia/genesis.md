@@ -31,7 +31,7 @@ The creation story in the Book of Genesis is just one of many creation myths tha
 
 - The Heliopolitan Creation Myth: This is an Egyptian creation myth that tells the story of how the god Atum created the world by masturbating and spitting out the sun and the first humans. While the Heliopolitan Creation Myth is quite different from the Genesis story, it is possible that it influenced some aspects of it.
 
-These are just a few examples of the many creation myths that may have influenced the Genesis story. It is likely that the biblical writers were familiar with these myths and drew upon them to create their own unique account of creation. 
+These are just a few examples of the many creation myths that may have influenced the Genesis story. It is likely that the biblical writers were familiar with these myths and drew upon them to create their own unique account of creation.
 
 It is possible that the Genesis version of the creation story developed independently of the other creation myths in the ancient Near East. While there are similarities between the Genesis story and other creation myths, scholars like to point out that there are also significant differences that suggest the biblical writers were not simply copying earlier myths. As such an example, it is thought that the Genesis story emphasizes monotheism, the idea that there is only one God who created the world, whereas many of the other creation myths are polytheistic and involve multiple gods.
 
@@ -47,11 +47,11 @@ In the Hebrew language and in the Bible, the word "yom" (יום) is typically tr
 
 | Begins in | Ends in   | Zodiacal house     | Day of Creation | Theme        |
 |-----------|-----------|--------------------|-----------------|--------------|
-| 21'810 BC | 19'650 BC | Age of Capricorn   | 1st day         | Exploration  | 
+| 21'810 BC | 19'650 BC | Age of Capricorn   | 1st day         | Exploration  |
 | 19'650 BC | 17'490 BC | Age of Sagittarius | 2nd day         | Analysis     |
 | 17'490 BC | 15'330 BC | Age of Scorpio     | 3rd day         | Terraforming |
 | 15'330 BC | 13'170 BC | Age of Libra       | 4th day         | Accomodation |
-| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecology      | 
+| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecology      |
 | 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Magnus Opus  |
 | 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day         | Rest in Eden |
 

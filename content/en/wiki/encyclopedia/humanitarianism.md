@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.
+Broadly spoken, Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.
 
 ### In todays usage
 
@@ -27,7 +27,7 @@ Humanitarianism also involves advocating for the rights of people affected by cr
 
 ### L. L. Zamehof
 
-L.L. Zamenhof wrote a book called "HOMARANISMO" which outlines his thoughts on the concept of "Humanitarianism". The book, which was written in Esperanto, is a collection of essays and speeches that Zamenhof gave on the topic of humanism and its relationship to the Esperanto movement.
+L.L. Zamenhof wrote a book called Homaranismo[^1] which outlines his thoughts on the concept of "Humanitarianism". The book, which was written in Esperanto[^2], is a collection of essays and speeches that Zamenhof gave on the topic of humanism and its relationship to the Esperanto movement.
 
 In the book, Zamenhof argues that humanism and humanitarianism should be at the core of the Esperanto movement, and that the language should be used as a tool for promoting these values. He asserts that Esperanto should serve as a means of bringing people together and fostering mutual understanding, respect, and cooperation among individuals from different cultures and backgrounds.
 
@@ -35,11 +35,12 @@ Zamenhof also writes about the importance of the principles of equality and just
 
 Furthermore, Zamenhof writes about the role of the individual in promoting humanitarianism and humanism, and encourages readers to embrace these values in their personal and professional lives. He asserts that the principles of humanitarianism and humanism are essential for creating a better world, and that individuals have a responsibility to work towards this goal.
 
-In conclusion, "HOMARANISMO" provides insight into Zamenhof's thoughts on the concept of humanitarianism and its relationship to the Esperanto movement. The book highlights his belief in the importance of using Esperanto as a tool for promoting humanitarian values and fostering mutual understanding, respect, and cooperation among people from different cultures and backgrounds.
+In conclusion, Homaranismo provides insight into Zamenhof's thoughts on the concept of humanitarianism and its relationship to the Esperanto movement. The book highlights his belief in the importance of using Esperanto as a tool for promoting humanitarian values and fostering mutual understanding, respect, and cooperation among people from different cultures and backgrounds.
 
 > Any insult or oppression of a man because he belongs to another race, another language or another social class than me, I regard as barbaric.
 >
 > L. L. Zamehof in Homaranismo
+
 
 ### In Raëlism 🔯
 
@@ -54,6 +55,52 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 > This world is not yours - that also is written in the Bible. You are only tenants. Thus all goods should be rented for forty-nine years.
 >
 > This will eliminate the injustice of inheritance. Your true inheritance, and that of your children, is the entire world, if you knew how to organize yourselves to make it pleasant. This political orientation of humanity is not Communism; its preoccupation is the future of humanity. If you want to give it a name, call it "Humanitarianism".
+
+The passage discusses the problems with profit-driven societies and the limitations of communism. The author suggests that people should be born with similar financial means, and property ownership should be abolished without implementing communism. They propose that all goods should be rented for 49 years, which would eliminate the injustice of inheritance. The goal is not communism, but a political orientation focused on the future of humanity called "Humanitarianism". The message is that people should work towards organizing themselves to create a more equitable and pleasant world.
+
+> Take for example a man who has finished his studies at the age of twenty-one and wants to work. He chooses his profession and earns a salary. If he wants to find a place to live while his parents are still alive, he "buys" a house - but of course, in reality, he is renting a house or apartment for forty-nine years from the State which constructed it.
+>
+> If the value of the house is estimated at 100,000 francs, he can pay that amount divided into monthly installments for forty-nine years.
+>
+> At the age of seventy (twenty-one plus forty-nine), he will have paid for his house and can live there until his death, without ever paying again.
+>
+> After his death, the house will go back to the State, which must then allow his children, if there are any, to benefit from it freely.
+>
+> Supposing there is one child, then this child can live freely all his life in his father's house. At his death, his child in turn can also benefit from the family house, and so on indefinitely. Inheritance must be completely abolished, except for the family house. This does not, however, prevent each person from being rewarded individually for their merits.
+>
+> Let us take another example. Someone has two children. One is a good worker, and the other is lazy. At the age of twenty-one, they both decide to go their own separate ways. They each rent a house worth 100,000 francs.
+>
+> The worker will rapidly earn more money than the lazy one. He will then be able to rent a house worth twice as much as the first one.
+>
+> If he has the means, he will even be able to rent both houses, one as a country house.
+>
+> If his savings are fruitful, he will also be able to build a house and rent it for forty-nine years, thereby receiving money due to him. But at his death, everything will go back to the community, except for the family home, which will go to the children.
+>
+> Thus individuals can make a fortune for themselves depending on their own merits, but not for their children. To each their own merits.
+>
+> The same should apply to commercial and industrial enterprises. If someone creates a business, it is theirs for their entire life, and they can rent it out, but never for more than forty-nine years. The same goes for farmers. They can rent land and cultivate it for forty-nine years, but after that, it all goes back to the State, which will be able to rent it out again for another forty-nine years. Their children can also rent it for forty-nine years.
+>
+> This method must be adopted for all goods that remain exploitable, and as for the value of things, nothing changes. Everything that is of value such as shares, gold, enterprises, cash, or buildings is owned by the community but may be rented for forty-nine years by those who have acquired the means by their own merits and labor.
+>
+> In this way, somebody who made a fortune around the age of forty will be able to construct houses, rent them as apartments for forty-nine years, and enjoy that money so long as life lasts.
+>
+> Afterwards, the money, which comes from these rents, will go back to the community. This humanitarianism is already prescribed in the Bible:
+>
+>> And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
+>>
+>> — Leviticus 25: 8.
+>
+>> And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour's hand, ye shall not oppress one another: According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee: According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.
+>>
+>> — Leviticus 25: 14-16.
+>
+>> The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.
+>>
+>> — Leviticus 25: 23.
+>
+> If geniuses are admitted to power, they will understand the usefulness of these reforms. You must also see to it that all the nations of the Earth unite to form only one government.
+
+The passage proposes a political system that goes beyond communism and capitalism, which aims to eliminate the injustice of inheritance and provide equal opportunities to all people. It suggests that all goods, including houses, commercial and industrial enterprises, and land, should be rented for 49 years from the State, and no individual should be allowed to own them permanently. Effectively, property ownership is abolished. After 49 years, the property goes back to the community. However, individuals can still accumulate wealth and make a fortune depending on their merits, but not for their children. The passage suggests that this system would promote equality and discourage the accumulation of wealth across generations. Yahweh asserts this system has already been described in the Bible, specifically in Leviticus 25:8, 14-16, and 23, which prescribe a jubilee year every 49 years when all slaves are freed, and all lands are returned to their original owners. The passage argues that it could be implemented if geniuses were in positions of power and all nations united under a single government.
 
 ### Left-libertarianism and the Steiner-Vallentyne school
 
@@ -77,6 +124,16 @@ Freiwirtschaft, as imagined by Silvio Gesell, is a school of thought that advoca
 
 While there are some similarities between left-libertarianism, Georgism, and Freiwirtschaft, each of these philosophies has its own distinct ideas and priorities. However, they all share a commitment to promoting equality and reducing poverty, and they all see the state as having a role to play in achieving these goals.
 
+### Humanitarianism as a special special case of Steiner-Vallentyne
+
+The two passages quoted from the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, which describe a system of economics and property ownership that is based on the idea of renting rather than owning, are related to the ideas proposed by the Steiner-Vallentyne school of thought in several ways.
+
+Firstly, both the passages and the Steiner-Vallentyne school of thought reject the idea of private ownership of natural resources and advocate for their common ownership. The passages state that "everything that is of value such as shares, gold, enterprises, cash, or buildings is owned by the community but may be rented for forty-nine years by those who have acquired the means by their own merits and labor." Similarly, the Steiner-Vallentyne school of thought proposes that the Earth's natural resources should be owned in common by all members of society.
+
+Secondly, both the passages and the Steiner-Vallentyne school of thought reject the idea of inheritance, at least beyond the family home. The passages state that "inheritance must be completely abolished, except for the family house" and that "after his death, everything will go back to the community, except for the family home, which will go to the children." Similarly, the Steiner-Vallentyne school of thought argues that inheritance violates the principle of equality and should be limited in some way.
+
+Finally, both the passages and the Steiner-Vallentyne school of thought advocate for a system of economic organization that is based on renting rather than owning. The passages propose that "all goods should be rented for forty-nine years" and that individuals can make a fortune for themselves depending on their own merits, but not for their children. Similarly, the Steiner-Vallentyne school of thought argues that property should be held in common and that individuals should have the right to use and enjoy the fruits of their labor, but not to monopolize resources or accumulate wealth at the expense of others.
+
 ### See also
 
 [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})</br>
@@ -85,7 +142,11 @@ While there are some similarities between left-libertarianism, Georgism, and Fre
 
 [Humanitarnism | Wikipedia](https://en.wikipedia.org/wiki/Humanitarianism)</br>
 [Homaranismo | Wikipedia](https://en.wikipedia.org/wiki/Homaranismo)</br>
-[Left-libertarianism › Steiner-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)</br>
+[Left-libertarianism #Steiner-Vallentyne school | Wikipedia](https://en.wikipedia.org/wiki/Left-libertarianism#Steiner%E2%80%93Vallentyne_school)</br>
+[Left-Libertarianism | Scholarly Community Encyclopedia](https://encyclopedia.pub/entry/history/show/82064)
 [Jubilee | Wikipedia](https://en.wikipedia.org/wiki/Jubilee_(biblical))</br>
 [Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)</br>
 [Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)</br>
+
+[^1]: [Collection of ideas - Zamenhof.info](https://zamenhof.info/en/idearo)
+[^2]: [Deklaracio pri Homanarismo, L. L. Zamenhof](https://rudhar.com/religion/Homaranismo/homaeoia.htm)

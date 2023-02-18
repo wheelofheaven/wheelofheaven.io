@@ -29,6 +29,8 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahw
 >>
 >> — Genesis 11: 6.
 
+In this passage, it is suggested that the people of Israel were highly intelligent and progressed quickly with the help of exiled creators. They built a massive rocket, known as the Tower of Babel, with the aim of going to the creators’ planet to show their intelligence, gratitude, and peacefulness in order to obtain their pardon. The reference to Genesis 11:6 implies that the people had great ambition and determination to achieve their goals.
+
 ### See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})

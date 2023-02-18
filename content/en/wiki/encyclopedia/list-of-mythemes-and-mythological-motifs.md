@@ -13,6 +13,14 @@ weight: 200
 toc: true
 ---
 
+Mythemes, also known as mythological motifs, are the recurring themes, symbols, and patterns found in myths and legends from various cultures throughout history. They represent the fundamental building blocks of myths, and can be observed in stories from diverse regions and times. These mythemes can range from the concept of a hero’s journey to the use of certain animals to represent specific qualities or ideas.
+
+One example of a prominent mythological motif is the Creation myth, which explains the origins of the world, the universe, and human life. Creation myths can take many forms and can be found in many cultures, such as the Babylonian Enuma Elish or the Judeo-Christian Genesis. These myths often involve a supreme being or beings that create the world and all life within it through supernatural means, such as speaking it into existence or molding it out of clay.
+
+Another well-known mythological motif is the flood myth, which can also be found in many cultures and traditions. This motif typically involves a catastrophic flood that destroys most of the world, and often leads to the creation of a new world or the rebirth of humanity. Examples of flood myths can be found in the Epic of Gilgamesh, the Hindu story of Manu, and the biblical story of Noah and the ark.
+
+One of the most fascinating mythological motifs is that of the creators from the sky, or from above. These stories involve the arrival of beings from another world who impart knowledge, technology, or culture to humans. These creators are often depicted as powerful, advanced beings with god-like abilities, and can be found in myths from various cultures, such as the Sumerian Anunnaki, the Greek Titans, or the Hindu Devas. The stories of the creators from the sky have led many to speculate that they were actually extraterrestrial beings, who came to Earth and interacted with humans in the distant past.
+
 ### List of mythemes and mythological motifs
 
 The following table shows the majority of well-established, well-known mythemes and mythological motifs that exhibit mythological readings that can be explained within the Wheel of Heaven working hypothesis:

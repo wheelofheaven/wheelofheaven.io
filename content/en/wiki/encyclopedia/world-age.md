@@ -23,21 +23,21 @@ In addition to its astrological significance, the precessional World Age has als
 
 The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.
 
-| Begins in | Ends in   | Zodiacal house     | Events                     |
-|-----------|-----------|--------------------|----------------------------|
-| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age     |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus and his fishermen    |
-| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus            |
-| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah    |
-| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve |
-| 11'010 BC | 8'850 BC  | Age of Leo         | First humans along Elohim  |
-| 13'170 BC | 11'010 BC | Age of Virgo       | Beginning of proto humans  |
-| 15'330 BC | 13'170 BC | Age of Libra       | Bigger animals, ecology    |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | Astronomy and more life    |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | Plant and small life       |
-| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, analysis |
-| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void      |
+| Begins in | Ends in   | Zodiacal house     | Events                        |
+|-----------|-----------|--------------------|-------------------------------|
+| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
+| 210 BC    | 1'950     | Age of Pisces      | Jesus and his fishermen       |
+| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
+| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
+| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |
+| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve    |
+| 11'010 BC | 8'850 BC  | Age of Leo         | First humans alomg Elohim     |
+| 13'170 BC | 11'010 BC | Age of Virgo       | Diversity of life             |
+| 15'330 BC | 13'170 BC | Age of Libra       | Astronomy, accomodation       |
+| 17'490 BC | 15'330 BC | Age of Scorpio     | Terraforming and plant life   |
+| 19'650 BC | 17'490 BC | Age of Sagittarius | Study and analysis            |
+| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
+| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
 
 ### See also
 

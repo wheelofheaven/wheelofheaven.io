@@ -39,21 +39,15 @@ This is not accurate as the name of God, [Elohim]({{< relref "wiki/encyclopedia/
 
 ### Seven days as in seven Great Months
 
-The idea that the "days" mentioned in the Biblical creation narrative of Genesis could be understood as representing much longer periods of time, specifically 2,190 years each, is based on the belief in the concept of precessional cycles. Precession refers to the slow, cyclical movement of the Earth's axis, which takes approximately 26,000 years to complete one cycle.
+The idea that the "days" mentioned in the Biblical creation narrative of Genesis could be understood as representing much longer periods of time, specifically 2'160 years each, is based on the belief in the concept of precessional cycles. Precession refers to the slow, cyclical movement of the Earth's axis, which takes approximately 26,000 years to complete one cycle.
 
-According to this interpretation, each "day" in the creation story would represent one of the 12 astrological ages in the precession cycle, with each age lasting approximately 2,190 years. Proponents of this interpretation argue that the seven days of creation correspond to the seven main astrological ages: Aries, Taurus, Gemini, Cancer, Leo, Virgo, and Libra.
+According to this interpretation, each "day" in the creation story would represent one of the 12 astrological ages in the precession cycle, with each age lasting approximately 2'160 years. Proponents of this interpretation argue that the seven days of creation correspond to the seven main astrological ages: Aries, Taurus, Gemini, Cancer, Leo, Virgo, and Libra.
 
-In the Hebrew language and in the Bible, the word "yom" (יום) is typically translated as "day" and is understood to refer to a 24-hour period. The idea that "yom" could mean a much longer period of time, such as a precessional month, is not a widely accepted interpretation within the scholarly community.
+In the Hebrew language and in the Bible, the word "yom" (Hebrew: יום) is typically translated as "day" and is understood to refer to a 24-hour period. The idea that "yom" could mean a much longer period of time, such as a precessional month, is not a widely accepted interpretation within the scholarly community. However, the term can also be interpreted as meaning a general period of time, rather than a literal day.
 
-| Begins in | Ends in   | Zodiacal house     | Day of Creation | Theme        |
-|-----------|-----------|--------------------|-----------------|--------------|
-| 21'810 BC | 19'650 BC | Age of Capricorn   | 1st day         | Exploration  |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | 2nd day         | Analysis     |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | 3rd day         | Terraforming |
-| 15'330 BC | 13'170 BC | Age of Libra       | 4th day         | Accomodation |
-| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecology      |
-| 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Magnus Opus  |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day         | Rest in Eden |
+There are a few reasons for this. First, the word "yom" is used in different ways throughout the Bible. In some cases, it refers to a literal day, as in the day and night cycle. But in other contexts, it can refer to a longer period of time, such as an epoch or era. Also, the interpretation of "yom" as a longer period of time is supported by the use of the phrase "evening and morning" in the Book of Genesis. Some scholars suggest that this phrase may be used to signify the beginning and end of a creative period, rather than a literal day.
+
+Thus "yom", in its context, is sometimes translated as: "time" (Gen 4:3, Is. 30:8); "year" (I Kings 1:1, 2 Chronicles 21:19, Amos 4:4); "age" (Gen 18:11, 24:1 and 47:28; Joshua 23:1 and 23:2); "always" (Deuteronomy 5:29, 6:24 and 14:23, and in 2 Chronicles 18:7); "season" (Genesis 40:4, Joshua 24:7, 2 Chronicles 15:3); epoch or as many take it literally to as a 24-hour day (Genesis 1:5,8,13,19,23,31).[^1]
 
 ### In Raëlism 🔯
 
@@ -213,6 +207,16 @@ By piecing together various clues, it is important to determine the location of 
 
 It is during the Age of Cancer that the well-known story of Adam and Eve in the Garden of Eden would take place, along with the subsequent events narrated in Genesis.
 
+| Begins in | Ends in   | Zodiacal house     | Day of Creation | Theme        |
+|-----------|-----------|--------------------|-----------------|--------------|
+| 21'810 BC | 19'650 BC | Age of Capricorn   | 1st day         | Exploration  |
+| 19'650 BC | 17'490 BC | Age of Sagittarius | 2nd day         | Analysis     |
+| 17'490 BC | 15'330 BC | Age of Scorpio     | 3rd day         | Terraforming |
+| 15'330 BC | 13'170 BC | Age of Libra       | 4th day         | Accomodation |
+| 13'170 BC | 11'010 BC | Age of Virgo       | 5th day         | Ecosystems   |
+| 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Human beings |
+| 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day of Rest | Aftermath    |
+
 ### See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
@@ -225,3 +229,5 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 - [Creation | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/4730-creation)
 - [Genesis (Old Testament | Britannica)](https://www.britannica.com/topic/Genesis-Old-Testament)
 - [Genesis, the Book of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/6580-genesis-the-book-of)
+
+[^1]: [Strong\'s Hebrew Lexicon, yom, #3117.](https://biblehub.com/hebrew/3117.htm)

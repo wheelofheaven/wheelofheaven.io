@@ -41,7 +41,6 @@ Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael'
 
 This passage is from the book of Genesis in the Bible and describes the story of Adam and Eve. In the story, a serpent tells Adam and Eve the truth, which results in the serpent being cursed by God and forced to live in exile on Earth. Adam and Eve are then provided with clothing made of animal skins by God.
 
-
 ### See also
 
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})

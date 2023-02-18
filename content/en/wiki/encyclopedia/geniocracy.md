@@ -67,6 +67,12 @@ According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandment
 >
 > We are talking about placing the genius in power, and you may call that "Geniocracy".
 
+In this passage, the author advocates for a system of government called "Geniocracy" in which individuals with high intelligence and aptitude are given the power to govern. The author argues that historically, power has been held by those with physical strength, wealth, or political maneuvering skills, rather than by those who make significant contributions to human progress, such as inventors and scientists.
+
+The author argues that the current electoral and polling systems are not suited to promoting human progress, as they allow people who are not well-informed or who lack intelligence to have the same political influence as those who are highly intelligent. The author suggests that psychological tests should be used to measure individuals' intelligence from a young age, and that only those with an intellectual capacity above a certain threshold should be eligible for public office or to vote.
+
+The author contends that this system is more democratic, as it gives power to those best suited to make informed decisions and solve complex problems. The author also notes that this system does not necessarily favor those with the most education, but rather those with the greatest natural intelligence. Furthermore, the author calls for a more merit-based system of government that values intelligence and the ability to make positive contributions to society.
+
 ### See also
 
 - [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})

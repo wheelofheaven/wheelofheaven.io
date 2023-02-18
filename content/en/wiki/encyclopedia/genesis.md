@@ -67,7 +67,7 @@ In the eponymous chapter [Genesis](https://wheelofheaven.github.io/rael-one-the-
 >
 > This research took quite some time. The "day" mentioned here corresponds to the period in which your sun rises under the same sign on the day of the vernal equinox, in other words, about 2,000 years on Earth.
 
-Based on the assumption that the first day lasted _a period in which the sun rises under the same sign on the day of the vernal equinox_, which is the astronomical definition of a Great Month, subsequent days of creation must have been of the same length. Therefore, if the creation account in Genesis took 7 days, this would amount to a period of 15,120 years, which is one-twelfth of the length of a precessional Great Year. 
+Based on the assumption that the first day lasted _a period in which the sun rises under the same sign on the day of the vernal equinox_, which is the astronomical definition of a Great Month, subsequent days of creation must have been of the same length. Therefore, if the creation account in Genesis took 7 days, this would amount to a period of 15,120 years, which is one-twelfth of the length of a precessional Great Year.
 
 #### Prequel to Genesis
 
@@ -84,7 +84,7 @@ As soon as the Elohimian civilization began to explore remote interstellar world
 #### First day
 
 Yahweh then elaborates on the first day of creation, which involved a thorough study of Earth's composition and atmosphere. At that point in their study, the planet was shrouded in water and a dense mist.
- 
+
 >> In the beginning Elohim created the heaven and the earth.
 >>
 >> — Genesis 1: 1.

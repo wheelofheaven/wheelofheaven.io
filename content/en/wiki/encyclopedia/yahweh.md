@@ -19,6 +19,10 @@ YHWH is considered the personal name of God in Judaism and is the name used most
 
 The exact meaning of YHWH is not clear, but it is thought to derive from the Hebrew verb "to be," suggesting that God is the source of all existence. The use of YHWH as the personal name of God reflects the Jewish belief in a personal, loving, and involved deity who is present in the world and actively involved in the lives of his people.
 
+### In Raëlism 🔯
+
+Yahweh is the president of the Council of the Eternals governing the Elohim’s planet.
+
 ### See also
 
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})

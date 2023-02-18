@@ -25,6 +25,40 @@ The word "Satan" comes from the Hebrew word "ha-Satan," which means "the accuser
 
 The etymology of the word "Satan" highlights the role of this figure as an accuser or adversary. In religious tradition, Satan is often depicted as opposing God and tempting humans to sin. This role as an adversary reflects the broader idea that Satan is an opponent of goodness, truth, and righteousness, and is constantly seeking to lead people away from God.
 
+### In Raëlism 🔯
+
+Satan is an Elohim who was opposed to the creation of other intelligent beings and believed that all beings, including humans, should be destroyed due to their violence. Yahweh says the following about Satan:
+
+> In the Book of Job, Chapter 1, you have the explanation of Satan:
+>
+>> Now there was a day when the sons of Elohim came to present themselves before Yahweh, and Satan came also among them.
+>>
+>> — Job 1: 6.
+>
+> Elohim in Hebrew literally means "those who came from the sky". The "sons of Elohim", in other words, the creators who watch human beings, report regularly to their planet of origin, indicating for the most part that human beings venerate and love the Elohim. But one of these Elohim, called Satan, was part of a group, which had always condemned the creation of other intelligent beings on a planet as close as the Earth, seeing them as a possible threat. That is why, on seeing Job's devotion, which was one of the best examples of human beings loving their creators, he said:
+>
+>> Doth Job fear Elohim for nought?... But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face. And Yahweh said unto Satan, 'Behold, all that he hath is in thy power; only upon himself put not forth thine hand.'
+>>
+>> — Job 1: 9-12.
+>
+> Hearing Satan's assertion that had Job not been rich, he would not have loved his creators, the government gave full power to Satan to ruin Job. It would then be seen if he still venerated his creators, and that is why killing him was forbidden.
+>
+> On seeing Job's dedication to respecting his creators, even when he was ruined, the government triumphed over the opposition, Satan. But Satan retorted that though Job had lost many things, he was still in good health. So the government gave Satan carte blanche so long as he did not kill Job:
+>
+>> Behold, he is in thine hand; but save his life.
+>>
+>> — Job 2: 6.
+
+The passage discusses the story of Satan in the Book of Job, where Satan is one of the "sons of Elohim" who report to their planet of origin about human behavior. Satan is part of a group that had always condemned the creation of other intelligent beings on Earth and viewed them as a possible threat. When Satan sees Job's devotion to his creators, he questions whether Job would still love them if he were not rich. Satan is then given power to ruin Job to test his loyalty to the creators, with the condition that he does not kill him. Despite Job's losses, he still respects and venerates his creators, which leads to the government's triumph over Satan.
+
+In Raël's third book, the following is said about Satan:
+
+> But Satan doesn’t give up over this, as what he wishes is that all the beings that have been created, be totally destroyed, because he judges them to be dangerous, due to their violence. As time passes, Satan accumulates proof of Man’s aggression by observing the way in which humans kill each other with the weapons that are given to them by the sons of Lucifer’s exiled group of Elohim. The latter is involved in “tender” relations with the daughters of men who manage to receive weapons in exchange for their charms, under the false pretense of giving them to their fathers or brothers so that they can hunt for food. In fact, men choose to fight abominable battles among themselves with this arsenal.
+
+In this excerpt, it is explained that Satan wants all beings to be destroyed because he considers them dangerous, due to their violence. He observes how humans kill each other with weapons provided by the exiled group of Elohim. The Elohim provide these weapons to the humans under the guise of using them for hunting, but the humans use them to engage in violent battles with each other. Satan accumulates proof of human aggression and uses it to support his belief that all beings should be destroyed.
+
+In the given excerpts, Satan is portrayed as a being who believes that only evil can be expected from humans. He is opposed to the idea that there are positive and non-violent humans who are full of love and fraternity. Satan's role appears to be one of accusing humans and presenting them in a negative light. It seems that he is not in favor of saving humanity from destruction and is more aligned with the belief that humanity is inherently evil.
+
 ### See also
 
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})

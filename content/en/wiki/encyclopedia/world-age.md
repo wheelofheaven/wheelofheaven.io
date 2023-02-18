@@ -26,7 +26,7 @@ The following table shows the last precessional cycle starting with the Age of A
 | Begins in | Ends in   | Zodiacal house     | Events                        |
 |-----------|-----------|--------------------|-------------------------------|
 | 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus and his fishermen       |
+| 210 BC    | 1'950     | Age of Pisces      | Jesus, multiplication         |
 | 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
 | 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
 | 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |

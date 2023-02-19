@@ -138,10 +138,18 @@ Later on, in the same book, Yahweh emphasizes the proper translation of Elohim a
 
 In summary, Yahweh explains that Elohim, the alleged name of God in the Bible, means "those who came from the sky" in Hebrew and is a plural word, implying that they represent members of an civilization from another world capable of interstellar travel.
 
+#### Individuals
+
+In Raëlism, there are a few Elohim invididuals that are known by their names or nominal roles. The most famous ones are named in the Bible with the following denominations:
+
+- **Yahweh**: The president of the Council of the Eternals and main representative of the Elohimian civilization.
+- **Lucifer**: Leader of a faction among the Elohim that brought the light and knowledge to the first human beings and main advocate for the continuity of the human species.
+- **Satan**: Leader of a faction among the Elohim that believes nothing good can come from the humans and main antagonist of the continuity of the human species.
+
 ### See also
 
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
-- [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
 - [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})

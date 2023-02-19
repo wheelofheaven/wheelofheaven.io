@@ -22,6 +22,16 @@ topics: ["Bible", "Elohim"]
 
 ![Image](images/dhorme-bible-books.jpg "La Bible: Ancient Testament, Tome I & Tome II (1956) — Edouard Dhorme")
 
+### About Edouard Dhorme
+
+Edouard Dhorme (1881-1966) was a French Assyriologist and biblical scholar. He is best known for his work on the Akkadian language and the cuneiform script, as well as his translations and commentaries on the Hebrew Bible and the Dead Sea Scrolls.
+
+Dhorme studied at the Ecole biblique et archéologique française de Jérusalem, where he developed his expertise in Semitic languages and literature. He later taught at several universities, including the Sorbonne in Paris, where he was appointed professor of Assyriology in 1933.
+
+Dhorme's most influential works include "The Ancient Near East," a survey of the history, culture, and religions of the region, and "Theologie babylonienne et judéo-chrétienne," a comparative study of Babylonian and Judeo-Christian theology. He also contributed to the French translation of the Bible known as the "Bible de Jérusalem," and published several commentaries on individual books of the Hebrew Bible, including the Psalms and the Book of Job.
+
+Dhorme's contributions to the fields of Assyriology and biblical scholarship are still recognized and studied today.
+
 ### See also
 
 [Wiki › Dhorme Bible translation]({{< relref "wiki/encyclopedia/dhorme-bible-translation.md" >}})</br>

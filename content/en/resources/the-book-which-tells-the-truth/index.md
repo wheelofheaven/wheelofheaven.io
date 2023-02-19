@@ -34,6 +34,14 @@ Overall, "The Book Which Tells the Truth" is a unique and controversial work tha
 
 ![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
 
+### About Claude Vorhilon
+
+Claude Vorilhon, who goes by the name Raël, is a French spiritual leader and founder of the Raelian movement. Born in 1946, Raël worked as a race car driver, journalist, and singer before claiming to have a spiritual encounter with extraterrestrial beings in 1973.
+
+According to Raël, these beings instructed him to spread their message of peace and love to humanity and to establish an embassy for them on Earth. He founded the Raelian movement in 1974, and it has since grown to become a global organization with thousands of members around the world.
+
+The Raëlian movement's teachings draw on a mix of science, religion, and philosophy, and emphasize the idea that humans are descended from extraterrestrial beings
+
 ### Read it for yourself
 
 📖 [Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)

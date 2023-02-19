@@ -30,6 +30,14 @@ The author draws on a wide range of historical and archaeological evidence, as w
 
 Overall, "The Coming of the Gods" is a thought-provoking and innovative book that offers a unique perspective on human history and spirituality. Whether or not the author's ideas are ultimately accepted by the wider academic community, the book remains an important and influential work in the field of alternative history and extraterrestrial studies.
 
+### About Jean Sendy
+
+Jean Sendy was a French author and esoteric writer who lived from 1910 to 1978. He is best known for his work on ancient astronauts and extraterrestrial intervention in human history. In his books, such as "Those Gods Who Made Heaven and Earth" and "The Coming of the Gods," Sendy explored the idea that human civilization was influenced or even created by beings from other planets.
+
+Sendy's work drew on a range of sources, including mythology, ancient texts, and scientific theories, to develop his ideas. He argued that many ancient cultures and religions had similar myths and legends about gods or divine beings who came from the sky, and that these stories could be interpreted as evidence of extraterrestrial contact.
+
+While Sendy's ideas were not widely accepted by mainstream scholars, his work had a significant impact on popular culture, and influenced later writers and researchers in the fields of ufology, ancient astronaut theory, and the search for extraterrestrial life.
+
 ### See also
 
 [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>

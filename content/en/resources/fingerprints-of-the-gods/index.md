@@ -34,6 +34,12 @@ Hancock also explores the idea that this lost civilization was destroyed by a na
 
 Overall, "Fingerprints of the Gods" is a thought-provoking and entertaining read that presents an alternative view of human history and the development of civilization. Whether or not the author's ideas are ultimately accepted by the wider academic community, the book remains an important and influential work in the field of alternative history and archaeology.
 
+### About Graham Hancock
+
+Graham Hancock is a British writer, journalist, and researcher who is best known for his work on ancient civilizations, prehistoric monuments, and altered states of consciousness. He has authored several books, including the international bestsellers "Fingerprints of the Gods," "The Sign and the Seal," and "Magicians of the Gods," in which he presents his theories and research on various historical and archaeological mysteries.
+
+Hancock's work often explores unconventional theories and ideas, including the possibility of lost civilizations, extraterrestrial intervention in human history, and the use of psychoactive substances in ancient religious practices. He has been a controversial figure in some academic circles, as his theories and interpretations have been met with skepticism by some experts in the fields of archaeology, anthropology, and history.
+
 ### See also
 
 [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>

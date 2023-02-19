@@ -29,3 +29,11 @@ The author uses evidence from archaeology, anthropology, and religious texts to 
 "The Scars of Eden" has been met with criticism from some religious scholars and mainstream scientists, who reject the author's claims as unsupported and lacking credible evidence. Nevertheless, the book remains a popular and widely discussed work in the field of alternative religion and extraterrestrial life.
 
 ![Image](images/the-scars-of-eden-book.jpg "The Scars of Eden, 2021 — Paul Anthony Wallis")
+
+### About Paul Anthony Wallis
+
+Paul Anthony Wallis is an author, researcher, and speaker, who has written several books on the topics of early Christianity, Gnosticism, and the origins of humanity. He is best known for his books "Scars of Eden" and "Echoes of Eden," which explore the possibility that the biblical story of Adam and Eve is based on ancient accounts of humanity's origins and interactions with extraterrestrial beings.
+
+Wallis has a background in theology, history, and archaeology, and has spent over two decades researching the origins of the Judeo-Christian tradition. He has also studied Gnosticism, a set of religious and philosophical beliefs that emerged in the early Christian era and were considered heretical by the Church.
+
+In addition to his writing, Wallis has given presentations on his research at conferences and events around the world. He has also appeared on various television programs and podcasts to discuss his work.

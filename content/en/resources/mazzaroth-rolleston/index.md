@@ -33,6 +33,16 @@ Overall, "Mazzaroth; or, The constellations" is a unique and fascinating work th
 
 ![Image](images/mazzaroth-rolleston-book.jpg "Mazzaroth; or, The Constellations — Frances Rolleston")
 
+### About Frances Rolleston
+
+Frances Rolleston (1781-1864) was an English scholar, author, and theologian who is best known for her work on biblical symbolism and typology. She was born into a wealthy family and spent much of her life studying and writing about the Bible and Christian theology.
+
+Rolleston's most significant work is "Mazzaroth; or, The Constellations," a study of the astrological symbolism of the Bible and the connection between the zodiac and biblical events. The book was published in 1865, a year after her death, and was based on her extensive research and notes.
+
+In addition to her work on biblical symbolism, Rolleston was also involved in various philanthropic and social causes, including the education and welfare of women and children. She supported various charitable organizations and was a prominent advocate for women's rights and social justice.
+
+Despite her contributions to the study of biblical symbolism and theology, Rolleston's work was largely overlooked by contemporary scholars, and her legacy was not fully recognized until many years after her death. Today, she is regarded as an important figure in the history of biblical studies and a pioneer of biblical typology and symbolism.
+
 ### See also
 
 [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>

@@ -25,3 +25,13 @@ topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
 Biglino's work has been controversial and his claims have been met with criticism and opposition by many in the religious community. While some have welcomed his perspectives and approach, others have accused him of promoting a secular and secularist agenda. Despite the debate surrounding his work, "La Bibbia non è un libro sacro" has been widely read and discussed, and has had a significant impact on the way some people view and understand the Bible.
 
 ![Image](images/la-bibbia-non-e-un-libro-sacro-book.jpg "La Bibbia non è un libro sacro, 2013 — Mauro Biglino")
+
+### About Mauro Biglino
+
+Mauro Biglino is an Italian author and translator who is known for his controversial work on ancient texts and the Bible. He has translated several ancient texts from Hebrew and Aramaic into Italian, including the Old Testament and the Dead Sea Scrolls.
+
+Biglino's translations and interpretations of the Bible have been controversial, as he argues that the text is not a religious or spiritual document, but rather a historical and cultural one. He believes that many of the stories and concepts in the Bible are based on earlier Mesopotamian and Sumerian myths and legends, and that they have been misinterpreted and distorted over time.
+
+Biglino has also argued that the Bible contains references to advanced technology and extraterrestrial beings, and that these have been deliberately suppressed or obscured by religious authorities over the centuries. He has written several books on these topics, including "The Book That Will Forever Change Our Ideas About the Bible" and "The Earth Does Not Belong to Man."
+
+Biglino's work has been met with both praise and criticism, with some scholars and readers finding his ideas thought-provoking and challenging, while others have dismissed his theories as unsubstantiated and far-fetched. Nonetheless, his work has contributed to the ongoing debate and discussion surrounding the origins and meaning of the Bible and other ancient texts.

@@ -32,4 +32,14 @@ In "The Zohar: Pritzker Edition," Matt provides in-depth commentary and analysis
 
 Overall, "The Zohar: Pritzker Edition" is a comprehensive and accessible translation of the Zohar that provides readers with a deeper understanding of this important and influential text. Whether you are a student of Kabbalah, a practitioner of Jewish mysticism, or simply someone interested in exploring the wisdom of the ancient mystics, this translation is a valuable resource that provides insights into the teachings of the Zohar and the Kabbalistic worldview.
 
+### About Daniel Matt
+
+Professor Daniel Matt is a scholar of Jewish mysticism and Kabbalah, and the translator of "The Zohar: Pritzker Edition," a multivolume, annotated translation of the classic work of Jewish mysticism known as the Zohar.
+
+Matt holds a PhD from Brandeis University and has taught at several institutions, including the Graduate Theological Union in Berkeley, California, where he served as a professor of Jewish spirituality and mysticism. He has written several books and articles on Jewish mysticism, including "The Essential Kabbalah," "God and the Big Bang," and "Zohar: Annotated and Explained."
+
+Matt's translation of the Zohar is widely regarded as one of the most comprehensive and accurate translations of the text to date. In addition to the text itself, the Pritzker Edition includes extensive commentary, notes, and essays that help to contextualize the work and make it more accessible to contemporary readers.
+
+Matt has been recognized for his contributions to the study of Jewish mysticism and Kabbalah, and has received several awards and honors for his work. He continues to be a prominent figure in the world of Jewish scholarship and mysticism.
+
 ![Image](images/the-zohar-pritzker-edition-book.jpg "The Zohar, Pritzker Edition 2018 — Translation and commentary by Daniel Matt")

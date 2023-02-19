@@ -19,6 +19,12 @@ In this context, religion provides a framework for understanding the world and o
 
 For many religious individuals, their faith and relationship with the divine is an important aspect of their daily lives, shaping their values, beliefs, and actions. For others, religion is a source of comfort and solace, providing guidance and support during times of hardship and uncertainty. Still others may see religion as a means of connecting with a community of like-minded individuals who share similar beliefs and practices.
 
+### In Raëlism 🔯
+
+In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about religion: 
+
+> Religion from the Latin religio means “that which links” or “the tie”, which unites the creators to their creation.
+
 ### See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

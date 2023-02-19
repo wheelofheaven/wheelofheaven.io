@@ -29,6 +29,12 @@ In ancient Greece, the word "prophetes" was used to refer to someone who was con
 
 This Greek word was later adopted and used in the Septuagint, the Greek translation of the Hebrew Bible, to translate the Hebrew word "nabi," which is commonly used to refer to a prophet in Jewish and Christian traditions.
 
+### In Raëlism 🔯
+
+In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about the meaning of prophet: 
+
+> Prophet from the Greek prophetes means “the one who reveals”.
+
 ### See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})

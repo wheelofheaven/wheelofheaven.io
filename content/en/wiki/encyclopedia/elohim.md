@@ -70,7 +70,7 @@ Later on, in the same book, he diligently translates the early Genesis passages 
 >
 > Ancient exegetes believed that the matter cannot be underestimated, [...]
 
-Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above." 
+Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above."
 
 ### Paul Anthony Wallis
 
@@ -101,7 +101,7 @@ In another passage of the same book, he suggest to have been able to settle the 
 >
 > The time in Egypt speaks of the Israelites’ time enslaved within a foreign religious culture before Yahweh revealed himself to Moses.
 >
->> “On the other side of the river,” refers to the religious culture of Abraham and Sarah’s roots in Sumerian Mesopotamia. Joshua 24:2 clarifies this:
+> “On the other side of the river,” refers to the religious culture of Abraham and Sarah’s roots in Sumerian Mesopotamia. Joshua 24:2 clarifies this:
 >
 >> “Since a time before memory your ancestors, right up until Terah, the father of Abraham and Nahor, lived on the other side of the river and served Powerful Ones (i.e. other (plural) elohim.)
 >
@@ -137,7 +137,6 @@ Later on, in the same book, Yahweh emphasizes the proper translation of Elohim a
 > Elohim in Hebrew literally means "those who came from the sky". The "sons of Elohim", in other words, the creators who watch human beings, report regularly to their planet of origin, indicating for the most part that human beings venerate and love the Elohim.
 
 In summary, Yahweh explains that Elohim, the alleged name of God in the Bible, means "those who came from the sky" in Hebrew and is a plural word, implying that they represent members of an civilization from another world capable of interstellar travel.
-
 
 ### See also
 

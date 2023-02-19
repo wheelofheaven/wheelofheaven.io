@@ -25,7 +25,7 @@ Machu Picchu, the famous Incan city in Peru, is also considered a megalithic sit
 
 Overall, megalithic sites offer a glimpse into the ancient world and the advanced engineering and construction techniques that were used to create these impressive structures. Their massive stone blocks, intricate alignments, and precise shapes continue to inspire curiosity and awe, and their study can help shed light on the cultural, religious, and technological practices of ancient civilizations.
 
-### List of megalithic sites
+## List of megalithic sites
 
 The following table lists an extensive enumeration of known megalithic sites:
 
@@ -42,15 +42,15 @@ The following table lists an extensive enumeration of known megalithic sites:
 | Stonehenge                  | Wiltshire, England                      |                   |                                       |
 | Tlachihualtepetl            | Cholula, Puebla, Mexico                 |                   |                                       |
 
-### See also
+## See also
 
 - [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 - [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
 
-### Read more
+## Read more
 
 - [Graham Hancock\'s Fingerprints of the Gods\: The Evidence of Earth\'s Lost Civilization]({{< relref "resources/fingerprints-of-the-gods/index.md" >}})
 
-### External links
+## External links
 
 - [Megalith | Wikipedia](https://en.wikipedia.org/wiki/Megalith)

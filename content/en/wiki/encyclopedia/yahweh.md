@@ -19,7 +19,7 @@ YHWH is considered the personal name of God in Judaism and is the name used most
 
 The exact meaning of YHWH is not clear, but it is thought to derive from the Hebrew verb "to be," suggesting that God is the source of all existence. The use of YHWH as the personal name of God reflects the Jewish belief in a personal, loving, and involved deity who is present in the world and actively involved in the lives of his people.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Yahweh is the president of the Council of the Eternals governing the Elohim’s planet.
 
@@ -35,7 +35,7 @@ According to the second book _Extraterrestrials Took Me To Their Planet_, Chapte
 
 The passage states that there is a residence on another planet where people from Earth can live due to a scientific secret of eternity based on a single cell. The residence is a large planet where the Council of the Eternals lives, and Yahweh is the president of that council. Currently, there are 8,400 people from Earth living there who have reached a sufficient level of open-mindedness towards the infinite or have contributed to humanity's progress through their discoveries, writings, ways of organizing society, and acts of fraternity, love, or selflessness. Alongside these people, there are 700 members of the Elohim who are part of the Council of the Eternals.
 
-#### Yahweh, the Eternal
+### Yahweh, the Eternal
 
 In the first book _The Book Which Tells The Truth_, Raël gets to ask Yahweh a few questions about him and the Elohim in general:
 
@@ -61,7 +61,7 @@ The experiment Yahweh is referring to was explained a little earlier on in the s
 
 Yahweh, the president of the council of the eternals, is 25,000 years old and has lived in twenty-five bodies. He directed the creation of life on Earth and has accumulated a vast amount of knowledge. The Elohim have a technology that allows them to re-create a person's body with new living matter using a tiny sample taken from the body. This technology can create a new body with the potential for another one thousand years of life, and the population is limited by granting eternal life only to geniuses. The council of the eternals decides who among those who have died deserves to live another life, and a grand council of the eternals assembles to judge who, in the light of their work, deserves to join the council of the eternals as a perpetual member. Those who wish to have a new life no longer have the right to have children. The scientists who were members of the council of the eternals created life on other planets as a way to transfer their procreative instincts.
 
-#### Alpha and Omega
+### Alpha and Omega
 
 In another passage of the Book, Yahweh explains what was meant by the common saying "The First and the Last":
 
@@ -81,18 +81,18 @@ On another account, Yahweh says the following:
 
 In this passage, Yahweh describes himself as the "alpha and the omega," just as he did in the previous passage where he explained the meaning of "The First and the Last". Yahweh also explains that he is sending a message to all humans of the Earth through his prophet, Raël, and that they are loved as if they were their own children. The message is directed towards those who have been created by the Elohim and have been guided towards the Golden Age.
 
-### Our take
+## Our take
 
 In traditional Christian theology, "the Alpha and the Omega" is interpreted as a title for God and as a reference to the book of Revelation in the Bible. It is a symbol of God's eternal nature and power over all creation, as God existed before all things and will exist beyond the end of all things. This phrase is also a reference to the first and last letters of the Greek alphabet, suggesting that God is the beginning and the end of all things. In this sense, the "Alpha and the Omega" is a powerful symbol of God's supreme authority, sovereignty, and divinity, as well as an assurance of God's faithful presence throughout all of human history.
 
 As pointed out by Yahweh himself, "The Alpha and the Omega" is a phrase used in the Book of Revelation that represents the beginning and the end, or the first and the last, suggesting that the Elohim, in particular Yahweh himself as their representative, are quasi immortal. In the context of the Raëlian messages, Yahweh describes himself as the Alpha and the Omega, indicating that he was the first on Earth, and he will be the last if men self-destroy. He explains that they have the technology to re-create a person's body with new living matter and that their minds can be immortal, leading to eternal life. This implies that the "Alpha and the Omega" could be a symbol of the Elohim's ability to create and recreate life, as well as their role in guiding humanity towards progress and enlightenment.
 
-### See also
+## See also
 
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
-### External links
+## External links
 
 - [Yahweh | Wikipedia](https://en.wikipedia.org/wiki/Yahweh)
 - [Tetragrammaton | Wikipedia](https://en.wikipedia.org/wiki/Tetragrammaton)

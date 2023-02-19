@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### Law of masstime
+## Law of masstime
 
 The law of masstime simply states that **time is inversely proportional to mass**.
 
@@ -23,7 +23,7 @@ This law holds true at all levels of existence, from the smallest living organis
 
 This universal law implies that everything in the universe is interconnected and operates in harmony, with each level of existence influencing and affected by every other level.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In Chapter 2 "Neither God Nor Soul", Yahweh says the following about the perception of time:
 
@@ -35,7 +35,7 @@ In Chapter 2 "Neither God Nor Soul", Yahweh says the following about the percept
 
 The passage explains that everything in the universe is interconnected, and that there are many worlds being born and dying within an atom in your arm at this very moment. Time is inversely proportional to the mass or level of form of life, and everything in the universe is alive and in harmony with the infinitely large and small. The Earth is alive like all planets, but humanity finds it difficult to perceive this because of the time lag caused by the enormous difference in mass. The passage concludes by stating that one red blood cell or atom in our body couldn't imagine that it forms part of a larger living being.
 
-### Our take
+## Our take
 
 If time is inversely proportional to the mass or level of form of life, then it means that time passes differently for different beings or entities in the universe. For example, a being with a larger mass or a higher level of form of life would experience time passing more slowly than a being with a smaller mass or a lower level of form of life.
 
@@ -43,6 +43,6 @@ This has interesting implications for our understanding of time and the universe
 
 Additionally, the idea that everything is in everything implies a deep interconnectivity and interdependence between all things in the universe. This means that everything we do and every decision we make can have far-reaching consequences that affect the entire universe, whether we are aware of it or not. It also suggests that there is a fundamental unity underlying all of existence, which can be a source of wonder and inspiration for those who contemplate it.
 
-### See also
+## See also
 
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})</br>

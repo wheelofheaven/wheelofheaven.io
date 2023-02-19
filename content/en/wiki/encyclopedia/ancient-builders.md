@@ -21,7 +21,7 @@ The notion of Ancient Builders is usually understood within the realm of an alle
 
 Proponents of this idea argue that these structures, such as pyramids, stone circles, and megaliths, are too complex and sophisticated to have been built by the civilizations that are known to have lived in the areas where they are found. They suggest that this ancient race may have had advanced knowledge of engineering, mathematics, and astronomy, and that they left behind evidence of their existence in the form of these structures.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Yahweh explains how a group of exiled Elohim known as the Serpent came to hide in the oceans and how the Elohim built bases and residences on top of high mountain peaks:
 
@@ -51,7 +51,7 @@ In another passage, Yahweh mentions how Ezekiel for instance was brought by an E
 
 The interpretation given is that the city referred to is one of the Earth bases that the Elohim, the creators used at the time, and that they were always located on high mountains to avoid being disturbed by humans.
 
-### See also
+## See also
 
 - [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
 - [Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})
@@ -59,4 +59,4 @@ The interpretation given is that the city referred to is one of the Earth bases 
 - [Wiki › Sacred Geometry]({{< relref "wiki/encyclopedia/sacred-geometry.md" >}})
 - [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
 
-### External links
+## External links

@@ -25,7 +25,7 @@ In some cases, close encounters have been associated with alleged sightings of U
 
 Despite this skepticism, the idea of close encounters remains a subject of fascination for many people. Whether they are the result of actual visitations from extraterrestrial beings or simply the products of human imagination, stories of close encounters continue to capture the imagination and inspire wonder and curiosity about the mysteries of the universe.
 
-### List of close encounters
+## List of close encounters
 
 The following table shows the majority of close encounters that have been reported since antiquity:
 
@@ -193,11 +193,11 @@ The following table shows the majority of close encounters that have been report
 | Umbrella-shaped object        | 1498 September 20 | Japan            | |
 | The slow-moving light seen by Pedro Cabral | 1499 | South Atlantic, off Africa | |
 
-### See also
+## See also
 
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-### Read more
+## Read more
 
 - [Resources › Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times]({{< relref "resources/wonders-in-the-sky/_index.md" >}})

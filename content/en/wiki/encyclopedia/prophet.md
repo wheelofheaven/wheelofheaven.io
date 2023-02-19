@@ -21,7 +21,7 @@ In many religious traditions, a prophet is considered to be a special intermedia
 
 In some religious traditions, the role of a prophet is also seen as one of a moral and spiritual guide, helping individuals and communities to understand the will of the divine and to live in accordance with divine principles.
 
-### Etymology
+## Etymology
 
 The English word "prophet" comes from the Greek word "prophetes," which means "one who speaks forth" or "one who speaks for." This word is derived from the verb "propheteuo," which means "to speak forth" or "to speak for."
 
@@ -29,18 +29,18 @@ In ancient Greece, the word "prophetes" was used to refer to someone who was con
 
 This Greek word was later adopted and used in the Septuagint, the Greek translation of the Hebrew Bible, to translate the Hebrew word "nabi," which is commonly used to refer to a prophet in Jewish and Christian traditions.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about the meaning of prophet:
 
 > Prophet from the Greek prophetes means “the one who reveals”.
 
-### See also
+## See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
 - [Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})
 
-### External links
+## External links
 
 - [Prophet | Wikipedia](https://en.wikipedia.org/wiki/Prophet)
 - [Prophecy | Britannica](https://www.britannica.com/topic/prophecy)

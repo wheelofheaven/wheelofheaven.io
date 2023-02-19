@@ -23,13 +23,13 @@ Moses then led the Israelites to Mount Sinai, where he received the Ten Commandm
 
 After 40 years of wandering in the wilderness, Moses died at the age of 120 and was buried by God in an unknown location. Despite his death, Moses remains a revered figure in the history of Judaism, Christianity, and Islam and is considered one of the greatest leaders and prophets in the Abrahamic tradition.
 
-### Moshe
+## Moshe
 
 The origin of the name Moses is uncertain. In the Hebrew Bible, his name is given as "Moshe" (מֹשֶׁה) and is derived from the Egyptian word "mose" meaning "child" or "son." Some scholars believe that the name may have been given to him by Pharaoh's daughter, who rescued him as a baby, while others believe that it may have been a name commonly given to boys in ancient Egypt.
 
 In the Septuagint, an ancient Greek translation of the Hebrew Bible, Moses' name is given as "Mouses" (Μωυσῆς), which is the source of the English name "Moses." Other versions of the name in different languages include Moïse in French, Mosè in Italian, and Moisés in Spanish. Regardless of its origin, the name Moses has become synonymous with the prophet, lawgiver, and leader who is revered as one of the greatest figures in the history of Judaism and a central figure in the Abrahamic tradition.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In the third Chapter of _The Book Which Tells The Truth_, Watching Over the Chosen People, Yahweh contextualized the need for a new prophet:
 
@@ -69,11 +69,11 @@ It explains how the Elohim, the creators dictated a set of rules and commandment
 
 In summary, Moses was a prophet who received guidance and assistance from extraterrestrial beings, referred to as the creators. The creators helped Moses liberate the people of Israel from slavery, guided them through the desert, and provided them with food and water. They also provided the Israelites with laws and regulations, including the Ten Commandments, which were intended to guide their morality and hygiene. Additionally, the creators requested offerings and a residence built for them according to their own plans. Finally, the creators assisted the Israelites in conquering the Promised Land and provided them with medical knowledge, including how to treat snakebites.
 
-### See also
+## See also
 
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 
-### External links
+## External links
 
 - [Moses | Wikipedia](https://en.wikipedia.org/wiki/Moses)
 - [Moses | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/11049-moses)

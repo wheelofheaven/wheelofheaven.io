@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### Equation
+## Equation
 
 The Drake euqation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way Galaxy.
 
@@ -41,7 +41,7 @@ Where the contributing factors are (in order):
 
 - $L$: The average length of time such civilizations produce such signs (years)
 
-### Usefuleness
+## Usefuleness
 
 The Drake equation is a mathematical formula used to estimate the number of detectable extraterrestrial civilizations in the Milky Way galaxy. Its intended purpose is to serve as a starting point for a scientific discussion about the possibility of extraterrestrial life and the likelihood of making contact with such civilizations.
 
@@ -59,12 +59,12 @@ In the same chapter, Drake goes on to say the following about the equation being
 
 The Drake Equation is meant to be a way of considering all the factors that might affect the existence and detection of extraterrestrial civilizations, and to provide a rough estimate of the number of civilizations that might exist. However, due to the lack of data on many of the variables, the answer is highly uncertain.
 
-### See also
+## See also
 
 - [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
 - [Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})
 
-### External links
+## External links
 
 - [Drake equation | Wikipedia](https://en.wikipedia.org/wiki/Drake_equation)
 - [Drake equation (astronomy) | Britannica](https://www.britannica.com/science/Drake-equation)

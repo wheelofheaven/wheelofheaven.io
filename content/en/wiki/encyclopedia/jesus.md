@@ -21,7 +21,7 @@ Jesus' teachings, as recorded in the Gospels of the New Testament, have had a pr
 
 Jesus' life and teachings are central to the Christian faith, and he is worshipped as Lord and Savior by Christians around the world.
 
-### Jesus' life
+## Jesus' life
 
 Jesus' life and teachings are recorded in the four Gospels of the New Testament: Matthew, Mark, Luke, and John. According to the Gospels, Jesus was born in Bethlehem in Judea to Mary and Joseph, and was baptized by John the Baptist.
 
@@ -33,7 +33,7 @@ After his death, Jesus' followers claimed that he had risen from the dead and ap
 
 Throughout his ministry, Jesus emphasized God's love and the importance of loving one another. He also taught about the need for repentance and the forgiveness of sins, and offered a message of hope and salvation to all who believe in him. The life and teachings of Jesus continue to inspire and influence people around the world to this day.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Jesus is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of Jesus:
 
@@ -131,14 +131,14 @@ In St. Matthew's Gospel, Chapter 26, Jesus explains the importance of his death 
 
 In this passage, it is explained that Jesus' mission on Earth was to spread the truth of the creators and to prepare humanity for their return. After his resurrection, Jesus commanded his apostles to teach all nations and observe his teachings. Jesus was then taken away by the creators after sharing important revelations about the progress of humanity. The passage states that the creators will appear more frequently to highlight their revelations and that the increase in UFO sightings is a sign that their arrival is approaching. The apostles were exposed to a concentrated burst of teaching, which impregnated their memories with elements of other languages to make it possible for them to spread the truth throughout the world.
 
-### See also
+## See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})
 - [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-### External links
+## External links
 
 - [Jesus | Wikipedia](https://en.wikipedia.org/wiki/Jesus)
 - [Jesus | Britannica](https://www.britannica.com/biography/Jesus)

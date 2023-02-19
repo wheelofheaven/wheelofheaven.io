@@ -21,7 +21,7 @@ The discovery of exoplanets has increased the likelihood of finding extraterrest
 
 The idea of cosmic pluralism in this context is important because it challenges traditional views of our place in the universe and expands our understanding of the possibilities of life beyond our own planet. The discovery of extraterrestrial life would have profound implications for our understanding of the universe and our own place in it, and would likely lead to new scientific and technological advancements.
 
-### Epicurus
+## Epicurus
 
 Epicurus, the ancient Greek philosopher, did relate to the idea of cosmic pluralism in the sense that he believed in the existence of multiple worlds. Epicurus was a proponent of atomism, the idea that all matter is made up of indivisible particles called atoms. He believed that the universe was infinite and that atoms were constantly in motion, colliding and forming new things. He also believed that there were an infinite number of worlds, each with its own unique properties and characteristics.
 
@@ -31,7 +31,7 @@ Epicurus' belief in multiple worlds was motivated by his desire to address the q
 
 In conclusion, Epicurus' belief in multiple worlds was a form of cosmic pluralism that was grounded in his atomic philosophy and was motivated by a desire to explain the apparent fine-tuning of our world for life. His ideas laid the foundation for the development of atomism and influenced later philosophers and scientists who explored the idea of multiple worlds and the nature of the universe.
 
-### Giordano Bruno
+## Giordano Bruno
 
 Giordano Bruno, the Italian philosopher and astronomer, was a strong advocate of cosmic pluralism in the sense of multiple inhabited worlds. He believed that the universe was infinite and that there were an infinite number of worlds, each with its own suns, stars, and planets, and that many of these worlds were inhabited by intelligent beings.
 
@@ -45,7 +45,7 @@ Bruno's beliefs were not well received in his time and he was eventually put on 
 
 Despite the tragic end to his life, Bruno's ideas had a profound impact on the scientific and philosophical community and paved the way for future scientists and philosophers to explore the concept of cosmic pluralism. His beliefs in multiple inhabited worlds, the infinity of the universe, and the heliocentric model of the universe were highly controversial in his time, but have since become widely accepted as part of our modern understanding of the universe.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to Raëlian teachings, the Elohim are believed to have created life on other planets as well, and may have communicated with humans throughout history, including in religious texts such as the Bible. Raëlism therefore places a strong emphasis on the idea of cosmic pluralism, and believes that humans should be open to the possibility of communicating with extraterrestrial life forms.
 
@@ -53,13 +53,13 @@ Furthermore, Raëlism sees the creation of life on other planets as part of a la
 
 In summary, Raëlism incorporates the idea of cosmic pluralism into its religious beliefs, viewing the existence of intelligent life on other planets as part of a larger cosmic plan guided by the Elohim. This belief is central to the movement's teachings and emphasizes the importance of being open to the possibility of communicating with extraterrestrial life forms.
 
-### See also
+## See also
 
 - [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
 - [Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
 
-### External links
+## External links
 
 - [Cosmic pluralism | Wikipedia](https://en.wikipedia.org/wiki/Cosmic_pluralism)
 - [Pluralistic cosmologies | Britannica](https://www.britannica.com/topic/Western-philosophy/Pluralistic-cosmologies)

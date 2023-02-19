@@ -19,13 +19,13 @@ The Tree of the Knowledge of Good and Evil is often interpreted as a symbol of t
 
 In addition to its religious significance, the Tree of the Knowledge of Good and Evil has also played a role in literature, art, and popular culture throughout history. The image of the tree is often used to symbolize the acquisition of knowledge and the potential consequences of its use, and has been referenced and portrayed in a wide range of cultural contexts.
 
-### In Genesis
+## In Genesis
 
 In the Genesis 2-3, the Tree of Knowledge of Good and Evil is one of two types of Trees being mentioned.
 
 > Genesis 2, 9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the first book _The Book Which Tells The Truth_, 2nd chapter, Genesis, Yahweh quotes the Bible passage and explains that the Tree of Knowledge of Good and Evil refers to books containing 'great scientific secrets':
 
@@ -39,10 +39,10 @@ According to the first book _The Book Which Tells The Truth_, 2nd chapter, Genes
 
 The human beings created were extremely intelligent, which led to steps being taken to prevent them from surpassing their creators. They were kept ignorant of great scientific secrets, but were educated to measure their intelligence. The prohibition against eating from the tree of knowledge of good and evil meant that the created beings could learn and read whatever they wanted, but they were not allowed to access scientific knowledge or they would face death. This is described in Genesis 2:16-17.
 
-### See also
+## See also
 
 - [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})
 
-### External links
+## External links
 
 - [Tree of the knowledge of good and evil | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil)

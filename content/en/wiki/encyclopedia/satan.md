@@ -21,13 +21,13 @@ Despite his reputation as a powerful and malevolent being, Satan is often depict
 
 The figure of Satan continues to play a significant role in many religious traditions and is often used to symbolize evil, temptation, and sin. It is important to note that beliefs about Satan can vary widely within different religious traditions and communities, and some religious traditions may not recognize the existence of Satan at all.
 
-### Etymology
+## Etymology
 
 The word "Satan" comes from the Hebrew word "ha-Satan," which means "the accuser" or "the adversary." In the Hebrew Bible, the term "Satan" was used to refer to a divine being who acted as a prosecuting attorney in God's court, accusing individuals of wrongdoing and testing their faithfulness. This understanding of Satan was adopted by early Christians and later became central to the development of the Christian idea of Satan as a tempter and the enemy of God.
 
 The etymology of the word "Satan" highlights the role of this figure as an accuser or adversary. In religious tradition, Satan is often depicted as opposing God and tempting humans to sin. This role as an adversary reflects the broader idea that Satan is an opponent of goodness, truth, and righteousness, and is constantly seeking to lead people away from God.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Satan is an Elohim who was opposed to the creation of other intelligent beings and believed that all beings, including humans, should be destroyed due to their violence. Yahweh says the following about Satan:
 
@@ -61,14 +61,14 @@ In this excerpt, it is explained that Satan wants all beings to be destroyed bec
 
 In the given excerpts, Satan is portrayed as a being who believes that only evil can be expected from humans. He is opposed to the idea that there are positive and non-violent humans who are full of love and fraternity. Satan's role appears to be one of accusing humans and presenting them in a negative light. It seems that he is not in favor of saving humanity from destruction and is more aligned with the belief that humanity is inherently evil.
 
-### See also
+## See also
 
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
-### External links
+## External links
 
 - [Satan | Wikipedia](https://en.wikipedia.org/wiki/Satan)
 - [Satan | Britannica](https://www.britannica.com/topic/Satan)

@@ -23,13 +23,13 @@ The exact origin of the Star of David as a symbol is not clear, and there are se
 
 Others see the Star of David as having a more abstract meaning, representing the connection between God and the Jewish people, or the blending of the male and female principles in the universe.
 
-### See also
+## See also
 
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
 - [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
 - [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
 
-### External links
+## External links
 
 - [Star of David | Wikipedia](https://en.wikipedia.org/wiki/Star_of_David)
 - [Star of David | Britannica](https://www.britannica.com/topic/Star-of-David)

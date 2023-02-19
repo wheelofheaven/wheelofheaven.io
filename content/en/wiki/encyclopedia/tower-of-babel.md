@@ -19,7 +19,7 @@ The story of the Tower of Babel is often interpreted as a symbol of human pride 
 
 In addition to its religious significance, the Tower of Babel has also played a role in literature, art, and popular culture throughout history. The image of the tower has been used to symbolize various forms of human endeavor and ambition, and has been referenced and portrayed in a wide range of cultural contexts.
 
-### According to Paul Anthony Wallis
+## According to Paul Anthony Wallis
 
 Paul Anthony Wallis, an Australian author on the subject of re-interpreting the Biblical scriptures with a plural Elohim, he explains in his first book on the topic, called _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, how he Sumerian account of Ziusudra related to the Biblical creation of the Tower of Babel:
 
@@ -30,7 +30,7 @@ stations in the sky.
 
 This is an intriguing detail because in the parallel biblical account, the name of the structure, "Babel," translates to "gateway for the elohim," which suggests a connection between the two stories. Wallis suggests that this could be seen as a primitive account of space travel and that these "stations in the sky" could be thought of as modern-day space stations, and the sending structure as a "stargate."
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahweh explicitly mentions the Tower of Babel and says the following about its specific purpose:
 
@@ -42,14 +42,14 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahw
 
 In this passage, it is suggested that the people of Israel were highly intelligent and progressed quickly with the help of exiled creators. They built a massive rocket, known as the Tower of Babel, with the aim of going to the creators’ planet to show their intelligence, gratitude, and peacefulness in order to obtain their pardon. The reference to Genesis 11:6 implies that the people had great ambition and determination to achieve their goals.
 
-### See also
+## See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 - [Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})
 - [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
 
-### External links
+## External links
 
 - [Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)
 - [Tower of Babel (mythological tower, Babylonia)](https://www.britannica.com/topic/Tower-of-Babel)

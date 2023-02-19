@@ -21,11 +21,11 @@ Over time, the concept of the Zodiac was adopted and developed by other cultures
 
 The Zodiac is still used today, primarily in astrology, where the positions and movements of the celestial bodies are thought to have a direct impact on human affairs and the lives of individuals. In astrology, the twelve signs of the Zodiac are believed to have specific characteristics and personality traits, and the position of the sun, moon, and planets at the time of a person's birth is thought to shape their personality and life path.
 
-### Etymology
+## Etymology
 
 The word "Zodiac" is derived from the Greek word "zōdiakos kyklos" which means "circle of animals." This term was used to describe the band of the sky containing the twelve constellations of the zodiac, which were symbolized by various animals and creatures, such as a ram (Aries), bull (Taurus), twins (Gemini), crab (Cancer), lion (Leo), virgin (Virgo), scales (Libra), scorpion (Scorpio), archer (Sagittarius), goat (Capricorn), water-bearer (Aquarius), and fish (Pisces).
 
-### Eastward shift
+## Eastward shift
 
 The shift of the zodiac over the years is due to the phenomenon of precession. Precession is a slow, cyclical movement of the Earth's rotational axis that causes the direction of the axis to trace out a large circle in the sky over a period of 26,000 years. This movement causes the positions of the stars as seen from the Earth to appear to change over time, and it also affects the positions of the equinoxes, which mark the beginning of the zodiac constellations.
 
@@ -33,7 +33,7 @@ The effect of precession on the zodiac is that the equinoxes slowly move westwar
 
 For example, around 2,000 years ago, the sun rose in the constellation of Aries on the spring equinox. Today, the sun rises in the constellation of Pisces on the spring equinox, and in the next few thousand years, it will rise in the constellation of Aquarius.
 
-### Mazzaroth
+## Mazzaroth
 
 The term "Mazzaroth" refers to a concept in some ancient Near Eastern cultures, including the Babylonians, Persians, and others, which refers to the zodiac and the cycle of the year. The term is derived from the Akkadian word "mazzalot," which means "constellations."
 
@@ -43,7 +43,7 @@ The term "Mazzaroth" is also mentioned in the book of Job in the Hebrew Bible, w
 
 In summary, the term "Mazzaroth" refers to the concept of the zodiac and the cycle of the year in ancient Near Eastern cultures, including the Babylonians and Persians. The term is derived from the Akkadian word "mazzalot" and was used to mark the passage of time and understand the changing seasons and cycles of nature.
 
-### Gospel in the Stars
+## Gospel in the Stars
 
 The Gospel in the Stars hypothesis is a biblical interpretation that suggests that the twelve constellations of the zodiac, along with the positions and movements of the celestial bodies within them, tell the story of God's plan of salvation for humanity. Proponents of this theory believe that the constellations and celestial bodies are not just random arrangements of stars, but rather have been deliberately placed in the sky by God to communicate a message to humanity.
 
@@ -51,17 +51,17 @@ According to the Gospel in the Stars hypothesis, the twelve constellations of th
 
 The Gospel in the Stars hypothesis is not a widely accepted scientific or biblical interpretation and has been criticized by scholars and theologians for its lack of evidence and its reliance on speculative and subjective interpretations of the stars and celestial bodies.
 
-### See also
+## See also
 
 - [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
 
-### Read more
+## Read more
 
 - [Resources › Frances Rolleston — Mazzaroth; or, The constellations (1862)]({{< relref "resources/mazzaroth-rolleston/index.md" >}})
 - [Resources › Joseph A. Seiss — The Gospel in the Stars (1884)]({{< relref "resources/the-gospels-in-the-stars/index.md" >}})
 - [Resources › Jim A. Cornwell — mazzaroth.com | The Alpha and the Omega website]({{< relref "resources/mazzaroth-dot-com/index.md" >}})
 
-### External links
+## External links
 
 - [Zodiac | Wikipedia](https://en.wikipedia.org/wiki/Zodiac)
 - [Zodiac | Britannica](https://www.britannica.com/topic/zodiac)

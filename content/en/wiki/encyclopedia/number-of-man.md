@@ -19,7 +19,7 @@ The Number of the Beast is mentioned in the New Testament Book of Revelation, sp
 >
 > <sup>18</sup> Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is 666.
 
-### Triangular number
+## Triangular number
 
 From a mathematical point of view, the number 666 is a triangular number. A triangular number or triangle number counts objects arranged in an equilateral triangle. The $nth$ triangular number is the number of dots in the triangular arrangement with $n$ dots on each side, and is equal to the sum of the $n$ natural numbers from $1$ to $n$. The sequence of triangular numbers, starting with the $0th$ triangular number, contains the following numbers, where $666$ is the $36th$ entry in that sequence:
 
@@ -47,7 +47,7 @@ $$
 
 This is mathematically interesting as triangular numbers are a subtype of figurative numbers.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Let's Welcome the Extraterrestrials_, The Apocalypse of the Final Nuclear Cataclysm, Yahweh explains what has been described in the Book of the Apocalypse which was revealed to John:
 
@@ -67,7 +67,7 @@ According to the _Let's Welcome the Extraterrestrials_, The Apocalypse of the Fi
 
 In this passage, it is suggested that the final test of humanity is the choice between self-destruction and the passage into a Golden Age, which is the last opportunity for Satan to prove that he was right in saying that humanity was bad. If humanity succeeds in obtaining total disarmament on the planet, then it will have proven itself worthy of receiving the inheritance. The "beast" mentioned in the book of Revelation is interpreted as the use of nuclear energy for murderous purposes. The number 666 is interpreted as the number of human generations that have existed on Earth since the creation of the first men in the original laboratories. This generation coincides with the first use of nuclear energy for destructive purposes in Hiroshima in 1945.
 
-### Our take
+## Our take
 
 Considering that the Number of Man may represents a given number of human generations would make it be a duration of time. Depending on what number of years a human generation amounts to, we would get different time durations. A generation is often defined as the average length of time between the birth of parents and the birth of their offspring. Therefore, a generation can vary in length depending on factors such as fertility rates, mortality rates, and cultural norms. 20 years can be considered a sound amount of years it takes for a generation to take place.
 
@@ -91,12 +91,12 @@ With these assumptions, we can say the Number of Man amounts to 6 Great Months o
 
 It is worth noting that the date of 11'375 BCE holds particular significance as it falls precisely at the point where the Age of Virgo (13'170-11'010 BCE) transitions into the Age of Leo (11'010-8'850 BCE). According to our interpretation of [Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}}), this would place the creation of the human species at the very start of the sixth day of creation, immediately following the Age of Virgo and on the cusp of the Age of Leo.
 
-### See also
+## See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 
-### External links
+## External links
 
 - [Number of the beast | Wikipedia](https://en.wikipedia.org/wiki/Number_of_the_beast)
 - [666 (New Testament) | Britannica](https://www.britannica.com/topic/666-New-Testament)

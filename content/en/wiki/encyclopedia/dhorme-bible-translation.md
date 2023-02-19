@@ -31,7 +31,7 @@ As such, Genesis starts with the following sentence in his translation:
 
 In the beginning, (the) Elohim created the heavens and the earth.
 
-### L'Ancient Testament
+## L'Ancient Testament
 
 Edouard Dhorme's translation of the Old Testament into French was considered a masterpiece of biblical scholarship for several reasons.
 
@@ -43,7 +43,7 @@ Finally, Dhorme's translation was praised for its literary qualities. He was a g
 
 Overall, Dhorme's translation of the Old Testament into French is widely regarded as a masterpiece of biblical scholarship because of its combination of philological rigor, historical and cultural insight, and literary quality.
 
-### Dhorme's biography
+## Dhorme's biography
 
 Édouard Dhorme (1881-1966) was a French orientalist and biblical scholar who made significant contributions to the study of the ancient Near East, particularly the history and literature of ancient Israel.
 
@@ -59,7 +59,7 @@ Dhorme's contributions to the study of the ancient Near East were recognized by 
 
 Dhorme remained active in scholarship and teaching throughout his life, and he continued to publish important works well into his later years. He died on October 1, 1966, at the age of 85, leaving behind a rich legacy of scholarship and insight into the ancient Near East.
 
-### Too high in knowledge
+## Too high in knowledge
 
 Edouard Dhorme became fascinated with the study of cuneiform alphabetic scriptures after the discovery of the unknown writing at Ras-Shamra in 1929. He began to decipher them and published a completed translation in 1931, competing with the German philologist Hans Bauer in the process. It was during this intense period of research into ancient scriptures and religious texts that Dhorme had profound reflections on his career and the meaning of his life. He decided to leave the École Biblique in Jerusalem and the religious order to have more freedom to progress in his career and work on ancient scriptures. He also confessed to his family that he could no longer teach what he no longer believed in, having climbed too high in knowledge. In his own words (translated from the French):
 
@@ -75,7 +75,7 @@ Dhorme's interest in the study of ancient texts and religions, as well as his pa
 
 His decision to leave the École Biblique and the Catholic Church, as well as his excommunication, suggest that he may have come into conflict with the church hierarchy over his scholarly work and beliefs. However, as the details of the meeting with Pope Pius XI are unknown, we cannot say for certain what transpired between them.
 
-### Bibliography
+## Bibliography
 
 Dhorme's first major publication was a critical edition of the Hebrew text of the Book of Job, published in 1926. He also produced numerous articles on biblical and Near Eastern studies, which were published in journals such as Revue Biblique and Melanges Syriens.
 
@@ -96,15 +96,15 @@ A list of his major works:
 
 ![Image](images/dhorme-bible-books.jpg "La Bible: Ancient Testament, Tome I & Tome II (1956) — Edouard Dhorme")
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 The Dhorme Bible also happens to be the very same book that Claude Vorhilon aka Raël had with him during his purported encounter with Yahweh.
 
-### See also
+## See also
 
 [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 
-### External links
+## External links
 
 - [La Bible: Ancient Testament (1956), [Paris] Gallimard. Online book hosted by the Internet Archive.](https://archive.org/details/labibleancientes0000unse/mode/2up)
 - [Référence bibliographique Edouard Dhorme, Revue de l'histoire des religions (1966). Online publication.](https://www.persee.fr/doc/rhr_0035-1423_1966_num_169_2_8335)

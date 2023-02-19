@@ -19,7 +19,7 @@ According to the story, God chose Noah, a righteous man, to build an ark to save
 
 The story of the Great Flood has been interpreted in various ways throughout history. Some view it as a literal account of a historical event, while others interpret it as a metaphor for a universal or cultural experience. Regardless of interpretation, the Great Flood is an important part of the Judeo-Christian tradition and is widely recognized as a symbol of divine judgment and renewal.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 The Great Flood is mentioned by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of the Great Flood:
 
@@ -89,13 +89,13 @@ Noah's ark, a spacecraft capable of redundantly storing the entire genetic datab
 
 The creators were happy to see that humans wished them well, and they promised never to try to destroy their creation again. Each race of humanity was then returned to its original place of creation, and each animal was recreated from the cells that had been preserved aboard the spaceship. The passage suggests that scientific progress is the goal of humankind, but it is important to maintain a respectful and grateful relationship with those who have created and preserved life.
 
-### See also
+## See also
 
 - [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
 - [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
 - [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
 
-### External links
+## External links
 
 - [Flood myth | Wikipedia](https://en.wikipedia.org/wiki/Flood_myth)
 - [Flood myth | Britannica](https://www.britannica.com/topic/flood-myth)

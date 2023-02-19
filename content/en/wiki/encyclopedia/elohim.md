@@ -17,11 +17,11 @@ The term Elohim (Hebrew: אֱלֹהִים, 'ēlohîm) is a Hebrew word used in t
 
 In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
 
-### Plurality of Gods
+## Plurality of Gods
 
 The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
 
-### According to Jean Sendy
+## According to Jean Sendy
 
 Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
 
@@ -39,7 +39,7 @@ In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the
 
 The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
 
-### According to Mauro Biglino
+## According to Mauro Biglino
 
 Mauro Biglino is an Italian author, translator, and researcher who is known for his controversial work on the Bible. He worked for over a decade as a translator for the Catholic Church at the Vatican, where he translated ancient Hebrew and Greek texts. According to Biglino, his work as a translator has given him access to ancient, uncensored versions of the Bible, which he claims have been altered over time.
 
@@ -72,7 +72,7 @@ Later on, in the same book, he diligently translates the early Genesis passages 
 
 Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above."
 
-### According to Paul Anthony Wallis
+## According to Paul Anthony Wallis
 
 Paul Anthony Wallis, an Australian author on the subject of re-interpreting the Biblical scriptures with a plural Elohim, translates Elohim as the "Powerful Ones". This translation for instance explained in his first book on the topic, called _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, how he uses the Semitic root of the word Elohim:
 
@@ -120,7 +120,7 @@ referencing them as Sky People.
 
 Basically, Wallis re-interprets the Biblical scriptures with a plural Elohim, which he translates as the “Powerful Ones.” He emphasizes the importance of reading the Bible with a plurality of Gods and argues that the plurality of the word Elohim can be settled by locating a smoking gun in the form of evidence. Wallis suggests that the evidence can be found in the book of Joshua 24:14, which unambiguously connects the two mythologies and clarifies that the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, and the God of the Bible is a plural and represents an extraterrestrial civilization.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In the first book _The Book Which Tells The Truth_, Yahweh says the following about the very meaning of Elohim, the alleged name of God in the Biblical scriptures:
 
@@ -138,7 +138,7 @@ Later on, in the same book, Yahweh emphasizes the proper translation of Elohim a
 
 In summary, Yahweh explains that Elohim, the alleged name of God in the Bible, means "those who came from the sky" in Hebrew and is a plural word, implying that they represent members of an civilization from another world capable of interstellar travel.
 
-#### Individuals
+### Individuals
 
 In Raëlism, there are a few Elohim invididuals that are known by their names or nominal roles. The most famous ones are named in the Bible with the following denominations:
 
@@ -146,7 +146,7 @@ In Raëlism, there are a few Elohim invididuals that are known by their names or
 - **Lucifer**: Leader of a faction among the Elohim that brought the light and knowledge to the first human beings and main advocate for the continuity of the human species.
 - **Satan**: Leader of a faction among the Elohim that believes nothing good can come from the humans and main antagonist of the continuity of the human species.
 
-### See also
+## See also
 
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
@@ -154,7 +154,7 @@ In Raëlism, there are a few Elohim invididuals that are known by their names or
 - [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
 
-### External links
+## External links
 
 - [Elohim | Wikipedia](https://en.wikipedia.org/wiki/Elohim)
 - [Elohim (Hebrew God) | Britannica](https://www.britannica.com/topic/Elohim)

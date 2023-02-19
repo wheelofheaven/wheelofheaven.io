@@ -19,7 +19,7 @@ Each of the six days of creation is described in detail, and on each day, God cr
 
 The 7-day creation myth is considered by many to be a foundational story in the Bible and an important part of the Judeo-Christian tradition. While it is widely accepted as a religious and cultural narrative, the interpretation of the story has been the subject of much debate and discussion throughout history, particularly in light of modern scientific discoveries. Some view the story as a literal account of the creation of the universe, while others interpret it metaphorically or allegorically.
 
-### Creation myths in the Near East
+## Creation myths in the Near East
 
 The creation story in the Book of Genesis is just one of many creation myths that existed in the ancient Near East. Scholars have long recognized that the biblical account of creation was influenced by earlier myths and stories from Mesopotamia and Egypt. Some of the creation myths that may have influenced the Genesis story include:
 
@@ -37,7 +37,7 @@ It is possible that the Genesis version of the creation story developed independ
 
 This is not accurate as the name of God, [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) is technically a plural, implying a multitude of godly beings.
 
-### Seven days as in seven Great Months
+## Seven days as in seven Great Months
 
 The idea that the "days" mentioned in the Biblical creation narrative of Genesis could be understood as representing much longer periods of time, specifically 2'160 years each, is based on the belief in the concept of precessional cycles. Precession refers to the slow, cyclical movement of the Earth's axis, which takes approximately 26,000 years to complete one cycle.
 
@@ -49,7 +49,7 @@ There are a few reasons for this. First, the word "yom" is used in different way
 
 Thus "yom", in its context, is sometimes translated as: "time" (Gen 4:3, Is. 30:8); "year" (I Kings 1:1, 2 Chronicles 21:19, Amos 4:4); "age" (Gen 18:11, 24:1 and 47:28; Joshua 23:1 and 23:2); "always" (Deuteronomy 5:29, 6:24 and 14:23, and in 2 Chronicles 18:7); "season" (Genesis 40:4, Joshua 24:7, 2 Chronicles 15:3); epoch or as many take it literally to as a 24-hour day (Genesis 1:5,8,13,19,23,31).[^1]
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Raël's book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), offers a unique interpretation of the Book of Genesis that is based on the idea that the biblical story was transmitted to humanity by extraterrestrial beings known as the Elohim. According to Raël, the Elohim are the creators of life on Earth, and they've been visiting our planet for thousands of years.
 
@@ -63,7 +63,7 @@ In the eponymous chapter [Genesis](https://wheelofheaven.github.io/rael-one-the-
 
 Based on the assumption that the first day lasted _a period in which the sun rises under the same sign on the day of the vernal equinox_, which is the astronomical definition of a Great Month, subsequent days of creation must have been of the same length. Therefore, if the creation account in Genesis took 7 days, this would amount to a period of 15,120 years, which is one-twelfth of the length of a precessional Great Year.
 
-#### Prequel to Genesis
+### Prequel to Genesis
 
 In the same chapter _Genesis_, Yahweh tells us about how the scientific progress on their home planet led to the events described in the Genesis account.
 
@@ -75,7 +75,7 @@ In the same chapter _Genesis_, Yahweh tells us about how the scientific progress
 
 As soon as the Elohimian civilization began to explore remote interstellar worlds, Earth - the planet we call home - was among one of the worlds they discovered.
 
-#### First day
+### First day
 
 Yahweh then elaborates on the first day of creation, which involved a thorough study of Earth's composition and atmosphere. At that point in their study, the planet was shrouded in water and a dense mist.
 
@@ -97,7 +97,7 @@ Yahweh then elaborates on the first day of creation, which involved a thorough s
 >
 > To create life on Earth it was important to know whether the sun was sending harmful rays to the Earth's surface, and this question was fully researched. It turned out that the sun was heating the Earth correctly without sending out harmful rays. In other words the "light was good".
 
-#### Second day
+### Second day
 
 The second day of creation describes Elohimian scientific and explorative activity where their scientists studied cosmic rays above the clouds, and then descended to a lower altitude, where they were between the clouds and the ocean. The phrase "the waters which were above the firmament" refers to the clouds, which were seen as a barrier between the Earth and the heavens, while "the waters which were under the firmament" refers to the ocean that covered the planet.
 
@@ -107,7 +107,7 @@ The second day of creation describes Elohimian scientific and explorative activi
 >
 > After studying the cosmic rays above the clouds the scientists descended below the clouds but stayed above the waters. That means they were between the clouds, "the waters which were above the firmament", and the ocean covering the whole planet, "the waters which were under the firmament".
 
-#### Third day
+### Third day
 
 The third day is being described as to the period of time where the Elohimian scientists use a combination of advanced technology and experimentation to create the Earth's continents and plant life. The scientists study the ocean floor and discover that it is not very deep, and then use explosions to raise matter from the bottom of the sea and pile it up into one place to form a continent. They then create plant life from chemical substances in a large laboratory, aiming for successful reproduction.
 
@@ -129,7 +129,7 @@ The scientists work in small research teams to create different types of plants 
 >
 > The few blares of grass they created had to reproduce on their own. The scientists spread out across this immense continent in small research teams. Every individual created different varieties of plants according to their inspiration and the climate. They met up at regular intervals to compare their research and their creations. The people back on their own planet followed their progress from afar with passion and amazement. The most brilliant artists came and joined the scientists in order to give some plants purely decorative and pleasing roles, either through their appearance or their perfume.
 
-#### Fourth day
+### Fourth day
 
 The fourth day of creation is being explained that by observing the stars and the sun, the Elohimian scientists were able to measure the duration of days, months, and years on Earth. This allowed them to regulate their lives on this new planet, which had different durations of days and years from their home planet. Their research in astronomy also helped them to locate themselves precisely on Earth and to gain a deeper understanding of the planet. This understanding of astronomy and the Earth led to a deeper knowledge of their new home and the ability to adapt to it.
 
@@ -139,7 +139,7 @@ The fourth day of creation is being explained that by observing the stars and th
 >
 > By observing the stars and the sun they could measure the duration of the days, the months and the years on Earth. This helped them regulate their life on the new planet - so different from their own where days and years did not have the same duration. Research in astronomy enabled them to locate themselves precisely and to understand the Earth better.
 
-#### Fifth day
+### Fifth day
 
 The fifth day of creation is being described as a period of time where the Elohiman scientists and artists went on to create the Earth's aquatic animals and birds. The scientists and artists create a natural balance in the ocean ecosystem by creating plankton, small fish, seaweed, and large fish, which can feed on each other without causing harm to other species. The artists also put pressure on the scientists to create the most visually stunning and colorful birds, resulting in some species that were not well-suited for flight.
 
@@ -159,7 +159,7 @@ The scientists and artists organize competitions to determine the most beautiful
 >
 > Some other groups of scientists created frightful animals, veritable monsters, which proved right those people who had opposed the creation plans on their own planet. These were dragons, or what you call dinosaurs and brontosaurs.
 
-#### Sixth day
+### Sixth day
 
 The sixth day of cretion is being described as a period of time where the creation of land animals on Earth takes place after the marine organisms and birds have already been genetically engineered. The scientists initially created herbivores, followed by carnivores to maintain balance in the ecosystem. There was a desire among the most skilled scientists to create an artificial human being like themselves, and each team set to work, but people on their home planet were outraged when they heard about these _test tube children_ who might threaten their world. It was agreed that the new humans would be left to live in a very primitive way, without being taught anything scientific.
 
@@ -177,7 +177,7 @@ The sixth day of cretion is being described as a period of time where the creati
 >
 > "In our image!" You can see that the resemblance is striking. [...]
 
-#### Seventh day
+### Seventh day
 
 The seventh day of creation is being described as the aftermath of the extensive creation period on Earth, where the Elohimian team of scientists and artists who created the planet begin to encounter trouble. One team located in the area that is now Israel had created the most intelligent human beings on the planet, and steps were taken to ensure that these beings did not surpass their creators. This meant that the humans were educated in order to measure their intelligence, but were kept in ignorance of certain scientific secrets.
 
@@ -201,7 +201,7 @@ The humans were taught the names and powers of the plants and animals around the
 
 It is noteworthy that the seventh day happens in the second chapter of Genesis implying that the 6 days of creation mark the creation itself and the seventh day is where the actual narration happens.
 
-### Our take
+## Our take
 
 By piecing together various clues, it is important to determine the location of the first day of creation within the precessional Great Year. After careful consideration, we believe it is appropriate to place the first day of creation in the Age of Capricorn, and the last day of creation (the 6th day) in the Age of Leo. The aftermath of Genesis, or the 7th day of creation, would occur during the Age of Cancer.
 
@@ -217,13 +217,13 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 | 11'010 BC | 8'850 BC  | Age of Leo         | 6th day         | Human beings |
 | 8'850 BC  | 6'690 BC  | Age of Cancer      | 7th day of Rest | Aftermath    |
 
-### See also
+## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
 
-### External links
+## External links
 
 - [Genesis creation narrative | Wikipedia](https://en.wikipedia.org/wiki/Genesis_creation_narrative)
 - [Creation | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/4730-creation)

@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 The New Commandments are constituted of the following aspects:
 
@@ -22,11 +22,11 @@ The New Commandments are constituted of the following aspects:
 - World Government
 - The mission of the propagation of the Truth
 
-### See also
+## See also
 
 - [Wiki › Geniocracy]({{< relref "wiki/encyclopedia/geniocracy.md" >}})
 - [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})
 
-### Read more
+## Read more
 
 - [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})

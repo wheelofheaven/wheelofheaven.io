@@ -19,7 +19,7 @@ Some popular depictions of paradism imagine a world where all forms of violence 
 
 Other interpretations of paradism emphasize spiritual aspects, envisioning a society where individuals have achieved a deep sense of inner peace and contentment, and are able to live in connection with the divine.
 
-### Techno-utopia
+## Techno-utopia
 
 Paradism can be contextualized in the contemporary dialogue with consideration to following aspects:
 
@@ -29,7 +29,7 @@ Paradism can be contextualized in the contemporary dialogue with consideration t
 
 A techno-utopia is a hypothetical society in which technology has been used to create a perfect world, free from scarcity, inequality, and suffering. In a techno-utopia, technology is seen as the solution to all social and environmental problems, and is used to create a society that is sustainable, efficient, and maximally productive. The concept of techno-utopia has been a recurring theme in science fiction and is often associated with ideas of transhumanism and post-scarcity economics. However, many critics argue that a techno-utopia is impossible or even undesirable, as it ignores the complexities of human nature and the potential negative consequences of advanced technology.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter Meeting the Ancient Prophets, Yahweh says the following about the potential of establishing an Earthly paradise in the image of the Elohim's home planet:
 
@@ -47,13 +47,13 @@ The passage suggests that automation and technology have the potential to libera
 
 The idea that science and technology can liberate humanity from work and solve many social problems, as well as the belief that automation can replace human labor, are both common themes in techno-utopianism. The concept of a "terrestrial paradise" achieved through technology and the vision of a future where machines take care of daily chores and enable people to focus on creative pursuits are also common elements in techno-utopian thinking.
 
-### See also
+## See also
 
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
 - [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})
 - [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})
 
-### External links
+## External links
 
 - [Paradism | Spin-off organization of Raëlism](https://paradism.org/)
 - [Post-scarcity economy | Wikipedia](https://en.wikipedia.org/wiki/Post-scarcity_economy)

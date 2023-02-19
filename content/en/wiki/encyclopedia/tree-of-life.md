@@ -23,7 +23,7 @@ In some traditions, the Tree of Life is also associated with the idea of a unive
 
 The Tree of Life continues to hold great symbolic significance, and is often referenced and depicted in literature, art, and other forms of popular culture. Its image is used to evoke feelings of life, growth, and the interconnectedness of all things, and it continues to be an important part of spiritual and cultural traditions around the world.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the Tree of Life:
 
@@ -61,14 +61,14 @@ The Elohim, much like humans, are not immortal, but they are able to live ten ti
 
 The Tree of Life is a biomedical technology or surgical adjustment that allows for longevity of life. It was granted to the leaders of the first humans by the creators in exile, allowing them to live for many years. However, the benefit of the Tree of Life did not extend to the offspring of these leaders, resulting in the loss of the secret of eternal life and the slowing down of human progress.
 
-### Our take
+## Our take
 
 Speculating on the possible nature of the Tree of Life technology based on our current understanding of biomedicine, it could involve genetic engineering or gene therapy to modify the DNA of the recipient, targeting genes that affect aging and lifespan. Another possibility could be the use of regenerative medicine, stem cell therapy, or organ replacement technology to repair or replace damaged tissues and organs in the body, thereby restoring health and extending lifespan. Additionally, it's possible that the Tree of Life technology involves the manipulation of the microbiome, which is known to play a critical role in maintaining health and longevity. However, it's important to note that these are purely speculative ideas, and the actual technology, if it exists, may be vastly different from what we can currently imagine.
 
-### See also
+## See also
 
 - [Wiki › Tree of the Knowledge of Good and Evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}})
 
-### External links
+## External links
 
 - [Tree of life | Wikipedia](https://en.wikipedia.org/wiki/Tree_of_life)

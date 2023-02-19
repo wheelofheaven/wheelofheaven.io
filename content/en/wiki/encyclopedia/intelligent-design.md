@@ -21,7 +21,7 @@ Intelligent Design has been the subject of much controversy and criticism, parti
 
 As a result of these criticisms, Intelligent Design is not widely accepted in the scientific community and is not taught as a scientific theory in public schools. However, it continues to be a topic of discussion and debate among scientists, philosophers, and religious scholars.
 
-### Watchmaker Analogy
+## Watchmaker Analogy
 
 Most arguments in favour of Intelligent Design can be summarized with the Watchmaker Analogy. The Watchmaker Analogy, also known as the Argument from Design, is often used to support the idea of Intelligent Design. The argument goes as follows: if we come across a watch, we can deduce that it was designed by an intelligent watchmaker rather than being formed randomly by natural forces. In the same way, when we look at the complexity of living organisms, we can deduce that they were designed by an intelligent creator.
 
@@ -45,7 +45,7 @@ Some more specific arguments that have been put forward in favor of Intelligent 
 
 - **Abiogenesis:** The origin of life from non-living matter has yet to be fully explained by naturalistic processes. Despite numerous attempts, scientists have not been able to recreate the conditions and processes that would lead to the formation of a living organism from inorganic matter. The complexity and sophistication of even the simplest living cell suggest that it was not the result of chance or natural processes, but rather the product of intelligent design.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In Raëlism, the concept of intelligent design is seen in the context of the Elohim, who are believed to be the extraterrestrial creators of humanity. According to the Raëlian belief system, the Elohim are highly advanced beings who possess a deep understanding of science and technology, and they used this knowledge to create humans using genetic engineering.
 
@@ -55,16 +55,16 @@ The Raëlian belief in intelligent design also holds that human life is sacred, 
 
 Overall, Raëlians view intelligent design as a central tenet of their belief system, and they see it as a means of connecting with the advanced extraterrestrial beings who they believe created humanity.
 
-### See also
+## See also
 
 [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
 [Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})</br>
 
-### Read more
+## Read more
 
 [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
 
-### External links
+## External links
 
 - [Intelligent Design | Wikipedia](https://en.wikipedia.org/wiki/Intelligent_design)
 - [Intelligent Design | Britannica](https://www.britannica.com/topic/intelligent-design)

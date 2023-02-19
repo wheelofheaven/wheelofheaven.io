@@ -24,7 +24,7 @@ The methods of astrobiology include:
 - Analysis of meteorites and other extraterrestrial materials
 - Study of Earth's extremophiles and their potential habitability elsewhere.
 
-### Requirements for proof of evidence
+## Requirements for proof of evidence
 
 Findings that would be considered strong indications of extraterrestrial life would include the discovery of a reliable and repeatable proof of the following conditions:
 
@@ -33,7 +33,7 @@ Findings that would be considered strong indications of extraterrestrial life wo
 - Evidence of metabolic activity or biogenic substances produced by living organisms.
 - The detection of radio or optical signals that are indicative of intelligence.
 
-### Carl Sagan
+## Carl Sagan
 
 Carl Sagan made the following statement in his book "Pale Blue Dot: A Vision of the Human Future in Space" published in 1994.
 
@@ -41,11 +41,11 @@ Carl Sagan made the following statement in his book "Pale Blue Dot: A Vision of 
 
 The quote implies that space exploration and colonization is necessary for the survival of humanity in the long run. Sagan argues that the threat of impacts from space is a natural and inevitable danger that every civilization must eventually face, and becoming a spacefaring civilization is the only way to protect ourselves from this threat and ensure the survival of our species.
 
-### See also
+## See also
 
 - [Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})
 
-### External links
+## External links
 
 - [Astrobiology | Wikipedia](https://en.wikipedia.org/wiki/Astrobiology)
 - [Astrobiology (science) | Britannica](https://www.britannica.com/science/astrobiology)

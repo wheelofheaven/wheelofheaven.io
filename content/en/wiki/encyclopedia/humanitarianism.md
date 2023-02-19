@@ -15,7 +15,7 @@ toc: true
 
 Broadly spoken, Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.
 
-### In todays usage
+## In todays usage
 
 The modern concept of humanitarianism has its roots in the Enlightenment era and the development of humanitarian organizations during the 19th century, such as the International Committee of the Red Cross. These organizations were established to provide assistance to civilians during times of armed conflict and to ensure that the rules of war were respected and upheld.
 
@@ -25,7 +25,7 @@ Humanitarian actors operate under the principles of humanity, impartiality, inde
 
 Humanitarianism also involves advocating for the rights of people affected by crises and working to address the root causes of suffering and inequality. This can involve lobbying for policy changes, raising awareness of human rights abuses, and supporting local communities and organizations in their efforts to build resilience and improve their own well-being.
 
-### L. L. Zamehof
+## L. L. Zamehof
 
 L.L. Zamenhof wrote a book called Homaranismo[^1] which outlines his thoughts on the concept of "Humanitarianism". The book, which was written in Esperanto[^2], is a collection of essays and speeches that Zamenhof gave on the topic of humanism and its relationship to the Esperanto movement.
 
@@ -41,7 +41,7 @@ In conclusion, Homaranismo provides insight into Zamenhof's thoughts on the conc
 >
 > L. L. Zamehof in Homaranismo
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, Yahweh explores a way to handle Earthly economics which he tentatively named Humanitarianism. The first paragraph of the New Commandments called Humanitarniasm goes as follows:
 
@@ -101,7 +101,7 @@ The passage discusses the problems with profit-driven societies and the limitati
 
 The passage proposes a political system that goes beyond communism and capitalism, which aims to eliminate the injustice of inheritance and provide equal opportunities to all people. It suggests that all goods, including houses, commercial and industrial enterprises, and land, should be rented for 49 years from the State, and no individual should be allowed to own them permanently. Effectively, property ownership is abolished. After 49 years, the property goes back to the community. However, individuals can still accumulate wealth and make a fortune depending on their merits, but not for their children. The passage suggests that this system would promote equality and discourage the accumulation of wealth across generations. Yahweh asserts this system has already been described in the Bible, specifically in Leviticus 25:8, 14-16, and 23, which prescribe a jubilee year every 49 years when all slaves are freed, and all lands are returned to their original owners. The passage argues that it could be implemented if geniuses were in positions of power and all nations united under a single government.
 
-### Left-libertarianism and the Steiner-Vallentyne school
+## Left-libertarianism and the Steiner-Vallentyne school
 
 Left-libertarianism, as imagined by the Steiner-Vallentyne school, is a political philosophy that combines left-wing and libertarian ideas. It emphasizes the importance of individual freedom and autonomy, while also advocating for social and economic equality.
 
@@ -123,7 +123,7 @@ Freiwirtschaft, as imagined by Silvio Gesell, is a school of thought that advoca
 
 While there are some similarities between left-libertarianism, Georgism, and Freiwirtschaft, each of these philosophies has its own distinct ideas and priorities. However, they all share a commitment to promoting equality and reducing poverty, and they all see the state as having a role to play in achieving these goals.
 
-### Humanitarianism as a special special case of Steiner-Vallentyne
+## Humanitarianism as a special special case of Steiner-Vallentyne
 
 The two passages quoted from the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, which describe a system of economics and property ownership that is based on the idea of renting rather than owning, are related to the ideas proposed by the Steiner-Vallentyne school of thought in several ways.
 
@@ -133,11 +133,11 @@ Secondly, both the passages and the Steiner-Vallentyne school of thought reject 
 
 Finally, both the passages and the Steiner-Vallentyne school of thought advocate for a system of economic organization that is based on renting rather than owning. The passages propose that "all goods should be rented for forty-nine years" and that individuals can make a fortune for themselves depending on their own merits, but not for their children. Similarly, the Steiner-Vallentyne school of thought argues that property should be held in common and that individuals should have the right to use and enjoy the fruits of their labor, but not to monopolize resources or accumulate wealth at the expense of others.
 
-### See also
+## See also
 
 [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})</br>
 
-### External links
+## External links
 
 [Humanitarnism | Wikipedia](https://en.wikipedia.org/wiki/Humanitarianism)</br>
 [Homaranismo | Wikipedia](https://en.wikipedia.org/wiki/Homaranismo)</br>

@@ -25,7 +25,7 @@ Critics of Geniocracy argue that it is inherently elitist and could lead to a sm
 
 Overall, Geniocracy is a political ideology that has gained some traction in recent years, but is still a relatively unknown concept to most people. It should be noted that geniocracy is a controversial and largely untested idea, and there are many questions about how intelligence would be measured and how such a system would be implemented in practice. It remains to be seen whether it will gain wider acceptance and influence in the future.
 
-### Relationship with democracy
+## Relationship with democracy
 
 Proponents of Geniocracy argue that it is a democratic system because it draws intelligence and talent from a large pool of people, rather than being limited to a select few. Unlike traditional democratic systems, which are based on the principle of one person, one vote, Geniocracy uses intelligence and creativity tests to determine the "genius factor" of individuals. Those with higher genius factors have more representation and influence in government, while those with lower scores have less.
 
@@ -33,7 +33,7 @@ The idea behind this is that by giving more power to individuals with high intel
 
 In this sense, proponents of Geniocracy argue that it is a more democratic system than traditional democracy because it allows for a wider range of people to have a voice and influence in government, rather than limiting power to a small group of elected officials. They believe that by prioritizing intelligence and creativity, society will become more efficient, prosperous, and fair, and that this will have a positive impact on the lives of everyone, regardless of their genius factor.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, Yahweh explores a way to handle Earthly political representation and governance which he tentatively named Geniocracy. The first paragraph of the New Commandments called Geniocracy goes as follows:
 
@@ -73,11 +73,11 @@ The author argues that the current electoral and polling systems are not suited 
 
 The author contends that this system is more democratic, as it gives power to those best suited to make informed decisions and solve complex problems. The author also notes that this system does not necessarily favor those with the most education, but rather those with the greatest natural intelligence. Furthermore, the author calls for a more merit-based system of government that values intelligence and the ability to make positive contributions to society.
 
-### See also
+## See also
 
 - [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})
 
-### External links
+## External links
 
 - [Geniocracy | Wikipedia](https://en.wikipedia.org/wiki/Geniocracy)
 - [Geniocracy: Government of the People, for the People, by the Geniuses](http://www.geniocracy.org/)

@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In Chapter 3 "Watching Over the Chosen People", Yahweh mentions the following:
 
@@ -23,18 +23,18 @@ In Chapter 3 "Watching Over the Chosen People", Yahweh mentions the following:
 >>
 >> — Psalms 19: 4.
 
-### In Mormonism
+## In Mormonism
 
 According to the Book of Abraham, Kolob is the heavenly body nearest to the Throne of God. Kolob can therefore be understood either as a star or a planet. If the Throne of God can be understood as the Elohimian home planet, the heavenly body the closest to this planet would be its home star, which in turn would imply that Kolob is indeed a star around which the Elohimian home planet is orbiting around.
 
 John Tvedtnes proposes in his 2005 essay titled "Authentic Ancient Names and Words in the Book of Abraham and Related Kirtland Egyptian Papers" [(see here 📎)](https://www.fairlatterdaysaints.org/wp-content/uploads/2011/11/2005-John-Tvedtnes.pdf) that there word Kolob can in a Semitic etymological reading be interpreted as a derivate of the Hebrew root KLB (formerly pronounced as 'kalb') which simply means 'dog'. In astronimical terms, KLB as a Semitic root word as well as the symbol of dog represents Sirius, also known as the 'dog star'. Sirius also happens to be the brightest star in the night sky.
 
-### See also
+## See also
 
 - [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 
-### External links
+## External links
 
 - [Kolob | Wikipedia](https://en.wikipedia.org/wiki/Kolob)
 - [Sirius | Wikipedia](https://en.wikipedia.org/wiki/Sirius)

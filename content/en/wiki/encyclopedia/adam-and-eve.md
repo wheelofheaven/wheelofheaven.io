@@ -15,7 +15,7 @@ toc: true
 
 Adam and Eve are the first man and woman according to the creation story in the Bible's book of Genesis. They are considered the first human beings created by God, and are believed to have lived in the Garden of Eden before disobeying God's command and being expelled from the garden (Genesis 3). Adam is described as the first man created by God from the dust of the ground, while Eve is described as the first woman, created from one of Adam's ribs (Genesis 2:7, 2:22). Adam and Eve's story is often seen as an allegory for the origin of sin and the fall of humanity.
 
-### Etymology
+## Etymology
 
 The etymology of the name of both Adam and Eve is uncertain, and several theories have been proposed for each name on their own.
 
@@ -23,7 +23,7 @@ One theory is that the name "Adam" is derived from the Hebrew word "adamah," whi
 
 On for Adam's companion Eve, the etymology of the name "Eve" is as already mention neither certain, but it is thought to be derived from the Hebrew word "chavah," which means "to give life." This interpretation is in line with the biblical account of Eve being the mother of all living things (Genesis 3:20). Another theory is that the name "Eve" is related to the Hebrew word "haya," which means "to live." This interpretation emphasizes the idea of Eve as the source of life for all humankind. In addition, the name "Eve" has been connected to the Akkadian word "awwatu," which means "living one," further emphasizing the idea of Eve as a symbol of life and vitality.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of them:
 
@@ -41,11 +41,11 @@ Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael'
 
 This passage is from the book of Genesis in the Bible and describes the story of Adam and Eve. In the story, a serpent tells Adam and Eve the truth, which results in the serpent being cursed by God and forced to live in exile on Earth. Adam and Eve are then provided with clothing made of animal skins by God.
 
-### See also
+## See also
 
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
 
-### External links
+## External links
 
 - [Adam and Eve | Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
 - [Adam and Eve | Britannica](https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures)

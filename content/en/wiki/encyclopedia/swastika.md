@@ -21,13 +21,13 @@ However, the swastika is also infamous for its use by the Nazi party in Germany 
 
 Due to its historical association with the Nazi regime, the display of the swastika is illegal in many countries and its use is restricted in others. In many Western countries, the swastika is widely seen as a symbol of hate and is strongly discouraged.
 
-### See also
+## See also
 
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
 - [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
 - [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
 
-### External links
+## External links
 
 - [Swastika | Wikipedia](https://en.wikipedia.org/wiki/Swastika)
 - [Swastika | Britannica](https://www.britannica.com/topic/swastika)

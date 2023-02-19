@@ -17,7 +17,7 @@ Lucifer is a name that is often associated with the Devil or Satan, although its
 
 In the Bible, the name "Lucifer" is first mentioned in the book of Isaiah, where it is used to describe the King of Babylon as a fallen angel who was once a bright star but was cast down to hell because of his pride and sin. This passage is often interpreted as referring to Satan, who is believed by many Christians to have been a powerful angel who rebelled against God and was cast out of heaven.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Lucifer is one of the Elohim who created life on Earth and helped humanity in their early stages of development. The following is said about him:
 
@@ -41,14 +41,14 @@ According to the excerpts, Lucifer is one of the Elohim who created life on Eart
 
 Lucifer's role, according to the excerpts, was to bring light and knowledge to the first humans, and to teach them about the true nature of their creators. His actions were opposed by Yahweh, the president of the council of the Eternals governing the Elohim's planet, who condemned Lucifer and his group to spend the rest of their lives in exile on Earth. However, despite this punishment, Lucifer and his group continued to care for and protect humanity, including helping Noah and his family to escape the cataclysmic flood by building a space craft to protect them.
 
-### See also
+## See also
 
 - [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
-### External links
+## External links
 
 - [Lucifer | Wikipedia](https://en.wikipedia.org/wiki/Lucifer)
 - [Lucifer | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/10177-lucifer)

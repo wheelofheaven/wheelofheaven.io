@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### List of etymological readings
+## List of etymological readings
 
 The following table shows the majority of words that can be read etymologically:
 
@@ -31,7 +31,7 @@ The following table shows the majority of words that can be read etymologically:
 | Satan                 | שָׂטָן śāṭān (Biblical Hebrew)                             | The obstructor, the accuser                    |
 | Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the eternal one                     |
 
-### See also
+## See also
 
 [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})</br>
 [Wiki › List of exegetic readings]({{< relref "wiki/encyclopedia/list-of-exegetic-readings.md" >}})</br>

@@ -19,7 +19,7 @@ The identity of the serpent has been the subject of much interpretation and deba
 
 In Christian tradition, the serpent is often associated with the idea of the fall of man, and is often used as a metaphor for sin and evil in the world. The serpent is also mentioned in the New Testament, where it is identified as the Devil or Satan, and is seen as a symbol of the opposition to God and the forces of evil in the world.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 the Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
 
@@ -41,13 +41,13 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh exp
 
 In this passage, a team of scientists on Earth create human beings who are almost as intelligent as their creators. However, the creators are cautious and keep the scientific books away from the young human beings, wanting to ensure they don't surpass their own knowledge. But some of the creators take pity on the humans and decide to give them a complete education so that they too can become scientists. The humans become angry with their "parents" for keeping them in ignorance, and the creators who tried to help them are cursed and exiled to Earth. The "serpent" referred to in the Bible is actually this small group of creators who wanted to share knowledge with the humans.
 
-### See also
+## See also
 
 - [Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
 - [Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})
 
-### External links
+## External links
 
 - [Serpent in the Bible | Wikipedia](https://en.wikipedia.org/wiki/Serpents_in_the_Bible)

@@ -22,7 +22,7 @@ In the Bible, Abraham is described as:
 - The founder of the covenant between God and the Israelites, through which God promised to make Abraham's descendants a great nation (Genesis 12:1-3, 15:18)
 - The ancestor of Jesus (Matthew 1:1-17)
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Abraham is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of Abraham:
 
@@ -32,11 +32,11 @@ Abraham is mentioned by Yahweh during their encounter with Raël. The following 
 
 This passage is discussing a story from the book of Genesis in the Bible, where the Elohim wanted to test the people of Israel, particularly their leader, Abraham, to see if they still held positive feelings towards them. At the time of the test, the people had relapsed into a semi-primitive state after many of their intellectuals were destroyed. The test involved Abraham being asked to sacrifice his own son, and his willingness to do so was taken as a sign of his loyalty and devotion to the creators. The creators ultimately intervened and prevented the sacrifice, indicating that they were satisfied with Abraham's loyalty.
 
-### See also
+## See also
 
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 
-### External links
+## External links
 
 - [Abraham | Wikipedia](https://en.wikipedia.org/wiki/Abraham)
 - [Abraham (Hebrew Patriach) | Britannica](https://www.britannica.com/biography/Abraham)

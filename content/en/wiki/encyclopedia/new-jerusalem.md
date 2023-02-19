@@ -19,7 +19,7 @@ On the passages in the Book of Revelation says the following about New Jerusalem
 
 > "Then I saw 'a new heaven and a new earth,' for the first heaven and the first earth had passed away, and there was no longer any sea. I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband." - Revelation 21:1-2
 
-### New Jerusalem Dead Sea Scrolls
+## New Jerusalem Dead Sea Scrolls
 
 The New Jerusalem Dead Sea Scrolls are a collection of texts discovered in the 1950s and 1960s in the Qumran Caves near the Dead Sea. They are believed to have been written by a Jewish sect known as the Essenes, who lived in the area around the time of Jesus. The scrolls contain a wide range of texts, including biblical texts, apocalyptic literature, and community rules and regulations.
 
@@ -27,7 +27,7 @@ One of the most significant texts found among the New Jerusalem Dead Sea Scrolls
 
 Other texts found among the New Jerusalem Dead Sea Scrolls include fragments of the book of Isaiah, which contain prophecies of the end times and the coming of a messiah, as well as a fragment of the book of Psalms, which contains a prayer for the coming of the new age. The scrolls also contain a number of rules and regulations for the Essene community, which give insight into their way of life and beliefs.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the second book, "To the People of Israel", Yahweh explains how Jerusalem was foreseen to be location of renewal when the Golden Age arrives:
 
@@ -43,13 +43,13 @@ The passage states that the time has come to build the New Jerusalem, as foretol
 
 The passage also references the time 2,000 years ago when the people of Israel did not recognize Jesus as a messenger and how it resulted in the spread of Christianity. This time, they have a new chance to make Jerusalem shine again.
 
-### See also
+## See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})</br>
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})</br>
 - [Wiki › Third Temple]({{< relref "wiki/encyclopedia/third-temple.md" >}})</br>
 
-### External links
+## External links
 
 - [New Jerusalem | Wikipedia](https://en.wikipedia.org/wiki/New_Jerusalem)
 - [New Jerusalem Dead Sea Scroll | Wikipedia](https://en.wikipedia.org/wiki/New_Jerusalem_Dead_Sea_Scroll)

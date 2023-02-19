@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### The Logic of the Biblical Text
+## The Logic of the Biblical Text
 
 Jean Sendy's "The Coming of the Gods" is a book published in 1970 that explores the possibility of ancient astronauts having visited Earth in the past and influencing human civilization. Sendy argues that various ancient myths and religious traditions can be interpreted as evidence of extraterrestrial contact, and that this contact may have had a profound impact on the development of human culture
 
@@ -27,7 +27,7 @@ In this book,Sendy writes the following about what conditions need to be met in 
 
 In order to better understand the Biblical text, according to Jean Sendy, there are four key conditions that must be met: 1) knowledge of the Bible, 2) knowledge of astronautics within the context of today's physics, 3) some knowledge of biology, prehistory, history, and evolution, and 4) rejection of supernatural explanations. Additionally, an implicit fifth condition is the acceptance of a universe that is intelligible to human reason.
 
-### The Five Conditions
+## The Five Conditions
 
 The five conditions that Sendy mentions in his book can be seen as a blueprint on how to determine what conditions need to be met to assert the hypothesis of ancient astronauts in the Bible:
 
@@ -47,7 +47,7 @@ The fifth and final condition, an assumption that the universe is intelligible t
 
 Taken together, these conditions suggest that Sendy believed that the hypothesis of ancient astronauts in the Bible could be supported through a careful, scientific analysis of the text that is grounded in a deep understanding of the Bible itself, as well as contemporary scientific knowledge across a broad range of fields.
 
-### Rejection of the supernatural
+## Rejection of the supernatural
 
 Jean Sendy's assertion that the universe is intelligible to human reason and that the supernatural should be repudiated when interpreting the Bible reflects a philosophical and epistemological perspective that is closely aligned with naturalism and scientific realism.
 
@@ -59,7 +59,7 @@ The combination of naturalism and scientific realism reflected in Sendy's work s
 
 In summary, Sendy's rejection of the supernatural and his assumption that the universe is intelligible to human reason are consistent with a naturalistic and scientific realist perspective that is rooted in the empiricist tradition. These perspectives emphasize the importance of observation and scientific inquiry in the formation of knowledge, and they reject metaphysical or supernatural explanations.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Raëlism shares some similarities with Sendy's perspective, in that it also incorporates a belief in extraterrestrial life and seeks to reconcile science and religion. Another similarity is their shared beliefs about extraterrestrial life and the possibility of alien intervention in human history.
 
@@ -67,12 +67,12 @@ Both Sendy and Raëlism suggest that extraterrestrial life is possible and that 
 
 In terms of interpreting the Bible, Raëlism takes a naturalistic and scientific approach that is similar in some respects to the approach taken by Jean Sendy. Raëlians reject traditional religious interpretations of the Bible and seek to uncover what they believe to be the scientific truths that are hidden within the text. They believe that the Bible contains references to extraterrestrial life and that it is a guide to understanding the nature of the universe and humanity's place within it.
 
-### See also
+## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-### External links
+## External links
 
 - [Jean Sendy | Wikipedia](https://en.wikipedia.org/wiki/Jean_Sendy)

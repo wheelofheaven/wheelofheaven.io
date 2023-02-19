@@ -15,11 +15,11 @@ toc: true
 
 In mythological terms, dragons are typically depicted as large, fire-breathing, scaly creatures with wings, sharp claws, and long, serpentine tails. They are often portrayed as fearsome, powerful creatures that can bring both destruction and protection. Dragons appear in the mythologies of many cultures, including those of Europe, Asia, and the Middle East, and are often associated with royalty, power, and wisdom. In many mythologies, dragons are guardians of treasure and knowledge, and they are also sometimes seen as symbols of fertility and rebirth.
 
-### Dinosaurs
+## Dinosaurs
 
 Dinosaurs are a group of reptiles that supposedly lived on Earth during the Mesozoic Era, which spanned from about 252 million years ago to 66 million years ago. They were a diverse group of animals that ranged from the size of small birds to the largest land animals that have ever lived. Dinosaurs are known for their distinctive features such as their large size, scaly skin, and long tails, and they have captivated the public imagination for centuries. The study of dinosaurs has greatly contributed to our understanding of the history of life on Earth, and their fossilized remains have provided important insights into their biology.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, in the very first chapter, Yahweh explains how the creation of prototyipcal precursor of the dinosaurs got genetically engineered from scratch on the Elohimian home planet:
 
@@ -55,7 +55,7 @@ The scientists and artists organize competitions to determine the most beautiful
 
 The dinosaurs are the same creatures that mythology remembers as dragons.
 
-### Our take
+## Our take
 
 Dragons are described as creatures created by the Elohim during the fifth day of creation, which are equivalent to the dinosaurs that existed during the Age of Virgo. These dragons or dinosaurs were created by the Elohim alongside other life forms, including fish and birds. Some groups of scientists and artists also created monsters, the dinosaurs.
 
@@ -67,13 +67,13 @@ Additionally, it's worth noting that the ancient peoples who first told stories 
 
 In conclusion, there are certainly many similarities between the two that make it easy to see how they might be seen as one and the same in the eyes of ancient peoples. The fearsome reputation of both creatures, as well as the shared physical traits they exhibit, suggest that there may be a deeper connection between them than we might think at first glance.
 
-### See also
+## See also
 
 [Wiki › Elohimian Home Planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})</br>
 [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
 [Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})</br>
 [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
 
-### External links
+## External links
 
 [Dinosaur | Wikipedia](https://en.wikipedia.org/wiki/Dinosaur)</br>

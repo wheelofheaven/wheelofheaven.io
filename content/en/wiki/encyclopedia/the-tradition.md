@@ -29,13 +29,13 @@ The Hermetic tradition also includes magic and theurgy, which are spiritual prac
 
 In conclusion, The Tradition can be understood as a remnant of ancient scientific and technological knowledge because it encompasses aspects of alchemy, astrology, magic, and theurgy, which were considered sciences in ancient times and were used to explore the nature of reality and attain knowledge of the divine. Although some of the beliefs and practices of The Tradition may seem strange or archaic by modern standards, they are still of interest to many people today and continue to be studied and practiced by esoteric communities around the world.
 
-### See also
+## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})
 - [Wiki › Kabbalah]({{< relref "wiki/encyclopedia/kabbalah.md" >}})
 
-### External links
+## External links
 
 - [Perennial philosophy | Wikipedia](https://en.wikipedia.org/wiki/Perennial_philosophy)
 - [Tradition | Wikipedia](https://en.wikipedia.org/wiki/Tradition)

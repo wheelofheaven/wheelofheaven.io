@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### List of exegetic readings
+## List of exegetic readings
 
 The following table shows the majority of words that can be read with a neo-euhemeristic exegesis.
 
@@ -27,7 +27,7 @@ The following table shows the majority of words that can be read with a neo-euhe
 | Tower of Babel        | A interstellar spacecraft built to improve diplomatic relationship with the Elohimian home planet. | |
 | Tree of Life          | A body of knowledge on how to provide the technological means to achieve either or both an extension of human life span and eternal life. | |
 
-### See also
+## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › List of etymologicalreadings]({{< relref "wiki/encyclopedia/list-of-etymological-readings.md" >}})

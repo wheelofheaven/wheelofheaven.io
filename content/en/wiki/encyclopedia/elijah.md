@@ -25,7 +25,7 @@ In addition to his miracles and powerful preaching, Elijah is also known for his
 
 The story of Elijah has had a lasting impact on Judaism, Christianity, and Islam, and he is still remembered as one of the greatest prophets of the Bible. His life serves as an example of faith, obedience, and courage in the face of opposition, and continues to inspire people of faith to this day.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Elijah is mentioned multiple times by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/3_watching_over_the_chosen_people.html#samson-the-telepathist), showcases the first mentioning of Elijah as follows:
 
@@ -49,12 +49,12 @@ Later on, in the following chapter named after Elijah ([see here](https://wheelo
 >>
 >> — 1 Kings 19: 5-6.
 
-### See also
+## See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})
 - [Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})
 
-### External links
+## External links
 
 - [Elijah | Wikipedia](https://en.wikipedia.org/wiki/Elijah)
 - [Elijah (Hebrew prophet) | Britannica](https://www.britannica.com/biography/Elijah-Hebrew-prophet)

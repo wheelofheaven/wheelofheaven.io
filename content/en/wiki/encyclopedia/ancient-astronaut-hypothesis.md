@@ -17,16 +17,16 @@ The Ancient Astronaut Hypothesis proposes that in ancient times, extraterrestria
 
 Critics argue that there is no concrete evidence to support the hypothesis, and that proponents selectively interpret the available evidence to fit their theory. They also point out that many ancient structures can be explained through conventional means such as engineering and cultural developments. Additionally, many of the claims made by Ancient Astronaut theorists have been discredited by mainstream science, and the hypothesis is not widely accepted by the academic community.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 In Raëlism, the Ancient Astronaut hypothesis is interpreted as a belief that intelligent extraterrestrial beings visited Earth in the past and played a role in the development of human civilization. The Raëlian creation story suggests that life on Earth was created by extraterrestrial beings known as the Elohim, who are advanced scientists and engineers. The Elohim are described as having created humans in their own image and as having guided the development of human civilization throughout history. This interpretation of the Ancient Astronaut hypothesis is central to Raëlism and provides a framework for understanding human origins and the purpose of life on Earth.
 
-### See also
+## See also
 
 - [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-### External links
+## External links
 
 - [Ancient astronauts | Wikipedia](https://en.wikipedia.org/wiki/Ancient_astronauts)

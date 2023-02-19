@@ -23,11 +23,11 @@ In terms of its appearance, Pangea would have been a vastly different landscape 
 
 Overall, Pangea is a fascinating scientific theory that offers a glimpse into the Earth's geological history and provides a unique perspective on the formation and movement of the planet's continents.
 
-### Etymology
+## Etymology
 
 The name pangaea is neologism of modern times and does not come from a line of the Tradition. It is derived from Ancient Greek pan (πᾶν) and Gaea (Γαῖα), meaning the whole earth.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Yahweh explains how during the third day of creation a aritfical supercontinent was terraformed:
 
@@ -41,12 +41,12 @@ The following is said about the Great Flood:
 
 The Pangea continent drifted away after a catastrophic explosion that provoked the Great Flood, and the exiled creators asked Noah to build a spaceship to safequard all life's genetic code to orbit the Earth during the cataclysm. When the explosion took place, life had already been preserved a few thousand kilometers above the Earth, and the continent was submerged by a gigantic tidal wave, destroying all life on its surface.
 
-### See also
+## See also
 
 - [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
 - [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 
-### External links
+## External links
 
 - [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)

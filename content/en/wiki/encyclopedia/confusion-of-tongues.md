@@ -19,7 +19,7 @@ The story of the Confusion of Tongues is often interpreted as a metaphor for the
 
 In modern times, the Tower of Babel has become a symbol of cultural and linguistic diversity, and has been depicted in art, literature, and popular culture in various forms. The story continues to be relevant and has inspired discussions and interpretations on themes such as the nature of language, the division of humanity, and the relationship between humanity and the divine.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh mentions the confusion of tongues and says the following about what happened:
 
@@ -35,12 +35,12 @@ This passage is referring to the story of the Tower of Babel in the book of Gene
 
 The author of the passage suggests that the creators took this action to prevent the people from becoming too powerful and to slow down their scientific progress. The creators took the Jews with the most scientific knowledge and scattered them among primitive tribes in countries where they could not be understood due to language barriers. Additionally, the creators destroyed all the scientific instruments of the Jews, further hindering their progress.
 
-### See also
+## See also
 
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 
-### External links
+## External links
 
 - [Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)
 - [Tower of Babel (mythological tower, Babylonia)](https://www.britannica.com/topic/Tower-of-Babel)

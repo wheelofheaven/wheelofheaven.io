@@ -19,13 +19,13 @@ The Old Testament of the Bible is primarily made up of texts written in Hebrew a
 
 It is believed by scholars that the Old Testament was written by a diverse group of authors, including prophets, priests, scribes, and kings. The exact identity of these authors is often not known, and some of the texts may have been written or edited by multiple individuals over time. Nevertheless, the Old Testament remains an important source of religious, cultural, and historical information for the Jewish and Christian communities.
 
-### The Hebrew Bible or the Tanakh
+## The Hebrew Bible or the Tanakh
 
 The Hebrew Bible, also known as the Tanakh, is the primary text of the Jewish faith and a key source of religious, cultural, and historical information for Jews. It is composed of three main parts: the Torah (the first five books of the Old Testament), the Prophets (Nevi'im), and the Writings (Ketuvim). The Hebrew Bible is written in Hebrew and is considered the oldest version of the Old Testament, predating the Christian Old Testament by several centuries.
 
 For Jews, the Hebrew Bible is a sacred text that contains the revealed word of God and provides guidance for how to live a righteous life. It is also seen as a historical record of the Jewish people and their relationship with God. The Hebrew Bible is an important part of Jewish tradition and continues to play a central role in Jewish worship and education.
 
-### Documentary hypothesis
+## Documentary hypothesis
 
 The Documentary Hypothesis is a theory in biblical scholarship that suggests the Pentateuch (the first five books of the Old Testament) were composed from four primary sources, each with distinct literary, theological, and historical characteristics. These sources are referred to as J (for Yahwist), E (for Elohist), D (for Deuteronomist), and P (for Priestly). According to the hypothesis, these sources were combined and edited over time to form the text as we now have it.
 
@@ -33,13 +33,13 @@ This hypothesis has affected the way modern biblical scholars approach the study
 
 However, some religious believers may reject the Documentary Hypothesis, as they see it as challenging the traditional view of the Old Testament as a unified and divinely inspired text. Ultimately, the impact of the Documentary Hypothesis on contemporary reading of the Bible will depend on the individual reader's beliefs and perspectives.
 
-### Elohim, the name of the Gods
+## Elohim, the name of the Gods
 
 Yes, Elohim is a plural noun used in the Hebrew Bible, particularly in the book of Genesis, to refer to the deity or deities. However, it is also used with singular verb forms, leading to debate among scholars about whether it is being used as a plural of majesty (a plural form used to convey grandeur or respect) or as a genuine plural referring to multiple deities.
 
 In Jewish and Christian interpretation, "Elohim" is usually understood as a singular noun referring to the God of Abraham, Isaac, and Jacob, and is used to emphasize the divine majesty and power of God. Some scholars argue that the use of a plural form was a way of expressing the idea of the Trinity, while others believe it reflects the polytheistic beliefs of the ancient Near East that influenced the development of the Hebrew religion. Regardless of its origin, "Elohim" remains an important and enigmatic term in the Hebrew Bible.
 
-### Dead Sea Scrolls
+## Dead Sea Scrolls
 
 The Dead Sea Scrolls are a collection of Jewish texts discovered in the 1940s in eleven caves near the Dead Sea. The scrolls contain fragments from every book of the Hebrew Bible, as well as other Jewish texts, hymns, and commentaries. The texts are written in Hebrew and are estimated to have been composed between the third century BCE and the first century CE.
 
@@ -49,7 +49,7 @@ The discovery of the Dead Sea Scrolls also challenged the previously accepted vi
 
 Overall, the Dead Sea Scrolls are an important resource for biblical scholarship and offer valuable insight into the development of the Hebrew Bible and the religious and cultural world of ancient Judaism.
 
-### The Book of Enoch
+## The Book of Enoch
 
 The Book of Enoch is not considered part of the canon of the Hebrew Bible or the Christian Old Testament. However, it is part of the Dead Sea Scrolls and was highly regarded by some Jewish sects in the Second Temple period.
 
@@ -59,7 +59,7 @@ In the modern era, some religious groups, such as the Ethiopian Orthodox Church,
 
 Ultimately, the interpretation of the Book of Enoch and its relationship to the Biblical scriptures will depend on the individual reader's beliefs, perspective, and the religious or scholarly context in which it is being considered.
 
-### See also
+## See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
 - [Wiki › Dhorme Bible translation]({{< relref "wiki/encyclopedia/dhorme-bible-translation.md" >}})
@@ -67,7 +67,7 @@ Ultimately, the interpretation of the Book of Enoch and its relationship to the 
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 - [Wiki › Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})
 
-### External links
+## External links
 
 - [Bible | Wikipedia](https://en.wikipedia.org/wiki/Bible)
 - [Bible (sacred text) | Britannica](https://www.britannica.com/topic/Bible)

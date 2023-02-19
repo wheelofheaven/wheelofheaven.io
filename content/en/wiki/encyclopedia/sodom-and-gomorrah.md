@@ -21,7 +21,7 @@ God then destroyed Sodom and Gomorrah with fire and brimstone, raining down on t
 
 The story of Sodom and Gomorrah has been interpreted in various ways over the centuries, with some viewing it as a cautionary tale about the dangers of sin and disobedience, while others see it as a story about God's wrath and justice. It has also been used to justify the condemnation of homosexuality, and is still a source of debate and interpretation today.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh mentions Sodom and Gomorrah and explains what happened with following words:
 
@@ -49,12 +49,12 @@ According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh men
 
 The group of humans who had been dispersed on Earth, harbored a desire for vengeance against those who tried to destroy them. They managed to salvage a few scientific secrets and prepared an expedition to punish their oppressors. They warned the peaceful people to leave Sodom and Gomorrah, as they were going to destroy it with an atomic explosion. The peaceful people did not realize the implications of an atomic explosion and were in no hurry to leave the town. The bomb fell on Sodom and Gomorrah, and the cities were overthrown, and all the inhabitants of the cities were killed. Burns caused by the explosion made people look like salt statues, which is what happened to the wife of Lot who looked back during her escape. The explosion was also responsible for the formation of the Dead Sea.
 
-### See also
+## See also
 
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 - [Wiki › Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}})
 
-### External links
+## External links
 
 - [Sodom and Gomorrah | Wikipedia](https://en.wikipedia.org/wiki/Sodom_and_Gomorrah)
 - [Dead Sea | Wikipedia](https://en.wikipedia.org/wiki/Dead_Sea)

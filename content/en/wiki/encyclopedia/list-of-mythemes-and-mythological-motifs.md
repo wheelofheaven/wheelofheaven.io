@@ -21,7 +21,7 @@ Another well-known mythological motif is the flood myth, which can also be found
 
 One of the most fascinating mythological motifs is that of the creators from the sky, or from above. These stories involve the arrival of beings from another world who impart knowledge, technology, or culture to humans. These creators are often depicted as powerful, advanced beings with god-like abilities, and can be found in myths from various cultures, such as the Sumerian Anunnaki, the Greek Titans, or the Hindu Devas. The stories of the creators from the sky have led many to speculate that they were actually extraterrestrial beings, who came to Earth and interacted with humans in the distant past.
 
-### List of mythemes and mythological motifs
+## List of mythemes and mythological motifs
 
 The following table shows the majority of well-established, well-known mythemes and mythological motifs that exhibit mythological readings that can be explained within the Wheel of Heaven working hypothesis:
 
@@ -37,10 +37,10 @@ The following table shows the majority of well-established, well-known mythemes 
 | Theft of fire             | A1415 | | |
 | Titanomachy               | | | |
 
-### See also
+## See also
 
 - [Wiki › Mytheme]({{< relref "wiki/encyclopedia/mytheme.md" >}})
 
-### External links
+## External links
 
 - [Motif-Index of Folk Literature | Wikipedia](https://en.wikipedia.org/wiki/Motif-Index_of_Folk-Literature)

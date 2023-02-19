@@ -21,7 +21,7 @@ However, a serpent appeared and tempted Eve to eat from the forbidden tree, prom
 
 When God came to the Garden, he discovered that Adam and Eve had disobeyed him and had eaten from the forbidden tree. As a result, God punished them by expelling them from the Garden and placing an angel with a flaming sword to guard the entrance, so that they could not enter the garden of Eden anymore.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, Genesis, where Eden is heavily implied being synonymous with the biblical paradise, says the following about this specific place:
 
@@ -33,12 +33,12 @@ In other words, Yahweh tells us that Eden is an antediluvian, proto-pangaean reg
 
 Out of the seven creator teams, one industrious and talented team that happened to be conducting their Genesis projects within this Eden region managed to engineer outstanding life forms. Besides the supposedly impressive flora and faune, the human type that got incepted there is considered the most intelligent one.
 
-### See also
+## See also
 
 - [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
 - [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
 
-### External links
+## External links
 
 - [Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
 - [Garden of Eden | Britannica](https://www.britannica.com/topic/Garden-of-Eden)

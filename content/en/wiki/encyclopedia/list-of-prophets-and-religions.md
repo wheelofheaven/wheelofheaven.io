@@ -31,7 +31,7 @@ There are several major world religions, each with their own unique beliefs and 
 
 - Taoism: A Chinese religion and philosophy that emphasizes the concept of Tao, or the way, as the ultimate reality and source of all things. Taoism encourages simplicity, humility, and a deep respect for nature and the interconnectedness of all things.
 
-### List of religions
+## List of religions
 
 The following table shows the an exhaustive list of religions. The list contains a column that indicates the level of approximated authenticity.
 
@@ -59,16 +59,16 @@ The following table shows the an exhaustive list of religions. The list contains
 | Sabaeans (Harran)     | 12th bce-7th ce   | Idris/Thoth                |                           | highly likely               |
 | ...                   |                   |                            |                           |                             |
 
-### List of prophets
+## List of prophets
 
 {tbd}
 
-### See also
+## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 - [Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})
 
-### External links
+## External links
 
 - [List of religions and spiritual traditions | Wikipedia](https://en.wikipedia.org/wiki/List_of_religions_and_spiritual_traditions)

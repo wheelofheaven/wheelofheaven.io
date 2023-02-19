@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-### See also
+## See also
 
 - [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 - [Wiki › Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}})
@@ -22,4 +22,4 @@ toc: true
 - [Wiki › Sacred Geometry]({{< relref "wiki/encyclopedia/sacred-geometry.md" >}})
 - [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
 
-### External links
+## External links

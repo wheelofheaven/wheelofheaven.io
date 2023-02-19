@@ -23,7 +23,7 @@ God then made a covenant, or a promise, with Noah never to destroy the earth wit
 
 The story of Noah's Ark is considered by many as a reminder of God's power and mercy, and is still widely known and retold today.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 Noah's Ark is mentioned by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of Noah's Ark:
 
@@ -57,11 +57,11 @@ In this passage, it is explained that the creators in exile, who were monitoring
 
 The ark was lifted "above" the Earth and not "on" the water, and it was necessary to wait until there was no more dangerous radioactive fallout. The spacecraft had three sections and carried a couple from each race of human beings on Earth. Eventually, it landed on Earth and the survivors, both human and non-human, were released to start a new life. The story of Noah's Ark can be understood as a life preservation project that safeguarded life during the Great Flood.
 
-### See also
+## See also
 
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 
-### External links
+## External links
 
 - [Noah\'s Ark | Wikipedia](https://en.wikipedia.org/wiki/Noah%27s_Ark)
 - [Ark of Noah | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/1780-ark-of-noah)

@@ -15,7 +15,7 @@ toc: true
 
 Antediluvian refers to a time before the Biblical Great Flood. The exact appearance of the antediluvian world is not described in detail in the Bible or any other historical record. Some religious texts suggest that the antediluvian world was a time of great prosperity, peace, and advanced civilization. However, this colloquially considered largely a matter of speculation and interpretation.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the antediluvian world and its advanced human civilization:
 
@@ -45,7 +45,7 @@ However, the creators also took the most beautiful daughters of humanity and mad
 
 The scientific progress on Earth during this time was deemed dangerous by those on the distant planet, and they decided to destroy what had been created. This ultimately led to the Great Flood, as described in the following chapters of Genesis.
 
-### See also
+## See also
 
 - [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
@@ -53,6 +53,6 @@ The scientific progress on Earth during this time was deemed dangerous by those 
 - [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
 - [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})
 
-### External links
+## External links
 
 - [Antediluvian | Wikipedia](https://en.wikipedia.org/wiki/Antediluvian)

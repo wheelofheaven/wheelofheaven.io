@@ -25,12 +25,12 @@ Archeoastronomy has made several significant contributions to our understanding 
 
 - Technological advancements: Archeoastronomy has revealed that many ancient cultures possessed a sophisticated understanding of astronomy and advanced astronomical technology. For example, some ancient cultures used astronomical observations to create accurate calendars, while others developed sophisticated astronomical instruments, such as sundials and star charts.
 
-### See also
+## See also
 
 - [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 - [Wiki › List of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}})
 - [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
 
-### External links
+## External links
 
 - [Archaeoastronomy | Wikipedia](https://en.wikipedia.org/wiki/Archaeoastronomy)

@@ -37,11 +37,11 @@ While there are hundreds of catalogized mythemes, here are a few examples of fam
 
 These are just a few examples of famous mythemes found in mythology and folklore around the world.
 
-### See also
+## See also
 
 - [Wiki › Comparative mythology]({{< relref "wiki/encyclopedia/comparative-mythology.md" >}})
 - [Wiki › List of mythemes and mythological motifs]({{< relref "wiki/encyclopedia/list-of-mythemes-and-mythological-motifs.md" >}})
 
-### External links
+## External links
 
 - [Mytheme | Wikipedia](https://en.wikipedia.org/wiki/Mytheme)

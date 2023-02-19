@@ -19,7 +19,7 @@ Samsara is believed to be driven by the law of karma, which states that every ac
 
 The goal of many religious practices in Indian religions is to break free from the cycle of samsara and achieve liberation or enlightenment. This is often accomplished through spiritual discipline, meditation, and other spiritual practices, which are believed to help one purify the mind and attain a state of pure consciousness that is free from the cycle of rebirth.
 
-### In Buddhism ☸️
+## In Buddhism ☸️
 
 Saṃsāra (Sanskrit: संसार, Pali: saṃsāra) is a concept in Hinduism, Buddhism, and other Indian religions, referring to the cycle of birth, death, and rebirth. According to this concept, all living beings are trapped in this cycle, and the goal is to break free from it and attain liberation. In Hinduism, this is achieved by attaining moksha, while in Buddhism it is achieved by attaining enlightenment, or nirvana.
 
@@ -27,13 +27,13 @@ The cycle of saṃsāra is driven by karma, which is the accumulation of one's a
 
 The cycle of saṃsāra is often depicted as a wheel, or the Bhavacakra, with twelve houses representing the different stages of life and existence. Breaking free from the cycle of saṃsāra requires a deep understanding of the nature of reality and the cessation of one's attachment and aversion.
 
-#### The Wheel of Life (Bhavacakra)
+### The Wheel of Life (Bhavacakra)
 
 The Bhavacakra (Sanskrit: भवचक्र; Pāli: bhavacakka; Tibetan: སྲིད་པའི་འཁོར་ལོ, Wylie: srid pa'i 'khor lo), also known as the Wheel of Life, is a symbolic representation of saṃsāra (or cyclic existence) is a symbolic representation of samsara, the cycle of birth, death, and rebirth in Buddhism. It is usually depicted as a wheel with twelve houses, each house representing a different aspect of samsara and its causes and effects.
 
 The outer rim of the wheel depicts the twelve links of dependent origination, which show how ignorance and craving lead to suffering and rebirth. The three animals at the center of the wheel represent the three poisons of ignorance, attachment, and aversion, which keep beings trapped in samsara. The image serves as a visual reminder of the Buddhist teachings on the nature of existence and the path to liberation.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the second book _Book Which Tells The Truth_, 2nd Chapter, Buddhism, Yahweh demystifies a core tenet of Buddhism:
 
@@ -47,13 +47,13 @@ If humanity is not sufficiently wary of these devils, it will fall back into the
 
 According to the excerpt, the swastika is a symbol for the eternal recurrence, which is the idea that history repeats itself in cycles. The swastika is associated with the cycle because it represents the choice between a golden age of civilization, where science serves the people and creates an earthly paradise, and a primitive stage where humanity submits to nature instead of dominating and benefiting from it. In this context, the swastika symbolizes the choice between escaping the cycle of suffering and achieving a state of bliss through overcoming and awakening or being trapped in the cycle of reincarnation of the whole human species and growing another global civilization from anew.
 
-### See also
+## See also
 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})
 - [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
 
-### External links
+## External links
 
 - [Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism))
 - [Bhavacakra | Wikipedia](https://en.wikipedia.org/wiki/Bhavacakra)

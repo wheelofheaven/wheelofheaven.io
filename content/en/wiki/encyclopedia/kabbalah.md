@@ -26,7 +26,7 @@ The main books of Kabbalah include:
 
 Some of the most well-known and influential Kabbalistic texts were written by Spanish Kabbalists such as Moses de Leon (who is credited with writing "The Zohar"), Isaac Luria (known as the Ari), and Shlomo Alkabetz. Other important figures in the development of Kabbalah include the German Kabbalist Johannes Reuchlin and the 16th-century Safed school of Kabbalists led by Moshe Cordovero and Isaac Luria. Kabbalah is still considered an important part of Jewish spirituality and culture by many Jews today. Its teachings and practices continue to influence contemporary spirituality and have inspired new interpretations and adaptations in various spiritual traditions. Additionally, Kabbalah has had a lasting impact on Western philosophy, literature, and the arts. While it is primarily a form of Jewish mysticism, its ideas and practices have also been adopted and studied by individuals from diverse religious and cultural backgrounds.
 
-### The Zohar
+## The Zohar
 
 The Zohar is a central text in the Kabbalah. It was written in medieval Spain in the 13th century and is said to contain the secret wisdom of the Torah. The Zohar is written in Aramaic and is a commentary on the Torah, the Hebrew Pentateuch (the first five books of the Old Testament).
 
@@ -36,7 +36,7 @@ The Zohar is structured in the form of a running commentary on the Pentateuch, t
 
 In addition to the commentary on the Torah, the Zohar also contains homilies, parables, and allegories that elaborate on its central teachings. The text is divided into several sections, each of which focuses on a particular aspect of the divine realm, such as the sefirot (the ten attributes of God), the creation of the world, and the nature of the soul.
 
-### Alexandre Safran
+## Alexandre Safran
 
 Jean Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named 'La Cabale' and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained.
 
@@ -44,7 +44,7 @@ Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
 
 > « Le message préservé par la Kabale porte sur la correspondance des deux mondes, céleste et terrestre, sur leur unification par l’homme. [...] L’homme renouvellera les actes relatés au début de la Genèse », écrit Alexandre Safran, grand-rabbin de Genève, dans la Kabale (Payot), où il précise aussi que « la Kabale remonte aux temps préhistoriques ; Moïse ne fait que l’introduire dans l’Histoire d’Israël ».
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the World", Section "At the Roots of All Religions", Yahweh mentions the Kabbalah as being a body of mystical traditions that is rich in allusions to our Creators, the Elohim:
 
@@ -52,16 +52,16 @@ According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the Wor
 >
 > If one day you can find a copy, then you will be able to see that there are a great number of allusions to us. [...]
 
-### See more
+## See more
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})
 
-### Read more
+## Read more
 
 - [Resources › The Zohar: Pritzker Edition]({{< relref "resources/the-zohar-pritzker/_index.md" >}})
 
-### External links
+## External links
 
 - [Kabbalah | Wikipedia](https://en.wikipedia.org/wiki/Kabbalah)
 - [Zohar | Wikipedia](https://en.wikipedia.org/wiki/Zohar)

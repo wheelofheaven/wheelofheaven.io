@@ -23,7 +23,7 @@ The precession of the equinoxes is a slow process, taking approximately 26'000 y
 
 In astrology and some esoteric traditions, the precession of the equinoxes is seen as having spiritual and philosophical significance, with each era of the precession being associated with a different astrological age and a different spiritual paradigm.
 
-### Cause
+## Cause
 
 The precession of Earth's rotational axis is caused by the gravitational forces of the Sun and the Moon acting upon the equatorial bulge of the Earth. Earth's equatorial diameter is about 43 km larger than its polar diameter, creating a slight bulge around the equator.
 
@@ -33,7 +33,7 @@ Additionally, Earth's orbit around the Sun is not a perfect circle, but an ellip
 
 The combined effect of these gravitational forces causes the direction of the Earth's rotational axis to change over time, tracing out a complete circle in a period of approximately 26,000 years. The precession of Earth's rotational axis has important implications for our understanding of the Earth's climate and seasons.
 
-### Axial tilt
+## Axial tilt
 
 The axial tilt of the Earth, also known as the obliquity of the ecliptic, refers to the angle at which the Earth's rotational axis is tilted relative to its orbital plane around the Sun. This tilt is currently about 23.5 degrees and is responsible for the changing seasons on Earth.
 
@@ -43,7 +43,7 @@ Second, the precession also changes the angle at which the Earth's rotational ax
 
 In summary, the precession of the Earth's rotational axis is related to the axial tilt in that it affects the direction and angle of the axial tilt over time.
 
-### North Pole star
+## North Pole star
 
 The current North Pole star, also known as the North Star or Polaris, is a star located near the celestial north pole. The celestial north pole is the point in the sky directly above the Earth's North Pole.
 
@@ -53,7 +53,7 @@ Currently, Polaris is located very close to the celestial north pole and is ther
 
 In about the year 14,000 AD, the North Star is expected to be the bright star Vega. So, as the precession of the Earth's rotational axis continues, the North Star will gradually shift from Polaris to Vega and then to other stars over time.
 
-### Zodiac
+## Zodiac
 
 The precession of the Earth's rotational axis also affects the position of the stars in the sky and, as a result, the apparent position of the constellations. This has important implications for the zodiac, which is a band of the sky divided into twelve equal parts, each named for the constellation that appears in that part of the sky.
 
@@ -69,7 +69,7 @@ The Babylonians believed that the positions of these constellations along the ec
 
 Over time, the twelve constellations of the zodiac have become widely recognized and are still used in astrology today, although the positions of the constellations relative to the zodiac have changed due to precession. Despite this, the names and symbolic associations of the twelve constellations of the zodiac have remained largely unchanged for thousands of years and continue to be used in astrology and astronomical observations.
 
-### The 4 Cardinal days
+## The 4 Cardinal days
 
 An equinox is the time when the Sun is directly overhead the equator and the length of day and night are nearly equal all over the world. There are two equinoxes in a year: the Vernal Equinox (around March 20th or 21st) and the Autumnal Equinox (around September 22nd or 23rd).
 
@@ -81,11 +81,11 @@ Due to precession, the position of the celestial equator and the ecliptic plane,
 
 The equinoxes were used by ancient astronomers and astrologers to determine the position of the zodiac and the constellations along the ecliptic. The equinoxes were considered important because they represented the start of spring and autumn and marked the beginning of new seasons.
 
-### See also
+## See also
 
 - [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
 
-### External links
+## External links
 
 - [Axial precession](https://en.wikipedia.org/wiki/Axial_precession)
 - [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)

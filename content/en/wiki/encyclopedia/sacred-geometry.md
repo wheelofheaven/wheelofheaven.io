@@ -21,7 +21,7 @@ In architecture and design, sacred geometry is used to create harmonious and aes
 
 Overall, sacred geometry is an ancient and cross-cultural tradition that has been used for thousands of years to express spiritual and philosophical ideas, and to create aesthetically pleasing structures and designs.
 
-### Basic shaped ans principles
+## Basic shaped ans principles
 
 The basic shapes and principles of sacred geometry include:
 
@@ -41,7 +41,7 @@ The basic shapes and principles of sacred geometry include:
 
 These are some of the basic shapes and principles of sacred geometry, which have been used in spiritual, artistic, and architectural traditions for thousands of years. The idea is that these shapes and patterns reflect the underlying structure and principles of the universe, and that they can be used to express spiritual and philosophical ideas, as well as to create harmonious and aesthetically pleasing designs.
 
-### In historical architecture
+## In historical architecture
 
 Many historical buildings and structures have been designed with sacred geometry principles incorporated into their design. Some examples include:
 
@@ -57,10 +57,10 @@ Many historical buildings and structures have been designed with sacred geometry
 
 These are just a few examples of the many historical buildings and structures that have incorporated sacred geometry into their design. The use of sacred geometry can be found in a wide range of architectural styles and traditions, from ancient to modern times, and reflects the belief in the spiritual significance of geometric shapes and patterns.
 
-### See also
+## See also
 
 - [Wiki › Ancient Builders]({{< relref "wiki/encyclopedia/ancient-builders.md" >}})
 
-### External links
+## External links
 
 - [Sacred Geometry | Wikipedia](https://en.wikipedia.org/wiki/Sacred_geometry)

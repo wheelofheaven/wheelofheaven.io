@@ -17,7 +17,7 @@ The Apocalypse, as described in the biblical Book of Revelation, is a series of 
 
 The exact nature and timing of the events described in the Apocalypse are a matter of interpretation and have been the subject of much debate throughout history. Some believe that the Apocalypse is a literal depiction of the end of the world, while others interpret it symbolically or allegorically. Regardless of one's interpretation, the Apocalypse is a central aspect of many Christian beliefs about the end of the world and the second coming of Jesus Christ.
 
-### In Raëlism 🔯
+## In Raëlism 🔯
 
 According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter The Keys, the Apocalypse as the Age of Revelation is mentioned in the context of being one of the keys to unlock our potential:
 
@@ -31,12 +31,12 @@ The author suggests that these primitive people fearfully copied down messages f
 
 The context of this passage is the Age of Apocalypse, which is a concept found in various religions and refers to a time of great upheaval and change. The author suggests that in this time of change, it is important to listen to the message of the Elohim, rather than false prophets who hold on to narrow-minded and primitive beliefs. The author also emphasizes the importance of scientific understanding and critical thinking.
 
-### See also
+## See also
 
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})
 - [Wiki › Saṃsāra]({{< relref "wiki/encyclopedia/samsara.md" >}})
 
-### External links
+## External links
 
 - [Apocalypse | Wikipedia](https://en.wikipedia.org/wiki/Apocalypse)
 - [Biblical Apocalypse | World History Encyclopedia](https://www.worldhistory.org/article/1801/biblical-apocalypse/)

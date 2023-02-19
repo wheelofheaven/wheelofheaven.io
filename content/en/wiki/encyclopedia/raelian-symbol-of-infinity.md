@@ -13,13 +13,13 @@ weight: 200
 toc: true
 ---
 
-### Rendering
+## Rendering
 
 ![Image](images/renderings-raelian-symbol-of-infinity.jpg "rendering-raelian-symbol-of-infinity")
 
 Various rendering of the Raelian Symbol of Infinity.
 
-### See also
+## See also
 
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})

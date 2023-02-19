@@ -19,7 +19,7 @@ In astrology, the Age of Aquarius is an astrological age that is believed to bri
 
 The idea that the arrival of the Age of Aquarius may coincide with the awaited Golden Age is based on the belief that the movements of the stars and planets can influence human affairs. According to this view, the arrival of the Age of Aquarius will bring about a spiritual and cultural awakening that will transform human society and lead to the establishment of the awaited Golden Age.
 
-### Eschatology
+## Eschatology
 
 The awaited Golden Age in religious eschatology refers to a future time period that is believed by some religious groups to be marked by peace, prosperity, and happiness. This concept is often associated with the end of the world or the arrival of the Messiah, and is seen as a time when humanity will live in harmony and fulfillment.
 
@@ -29,7 +29,7 @@ In Hinduism, the awaited Golden Age is known as the Satya Yuga, a time period of
 
 In Buddhism, the awaited Golden Age is referred to as the Maitreya Buddha, a future Buddha who is expected to arrive and bring an end to suffering and ignorance.
 
-### End Times
+## End Times
 
 In many religious eschatologies, the awaited Golden Age is associated with the End Times, or the end of the world. This is because the arrival of the Golden Age is often seen as marking a dramatic change in the state of the world, bringing an end to the current era of suffering, oppression, and evil, and inaugurating a new era of peace, prosperity, and happiness.
 
@@ -37,10 +37,10 @@ In the Abrahamic religions of Judaism, Christianity, and Islam, the End Times ar
 
 In Hinduism and Buddhism, the end of the world is seen as a natural cycle of creation and destruction, and the arrival of the Golden Age is seen as marking the start of a new cycle of creation.
 
-### See also
+## See also
 
 - [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-### External links
+## External links
 
 - [Golden Age | Wikipedia](https://en.wikipedia.org/wiki/Golden_Age)

@@ -17,7 +17,7 @@ The precessional Great Year refers to the period of time it takes for the Earth'
 
 In many ancient cultures, the precession of the Earth's axis was seen as a metaphor for the cycle of birth, death, and rebirth of the cosmos. The precessional cycle was divided into smaller units of time, such as the precessional Great Month, which was a unit of time equal to one-twelfth of the precessional cycle, or approximately 2,150 years.
 
-### Duration
+## Duration
 
 Dividing the length of duration of the precessional cycle into 12 segments gives us the length of duration of each segment. The same way a year is divided into twelve months, the precessional Great Year is best divided into 12 Great Months. Depending on the length of duration of the Great Month, which nothing but the amount of time one complete cycle of precession takes, one can determine how long a monthly segment is.
 
@@ -41,16 +41,16 @@ $$
 \end{equation*}
 $$
 
-### Great Day
+## Great Day
 
 If the Great Year can be divided into 12 segments, giving us 12 Great Months, we can also divide it by 360 and name it a Great Day. As stated earlier, the approximative, but convenient number of 25'920 years for a given precessional cycle allows us to properly divide it by 360, giving 72 years as for the duration of a Great Day. It is interesting to note that the average life span of a human being comes close to that number.
 
-### See also
+## See also
 
 - [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
 - [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
 - [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-### External links
+## External links
 
 - [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)

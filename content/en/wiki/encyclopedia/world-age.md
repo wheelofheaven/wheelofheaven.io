@@ -39,6 +39,10 @@ The following table shows the last precessional cycle starting with the Age of A
 | 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
 | ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
 
+The table of World Ages suggests that human history can be divided into a series of distinct time periods, eras or Ages, each associated with a particular zodiacal house and a range of significant events. The table covers the last precessional cycle starting with the Age of Aquarius, which is the present age, and going back 25,920 years.
+
+The Age of Aquarius began around 1950 AD and is associated with a period of revelation and a golden age, which may suggest a new era of enlightenment and innovation. The Age of Pisces, which preceded the present age, lasted from 210 BC to 1950 AD and was marked by significant events such as the life and teachings of Jesus Christ and his fishermen, as well as the demographic multiplication of the human species. The table also suggests a link between the astrological ages and the history of the Elohim or extraterrestrial creators, with the Age of Leo marked by the first humans along with the Elohim.
+
 ### See also
 
 - [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})

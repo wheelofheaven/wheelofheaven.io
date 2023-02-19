@@ -143,7 +143,7 @@ The fourth day of creation is being explained that by observing the stars and th
 
 The fifth day of creation is being described as a period of time where the Elohiman scientists and artists went on to create the Earth's aquatic animals and birds. The scientists and artists create a natural balance in the ocean ecosystem by creating plankton, small fish, seaweed, and large fish, which can feed on each other without causing harm to other species. The artists also put pressure on the scientists to create the most visually stunning and colorful birds, resulting in some species that were not well-suited for flight.
 
-The scientists and artists organize competitions to determine the most beautiful and interesting animals, and even focus on the behavior of the animals during their mating rituals. Some groups of scientists also create monstrous animals such as dragons, dinosaurs, and brontosaurs, which prove to be a source of concern for some individuals back on their home planet who opposed the creation plans.
+The scientists and artists organize competitions to determine the most beautiful and interesting animals, and even focus on the behavior of the animals during their mating rituals. Some groups of scientists also create monstrous animals, the dinosaurs, which prove to be a source of concern for some individuals back on their home planet who opposed the creation plans.
 
 >> Let the waters abound with an abundance of living creatures, and let birds fly above the earth across the face of the firmament of the heavens.
 >>

@@ -59,7 +59,7 @@ Dhorme's contributions to the study of the ancient Near East were recognized by 
 
 Dhorme remained active in scholarship and teaching throughout his life, and he continued to publish important works well into his later years. He died on October 1, 1966, at the age of 85, leaving behind a rich legacy of scholarship and insight into the ancient Near East.
 
-### 
+### Too high in knowledge
 
 Edouard Dhorme became fascinated with the study of cuneiform alphabetic scriptures after the discovery of the unknown writing at Ras-Shamra in 1929. He began to decipher them and published a completed translation in 1931, competing with the German philologist Hans Bauer in the process. It was during this intense period of research into ancient scriptures and religious texts that Dhorme had profound reflections on his career and the meaning of his life. He decided to leave the École Biblique in Jerusalem and the religious order to have more freedom to progress in his career and work on ancient scriptures. He also confessed to his family that he could no longer teach what he no longer believed in, having climbed too high in knowledge. In his own words (translated from the French):
 

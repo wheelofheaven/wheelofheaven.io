@@ -49,7 +49,7 @@ Later on, Yahweh explains how the Elohim kept tinkering on the dinosaurian bluep
 
 This excerpt describes the creation of aquatic animals, including small and large fish and seaweed, by the Elohim during the fifth day of creation. The creators aimed to establish a natural balance in the ocean to ensure that one species would not destroy another. Following the creation of aquatic life, birds were created with the pressure from artists to create stunning forms with the craziest colors. The creation of animals was part of a competition among scientists and artists to determine the most beautiful and interesting creatures, including the behavior of these animals during mating rituals. The excerpt also mentions the creation of monstrous animals, such as dragons or what is known today as dinosaurs and brontosaurs.
 
-This represents the 5th day of creation, during the Age of Virog, as a period of time where the Elohiman scientists and artists went on to create the Earth's aquatic animals and birds. The scientists and artists create a natural balance in the ocean ecosystem by creating plankton, small fish, seaweed, and large fish, which can feed on each other without causing harm to other species. 
+This represents the 5th day of creation, during the Age of Virog, as a period of time where the Elohiman scientists and artists went on to create the Earth's aquatic animals and birds. The scientists and artists create a natural balance in the ocean ecosystem by creating plankton, small fish, seaweed, and large fish, which can feed on each other without causing harm to other species.
 
 The scientists and artists organize competitions to determine the most beautiful and interesting animals, and even focus on the behavior of the animals during their mating rituals. Some groups of scientists also create monstrous animals, the dinosaurs, which prove to be a source of concern for some individuals back on their home planet who opposed the creation plans.
 
@@ -70,7 +70,9 @@ In conclusion, there are certainly many similarities between the two that make i
 ### See also
 
 [Wiki › Elohimian Home Planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})</br>
-[Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})</br>
+[Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
+[Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})</br>
+[Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})</br>
 
 ### External links
 

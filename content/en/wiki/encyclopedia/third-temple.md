@@ -49,7 +49,6 @@ In this sense, the embassy can be considered the third temple, as it represents 
 
 The Raëlian Embassy is a proposed building that is part of the main tenets of the Raëlian movement. The Raëlian movement is based on the belief that extraterrestrial beings known as Elohim created life on Earth, and that they will return in the future to guide humanity to a new era of peace and harmony. The Raëlian Embassy is intended to be a physical representation of the movement's beliefs and values, serving as a hub for the promotion of Raëlian ideas and a place for members to gather and worship. The construction of the Raëlian Embassy has not yet begun, and it is unclear when or if it will be built.
 
-
 ### See also
 
 - [Wiki › Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}})</br>

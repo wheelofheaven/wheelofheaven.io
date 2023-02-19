@@ -67,7 +67,7 @@ In another passage of the Book, Yahweh explains what was meant by the common say
 
 >> John, panic-stricken, fell with his face to the ground:
 >>
->> And when I saw him, I fell at his feet as one dead. And he laid his right hand upon me, saying, ‘Fear not; I am the first and the last, and the Living one; and I was dead, and behold, I am alive for evermore, and I have the keys of death and of Hades. Write therefore the things which thou sawest, and the things which are, and the things which shall come to pass hereafter. 17 
+>> And when I saw him, I fell at his feet as one dead. And he laid his right hand upon me, saying, ‘Fear not; I am the first and the last, and the Living one; and I was dead, and behold, I am alive for evermore, and I have the keys of death and of Hades. Write therefore the things which thou sawest, and the things which are, and the things which shall come to pass hereafter. 17
 >>
 >> Revelation 1: 17-20
 >

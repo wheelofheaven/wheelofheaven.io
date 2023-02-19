@@ -17,7 +17,7 @@ toc: true
 
 The law of masstime simply states that **time is inversely proportional to mass**.
 
-This effect of mass, or simply mass effect, or the law of physics where time is inversely proportional to the mass or level of form of life, is a universal law that can be observed empirically in a wide range of kinetic bodies, particularly in life forms. For example, a eukaryotic cell exhibits a higher degree of gesticulations in a given period of time relative to its body size compared to an ant, which, in turn, generates more kinetic activity than an elephant. 
+This effect of mass, or simply mass effect, or the law of physics where time is inversely proportional to the mass or level of form of life, is a universal law that can be observed empirically in a wide range of kinetic bodies, particularly in life forms. For example, a eukaryotic cell exhibits a higher degree of gesticulations in a given period of time relative to its body size compared to an ant, which, in turn, generates more kinetic activity than an elephant.
 
 This law holds true at all levels of existence, from the smallest living organisms to the largest celestial bodies, and has profound consequences for understanding the behavior of the universe as a whole. For instance, a planet that is smaller than a galaxy would be expected to have a higher degree of motion due to its smaller mass, and would thus complete its revolutions in a shorter period of time. Similarly, a galaxy that is smaller than a supercluster would have a higher degree of motion relative to its size, and would complete its rotations in a shorter period of time.
 

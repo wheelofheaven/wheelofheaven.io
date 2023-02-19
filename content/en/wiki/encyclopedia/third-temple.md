@@ -17,11 +17,9 @@ The Third Temple refers to a place of worship that is prophesied to be built in 
 
 The rebuilding of the Third Temple remains a topic of religious and political discussion, but there has been no serious effort to begin construction. The Temple Mount, the site where the First and Second Temples were located, is currently occupied by the Al-Aqsa Mosque and the Dome of the Rock, and the political and religious issues surrounding the site make it unlikely that a Third Temple will be built in the near future. Some ultra-Orthodox Jewish groups advocate for the rebuilding of the Third Temple, but their views are not representative of the wider Jewish community and face opposition from other religious and political groups.
 
-### The Raëlian Embassy
-
-The Raëlian Embassy is a proposed building that is part of the main tenets of the Raëlian movement. The Raëlian movement is based on the belief that extraterrestrial beings known as Elohim created life on Earth, and that they will return in the future to guide humanity to a new era of peace and harmony. The Raëlian Embassy is intended to be a physical representation of the movement's beliefs and values, serving as a hub for the promotion of Raëlian ideas and a place for members to gather and worship. The construction of the Raëlian Embassy has not yet begun, and it is unclear when or if it will be built.
-
 ### In Raëlism 🔯
+
+In Raëlism, the Third Temple temple is equated with a dedicated residence to the Elohim which would also act as an embassy.
 
 According to the _Book Which Tells The Truth_, Sixth Chapter "The New Commandments", Section "Your Mission", Yahweh asks Raël and his followers to built a residence that serves as an embassy between the People of the Earth and the Elohim:
 
@@ -46,6 +44,11 @@ According to their beliefs, the first temple was built by King Solomon in Jerusa
 The embassy is seen as the place where the Elohim will meet with their ambassadors and provide them with guidance and knowledge. The Raëlians see the embassy as a place of peace and education, where the Elohim's message of love, peace, and respect for life can be shared with the world.
 
 In this sense, the embassy can be considered the third temple, as it represents the physical manifestation of the Raëlian belief system and their connection to the Elohim. It is a place where their members can come together to worship and learn, and where they can share their beliefs with others in the hopes of promoting a more peaceful and harmonious world.
+
+### The Raëlian Embassy
+
+The Raëlian Embassy is a proposed building that is part of the main tenets of the Raëlian movement. The Raëlian movement is based on the belief that extraterrestrial beings known as Elohim created life on Earth, and that they will return in the future to guide humanity to a new era of peace and harmony. The Raëlian Embassy is intended to be a physical representation of the movement's beliefs and values, serving as a hub for the promotion of Raëlian ideas and a place for members to gather and worship. The construction of the Raëlian Embassy has not yet begun, and it is unclear when or if it will be built.
+
 
 ### See also
 

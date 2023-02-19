@@ -21,13 +21,17 @@ The goal of many religious practices in Indian religions is to break free from t
 
 ### In Buddhism ☸️
 
-Saṃsāra (Sanskrit: संसार, Pali: saṃsāra; also samsara) in Buddhism and Hinduism is the beginningless cycle of repeated birth, mundane existence and dying again.[1] Samsara is considered to be dukkha, suffering, and in general unsatisfactory and painful,[2] perpetuated by desire and avidya (ignorance), and the resulting karma.
+Saṃsāra (Sanskrit: संसार, Pali: saṃsāra) is a concept in Hinduism, Buddhism, and other Indian religions, referring to the cycle of birth, death, and rebirth. According to this concept, all living beings are trapped in this cycle, and the goal is to break free from it and attain liberation. In Hinduism, this is achieved by attaining moksha, while in Buddhism it is achieved by attaining enlightenment, or nirvana.
+
+The cycle of saṃsāra is driven by karma, which is the accumulation of one's actions and intentions. One's karma determines the circumstances of their birth and their experiences in life. Depending on the nature of their karma, a being may be reborn into a higher or lower state of existence, such as a human, animal, or spirit realm.
+
+The cycle of saṃsāra is often depicted as a wheel, or the Bhavacakra, with twelve houses representing the different stages of life and existence. Breaking free from the cycle of saṃsāra requires a deep understanding of the nature of reality and the cessation of one's attachment and aversion.
 
 #### The Wheel of Life (Bhavacakra)
 
-The bhavacakra (Sanskrit: भवचक्र; Pāli: bhavacakka; Tibetan: སྲིད་པའི་འཁོར་ལོ, Wylie: srid pa'i 'khor lo) is a symbolic representation of saṃsāra (or cyclic existence). It is found on the outside walls of Tibetan Buddhist temples and monasteries in the Indo-Tibetan region, to help non Buddhists understand Buddhist teachings. It is used in Indian Buddhism and Tibetan Buddhism.
+The Bhavacakra (Sanskrit: भवचक्र; Pāli: bhavacakka; Tibetan: སྲིད་པའི་འཁོར་ལོ, Wylie: srid pa'i 'khor lo), also known as the Wheel of Life, is a symbolic representation of saṃsāra (or cyclic existence) is a symbolic representation of samsara, the cycle of birth, death, and rebirth in Buddhism. It is usually depicted as a wheel with twelve houses, each house representing a different aspect of samsara and its causes and effects.
 
-It usually depicts 12 houses in a circle/wheel.
+The outer rim of the wheel depicts the twelve links of dependent origination, which show how ignorance and craving lead to suffering and rebirth. The three animals at the center of the wheel represent the three poisons of ignorance, attachment, and aversion, which keep beings trapped in samsara. The image serves as a visual reminder of the Buddhist teachings on the nature of existence and the path to liberation.
 
 ### In Raëlism 🔯
 

@@ -19,6 +19,17 @@ The story of the Tower of Babel is often interpreted as a symbol of human pride 
 
 In addition to its religious significance, the Tower of Babel has also played a role in literature, art, and popular culture throughout history. The image of the tower has been used to symbolize various forms of human endeavor and ambition, and has been referenced and portrayed in a wide range of cultural contexts.
 
+### Paul Anthony Wallis
+
+Paul Anthony Wallis, an Australian author on the subject of re-interpreting the Biblical scriptures with a plural Elohim, he explains in his first book on the topic, called _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, how he Sumerian account of Ziusudra related to the Biblical creation of the Tower of Babel:
+
+> In Babylon the Sky People engineer an incredible structure. A grand opening celebration is held and a Council of Fifty is set aside to govern operations. From within the new structure seven technical experts dispatch the three hundred observers to their
+stations in the sky.
+>
+> This is a particularly intriguing detail because in the parallel Biblical account the name of the structure, “Babel” translates as “gateway for the elohim” – if el is short for elohim. Genesis 11 specifies that Babel has been constructed as a means of reaching the heavens. So here the cuneiform and Biblical accounts serve to amplify and finesse each other. Today we would call the stations in the sky “space stations” and the sending structure a “stargate”.
+
+This is an intriguing detail because in the parallel biblical account, the name of the structure, "Babel," translates to "gateway for the elohim," which suggests a connection between the two stories. Wallis suggests that this could be seen as a primitive account of space travel and that these "stations in the sky" could be thought of as modern-day space stations, and the sending structure as a "stargate."
+
 ### In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, where Yahweh explicitly mentions the Tower of Babel and says the following about its specific purpose:

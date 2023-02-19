@@ -33,6 +33,14 @@ Findings that would be considered strong indications of extraterrestrial life wo
 - Evidence of metabolic activity or biogenic substances produced by living organisms.
 - The detection of radio or optical signals that are indicative of intelligence.
 
+### Carl Sagan
+
+Carl Sagan made the following statement in his book "Pale Blue Dot: A Vision of the Human Future in Space" published in 1994.
+
+> Since, in the long run, every planetary civilization will be endangered by impacts from space, every surviving civilization is obliged to become spacefaring–not because of exploratory or romantic zeal, but for the most practical reason imaginable: staying alive... If our long-term survival is at stake, we have a basic responsibility to our species to venture to other worlds.
+
+The quote implies that space exploration and colonization is necessary for the survival of humanity in the long run. Sagan argues that the threat of impacts from space is a natural and inevitable danger that every civilization must eventually face, and becoming a spacefaring civilization is the only way to protect ourselves from this threat and ensure the survival of our species.
+
 ### See also
 
 - [Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})

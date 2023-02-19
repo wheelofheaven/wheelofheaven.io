@@ -34,3 +34,4 @@ While Raëlism has gained a significant following in some countries, it is consi
 ### External links
 
 - [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
+- [Raëlism | Wikipedia](https://en.wikipedia.org/wiki/Ra%C3%ABlism)

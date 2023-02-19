@@ -23,6 +23,48 @@ In some traditions, the Tree of Life is also associated with the idea of a unive
 
 The Tree of Life continues to hold great symbolic significance, and is often referenced and depicted in literature, art, and other forms of popular culture. Its image is used to evoke feelings of life, growth, and the interconnectedness of all things, and it continues to be an important part of spiritual and cultural traditions around the world.
 
+### In Raëlism 🔯
+
+According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the Tree of Life:
+
+> Let us move on to the fourth chapter of Genesis.
+>
+>> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto Yahweh. And Abel, he also brought of the firstlings of his flock and of the fat thereof.
+>>
+>> — Genesis 4: 3-4.
+>
+> The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the "tree of life", and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on as is stated in Genesis, Chapter 5, Verses 1-11.
+
+In Genesis 4, Cain and Abel offered gifts to the Elohim. Meanwhile, the creators who were exiled and under surveillance instructed the humans to provide them with food to show their loyalty. This led to the leaders of the first humans being granted access to the Tree of Life, allowing them to live for a very long time as detailed in Genesis 5.
+
+Yahweh goes on and describes in more clarity what the implications of the Tree of Life are:
+
+>> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, that the sons of Elohim saw the daughters of men that they were fair; and they took them wives of all which they chose.
+>>
+>> — Genesis 6: 1-2.
+>
+> The creators living in exile took the most beautiful daughters of humanity and made them their wives.
+>
+>> My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.
+>>
+>> — Genesis 6: 3.
+>
+> Longevity is not hereditary and much to the relief of the authorities on the distant planet, the children of the new human beings did not automatically benefit from the "tree of life". Thus the secret of life was lost, and mankind's progress was slowed down.
+
+In Genesis 6, the exiled Elohim called the "Sons of Elohim" in the Bible took the most beautiful daughters of humanity as their wives. The creators in exile had been granted permission to benefit from the Tree of Life, but this benefit did not extend to their offspring. As a result, the secret of eternal life was lost, and human progress slowed down.
+
+In the last Chapter of the same book, The Elohim, Yahweh makes another reference to the Tree of Life being a biomedical technology of longevity:
+
+> For us, the problem is very different. We are not eternal, but we are able to live ten times longer than you, thanks to a small surgical adjustment, which in effect is the biblical "tree of life".
+
+The Elohim, much like humans, are not immortal, but they are able to live ten times longer than humans due to a surgical procedure that is equivalent to the "tree of life" in the Bible.
+
+The Tree of Life is a biomedical technology or surgical adjustment that allows for longevity of life. It was granted to the leaders of the first humans by the creators in exile, allowing them to live for many years. However, the benefit of the Tree of Life did not extend to the offspring of these leaders, resulting in the loss of the secret of eternal life and the slowing down of human progress.
+
+### Our take
+
+Speculating on the possible nature of the Tree of Life technology based on our current understanding of biomedicine, it could involve genetic engineering or gene therapy to modify the DNA of the recipient, targeting genes that affect aging and lifespan. Another possibility could be the use of regenerative medicine, stem cell therapy, or organ replacement technology to repair or replace damaged tissues and organs in the body, thereby restoring health and extending lifespan. Additionally, it's possible that the Tree of Life technology involves the manipulation of the microbiome, which is known to play a critical role in maintaining health and longevity. However, it's important to note that these are purely speculative ideas, and the actual technology, if it exists, may be vastly different from what we can currently imagine.
+
 ### See also
 
 - [Wiki › Tree of the Knowledge of Good and Evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}})

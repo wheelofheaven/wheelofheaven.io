@@ -21,7 +21,7 @@ For many religious individuals, their faith and relationship with the divine is 
 
 ### In Raëlism 🔯
 
-In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about religion: 
+In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about religion:
 
 > Religion from the Latin religio means “that which links” or “the tie”, which unites the creators to their creation.
 

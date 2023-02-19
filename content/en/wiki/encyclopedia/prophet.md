@@ -31,7 +31,7 @@ This Greek word was later adopted and used in the Septuagint, the Greek translat
 
 ### In Raëlism 🔯
 
-In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about the meaning of prophet: 
+In the third book, _Let Us Welcome The Extra-Terrestrials_, the following is said about the meaning of prophet:
 
 > Prophet from the Greek prophetes means “the one who reveals”.
 

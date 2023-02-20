@@ -61,16 +61,15 @@ In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate 
 Bigliardi mentions Sendy's understanding of the Tradition further on:
 
 > Concerning the prophetic part of the Tradition, according to Sendy, humanity has entered the Age of Aquarius, in which its development is comparable to that of the Theosites.
-> 
+>
 > [...]
 >
-> All those civilizations that were able to conserve the Tradition flourished, according 
+> All those civilizations that were able to conserve the Tradition flourished, according
 to Sendy, whereas the remaining ones went astray.
 >
 > [...]
 >
-> To begin with, Catholicism is seen by Sendy as a repository of Tradition, and hence as a vessel of correct knowledge and orientation for humanity in scientific, as well as ethical, matters. Sendy remarks that the Jesuits were also custodians of the Tradition and they were perfectly aware, therefore, that 
-Columbus would reach America and not the Indies (pp. 300-301).
+> To begin with, Catholicism is seen by Sendy as a repository of Tradition, and hence as a vessel of correct knowledge and orientation for humanity in scientific, as well as ethical, matters. Sendy remarks that the Jesuits were also custodians of the Tradition and they were perfectly aware, therefore, that Columbus would reach America and not the Indies (pp. 300-301).
 
 ## See also
 

@@ -29,6 +29,25 @@ The Hermetic tradition also includes magic and theurgy, which are spiritual prac
 
 In conclusion, The Tradition can be understood as a remnant of ancient scientific and technological knowledge because it encompasses aspects of alchemy, astrology, magic, and theurgy, which were considered sciences in ancient times and were used to explore the nature of reality and attain knowledge of the divine. Although some of the beliefs and practices of The Tradition may seem strange or archaic by modern standards, they are still of interest to many people today and continue to be studied and practiced by esoteric communities around the world.
 
+## According to Jean Sendy
+
+Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
+
+### A Gentleman's Joyous Esotericism
+
+In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of an inherited Tradition is a central key aspect of Sendy's thought, in the seminal paper, the Tradition is introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+
+> Sendy’s hypothesis is that Moses was the custodian of an ancestral “Tradition.” The Tradition involves an historical and a prophetic element. The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201). The Book of Genesis is, therefore, an account of their arrival and of their manipulation of humans, as well as the Earth’s environment, over a long period of time. Each “day” in Genesis can be understood as a specific phase in the Theosites’ presence on our planet, and each phase corresponds, in turn, to the sun’s different positions at dawn, with reference to the constellations of the horoscope. These positions shift over the millennia (a phenomenon known as the precession of the equinoxes, pp. 33-44). The prophetical part of the Tradition, which, likewise, makes reference to the precession, hints at humanity’s spiritual and technological development after the Theosites left our planet.
+
+Bigliardi mentions Sendy's understanding of the Tradition further on:
+
+> Concerning the prophetic part of the Tradition, according to Sendy, humanity has entered the Age of Aquarius, in which its development is comparable to that of the Theosites.
+
+> All those civilizations that were able to conserve the Tradition flourished, according 
+to Sendy, whereas the remaining ones went astray.
+
+> To begin with, Catholicism is seen by Sendy as a repository of Tradition, and hence as a vessel of correct knowledge and orientation for humanity in scientific, as well as ethical, matters. Sendy remarks that the Jesuits were also custodians of the Tradition and they were perfectly aware, therefore, that Columbus would reach America and not the Indies (pp. 300-301).
+
 ## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

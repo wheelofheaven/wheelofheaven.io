@@ -39,6 +39,16 @@ In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the
 
 The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
 
+### A Gentleman's Joyous Esotericism
+
+In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of the alleged existence of so-called _Theosites_ is a central key aspect of Sendy's thought, in the seminal paper, these Theosites are introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+
+> The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201).
+
+In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
+
+> “Elohim” designates a specific faction of the Theosites, not all of them (p. 203). 
+
 ## According to Mauro Biglino
 
 Mauro Biglino is an Italian author, translator, and researcher who is known for his controversial work on the Bible. He worked for over a decade as a translator for the Catholic Church at the Vatican, where he translated ancient Hebrew and Greek texts. According to Biglino, his work as a translator has given him access to ancient, uncensored versions of the Bible, which he claims have been altered over time.

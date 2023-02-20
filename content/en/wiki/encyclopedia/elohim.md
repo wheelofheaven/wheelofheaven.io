@@ -156,6 +156,20 @@ In Raëlism, there are a few Elohim invididuals that are known by their names or
 - **Lucifer**: Leader of a faction among the Elohim that brought the light and knowledge to the first human beings and main advocate for the continuity of the human species.
 - **Satan**: Leader of a faction among the Elohim that believes nothing good can come from the humans and main antagonist of the continuity of the human species.
 
+### Our take
+
+## Usage
+
+As we've seen, Elohim seems to refer to an extraterrestrial civilization collectively remembered in the Biblical scriptures. Many proponents of this notion each settle for a variety of terms. In the following table, we would like to summarize what names have been used by these proponents and what they refer to by that name.
+
+| Name                      | Meaning                   | Proposed by                     |
+|---------------------------|---------------------------|---------------------------------|
+| Anunnaki (Sumerian: 𒀭𒀀𒉣𒈾) | Sky People                | tbd                             |
+| Celestials                | People from the Sky       | Jean Sendy                      |
+| Elohim (Hebrew: אֱלֹהִים)    | Powerful Ones, Sky People | tbd                             |
+| Sky People                | People from the Sky       | Jean Sendy, Paul Anthony Wallis |
+| Theosites                 | Inhabitants from Theos    | Jean Sendy                      |
+
 ## See also
 
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})

@@ -47,7 +47,7 @@ In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate 
 
 In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
 
-> “Elohim” designates a specific faction of the Theosites, not all of them (p. 203). 
+> “Elohim”  designates a specific faction of the Theosites, not all of them (p. 203).
 
 ## According to Mauro Biglino
 

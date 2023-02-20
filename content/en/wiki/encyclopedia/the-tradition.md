@@ -50,7 +50,7 @@ One of the main ideas put forward by Jean Sendy in virtually all of his work is 
 > 3) The physical transmission of knowledge that came "from the sky" was attributed by the Egyptian priests to "gods," by the Jews to "Elohim," by the Christian Tradition to "angels." (And the Byzantine theologians maintained that those "angels" had sexes.)
 > 4) The concrete reality of those gods-Elohim-angels is the most rational explanation of the knowledge of the precession of the equinoxes indicated by the zodiacal symbolism of the three related religions.
 >
-> Of all the versions of the Myth, only the one contained in the Bible has been transmitted to us by a line of priests and theologians from whom, since Moses, changing as much as a single letter of the text has always been an abominable crime. 
+> Of all the versions of the Myth, only the one contained in the Bible has been transmitted to us by a line of priests and theologians from whom, since Moses, changing as much as a single letter of the text has always been an abominable crime.
 
 ### A Gentleman's Joyous Esotericism
 
@@ -61,10 +61,14 @@ In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate 
 Bigliardi mentions Sendy's understanding of the Tradition further on:
 
 > Concerning the prophetic part of the Tradition, according to Sendy, humanity has entered the Age of Aquarius, in which its development is comparable to that of the Theosites.
-
+> 
+> [...]
+>
 > All those civilizations that were able to conserve the Tradition flourished, according 
 to Sendy, whereas the remaining ones went astray.
-
+>
+> [...]
+>
 > To begin with, Catholicism is seen by Sendy as a repository of Tradition, and hence as a vessel of correct knowledge and orientation for humanity in scientific, as well as ethical, matters. Sendy remarks that the Jesuits were also custodians of the Tradition and they were perfectly aware, therefore, that 
 Columbus would reach America and not the Indies (pp. 300-301).
 

@@ -17,9 +17,21 @@ The term Elohim (Hebrew: אֱלֹהִים, 'ēlohîm) is a Hebrew word used in t
 
 In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
 
-## Plurality of Gods
+## Plural form
 
 The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
+
+## Etymology
+
+Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), plural of ʾélôah (אֱלוֹהַּ), understood to be an expanded form of ʾēl (אֵל).[^1] The Semitic root of ʾēl is ʾlh or ʾl which would in its plural form ʾilhm denote "powers" (plural) or if applied to a subject "powerful ones".[^2]
+
+In the earliest documented Semitic language, Akkadian, the cognate of the Biblical Hebrew ʾēl (אֵל) is ilum. The Akkadian ilum in turn is derived from the Proto-Semitic *ʔil-.[^3]
+
+Historically, the Sumerian cuneiform script was adopted to write down the Akkadian language. The cuneiform script is a logosyllabic script which means that the characters can represent as a logogram whole words, so-called morphemes, or phonetically syllables. In the case of Akkadian, a combination of both systems is also allowed and widely used in its written cuneiform form. The Akkadian ilum can therefore be written as a logogram as 𒀭 (pronounced in its Sumerian form as DINGIR or transliterated as DIĜIR), as syllables 𒄿𒈝 (pronounced in Akkadian as i-lum) or in combined form as 𒀭𒈝 (DINGIR-lum).[^4] When a Sumerian logogram is used in a non-Sumerian written language (Sumerian being a language isolate and unrelated to Akkadian which is a Semitic language), it is also called a Sumerogram.
+
+While 𒀭 (DINGIR) is a logogram which is simply understood as an individual god[^5], the idea 𒀭 represents, as a ideogram, is "sky" or "heaven".[^6] 𒀭 is also part of the Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki where 𒀭 is read as ān, “sky”).[^7]
+
+To summarize, Elohim is a cognate to the older Akkadian ilum which is written with the Sumerogram 𒀭 meaning "sky". The Semitic root of the Hebrew ʾēl (from which Elohim is derived) or the Akkadian ilum is the ʾl usually understood as "power". The Sumerogram 𒀭 meaning "sky" is better indication of what the root meaning originally meant before it became associated with the powerfulness of the gods that came from the skies.
 
 ## According to Jean Sendy
 
@@ -184,3 +196,11 @@ As we've seen, Elohim seems to refer to an extraterrestrial civilization collect
 - [Elohim (Hebrew God) | Britannica](https://www.britannica.com/topic/Elohim)
 - [Elohim | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5704-elohim)
 - [Names of God | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/11305-names-of-god)
+
+[^1]: [Elohim | Wiktionary](https://en.wiktionary.org/wiki/Elohim)
+[^2]: [El (deity | Wikipedia)](https://en.wikipedia.org/wiki/El_(deity))
+[^3]: [ilum | Wiktionary](https://en.m.wiktionary.org/wiki/ilum#Akkadian)
+[^4]: [ilum | Wiktionary])(https://en.m.wiktionary.org/wiki/ilum#Akkadian)
+[^5]: [Dingir | Wikipedia](https://en.wikipedia.org/wiki/Dingir)
+[^6]: [Dingir | Wiktionairy](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^7]: [Anunnaki | Sumerian](https://en.wikipedia.org/wiki/Anunnaki)

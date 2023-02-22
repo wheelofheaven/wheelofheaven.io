@@ -23,15 +23,13 @@ The plurality of Elohim, if accepted, would challenge the traditional understand
 
 ## Etymology
 
-Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), plural of ʾélôah (אֱלוֹהַּ), understood to be an expanded form of ʾēl (אֵל).[^1] The Semitic root of ʾēl is ʾlh or ʾl which would in its plural form ʾilhm denote "powers" (plural) or if applied to a subject "powerful ones".[^2]
+The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl.[^1] In its plural form ʾilhm, it denotes "powers" or, if applied to a subject, "powerful ones."[^2]
 
-In the earliest documented Semitic language, Akkadian, the cognate of the Biblical Hebrew ʾēl (אֵל) is ilum. The Akkadian ilum in turn is derived from the Proto-Semitic *ʔil-.[^3]
+The oldest known Semitic language is Akkadian, and its cognate of ʾēl (אֵל) is ilum. Ilum, in turn, is derived from the Proto-Semitic *ʔil-.[^3] The Sumerian cuneiform script was used to write Akkadian, and ilum can be represented in cuneiform as a logogram (𒀭), syllables (𒄿𒈝), or a combination of both (𒀭𒈝).[^4]
 
-Historically, the Sumerian cuneiform script was adopted to write down the Akkadian language. The cuneiform script is a logosyllabic script which means that the characters can represent as a logogram whole words, so-called morphemes, or phonetically syllables. In the case of Akkadian, a combination of both systems is also allowed and widely used in its written cuneiform form. The Akkadian ilum can therefore be written as a logogram as 𒀭 (pronounced in its Sumerian form as DINGIR or transliterated as DIĜIR), as syllables 𒄿𒈝 (pronounced in Akkadian as i-lum) or in combined form as 𒀭𒈝 (DINGIR-lum).[^4] When a Sumerian logogram is used in a non-Sumerian written language (Sumerian being a language isolate and unrelated to Akkadian which is a Semitic language), it is also called a Sumerogram.
+The logogram 𒀭 (DINGIR) represents an individual god,[^5] while as an ideogram, it represents "sky" or "heaven".[^6] The Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki) contains 𒀭 as ān, which means "sky".[^7]
 
-While 𒀭 (DINGIR) is a logogram which is simply understood as an individual god[^5], the idea 𒀭 represents, as a ideogram, is "sky" or "heaven".[^6] 𒀭 is also part of the Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki where 𒀭 is read as ān, “sky”).[^7]
-
-To summarize, Elohim is a cognate to the older Akkadian ilum which is written with the Sumerogram 𒀭 meaning "sky". The Semitic root of the Hebrew ʾēl (from which Elohim is derived) or the Akkadian ilum is the ʾl usually understood as "power". The Sumerogram 𒀭 meaning "sky" is better indication of what the root meaning originally meant before it became associated with the powerfulness of the gods that came from the skies.
+In summary, Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as "power." The Sumerogram 𒀭, meaning "sky," provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
 
 ## According to Jean Sendy
 
@@ -168,9 +166,9 @@ In Raëlism, there are a few Elohim invididuals that are known by their names or
 - **Lucifer**: Leader of a faction among the Elohim that brought the light and knowledge to the first human beings and main advocate for the continuity of the human species.
 - **Satan**: Leader of a faction among the Elohim that believes nothing good can come from the humans and main antagonist of the continuity of the human species.
 
-### Our take
+## Summary
 
-## Usage
+### Usage
 
 As we've seen, Elohim seems to refer to an extraterrestrial civilization collectively remembered in the Biblical scriptures. Many proponents of this notion each settle for a variety of terms. In the following table, we would like to summarize what names have been used by these proponents and what they refer to by that name.
 
@@ -181,6 +179,10 @@ As we've seen, Elohim seems to refer to an extraterrestrial civilization collect
 | Elohim (Hebrew: אֱלֹהִים)    | Powerful Ones, Sky People | tbd                             |
 | Sky People                | People from the Sky       | Jean Sendy, Paul Anthony Wallis |
 | Theosites                 | Inhabitants from Theos    | Jean Sendy                      |
+
+## Our take
+
+The term Elohim is the plural form of Eloha, which means "Celestials" or "ones from the sky." It is the name given to the Biblical gods who are believed to be a highly advanced civilization capable of interstellar travel, terraforming planets, and synthesizing life. The Hebrew word Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The argument that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity is not so unsound anymore once one starts reading the Bible as _Schliemann read Homer_.
 
 ## See also
 

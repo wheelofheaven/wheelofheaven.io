@@ -202,7 +202,7 @@ The term Elohim is the plural form of Eloha, which means "Celestials" or "ones f
 [^1]: [Elohim | Wiktionary](https://en.wiktionary.org/wiki/Elohim)
 [^2]: [El (deity | Wikipedia)](https://en.wikipedia.org/wiki/El_(deity))
 [^3]: [ilum | Wiktionary](https://en.m.wiktionary.org/wiki/ilum#Akkadian)
-[^4]: [ilum | Wiktionary])(https://en.m.wiktionary.org/wiki/ilum#Akkadian)
+[^4]: [ilum | Wiktionary](https://en.m.wiktionary.org/wiki/ilum#Akkadian)
 [^5]: [Dingir | Wikipedia](https://en.wikipedia.org/wiki/Dingir)
 [^6]: [Dingir | Wiktionairy](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 [^7]: [Anunnaki | Sumerian](https://en.wikipedia.org/wiki/Anunnaki)

@@ -15,7 +15,45 @@ toc: true
 
 The Ancient Astronaut Hypothesis proposes that in ancient times, extraterrestrial beings visited Earth and interacted with humans. Proponents of the theory suggest that evidence of these interactions can be seen in ancient art, legends, and architecture, which they claim cannot be fully explained by conventional historical and scientific explanations. They also argue that certain technological and cultural advancements in human history, such as the building of the pyramids in Egypt or the creation of the Nazca lines in Peru, could not have been achieved without outside influence.
 
-Critics argue that there is no concrete evidence to support the hypothesis, and that proponents selectively interpret the available evidence to fit their theory. They also point out that many ancient structures can be explained through conventional means such as engineering and cultural developments. Additionally, many of the claims made by Ancient Astronaut theorists have been discredited by mainstream science, and the hypothesis is not widely accepted by the academic community.
+## List of proponents
+
+Here are some of the most well-known proponents of the ancient astronaut hypothesis:
+
+- **Matest M. Agrest (1915–2005)**: A Russian mathematician who made a number of assertions such as that the megalithic stone terracing at Baalbek had been used as a launch site for spaceships, and that the destruction of Biblical Sodom and Gomorrah were the result of a nuclear explosion detonated by extraterrestrial beings.
+
+- **Jacques Bergier (1912–1978)**: A French writer who co-authored "The Morning of the Magicians" (1960) with Louis Pauwels, which explored various occult and paranormal topics, including the idea that ancient civilizations had contact with extraterrestrial beings.
+
+- **Mauro Biglino (1950–)**: An Italian author and translator who has written extensively about ancient texts and proposes that they describe interactions with extraterrestrial beings, as outlined in his book "The Book That Will Forever Change Our Ideas About the Bible" (2011).
+
+- **Graham Cairns-Smith (1931–2016)**: A British chemist and author who proposed the idea that life on Earth may have been seeded by extraterrestrial beings, as outlined in his book "Genetic Takeover and the Mineral Origins of Life" (1982).
+
+- **Robert Charroux (1909–1978)**: A French author who wrote several books on alternative history and ancient mysteries, including "One Hundred Thousand Years of Man's Unknown History" and "The Mysterious Unknown."
+
+- **David Hatcher Childress (1957–)**: A French-born American author and publisher of books on ancient mysteries and alternative history, including "Technology of the Gods" and "Lost Cities and Ancient Mysteries of South America."
+
+- **Erich von Däniken (1935–)**: A Swiss author of "Chariots of the Gods?" (1968) and many other books promoting the idea that ancient monuments and artifacts were created by extraterrestrial visitors.
+
+- **Salvador Freixedo (1923–2019)**: A Spanish author and former Jesuit priest who has written extensively about ufology and the ancient astronaut hypothesis, including "Mission to the Stars" and "The Diabolical UFOs."
+
+- **Morris K. Jessup (1900–1959)**: One of the earliest proponents of the ancient astronaut hypothesis, who wrote "The Case for the UFO" (1955). In the book, he speculated that extraterrestrial beings had visited Earth in ancient times and had interactions with human civilizations.
+
+- **Desmond Leslie (1921–2001)**: An English author who wrote "Flying Saucers Have Landed" (1953) with George Adamski, which proposed that flying saucers were piloted by extraterrestrial beings who were interested in making contact with humans.
+
+- **Lloyd Pye (1946–2013)**: An American author and researcher who promoted the idea that humans are the result of genetic engineering by extraterrestrial beings, as outlined in his book "Everything You Know Is Wrong" (1997).
+
+- **Jean Sendy (1910–1978)**: A Russian French author who wrote several books on the ancient astronaut hypothesis, including "Those Gods Who Made Heaven & Earth" (1969) and "The Coming of the Gods" (1970).
+
+- **Zecharia Sitchin (1920–2010)**: An Azerbaijan-born Israeli author of "The Earth Chronicles" series, which proposes that ancient Sumerian texts describe interactions with extraterrestrial beings who created human civilization.
+
+- **Robert K. G. Temple (1945–)**: The author of "The Sirius Mystery" (1976), which proposes that the Dogon people of Mali had knowledge of a binary star system (Sirius) that was not discovered by modern astronomy until centuries later, and suggests that this knowledge was transmitted to them by extraterrestrial visitors.
+
+- **Giorgio A. Tsoukalos (1978–)**: A Swiss-born host of the television show "Ancient Aliens" and author of "The Ancient Alien Question: A New Inquiry into the Existence, Evidence, and Influence of Ancient Visitors."
+
+- **Jacques Vallée (1939–)**: A computer scientist and ufologist who has proposed the idea that some UFO sightings may be the result of interactions with non-human intelligence, including extraterrestrial beings or interdimensional entities.
+
+- **Claude Vorilhon (also known as Raël)**: A French former race car journalist who founded the Raëlian movement, which believes that life on Earth was created by extraterrestrial beings.
+
+- **Paul Wallis**: An Australian author who has written several books on the ancient astronaut hypothesis, including "The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?" and "Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?"
 
 ## In Raëlism 🔯
 

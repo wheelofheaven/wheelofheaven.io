@@ -37,7 +37,7 @@ Jean Sendy, a French author who wrote on the subject of ancient astronauts, tran
 
 In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the following about the plurality of the word Elohim:
 
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religtous beliefs of the Greeks and Trojans were to Schliemann.
+> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann.
 >
 > When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God", is a plural. If we read "Those who came from the sky", or "the Celestials", each time the plural Elohim occurs we find ourselves reading a narrative that needs no exeges, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
 >

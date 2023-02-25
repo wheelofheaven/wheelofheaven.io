@@ -25,6 +25,12 @@ Euhemerism has been influential in the study of religion, mythology, and the his
 
 Neo-Euhemerism is a modern take that builds on the concept of Euhemerism, which suggests that gods and other mythical beings were originally historical figures whose legends and stories became distorted over time. Neo-Euhemerism goes a step further by proposing that ancient gods were actually humanoid aliens. While the original Euhemeristic approach emphasized the historical basis of myth and saw the gods of mythology as originally historical figures who were later deified, neo-Euhemerism expands on this approach and views the deified people as extraterrestrial in origin and were deified because of their scientific and technological leap which looked magical and supernatural in the eyes of earlier human civilizations. It is an idea that suggests that myths and legends may have originated from encounters with extraterrestrial beings.
 
+## According to Mauro Biglino
+
+Mauro Biglino writes in his book _The Book That Will Forever Change Our Idea About The Bible_ this:
+
+> We have addressed the issue of the origin of religion as the possible result of historical events, real experiences, and concrete and tangible relationships with some “gods”. 
+
 ## In Raëlism 🔯
 
 The concept of Neo-Euhemerism can be seen as a core tenet of the philosophical implications of Raëlism, which posits that the Elohim mentioned in various religious texts, including the Bible, were actually extraterrestrial beings who visited Earth in the distant past and were mistaken for gods. Raëlism suggests that the true accounts of these extraterrestrial visitors were distorted over time, leading to the creation of various myths and religious stories that continue to be believed by many people today. In this way, Raëlism can be seen as a form of Neo-Euhemerism that uses modern scientific knowledge and advancements to reinterpret ancient religious stories and reveal what it believes to be the true origins of humanity and our relationship to the universe.

@@ -36,6 +36,18 @@ The Zohar is structured in the form of a running commentary on the Pentateuch, t
 
 In addition to the commentary on the Torah, the Zohar also contains homilies, parables, and allegories that elaborate on its central teachings. The text is divided into several sections, each of which focuses on a particular aspect of the divine realm, such as the sefirot (the ten attributes of God), the creation of the world, and the nature of the soul.
 
+## According to Jean Sendy
+
+In his book _The Coming of the Gods_, in a subchapter about "Rationalism and the Tradition", Jean Sendy writes the following about the origins and meaning of the Kabbalah:
+
+> Rationalily is what bill made it possible to send men to the moon, to prepare to send men to Mars, to consider dispersing the opaque clouds under which Venus is hidden, to send "the spirit of man" to "move upon the face of the waters" under which Venus is "without form, and void," and to prepare the methods and means that may some day bring it to pass that there will "be light" on Venus also.
+>
+> Are we on the verge of "renewing the acts related at the beginning of Genesis?' It would seem so, judging from what leading scientists and technicians believe and say. But scientists and technicians do not necessarily read the Bible or practice the Cabala, that "oral teaching" for which the Bible is the equivalent of a detailed outline intended to help students understand a college lecture course.
+>
+> "The message preserved by the Cabala concerns the correspondence between the two worlds, celestial and earthly, and their unification by man. [...] Man will renew the acts related at the beginning of Genesis," writes Alexandre Safran, Grand Rabbi of Geneva, in _La Kabale_ (Payot), where he also states that "the Cabala goes back to prehistoric times; Moses only introduced it into the history of Israel."
+>
+> Is it only a coincidence, this conjunction between science and the Cabala whose roots go back into the depths of time common to the myths  of all the Fint Civilizations? Is it more rational to see it is a fulfilment of the "prophecy" that the Cabala describes as having been brought "from the sky" by the "gods" Whose acts are related in the Bible, as was known by every man with a little education in Voltaire's time? 
+
 ## Alexandre Safran
 
 Jean Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named 'La Cabale' and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained.

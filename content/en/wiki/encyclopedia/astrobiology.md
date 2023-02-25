@@ -33,13 +33,19 @@ Findings that would be considered strong indications of extraterrestrial life wo
 - Evidence of metabolic activity or biogenic substances produced by living organisms.
 - The detection of radio or optical signals that are indicative of intelligence.
 
-## Carl Sagan
+## According to Carl Sagan
 
 Carl Sagan made the following statement in his book "Pale Blue Dot: A Vision of the Human Future in Space" published in 1994.
 
 > Since, in the long run, every planetary civilization will be endangered by impacts from space, every surviving civilization is obliged to become spacefaring–not because of exploratory or romantic zeal, but for the most practical reason imaginable: staying alive... If our long-term survival is at stake, we have a basic responsibility to our species to venture to other worlds.
 
 The quote implies that space exploration and colonization is necessary for the survival of humanity in the long run. Sagan argues that the threat of impacts from space is a natural and inevitable danger that every civilization must eventually face, and becoming a spacefaring civilization is the only way to protect ourselves from this threat and ensure the survival of our species.
+
+## According to Jean Sendy
+
+In his book _The Coming of the Gods_, Jean Sendy writes the following fundamental observation about astrobiology:
+
+> "Astrophysics" is a neologism that was coined until about 1920, because until then the means of "studying tile phenomena of outer space from the standpoint of physics" were too embryonic to constitute a discipline. The word "exobiology," which designates "the study of the phenomena of outer space from the standpoint of biology," is a more recent neologim that appears only in the Dewest dictionaries. The domain of exobiology. however, is still nearly empty: the first hypotheses are heing fomulated, but they rest on nothing concrete. As long as we know nothing about tile evolution of life in the fest of the Galaxy, our biologists will be limited to one particular case: earthly life and evolution.
 
 ## See also
 

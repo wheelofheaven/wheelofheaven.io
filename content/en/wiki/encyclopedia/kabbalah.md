@@ -46,13 +46,19 @@ In his book _The Coming of the Gods_, in a subchapter about "Rationalism and the
 >
 > "The message preserved by the Cabala concerns the correspondence between the two worlds, celestial and earthly, and their unification by man. [...] Man will renew the acts related at the beginning of Genesis," writes Alexandre Safran, Grand Rabbi of Geneva, in _La Kabale_ (Payot), where he also states that "the Cabala goes back to prehistoric times; Moses only introduced it into the history of Israel."
 >
-> Is it only a coincidence, this conjunction between science and the Cabala whose roots go back into the depths of time common to the myths  of all the Fint Civilizations? Is it more rational to see it is a fulfilment of the "prophecy" that the Cabala describes as having been brought "from the sky" by the "gods" Whose acts are related in the Bible, as was known by every man with a little education in Voltaire's time?
+> Is it only a coincidence, this conjunction between science and the Cabala whose roots go back into the depths of time common to the myths  of all the First Civilizations? Is it more rational to see it is a fulfilment of the "prophecy" that the Cabala describes as having been brought "from the sky" by the "gods" Whose acts are related in the Bible, as was known by every man with a little education in Voltaire's time?
+>
+> Some of our most renowned scientists are already seeking beyond the solar system for concrete evidence of other civilizations, whose existence seems to them probable enough to justify their efforts. [...]
 
-## Alexandre Safran
+Here, Sendy first argues that rationality and science have allowed humans to explore and study the cosmos, and that some scientists and technicians are beginning to believe in the possibility of life on other planets. Sendy then goes on and speculates by quoting the Grand Rabbi of Geneva Alexandre Safran that the connection between science and the Kabbalah may not be a coincidence, and that the Kabbalah's description of "gods" bringing their knowledge from the sky and renewing the acts related to the beginning of Genesis may actually be a prophecy that science is fulfilling.
 
-Jean Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named 'La Cabale' and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained.
+## According to Alexandre Safran
 
-Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
+As stated before Jean Sendy likes to refers several times throughout his work to Alexandre Safran to highlight the circumstance that a leading figure in the Jewish community was identifying the Kabbalistic tradition that preserved Elohimian wisdom over the ages that goes back further than Moses and his Jewish religion itself.
+
+Alexandre Safran (1915-2006) was a Romanian-Swiss rabbi and scholar who served as the Chief Rabbi of Geneva and the Chairman of the Executive of the World Jewish Congress. He was a prominent figure in the Jewish community and worked to promote interfaith dialogue and understanding between different religious groups. Safran was particularly interested in the Kabbalah and its role in Jewish mysticism, and he wrote several books on the subject, including "The Mysteries of the Kabbalah" and "Kabbalah and the Spiritual Quest".
+
+Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named 'La Cabale' and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained. Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
 
 > « Le message préservé par la Kabale porte sur la correspondance des deux mondes, céleste et terrestre, sur leur unification par l’homme. [...] L’homme renouvellera les actes relatés au début de la Genèse », écrit Alexandre Safran, grand-rabbin de Genève, dans la Kabale (Payot), où il précise aussi que « la Kabale remonte aux temps préhistoriques ; Moïse ne fait que l’introduire dans l’Histoire d’Israël ».
 

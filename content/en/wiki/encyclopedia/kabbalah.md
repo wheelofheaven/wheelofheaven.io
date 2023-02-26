@@ -46,7 +46,7 @@ In his book _The Coming of the Gods_, in a subchapter about "Rationalism and the
 >
 > "The message preserved by the Cabala concerns the correspondence between the two worlds, celestial and earthly, and their unification by man. [...] Man will renew the acts related at the beginning of Genesis," writes Alexandre Safran, Grand Rabbi of Geneva, in _La Kabale_ (Payot), where he also states that "the Cabala goes back to prehistoric times; Moses only introduced it into the history of Israel."
 >
-> Is it only a coincidence, this conjunction between science and the Cabala whose roots go back into the depths of time common to the myths  of all the Fint Civilizations? Is it more rational to see it is a fulfilment of the "prophecy" that the Cabala describes as having been brought "from the sky" by the "gods" Whose acts are related in the Bible, as was known by every man with a little education in Voltaire's time? 
+> Is it only a coincidence, this conjunction between science and the Cabala whose roots go back into the depths of time common to the myths  of all the Fint Civilizations? Is it more rational to see it is a fulfilment of the "prophecy" that the Cabala describes as having been brought "from the sky" by the "gods" Whose acts are related in the Bible, as was known by every man with a little education in Voltaire's time?
 
 ## Alexandre Safran
 

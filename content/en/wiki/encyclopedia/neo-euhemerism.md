@@ -29,7 +29,7 @@ Neo-Euhemerism is a modern take that builds on the concept of Euhemerism, which 
 
 Mauro Biglino writes in his book _The Book That Will Forever Change Our Idea About The Bible_ this:
 
-> We have addressed the issue of the origin of religion as the possible result of historical events, real experiences, and concrete and tangible relationships with some “gods”. 
+> We have addressed the issue of the origin of religion as the possible result of historical events, real experiences, and concrete and tangible relationships with some “gods”.
 
 ## In Raëlism 🔯
 

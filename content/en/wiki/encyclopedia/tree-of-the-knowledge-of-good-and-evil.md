@@ -25,6 +25,16 @@ In the Genesis 2-3, the Tree of Knowledge of Good and Evil is one of two types o
 
 > Genesis 2, 9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
 
+## Etymology
+
+The English word "tree" ultimately comes from the Proto-Indo-European root *drew-, which means "wood" or "tree." This root gave rise to many words across the Indo-European languages, including the Greek word "dendron" (meaning "tree") and the Latin word "drus" (meaning "oak").
+
+In the context of the Bible, the phrase "tree of knowledge" is often interpreted as a metaphor for a source of knowledge or wisdom, similar to a book or records of knowledge. This interpretation is supported by the fact that the Hebrew word for "knowledge" in this phrase is "da'at," which can also be translated as "wisdom" or "understanding."
+
+Interestingly, the Hebrew word for "book" is "sefer," which comes from the same root as the word "sippur," meaning "story" or "tale." Both "sefer" and "sippur" ultimately come from the Proto-Semitic root *spr, which means "to write" or "to inscribe."
+
+So while the words for "tree" and "book" have different roots, the metaphorical interpretation of the "tree of knowledge" as a source of knowledge or wisdom is similar to the way we might think of a book or records of knowledge. Additionally, the fact that the Hebrew word for "knowledge" and the root of the word for "book" share a common ancestor suggests a deeper linguistic connection between these concepts.
+
 ## In Raëlism 🔯
 
 According to the first book _The Book Which Tells The Truth_, 2nd chapter, Genesis, Yahweh quotes the Bible passage and explains that the Tree of Knowledge of Good and Evil refers to books containing 'great scientific secrets':

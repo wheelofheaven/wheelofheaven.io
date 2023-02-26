@@ -23,6 +23,18 @@ In some traditions, the Tree of Life is also associated with the idea of a unive
 
 The Tree of Life continues to hold great symbolic significance, and is often referenced and depicted in literature, art, and other forms of popular culture. Its image is used to evoke feelings of life, growth, and the interconnectedness of all things, and it continues to be an important part of spiritual and cultural traditions around the world.
 
+## Etymology
+
+The English word "tree" ultimately comes from the Proto-Indo-European root *drew-, which means "wood" or "tree." This root gave rise to many words across the Indo-European languages, including the Greek word "dendron" (meaning "tree") and the Latin word "drus" (meaning "oak").
+
+In the context of the Bible, the phrase "tree of life" is often interpreted as a metaphor for eternal life or a divine source of life. However, it's also possible to interpret the "tree of life" as a metaphor for a source of knowledge or wisdom, similar to a book or records of knowledge.
+
+Interestingly, the Hebrew word for "book" is "sefer," which comes from the same root as the word "sippur," meaning "story" or "tale." Both "sefer" and "sippur" ultimately come from the Proto-Semitic root *spr, which means "to write" or "to inscribe."
+
+In the Bible, the idea of wisdom and knowledge being written down is also present. For example, the book of Proverbs is a collection of wise sayings attributed to King Solomon, and the book of Deuteronomy contains a written record of the laws and commandments given to the Israelites by God.
+
+So while the words for "tree" and "book" have different roots, the metaphorical interpretation of the "tree of life" as a source of eternal life or divine knowledge is similar to the way we might think of a book or records of knowledge. Additionally, the fact that the Hebrew word for "book" and the root of the word for "writing" share a common ancestor suggests a deeper linguistic connection between these concepts.
+
 ## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the Tree of Life:

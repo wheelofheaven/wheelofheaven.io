@@ -123,7 +123,7 @@ Freiwirtschaft, as imagined by Silvio Gesell, is a school of thought that advoca
 
 While there are some similarities between left-libertarianism, Georgism, and Freiwirtschaft, each of these philosophies has its own distinct ideas and priorities. However, they all share a commitment to promoting equality and reducing poverty, and they all see the state as having a role to play in achieving these goals.
 
-## Humanitarianism as a special special case of Steiner-Vallentyne
+## Humanitarianism as a special case of Steiner-Vallentyne
 
 The two passages quoted from the _Book Which Tells The Truth_, Sixth Chapter The New Commandments, which describe a system of economics and property ownership that is based on the idea of renting rather than owning, are related to the ideas proposed by the Steiner-Vallentyne school of thought in several ways.
 

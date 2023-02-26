@@ -58,9 +58,25 @@ As stated before Jean Sendy likes to refers several times throughout his work to
 
 Alexandre Safran (1915-2006) was a Romanian-Swiss rabbi and scholar who served as the Chief Rabbi of Geneva and the Chairman of the Executive of the World Jewish Congress. He was a prominent figure in the Jewish community and worked to promote interfaith dialogue and understanding between different religious groups. Safran was particularly interested in the Kabbalah and its role in Jewish mysticism, and he wrote several books on the subject, including "The Mysteries of the Kabbalah" and "Kabbalah and the Spiritual Quest".
 
-Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named 'La Cabale' and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained. Jean Sendy writes the following about Alexandre Safran and his book La Cabale:
+Sendy often refers to Alexandre Safran, the Grand Rabbi of Geneva, who himself authored a treatise named _"La Cabale"_ and got published in 1960. Therein, the very nature of the Kabbalah as a tradition is explained. A famous quote from Alexandre Safran that is found throughout Sendy's work refers to an important passage in _"La Cabale"_ where Kabbalah is thought to preserve the notion that _man will renew the acts recounted at the beginning of Genesis_:
 
-> « Le message préservé par la Kabale porte sur la correspondance des deux mondes, céleste et terrestre, sur leur unification par l’homme. [...] L’homme renouvellera les actes relatés au début de la Genèse », écrit Alexandre Safran, grand-rabbin de Genève, dans la Kabale (Payot), où il précise aussi que « la Kabale remonte aux temps préhistoriques ; Moïse ne fait que l’introduire dans l’Histoire d’Israël ».
+> The Kabbalah creates values inspired by the Bible because it contains vital biblical forces upon which its existence and flourishing depend. It calls these forces to the surface, where they appear in their biblical originality despite the "clothes" they assume to act better in a given historical environment. The message offered by the Kabbalah concerns the correspondence of the two worlds, celestial and earthly, and their unification by man: they will be merged and form a unique world. This message is delivered in the "history of the heavens and the earth" and in the "history of man," who "struggles" against the "forces of below" and the "forces of above" to make the ideal that was instilled in him triumph: Israel.
+>
+> Thanks to the victory of man, the descriptive natural history, the result of the original sin, will give way to a creative and transformative history of nature. The latter will then be put at the service of ethics and "generate" the good deeds of the renewed man, aided in his task by all creatures. "Ze sefer toldòth adàm," "this is the story of man's genealogy." In its messianic edition, this account will be identified with the toldòth ha-shamàim ve-ha-arez, the "genealogy of heaven and earth," for they too, like man, will have their toldòtb, their "genealogy," their history in accordance with the Creator's will. Such was the plan established "when the Eternal God made the heavens and the earth," but also "on the day He created man" (Gen).
+>
+> In the messianic edition of these toldòth, "the wolf and the lamb" will be seen dwelling together in a creative peace in which material strength is put at the service of moral good. Man will renew the acts recounted at the beginning of Genesis.
+
+Also, the following passage from the same book contextualizes the Kabbalah even further as a _chain of Tradition_:
+
+> At the root of the Kabbalah, there is a first Revelation. But this Revelation must be renewed for every generation, for every man, who leads it to acts whose scope is very great, reaches cosmic dimensions, and even engages divinity. They determine God's relationship with the world and with man.
+>
+> The Mishnah provides the historical outline of the Kabbalah in this way: "Moses received (kibbev: from this term derives Kabbalah) the Torah, the Teaching, the Law) on Mount Sinai; he transmitted it (Hu-mesara) to Joshua; he passed it on to the Elders; they communicated it to the prophets, and the latter transmitted it to the members of the Great Congregation."
+>
+> The Kabbalah exceeds, in antiquity, the Revelation of Sinai; it dates back to prehistoric times. Moses only introduced it into the history of Israel.
+>
+> The Kabbalah therefore goes beyond the boundaries of a religious mystique; it is infinitely more extensive than an esoteric tradition. The Torah is not its precise and extensive object. The latter was, from the beginning, applied by those who had discovered it thanks to their religious intuition and only later received its written form, the Mosaic Law. Israel has become its bearer. The designation commonly attributed to Kabbalah is shalshelet ha-Kabbalah or "chain of Tradition."
+
+The Kabbalah can therefore be understood as a chain of tradition that extends beyond the boundaries of a religious mystique and dates back to prehistoric times, which has been transmitted to different generations and engages divinity to determine God's relationship with the world and with man.
 
 ## In Raëlism 🔯
 

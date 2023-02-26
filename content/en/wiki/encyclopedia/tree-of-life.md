@@ -35,6 +35,20 @@ In the Bible, the idea of wisdom and knowledge being written down is also presen
 
 So while the words for "tree" and "book" have different roots, the metaphorical interpretation of the "tree of life" as a source of eternal life or divine knowledge is similar to the way we might think of a book or records of knowledge. Additionally, the fact that the Hebrew word for "book" and the root of the word for "writing" share a common ancestor suggests a deeper linguistic connection between these concepts.
 
+The Sumerian writing system included a type of character known as a "sumerogram," which represented a word or concept rather than a specific sound. One such sumerogram was 𒊬 (kiri), which meant "orchard" in Sumerian. This symbol was later adopted into the Akkadian language, where it was pronounced as "šiṭrum" and could also refer to a "place where writings are stored."
+
+The idea of a book being derived from a tree is not unique to East Asian languages. In English, for example, we still use the word "leaf" to refer to the pages of a book, and the term "codex" (meaning a bound book) is derived from the Latin word for a wooden block or tablet.
+
+The English word "book" can be traced back to the Proto-Germanic word *bokiz, which meant "beech tree." This is because the early Germanic peoples used the soft bark of the beech tree to write on. Over time, the meaning of the word *bokiz shifted from "beech tree" to "book," likely because beech bark was a common material used for writing and inscribing information.
+
+Similarly, the German word "Buch" can be traced back to the Old High German word "buoh" or "buoch," which also meant "beech tree." Just like in English, the bark of the beech tree was used for writing on in Old High German. Over time, the meaning of the word "buoh" shifted from "beech tree" to "book."
+
+The link between the beech tree and the concept of a book may seem unusual at first, but it makes sense when you consider the historical context. In the days before paper was widely available, people used a variety of materials for writing, including parchment, papyrus, and even tree bark. The soft bark of the beech tree was an especially good material for writing, as it was thin, flexible, and durable.
+
+The metaphors of the Tree of Life and the Tree of the Knowledge of Good and Evil in the Bible can be interpreted as representing a record of knowledge or wisdom kept alive through a tree that is analogous to a book or writing onto wood/paper.
+
+The metaphorical interpretation of these trees as sources of knowledge or wisdom is supported by the fact that the Hebrew word for "knowledge" in the phrase "Tree of the Knowledge of Good and Evil" is "da'at," which can also be translated as "wisdom" or "understanding." Additionally, the idea of wisdom and knowledge being recorded and preserved in written form is present in many cultures, including the use of tree bark for writing material in ancient times.
+
 ## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter Truth, The Flood, Yahweh says the following about the Tree of Life:

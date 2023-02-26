@@ -39,7 +39,7 @@ The Sumerian writing system included a type of character known as a “sumerogra
 
 The idea of a book being derived from a tree is not unique to East Asian languages. In English, for example, we still use the word “leaf” to refer to the pages of a book, and the term “codex” (meaning a bound book) is derived from the Latin word for a wooden block or tablet.
 
-The English word “book” can be traced back to the Proto-Germanic word *bokiz, which meant “beech tree.” This is because the early Germanic peoples used the soft bark of the beech tree to write on. Over time, the meaning of the word *bokiz shifted from “beech tree” to “book,” likely because beech bark was a common material used for writing and inscribing information.
+The English word “book” can be traced back to the Proto-Germanic word bokiz, which meant “beech tree.” This is because the early Germanic peoples used the soft bark of the beech tree to write on. Over time, the meaning of the word *bokiz shifted from “beech tree” to “book,” likely because beech bark was a common material used for writing and inscribing information.
 
 Similarly, the German word “Buch” can be traced back to the Old High German word “buoh” or “buoch,” which also meant “beech tree.” Just like in English, the bark of the beech tree was used for writing on in Old High German. Over time, the meaning of the word “buoh” shifted from “beech tree” to “book.”
 

@@ -54,7 +54,7 @@ Here, Sendy first argues that rationality and science have allowed humans to exp
 
 ## According to Alexandre Safran
 
-As stated before Jean Sendy likes to refers several times throughout his work to Alexandre Safran to highlight the circumstance that a leading figure in the Jewish community was identifying the Kabbalistic tradition that preserved Elohimian wisdom over the ages that goes back further than Moses and his Jewish religion itself.
+As stated before Jean Sendy refers several times throughout his work to Alexandre Safran. In doing so he highlights the circumstance that a leading figure in the Jewish community such as Alexandre Safran was identifying the Kabbalistic tradition that preserved Elohimian wisdom over the ages that goes back further than Moses and his Jewish religion itself.
 
 Alexandre Safran (1915-2006) was a Romanian-Swiss rabbi and scholar who served as the Chief Rabbi of Geneva and the Chairman of the Executive of the World Jewish Congress. He was a prominent figure in the Jewish community and worked to promote interfaith dialogue and understanding between different religious groups. Safran was particularly interested in the Kabbalah and its role in Jewish mysticism, and he wrote several books on the subject, including "The Mysteries of the Kabbalah" and "Kabbalah and the Spiritual Quest".
 

@@ -43,6 +43,7 @@ This passage is from the book of Genesis in the Bible and describes the story of
 
 ## See also
 
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
 
 ## External links

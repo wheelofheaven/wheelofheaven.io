@@ -26,6 +26,7 @@ Such a claim would challenges traditional views of the origins of life on Earth,
 ## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 - [Wiki › The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})

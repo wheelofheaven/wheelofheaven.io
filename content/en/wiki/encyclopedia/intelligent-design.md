@@ -57,8 +57,8 @@ Overall, Raëlians view intelligent design as a central tenet of their belief sy
 
 ## See also
 
+[Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
 [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
-[Wiki › The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})</br>
 
 ## Read more
 

@@ -81,6 +81,12 @@ Due to precession, the position of the celestial equator and the ecliptic plane,
 
 The equinoxes were used by ancient astronomers and astrologers to determine the position of the zodiac and the constellations along the ecliptic. The equinoxes were considered important because they represented the start of spring and autumn and marked the beginning of new seasons.
 
+## According to Mauro Biglino
+
+Mauro Biglino writes in his book _The Book That Will Forever Change Our Idea About The Bible_ the following about the precession:
+
+> This expression indicates the celestial phenomenon caused by the oscillation or wobble of the Earth axis making a circular motion similar to that of a slowly-spinning top. This oscillation results in an apparent demotion of the constellations in the celestial sphere. It happens because the imaginary line joining the ecliptic of spring and autumn equinoxes moves one degree approximately every 71 years. Each of the twelve signs of the zodiac that form the entire 360° sky arc, covered a period of 2,160 years, corresponding to what astrology labeled as “Ages”: Age of Aries, Age of Taurus, and so on. The complete cycle of 360° thus requires a little less than 26,000 years (2160 x 12). Hence, it would have been impossible to observe and calculate. Regardless, this long period, called the “Great Year”, was known by many civilizations in various parts of the world such as the Indus Valley, Egypt, Central America; and still today scholars wonder how a nomadic people of herders and farmers were able to calculate its duration! Might it have been of any use to ANUNNAKI “gods” to calculate the orbital timing of their home planet, and to plan their space travels that were inevitably very long? Perhaps, the answer to many mysteries resides in accepting this possibility... 
+
 ## See also
 
 - [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})

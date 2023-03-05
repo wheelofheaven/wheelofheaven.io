@@ -29,9 +29,11 @@ Have you watched the classic film series Jurassic Park by Steven Spielberg? We w
 
 However, things go wrong when the dinosaurs break free and create chaos, but the main characters manage to survive against all odds and are rescued by an extraction team at the end of the movie, a pattern that continues in the series. The film series is known for its skeptical view of scientific progress and human hubris, inspired by Michael Crichton's 1990 novel of the same name.
 
-Here's the connection: What happened at the start of the Age of Capricorn could have been taken straight from the pages of Jurassic Park.
+Here's the connection: According to the Wheel of Heaven hypothesis, based on the revelations made by Yahweh to Raël, what happened at the start of the Age of Capricorn could have been taken straight from the pages of Jurassic Park: In this scenario, a group of visionary scientists create a new and potentially dangerous species through genetic engineering, which ultimately leads to a catastrophic outcome and endangers their research.
 
 ## Once upon a time
+
+Obviously, Jurassic Parc is fictional and no research institution has been in the news for having synthetized an extinct or even a new species of life lately. The events that we're about to discuss are to be situated in a totally different day and age. According to Yahweh, while transmitting his recollections on how things got rolling in the very beginning:
 
 > Some 22,000 years ago, your creators decided to start their work on Earth, and everything that has happened since was anticipated because the movement of the galaxy implies this knowledge.
 
@@ -45,7 +47,7 @@ Yahweh goes on and says:
 >
 > Since at that time, interplanetary and intergalactic explorations had also made progress, the scientists decided to set out for a distant planet where they could find most of the necessary conditions to pursue their experiments.
 
-In the 4rd movie installment of the Jurassic Park's franchise, _Jurassic World_ (2015), the lead female protagonist Claire Dearing mentions that another business venue supposedly as profitable as the dinosaur based theme parks is the space program. While the movie is purely fictional, this is an interesting detail. The story writers seem to agree that within the imaginary setting depicting a similary advanced society to ours it can be concluded congruent enough to assume that the development of genetic engineering can coincide with the development of space travel. One may be inclined to interject that the two premises are evidently square and must happen at the same time. Fair enough, but let us remind you that this sort of reasoning falls under the category of bias that come from historical myopia, or the tendency to forget how things used to be only a few decades ago.
+In the fourth installment of the Jurassic Park franchise, Jurassic World (2015), the female lead character Claire Dearing mentions the possibility of the space program being as profitable as dinosaur-based theme parks. Although the movie is fictional, this detail is intriguing. The writers suggest that in a society as advanced as the one depicted in the film, genetic engineering and space travel could potentially develop concurrently. While one might assume that these two concepts naturally coincide, it's important to remember that such thinking can be biased by historical myopia. This refers to the tendency to forget how things used to be just a few decades ago.
 
 Right after the aforementioned passage, Yahweh goes on and adds:
 

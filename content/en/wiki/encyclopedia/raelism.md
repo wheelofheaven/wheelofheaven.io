@@ -21,6 +21,17 @@ The Raëlian movement emphasizes individual freedom and tolerance, and seeks to 
 
 While Raëlism has gained a significant following in some countries, it is considered a controversial and non-mainstream movement by many. Critics argue that the beliefs and claims of Raëlism are unsupported by scientific evidence, and that it represents a form of new age spirituality or pseudoscience.
 
+## Etymology
+
+As stated in his book _The Book Which Tells The Truth_, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+
+> You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
+
+In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
+
+[^1]: [Egyptian for Sun, rꜥ | Wiktionairy](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: [Sumerogram of ilum, the Sky, the Heavens, Star, 𒀭 | Wiktionairy](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+
 ## See also
 
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})

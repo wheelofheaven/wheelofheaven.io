@@ -31,6 +31,10 @@ However, things go wrong when the dinosaurs break free and create chaos, but the
 
 Here's the connection: What happened at the start of the Age of Capricorn could have been taken straight from the pages of Jurassic Park.
 
+## Once upon a time
+
+> Some 22,000 years ago, your creators decided to start their work on Earth, and everything that has happened since was anticipated because the movement of the galaxy implies this knowledge.
+
 ## On a distant planet
 
 Yahweh goes on and says:

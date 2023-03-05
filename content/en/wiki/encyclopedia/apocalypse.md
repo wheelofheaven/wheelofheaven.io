@@ -19,7 +19,7 @@ The exact nature and timing of the events described in the Apocalypse are a matt
 
 ## In Raëlism 🔯
 
-According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter The Keys, the Apocalypse as the Age of Revelation is mentioned in the context of being one of the keys to unlock our potential:
+According to the second book [Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}}), Chapter The Keys, the Apocalypse as the Age of Revelation is mentioned in the context of being one of the keys to unlock our potential:
 
 > Do not forget that the Apocalypse —literally the "age of revelation"— has arrived as was predicted. It has been said that when the time comes, there will be many false prophets. You only have to look around you to see that the time has indeed come. False prophets are writers of horoscopes of which the newspapers are full, and there are also many others who reject the benefits of science and cling to every last letter of ancient writings that were the messages given by the Elohim to the primitive people of ancient times.
 >

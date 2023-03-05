@@ -23,7 +23,7 @@ The exact meaning of YHWH is not clear, but it is thought to derive from the Heb
 
 Yahweh is the president of the Council of the Eternals governing the Elohim’s planet.
 
-According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter Meeting the Ancient Prophets, Yahweh explains that the Council of the Eternals live in a planet dedicated for that purpose:
+According to the second book [Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}}), Chapter Meeting the Ancient Prophets, Yahweh explains that the Council of the Eternals live in a planet dedicated for that purpose:
 
 > In my first message I told you of a residence located on our planet where people from Earth can continue to live thanks to the scientific secret of eternity that is based on a single cell.
 >
@@ -37,7 +37,7 @@ The passage states that there is a residence on another planet where people from
 
 ### Yahweh, the Eternal
 
-In the first book _The Book Which Tells The Truth_, Raël gets to ask Yahweh a few questions about him and the Elohim in general:
+In the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Raël gets to ask Yahweh a few questions about him and the Elohim in general:
 
 > 'How old are the oldest ones?'
 >

@@ -31,7 +31,7 @@ A techno-utopia is a hypothetical society in which technology has been used to c
 
 ## In Raëlism 🔯
 
-According to the second book _Extraterrestrials Took Me To Their Planet_, Chapter Meeting the Ancient Prophets, Yahweh says the following about the potential of establishing an Earthly paradise in the image of the Elohim's home planet:
+According to the second book [Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}}), Chapter Meeting the Ancient Prophets, Yahweh says the following about the potential of establishing an Earthly paradise in the image of the Elohim's home planet:
 
 > You could very soon live in a genuine terrestrial paradise if only the technology that you have at your disposal today were made to serve human well-being, instead of serving violence, armies, or the personal profit of a few.
 >

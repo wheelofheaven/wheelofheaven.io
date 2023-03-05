@@ -142,7 +142,7 @@ Basically, Wallis re-interprets the Biblical scriptures with a plural Elohim, wh
 
 ## In Raëlism 🔯
 
-In the first book _The Book Which Tells The Truth_, Yahweh says the following about the very meaning of Elohim, the alleged name of God in the Biblical scriptures:
+In the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Yahweh says the following about the very meaning of Elohim, the alleged name of God in the Biblical scriptures:
 
 > I am sure you can appreciate that, thanks to the law, which said that the Bible had always to be re-copied without changing even the smallest detail, the deepest meaning has remained intact throughout the ages, even if the text has been larded with mystical and futile sentences. So let us start with the first chapter of the Book of Genesis:
 >

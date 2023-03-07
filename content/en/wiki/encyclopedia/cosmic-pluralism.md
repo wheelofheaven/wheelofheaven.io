@@ -49,9 +49,15 @@ Despite the tragic end to his life, Bruno's ideas had a profound impact on the s
 
 According to Raëlian teachings, the Elohim are believed to have created life on other planets as well, and may have communicated with humans throughout history, including in religious texts such as the Bible. Raëlism therefore places a strong emphasis on the idea of cosmic pluralism, and believes that humans should be open to the possibility of communicating with extraterrestrial life forms.
 
-Furthermore, Raëlism sees the creation of life on other planets as part of a larger cosmic plan that aims to bring humanity to a higher level of consciousness and enlightenment. The movement believes that humans have the potential to evolve into a new species with a greater capacity for love, wisdom, and harmony. This transformation is seen as part of a larger cosmic plan that is guided by the Elohim, who are believed to be working towards the betterment of humanity and all life in the universe.
+Furthermore, Raëlism sees the creation of life on other planets as part of a larger cosmic plan that aims to bring humanity to a higher level of consciousness and enlightenment. The movement believes that humans have the potential to evolve into a new species with a greater capacity for love, wisdom, and harmony. This transformation is seen as part of a larger cosmic plan that in the context of the chain of humanaity is guided by the Elohim, who are believed to be working towards the betterment of humanity and therefore preserve the chain of life of the human species.
 
-In summary, Raëlism incorporates the idea of cosmic pluralism into its religious beliefs, viewing the existence of intelligent life on other planets as part of a larger cosmic plan guided by the Elohim. This belief is central to the movement's teachings and emphasizes the importance of being open to the possibility of communicating with extraterrestrial life forms.
+As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Yehowah tells us that life propagates throughout the universe by civilization advanced enough to engineer and create new life on other planets:
+
+> Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities:
+>
+>> That which hath been is now; and that which is to be hath already been. Ecclesiastes 3: 15.
+
+In summary, Raëlism incorporates the idea of cosmic pluralism into its religious beliefs, viewing the existence of intelligent life on other planets as the very reality. This belief is central to the movement's teachings and emphasizes the importance of being open to the possibility of communicating with extraterrestrial life forms.
 
 ## See also
 

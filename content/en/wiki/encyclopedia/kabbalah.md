@@ -86,6 +86,25 @@ According to the _Book Which Tells The Truth_, Fifth Chapter "The End of the Wor
 >
 > If one day you can find a copy, then you will be able to see that there are a great number of allusions to us. [...]
 
+There's another passage that worthwhile to point out. It can be considered to resonate with what Jean Sendy has been suggesting through the interpretation and exegesis by the Grand Rabbi of Geneva Alexandre Safran of the essence of Kabbalah, namely that that the Kabbalah is ultimately about preserving the notion that _man will renew the acts recounted at the beginning of Genesis_:
+
+> For a long time, humanity has held the truth in its hands but could not understand until it was sufficiently evolved scientifically to
+decode it.
+>
+>> Every man is brutish in his knowledge<sup>15</sup>... Jeremiah 10: 14.
+>
+> Science enabled the creators to create and will enable human beings to do the same.
+>
+>> Yahweh possessed me in the beginning of his way, before his works of old. I was set up from everlasting, from the beginning, or ever the earth was... When he prepared the heavens, I was there... When he gave to the sea his decree, that the waters should not pass his commandment... Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him; Rejoicing in the habitable part of his earth; and my delights were with the sons of men. Proverbs 8: 22-23, 27, 29 -31.
+>
+>> Intelligence and science, these are the two virtues that enabled the creators to create the landmass - the single continent - and the living beings they placed upon it. And now this intelligence and this spirit leads the human brain to repeat the acts of their creators. Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities:
+>
+>> That which hath been is now; and that which is to be hath already been. Ecclesiastes 3: 15.
+>
+> The animals were also created and will be recreated. Just like human beings, no more, no less. The species that disappear will live again when you know how to recreate them:
+>
+>> So that a man hath no preeminence above a beast: for all is vanity. Ecelesiastes 3: 19.
+
 ## See more
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

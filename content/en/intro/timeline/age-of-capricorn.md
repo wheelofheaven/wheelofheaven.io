@@ -37,6 +37,8 @@ Obviously, Jurassic Parc is fictional and no research institution has been in th
 
 > Some 22,000 years ago, your creators decided to start their work on Earth, and everything that has happened since was anticipated because the movement of the galaxy implies this knowledge.
 
+This puts us right at the Age of Capricorn. If we consider this to be the moment that the Elohim started their work on Earth, it is only reasonable to cnsider the Age of Capricorn to be very first month of our Great Year. It is an interesting coincidence to ponder about the circumstance that in the Western world at least, New Year happens to fall during the astrological sign which lasts from December 22 to January 19. Therefore, let's settle for Capricorn to be the precessional January of this great cycle and the beginning of the journey of the Elohim throughout space.
+
 ## On a distant planet
 
 Yahweh goes on and says:

@@ -97,7 +97,7 @@ decode it.
 >
 >> Yahweh possessed me in the beginning of his way, before his works of old. I was set up from everlasting, from the beginning, or ever the earth was... When he prepared the heavens, I was there... When he gave to the sea his decree, that the waters should not pass his commandment... Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him; Rejoicing in the habitable part of his earth; and my delights were with the sons of men. Proverbs 8: 22-23, 27, 29 -31.
 >
->> Intelligence and science, these are the two virtues that enabled the creators to create the landmass - the single continent - and the living beings they placed upon it. And now this intelligence and this spirit leads the human brain to repeat the acts of their creators. Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities:
+> Intelligence and science, these are the two virtues that enabled the creators to create the landmass - the single continent - and the living beings they placed upon it. And now this intelligence and this spirit leads the human brain to repeat the acts of their creators. Since the beginning of time it has been so: people create other people like themselves on other planets. The cycle continues. Some die, others take over. We are your creators, and you will create other humanities:
 >
 >> That which hath been is now; and that which is to be hath already been. Ecclesiastes 3: 15.
 >

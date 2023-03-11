@@ -114,6 +114,8 @@ At the end of the first book out of the three foundational works of Raëlism, Th
 
 There we have it.
 
-## Next chapter
+## A quick recap
+
+The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and lasted as each World Age 2'160 years. During this period, the Elohim, an extraterrestrial civilization, arrived on Earth. Motivated by a tragic incident involving the escape of one of their genetic experiments, which resulted in the loss of Elohimian lifes and the cessation of that branch of research on their home planet, the Elohim sought new interstellar frontiers. Pursuing interplanetary and interstellar exploration, the researchers eventually chose Earth, an exoplanet, as their frontier for genetic research.
 
 After the Age of Capricorn (from –21'810 to –19'650) comes the Age of Sagittarius (from –19'650 to –17'490).

@@ -21,7 +21,7 @@ Just as the orbital year, defined by the Earth's revolution around the Sun, is d
 
 To put it simply, the 25,920-year cycle is divided into 12 segments, each with a corresponding star constellation on the vernal Equinox. This makes the zodiacal houses an appropriate way to date events that span thousands of years, as they are astronomically defined and universally understandable.
 
-While the choice of starting the Timeline with the Age of Capricorn may seem arbitrary, it will become clearer as we explore the reasons behind this decision in a visual tutorial. For now, keep in mind that this choice is just a starting point in the greater understanding of the narrative.
+While the choice of starting the Timeline with the Age of Capricorn may seem arbitrary, the reasons behind this decision will become clearer the further we explore the setting and develop the narrative. For now, keep in mind that this choice sets the starting point of an epic that is evolving ever since, reaching up to this present day.
 
 ## Once upon a time in Capricorn
 
@@ -86,7 +86,7 @@ Right after the aforementioned passage, Yahweh goes on and adds what ties us to 
 
 > They chose Earth where you live.
 
-Earth, a barren but material planet devoid of life proved to be the frontier they were looking for. Who is _they_ though? The Raëlian canon does offer partial answers to this question. At this stage of the narration however, some speculations from our part on the nature of that explorative mission gives us a better understanding of the conditions in which these events evolved in.
+Earth, a barren but material planet devoid of life proved to be the frontier they were looking for. Who is _they_ though? _They_ refers to brave ones among the Elohimian civilization that were willing to travel long distances in the vicinity of their home planet and push the boundaries of what was previously considered the realm of the unchartered and the unknown. But who in particular could these brave ones have been? The Raëlian canon does offer partial answers to this question. At this stage of the narration however, let us speculate on the nature of that may have been the incentives to go such great lengths to get a better grip on the matter. These speculations will give us a better understanding of the conditions in which these events evolved in.
 
 [^3]: The practice of exegesis equates to critically explain or interpret a religious text. In simple terms, exegesis refers to the process of discovering the original and intended meaning of a passage of scripture. This is precisely what Yahweh does as described in the foundational works of Raëlism. Yahweh comments on Biblical passages and explains how these passages should be understood.
 [^4]: The Biblical Book of Genesis is called Bereshith (בְּרֵאשִׁית) in the Hebraic Torah, literally meaning "in the beginning" in Hebrew. This is because in the Hewbrew Bible, books are named using incipits. The first words in first book of the Hebrew Bible is Bereshit ("In the beginning ..."). See more: [Incipit](https://en.wikipedia.org/wiki/Incipit)

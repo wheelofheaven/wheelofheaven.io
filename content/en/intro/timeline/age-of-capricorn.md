@@ -91,3 +91,29 @@ Earth, a barren but material planet devoid of life proved to be the frontier the
 [^3]: The practice of exegesis equates to critically explain or interpret a religious text. In simple terms, exegesis refers to the process of discovering the original and intended meaning of a passage of scripture. This is precisely what Yahweh does as described in the foundational works of Raëlism. Yahweh comments on Biblical passages and explains how these passages should be understood.
 [^4]: The Biblical Book of Genesis is called Bereshith (בְּרֵאשִׁית) in the Hebraic Torah, literally meaning "in the beginning" in Hebrew. This is because in the Hewbrew Bible, books are named using incipits. The first words in first book of the Hebrew Bible is Bereshit ("In the beginning ..."). See more: [Incipit](https://en.wikipedia.org/wiki/Incipit)
 [^5]: De novo gene synthesis is a process where a DNA sequence is artificially created from scratch, without the need for an existing DNA template. Essentially, it is like writing a new genetic code from scratch. See more: [De novo synthesis](https://en.wikipedia.org/wiki/De_novo_synthesis)
+
+## The economy of science
+
+We already pointed out that is reasonable to assume that the Elohimian civilization during that stage of development was likely to still be governed by an economical system predicated on the scarcity of resources and of energy where a credit system must have been in place allocating productive means to those best suited for the job. Also, we know that the public opinion which was responsible for halting the experimental research of genetic engineering had shown enough influence to sway legislative and most likely executive power in their favour. Some sort ofpolitical system with a republic component, where the _Rēs pūblica_, the matter of the people is considered, can also be assumed.
+
+With these two assumptions, which indeed mirror a lot our own economical and political conditions of the 21st century, we can venture to speculate that researchers that were responsible for the research and development of synthetic engineering must have worked on behalf of a quasi-corporative social institution (which we may or may not call an enterprise). That institution must have more likely than not benefitted from the affluence of bright minds and power that came along with their scientific insights.
+
+One can only wonder what economical side-effects that kind of promising research must have generated. The capability of reverse engineering genetic code to the extend of being able to write new genetic code as one does write software source code today. The ability to compile and integrate genetic code with nothing but chemical source components as one does transpile source code into machine code today. To fully understand and emulate new features with a given set of decoded genes is not unlike what some tech wizards do when reading source code nowadays and then come up with ways to extend the repository of functionalities with a set of new features. These tech wizards, more commonly referred to as software engineers and software architects, are famous pushing the boundaries of what technology is capable of and make not little of a living out of it.
+
+If we extend these principles not only to machine code that is run on digital computing units, but to the machinery that is biological life, the possibilities that can be deduced therefrom are dizzying. Pharmaceutical products of all kinds, the healing of kinds of diseases and life-reducing hardships, the extension of the life span and even the preservation of life itself beyond death become viable. The Elohimian civilization must have truly entered a Golden Age on their own with the development of such technology.
+
+The coalition of enterprises that were responsible for the embetterment of life's condition for everybody that was willing to consume and able to afford their products, the confluence of knowledge and power must have been noteworthy to say the least. The circumstance that the legacy of whoever made the progress of genetic engineering possible also is also the foundations of what lead to the creation of synthetic monster that broke free and caused havoc must have been even more noteworthy and likely to be highly polemical in their days.
+
+Nonetheless, the wealth of power generated from the benefits of genetical engineering most likely have had a direct impact on how the Elohimian civilization was funding and allocating resources to the cause of space exploration. The affinity shared by both causes is strongly conducive to the idea that similar agents, to not say individuals, must have contributed to both the these causes.
+
+## The Eternal
+
+At the end of the first book out of the three foundational works of Raëlism, The Book Which Tells The Truth, Yahweh reveals who he is and what makes him being the main representative of the Elohim:
+
+> The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out. That is why I am the president of the eternals. I myself directed the creation of life on Earth.
+
+There we have it.
+
+## Next chapter
+
+After the Age of Capricorn (from –21'810 to –19'650) comes the Age of Sagittarius (from –19'650 to –17'490).

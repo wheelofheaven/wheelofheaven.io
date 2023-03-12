@@ -35,7 +35,7 @@ Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael'
 >
 >> Unto Adam also and to his wife did Yahweh Elohim make coats of skins, and clothed them.
 >>
->>— Genesis 3: 21.
+>> — Genesis 3: 21.
 >
 > The creators gave their creations the basic means of survival, enough to manage without needing any further contact with them.
 

@@ -66,8 +66,6 @@ and then
 >
 > This research took quite some time. The “day” mentioned here corresponds to the period in which your sun rises under the same sign on the day of the vernal equinox, in other words, about 2,000 years on Earth.
 
-
-
 ## A quick recap
 
 The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and lasted as each World Age 2'160 years.

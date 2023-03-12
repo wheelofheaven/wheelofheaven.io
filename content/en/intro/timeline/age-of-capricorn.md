@@ -59,7 +59,7 @@ and then
 >
 > To create life on Earth it was important to know whether the sun was sending harmful rays to the Earth’s surface, and this question was fully researched. It turned out that the sun was heating the Earth correctly without sending out harmful rays. In other words the “light was good”.
 
-## First day of Genesis
+## First day of creation
 
 >> And the evening and the morning were the first day.
 >> Genesis 1: 5.

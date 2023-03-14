@@ -230,4 +230,4 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 - [Genesis (Old Testament | Britannica)](https://www.britannica.com/topic/Genesis-Old-Testament)
 - [Genesis, the Book of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/6580-genesis-the-book-of)
 
-[^1]: [Strong\'s Hebrew Lexicon, yom, #3117.](https://biblehub.com/hebrew/3117.htm)
+[^1]: Yom (יוֹם) is translated as day (1115 times), days (635), today (172), time (45), chronicles (38), daily (22), always (14), years (13), life (12), long (11) age (8), yearly (5) and other meanings in the NASB Bible translation. See more: [Strong\'s Hebrew Lexicon, yom, #3117.](https://biblehub.com/hebrew/3117.htm)

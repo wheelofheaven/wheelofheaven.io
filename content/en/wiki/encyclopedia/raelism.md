@@ -29,8 +29,8 @@ As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the
 
 In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
 
-[^1]: [Egyptian for Sun, rꜥ | Wiktionairy](https://en.wiktionary.org/wiki/r%EA%9C%A5)
-[^2]: [Sumerogram of ilum, the Sky, the Heavens, Star, 𒀭 | Wiktionairy](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
 ## See also
 

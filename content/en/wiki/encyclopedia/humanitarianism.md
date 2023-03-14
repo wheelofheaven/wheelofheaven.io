@@ -147,5 +147,5 @@ Finally, both the passages and the Steiner-Vallentyne school of thought advocate
 [Left-Libertarianism: A Primer by Peter Vallentyne (PDF) | umsystem.edu](https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/10449/LeftLibertariansimAPrimer.pdf)</br>
 [Steiner-Vallentyne School | Polcompball Wiki](https://polcompball.miraheze.org/wiki/Steiner-Vallentyne_School)</br>
 
-[^1]: [Collection of ideas - Zamenhof.info](https://zamenhof.info/en/idearo)
+[^1]: Homaranismo Declaration. See more: [Collection of ideas - Zamenhof.info](https://zamenhof.info/en/idearo)
 [^2]: [Deklaracio pri Homanarismo, L. L. Zamenhof](https://rudhar.com/religion/Homaranismo/homaeoia.htm)

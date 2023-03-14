@@ -47,5 +47,5 @@ The context of this passage is the Age of Apocalypse, which is a concept found i
 - [Apocalypse | Wikipedia](https://en.wikipedia.org/wiki/Apocalypse)
 - [Biblical Apocalypse | World History Encyclopedia](https://www.worldhistory.org/article/1801/biblical-apocalypse/)
 
-[^1]: From ἀποκαλύπτω (apokalúptō, “to disclose, reveal”) + -σις (-sis). [ἀποκάλυψις | Wiktionairy](https://en.wiktionary.org/wiki/%E1%BC%80%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82#Ancient_Greek)
-[^2]: Probably from κᾰλῠ́πτω (kalúptō, “I hide”): “she who conceals”. [Καλυψώ | Wiktionairy](https://en.wiktionary.org/wiki/%CE%9A%CE%B1%CE%BB%CF%85%CF%88%CF%8E#Ancient_Greek)
+[^1]: From ἀποκαλύπτω (apokalúptō, “to disclose, reveal”) + -σις (-sis). See more: [ἀποκάλυψις | Wiktionary](https://en.wiktionary.org/wiki/%E1%BC%80%CF%80%CE%BF%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B9%CF%82#Ancient_Greek)
+[^2]: Probably from κᾰλῠ́πτω (kalúptō, “I hide”): “she who conceals”. See more: [Καλυψώ | Wiktionary](https://en.wiktionary.org/wiki/%CE%9A%CE%B1%CE%BB%CF%85%CF%88%CF%8E#Ancient_Greek)

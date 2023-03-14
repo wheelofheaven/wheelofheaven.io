@@ -13,6 +13,8 @@ weight: 235
 toc: true
 ---
 
+![Image](images/equinox_bc8850.png "Vernal equinox in 8850 BC")
+
 The Age of Cancer lasts from –8'850 to –6'690 and follows the Age of Leo which lasted up to –8'850.
 
 ## Garden of Eden

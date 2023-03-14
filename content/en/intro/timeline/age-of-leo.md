@@ -13,6 +13,8 @@ weight: 230
 toc: true
 ---
 
+![Image](images/equinox_bc11010.png "Vernal equinox in 11010 BC")
+
 The Age of Leo lasts from –11'010 to –8'850 and follows the Age of Virgo which lasted up to –11'010.
 
 ## Animal kingdom

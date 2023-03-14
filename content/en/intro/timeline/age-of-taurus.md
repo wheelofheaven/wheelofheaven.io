@@ -13,4 +13,6 @@ weight: 245
 toc: true
 ---
 
+![Image](images/equinox_bc4530.png "Vernal equinox in 4530 BC")
+
 Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.

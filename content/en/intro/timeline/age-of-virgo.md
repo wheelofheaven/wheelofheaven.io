@@ -13,6 +13,8 @@ weight: 225
 toc: true
 ---
 
+![Image](images/equinox_bc13170.png "Vernal equinox in 13170 BC")
+
 The Age of Virgo lasts from –13'170 to –11'010 and follows the Age of Libra which lasted up to –13'170.
 
 ## Ecology

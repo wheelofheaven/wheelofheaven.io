@@ -13,6 +13,8 @@ weight: 215
 toc: true
 ---
 
+![Image](images/equinox_bc17490.png "Vernal equinox in 17490 BC")
+
 The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.
 
 ## Directed abiogenesis

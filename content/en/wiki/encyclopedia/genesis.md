@@ -37,7 +37,7 @@ It is possible that the Genesis version of the creation story developed independ
 
 This is not accurate as the name of God, [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) is technically a plural, implying a multitude of godly beings.
 
-## Seven days as in seven Great Months
+## Seven days of creation
 
 The idea that the "days" mentioned in the Biblical creation narrative of Genesis could be understood as representing much longer periods of time, specifically 2'160 years each, is based on the belief in the concept of precessional cycles. Precession refers to the slow, cyclical movement of the Earth's axis, which takes approximately 26,000 years to complete one cycle.
 

@@ -19,19 +19,25 @@ If you have made it this far, it is clear that you are seeking to understand the
 
 ## Opening considerations
 
-The purpose of this text is to provide a foundation for our thoughts and establish a framework for exploring the premises that follow. These considerations serve as the building blocks for a comprehensive understanding of the narrative.
+The purpose of this write-up is to provide a foundation for our thoughts and establish a framework for exploring the premises that follow. These considerations serve as the building blocks for a comprehensive understanding of the narrative.
 
-Perhaps, this is a good moment to mention that while we seemingly build a case bottom-up so to speak, meaning that we derive conclusions from a set of evidence. However, the full picture will only start to make sense once you have taken in all aspects of the narrative. Our destination is already known, but the interesting part is how we sustain such a hypothesis.
+Perhaps, this is a good moment to mention that while we seemingly build a case bottom-up so to speak, meaning that we derive broader conclusions from a set of smaller, encapsulated pieces of rationale. However, the full picture will only start to emerge once you have taken in all aspects of the narrative. The driving motion of the framework to explore is the narrative itself. Our destination is therefore already known, but the interesting part is how we sustain the narrative of such a hypothesis.
 
 The journey we embark on is not unlike the historical journey of discovering a more favorable route for trade. Just as that journey led to the rediscovery of a new world that changed the status quo, our exploration of ideas may lead to similar breakthroughs. And let us recall that the world was already known to be spherical at that moment in time (yes, ellipsoidal is more accurate), and yet they collectively failed to consider the possbility of the existence of another unknown new world possibly as massive and populous as their own known old world.
 
-This analogy serves as a reminder to approach our established beliefs with humility and not take them too seriously. Let's start with the characterization of what encompasses us all - the speculative realm of outer space. To avoid losing our footing and maintain a rational approach to the impossible, we must maintain some level of humility in our evaluation of the narrative ahead.
+This analogy serves as a reminder to approach our established beliefs with humility and not take them too seriously. The challenge to consider worlds beyond the preconceptions of our imagination has been a constant in known history. Let's start with the characterization of what encompasses us all - the speculative realm of outer space. To avoid losing our footing and maintain a rational approach to the impossible, we must maintain some level of humility in our evaluation of the narrative ahead.
 
 ### Nothing seems impossible and yet
 
-Astronomy and particularly inter-planetary space travel are relatively new fields. Despite our growing knowledge, we must remember that human history is littered with errors and wrong assumptions. Let's approach our achievements in science and technology with humility and avoid falling into the trap of overconfidence.
+Astronomy and in particular the possibilities now made possible by the advancements in inter-planetary space travel are both relatively new fields. Despite our growing knowledge, we must remember that human history is littered with errors and wrong assumptions. Let's approach our achievements in science and technology with humility and avoid falling into the trap of overconfidence.
 
-It's important to differentiate between fictional science and actual scientific inquiry, as noted by Feyerabend. Rather than accepting things at face value, let's broaden our perspective and consider the bigger picture. By doing so, we can avoid making the same mistakes of the past and continue advancing in our understanding of the universe.
+It's important to differentiate between fictional science[^1] and actual scientific inquiry. Rather than accepting things at face value, this means what is considered to be socially admissible, let's broaden our perspective and contemplate the bigger picture. By doing so, we can hope to avoid making the same mistakes of the past and continue advancing in our understanding of what makes up life. Human progress as understood in being but one inhabited planet known throughout the vastness of space is what we identify as one of the most pertinent question of the human condition. This frame of reference transcends most if not all aspects of the human experience.
+
+As we continued to expand our understanding of the universe through astronomy and present-day space science and astrophysics, it becomes increasingly apparent that the essence of the human experience is not only shaped by our way of life on planet Earth, but also has to be contextualized with the principles that govern the cosmos. While it is also true that the vast majority of insights derived from astrophysics in particular are highly speculative in nature and are based on vast arrays of computational guess-work and assumptions[^2]
+
+[^1]: "Science fictive", an idiom commonly used by Jean Sendy in his many publications. Fictional science refers to the notion that many concepts of science-fiction has been incorporated in the popular thought of science and vice-versa. In this context, it should be understood that many grand narratives that are commonly understood to be flagship insights of contemporary scientific inquiry such as anthropologial climate change, the physical theory of Big Bang or Evolution-induced abiogenesis are down-the-line best characterized as _fictional_ in the same vein as Flat Earth has historically devolved from a popular belief endorsed by an authoritative quasi-scientific institution into oblivion.
+
+[^2]: No matter how sophisticated and well calculated the approximation of a given asttronomical distance is, we have yet to traverse that distance to ultimately confirm the distance itself.
 
 ### Life on Earth, where else
 

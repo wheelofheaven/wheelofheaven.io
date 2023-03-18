@@ -85,14 +85,9 @@ Ultimately, the vastness of space and the numerous possibilities for life to exi
 
 ## Assumptions
 
-### Life on Earth is meaningful
+- Life on Earth is meaningful
+- Vastness of space is significant
+- Scriptures and religion are deliberate
+- Gods must have been real:
 
-### Vastness of space is significant
-
-### Scriptures and religion are deliberate
-
-## Important aspects we should retain from here on
-
-### Gods must have been real
-
-- **Neo-euhemerism:** From the French néo-évhémérisme which itself is a neologism of the idea derived by the Greek philosopher Εὐήμερος (Euḗmeros). Neo-euhemerism can be understood as the speculative conjecture where the gods and people of ancient mythological lore are indeed humanoid people, in particular extraterrestrial humanoid people.
+Neo-euhemerism, from the French néo-évhémérisme which itself is a neologism of the idea derived by the Greek philosopher Εὐήμερος (Euḗmeros). Neo-euhemerism can be understood as the speculative conjecture where the gods and people of ancient mythological lore are indeed humanoid people, in particular extraterrestrial humanoid people.

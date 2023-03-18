@@ -68,6 +68,14 @@ The fact that the Earth had a different atmosphere than the home planet of these
 >
 > This means the scientists made reconnaissance flights, and what you might call artificial satellites were placed around the Earth to study its constitution and atmosphere. The Earth was, at that time, completely covered with water and thick mist.
 
+Yahweh explains that this means that the extraterrestrial scientists made reconnaissance flights and placed artificial satellites around the Earth to study its constitution and atmosphere. The technology that may have been involved in this description does sound familiar to us.
+
+First, these so-called reconnaissance flights could have taken the form of manned or unmanned spacecraft, such as probes or drones, that were sent to survey the Earth's surface and atmosphere.
+
+Second, the artificial satellites that were placed around the Earth were likely advanced technological devices that would have been capable of gathering data and transmitting it back to their central space hub. These devices could have taken the form of orbiting satellites or other types of spacecraft that were capable of conducting surveillance and scientific experiments on the Earth's atmosphere and composition. It's also likely that these artificial satellites were used to gather information about the planet's geological processes, climate patterns, and other environmental factors. These data would have been critical for the extraterrestrial scientists to understand and be able to adapt the Earth's unique environment.
+
+Another interesting hint here is what is being said about the state of planet Earth at that moment in time: completely covered in water and thick mist. Planet Earth was indeed a blue planet through and through. The presence of water would have been critical for creating the necessary conditions for life to thrive.
+
 ## Solar radiation
 
 >> And Elohim saw the light, that it was good.

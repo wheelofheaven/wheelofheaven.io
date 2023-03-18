@@ -39,8 +39,8 @@ Therefore, the moment of arrival of an extraterrestrial civilization to a planet
 
 Moreover, in ordinary or popular astrology, the astrological sign of Capricorn is thought to last from 22nd of December to 19th of January[^2]. In the Gregorian calender, the New Year's Day falls on the 1st of January. This makes both the precession induced Age of Capricorn as well as the ordinary astrological sign Capricorn symbols of start and end of a longer cycle. What an interesting coincidence that deserves more pondering.  To recap, the Age of Capricorn is best considered to be the precessional January, starting in –21'810, where a full precessional year, the Great Year takes full 25'920 years. The Age of Capricorn presently marking the arrival of the Elohim on planet Earth.
 
-[^1]: The letter _ë_ is relict from the French language, in which the diaresis that indicates that the _ë_ is to be pronounced separately from the preceding vowel, rendering the morpheme _raël_ to be correctly pronounced as pronounced in the name Raphael.
-[^2]: The name of the first month of the year, January, goes back to the Roman god gateways and beginnings, Janus. The etymology of Janus, or as written in Latin Iānus literally meaning "arched passage" or "doorway", ultimately comes from the Proto-Indo-European *ieh₂nu "passage".
+[^1]: The letter _ë_ is relict from the French language, in which the diaresis that indicates that the _ë_ is to be pronounced separately from the preceding vowel, rendering the morpheme _raël_ to be correctly pronounced as one would in pronouncing the name Raphael.
+[^2]: The name of the first month of the year, January, goes back to the Roman god of gateways and beginnings, Janus. The etymology of Janus, or as written in Latin Iānus, literally meaning "arched passage" or "doorway", ultimately comes from the Proto-Indo-European *ieh₂nu "passage".
 
 ## On a distant planet
 

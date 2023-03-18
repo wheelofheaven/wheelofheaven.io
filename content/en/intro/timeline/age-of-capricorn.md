@@ -57,7 +57,7 @@ Yahweh focuses on the first chapter of Genesis and explains that the Hebrew word
 
 > [...] They “created”, or in reality discovered the Earth, and realized it contained all the necessary elements for the creation of artificial life, even if its atmosphere was not quite the same as our own.
 
-These extraterrestrial people who discovered the Earth recognized that it contained all the necessary elements to create artificial life. These elements likely included the basic building blocks of life, perhaps referring to elements such as amino acids, nucleotides, and other organic compounds. The implication is that these scientists intentionally selected the Earth as a site for their experiments due to its unique chemical makeup and potential for supporting life.
+These extraterrestrial people who discovered the Earth recognized that it contained all the necessary elements to create artificial life. These elements likely included the basic building blocks of life, perhaps referring to elements necessary to build molecules such as amino acids, nucleotides, and other organic compounds. The implication is that these scientists intentionally selected the Earth as a site for their experiments due to its unique chemical makeup and potential for supporting life.
 
 The fact that the Earth had a different atmosphere than the home planet of these scientists is significant because it suggests that these extraterrestrial beings were unable to adapt themselves biologically to different environments and had to consider to create life that was compatible with Earth's atmospheric conditions. The fact that the Earth had a different atmosphere than the scientists' home planet adds to the idea that the creation of life on Earth was a deliberate and highly planned process.
 

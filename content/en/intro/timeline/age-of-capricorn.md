@@ -63,7 +63,7 @@ The fact that the Earth had a different atmosphere than the home planet of these
 
 ## Blue planet
 
-Earth is the third planet from the sun and is the largest of the terrestrial planets. One of the most prominent features of Earth that can be seen from outer space is the fact that it features water, lots of it.
+Earth is the third planet from the Sun and is the largest of the terrestrial planets. One of the most prominent features of Earth that can be seen from outer space is the fact that it features water, lots of it.
 
 >> And the Spirit of Elohim moved upon the face of the waters.
 >> Genesis 1: 2.
@@ -80,7 +80,7 @@ Another interesting hint here is what is being said about the state of planet Ea
 
 ## Solar radiation
 
-Not only the Earth, but also another important neighbouring celestial body had to be investigated properly: the sun. The sun is the star at the center of the solar system and is the primary source of energy for the Earth. The Earth orbits the sun, which means it travels around the sun in a regular and predictable path. The sun's gravitational pull keeps the Earth in orbit and also causes the tides on Earth's oceans.
+Not only the Earth, but also another important neighbouring celestial body had to be investigated properly: the Sun. The sun is the star at the center of the solar system and is the primary source of energy for the Earth. The Earth orbits the sun, which means it travels around the sun in a regular and predictable path. The sun's gravitational pull keeps the Earth in orbit and also causes the tides on Earth's oceans.
 
 The sun also plays a critical role in the Earth's climate and weather patterns, as its energy drives the Earth's atmospheric and oceanic circulation systems. The sun's energy is absorbed by the Earth's atmosphere, land, and oceans, and this energy is then transferred and redistributed around the planet through various physical and chemical processes. Earth has a magnetic field that protects the planet from the solar wind. Solar wind is a stream of charged particles that is constantly emitted by the sun. When the solar wind encounters the Earth's magnetic field, it interacts with the charged particles in the field, causing them to become trapped and redirected around the planet. This forms a protective barrier around the Earth known as the magnetosphere, which shields the planet from the most harmful effects of the solar wind.
 
@@ -106,10 +106,14 @@ The amount of time it took for the extraterrestrial scientists to research the E
 
 According to Yahweh, this research took quite some time and the "day" mentioned in Genesis 1:5 corresponds to the period in which the sun rises under the same sign on the day of the vernal equinox, which is roughly 2,000 years on Earth. This suggests that the extraterrestrial scientists spent a significant amount of time studying and analyzing the Earth's environment before seeding it with life.
 
-The precession of the equinoxes is a natural phenomenon in which the Earth's rotational axis slowly traces out a circle over a period of approximately 25'920 years. A precessional cycle is divided into twelve equal parts, each of which corresponds to a world age that is associated with a different astrological sign. In the case of the first day that passes during which some significant preliminary investigations were undertaken by the space visitors, the Age of Capricorn that lasted from –21'810 to –19'650 is the age that is implicitly referred to.
+The precession of the equinoxes is a natural phenomenon in which the Earth's rotational axis slowly traces out a circle over a period of approximately 26'000 years. A precessional cycle is divided into twelve equal parts, each of which corresponds to a world age that is associated with a different astrological sign. In the case of the first day that passes during which some significant preliminary investigations were undertaken by the space visitors, the Age of Capricorn that lasted from –21'810 to –19'650 is the age that is implicitly referred to.
 
 ## A quick recap
 
-The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and lasted as each World Age 2'160 years.
+The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and took as, each World Age, 2'160 years to complete. It is considered the first World Age out of the twelve World Ages and therefore marks the beginning of the whole cycle of World Ages, as would the month of January mark the beginning of the yearly cycle. It was during the Age of Capricorn that a non-terrestrial civilization arrived to Earth and started investigating it for scientific purposes as it featured all elements necessary for live, above all lots of water.
 
-After the Age of Capricorn (from –21'810 to –19'650) comes the Age of Sagittarius (from –19'650 to –17'490).
+These investigations were considerable in their scope and included extensive probings and examinations of geology, oceonography, and atmospheric sciences, as well an in-depth study of the Sun's impact on Earth. Besides for their purely scientific value, the outcome of these investigations constituted an important data set for the final verdict. The final verdict of whether not the planet could be used as an experimental laboratory for life creational purposes. As we know today, Earth is teeming with life, so we're safe to cocnclude that the verdict ended up in favour of keeping the outpost and its research endeavours going.
+
+The arrival of this space-faring civilization and their subsequent extensive review of the planet is remembered as the First Day of Creation in Genesis. "Let there be light" doesn't refer to the creation of the cosmos or celestial objects, but the planet got discovered and investigated by a number of curious and adventurous cosmonauts.
+
+After the Age of Capricorn (from –21'810 to –19'650) comes the Age of Sagittarius (from –19'650 to –17'490). The Age of Capcricorn equates to the First Day of Creation, the following Age of Sagittarius evidently equates to the Second Day of Creation.

@@ -43,3 +43,4 @@ According to Yahweh's explanation, this excerpt describes how the scientifical p
 
 ## Second day of creation
 
+As mentioned earlier, The Age of Sagittarius equals to the Second Day of Creation.

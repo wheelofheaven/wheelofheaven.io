@@ -36,10 +36,18 @@ According to Yahweh's explanation, this excerpt describes how the scientifical p
 
 ## Pangeae
 
+Yahweh then goes on to explain how the first continent was built out of the shallow ocean bed.
+
 >> Let the waters under the heaven be gathered together unto one place, and let the dry land appear.
 >> Genesis 1: 9.
 >
 > After they studied the surface of the ocean they studied the sea bed and determined that it was not very deep and fairly even everywhere. So then, by means of fairly strong explosions, which acted rather like bulldozers, they raised matter from the bottom of the seas and piled it up into one place to form a continent.
+
+The quoted text is a reference to the verse from Genesis 1:9, in which the Elohim create dry land by gathering the waters under heaven to one place. This describes quite literally how the scientists studied the sea bed and used explosions to raise matter from the bottom of the seas, piling it up to form a continent.
+
+The process described, using explosions to raise matter from the ocean floor and create a landmass, is a form of artificial terraforming. This is because it involves intentionally modifying the natural environment to create a new land area where there was none before. The process is similar to land reclamation[^1], where land is created by filling in a body of water, but in this case, the material is obtained by using explosions to bring up material from the ocean floor.
+
+[^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)
 
 ## Second day of creation
 

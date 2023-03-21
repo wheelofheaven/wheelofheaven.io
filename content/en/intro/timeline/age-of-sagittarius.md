@@ -23,7 +23,7 @@ All of that happened during the Age of Capricorn which lasted from –21'810 to 
 
 As the planet Earth was deemed _good_, meaning it not only had all the elements necessary to bear new life, but was also favorable in a series of other, equally important aspects, the second phase begun. The Second Day of Creation is the sum of all events that happened subsequently during the Age of Sagittarius.
 
-## Terraforming Earth
+## Water world
 
 In the first book out of the three foundational works of Raëlism, The Book Which Tells The Truth, Yahweh continues the exegetical interpretation of the Biblical verses.
 
@@ -34,7 +34,7 @@ In the first book out of the three foundational works of Raëlism, The Book Whic
 
 According to Yahweh's explanation, this excerpt describes how the scientifical pioneers went on to study cosmic rays above the clouds, and then went below the clouds but remained above the ocean. This literally means they were between the "waters above the firmament" (the clouds) and the "waters below the firmament" (the ocean).
 
-## Pangeae
+## Terraforming Earth
 
 Yahweh then goes on to explain how the first continent was built out of the shallow ocean bed.
 
@@ -47,7 +47,23 @@ The quoted text is a reference to the verse from Genesis 1:9, in which the Elohi
 
 The process described, using explosions to raise matter from the ocean floor and create a landmass, is a form of artificial terraforming. This is because it involves intentionally modifying the natural environment to create a new land area where there was none before. The process is similar to land reclamation[^1], where land is created by filling in a body of water, but in this case, the material is obtained by using explosions to bring up material from the ocean floor.
 
+The key word here is terraforming. The concept of terraforming is rather a novel notion and emerged as part of the space race in the 20th century, as scientists and engineers began to explore the idea of colonizing other planets and moons in our solar system. While the idea of terraforming remains largely theoretical, it continues to capture the imagination of scientists, writers, and the public alike as a potential way to explore and colonize other worlds. In very broad terms, terraforming refers to the theoretical process of transforming a planet, moon, or other celestial body to make it habitable for humans and other Earth-based life forms. This process typically involves a combination of technologies and processes designed to change the climate, atmosphere, and other environmental conditions of a celestial body in order to make it more like Earth.
+
+Isn't that exactly what supposedly happened initially here on Earth? In this specific instance, the kind of terraforming applied by the Elohimian scientists would involve intentionally modifying the physical environment of a celestial body (in this case, the Earth's ocean floor) in order to create a new land mass that could potentially support life. The process would likely involve a combination of scientific and engineering techniques, including mapping the ocean floor, analyzing geological data to identify the most suitable areas for land formation, and designing and executing controlled explosions to raise material from the ocean floor. If we imagine how this might have happened, it's within the thinkable that a large number of controlled and coordinated explosions would be necessary to raise enough material from the ocean floor to create a continent. One possibility might have been to use strategically placed explosive charges to fracture the ocean floor in a controlled manner, allowing material to be dislodged and raised to the surface.
+
+Such a process would have significant impacts on the topological constitution of the planet and would require careful consideration and planning to minimize undesired long-term or latent side effects. Also, the feasibility of such a process would depend on a number of factors, including the depth and composition of the ocean floor, the availability of suitable materials for land formation, and the technical and logistical challenges of executing such a large-scale project. This must have really been a project of gigantic proportions.
+
 [^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)
+
+## Pangaea
+
+This single massive supercontinent that got raised from the bottoms of the oceans does sound a lot like the contemporary idea of a supercontinent that supposedly must have existed according to geological insights. This hypothetised supercontient is known as Pangaea. It is thought to have existed during the Paleozoic and Mesozoic eras, from about 335 to 175 million years ago. It is also thought to have been the most recent of several supercontinents that have formed and broken apart over the course of Earth's history.
+
+Pangaea was a single, massive landmass that included all of the Earth's major continents at the time, including North America, South America, Africa, Europe, and Asia. The formation of Pangaea is believed to have been driven by the movement of tectonic plates, which gradually brought the continents together over millions of years.
+
+If we assume that a single massive supercontinent were to be raised from the shallow oceans in a scenario like the one described in the passage above, it could very well potentially resemble Pangaea in terms of its size and shape. If we assume that a massive terraforming effort wheere land mass was formed out of the bottom of the oceans could potentially have unintended consequences that lead to the emergence of plate tectonics, it's difficult to say exactly what those consequences might be. The mechanisms that drive plate tectonics are complex and not fully understood, so it's hard to predict how they might be affected by large-scale modifications to the Earth's surface.
+
+That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities. 
 
 ## Second day of creation
 

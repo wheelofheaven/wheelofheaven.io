@@ -13,7 +13,7 @@ weight: 205
 toc: true
 ---
 
-![Image](images/equinox_bc21810.png "Vernal equinox in 21810 BC")
+{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Vernal equinox in 21'810 BC" >}}
 
 We start off with the Age of Capricorn first. The Age of Capricorn is the first precessional Month in the Great Year cycle. With the nominal period of 25'920 years for the precessional Year, the duration of one precessional Month is 2'190 years. During this period, the rising Sun on the Vernal Equinox is aligned with the Capricorn constellation in the ecliptic.
 

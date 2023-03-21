@@ -13,7 +13,7 @@ weight: 210
 toc: true
 ---
 
-![Image](images/equinox_bc19650.png "Vernal equinox in 19650 BC")
+{{< figure src="images/equinox_bc19650.png" caption="Fig. 1 - Vernal equinox in 19'650 BC" >}}
 
 The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 

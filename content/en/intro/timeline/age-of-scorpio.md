@@ -13,7 +13,7 @@ weight: 215
 toc: true
 ---
 
-{{< figure src="images/equinox_bc17490.png" caption="Fig. 1 - Vernal equinox in 17'490 BC" >}}
+{{< figure src="images/geodesic-structures.png" caption="Fig. 1 - Illustration of geodesic structures" >}}
 
 The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.
 
@@ -22,6 +22,8 @@ In the last chapter, The Age of Sagittarius, we learned that the group of scient
 All of that happened during the Age of Sagittarius which lasted from –19'650 to –17'490, one of the twelve precessional World Ages. As we learned with the Age of Capricorn, which represents the First Day of Creation mentioned in the first book of Genesis, the Age of Sagittarius as the subsequent World Age is therefore representing the Second Day of Creation. The Bible describes the terraformation very eloquently as wollows: “Let the waters under the heaven be gathered together unto one place, and let the dry land appear.”
 
 With the newly terraformed supercontinent, the Elohimian scientists could land on firm soil and build permanent structures; the third phase could begin. The Third Day of Creation is the sum of all events that happened subsequently during the Age of Scorpio.
+
+{{< figure src="images/equinox_bc17490.png" caption="Fig. 2 - Vernal equinox in 17'490 BC" >}}
 
 ## Directed abiogenesis
 

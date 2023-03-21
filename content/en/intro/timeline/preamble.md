@@ -13,6 +13,8 @@ weight: 204
 toc: true
 ---
 
+{{< figure src="images/saurian-experiments.png" caption="Fig. 1 - Illustration of synthetic life" >}}
+
 The timeline begins some time before around –22'000, right at the doorstep to the Age of Capricorn. What preceeds the Age of Capricorn is an Age of Aquarius of the preceeding Great Year. Before we get started with the first precessional Great Month, the Capricornian World Age, it is worth examining what led up to it. To illustrate what happened, we can take inspiration from a classic of the American film industry, Jurassic Park.
 
 ## Hubris or bravery?

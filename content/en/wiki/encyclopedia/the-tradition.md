@@ -71,6 +71,12 @@ to Sendy, whereas the remaining ones went astray.
 >
 > To begin with, Catholicism is seen by Sendy as a repository of Tradition, and hence as a vessel of correct knowledge and orientation for humanity in scientific, as well as ethical, matters. Sendy remarks that the Jesuits were also custodians of the Tradition and they were perfectly aware, therefore, that Columbus would reach America and not the Indies (pp. 300-301).
 
+## According to Jean Sendy
+
+In his Coming of the Gods, Jean Sendy writes the following about the Tradition and himself being a Medievalist:
+
+> Did the assumption of mediocrity, which von Hoerner reproaches the Greeks for not having formulated and applied, constitute the basis of the thought of the First Civilizations, the thought that bas been transmitted since the dawn of historic times by what is called the Tradition? In other words, did "the Ancients" think more accurately than "the Greeks?'· That is exactly what men of the Middle Ages (of whom I am one) have always repeated to Renaissance humanists, reproaching them for their determination to replace the thought of the Ancients with neo-Greek thought. 
+
 ## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

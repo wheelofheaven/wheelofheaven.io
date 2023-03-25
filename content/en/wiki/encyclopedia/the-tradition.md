@@ -75,7 +75,9 @@ to Sendy, whereas the remaining ones went astray.
 
 In his Coming of the Gods, Jean Sendy writes the following about the Tradition and himself being a Medievalist:
 
-> Did the assumption of mediocrity, which von Hoerner reproaches the Greeks for not having formulated and applied, constitute the basis of the thought of the First Civilizations, the thought that bas been transmitted since the dawn of historic times by what is called the Tradition? In other words, did "the Ancients" think more accurately than "the Greeks?'· That is exactly what men of the Middle Ages (of whom I am one) have always repeated to Renaissance humanists, reproaching them for their determination to replace the thought of the Ancients with neo-Greek thought. 
+> Did the assumption of mediocrity, which von Hoerner reproaches the Greeks for not having formulated and applied, constitute the basis of the thought of the First Civilizations, the thought that bas been transmitted since the dawn of historic times by what is called the Tradition? In other words, did "the Ancients" think more accurately than "the Greeks?'· That is exactly what men of the Middle Ages (of whom I am one) have always repeated to Renaissance humanists, reproaching them for their determination to replace the thought of the Ancients with neo-Greek thought.
+
+Sendy explores the idea of the Tradition and questions whether the assumption of mediocrity, which von Hoerner criticized the Greeks for not having, was actually the basis of thought for the First Civilizations. Sendy suggests that the thought of the Ancients, as transmitted through the Tradition, may have been more accurate than the thought of the Greeks. He also notes that men of the Middle Ages, including himself, have traditionally held this view and have criticized Renaissance humanists for replacing ancient thought with neo-Greek thought.
 
 ## See also
 

@@ -57,12 +57,13 @@ Overall, Raëlians view intelligent design as a central tenet of their belief sy
 
 ## See also
 
-[Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
 ## Read more
 
-[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
+- [Intro › Intelligent Design]({{< relref "intro/take-aways/intelligent-design.md" >}})
+- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
 
 ## External links
 

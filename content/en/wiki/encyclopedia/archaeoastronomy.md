@@ -74,6 +74,7 @@ Chichen Itza is a Maya city in the Yucatan Peninsula, Mexico, that thrived betwe
 Angkor Wat, built in the early 12th century, is the largest religious monument globally and a stunning example of Khmer architecture. The temple complex was initially dedicated to the Hindu god Vishnu and later converted to a Buddhist temple. The main temple's western entrance is aligned with the spring equinox. On this day, the sun rises directly over the central tower, creating a visual spectacle. The alignment may represent the balance between light and darkness, echoing Hindu cosmological beliefs.
 
 ### Temple of Karnak, Egypt
+
 The Karnak temple complex in Luxor, Egypt, is one of the largest religious sites in the world, dating back to around 2000 BCE. The main temple is dedicated to the god Amun-Ra. The temple's axis aligns with the winter solstice sunrise, allowing the sun's rays to illuminate the inner sanctum, where the statue of Amun-Ra resided. This alignment may have been designed to imbue the statue with the sun's energy, enhancing the god's power.
 
 ## Alternative researchers

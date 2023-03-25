@@ -13,7 +13,7 @@ weight: 220
 toc: true
 ---
 
-{{< figure src="images/proto-earth-satellite.png" caption="Fig. 2 - Astronomical measurement installation" >}}
+{{< figure src="images/geodesic-instruments.png" caption="Fig. 2 - Astronomical measurement installation" >}}
 
 In the last chapter, The Age of Scorpio, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. As soon as they managed to terraform a new barren continental land mass out of the bottom of the oceans, they went on to synthetize plant life. This plant life was engineered from nothing else but chemical base elements. It didn't take them long to cover the new supercontinent with grass, saplings, shrubs and other greeneries. The engineers were joined by artists and formed various research groups that each focused on a different region of this supercontinent to diversify and sophisticate further the newly created flora.
 

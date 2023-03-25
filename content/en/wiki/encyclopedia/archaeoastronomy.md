@@ -35,6 +35,26 @@ The Giza pyramid complex consists of the Great Pyramid of Giza, the Pyramid of K
 
 - **Orion's Belt**: The three pyramids of Giza are said to be aligned in a manner that resembles the stars of Orion's Belt in the Orion constellation. The alignment suggests that the pyramids' layout may have been intended to represent the stars in Orion's Belt, which held religious significance for the ancient Egyptians, as they associated it with the god Osiris.
 
+- **Equinoxial markers**: The Great Pyramid of Giza, also known as the Pyramid of Khufu, is unique among the pyramids in Egypt for its subtle concavity on each of its four faces. This concavity divides each face into two slightly inclined halves, resulting in the pyramid having a total of eight sides rather than the usual four. This feature is difficult to notice from ground level and is most visible during the equinoxes when the rising or setting sun casts a shadow on the pyramid, emphasizing the concavity.
+
+#### Great Sphinx of Giza
+
+The Great Sphinx of Giza is a colossal statue with the body of a lion and the head of a human, believed to represent Pharaoh Khafre. The lion symbolism can be linked to the astrological sign of Leo and the constellation of the same name. In ancient cultures, the lion was often associated with strength, power, and royalty. In ancient Egyptian mythology, the lion was a symbol of protection and was associated with several deities, such as Sekhmet, the goddess of war and healing, and Maahes, the lion-headed god of war.
+
+The astrological Age of Leo, as mentioned earlier, is an epoch in which the vernal equinox occurs in the constellation of Leo. During this time, around 10,500 BCE, the constellation Leo would have risen just before the Sun at dawn. The symbolism of the Sphinx as a lion can be connected to this celestial event, as it represents the earthly manifestation of the celestial lion in the sky. The Sphinx, facing east, would have greeted the rising Sun, symbolizing the triumph of light over darkness and embodying the power and protection of the lion.
+
+The idea that the Great Sphinx of Giza could be a marker of the Age of Leo is based on the premise that the Sphinx was originally constructed to represent a lion and its alignment with the constellation Leo during a specific period known as the astrological Age of Leo.
+
+Astrological ages are determined by a phenomenon called the precession of the equinoxes, which results from the slow wobble of the Earth's axis over a cycle of approximately 25'920 years. This wobble causes the position of the vernal equinox (the point where the Sun crosses the celestial equator from south to north) to slowly move westward along the ecliptic (the Sun's apparent path across the sky). As a result, the vernal equinox shifts through the twelve constellations of the zodiac over time, spending approximately 2'160 years in each sign. The Age of Leo is believed to have occurred between 11'010 to 8'850 BCE.
+
+Proponents of the theory that the Sphinx marks the Age of Leo argue that the monument was originally built with the body of a lion, and its face was later re-carved to resemble the Pharaoh Khafre. According to this theory, during the Age of Leo, around 10,500 BCE, the vernal equinox would have occurred in the constellation of Leo, which would have risen just before the Sun at dawn. As a result, the lion-shaped Sphinx would have faced its celestial counterpart in the sky, symbolically linking the two.
+
+#### Water erosion
+
+The erosion patterns on the Sphinx and the Giza pyramid complex have been the subject of much debate among geologists, archaeologists, and alternative researchers. Some of the erosion patterns, particularly on the Sphinx and its surrounding enclosure, appear to be consistent with water erosion rather than the more typical wind and sand erosion seen in desert environments.
+
+Proponents of the water erosion hypothesis argue that the vertical and undulating patterns on the Sphinx's limestone body and the enclosure walls suggest that the monument was subjected to heavy rainfall or even flooding at some point in its history. The climatic conditions in Egypt during the Early and Middle Holocene (around 10,000 to 4,000 BCE) were wetter than they are today, with more rainfall and the presence of savannah-like ecosystems in the area. Some researchers argue that the erosion patterns on the Sphinx could be evidence of its construction during a period of greater precipitation, possibly before the emergence of the dynastic Egyptian civilization as we know it.
+
 ### Stonehenge, England
 
 Stonehenge is a prehistoric monument located in Wiltshire, England, consisting of a circle of standing stones. It was constructed in several stages between 3000 and 2000 BCE. The site has several astronomical alignments.

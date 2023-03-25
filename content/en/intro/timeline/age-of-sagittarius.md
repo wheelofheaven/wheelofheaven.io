@@ -13,7 +13,7 @@ weight: 210
 toc: true
 ---
 
-{{< figure src="images/equinox_bc19650.png" caption="Fig. 1 - Vernal equinox in 19'650 BC" >}}
+{{< figure src="images/blue-planet-mist.png" caption="Fig. 1 - Research vessels" >}}
 
 The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 
@@ -22,6 +22,8 @@ In the last chapter, The Age of Capricorn, we learned that a group of scientific
 All of that happened during the Age of Capricorn which lasted from –21'810 to –19'650, one of the twelve precessional [World Ages]({{< relref "wiki/encyclopedia/world-age.md" >}})<sup>🔗</sup>. Another appellation of that period of time, that is known through the Biblical scriptures, is the First Day of Creation. The discovery and subsequent studies of that new exoplanetary world is indeed to be equated with what is being described in the first book of Genesis: _"And Elohim saw the light, that it was good."_
 
 As the planet Earth was deemed _good_, meaning it not only had all the elements necessary to bear new life, but was also favorable in a series of other, equally important aspects, the second phase begun. The Second Day of Creation is the sum of all events that happened subsequently during the Age of Sagittarius.
+
+{{< figure src="images/equinox_bc19650.png" caption="Fig. 2 - Vernal equinox in 19'650 BC" >}}
 
 ## Water world
 

@@ -13,9 +13,11 @@ weight: 230
 toc: true
 ---
 
-![Image](images/equinox_bc11010.png "Vernal equinox in 11010 BC")
+{{< figure src="images/elephant-biome.png" caption="Fig. 1 - Elephant walking the Earth" >}}
 
 The Age of Leo lasts from –11'010 to –8'850 and follows the Age of Virgo which lasted up to –11'010.
+
+{{< figure src="images/equinox_bc11010.png" caption="Fig. 2 - Vernal equinox in 11010 BC" >}}
 
 ## Animal kingdom
 

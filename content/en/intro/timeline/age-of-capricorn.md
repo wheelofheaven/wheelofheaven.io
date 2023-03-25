@@ -27,12 +27,12 @@ While the choice of starting the Timeline with the Age of Capricorn may seem arb
 
 ## Traces of truth
 
-The first book out of the three foundational works of [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})<sup>🔗</sup>, The Book Which Tells The Truth, starts out with [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})<sup>🔗</sup> giving an extensive exegetical interpretation of various passages of the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}})<sup>🔗</sup>. He introduces the Bible as a collection of sacred texts containing accounts of events that are considered to be truthful.
+The first book out of the three foundational works of [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})<sup>🔗</sup>, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, starts out with [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})<sup>🔗</sup> giving an extensive exegetical interpretation of various passages of the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}})<sup>🔗</sup>. He introduces the Bible as a collection of sacred texts containing accounts of events that are considered to be truthful.
 
-> Now I would like you to refer to the Bible where you will find traces of the [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})<sup>🔗</sup> about your past. These traces, of course, have been somewhat distorted by successive transcribers who could not conceive of such high technology and could therefore only explain what was described
+> Now I would like you to refer to the Bible where you will find traces of the truth about your past. These traces, of course, have been somewhat distorted by successive transcribers who could not conceive of such high technology and could therefore only explain what was described
 as being a mystical and supernatural force.
 
-Yahweh provides an interpretation of various Bible passages that reveal the truth about humanity's past, which has been distorted over time due to the lack of understanding of high technology by transcribers.
+Yahweh provides an interpretation of various Bible passages that reveal [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})<sup>🔗</sup> about humanity's past, which has been distorted over time due to the lack of understanding of high technology by transcribers.
 
 > Only the parts of the Bible that I will translate are important. Other parts are merely poetic babblings of which I will say nothing. I am sure you can appreciate that, thanks to the law, which said that the Bible had always to be re-copied without changing even the smallest detail, the deepest meaning has remained intact throughout the ages, even if the text has been larded with mystical and futile sentences.
 

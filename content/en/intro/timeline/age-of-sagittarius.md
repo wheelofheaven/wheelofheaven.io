@@ -25,7 +25,7 @@ As the planet Earth was deemed _good_, meaning it not only had all the elements 
 
 ## Water world
 
-In the first book out of the three foundational works of Raëlism, The Book Which Tells The Truth, Yahweh continues the exegetical interpretation of the Biblical verses.
+In the first book out of the three foundational works of Raëlism, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Yahweh continues the exegetical interpretation of the Biblical verses.
 
 >> And Elohim made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament.
 >> Genesis 1: 7.

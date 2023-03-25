@@ -35,7 +35,7 @@ Throughout his ministry, Jesus emphasized God's love and the importance of lovin
 
 ## In Raëlism 🔯
 
-Jesus is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of Jesus:
+Jesus is mentioned by Yahweh during their encounter with Raël. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of Jesus:
 
 > Christ's role was to spread the truth of the biblical scriptures throughout the world, so that they could serve as proof for all of humanity when the age of science would finally explain everything. The creators therefore decided to arrange for a child to be born of a woman of the Earth and one of their own people. The child in question would thereby inherit certain telepathic faculties, which humans lack:
 >

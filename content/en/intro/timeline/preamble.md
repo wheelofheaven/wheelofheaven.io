@@ -102,7 +102,7 @@ Nonetheless, the wealth of power generated from the benefits of genetical engine
 
 ## The Eternal
 
-At the end of the first book out of the three foundational works of Raëlism, The Book Which Tells The Truth, Yahweh reveals who he is and what makes him being the main representative of the Elohim:
+At the end of the first book out of the three foundational works of Raëlism, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Yahweh reveals who he is and what makes him being the main representative of the Elohim:
 
 > The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out. That is why I am the president of the eternals. I myself directed the creation of life on Earth.
 

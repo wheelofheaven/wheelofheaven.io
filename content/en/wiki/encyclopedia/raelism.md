@@ -23,7 +23,7 @@ While Raëlism has gained a significant following in some countries, it is consi
 
 ## Etymology
 
-As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
 
 > You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
 

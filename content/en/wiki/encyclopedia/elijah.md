@@ -27,7 +27,7 @@ The story of Elijah has had a lasting impact on Judaism, Christianity, and Islam
 
 ## In Raëlism 🔯
 
-Elijah is mentioned multiple times by Yahweh during their encounter with Raël. The following reference from Rael's first book, The Book Which Tells The Truth ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/3_watching_over_the_chosen_people.html#samson-the-telepathist), showcases the first mentioning of Elijah as follows:
+Elijah is mentioned multiple times by Yahweh during their encounter with Raël. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup> ([see here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/3_watching_over_the_chosen_people.html#samson-the-telepathist), showcases the first mentioning of Elijah as follows:
 
 > In Samuel, Chapter 3, we find Elijah initiating Samuel into telepathy. The creators wanted to contact Samuel, and he thinks that Elijah is speaking to him. He "hears voices":
 >

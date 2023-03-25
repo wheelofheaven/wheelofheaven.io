@@ -51,7 +51,7 @@ The metaphorical interpretation of these trees as sources of knowledge or wisdom
 
 ## In Raëlism 🔯
 
-According to the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), 2nd chapter, Genesis, Yahweh quotes the Bible passage and explains that the Tree of Knowledge of Good and Evil refers to books containing 'great scientific secrets':
+According to the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, 2nd chapter, Genesis, Yahweh quotes the Bible passage and explains that the Tree of Knowledge of Good and Evil refers to books containing 'great scientific secrets':
 
 > The human beings they created there were the most intelligent. So steps had to be taken to ensure that they did not surpass their creators. The created, therefore, had to be kept in ignorance of the great scientific secrets while being educated for the purpose of measuring their intelligence.
 >

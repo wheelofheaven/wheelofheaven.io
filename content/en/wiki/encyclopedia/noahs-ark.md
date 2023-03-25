@@ -25,7 +25,7 @@ The story of Noah's Ark is considered by many as a reminder of God's power and m
 
 ## In Raëlism 🔯
 
-Noah's Ark is mentioned by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of Noah's Ark:
+Noah's Ark is mentioned by Yahweh. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of Noah's Ark:
 
 > [...] However when the exiled creators were informed of the project they asked Noah to build a spaceship, which would orbit the Earth during the cataclysm containing a pair of each species that was to be preserved.
 >

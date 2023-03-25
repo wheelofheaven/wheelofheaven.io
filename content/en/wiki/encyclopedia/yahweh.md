@@ -37,7 +37,7 @@ The passage states that there is a residence on another planet where people from
 
 ### Yahweh, the Eternal
 
-In the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Raël gets to ask Yahweh a few questions about him and the Elohim in general:
+In the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Raël gets to ask Yahweh a few questions about him and the Elohim in general:
 
 > 'How old are the oldest ones?'
 >

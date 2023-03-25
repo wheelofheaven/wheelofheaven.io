@@ -21,7 +21,7 @@ The story of the Great Flood has been interpreted in various ways throughout his
 
 ## In Raëlism 🔯
 
-The Great Flood is mentioned by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of the Great Flood:
+The Great Flood is mentioned by Yahweh. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of the Great Flood:
 
 >> When the sons of Elohim came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 >>

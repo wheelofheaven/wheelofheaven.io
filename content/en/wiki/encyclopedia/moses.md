@@ -31,7 +31,7 @@ In the Septuagint, an ancient Greek translation of the Hebrew Bible, Moses' name
 
 ## In Raëlism 🔯
 
-In the third Chapter of [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), Watching Over the Chosen People, Yahweh contextualized the need for a new prophet:
+In the third Chapter of [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Watching Over the Chosen People, Yahweh contextualized the need for a new prophet:
 
 > Because of the destruction of centers of progress such as Sodom and Gomorrah and the elimination of the most intelligent individuals, human beings had lapsed back into a very primitive state and had begun, rather stupidly, to adore pieces of stone and idols, forgetting those who had really created them:
 >

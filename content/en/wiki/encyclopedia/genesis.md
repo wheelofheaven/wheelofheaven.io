@@ -51,7 +51,7 @@ Thus "yom", in its context, is sometimes translated as: "time" (Gen 4:3, Is. 30:
 
 ## In Raëlism 🔯
 
-Raël's book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}}), offers a unique interpretation of the Book of Genesis that is based on the idea that the biblical story was transmitted to humanity by extraterrestrial beings known as the Elohim. According to Raël, the Elohim are the creators of life on Earth, and they've been visiting our planet for thousands of years.
+Raël's book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, offers a unique interpretation of the Book of Genesis that is based on the idea that the biblical story was transmitted to humanity by extraterrestrial beings known as the Elohim. According to Raël, the Elohim are the creators of life on Earth, and they've been visiting our planet for thousands of years.
 
 In the eponymous chapter [Genesis](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis), Yahweh as the main narrator elaborates a very important commentary upon which the whole of idea of the Creation Days not being mere days, but precessional Ages, is predicated on:
 

@@ -25,7 +25,7 @@ On for Adam's companion Eve, the etymology of the name "Eve" is as already menti
 
 ## In Raëlism 🔯
 
-Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael's first book, The Book Which Tells The Truth, showcases the mentioning of them:
+Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of them:
 
 >> And Yahweh Elohim said unto the serpent, 'Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.'
 >>

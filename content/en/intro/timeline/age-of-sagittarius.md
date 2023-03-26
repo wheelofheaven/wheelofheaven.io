@@ -73,7 +73,7 @@ If we assume that a single massive supercontinent were to be raised from the sha
 
 That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities.
 
-{{< figure src="images/barren-lands-outpost.png" caption="Fig. 2 - Earth-shaping through controlled explosions" >}}
+{{< figure src="images/barren-lands-outpost.png" caption="Fig. 3 - Research installation on barren dry soil" >}}
 
 [^6]: Pangaea, derived from Ancient Greek pan (πᾶν, "all, entire, whole") and Gaia or Gaea (Γαῖα, "Mother Earth, land"), was a giant landmass that supposedly existed on Earth over 300 million years ago, during the Paleozoic and Mesozoic eras. See here more fore: [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)<sup>🔗</sup>
 

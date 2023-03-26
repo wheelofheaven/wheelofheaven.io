@@ -22,3 +22,5 @@ The Raëlian messages, which are considered to be congruent and coherent, presen
 As humanity continues to develop its scientific understanding and technological capabilities, the Raëlian hypothesis suggests that we are approaching a significant turning point in our development. This involves humans becoming an interstellar civilization capable of traveling across the cosmos and seeding life on other planets. In this way, humanity would be carrying on the legacy of the Elohim and participating in a cosmic cycle of creation and propagation of life.
 
 This transformative process mirrors the events described in the Genesis creation story, where life is brought forth on a previously barren planet. Under this scenario, humans would take on the role of the Elohim, using advanced technologies and genetic engineering to create new life forms on distant worlds. This cosmic endeavor would not only represent a significant milestone in humanity's progress but also perpetuate the cycle of life throughout the universe.
+
+{{< figure src="images/above-the-clouds-structure.png" caption="Fig. 1 - Celestial structure above the clouds" >}}

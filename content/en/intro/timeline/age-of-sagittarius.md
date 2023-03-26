@@ -13,7 +13,6 @@ weight: 210
 toc: true
 ---
 
-
 The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 
 In the last chapter, The Age of Capricorn, we learned that a group of scientifically inclined spacefaring pioneers managed to find an exoplanet that provided all elements necessary to produce artifical life, including water. The planet they've found was covered in water and mist, and didn't harbour any life at the moment of its discovery. They went on to build a network of artifical satellites to study the planet. They themselves were orbiting the planet in a what we would call a space station while studying and evaluating the data they were gathering while doing so. Eventually, the data started to become clear in answering the question whether or not the planet would be able to support life and they decided to go on with their work.

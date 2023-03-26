@@ -13,13 +13,13 @@ weight: 110
 toc: true
 ---
 
-![Image](images/moodscape_01.jpg "moodscape_01")
-
 If you've just stumbled upon the Introduction section of this website, you might be wondering what exactly Wheel of Heaven is all about. At its core, Wheel of Heaven is a web-based knowledge repository that explores the hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization with the capability of interstellar travel.
 
 In simple terms, this site suggests that the origins of sentient life on Earth cannot be solely attributed to chance or the chaos of nature, but instead have a deliberate purpose that is encoded in ancient scriptures and artifacts, as well as being preserved in religious traditions.
 
 At Wheel of Heaven, we aim to not only promote this hypothesis, but also invite all visitors to engage in a fascinating and inquisitive exploration of the possibilities presented. Everyone is welcome to consider the premises laid out on the site and contribute their own thoughts and ideas, helping to expand and enrich the narrative.
+
+{{< figure src="images/spacecraft-in-orbit.png" caption="Fig. 1 - Spacecraft in orbit" >}}
 
 ## What you will find
 

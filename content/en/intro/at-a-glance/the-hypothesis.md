@@ -13,8 +13,6 @@ weight: 140
 toc: true
 ---
 
-![Image](images/moodscape_03.jpg "moodscape_03")
-
 The hypothesis presented in here at Wheel of Heaven is deeply influenced by the Raëlian revelations, as it embraces the core message of the Elohim's role in creating life on Earth. By considering the Raëlian messages to be authentic, Wheel of Heaven proposes a more nuanced understanding of the Raëlian messages and their implications within the context of our rapidly evolving world.
 
 In the canon of the Raëlian messages, the Elohim are an advanced extraterrestrial civilization responsible for creating life on Earth. According to this belief, the creation process occurred within a precessional cycle of less than 26,000 years, a relatively short time frame compared to the Earth's geological history.

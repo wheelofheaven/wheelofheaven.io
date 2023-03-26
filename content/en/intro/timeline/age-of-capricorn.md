@@ -13,7 +13,6 @@ weight: 205
 toc: true
 ---
 
-{{< figure src="images/orbital-outpost.png" caption="Fig. 1 - Orbital outpost" >}}
 
 We start off with the Age of Capricorn first. The Age of Capricorn is the first precessional Month in the Great Year cycle. With the nominal period of 25'920 years for the [precessional Year]({{< relref "wiki/encyclopedia/great-year.md" >}})<sup>🔗</sup>, the duration of one [precessional Month]({{< relref "wiki/encyclopedia/great-month.md" >}})<sup>🔗</sup> is 2'190 years. During this period, the rising Sun on the Vernal Equinox is aligned with the Capricorn constellation in the ecliptic.
 
@@ -23,7 +22,7 @@ To put it simply, the 25,920-year cycle is divided into 12 segments, each with a
 
 While the choice of starting the Timeline with the Age of Capricorn may seem arbitrary, the reasons behind this decision are elaborated in the previous chapter, [Preamble # Once upon a time]({{< relref "intro/timeline/preamble.md#once-upon-a-time" >}})<sup>🔗</sup>. In the previous chapter, we also learned that right at the onset of the Capricornian Age, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})<sup>🔗</sup>, an extraterrestrial civilization, arrived on Earth. Motivated by a tragic incident involving the escape of one of their genetic experiments, which resulted in the loss of Elohimian lifes and the cessation of that branch of research on their home planet, the Elohim sought new interstellar frontiers. Pursuing interplanetary and interstellar exploration, the researchers eventually chose Earth, an exoplanet, as their frontier for genetic research.
 
-{{< figure src="images/equinox_bc21810.png" caption="Fig. 2 - Vernal equinox in 21'810 BC" >}}
+{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Vernal equinox in 21'810 BC" >}}
 
 ## Traces of truth
 
@@ -50,7 +49,7 @@ The Book of Genesis is the first book of the Hebrew Bible and the Christian Old 
 
 > So let us start with the first chapter of the Book of Genesis:
 >
->> In the beginning Elohim<sup>1</sup>created the heaven and the earth.
+>> In the beginning Elohim<sup>1</sup> created the heaven and the earth.
 >> Genesis 1: 1.
 >
 > Elohim, translated without justification in some Bibles by the word God means in Hebrew “those who came from the sky”, and furthermore the word is a plural. It means that the scientists from our world searched for a planet that was suitable to carry out their projects. [...]
@@ -86,6 +85,8 @@ Second, the artificial satellites that were placed around the Earth were likely 
 
 Another interesting hint here is what is being said about the state of planet Earth at that moment in time: completely covered in water and thick mist. Planet Earth was indeed a blue planet through and through. The presence of water would have been critical for creating the necessary conditions for life to thrive.
 
+{{< figure src="images/blue-planet-surface.png" caption="Fig. 2 - Blue planet surface" >}}
+
 ## Solar radiation
 
 Not only the Earth, but also another important neighbouring celestial body had to be investigated properly: the Sun. The sun is the star at the center of the solar system and is the primary source of energy for the Earth. The Earth orbits the sun, which means it travels around the sun in a regular and predictable path. The sun's gravitational pull keeps the Earth in orbit and also causes the tides on Earth's oceans.
@@ -102,6 +103,8 @@ Yahweh explains that this means that in order to create life on Earth, it was im
 The sun emits various types of electromagnetic radiation, including ultraviolet (UV) rays, X-rays, and gamma rays, that can be harmful to living organisms. These types of radiation can cause damage to DNA and other molecules, which can lead to mutations or cell death. This would involve studying the effects of different types of radiation emitted by the sun on living organisms. Scientists would use various instruments and methods to measure the intensity and wavelength of radiation reaching the Earth's surface, as well as how it interacts with the Earth's atmosphere and other environmental factors.
 
 Eventually, the sun's output was considered to be acceptable, "the light was good", and the investigations continued.
+
+{{< figure src="images/orbital-outpost.png" caption="Fig. 3 - Orbital outpost" >}}
 
 ## First day of creation
 

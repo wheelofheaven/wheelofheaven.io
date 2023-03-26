@@ -13,7 +13,6 @@ weight: 204
 toc: true
 ---
 
-{{< figure src="images/saurian-experiments.png" caption="Fig. 1 - Illustration of synthetic life" >}}
 
 The timeline begins some time before around –22'000, right at the doorstep to the Age of Capricorn. What preceeds the Age of Capricorn is an Age of Aquarius of the preceeding Great Year. Before we get started with the first precessional Great Month, the Capricornian World Age, it is worth examining what led up to it. To illustrate what happened, we can take inspiration from a classic of the American film industry, Jurassic Park.
 
@@ -26,6 +25,8 @@ However, things go wrong when the dinosaurs break free and create chaos, but the
 Here's the connection: According to the [Wheel of Heaven hypothesis]({{< relref "intro/at-a-glance/the-hypothesis.md" >}})<sup>🔗</sup>, based on the revelations made by Yahweh to Raël, what happened at the onset of the Age of Capricorn could have been taken straight from the pages of Jurassic Park: In this scenario, a group of visionary scientists create a new and potentially dangerous species through genetic engineering, which ultimately leads to a catastrophic outcome and endangers their research.
 
 [^1]: Jurassic Park is a movie that was directed by Steven Spielberg, but it is actually based on a novel of the same name by Michael Crichton. The book was first published in 1990, and it tells the story of a theme park that is populated by genetically engineered dinosaurs. The book explores the ethical and scientific implications of genetic engineering, as well as the dangers of playing with nature. The movie adaptation of "Jurassic Park" was released in 1993, and it was a huge success. The film brought the story of the novel to a wider audience and introduced many people to the concept of genetically engineered dinosaurs. While the movie adaptation of Jurassic Park differs in some ways from the novel, it stays true to the book's themes and explores many of the same ethical and scientific issues. See here for more: [Jurassic Park (novel) | Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))<sup>🔗</sup>
+
+{{< figure src="images/saurian-experiments.png" caption="Fig. 1 - Genetic lab experiment gone wrong" >}}
 
 ## Once upon a time
 
@@ -92,6 +93,8 @@ Earth, a barren but material planet devoid of life proved to be the frontier the
 [^7]: De novo gene synthesis is a process where a DNA sequence is artificially created from scratch, without the need for an existing DNA template. Essentially, it is like writing a new genetic code from scratch. See more: [De novo synthesis](https://en.wikipedia.org/wiki/De_novo_synthesis)<sup>🔗</sup>
 [^8]: In the movie Jurassic World (2015), the idea of space travel is briefly mentioned as a competing business of dinosaur theme parks. The movie is set about 22 years after the events of the original Jurassic Park, and it depicts a fully operational dinosaur theme park called Jurassic World. The character who suggests the space-themed ride notes that people are now more interested in space travel than in seeing dinosaurs. This idea reflects the changing interests and priorities of society over time.
 
+{{< figure src="images/archaic-blue-planet.png" caption="Fig. 2 - Archaic blue planet" >}}
+
 ## The economy of science
 
 We already pointed out that is reasonable to assume that the Elohimian civilization during that stage of development was likely to still be governed by an economical system predicated on the scarcity of resources and of energy where a credit system must have been in place allocating productive means to those best suited for the job. Also, we know that the public opinion which was responsible for halting the experimental research of genetic engineering had shown enough influence to sway legislative and most likely executive power in their favour. Some sort ofpolitical system with a republic component, where the _Rēs pūblica_, the matter of the people is considered, can also be assumed.
@@ -105,6 +108,8 @@ If we extend these principles not only to machine code that is run on digital co
 The coalition of enterprises that were responsible for the embetterment of life's condition for everybody that was willing to consume and able to afford their products, the confluence of knowledge and power must have been noteworthy to say the least. The circumstance that the legacy of whoever made the progress of genetic engineering possible also is also the foundations of what lead to the creation of synthetic monster that broke free and caused havoc must have been even more noteworthy and likely to be highly polemical in their days.
 
 Nonetheless, the wealth of power generated from the benefits of genetical engineering most likely have had a direct impact on how the Elohimian civilization was funding and allocating resources to the cause of space exploration. The affinity shared by both causes is strongly conducive to the idea that similar agents, to not say individuals, must have contributed to both the these causes.
+
+{{< figure src="images/futuristic-city-with-tower.png" caption="Fig. 3 - Advanced civilizatory urban landscape" >}}
 
 ## The Eternal
 

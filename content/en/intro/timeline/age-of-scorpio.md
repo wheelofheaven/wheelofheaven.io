@@ -13,7 +13,6 @@ weight: 215
 toc: true
 ---
 
-{{< figure src="images/geodesic-structures.png" caption="Fig. 1 - Illustration of geodesic structures" >}}
 
 The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.
 
@@ -54,6 +53,8 @@ It's also possible that a sophisticated extraterrestrial civilization might empl
 
 As for now, we must satisfy ourselves with mere speculations as we cannot fathom what incredible knowledge and technologies these early Elohimian scientists must have wielded to synthetize new life forms.
 
+{{< figure src="images/genetic-research-lab.png" caption="Fig. 2 - Geodesic research structures on grassland" >}}
+
 ## Intelligent Design
 
 Not only can this process be considered _directed abiogenesis_, but is also a subtype of Intelligent Design. Intelligent Design is a concept that argues that certain features of the natural world are best explained by the intervention of an intelligent designer or creator, rather than through natural processes such as evolution. Proponents of Intelligent Design argue that there are certain biological structures and systems that are too complex to have evolved through natural selection and therefore must have been designed by a higher power.
@@ -63,6 +64,8 @@ Intelligent Design argues that certain features of the natural world, such as th
 For instance, the intelligent agent is often considered a type of coder as biological life is thought to feature an information layer that is considered unaccounted for by more popular explanations such as evolution. DNA is often compared to computer programs because both are systems of information storage and processing that rely on a digital code. DNA is a long, linear molecule that consists of a sequence of nucleotides, which are the building blocks of the genetic code. The sequence of nucleotides in DNA encodes information that directs the development, function, and behavior of living organisms. Computer programs, similarly, are a set of instructions written in a digital language that directs the function of a computer. Computer programs consist of a series of code that is stored in binary form, consisting of 0s and 1s that represent the basic building blocks of digital information. Both DNA and computer programs rely on a digital code, where the sequence of individual units (nucleotides or binary digits) determines the overall function and behavior of the system. In the case of DNA, the sequence of nucleotides determines the sequence of amino acids that make up proteins, which in turn determine the structure and function of cells and tissues in the body.
 
 Intelligent Design is often associated with creationism, which is the belief that the Earth and all living things were created by a divine entity, as described in religious texts. Most Intelligent Design proponents have a Christian background and therefore equate the Designer to besame as the Creator God of the Christian exegesis of the Bible. While the process of creating synthetic life involves deliberate design and engineering, it is based on natural principles and the laws of physics and chemistry however. The goal of synthetic life engineering is to understand and replicate the natural processes that underlie life, rather than to invoke any kind of supernatural or religious explanation for the origin of life.
+
+{{< figure src="images/geodesic-structures.png" caption="Fig. 3 - Geodesic research structures on grassland" >}}
 
 ## Game of Life
 
@@ -77,6 +80,8 @@ As Yahweh's explanation doesn't provide specific details about the different cli
 Each of these climates would present unique challenges and opportunities for the extraterrestrial scientists in terms of the types of plants they could create and the adaptations required for those plants to survive in their respective environments. In a desert climate, for example, the plants may need to be adapted to conserve water and tolerate high temperatures, while in a rainforest climate they may need to be adapted to compete with other plant species for resources such as sunlight and water. In a polar climate, where temperatures are consistently below freezing, the scientists may need to create plants that can tolerate extreme cold and snow. These plants may need to be adapted to conserve energy during long periods of darkness and to withstand strong winds. In a tropical climate, where temperatures are consistently warm and rainfall is abundant, the scientists may need to create plants that can grow quickly and compete for resources such as sunlight and water. These plants may also need to be adapted to resist pests and diseases that thrive in humid conditions. In a mountainous climate, where temperatures can vary widely depending on altitude, the scientists may need to create plants that can tolerate extreme temperature fluctuations and low oxygen levels at high elevations. These plants may also need to be adapted to rocky terrain and steep slopes. In a coastal climate, where saltwater spray and high winds can be common, the scientists may need to create plants that can tolerate salt and moisture. These plants may need to be adapted to sandy soils and to resist damage from high winds and storms.
 
 In other words, the specific characteristics of the different climates would require the Elohimian scientists to create plants with a wide range of adaptations and traits, based on the specific challenges and opportunities presented by each environment.
+
+{{< figure src="images/primordial-jungle.png" caption="Fig. 4 - Primordial jungle featuring a researcher" >}}
 
 ## Third day of creation
 

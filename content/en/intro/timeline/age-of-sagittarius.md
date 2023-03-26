@@ -13,7 +13,6 @@ weight: 210
 toc: true
 ---
 
-{{< figure src="images/blue-planet-mist.png" caption="Fig. 1 - Research vessels" >}}
 
 The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 
@@ -23,7 +22,7 @@ All of that happened during the Age of Capricorn which lasted from –21'810 to 
 
 As the planet Earth was deemed _good_, meaning it not only had all the elements necessary to bear new life, but was also favorable in a series of other, equally important aspects, the second phase begun. The Second Day of Creation is the sum of all events that happened subsequently during the Age of Sagittarius.
 
-{{< figure src="images/equinox_bc19650.png" caption="Fig. 2 - Vernal equinox in 19'650 BC" >}}
+{{< figure src="images/equinox_bc19650.png" caption="Fig. 1 - Vernal equinox in 19'650 BC" >}}
 
 ## Water world
 
@@ -35,6 +34,8 @@ In the first book out of the three foundational works of Raëlism, [The Book Whi
 > After studying the cosmic rays above the clouds the scientists descended below the clouds but stayed above the waters. That means they were between the clouds, “the waters which were above the firmament”, and the ocean covering the whole planet, “the waters which were under the firmament”.
 
 According to Yahweh's explanation, this excerpt describes how the scientifical pioneers went on to study cosmic rays above the clouds, and then went below the clouds but remained above the ocean. This literally means they were between the "waters above the firmament" (the clouds) and the "waters below the firmament" (the ocean).
+
+{{< figure src="images/blue-planet-mist.png" caption="Fig. 2 - Research vessel in cloud formations" >}}
 
 ## Terraforming Earth
 
@@ -55,6 +56,8 @@ Isn't that exactly what supposedly happened initially here on Earth? In this spe
 
 Such a process would have significant impacts on the topological constitution of the planet and would require careful consideration and planning to minimize undesired long-term or latent side effects. Also, the feasibility of such a process would depend on a number of factors, including the depth and composition of the ocean floor, the availability of suitable materials for land formation, and the technical and logistical challenges of executing such a large-scale project. This must have really been a project of gigantic proportions.
 
+{{< figure src="images/terraforming-explosions.png" caption="Fig. 2 - Earth-shaping through controlled explosions" >}}
+
 [^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)<sup>🔗</sup>
 [^2]: Terraforming or terraformation, literally meaning "Earth-shaping", is the process of altering the topography or geology of another planet or moon. It usually also includes the modification of atmosphere or temperature to make an initially inhospitable planet habitable. See here for more: [Terraforming | Wikipedia](https://en.wikipedia.org/wiki/Terraforming)<sup>🔗</sup>
 [^3]: Terraforming Mars refers to the theoretical process of transforming the Martian environment to make it more hospitable and habitable for human life. The goal of terraforming Mars is to create an environment that is similar enough to Earth that humans could live there without the need for protective equipment or artificial habitats. See here for more: [Terraforming of Mars | Wikipedia](https://en.wikipedia.org/wiki/Terraforming_of_Mars)<sup>🔗</sup>
@@ -71,6 +74,8 @@ If we assume that a single massive supercontinent were to be raised from the sha
 
 That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities.
 
+{{< figure src="images/barren-lands-outpost.png" caption="Fig. 2 - Earth-shaping through controlled explosions" >}}
+
 [^6]: Pangaea, derived from Ancient Greek pan (πᾶν, "all, entire, whole") and Gaia or Gaea (Γαῖα, "Mother Earth, land"), was a giant landmass that supposedly existed on Earth over 300 million years ago, during the Paleozoic and Mesozoic eras. See here more fore: [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)<sup>🔗</sup>
 
 [^7]: The existence of the supercontinent Pangaea is based on evidence from geology, including the distribution of fossils, rocks, and mountain ranges on different continents. The theory of plate tectonics explains how the movement of the Earth's plates caused Pangaea to break apart and its continents to drift apart. The estimated age of this remote supercontinent Pangaea is a product of assuming the so-called Uniformitarianism because the theory of plate tectonics and the concept of Pangaea are fundamental to the Uniformitarian Doctrine. This doctrine assumes that the processes and natural laws that operate in the present have operated in the same way throughout the history of the Earth. See here for more: [Uniformitarian Principle | Wikipedia](https://en.wikipedia.org/wiki/Uniformitarianism)<sup>🔗</sup>
@@ -78,3 +83,5 @@ That said, it's possible that the creation of a large landmass from the ocean fl
 ## Second day of creation
 
 As mentioned earlier, The Age of Sagittarius equals to the Second Day of Creation.
+
+## A quick recap

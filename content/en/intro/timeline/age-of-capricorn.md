@@ -62,6 +62,8 @@ These extraterrestrial people who discovered the Earth recognized that it contai
 
 The fact that the Earth had a different atmosphere[^5] than the home planet of these scientists is significant because it suggests that these extraterrestrial beings were unable to adapt themselves biologically to different environments and had to consider to create life that was compatible with Earth's atmospheric conditions. The fact that the Earth had a different atmosphere than the scientists' home planet adds to the idea that the creation of life on Earth was a deliberate and highly planned process.
 
+{{< figure src="images/interstellar-space-travel.png" caption="Fig. 2 - Interstellar space travel" >}}
+
 [^1]: The word "God" has its roots in Germanic paganism and Old English, where the term "god" referred to a deity or supreme being. The Germanic word "gudan" meant "to invoke," and the Old English word "god" likely developed from this root. The word "God" is also related to the Latin word "Deus," which means "god" or "deity." This Latin word has its roots in the Proto-Indo-European word "dyeus". The divine name Dyēus derives from the stem dyeu-, denoting the "diurnal sky" or the "brightness of the day" (in contrast to the darkness of the night), ultimately from the root *di or dei- ("to shine, be bright").
 [^2]: The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl. Elohim itself is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning “sky.” The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as “power.” The Sumerogram 𒀭, meaning “sky,” provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
 [^3]: In Hebrew, the suffix "-im" is often used to form the plural tense of masculine nouns. For example, the word "sefer" (סֵפֶר), which means "book" in the singular form, becomes "sfarim" (סְפָרִים) in the plural form. Similarly, the word "chatul" (חָתוּל), which means "cat" in the singular form, becomes "chatulim" (חֲתוּלִים) in the plural form. The word Elohim is usually translated as God in English, but it is important to note that it is clearly plural noun in Hebrew. While some scholars like to argue that the plural form of Elohim is a plural of majesty or honor, the undoubtedly clear plural form reflects the ancient Hebrew belief in a pantheon of higher beings.
@@ -85,7 +87,7 @@ Second, the artificial satellites that were placed around the Earth were likely 
 
 Another interesting hint here is what is being said about the state of planet Earth at that moment in time: completely covered in water and thick mist. Planet Earth was indeed a blue planet through and through. The presence of water would have been critical for creating the necessary conditions for life to thrive.
 
-{{< figure src="images/blue-planet-surface.png" caption="Fig. 2 - Blue planet surface" >}}
+{{< figure src="images/blue-planet-surface.png" caption="Fig. 3 - Blue planet surface" >}}
 
 ## Solar radiation
 
@@ -104,7 +106,7 @@ The sun emits various types of electromagnetic radiation, including ultraviolet 
 
 Eventually, the sun's output was considered to be acceptable, "the light was good", and the investigations continued.
 
-{{< figure src="images/orbital-outpost.png" caption="Fig. 3 - Orbital outpost" >}}
+{{< figure src="images/orbital-outpost.png" caption="Fig. 4 - Orbital outpost" >}}
 
 ## First day of creation
 

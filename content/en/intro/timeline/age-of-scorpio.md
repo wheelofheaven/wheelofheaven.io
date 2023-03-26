@@ -13,7 +13,6 @@ weight: 215
 toc: true
 ---
 
-
 The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.
 
 In the last chapter, The Age of Sagittarius, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. The whole planet was covered in water, so they went on to build new outposts on the surface these oceans and kept studying and surveying the constitution of this new planet, especially its ocean and the bottom of it. Eventually, they realized they could terraform a dry land mass by piling up matter from the bottom of the ocean in one place. A single gigantic land mass emerged through the terraformation.
@@ -22,7 +21,7 @@ All of that happened during the Age of Sagittarius which lasted from –19'650 t
 
 With the newly terraformed supercontinent, the Elohimian scientists could land on firm soil and build permanent structures; the third phase could begin. The Third Day of Creation is the sum of all events that happened subsequently during the Age of Scorpio.
 
-{{< figure src="images/equinox_bc17490.png" caption="Fig. 2 - Vernal equinox in 17'490 BC" >}}
+{{< figure src="images/equinox_bc17490.png" caption="Fig. 1 - Vernal equinox in 17'490 BC" >}}
 
 ## Directed abiogenesis
 
@@ -53,7 +52,7 @@ It's also possible that a sophisticated extraterrestrial civilization might empl
 
 As for now, we must satisfy ourselves with mere speculations as we cannot fathom what incredible knowledge and technologies these early Elohimian scientists must have wielded to synthetize new life forms.
 
-{{< figure src="images/genetic-research-lab.png" caption="Fig. 2 - Geodesic research structures on grassland" >}}
+{{< figure src="images/genetic-research-lab.png" caption="Fig. 2 - Genetic research lab with water supplies" >}}
 
 ## Intelligent Design
 

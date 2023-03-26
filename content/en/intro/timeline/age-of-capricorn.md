@@ -22,7 +22,7 @@ To put it simply, the 25,920-year cycle is divided into 12 segments, each with a
 
 While the choice of starting the Timeline with the Age of Capricorn may seem arbitrary, the reasons behind this decision are elaborated in the previous chapter, [Preamble # Once upon a time]({{< relref "intro/timeline/preamble.md#once-upon-a-time" >}})<sup>🔗</sup>. In the previous chapter, we also learned that right at the onset of the Capricornian Age, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})<sup>🔗</sup>, an extraterrestrial civilization, arrived on Earth. Motivated by a tragic incident involving the escape of one of their genetic experiments, which resulted in the loss of Elohimian lifes and the cessation of that branch of research on their home planet, the Elohim sought new interstellar frontiers. Pursuing interplanetary and interstellar exploration, the researchers eventually chose Earth, an exoplanet, as their frontier for genetic research.
 
-{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Vernal equinox in 21'810 BC" >}}
+{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Vernal equinox in 21'810 BC as seen from Earth's surface" >}}
 
 ## Traces of truth
 

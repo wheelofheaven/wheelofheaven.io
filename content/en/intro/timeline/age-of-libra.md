@@ -13,7 +13,6 @@ weight: 220
 toc: true
 ---
 
-{{< figure src="images/geodesic-instruments.png" caption="Fig. 2 - Astronomical measurement installation" >}}
 
 In the last chapter, The Age of Scorpio, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. As soon as they managed to terraform a new barren continental land mass out of the bottom of the oceans, they went on to synthetize plant life. This plant life was engineered from nothing else but chemical base elements. It didn't take them long to cover the new supercontinent with grass, saplings, shrubs and other greeneries. The engineers were joined by artists and formed various research groups that each focused on a different region of this supercontinent to diversify and sophisticate further the newly created flora.
 
@@ -21,7 +20,7 @@ All of that happened during the Age of Scorpio which lasted from –17'490 to �
 
 With the research groups having split up and while exploring the prospective creative possibilities of having a whole planet to themselves, the Elohimian scientists had all the freedom in their hands to fully take advantage of their situation. Earth was a sandbox environment of engineering, research and artistic expression. It was time to settle further and better understand the environment they were in; the fourth phase could begin. The Fourth Day of Creation is the sum of all events that happened subsequently during the Age of Libra.
 
-{{< figure src="images/equinox_bc15330.png" caption="Fig. 2 - Vernal equinox in 15'330 BC" >}}
+{{< figure src="images/equinox_bc15330.png" caption="Fig. 1 - Vernal equinox in 15'330 BC" >}}
 
 The Age of Libra lasts from –15'330 to –13'170 and follows the Age of Scorpio which lasted up to –15'330.
 
@@ -44,6 +43,8 @@ The Elohimian planet could orbit a star different from our Sun, such as a red dw
 
 These differences would affect the way the Elohimian scientists perceive and measure time, as well as their understanding of astronomy and celestial events. Adapting to Earth's unique cycles and celestial phenomena would be crucial for their successful integration and navigation on our planet.
 
+{{< figure src="images/oceanside-geodesy-station.png" caption="Fig. 2 - Geodetic installation by the ocean" >}}
+
 ## Adaptation
 
 The new Earthly planet could offer a range of different possibilities. We learned in the previous chapter how new plant life was created ex-nihilo from base elements, the Elohimian scientists would face a unique opportunity to design and shape the planet's ecosystems from scratch. This would allow them to build a completely new biosphere, with a careful balance of plants, fungi and other small life forms such as insects and worms, that could thrive in Earth's specific environmental conditions.
@@ -63,6 +64,8 @@ By studying the movements of celestial bodies, scientists could also gain insigh
 Precise location information, derived from astronomical observations, would allow scientists to map out the different biomes and habitats present on Earth. This knowledge would enable them to engineer plant species that are specifically adapted to the unique environmental conditions of each biome, such as temperature, precipitation, and soil composition.
 
 Monitoring the sky could also help scientists predict and prepare for natural disasters, such as volcanic eruptions, earthquakes, or meteor impacts, which could significantly affect the survival of the engineered plant life. By understanding the potential risks and incorporating resilience strategies into the design of the plants, they could increase the likelihood of their successful establishment and long-term survival on the new Earthly planet.
+
+{{< figure src="images/primordial-nature-two-researchers.png" caption="Fig. 3 - Primordial botany featuring two researchers" >}}
 
 ## Earth in motion
 
@@ -93,6 +96,8 @@ In addition to these cycles, the Moon's orbit around Earth gives rise to several
 Another lunar cycle is the lunar nodal cycle, which lasts about 18.6 years. This cycle affects the angle of the Moon's orbit relative to Earth's equator, influencing the occurrence of solar and lunar eclipses. When the nodes of the Moon's orbit align with the Sun, eclipses can occur.
 
 These astronomical cycles are crucial in shaping the Earth's climate, ecosystems, and the behavior of living organisms. Understanding these cycles allows us to predict and prepare for various natural events, as well as to better comprehend the complex interactions that occur on our planet.
+
+{{< figure src="images/orbital-geodesy-satellite.png" caption="Fig. 4 - Geodetic satellite in orbit" >}}
 
 ### Precession
 

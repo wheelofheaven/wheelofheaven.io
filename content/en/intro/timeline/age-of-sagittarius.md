@@ -81,6 +81,16 @@ That said, it's possible that the creation of a large landmass from the ocean fl
 
 ## Second day of creation
 
-As mentioned earlier, The Age of Sagittarius equals to the Second Day of Creation.
+As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Second Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent too a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
+
+While the transition from one task to the other task may be seen as continuous, what matters is to be able to locate a given event, such as the terraformation of a supercontinent, in a frame of time that accounts for long periods of time. The Sagittarian World Age during which the events happened as stated earlier lasted therefore, as any other World Age for that matter, 2'160 years.
 
 ## A quick recap
+
+The Age of Sagittarius is one of the twelve World Ages and lasted from from –19'650 to up –17'490 and took, as each World Age, 2'160 years to complete. It is considered the second World Age out of the twelve World Ages. This second World Age corresponds to the Second Day of Creation famously mentioned in the Biblical book of Genesis. It was during the Age of Sagittarius that a non-terrestrial civilization that has arrived to Earth a while ago and started to investigate the planet for its ability to sustain life. At some point during their investigations, which showed that the planet Earth indeed predisposed to harbour life, these scientists decided to settle on its grounds. For it lacked any dry ground to land on, they single-handedly they proceeded to terraform such a continent out of the oceans' seabed.
+
+These investigations were considerable in their scope and included extensive probings and examinations of geology, oceonography, and atmospheric sciences, as well an in-depth study of the Sun's impact on Earth. Besides for their purely scientific value, the outcome of these investigations constituted an important data set for the final verdict. The final verdict of whether not the planet could be used as an experimental laboratory for life creational purposes. As we know today, Earth is teeming with life, so we're safe to conclude that the verdict ended up in favour of keeping the outpost and its research endeavours going.
+
+The arrival of this space-faring civilization and their subsequent extensive review of the planet is remembered as the First Day of Creation in Genesis. "Let there be light" doesn't refer to the creation of the cosmos or celestial objects, but the planet got discovered and investigated by a number of curious and adventurous cosmonauts.
+
+After the Age of Sagittarius (from –19'650 to –17'490) comes the Age of Scorpio (from –17'490 to –15'330). After the Capricornian First Day of Creation, the Age of Sagittarius corresponds to the Second Day of Creation, the following Age of Scorpio evidently equates to the Third Day of Creation.

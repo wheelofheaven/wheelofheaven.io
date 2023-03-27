@@ -84,4 +84,6 @@ In other words, the specific characteristics of the different climates would req
 
 ## Third day of creation
 
+As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Third Day of Creation.
+
 ## A quick recap

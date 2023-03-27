@@ -17,7 +17,7 @@ Considering the hypothesis outlined in the previous chapter, it becomes evident 
 
 While we are aware that some may accuse us of selectively choosing facts and misinterpreting speculative conclusions, we strive to be honest and transparent in our presentation of the foundations of this narrative. We believe that the emerging picture will speak for itself once fully realized.
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Fig. 1 - Monolithic structure covered in snow" >}}
+{{< figure src="images/monolithic-base-in-snow.png" caption="Ill. 1 - Monolithic structure covered in snow" >}}
 
 ## The four pillars
 

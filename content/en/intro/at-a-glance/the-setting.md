@@ -15,7 +15,7 @@ toc: true
 
 If you have made it this far, it is clear that you are seeking to understand the reason for the existence of this website. We are thrilled to embark on this thought-provoking journey with you, one that may be life-altering or at the very least, provide a newfound appreciation for expanding your mind. Get ready for an adventure that takes us from the foundations of civilization, through the beginning of history and up to present day, focusing on the most crucial events that have shaped our world. As with all grand narratives, let us broaden our perspective and establish some assumptions and considerations upon which our hypothesis is based. Buckle up, you're in for a ride!
 
-{{< figure src="images/ancient-monuments-sunset.png" caption="Fig. 1 - Ancient monuments in sunset light" >}}
+{{< figure src="images/ancient-monuments-sunset.png" caption="Ill. 1 - Ancient monuments in sunset light" >}}
 
 ## Opening considerations
 

@@ -34,7 +34,7 @@ In the first book out of the three foundational works of Raëlism, [The Book Whi
 
 According to Yahweh's explanation, this excerpt describes how the scientifical pioneers went on to study cosmic rays above the clouds, and then went below the clouds but remained above the ocean. This literally means they were between the "waters above the firmament" (the clouds) and the "waters below the firmament" (the ocean).
 
-{{< figure src="images/blue-planet-mist.png" caption="Fig. 2 - Research vessel in cloud formations" >}}
+{{< figure src="images/blue-planet-mist.png" caption="Ill. 1 - Research vessel in cloud formations" >}}
 
 ## Terraforming Earth
 
@@ -55,7 +55,7 @@ Isn't that exactly what supposedly happened initially here on Earth? In this spe
 
 Such a process would have significant impacts on the topological constitution of the planet and would require careful consideration and planning to minimize undesired long-term or latent side effects. Also, the feasibility of such a process would depend on a number of factors, including the depth and composition of the ocean floor, the availability of suitable materials for land formation, and the technical and logistical challenges of executing such a large-scale project. This must have really been a project of gigantic proportions.
 
-{{< figure src="images/terraforming-explosions.png" caption="Fig. 2 - Earth-shaping through controlled explosions" >}}
+{{< figure src="images/terraforming-explosions.png" caption="Ill. 2 - Earth-shaping through controlled explosions" >}}
 
 [^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)<sup>🔗</sup>
 [^2]: Terraforming or terraformation, literally meaning "Earth-shaping", is the process of altering the topography or geology of another planet or moon. It usually also includes the modification of atmosphere or temperature to make an initially inhospitable planet habitable. See here for more: [Terraforming | Wikipedia](https://en.wikipedia.org/wiki/Terraforming)<sup>🔗</sup>
@@ -73,7 +73,7 @@ If we assume that a single massive supercontinent were to be raised from the sha
 
 That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities.
 
-{{< figure src="images/barren-lands-outpost.png" caption="Fig. 3 - Research installation on barren dry soil" >}}
+{{< figure src="images/barren-lands-outpost.png" caption="Ill. 3 - Research installation on barren dry soil" >}}
 
 [^6]: Pangaea, derived from Ancient Greek pan (πᾶν, "all, entire, whole") and Gaia or Gaea (Γαῖα, "Mother Earth, land"), was a giant landmass that supposedly existed on Earth over 300 million years ago, during the Paleozoic and Mesozoic eras. See here more fore: [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)<sup>🔗</sup>
 

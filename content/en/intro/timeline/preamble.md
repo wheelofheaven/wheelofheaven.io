@@ -26,7 +26,7 @@ Here's the connection: According to the [Wheel of Heaven hypothesis]({{< relref 
 
 [^1]: Jurassic Park is a movie that was directed by Steven Spielberg, but it is actually based on a novel of the same name by Michael Crichton. The book was first published in 1990, and it tells the story of a theme park that is populated by genetically engineered dinosaurs. The book explores the ethical and scientific implications of genetic engineering, as well as the dangers of playing with nature. The movie adaptation of "Jurassic Park" was released in 1993, and it was a huge success. The film brought the story of the novel to a wider audience and introduced many people to the concept of genetically engineered dinosaurs. While the movie adaptation of Jurassic Park differs in some ways from the novel, it stays true to the book's themes and explores many of the same ethical and scientific issues. See here for more: [Jurassic Park (novel) | Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))<sup>🔗</sup>
 
-{{< figure src="images/saurian-experiments.png" caption="Fig. 1 - Genetic lab experiment gone wrong" >}}
+{{< figure src="images/saurian-experiments.png" caption="Ill. 1 - Genetic lab experiment gone wrong" >}}
 
 ## Once upon a time
 
@@ -93,7 +93,7 @@ Earth, a barren but material planet devoid of life proved to be the frontier the
 [^7]: De novo gene synthesis is a process where a DNA sequence is artificially created from scratch, without the need for an existing DNA template. Essentially, it is like writing a new genetic code from scratch. See more: [De novo synthesis](https://en.wikipedia.org/wiki/De_novo_synthesis)<sup>🔗</sup>
 [^8]: In the movie Jurassic World (2015), the idea of space travel is briefly mentioned as a competing business of dinosaur theme parks. The movie is set about 22 years after the events of the original Jurassic Park, and it depicts a fully operational dinosaur theme park called Jurassic World. The character who suggests the space-themed ride notes that people are now more interested in space travel than in seeing dinosaurs. This idea reflects the changing interests and priorities of society over time.
 
-{{< figure src="images/archaic-blue-planet.png" caption="Fig. 2 - Archaic blue planet" >}}
+{{< figure src="images/archaic-blue-planet.png" caption="Ill. 2 - Archaic blue planet" >}}
 
 ## The economy of science
 
@@ -109,7 +109,7 @@ The coalition of enterprises that were responsible for the embetterment of life'
 
 Nonetheless, the wealth of power generated from the benefits of genetical engineering most likely have had a direct impact on how the Elohimian civilization was funding and allocating resources to the cause of space exploration. The affinity shared by both causes is strongly conducive to the idea that similar agents, to not say individuals, must have contributed to both the these causes.
 
-{{< figure src="images/futuristic-city-with-tower.png" caption="Fig. 3 - Advanced civilizatory urban landscape" >}}
+{{< figure src="images/futuristic-city-with-tower.png" caption="Ill. 3 - Advanced civilizatory urban landscape" >}}
 
 ## The Eternal
 

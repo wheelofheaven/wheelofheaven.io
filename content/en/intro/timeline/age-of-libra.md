@@ -43,7 +43,7 @@ The Elohimian planet could orbit a star different from our Sun, such as a red dw
 
 These differences would affect the way the Elohimian scientists perceive and measure time, as well as their understanding of astronomy and celestial events. Adapting to Earth's unique cycles and celestial phenomena would be crucial for their successful integration and navigation on our planet.
 
-{{< figure src="images/oceanside-geodesy-station.png" caption="Fig. 2 - Geodetic installation by the ocean" >}}
+{{< figure src="images/oceanside-geodesy-station.png" caption="Ill. 1 - Geodetic installation by the ocean" >}}
 
 ## Adaptation
 
@@ -65,7 +65,7 @@ Precise location information, derived from astronomical observations, would allo
 
 Monitoring the sky could also help scientists predict and prepare for natural disasters, such as volcanic eruptions, earthquakes, or meteor impacts, which could significantly affect the survival of the engineered plant life. By understanding the potential risks and incorporating resilience strategies into the design of the plants, they could increase the likelihood of their successful establishment and long-term survival on the new Earthly planet.
 
-{{< figure src="images/primordial-nature-two-researchers.png" caption="Fig. 3 - Primordial botany featuring two researchers" >}}
+{{< figure src="images/primordial-nature-two-researchers.png" caption="Ill. 2 - Primordial botany featuring two researchers" >}}
 
 ## Earth in motion
 
@@ -97,7 +97,7 @@ Another lunar cycle is the lunar nodal cycle, which lasts about 18.6 years. This
 
 These astronomical cycles are crucial in shaping the Earth's climate, ecosystems, and the behavior of living organisms. Understanding these cycles allows us to predict and prepare for various natural events, as well as to better comprehend the complex interactions that occur on our planet.
 
-{{< figure src="images/orbital-geodesy-satellite.png" caption="Fig. 4 - Geodetic satellite in orbit" >}}
+{{< figure src="images/orbital-geodesy-satellite.png" caption="Ill. 3 - Geodetic satellite in orbit" >}}
 
 ### Precession
 

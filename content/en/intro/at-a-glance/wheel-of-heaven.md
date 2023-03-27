@@ -19,7 +19,7 @@ In simple terms, this site suggests that the origins of sentient life on Earth c
 
 At Wheel of Heaven, we aim to not only promote this hypothesis, but also invite all visitors to engage in a fascinating and inquisitive exploration of the possibilities presented. Everyone is welcome to consider the premises laid out on the site and contribute their own thoughts and ideas, helping to expand and enrich the narrative.
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Fig. 1 - Spacecraft in orbit" >}}
+{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Spacecraft in orbit" >}}
 
 ## What you will find
 

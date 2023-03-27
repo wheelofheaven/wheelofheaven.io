@@ -52,7 +52,7 @@ It's also possible that a sophisticated extraterrestrial civilization might empl
 
 As for now, we must satisfy ourselves with mere speculations as we cannot fathom what incredible knowledge and technologies these early Elohimian scientists must have wielded to synthetize new life forms.
 
-{{< figure src="images/genetic-research-lab.png" caption="Fig. 2 - Genetic research lab with water supplies" >}}
+{{< figure src="images/genetic-research-lab.png" caption="Ill. 1 - Genetic research lab with water supplies" >}}
 
 ## Intelligent Design
 
@@ -64,7 +64,7 @@ For instance, the intelligent agent is often considered a type of coder as biolo
 
 Intelligent Design is often associated with creationism, which is the belief that the Earth and all living things were created by a divine entity, as described in religious texts. Most Intelligent Design proponents have a Christian background and therefore equate the Designer to besame as the Creator God of the Christian exegesis of the Bible. While the process of creating synthetic life involves deliberate design and engineering, it is based on natural principles and the laws of physics and chemistry however. The goal of synthetic life engineering is to understand and replicate the natural processes that underlie life, rather than to invoke any kind of supernatural or religious explanation for the origin of life.
 
-{{< figure src="images/geodesic-structures.png" caption="Fig. 3 - Geodesic research structures on grassland" >}}
+{{< figure src="images/geodesic-structures.png" caption="Ill. 2 - Geodesic research structures on grassland" >}}
 
 ## Game of Life
 
@@ -80,7 +80,7 @@ Each of these climates would present unique challenges and opportunities for the
 
 In other words, the specific characteristics of the different climates would require the Elohimian scientists to create plants with a wide range of adaptations and traits, based on the specific challenges and opportunities presented by each environment.
 
-{{< figure src="images/primordial-jungle.png" caption="Fig. 4 - Primordial jungle featuring a researcher" >}}
+{{< figure src="images/primordial-jungle.png" caption="Ill. 3 - Primordial jungle featuring a researcher" >}}
 
 ## Third day of creation
 

@@ -13,7 +13,7 @@ weight: 340
 toc: true
 ---
 
-{{< figure src="images/abundance.png" caption="Fig. 1 - Collective awakening" >}}
+{{< figure src="images/pyramid-red-glowing-star.png" caption="Ill. 1 - Pyramid below glowing red star" >}}
 
 As science and technology advance, our ability to explore the cosmos and search for extraterrestrial life could potentially lead to discoveries that support the idea of intelligent life beyond Earth. In this context, people might be more open to considering the claims explored in here at _Wheel of Heaven_, which could result in an increased interest in its teachings and the possibility of a common extraterrestrial origin for humanity.
 

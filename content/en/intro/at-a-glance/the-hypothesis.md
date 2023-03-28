@@ -23,4 +23,4 @@ As humanity continues to develop its scientific understanding and technological 
 
 This transformative process mirrors the events described in the Genesis creation story, where life is brought forth on a previously barren planet. Under this scenario, humans would take on the role of the Elohim, using advanced technologies and genetic engineering to create new life forms on distant worlds. This cosmic endeavor would not only represent a significant milestone in humanity's progress but also perpetuate the cycle of life throughout the universe.
 
-{{< figure src="images/above-the-clouds-structure.png" caption="Ill. 1 - Celestial structure above the clouds" >}}
+{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Spacecraft in orbit" >}}

@@ -81,9 +81,15 @@ That said, it's possible that the creation of a large landmass from the ocean fl
 
 ## Second day of creation
 
-As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Second Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent too a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
+As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Second Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent took a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
 
 While the transition from one task to the other task may be seen as continuous, what matters is to be able to locate a given event, such as the terraformation of a supercontinent, in a frame of time that accounts for long periods of time. The Sagittarian World Age during which the events happened as stated earlier lasted therefore, as any other World Age for that matter, 2'160 years.
+
+The Second Day of Creation is described in the Book of Genesis, specifically in Genesis 1:6-8. On this day, the Elohim are said to have created the firmament, or the expanse, to separate the waters below from the waters above.
+
+> <sup>6</sup> Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” <sup>7</sup> God made the expanse, and separated the waters that were below the expanse from the waters that were above the expanse; and it was so. <sup>8</sup> God called the expanse “heaven.” And there was evening and there was morning, a second day. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+
+As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the ocean seabed. 
 
 ## A quick recap
 

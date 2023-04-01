@@ -84,6 +84,14 @@ In other words, the specific characteristics of the different climates would req
 
 ## Third day of creation
 
-As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Third Day of Creation.
+As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Third Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent took a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
+
+While the transition from one task to the other task may be seen as continuous, what matters is to be able to locate a given event, such as the terraformation of a supercontinent, in a frame of time that accounts for long periods of time. The Sagittarian World Age during which the events happened as stated earlier lasted therefore, as any other World Age for that matter, 2'160 years.
+
+The Third Day of Creation is described in the Book of Genesis, specifically in Genesis 1:9-13. The Elohim are said to have gathered the waters under the heaven into one place, forming the dry land, which is called "Earth," and the gathering together of the waters is called "Seas." The Elohim then commanded the Earth to bring forth vegetation, including grass, herbs, and fruit-bearing trees.
+
+> <sup>11</sup> Then God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit according to their kind with seed in them”; and it was so. <sup>12</sup> The earth produced vegetation, plants yielding seed according to their kind, and trees bearing fruit with seed in them, according to their kind; and God saw that it was good. <sup>13</sup> And there was evening and there was morning, a third day.
+
+As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the ocean seabed. 
 
 ## A quick recap

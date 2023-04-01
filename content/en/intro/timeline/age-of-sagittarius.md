@@ -89,7 +89,11 @@ The Second Day of Creation is described in the Book of Genesis, specifically in 
 
 > <sup>6</sup> Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” <sup>7</sup> God made the expanse, and separated the waters that were below the expanse from the waters that were above the expanse; and it was so. <sup>8</sup> God called the expanse “heaven.” And there was evening and there was morning, a second day. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
 
-As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the ocean seabed. 
+As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the planet-wide oceans.
+
+> <sup>9</sup> Then God said, “Let the waters below the heavens be gathered into one place, and let the dry land appear”; and it was so. <sup>10</sup> And God called the dry land “earth,” and the gathering of the waters He called “seas”; and God saw that it was good. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+
+From a strictly Biblical point of view, the moment where the Elohim "gather the waters below the heavens into one place and for dry land to appear" happens after the Second Day has ended. The Raëlian canon is not specific enough to locate the terraformation events in either the second of third World Age after their arrival. For stylistic reasons, we chose to include the terraforming happenings during the Second Day of Creation, during the Age of Sagittarius. These may have endured for a while and have well lasted into the Third Day of Creation.
 
 ## A quick recap
 

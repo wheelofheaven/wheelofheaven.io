@@ -92,6 +92,6 @@ The Third Day of Creation is described in the Book of Genesis, specifically in G
 
 > <sup>11</sup> Then God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit according to their kind with seed in them”; and it was so. <sup>12</sup> The earth produced vegetation, plants yielding seed according to their kind, and trees bearing fruit with seed in them, according to their kind; and God saw that it was good. <sup>13</sup> And there was evening and there was morning, a third day.
 
-As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the ocean seabed. 
+As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the ocean seabed.
 
 ## A quick recap

@@ -13,6 +13,30 @@ weight: 260
 toc: true
 ---
 
+The Age of Aquarius lasts from 1950 CE to 4110 CE and followed the Age of Pisces which lasted up to 1950 CE. While you're reading this, chances are high that you're reading this during the time span of the Age of Aquarius. This World Age is now and is commonly referred to the New Age.
+
 ![Image](images/equinox_1945.png "Vernal equinox in 1945 BC")
 
-Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
+## New Age
+
+We transitioned into the Age of Aquarius which folloed the Age of Pisces. The transition from one World Age to the next can still be felt to this very day.
+
+> The time of the end of the world has arrived. Not the end of the world as in a catastrophe destroying the Earth, but the end of the world of the Church, which has completed its work. It performed this role more or less effectively. It was a task of vulgarization, making it possible for your creators to be recognized when they return. As you have noticed, the Christian church is dying. It is the end of this world because its mission has been fulfilled, albeit with quite a few mistakes because it tried for so long to deify the creators.
+
+Vulgarization of the truth has been completed
+
+> The Age of Pisces was the age of Christ and his fishermen, and the Age of Aquarius, which follows, began in 1946. This is the era in which the people of Israel found their country again:
+>
+>> And it shall come to pass in that day... that there shall be the noise of a cry from the pisces 19 gate... Zephaniah 1: 10.
+
+Israel got founded as the sign of the New Age
+
+> The return of the Jewish people to Israel, as it was predicted, is a sign of the golden age:
+>
+>> I will bring thy seed from the east, and gather thee from the west; I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth; Even every one that is called by my name: for I have created him for my glory. Isaiah 43: 5-7.
+
+Golden Age has arrived
+
+## The Truth
+
+> People of the Earth, you fly in the heavens, and your voices are carried to the four corners of the Earth by means of radio waves. So the time has come for you to know the truth.

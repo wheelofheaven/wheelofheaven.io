@@ -17,6 +17,8 @@ toc: true
 
 The Age of Gemini lasts from –6'690 to –4'530 and follows the Age of Cancer which lasted up to –6'690.
 
+From the perspective of Genesis and its seven Days of Creation, the Age of Gemini would represent the Eight Day. The number eight is encoded in the amount of people entering Noah's Ark: Noah and his wife, his three sons and their wives, a total of 8 people.
+
 ## The Decision
 
 >> And Elohim saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. Genesis 6: 5.
@@ -49,6 +51,8 @@ Global mass-extinction cataclysm
 > As you can clearly see, it is said that the ark was lifted “above” the Earth and not “on” the water.
 
 The preservational spacecraft managed to escape in time
+
+There are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
 
 ## Reset
 
@@ -103,7 +107,7 @@ The Elohiman home planet took notice
 
 Preventive action
 
-## Theomachy
+## War in Heaven
 
 > To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans.
 >
@@ -113,6 +117,6 @@ The creators during that span of time hid themselves in the oceans.
 
 > At that time the government of their planet wanted to destroy those who had created the humans.
 
-This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here.
+This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here, the so called "Theomachy".
 
 ## A quick recap

@@ -13,7 +13,7 @@ weight: 235
 toc: true
 ---
 
-![Image](images/equinox_bc8850.png "Vernal equinox in 8850 BC")
+{{< figure src="images/equinox_bc8850.png" caption="Fig. 1 - Vernal equinox in 8850 BC" >}}
 
 The Age of Cancer lasts from –8'850 to –6'690 and follows the Age of Leo which lasted up to –8'850.
 
@@ -32,6 +32,10 @@ Full education
 > The new human beings then understood that they could also become creators in their turn, and they became angry at their “parents” for having kept them away from scientific books, considering them to be like dangerous laboratory animals.
 
 The human experiment
+
+{{< figure src="images/modern-urban-landscape.png" caption="Ill. 1 - Modern looking urban landscape in front of large pond" >}}
+
+## The Serpent
 
 >> And Yahweh<sup>1</sup>Elohim said unto the serpent, ‘Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.’
 >> Genesis 3: 14.
@@ -53,12 +57,18 @@ Tree of life
 
 > If when they were first created these new beings could have lived much longer, they would have quite rapidly become our equals because their mental faculties are slightly superior to our own. They are unaware of their full potential. This applies especially to the people of Israel who, as I mentioned earlier, had been selected in a contest as the most successful type of humanoid on Earth due to their intelligence and genius. This explains why they have always considered themselves to be the “chosen people”. In truth they were the people chosen by the teams of scientists who gathered together to judge their creations. You can see for yourself the number of geniuses born out of that race.
 
+Longer life
+
+{{< figure src="images/antidiluvian-queen-on-throne.png" caption="Ill. 2 - Antidiluvian queen on golden throne" >}}
+
 ## Safeguarding the secrets
 
 >> So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 >> Genesis 3: 24.
 >
 > Soldiers with atomic disintegration weapons were placed at the entrance to the creators’ residence to prevent human beings from stealing more scientific knowledge.
+
+{{< figure src="images/soldiers-in-front-of-silos.png" caption="Ill. 3 - Defense equipment in front of silos" >}}
 
 ## Chimera
 
@@ -73,6 +83,8 @@ Tree of life as a sign of devotion
 > The creators living in exile took the most beautiful daughters of humanity and made them their wives.
 
 Intercourse
+
+{{< figure src="images/people-standing-over-golden-floor.png" caption="Ill. 4 - Group of individuals standing on golden floor" >}}
 
 ## Exceptional children
 
@@ -93,6 +105,8 @@ During the second encounter with Yahweh, witnessed in the the second book "Extra
 > There is an important revelation, which you may now make. The Jews are our direct descendants on Earth. That is why a specific destiny is reserved for them. They are the descendants of “the sons of Elohim and the daughters of men”, as mentioned in Genesis. Their original mistake was to have mated with their scientific creations.
 
 Jews are the direct descendants of the Elohim
+
+{{< figure src="images/pyramid-shaped-energy-structure.png" caption="Ill. 5 - Landmark structure emitting bright beam into the sky" >}}
 
 ## Seventh day of creation
 

@@ -25,6 +25,10 @@ From the perspective of Genesis and its seven Days of Creation, the Age of Gemin
 >
 > The “evil” in question was the desire of human beings to become scientific and independent people equal to their creators. Being “good”, as far as those on the Elohim’s planet were concerned meant the new human beings would remain primitive, vegetating on the Earth. Their “evil” was their wish to progress, perhaps enabling them one day to catch up with their creators.
 
+What happened on Earth was deemed too dangerous to the authorities on the Elohimian home planet.
+
+{{< figure src="images/circular-city-seen-from-the-sky.png" caption="Ill. 1 - Circular megalopolis seen from the sky" >}}
+
 ## The Preservation Project
 
 > The government then decided from their distant planet to destroy all life on Earth by sending nuclear missiles. However when the exiled
@@ -34,17 +38,23 @@ creators were informed of the project they asked Noah to build a spaceship, whic
 
 Noah's Ark - a spacecraft meant to preserve genetic material
 
+{{< figure src="images/vehicle-in-snowy-landscape.png" caption="Ill. 2 - Guarding groups collecting genetic material all over the world" >}}
+
 > The spacecraft had three sections:
 >
 >> ...and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. Genesis 6: 16.
 
 The spacecraft had multiple sections
 
+{{< figure src="images/man-standing-on-cliff-overseeing-spacecraft.png" caption="Ill. 1 - Guarding groups collecting genetic material all over the world" >}}
+
 ## The Great Flood
 
 > When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
 
 Global mass-extinction cataclysm
+
+{{< figure src="images/projectile-impact-on-earth.png" caption="Ill. 3 - Cosmic impact causing Earth-wide cataclysmic mass-extinction event" >}}
 
 >> The ark... was lift up above the earth. Genesis 7: 17.
 >
@@ -53,6 +63,8 @@ Global mass-extinction cataclysm
 The preservational spacecraft managed to escape in time
 
 There are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
+
+{{< figure src="images/ark-in-orbit.png" caption="Ill. 4 - Ark spacecraft in safe orbital space" >}}
 
 ## Reset
 

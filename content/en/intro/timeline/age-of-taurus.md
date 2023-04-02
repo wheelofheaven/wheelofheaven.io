@@ -59,6 +59,8 @@ The plan was to annihilate the two cities of the plain
 
 Sodom and Gomorrah were annihilated
 
+{{< figure src="images/explosion-over-the-sea.png" caption="Ill. 1 - Tactical explosion over the sea" >}}
+
 ## Abraham
 
 > Later, after most of their leading intellectuals had been destroyed, and they had relapsed into a semi-primitive state, the creators wished to see if the people of Israel, and particularly their leader, still had positive feelings towards them.
@@ -70,6 +72,8 @@ Checking in
 >> Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim. Genesis 22: 12.
 
 Abraham was identified as one of these leaders of Israel
+
+{{< figure src="images/man-standing-on-plaza.png" caption="Ill. 2 - Individual standing on open-air plaza" >}}
 
 ## Regression
 

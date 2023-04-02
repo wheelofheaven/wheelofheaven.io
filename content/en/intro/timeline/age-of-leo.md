@@ -39,6 +39,24 @@ Equilibrium
 
 In their image
 
+## Garden of Eden
+
+> The team located in the country you now call Israel, which at the time was not far from Greece and Turkey on the original continent, was composed of brilliant creators who were perhaps the most talented team of all. Their animals were the most beautiful and their plants had the sweetest perfumes. This was what you call “paradise on Earth”. The human beings they created there were the most intelligent. So steps had to be taken to ensure that they did not surpass their creators. The created, therefore, had to be kept in ignorance of the great scientific secrets while being educated for the purpose of measuring their intelligence.
+
+## Good and Evil
+
+>> Of every tree of the garden you may freely eat; but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.
+>> Genesis 2: 16-17.
+>
+> This means you - the created - can learn all you want, read all of the books that we have here at your disposal, but never touch the scientific books, otherwise you will die.
+
+## Origins of science
+
+>> He brought them to the man to see what he would name them.
+>> Genesis 2: 19.
+>
+> Human beings had to have a thorough understanding of the plants and animals living around them, their way of life, and the way to get food from them. The creators taught them the names and the powers of everything that existed around them since botany and zoology were not considered dangerous for them. Imagine the joy of this team of scientists, having two children, a male and a female running around, eagerly learning what was being taught to them.
+
 ## Sixth day of creation
 
 ## A quick recap

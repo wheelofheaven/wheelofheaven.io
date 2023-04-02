@@ -13,6 +13,7 @@ weight: 220
 toc: true
 ---
 
+The Age of Libra lasts from –15'330 to –13'170 and follows the Age of Scorpio which lasted up to –15'330.
 
 In the last chapter, The Age of Scorpio, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. As soon as they managed to terraform a new barren continental land mass out of the bottom of the oceans, they went on to synthetize plant life. This plant life was engineered from nothing else but chemical base elements. It didn't take them long to cover the new supercontinent with grass, saplings, shrubs and other greeneries. The engineers were joined by artists and formed various research groups that each focused on a different region of this supercontinent to diversify and sophisticate further the newly created flora.
 
@@ -21,8 +22,6 @@ All of that happened during the Age of Scorpio which lasted from –17'490 to �
 With the research groups having split up and while exploring the prospective creative possibilities of having a whole planet to themselves, the Elohimian scientists had all the freedom in their hands to fully take advantage of their situation. Earth was a sandbox environment of engineering, research and artistic expression. It was time to settle further and better understand the environment they were in; the fourth phase could begin. The Fourth Day of Creation is the sum of all events that happened subsequently during the Age of Libra.
 
 {{< figure src="images/equinox_bc15330.png" caption="Fig. 1 - Vernal equinox in 15'330 BC" >}}
-
-The Age of Libra lasts from –15'330 to –13'170 and follows the Age of Scorpio which lasted up to –15'330.
 
 ## Regulation
 

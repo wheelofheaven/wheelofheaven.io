@@ -17,12 +17,50 @@ toc: true
 
 The Age of Gemini lasts from –6'690 to –4'530 and follows the Age of Cancer which lasted up to –6'690.
 
-## Cain and Abel
+## The Decision
 
->> And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto Yahweh. And Abel, he also brought of the firstlings of his flock and of the fat thereof.
->> Genesis 4: 3-4.
+>> And Elohim saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. Genesis 6: 5.
 >
-> The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the “tree of life”, and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on as is stated in Genesis, Chapter 5, Verses 1-11.
+> The “evil” in question was the desire of human beings to become scientific and independent people equal to their creators. Being “good”, as far as those on the Elohim’s planet were concerned meant the new human beings would remain primitive, vegetating on the Earth. Their “evil” was their wish to progress, perhaps enabling them one day to catch up with their creators.
+
+## The Preservation Project
+
+> The government then decided from their distant planet to destroy all life on Earth by sending nuclear missiles. However when the exiled
+creators were informed of the project they asked Noah to build a spaceship, which would orbit the Earth during the cataclysm containing a pair of each species that was to be preserved.
+>
+> This was true figuratively speaking, but in reality - and your scientific knowledge will very soon enable you to understand this - a single living cell of each species, male and female, is all that is required to recreate a whole being. This is something like the first living cell of a fetus in the womb of its mother, which already possesses all the information needed to create a human being right down to the color of its eyes and hair. This was a colossal task, but it was completed on time.
+
+> The spacecraft had three sections:
+>
+>> ...and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. Genesis 6: 16.
+
+Noah's Ark - a spacecraft with three sections
+
+## The Great Flood
+
+> When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
+
+Global mass-extinction cataclysm
+
+>> The ark... was lift up above the earth. Genesis 7: 17.
+>
+> As you can clearly see, it is said that the ark was lifted “above” the Earth and not “on” the water.
+
+The preservational spacecraft managed to escape in time
+
+## Reset 
+
+> Then it was necessary to wait until there was no more dangerous radioactive fallout:
+>
+>> And the waters prevailed upon the earth an hundred and fifty days. Genesis 7: 24.
+
+Radioactive fallout
+
+> Later it landed on Earth, and besides Noah, it carried a couple from each race of human beings on the Earth.
+>
+>> And Elohim remembered Noah... and Elohim made a wind to pass over the earth, and the waters asswaged. Genesis 8: 1.
+
+The spacecraft landed on dry land
 
 ## Reseeding
 
@@ -44,5 +82,35 @@ Having safeguarded life was good.
 >
 >> And by these were the nations divided in the earth after the flood.
 >> Genesis 10: 32.
+
+## The Tower of Babel
+
+> But the most intelligent race, the people of Israel, was making such remarkable progress that they were soon able to undertake the conquest of space with the help of the exiled creators. The latter wanted their new human beings to go to the creators’ planet to obtain their pardon, by showing that they were not only intelligent and scientific but also grateful and peaceful. So they built an enormous rocket - The Tower of Babel.
+>
+>> And now nothing will be restrained from them, which they have imagined to do. Genesis 11: 6.
+
+The rocket to reach the heavens
+
+> The people on our planet became frightened when they heard about this. They were still observing the Earth and knew that life had not been destroyed.
+>
+>> Go to, let us go down, and there confound their language, that they may not understand one another’s speech. So Yahweh scattered them abroad from thence upon the face of all the earth. Genesis 11: 7-8. 
+
+The Elohiman home planet took notice
+
+> So they came and took the Jews who had the most scientific knowledge and scattered them all over the continent among primitive tribes in countries where nobody could understand them because the language was different, and they destroyed all their scientific instruments.
+
+Preventive action
+
+## Theomachy
+
+> To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans.
+>
+>> In that day Yahweh with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea. Isaiah 27: 1.
+
+The creators during that span of time hid themselves in the oceans.
+
+> At that time the government of their planet wanted to destroy those who had created the humans.
+
+This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here.
 
 ## A quick recap

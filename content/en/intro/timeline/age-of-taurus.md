@@ -65,7 +65,7 @@ Sodom and Gomorrah were annihilated
 
 Checking in
 
->  This is related in the paragraph where Abraham wants to sacrifice his own son. The creators tested him to see if his feelings towards them were sufficiently strong. Fortunately, the experiment ended positively.
+> This is related in the paragraph where Abraham wants to sacrifice his own son. The creators tested him to see if his feelings towards them were sufficiently strong. Fortunately, the experiment ended positively.
 >
 >> Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim. Genesis 22: 12.
 

@@ -30,11 +30,13 @@ creators were informed of the project they asked Noah to build a spaceship, whic
 >
 > This was true figuratively speaking, but in reality - and your scientific knowledge will very soon enable you to understand this - a single living cell of each species, male and female, is all that is required to recreate a whole being. This is something like the first living cell of a fetus in the womb of its mother, which already possesses all the information needed to create a human being right down to the color of its eyes and hair. This was a colossal task, but it was completed on time.
 
+Noah's Ark - a spacecraft meant to preserve genetic material
+
 > The spacecraft had three sections:
 >
 >> ...and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. Genesis 6: 16.
 
-Noah's Ark - a spacecraft with three sections
+The spacecraft had multiple sections
 
 ## The Great Flood
 
@@ -48,7 +50,7 @@ Global mass-extinction cataclysm
 
 The preservational spacecraft managed to escape in time
 
-## Reset 
+## Reset
 
 > Then it was necessary to wait until there was no more dangerous radioactive fallout:
 >
@@ -93,7 +95,7 @@ The rocket to reach the heavens
 
 > The people on our planet became frightened when they heard about this. They were still observing the Earth and knew that life had not been destroyed.
 >
->> Go to, let us go down, and there confound their language, that they may not understand one another’s speech. So Yahweh scattered them abroad from thence upon the face of all the earth. Genesis 11: 7-8. 
+>> Go to, let us go down, and there confound their language, that they may not understand one another’s speech. So Yahweh scattered them abroad from thence upon the face of all the earth. Genesis 11: 7-8.
 
 The Elohiman home planet took notice
 

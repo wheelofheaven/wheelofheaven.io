@@ -35,6 +35,8 @@ Mission of revenge
 
 Espionage
 
+{{< figure src="images/red-colored-cityscape.png" caption="Ill. 1 - Red-colored cityscape" >}}
+
 > Some humans tried to kill them, but the spies managed to blind their attackers with a pocket atomic weapon:
 >
 >> And they smote the men that were at the door of the house with blindness, both small and great. Genesis 19: 11.
@@ -59,7 +61,7 @@ The plan was to annihilate the two cities of the plain
 
 Sodom and Gomorrah were annihilated
 
-{{< figure src="images/explosion-over-the-sea.png" caption="Ill. 1 - Tactical explosion over the sea" >}}
+{{< figure src="images/explosion-over-the-sea.png" caption="Ill. 2 - Tactical explosion over the sea" >}}
 
 ## Abraham
 
@@ -80,5 +82,7 @@ Abraham was identified as one of these leaders of Israel
 > Because of the destruction of centers of progress such as Sodom and Gomorrah and the elimination of the most intelligent individuals, human beings had lapsed back into a very primitive state and had begun, rather stupidly, to adore pieces of stone and idols, forgetting those who had really created them:
 >
 >> Put away the foreign gods that are among you. Genesis 35: 2.
+
+{{< figure src="images/two-treasure-hunters.png" caption="Ill. 3 - Two individuals searching for remainders" >}}
 
 ## Quick recap

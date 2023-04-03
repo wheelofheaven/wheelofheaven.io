@@ -87,7 +87,7 @@ Second, the artificial satellites that were placed around the Earth were likely 
 
 Another interesting hint here is what is being said about the state of planet Earth at that moment in time: completely covered in water and thick mist. Planet Earth was indeed a blue planet through and through. The presence of water would have been critical for creating the necessary conditions for life to thrive.
 
-{{< figure src="images/blue-planet-surface.png" caption="Ill. 2 - Blue planet surface" >}}
+{{< figure src="images/blue-planet-afar.png" caption="Ill. 2 - Blue planet surface" >}}
 
 ## Solar radiation
 
@@ -106,7 +106,7 @@ The sun emits various types of electromagnetic radiation, including ultraviolet 
 
 Eventually, the sun's output was considered to be acceptable, "the light was good", and the investigations continued.
 
-{{< figure src="images/orbital-outpost.png" caption="Ill. 3 - Orbital outpost" >}}
+{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="Ill. 3 - Orbital outpost" >}}
 
 ## First day of creation
 

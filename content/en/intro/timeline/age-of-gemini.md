@@ -66,7 +66,7 @@ There are reasons to believe that the Great Flood happened around 6'000 BC when 
 
 {{< figure src="images/ark-in-orbit.png" caption="Ill. 4 - Ark spacecraft in safe orbital space" >}}
 
-## Reset
+## Reseeding
 
 > Then it was necessary to wait until there was no more dangerous radioactive fallout:
 >
@@ -80,14 +80,19 @@ Radioactive fallout
 
 The spacecraft landed on dry land
 
-## Reseeding
-
 > After monitoring the level of radioactivity and dispersing it scientifically, the creators told Noah to release the animals to see if they could survive in the atmosphere. This operation was successful, and they were able to venture out into the open air. The creators then asked the human survivors to work and multiply, and show their gratitude to their benefactors who had created them and saved them from destruction. Noah agreed to give a portion of their harvest and their cattle to the creators to ensure they survived:
 >
 >> And Noah builded an altar unto Yahweh; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
 >> Genesis 8: 20.
 
 Humans were thankful.
+
+> The goal of humankind is scientific progress. Each race of humanity was then returned to its original place of creation, and each animal was recreated from the cells which had been preserved aboard the ark.
+>
+>> And by these were the nations divided in the earth after the flood.
+>> Genesis 10: 32.
+
+## Noahic covenant
 
 > The creators were happy to see that humans wished them well, and they promised never to try to destroy their creation again. They understood that it was only normal for them to want to progress scientifically.
 >
@@ -96,10 +101,9 @@ Humans were thankful.
 
 Having safeguarded life was good.
 
-> The goal of humankind is scientific progress. Each race of humanity was then returned to its original place of creation, and each animal was recreated from the cells which had been preserved aboard the ark.
->
->> And by these were the nations divided in the earth after the flood.
->> Genesis 10: 32.
+The covenant established with Noah [Gen 9:1-17] extends to every living being, including humans and other creatures. As part of this agreement, God pledges never again to wipe out all life on Earth through a flood, and designates the rainbow as a symbol of the "eternal covenant" between God and every living creature, both human and animal, on the planet.
+
+The Seven Laws refer to the set of moral and religious laws that according to Jewish tradition, were given to all of humanity through Noah after the flood. These laws are also known as the Noahide Laws or the Seven Noahide Laws. According to Jewish tradition, these laws are applicable to all human beings, regardless of their religion or nationality, and are considered the foundation of a just and moral society.
 
 ## The Tower of Babel
 

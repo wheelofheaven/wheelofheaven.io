@@ -1,1 +1,16 @@
-<a href="{{ .Destination }}" {{ with .Title }} title="{{ . }}"{{ end }} {{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
+<a href="{{ .Destination }}"
+  {{ with .Title }}
+    title="{{ . }}"
+  {{ end }}
+  {{ if strings.HasPrefix .Destination "http" }}
+    target="_blank"
+  {{ end }}>{{ .Text }}
+</a>
+{{ if strings.HasPrefix .Destination "https://wheelofheaven.github.io/"}}
+<sup>🕮</sup>
+{{ else if in .Destination "wiki" }}
+<sup>W</sup>
+{{ else if strings.HasPrefix .Destination "http" }}
+<sup>↗</sup>
+{{ end }}
+

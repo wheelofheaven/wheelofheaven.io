@@ -8,7 +8,7 @@
 </a>
 {{ if strings.HasPrefix .Destination "https://wheelofheaven.github.io/"}}
 <sup>🕮</sup>
-{{ else if in .Destination "wiki" }}
+{{ else if and (in .Destination "wiki") (strings.HasPrefix .Destination "/") }}
 <sup>W</sup>
 {{ else if strings.HasPrefix .Destination "http" }}
 <sup>↗</sup>

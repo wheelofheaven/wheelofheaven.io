@@ -38,7 +38,7 @@ Cosmic pluralism also underscores the importance of humanity's continued explora
 
 ### The Tradition
 
-[The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}})<sup>🔗</sup> represents the enduring awareness that Earth is just one of many inhabited worlds in the cosmos. Throughout history, this recognition of our place in the universe has been preserved and transmitted across generations. The Tradition encompasses not only the understanding of extraterrestrial life but also the ancestral wisdom concerning various scientific, technological, and historical knowledge.
+[The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}}) represents the enduring awareness that Earth is just one of many inhabited worlds in the cosmos. Throughout history, this recognition of our place in the universe has been preserved and transmitted across generations. The Tradition encompasses not only the understanding of extraterrestrial life but also the ancestral wisdom concerning various scientific, technological, and historical knowledge.
 
 This all-encompassing Tradition has served as a means of safeguarding and perpetuating the awareness of our cosmic connections, ensuring that humanity's understanding of its place in the universe is not lost or forgotten. By preserving this knowledge, the Tradition has also allowed for the continued development of our collective consciousness and understanding of the cosmos.
 
@@ -52,7 +52,7 @@ Another foundational aspect of the Wheel of Heaven hypothesis is the Truth, whic
 
 These beings, referred to as the Gods of Old, the Heavenly Fathers, the Spacefarers, or the Ones who came from the Skies, are believed to have maintained a proactive relationship with humanity since our synthetic inception. Rather than simply vanishing after creating life on Earth, these advanced beings have continued to guide and influence our progress throughout history.
 
-[The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}})<sup>🔗</sup> emphasizes that the presence of these extraterrestrial beings is not merely a matter of historical curiosity, but an ongoing reality that shapes our understanding of ourselves and our place in the cosmos. Their continued interactions with humanity serve as a reminder of our cosmic origins and highlight the potential for future collaboration as we evolve into an interstellar civilization.
+[The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}) emphasizes that the presence of these extraterrestrial beings is not merely a matter of historical curiosity, but an ongoing reality that shapes our understanding of ourselves and our place in the cosmos. Their continued interactions with humanity serve as a reminder of our cosmic origins and highlight the potential for future collaboration as we evolve into an interstellar civilization.
 
 This aspect of the hypothesis suggests that these beings have been instrumental in shaping human development across various fields, such as science, technology, politics, and spirituality. By imparting their knowledge and wisdom, they have helped to advance our understanding of the universe and our own capabilities.
 
@@ -62,6 +62,6 @@ The Cycle is another foundational aspect of the Wheel of Heaven hypothesis, focu
 
 According to the Cycle, interstellar procreation is an innate characteristic of intelligent life, driving us to explore the universe and expand our presence beyond our home planet. On Earth at least, this process is believed to have occured in accordance with the secular movement of Precession, an astronomical phenomenon that governs the gradual shift of Earth's rotational axis over time.
 
-As we enter the Age of Aquarius, a new era marked by the [Precession]({{< relref "wiki/encyclopedia/precession.md"  >}})<sup>🔗</sup>, the Cycle suggests that humanity will become increasingly aware of our cosmic origins and the knowledge that has been lost or obscured throughout history. This renewed awareness will guide us towards a deeper understanding of our place in the universe and the significance of the cosmic cycle of life.
+As we enter the Age of Aquarius, a new era marked by the [Precession]({{< relref "wiki/encyclopedia/precession.md"  >}}), the Cycle suggests that humanity will become increasingly aware of our cosmic origins and the knowledge that has been lost or obscured throughout history. This renewed awareness will guide us towards a deeper understanding of our place in the universe and the significance of the cosmic cycle of life.
 
 The Age of Aquarius is considered a transformative period that bears the hallmarks of rediscovering our connection to the extraterrestrial beings who created life on Earth, as well as our inherent drive to explore and populate new worlds. This awakening will enable humanity to embrace its cosmic heritage and actively participate in the ongoing Cycle of interstellar procreation.

@@ -24,7 +24,13 @@ The Age of Cancer lasts from –8'850 to –6'690 and follows the Age of Leo whi
 >
 > Some scientists in this team felt a deep love for their little human beings, their “creatures”, and they wanted to give them a complete education in order to make them scientists like themselves. So they told these young people who were almost adults that they could pursue their scientific studies and in so doing they would become as knowledgeable as their creators.
 
-Full education
+In this passage, Yahweh refers to Genesis 3:1-5, where in the Biblical story the serpent tempts the woman to eat from the tree of the knowledge of good and evil. The passage then suggests that some scientists within the Elohim team felt a deep love for the humans they created and wanted to provide them with a complete education, including advanced scientific knowledge. These scientists, known collectively as the Serpent, encouraged the young humans, who were almost adults, to pursue their scientific studies, promising that by doing so, they would become as knowledgeable as their creators.
+
+It appears that some scientists within the Elohim team developed a strong emotional bond with their human creations. This emotional connection may have led them to believe that the humans deserved to have access to the same knowledge as their creators, including advanced scientific understanding. As a result, these scientists challenged the restrictions imposed by their own civilization on the dissemination of scientific knowledge to humans.
+
+By encouraging the young humans to pursue scientific studies, these scientists were essentially advocating for their creations to achieve their full intellectual potential and become as knowledgeable as the Elohim themselves. This act of defiance against the established norms could be seen as a gesture of love, empathy, or solidarity with the human beings they had created.
+
+However, this act could also be seen as controversial or dangerous within the context of the Elohim's original intentions for humans, as providing access to advanced scientific knowledge could potentially lead to unforeseen consequences or challenges to the Elohim's authority and control over their creation.
 
 >> And the eyes of them both were opened, and they knew that they were naked.
 >> Genesis 3: 7.

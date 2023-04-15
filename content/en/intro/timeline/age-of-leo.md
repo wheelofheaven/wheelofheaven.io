@@ -75,6 +75,10 @@ The concept of humans being made in the image of the Elohim could also carry a d
 
 In this passage, Yahweh explains that the team of creators situated in what is now known as Israel, close to Greece and Turkey at the time, were perhaps the most talented of all. They created beautiful animals, fragrant plants, and the most intelligent humans in a paradise-like environment on Earth. However, to prevent these humans from surpassing their creators, it was necessary to keep them unaware of major scientific secrets while still educating them to gauge their intelligence.
 
+Understanding the paradise-like environment in the passage as the Biblical Garden of Eden, we can explore the similarities and connections between the two. The Garden of Eden, as described in the Bible, was a perfect and idyllic place, abundant with beautiful plants, animals, and resources. Similarly, the environment mentioned in the passage is referred to as "paradise on Earth," with the most beautiful animals and sweetest perfumes from the plants. This comparison suggests that the paradise created by the Elohim in the passage could be interpreted as the Garden of Eden.
+
+Its location in the area now known as Israel, not far from modern-day Turkey and Greece, would place it in the western part of the original supercontinent which is an interesting detail to take notice of. If we consider the general locations of Israel, Turkey, and Greece on today's map and translate that to a single continent scenario, the Garden of Eden would likely be situated near the coast of this supercontinent, with access to the sea. This coastal location would provide a favorable environment for a lush and fertile paradise, with an abundance of natural resources, contributing to the idyllic setting described in the story.
+
 {{< figure src="images/glowing-domes-in-landscape.png" caption="Ill. 4 - Glowing dome structures in a lush landscape" >}}
 
 ## Good and Evil
@@ -84,7 +88,21 @@ In this passage, Yahweh explains that the team of creators situated in what is n
 >
 > This means you - the created - can learn all you want, read all of the books that we have here at your disposal, but never touch the scientific books, otherwise you will die.
 
-Tree of knowledge represents the capacity to learn about everything, including human's own creation.
+In this passage, Yahweh quotes Genesis 2:16-17, where humans are allowed to eat from every tree in the garden except for the tree of the knowledge of good and evil, as eating from it would result in death. The passage then interprets this biblical warning as a metaphor, essentially saying that humans, as the created beings, can learn and read any available books, but they must not delve into scientific knowledge, or they will face severe consequences.
+
+Exploring the idea that the Tree of the Knowledge of Good and Evil represents access to scientific knowledge records or other types of knowledge storage allows us to reinterpret the biblical story from a different perspective.
+
+In this interpretation, the Tree of the Knowledge of Good and Evil serves as a metaphor for the forbidden knowledge that the creators, or Elohim, want to keep hidden from humans. By restricting access to this knowledge, the creators aim to maintain control over humans and prevent them from reaching their full potential or surpassing their creators in terms of intellectual and technological advancements.
+
+The warning about the consequences of eating from the tree could be understood as a cautionary measure to keep humans from venturing into the realms of science and technology that the creators deemed dangerous or threatening. The idea that humans would "surely die" if they consumed the fruit from the tree may symbolize the potential catastrophic consequences of humans gaining access to advanced scientific knowledge, which could lead to misuse, destruction, or imbalance within their world.
+
+This perspective adds an intriguing layer to the story of the Garden of Eden, suggesting that the Tree of the Knowledge of Good and Evil is not just a moral or philosophical concept but a representation of the powerful and potentially dangerous nature of scientific knowledge. In this context, the story emphasizes the importance of responsible use of knowledge and the potential risks associated with unrestricted access to advanced information, as well as the desire of the creators to maintain control and balance within their creation.
+
+Hypothesizing how an advanced civilization like the Elohim would preserve knowledge is an interesting aspect that may intrigue many of you. We can consider several possibilities that go beyond traditional methods, incorporating futuristic and cutting-edge technologies.
+
+The Elohim may use advanced digital storage systems, possibly utilizing quantum computing, to store vast amounts of information. These storage systems would be highly efficient, compact, and capable of handling complex data structures, ensuring the preservation of their knowledge for extended periods. Another possibility is that the Elohim have developed advanced artificial intelligence systems that can store and process information. These AI systems could act as dynamic libraries, continuously updating and organizing the knowledge, making it easily accessible for the Elohim.
+
+The Elohim might also harness biotechnology for preserving knowledge by encoding information into the DNA of living organisms or creating synthetic life forms specifically designed to store data. This method would allow them to access the stored knowledge by decoding the DNA sequences when needed. The Elohim could have developed advanced materials and technologies to store information at the atomic or molecular level, creating highly durable and long-lasting storage mediums. This approach would offer a high level of information density, ensuring the preservation of vast quantities of knowledge over extended periods.
 
 {{< figure src="images/genesis-dome-interior.png" caption="Ill. 5 - Interior of a dome structure featuring round shaped and greenery" >}}
 
@@ -95,7 +113,13 @@ Tree of knowledge represents the capacity to learn about everything, including h
 >
 > Human beings had to have a thorough understanding of the plants and animals living around them, their way of life, and the way to get food from them. The creators taught them the names and the powers of everything that existed around them since botany and zoology were not considered dangerous for them. Imagine the joy of this team of scientists, having two children, a male and a female running around, eagerly learning what was being taught to them.
 
-The beginning of human knowledge began with practical things like botany and zoology.
+In this passage, Yahweh refers to Genesis 2:19, which describes how the first humans were given the responsibility to name the plants and animals around them. The passage explains that the creators, or Elohim, taught humans about the plants and animals in their environment, including their names and properties. This knowledge of botany and zoology was not considered dangerous for humans, so they were allowed to learn about these subjects. The passage also conveys the joy and excitement of the Elohim scientists as they observed the first human male and female eagerly learning from them.
+
+Botany and zoology are branches of biology that focus on the study of plant and animal life, respectively. These fields provide essential knowledge about the organisms that share the planet with humans, their life cycles, habitats, and interactions with their environment. The understanding of these subjects allows humans to better manage resources, protect ecosystems, and maintain a balanced relationship with nature.
+
+From the perspective of the Elohim, it is likely that botany and zoology were deemed safe for humans because these fields generally do not provide direct access to advanced technologies or dangerous scientific knowledge that could be misused or threaten the Elohim's control over their creation. While botany and zoology offer valuable information about the living world, they do not inherently empower humans with the means to develop advanced technologies, manipulate genetic material, or create artificial life forms. By allowing humans to learn about botany and zoology, the Elohim would be fostering a sense of responsibility and appreciation for the natural world, which could help maintain a harmonious relationship between humans and their environment. This would be beneficial for both humans and the Elohim, as it would promote the sustainability and well-being of the planet.
+
+As the creators shared knowledge about the plants and animals in their environment, including their names and properties, humans began to learn about the living world around them. This early education in botany and zoology would have laid the foundation for their understanding of biology, ecology, and other related scientific fields. So, within this context, botany and zoology can be considered the first terrestrial human sciences acquired by the first humans.
 
 {{< figure src="images/above-clouds-platform.png" caption="Ill. 6 - Transluscent platform above the clouds" >}}
 

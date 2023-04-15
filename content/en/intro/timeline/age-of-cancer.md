@@ -37,18 +37,30 @@ However, this act could also be seen as controversial or dangerous within the co
 >
 > The new human beings then understood that they could also become creators in their turn, and they became angry at their “parents” for having kept them away from scientific books, considering them to be like dangerous laboratory animals.
 
-The human experiment
+In this passage, Yahweh refers to Genesis 3:7, where the eyes of the first humans were opened, and they realized they were naked. The passage then suggests that this realization also made them aware of their potential to become creators themselves, which made them angry at their "parents" for keeping them away from scientific books.
+
+The new human beings appear to have developed a sense of intellectual curiosity and a desire to gain knowledge and become creators themselves. This newfound awareness of their own potential may have led them to question the restrictions imposed on their access to scientific knowledge and to feel angry or resentful towards their creators for keeping them ignorant.
+
+It's possible that this anger was also fueled by a sense of betrayal, as the humans may have felt that their creators were withholding important information that could have helped them understand their world and their place in it. This realization could have led to a fundamental shift in the relationship between humans and their creators, as the former began to question the latter's authority and to assert their own intellectual autonomy.
+
+The humans' anger at their "parents" for keeping them away from scientific books suggests that they viewed this restriction as a form of oppression or control. This interpretation is reinforced by the comparison to "dangerous laboratory animals," which implies that the Elohim were treating the humans as mere subjects of experimentation, rather than as equals or partners in the creation process. This sense of frustration and resentment could have motivated the humans to seek out knowledge and power on their own, potentially leading to a rebellion or a shift in the power dynamics between humans and the Elohim. It's possible that this rebellion could have taken the form of a quest for scientific knowledge or technological advancement, as the humans sought to catch up with or surpass their creators.
+
+Alternatively, the humans' anger could have turned inward, as they began to question their own place in the world and their purpose as creations. This could have led to a sense of alienation or despair, as the humans struggled to reconcile their newfound awareness with their previously limited understanding of their own existence. The realization of their own potential as creators could have had far-reaching consequences for the humans and their relationship with the Elohim, potentially setting the stage for a complex and fraught dynamic between these two groups.
 
 {{< figure src="images/modern-urban-landscape.png" caption="Ill. 1 - Modern looking urban landscape in front of large pond" >}}
 
 ## The Serpent
 
->> And Yahweh<sup>1</sup>Elohim said unto the serpent, ‘Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.’
+>> And Yahweh<sup>1</sup> Elohim said unto the serpent, ‘Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.’
 >> Genesis 3: 14.
 >
 > The “serpent” was this small group of creators who had wished to tell the truth to Adam and Eve, and as a result they were condemned by the government of their own planet to live in exile on Earth, while all the other scientists had to put a stop to their experiments and leave the Earth.
 
-Exiled
+In this passage, Yahweh refers to Genesis 3:14, where the serpent is cursed for tempting the humans to eat from the tree of knowledge. The passage then suggests that the serpent refers to a small group of creators who wished to tell the truth to Adam and Eve, and as a result were condemned by the government of their own planet to live in exile on Earth. It appears that this group of creators challenged the established norms of their own civilization by advocating for the dissemination of scientific knowledge to humans. This act of defiance may have been seen as a threat to the government's control over its population and to the established order of their society.
+
+As a result, the creators were punished by being sent into exile on Earth, while the other scientists were forced to abandon their experiments and leave the planet. This punishment suggests that the government of the Elohim was willing to use harsh measures to maintain control over its population and to prevent the dissemination of dangerous knowledge. This passage therefore suggests that the conflict between the creators who wished to share knowledge with humans and the government that sought to maintain control over its population had significant consequences, leading to the exile of the creators and a shift in the relationship between humans and their creators.
+
+The fact that the Elohimian scientists were banished by their remote home planet government is presented as a crucial consequence of the narrative. The creators who wished to share knowledge with humans represent a progressive or revolutionary element within the Elohimian society, challenging the established order and advocating for greater freedom and equality. The government of the Elohim, on the other hand, represents a conservative or authoritarian element, seeking to maintain control and preserve the existing power structure. The conflict between these two groups could be seen as a reflection of the tensions that can arise between progressive and conservative elements within any society.
 
 >> Unto Adam also and to his wife did Yahweh Elohim make coats of skins, and clothed them.
 >> Genesis 3: 21.

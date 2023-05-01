@@ -19,13 +19,27 @@ The Age of Gemini lasts from –6'690 to –4'530 and follows the Age of Cancer 
 
 From the perspective of Genesis and its seven Days of Creation, the Age of Gemini would represent the Eight Day. The number eight is encoded in the amount of people entering Noah's Ark: Noah and his wife, his three sons and their wives, a total of 8 people.
 
+The Age of Gemini is associated with the eighth day of creation and represents a time of new beginnings and fresh starts. This is reflected in the story of Noah and the Flood, which is said to have taken place during this age. According to the biblical account, God was disappointed with the state of humanity and decided to cleanse the Earth with a flood, sparing only Noah and his family. The Age of Gemini is also associated with the concept of duality, reflected in the symbol of the twins. This age is said to represent a time of increased communication, exchange, and cooperation between different cultures and peoples. It is a time when ideas and knowledge are shared and disseminated, leading to increased understanding and collaboration.
+
 ## The Decision
 
 >> And Elohim saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. Genesis 6: 5.
 >
 > The “evil” in question was the desire of human beings to become scientific and independent people equal to their creators. Being “good”, as far as those on the Elohim’s planet were concerned meant the new human beings would remain primitive, vegetating on the Earth. Their “evil” was their wish to progress, perhaps enabling them one day to catch up with their creators.
 
-What happened on Earth was deemed too dangerous to the authorities on the Elohimian home planet.
+What happened on Earth was deemed too dangerous to the authorities on the Elohimian home planet. The passage suggests that Elohim saw the wickedness of humans on Earth, as they desired to become scientific and independent, equal to their creators. This desire for progress and advancement was seen as "evil" by the authorities on the Elohim's planet, who preferred the new human beings to remain primitive and under their control. The conflict between the desire for progress and the desire for control can be seen as a fundamental tension that has played out throughout human history.
+
+According to the perspective presented in the text, the Elohim's home planet government held a certain moral code that defined what was "good" and "evil." From their point of view, the "good" outcome was for the newly created human beings to remain primitive and dependent on their creators, while the "evil" outcome was for humans to become independent and equal to their creators through scientific progress.
+
+This suggests that the morality of the Elohim's government was based on a hierarchical power structure, with the creators at the top and the humans below them. In this framework, it was considered "good" for the humans to remain subservient to their creators, while it was "evil" for them to challenge their creators' power or to strive for equality with them. This moral code may have been enforced through the government's control over scientific knowledge, as well as through the use of force to maintain the existing power structure.
+
+What is important to understand here is that the concept of good and evil presented in this interpretation of Genesis is tied to a specific perspective, that of the Elohim home planet's government. The Elohim saw themselves as responsible stewards of scientific knowledge, and believed that sharing this knowledge with humans would be dangerous and could lead to destruction. From their perspective, it was "good" for humans to remain primitive and subservient to their creators, as this would ensure their safety and prevent them from acquiring dangerous knowledge.
+
+However, this perspective is not absolute and is subject to interpretation. Other individuals or societies may have different beliefs about what is "good" and what is "evil." For example, a society that values progress and innovation may see the acquisition of scientific knowledge as "good" and the restriction of knowledge as "evil." Similarly, a society that values individual freedom may see the subjugation of one group by another as "evil" and the pursuit of equality as "good."
+
+It can be inferred that the Elohim faction banished to Earth, including the group known as the Serpent, had a different moral code than the Elohim government from their home planet. They believed in sharing scientific knowledge with humanity and allowing them to progress and evolve, while the Elohim government sought to maintain control over their population and prevent the dissemination of dangerous knowledge. The group known as the Serpent, in particular, was portrayed as a small group of creators who challenged the established norms of their own civilization by advocating for the dissemination of scientific knowledge to humans. This act of defiance may have been seen as a threat to the government's control over its population and to the established order of their society. As a result, they were punished by being sent into exile on Earth, while the other scientists were forced to abandon their experiments and leave the planet.
+
+This suggests that the Serpent and the banished Elohim faction had a moral code that placed a high value on the pursuit of knowledge and the advancement of civilization, even if it meant challenging the established order and risking their own well-being. They believed in the potential of humanity to reach their level of knowledge and saw themselves as mentors and guides to help them achieve this goal. This is in contrast to the moral code of the Elohim government, which placed a high value on maintaining control over their population and preventing the dissemination of dangerous knowledge.
 
 {{< figure src="images/circular-city-seen-from-the-sky.png" caption="Ill. 1 - Circular megalopolis seen from the sky" >}}
 
@@ -36,7 +50,15 @@ creators were informed of the project they asked Noah to build a spaceship, whic
 >
 > This was true figuratively speaking, but in reality - and your scientific knowledge will very soon enable you to understand this - a single living cell of each species, male and female, is all that is required to recreate a whole being. This is something like the first living cell of a fetus in the womb of its mother, which already possesses all the information needed to create a human being right down to the color of its eyes and hair. This was a colossal task, but it was completed on time.
 
-Noah's Ark - a spacecraft meant to preserve genetic material
+The Elohim government, seeing the scientific progress of human beings as a threat, decided to destroy all life on Earth using nuclear missiles. However, the exiled creators asked Noah to build a spaceship that would preserve pairs of each species during the cataclysm. The preservation of a single living cell of each species, male and female, was sufficient to recreate the whole being, which was a colossal task but completed on time.
+
+The story of Noah's Ark as presented in the Bible is actually a metaphor for a larger scientific undertaking. The Elohim, who had created humans and other species on Earth, realized that a catastrophic event was imminent and that all life on Earth was at risk. To preserve the genetic material of each species, they instructed Noah to build a spaceship that would orbit the Earth during the cataclysm, containing a single living cell of each species, male and female.
+
+The text suggests that this was not meant to be taken literally, but rather figuratively. The idea is that a single living cell contains all the genetic information necessary to recreate an entire being, similar to how the first living cell of a fetus contains all the information needed to create a human being. In this way, Noah's Ark can be seen as a metaphor for a larger project to preserve the genetic material of all species on Earth, which was accomplished by collecting and storing living cells from each species. This insight presents Noah's Ark not as a miraculous vessel that saved a select group of animals from a global flood, but rather as a symbol of humanity's efforts to preserve the genetic diversity of life on Earth.
+
+The preservation project would have involved collecting a single living cell of each species, male and female, and preserving them on board the spaceship. The process of preserving the genetic material would likely have involved advanced technology and techniques that are beyond our current understanding.
+
+One possibility is that the genetic material was cryogenically preserved, which involves freezing the material at very low temperatures to slow down its metabolic processes and prevent decay. Another possibility is that the genetic material was stored in a highly stable and protected environment, such as within a specially designed container or within the structure of the spaceship itself. It is important to note that the details of how the preservation project was actually carried out are not provided in the passage, so any explanations would be speculative. However, the passage suggests that the exiled creators had all the necessary knowledge and technology that enabled them to undertake this monumental task.
 
 {{< figure src="images/vehicle-in-snowy-landscape.png" caption="Ill. 2 - Guarding groups collecting genetic material all over the world" >}}
 
@@ -44,7 +66,7 @@ Noah's Ark - a spacecraft meant to preserve genetic material
 >
 >> ...and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. Genesis 6: 16.
 
-The spacecraft had multiple sections
+This passage clearly reiterates that the ark was indeed a spacecraft, and needed to be constructed in a predefined manner based on blueprints provided by the banished Elohim, with the instruction to make it with three sections or floors: a lower section, a second section, and a third section. This is consistent with the idea that the ark was not just a wooden boat, but a technologically advanced spacecraft designed to preserve genetic material and sustain life during a catastrophic event.
 
 {{< figure src="images/man-standing-on-cliff-overseeing-spacecraft.png" caption="Ill. 1 - Guarding groups collecting genetic material all over the world" >}}
 
@@ -52,7 +74,11 @@ The spacecraft had multiple sections
 
 > When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
 
-Global mass-extinction cataclysm
+The Great Flood caused by the nuclear explosion submerged the continent with a massive tidal wave and destroyed all life forms on the surface. However, life had already been preserved a few thousand kilometers above the Earth in Noah's spacecraft. Everything was preserved and guarded in time through the Ark spacecraft carrying genetic material of each species. This ensured the continuation of life on Earth after the fading away of the cataclysmic flood and its aftermath's effects.
+
+The Great Flood was a cataclysmic event that caused a global mass extinction and was responsible for breaking up the original supercontinent. The explosion that triggered the Flood was so powerful that it caused a shift in the Earth's axis, which resulted in the sinking of the ancient continent. This theory is supported by geological evidence that suggests that there was a major shift in the Earth's tectonic plates around 8'000 years ago, which is consistent with the timeline proposed in the book. The Flood was also responsible for depositing large amounts of sedimentary rock and other geological formations that can still be observed today. Overall, the theory suggests that the Great Flood was a catastrophic event that fundamentally altered the course of human history and the planet itself.
+
+As the floodwaters receded, they left behind massive sedimentary deposits, which only over a few months or years, turned into solid rock formations. The shifting of tectonic plates, caused by the catastrophic event, also resulted in the creation of mountain ranges and the breakup of the original supercontinent, Pangaea. The movement of the plates and the resulting collisions caused intense pressure and folding of the Earth's crust, leading to the formation of mountain ranges such as the Himalayas and the Andes. The layers of sedimentary rock formations that were deposited during the Great Flood can also be seen as evidence of the event. The distinct layers represent different periods of time, and the fossils found within them provide clues about the types of creatures that existed during each period.
 
 {{< figure src="images/projectile-impact-on-earth.png" caption="Ill. 3 - Cosmic impact causing Earth-wide cataclysmic mass-extinction event" >}}
 
@@ -60,9 +86,9 @@ Global mass-extinction cataclysm
 >
 > As you can clearly see, it is said that the ark was lifted “above” the Earth and not “on” the water.
 
-The preservational spacecraft managed to escape in time
+The passage highlights that the ark was lifted "above" the earth and not "on" the water, as mentioned in Genesis 7:17. The preservational spacecraft managed to escape in time. The description of the ark (spacecraft) being lifted "above" the Earth strongly suggests that it was not a conventional boat as conventional interpretations still persist to explain, but rather a spacecraft that has to be capable of leaving the waters into the space of air.
 
-There are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
+It is noteworthy, that there are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
 
 {{< figure src="images/ark-in-orbit.png" caption="Ill. 4 - Ark spacecraft in safe orbital space" >}}
 
@@ -72,25 +98,33 @@ There are reasons to believe that the Great Flood happened around 6'000 BC when 
 >
 >> And the waters prevailed upon the earth an hundred and fifty days. Genesis 7: 24.
 
-Radioactive fallout
+This passage states that after the flood, the waters prevailed upon the earth for 150 days, implying that it took that long for the radioactive fallout to dissipate and the environment to become safe for the Ark's passengers to disembark.
+
+When the decision was made to destroy all life on Earth, they sent nuclear missiles to achieve the goal of mass-extinction as pointed out at the outset of this chapter. The resulting explosions would have created radioactive fallout, which would have been dangerous to any remaining life on the planet, including the preserved genetic material on the spacecraft. Therefore, it was necessary to wait until the radioactive fallout had dissipated before landing on the ground and beginning the process of reseeding the planet with life.
+
+Some method of nuclear decontamination was necessary to shorten the amount of time they had to wait in safer outer space before attempting to land back on the grounds of Earth.
 
 > Later it landed on Earth, and besides Noah, it carried a couple from each race of human beings on the Earth.
 >
 >> And Elohim remembered Noah... and Elohim made a wind to pass over the earth, and the waters asswaged. Genesis 8: 1.
 
-The spacecraft landed on dry land
+The passage describes how after the flood, the Ark spacecraft carrying Noah and the genetic legacy of all life created on Earth by the Elohim on Earth landed on on dry land.
 
 > After monitoring the level of radioactivity and dispersing it scientifically, the creators told Noah to release the animals to see if they could survive in the atmosphere. This operation was successful, and they were able to venture out into the open air. The creators then asked the human survivors to work and multiply, and show their gratitude to their benefactors who had created them and saved them from destruction. Noah agreed to give a portion of their harvest and their cattle to the creators to ensure they survived:
 >
 >> And Noah builded an altar unto Yahweh; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
 >> Genesis 8: 20.
 
-Humans were thankful.
+After the Great Flood, the banished creators who had saved the human race from destruction, instructed Noah to release the first batch of resurrected animals to see if they could survive in the atmosphere, which turned out to be a successful experiment. The recreation of all animals and human beings followed. The human survivors were then asked to show gratitude to their creators by working and multiplying. Noah agreed to give a portion of their harvest and cattle to the creators. He built an altar and offered burnt offerings of every clean beast and fowl to Yahweh as a sign of their gratitude. Humans were thankful.
 
 > The goal of humankind is scientific progress. Each race of humanity was then returned to its original place of creation, and each animal was recreated from the cells which had been preserved aboard the ark.
 >
 >> And by these were the nations divided in the earth after the flood.
 >> Genesis 10: 32.
+
+the purpose of humanity is to achieve scientific progress, and after the Flood, the human races were returned to their original places of creation. The preservation of genetic material in the Ark made it possible to recreate all species of animals that had been destroyed during the Flood. After the Flood, the human population and animal kingdom were thus able to start anew and repopulate the Earth. The passage from Genesis 10:32 suggests that the descendants of Noah's three sons (Shem, Ham, and Japheth) were responsible for repopulating a specific part of the Earth in today's Fertile Crescent and therefore creating the various nations at the crossroads of Asia, Africa and Europe. This can be seen as a symbol of the importance of diversity in human society, with different races and cultures contributing to the overall progress and development of humanity.
+
+Unfortunately, it is not possible to accurately estimate the amount of time it would have taken to recreate each species from the genetic data preserved aboard the Ark spacecraft. However, it is clear that this would have been a massive undertaking, requiring advanced scientific knowledge and technology. The text suggests that the Elohim creators were able to successfully recreate each animal species preserved that way. It is noteworthy that some species were deliberately chosen not to be recreated at this moment in time. A prominent example here are the dinosaurs.
 
 ## Noahic covenant
 

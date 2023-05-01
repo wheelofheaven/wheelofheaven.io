@@ -133,9 +133,9 @@ Unfortunately, it is not possible to accurately estimate the amount of time it w
 >> ...for the imagination of man’s heart is evil.
 >> Genesis 8: 21.
 
-Having safeguarded life was good.
+The creators were pleased to see that the humans had expressed gratitude for their preservation and promised not to try to destroy their creation again. They realized that it was natural for humans to desire scientific progress. Despite this, they acknowledged that the human heart can be prone to evil, as stated in Genesis 8:21. The preservation of life was seen as a positive outcome. Having safeguarded life was good in the eyes of the banished creators.
 
-The covenant established with Noah [Gen 9:1-17] extends to every living being, including humans and other creatures. As part of this agreement, God pledges never again to wipe out all life on Earth through a flood, and designates the rainbow as a symbol of the "eternal covenant" between God and every living creature, both human and animal, on the planet.
+The covenant established with Noah in Genesis, in which God promises never again to wipe out all life on Earth through a flood and designates the rainbow as a symbol of the "eternal covenant," can be seen as a precursor to the Noahide Laws. The covenant established with Noah [Gen 9:1-17] extends to every living being, including humans and other creatures. As part of this agreement, the creators pledges never again to wipe out all life on Earth through a flood, and designates the rainbow as a symbol of the "eternal covenant" between the Elohim and every living creature, both human and animal, on the planet.
 
 The Seven Laws refer to the set of moral and religious laws that according to Jewish tradition, were given to all of humanity through Noah after the flood. These laws are also known as the Noahide Laws or the Seven Noahide Laws. According to Jewish tradition, these laws are applicable to all human beings, regardless of their religion or nationality, and are considered the foundation of a just and moral society.
 
@@ -145,13 +145,17 @@ The Seven Laws refer to the set of moral and religious laws that according to Je
 >
 >> And now nothing will be restrained from them, which they have imagined to do. Genesis 11: 6.
 
-The rocket to reach the heavens
+The people of Israel, who were considered the most intelligent race, made remarkable progress and with the help of the exiled creators, were able to conquer space. The creators wanted the new human beings to go to their planet to obtain their forgiveness by demonstrating that they were intelligent, scientific, grateful, and peaceful. They built an enormous rocket, known as the Tower of Babel, which reflected their aspirations to achieve great feats beyond their current capabilities.
+
+It is possible that it could have been built in Eridu or a nearby location close to the Persian Gulf. This would have provided easy access to a large body of water that could have been used for rocket launch and recovery operations. Additionally, being near a body of water could have provided a source of fuel or other resources needed for the rocket's construction and operation.
 
 > The people on our planet became frightened when they heard about this. They were still observing the Earth and knew that life had not been destroyed.
 >
 >> Go to, let us go down, and there confound their language, that they may not understand one another’s speech. So Yahweh scattered them abroad from thence upon the face of all the earth. Genesis 11: 7-8.
 
-The Elohiman home planet took notice
+The people on the Elohim's planet became alarmed when they heard about the Tower of Babel, a rocket built by the people of Israel with the help of the exiled creators. They feared that the new human beings may be able to reach their planet and asked Yahweh to intervene. Yahweh then caused confusion by confounding their language, leading to their scattering across the Earth. This event is described in Genesis 11:7-8.
+
+the people on the distant planet who were observing the Earth became frightened when they heard that the people of Israel were making remarkable progress in space exploration and were building an enormous rocket to go to the creators' planet to obtain their pardon. To prevent this from happening, they decided to intervene and confound the language of the people building the tower so that they would not understand each other's speech.
 
 > So they came and took the Jews who had the most scientific knowledge and scattered them all over the continent among primitive tribes in countries where nobody could understand them because the language was different, and they destroyed all their scientific instruments.
 
@@ -163,10 +167,16 @@ Preventive action
 >
 >> In that day Yahweh with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea. Isaiah 27: 1.
 
-The creators during that span of time hid themselves in the oceans.
+The creators built their bases on high mountains and at the bottom of the sea to avoid being disturbed by humans. The mountain stations were gradually abandoned in favor of submarine bases less accessible to humans. The banished creators had hidden themselves in the oceans.
+
+The idea of a War in Heaven or a cosmic conflict between older and younger gods is a common theme in various mythologies and religious traditions. In the context of the Elohim and the banished creators, it is suggested that there was a power struggle or conflict between the original creators and a new faction that emerged on the home planet.
+
+This conflict led to the banishment of the creators to Earth, where they were able to establish a presence and influence human history. The reference to "leviathan" and "the dragon in the sea" in Isaiah 27:1 can be seen as symbolic of this conflict between the older and younger factions, with the "dragon" representing the banished creators who took refuge in the oceans.
+
+Overall, this suggests that the Elohim and the banished creators had different agendas and approaches to their interactions with humanity and the universe, leading to conflict and tension between them.
 
 > At that time the government of their planet wanted to destroy those who had created the humans.
 
-This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here, the so called "Theomachy".
+This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here, the so called "Theomachy". The government of the Elohim's planet wanted to destroy the banished creators who had come to Earth and created humans. This indicates a conflict or disagreement between the two groups, possibly due to differing ideologies, beliefs, or goals. It also suggests that the creators may have been seen as a threat to the established order or power structure on the Elohim's planet, leading to a desire to eliminate them.
 
 ## A quick recap

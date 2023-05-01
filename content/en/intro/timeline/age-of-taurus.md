@@ -21,7 +21,9 @@ The Age of Gemini lasts from –4'530 to –2'370 and follows the Age of Gemini 
 
 > The exiled creators were pardoned and allowed to return to their original planet where they pleaded the case of their magnificent creation. As a result, everyone on the distant planet fixed their eyes on the Earth because it was inhabited by people they had themselves created.
 
-The exiled creators who were fighting/resisting their home planet's authority was pardoned and could return back to their home world again.
+The exiled creators were eventually forgiven and permitted to return to their original planet. They used this opportunity to advocate on behalf of their creation, the humans on Earth. This led to the distant planet focusing their attention on Earth as they realized it was home to the people they had created.
+
+According to the text, the home planet's government ultimately won the conflict and decided to pardon the exiled creators. The text does not provide specific details on how this conflict was resolved, but it suggests that the creators were able to plead their case and convince the government of their planet to forgive them. After the pardon, the creators were allowed to return to their original planet, and everyone on the distant planet became interested in Earth because it was inhabited by beings that they themselves had created. It is possible that the resolution of the conflict involved a negotiation or agreement between the two factions, but the text does not provide further details.
 
 ## Sodom and Gomorrah
 

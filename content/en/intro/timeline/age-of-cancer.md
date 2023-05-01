@@ -104,15 +104,33 @@ It is suggested that the Elohim created human beings to be like them, but were c
 >
 > The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the “tree of life”, and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on as is stated in Genesis, Chapter 5, Verses 1-11.
 
-Tree of life as a sign of devotion
+In this passage, Cain brings an offering of fruit to Yahweh, while Abel brings the firstlings of his flock and their fat. The passage suggests that the creators in exile, who were under military surveillance, urged the human beings to bring them food in order to show their superiors that the newly created people were good and would not turn against their creators. Through this, they managed to obtain permission for the leaders of the first human beings to benefit from the “tree of life,” allowing them to live for an exceptionally long time, as stated in Genesis, Chapter 5, Verses 1-11.
+
+In this context, the Tree of Life can be seen as a sign of devotion because the creators in exile were willing to risk their own safety and well-being to provide their human creations with access to this technology. They believed that their human creations deserved to have the same opportunity to live long and productive lives as they did, and were willing to go to great lengths to ensure that this was made possible. By providing the humans with access to the Tree of Life, the creators were showing their commitment to their creations and their desire to see them thrive.
+
+The fact that the creators had to convince their superiors to allow the humans to benefit from the Tree of Life suggests that this was not an easy decision to make. The Elohim government may have been concerned about the potential risks and dangers of allowing humans to live longer, and may have been hesitant to grant permission for this technology to be shared. By convincing their superiors to allow the humans to benefit from the Tree of Life, the creators were demonstrating their commitment to their creations and their belief in their potential to use this technology responsibly. This act of devotion and advocacy on behalf of their human creations can be seen as a significant gesture of love and solidarity.
+
+It is safe to assume that the relationship between the banished Elohim and their home planet's government was strained, if not outright hostile. The banishment of the Elohim from their home planet suggests that they were seen as a threat to the established order, possibly due to their advocacy for greater freedom and equality and their willingness to challenge the established norms regarding the dissemination of scientific knowledge. The government's decision to punish the creators by banishing them to Earth and forcing the other scientists to abandon their experiments suggests a willingness to use harsh measures to maintain control over its population and prevent the spread of dangerous knowledge.
+
+It is within the reasonable to assume further that the banished Elohim maintained some form of communication with their home planet's government, perhaps in an attempt to reconcile their differences or negotiate a return to their previous status. However, the text does not provide any details regarding the nature of this communication, so it is difficult to say for certain what the relationship between the two parties looked like. It is also possible that the banished Elohim took measures to protect themselves and their knowledge from their home planet's government, perhaps by developing new technologies or forming alliances with other groups who shared their views. Again, the text does not provide any specific details regarding these actions, so it is difficult to say for certain what the Elohim's strategy may have been.
 
 >> And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, that the sons of Elohim saw the daughters of men that they were fair; and they took them wives of all which they chose. Genesis 6: 1-2.
 >
 > The creators living in exile took the most beautiful daughters of humanity and made them their wives.
 
-Intercourse
+Yahweh refers to Genesis 6:1-2, which describes how the sons of Elohim took wives from among the daughters of men. According to the passage's interpretation, the creators living in exile took the most beautiful daughters of humanity and made them their wives. This suggests that the creators may have established relationships with humans, potentially forming families and intermingling with the human population.
+
+This passage raises questions about the nature of the relationship between the banished Elohim and their human creations. It is possible that the creators saw themselves as benevolent benefactors or mentors to the humans, and sought to establish relationships with them in order to guide and protect them. Alternatively, the Elohim may have been motivated by a desire for companionship or a sense of loneliness, leading them to seek out human partners. It is also possible that the Elohim's relationships with humans were more complex or fraught, potentially leading to tensions or conflicts between the two groups. The fact that the Elohim were banished by their own government suggests that there may have been significant disagreements or power struggles within Elohimian society, which could have influenced the nature of their relationship with humans.
+
+Let's make a small paranthesis here: The story in the Book of Enoch, an ancient Jewish religious text, is often seen as a parallel to the passage in Genesis 6:1-2. According to the Book of Enoch, the "sons of God", clearly referring to the Elohim as a whole[^1], saw the beauty of human women and took them as wives, giving birth to a race of giants known as the Nephilim.
+
+The parallels between the story in the Book of Enoch and the passage in Genesis 6:1-2 are striking, as both describe a situation in which supernatural beings take human women as wives and give birth to a new hybrid race of beings. In the Book of Enoch, the "sons of God" are explicitly identified as fallen beings, whereas in Genesis they are simply referred to as "sons of Elohim," a term which can be interpreted in various ways. The Enochian account is more precise in the sense that it tells us that there's a specific subset of the Elohimian species that were having children of the Human species. The classifier used is "fallen"[^2] which refers to the banished Elohim on planet Earth, clearly delimiting them from the remainder of the Elohimian civilization.
 
 {{< figure src="images/people-standing-over-golden-floor.png" caption="Ill. 4 - Group of individuals standing on golden floor" >}}
+
+[^1]: The phrase "Sons of Man" is a metaphorical or figurative expression. The word "of Man" refers to humanity as a whole, and "sons" emphasizes the shared human experience and identity. In contemporary usage, the phrase "Sons of Man" is not commonly used in everyday language. Instead, people tend to use terms such as "humanity," "people," or "humankind." In the same vein, the "Sons of God" refers to the entirety of the God-kind. If we use the original Hebrew term Elohim instead of God, we would refer the entirety of the Elohim-kind in these archaic terms as the "Sons of Elohim".
+
+[^2]: The original Hebrew term is Nephilim, a term borrowed from Hebrew נְפִילִים (“nefilim, fallen ones”), plural of נָפִיל (“nafíl, fallen one”). See here for more: [Nephilim | Wiktionary](https://en.wiktionary.org/wiki/Nephilim)
 
 ## Exceptional children
 
@@ -120,22 +138,38 @@ Intercourse
 >
 > Longevity is not hereditary and much to the relief of the authorities on the distant planet, the children of the new human beings did not automatically benefit from the “tree of life”. Thus the secret of life was lost, and mankind’s progress was slowed down.
 
-Progress slowed down
+In this passage, Yahweh states that his spirit will not always strive with man because they are flesh and limited in their lifespan. He declares that their days shall be limited to 120 years. It is suggested that longevity is not hereditary and that the children of the newly created human beings did not automatically benefit from the "Tree of Life". As a result, the secret of life was lost, and humanity's progress was slowed down. This passage implies that the limitation of human lifespan had a significant impact on the development of human civilization, as it prevented humans from accumulating knowledge and experience over longer periods of time.
+
+The Elohim home planet's government may have been relieved because the loss of the secret of life meant that their creations, the humans, would not have the ability to challenge their authority or disrupt the established order of their society. The government of the Elohim may have seen the sharing of scientific knowledge and the ability to prolong life as potentially destabilizing factors, and the fact that these abilities were not hereditary may have provided some reassurance that they could maintain control over their creations.
+
+The loss of the secret of life may have slowed down human progress, which may have been seen as a positive development by the government of the Elohim. As mentioned in the previous passage, the creators who wished to share knowledge with humans were seen as a progressive or revolutionary element within the Elohimian society, challenging the established order and advocating for greater freedom and equality. The government of the Elohim, on the other hand, represented a conservative or authoritarian element, seeking to maintain control and preserve the existing power structure. The loss of the secret of life may have been seen as a way to maintain the status quo and prevent any disruptive changes to the established order of their society.
 
 >> When the sons of Elohim came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. Genesis 6: 4.
 >
 > There you have proof that the creators could have intercourse with the daughters of humanity whom they had created in their own image, and in so doing produced exceptional children. These actions seemed very dangerous to people on the distant planet. The scientific progress on Earth was fantastic, and they decided to destroy what had been created.
 
-Men of renown
+The passage describes how the offspring of the sons of Elohim (the creators living in exile) and the daughters of men became mighty men of renown. This suggests that the offspring of these unions possessed exceptional abilities and may have played an important role in human history. However, the actions of the Elohim in producing these offspring were seen as dangerous by the authorities on their distant planet, and as a result, they decided to destroy what had been created. The passage implies that the scientific progress on Earth was seen as a threat to the established order of the Elohim's society and that they were willing to take drastic measures to maintain control over their population. It is possible that the authorities saw the interbreeding between the Elohim and humans as a violation of some fundamental principle, or as a threat to the genetic purity of their civilization.
+
+The drastic measures taken by the authorities to destroy what had been created suggests that they viewed the situation as a serious threat. It is possible that they believed that the interbreeding between the Elohim and humans would lead to some kind of catastrophic event or disruption of the natural order. Alternatively, they may have been concerned about the potential for the exceptional abilities of the offspring to upset the existing power structures on their home planet. Whatever the specific concerns may have been, the fact that the authorities took such drastic measures suggests that they viewed the situation as a major threat that required urgent action.
 
 During the second encounter with Yahweh, witnessed in the the second book "Extraterrestrials Took Me To Their Planet", Yahweh makes a revelation that refers back to the children made during these prediluvian times.
 
 > There is an important revelation, which you may now make. The Jews are our direct descendants on Earth. That is why a specific destiny is reserved for them. They are the descendants of “the sons of Elohim and the daughters of men”, as mentioned in Genesis. Their original mistake was to have mated with their scientific creations.
 
-Jews are the direct descendants of the Elohim
+Yahweh reveals that the Jews are direct descendants of the Elohim who mated with their scientific creations, the daughters of men, as mentioned in Genesis. The Jews, therefore, have a specific destiny reserved for them because of their direct lineage to the Elohim. This revelation suggests that the relationship between the Elohim and their human creations was complex and intertwined, with significant consequences for human history and the fate of the Jewish people.
 
 {{< figure src="images/pyramid-shaped-energy-structure.png" caption="Ill. 5 - Landmark structure emitting bright beam into the sky" >}}
 
 ## Seventh day of creation
+
+As per the sidereal astrology, The World Age refers to the 25,920-year precession of the equinoxes, also known as the Great Year. Each age lasts approximately 2,160 years, during which the vernal equinox moves through one of the twelve zodiacal constellations.
+
+The Age of Cancer is said to have started around –8,850 and ended around –6,690 BCE. This period is believed to have been characterized by the emergence of agriculture and the domestication of animals. It was a time of significant technological progress, particularly in the development of tools and weapons made from copper and bronze.
+
+If we consider the Seventh day of creation as the day of rest, it is typically associated with a time of peace and harmony, when all creation is in a state of balance and order. In the context of the Elohim story, this could be interpreted as a time when the creators had successfully established a stable and harmonious society on their home planet, marked by advanced scientific knowledge and a deep understanding of the natural world.
+
+During this age, the Elohim may have focused on cultivating their knowledge and developing new technologies, as well as exploring the mysteries of the universe. They may have also devoted time to the arts, music, and other creative pursuits, as a means of expressing their understanding of the world and their place within it.
+
+It is also possible that the Seventh day of creation represents a time of reflection and introspection, when the creators took a step back to consider the impact of their actions and the consequences of their knowledge. They may have recognized the potential dangers of sharing their knowledge too freely or using it for destructive purposes, and may have taken steps to ensure that their discoveries were used responsibly and for the greater good.
 
 ## A quick recap

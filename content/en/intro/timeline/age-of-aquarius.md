@@ -41,7 +41,7 @@ In the passage from the Book Which Tells The Truth, Yahweh explains that the Age
 >
 >> I will bring thy seed from the east, and gather thee from the west; I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth; Even every one that is called by my name: for I have created him for my glory. Isaiah 43: 5-7.
 
-Golden Age has arrived
+In this passage from the Book Which Tells The Truth, the return of the Jewish people to Israel is highlighted as a sign of the golden age. The prophecy, as described in Isaiah 43:5-7, foretells the gathering of the Jewish people from all directions—east, west, north, and south—returning to their homeland. This event serves as a fulfillment of God's plan, as they are created for "His glory" and have been called by "His name". The Golden Age has arrived.
 
 ## The Truth
 

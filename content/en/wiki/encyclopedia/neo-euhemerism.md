@@ -48,6 +48,7 @@ The concept of Neo-Euhemerism can be seen as a core tenet of the philosophical i
 - [Wiki › Ancient Astronaut hypothesis]({{< relref "wiki/encyclopedia/ancient-astronaut-hypothesis.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Sendy\'s conditions of coherence]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})
+- [Wiki › Plurality of Gods]({{< relref "wiki/encyclopedia/plurality-of-gods.md" >}})
 
 ## External links
 

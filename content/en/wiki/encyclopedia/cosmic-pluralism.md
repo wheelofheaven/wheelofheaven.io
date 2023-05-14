@@ -64,6 +64,7 @@ In summary, Raëlism incorporates the idea of cosmic pluralism into its religiou
 - [Wiki › Astrobiology]({{< relref "wiki/encyclopedia/astrobiology.md" >}})
 - [Wiki › Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}})
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Plurality of Gods]({{< relref "wiki/encyclopedia/plurality-of-gods.md" >}})
 
 ## External links
 

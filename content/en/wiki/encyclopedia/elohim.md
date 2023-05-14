@@ -190,6 +190,7 @@ The term Elohim is the plural form of Eloha, which means "Celestials" or "ones f
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
+- [Wiki › Plurality of Gods]({{< relref "wiki/encyclopedia/plurality-of-gods.md" >}})
 - [Wiki › Satan]({{< relref "wiki/encyclopedia/satan.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
 

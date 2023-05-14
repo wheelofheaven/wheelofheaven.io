@@ -49,6 +49,7 @@ The idea that science and technology can liberate humanity from work and solve m
 
 ## See also
 
+- [Wiki › Cyberparadism]({{< relref "wiki/encyclopedia/cyberparadism.md" >}})
 - [Wiki › Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})
 - [Wiki › Humanitarianism]({{< relref "wiki/encyclopedia/humanitarianism.md" >}})
 - [Wiki › New Commandments]({{< relref "wiki/encyclopedia/new-commandments.md" >}})
@@ -59,4 +60,3 @@ The idea that science and technology can liberate humanity from work and solve m
 - [Post-scarcity economy | Wikipedia](https://en.wikipedia.org/wiki/Post-scarcity_economy)
 - [Fully Automated Luxury Individualist Anarchism | Edmund Berger article](https://thelibertarianideal.com/2017/03/06/fully-automated-luxury-individualist-anarchism/)
 - [Fully Automated Luxury Communism | Wikipedia](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)
-- [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)

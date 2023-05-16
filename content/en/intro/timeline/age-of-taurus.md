@@ -71,6 +71,8 @@ The passage describes the destruction of Sodom and Gomorrah through a rain of br
 
 ## Abraham
 
+Now that Sodom and Gomorrah were both razed to the ground and most likely left the a huge crater that became known as the Dead Sea, [Abraham]({{< relref "wiki/encyclopedia/abraham.md" >}}), the infamous Hebrew patriarch of Biblical fame, does get introduced.
+
 > Later, after most of their leading intellectuals had been destroyed, and they had relapsed into a semi-primitive state, the creators wished to see if the people of Israel, and particularly their leader, still had positive feelings towards them.
 
 The creators, after the destruction of many leading intellectuals, observed that the people of Israel had relapsed into a semi-primitive state. They wanted to test if the people, and their leader in particular, still had positive feelings towards them.

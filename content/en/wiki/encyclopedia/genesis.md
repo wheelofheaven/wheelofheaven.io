@@ -222,6 +222,7 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › Life engineering]({{< relref "wiki/encyclopedia/life-engineering.md" >}})
 
 ## External links
 

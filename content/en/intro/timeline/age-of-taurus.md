@@ -13,7 +13,7 @@ weight: 245
 toc: true
 ---
 
-The Age of Gemini lasts from –4'530 to –2'370 and follows the Age of Gemini which lasted up to –4'530.
+The Age of Taurus lasts from –4'530 to –2'370 and follows the Age of Gemini which lasted up to –4'530.
 
 ![Image](images/equinox_bc4530.png "Vernal equinox in 4530 BC")
 

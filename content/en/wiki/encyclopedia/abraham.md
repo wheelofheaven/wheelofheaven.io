@@ -1,7 +1,7 @@
 ---
 title: "Abraham"
-description: "Abraham, a Biblical patriarch from the times of Sodom and Gomorrah."
-lead: "A Biblical patriarch from the times of Sodom and Gomorrah."
+description: "Abraham, a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
+lead: "A Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -32,9 +32,18 @@ Abraham is mentioned by Yahweh during their encounter with Raël. The following 
 
 This passage is discussing a story from the book of Genesis in the Bible, where the Elohim wanted to test the people of Israel, particularly their leader, Abraham, to see if they still held positive feelings towards them. At the time of the test, the people had relapsed into a semi-primitive state after many of their intellectuals were destroyed. The test involved Abraham being asked to sacrifice his own son, and his willingness to do so was taken as a sign of his loyalty and devotion to the creators. The creators ultimately intervened and prevented the sacrifice, indicating that they were satisfied with Abraham's loyalty.
 
+## Our take
+
+One of the main aspects of the [Wheel of Heaven exegesis]({{< relref "wiki/encyclopedia/wheel-of-heaven.md" >}}) is that the whole timeline of the events described in the Biblical scriptures and subsequently in the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) happen within one [precessional cycle of 25'920 years]({{< relref "wiki/encyclopedia/great-year.md" >}}). Considering this, the events during Abraham's lifetime are presumed to have occured during the Age of Taurus, a period of time that falls between 4'530 to 2'370 BCE.
+
+Abraham served as an important caesura in the relationship between human beings on Earth and their extraterrestrial creator parents, the Elohim. Up until that point, human beings enjoyed a certain level of self-determination and autonomy. After the [Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}}) cataclysmically reset life on Earth and the planet had to be repopulated, the postdiluvian human civilization grew fast demographically and technologically with the help of the banished creators that also had to remain on Earth and the technology and scientif wealth either safeguarded during the cataclysm or salvaged thereafter.
+
+The banished creators were pardoned and had left since the days of the diplomatic spacecraft mission commonly known as the [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}), progress and the level of scientific sophistication vanished with the destruction of Sodom and Gomorrah, both cities the remaining two centers of innovation. Abraham served the purpose of being prove that humanity remained non-hostile and became one of the first ambassadors (prophet) appointed by the Elohim to preserve their legacy.
+
 ## See also
 
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
+- [Intro > Timeline > Age of Taurus # Abraham]({{< relref "intro/timeline/age-of-taurus.md#abraham" >}})
 
 ## External links
 

@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-{{< email user="zarazinsfuss" domain="protonmail(dot)com" >}}
+Please reach us through our Twitter profile. The handle is [@wheelofheaven](https://twitter.com/wheelofheaven)

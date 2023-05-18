@@ -36,6 +36,14 @@ During a severe famine, Abraham and his wife Sarai (later renamed Sarah) underto
 
 Later in his life, Abraham made his home in Hebron, a city in the southern part of Canaan. Hebron is one of the oldest continuously inhabited towns in the world and is of great religious importance for Jews, Christians, and Muslims. It is in Hebron that the Cave of the Patriarchs, the supposed burial site of Abraham and Sarah, is located.
 
+## Etymology
+
+The name "Abraham" comes from the Hebrew name אַבְרָהָם (Avraham). It's composed of two parts: "Av", which means "father", and "raham", which is thought to mean "multitude" or "many". Thus, the name Abraham is often interpreted as "father of many" or "father of a multitude".[^many] Initially, his name was Abram (אַבְרָם)[^abram], meaning "exalted father", but it was changed to Abraham after God's promise that he would become the father of many nations (Genesis 17:5).
+
+[^many]: The name "Abraham" is interpreted in Hebrew as either "Father of many," derived from אַב (aḇ, “father of”) and הֲמוֹן (hăˈmōn, “multitude of”) as mentioned in Genesis 17:4–5, or as "Father is exalted," from אַב (aḇ) and רם (“exalted, high”), which also forms אַבְרָם ('aḇrām, “Abram”). See here for more: [אברהם | Wiktionary](https://en.wiktionary.org/wiki/%D7%90%D7%91%D7%A8%D7%94%D7%9D)
+
+[^abram]: The name "Abraham" may also be derived from the combination of the Hebrew words אָב (ʾāḇ, "father") and רָם (rām, "high"), thus interpreted as "high father". See here for more: [אברם | Wiktionary](https://en.wiktionary.org/wiki/%D7%90%D7%91%D7%A8%D7%9D)
+
 ## In Raëlism 🔯
 
 Abraham is mentioned by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}) during their encounter with Raël. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of Abraham:
@@ -44,7 +52,7 @@ Abraham is mentioned by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}) d
 >
 >> Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim. — Genesis 22: 12.[^lay]
 
-This passage is discussing a story from the book of Genesis in the Bible, where the Elohim wanted to test the people of Israel, particularly their leader, Abraham, to see if they still held positive feelings towards them. At the time of the test, the people had relapsed into a semi-primitive state after many of their intellectuals were destroyed. The test involved Abraham being asked to sacrifice his own son, and his willingness to do so was taken as a sign of his loyalty and devotion to the creators. The creators ultimately intervened and prevented the sacrifice, indicating that they were satisfied with Abraham's loyalty.[^x]
+This passage is discussing a story from the book of Genesis in the Bible, where the Elohim wanted to test the people of Israel, particularly their leader, Abraham, to see if they still held positive feelings towards them. At the time of the test, the people had relapsed into a semi-primitive state after many of their intellectuals were destroyed. The test involved Abraham being asked to sacrifice his own son, and his willingness to do so was taken as a sign of his loyalty and devotion to the creators. The creators ultimately intervened and prevented the sacrifice, indicating that they were satisfied with Abraham's loyalty.
 
 ## Our take
 
@@ -54,7 +62,7 @@ Abraham served as an important caesura in the relationship between human beings 
 
 The banished creators were pardoned and had left since the days of the diplomatic spacecraft mission commonly known as the [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}), progress and the level of scientific sophistication vanished with the destruction of Sodom and Gomorrah, both cities the remaining two centers of innovation. Abraham served the purpose of being prove that humanity remained non-hostile and became one of the first ambassadors (prophet) appointed by the Elohim to preserve their legacy.
 
-[^lay]: Excerpt from Raël (1973): The Book Which Tells The Truth, p. 25. [Read the excerpt here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#the-sacrifice-of-abraham). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
+[^lay]: Excerpt from Raël (1973): The Book Which Tells The Truth, p. 25. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#the-sacrifice-of-abraham). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
 
 ## See also
 

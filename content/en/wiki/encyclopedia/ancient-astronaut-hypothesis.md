@@ -15,6 +15,18 @@ toc: true
 
 The Ancient Astronaut Hypothesis proposes that in ancient times, extraterrestrial beings visited Earth and interacted with humans. Proponents of the theory suggest that evidence of these interactions can be seen in ancient art, legends, and architecture, which they claim cannot be fully explained by conventional historical and scientific explanations. They also argue that certain technological and cultural advancements in human history, such as the building of the pyramids in Egypt or the creation of the Nazca lines in Peru, could not have been achieved without outside influence.
 
+## Historical development
+
+The roots of the ancient astronauts hypothesis can be traced back to the 19th and early 20th centuries when people started to interpret ancient myths, religions, and artwork through the lens of the then-burgeoning field of science fiction.
+
+- **Late 19th Century**: Early 20th Century: Authors such as H.P. Lovecraft, in his science fiction works, often mentioned the idea of ancient extraterrestrial beings influencing human history. Charles Fort, in the early 20th century, collected accounts of what he considered anomalies, many of which would later be interpreted by others as evidence of ancient astronauts.
+
+- **1950s-1960s**: The hypothesis gained more popularity in the mid-20th century. Desmond Leslie and George Adamski's book "Flying Saucers Have Landed" (1953) suggested that ancient civilizations on Earth were influenced by extraterrestrial visitors. Erich von Däniken’s "Chariots of the Gods?" (1968) popularized the ancient astronaut theory with a wider audience. The book suggested that many ancient monuments, such as the Egyptian Pyramids or the statues on Easter Island, were built with the help of extraterrestrials.
+
+- **1970s-1980s**: This period saw the hypothesis becoming part of popular culture, featuring in films, television series, and comic books. The "Ancient Aliens" theory, as it is now commonly known, continued to grow in popularity despite strong criticism from the scientific community.
+
+- **1990s-Present**: Despite ongoing criticism and lack of empirical evidence, the ancient astronaut hypothesis has continued to hold a certain appeal. The History Channel's series "Ancient Aliens" (starting in 2009) has given the theory ongoing exposure to a large audience, despite widespread criticism for presenting pseudoscience as factual.
+
 ## List of proponents
 
 Here are some of the most well-known proponents of the ancient astronaut hypothesis:
@@ -53,7 +65,7 @@ Here are some of the most well-known proponents of the ancient astronaut hypothe
 
 - **Claude Vorilhon (also known as Raël)**: A French former race car journalist who founded the Raëlian movement, which believes that life on Earth was created by extraterrestrial beings.
 
-- **Paul Wallis**: An Australian author who has written several books on the ancient astronaut hypothesis, including "The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?" and "Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?"
+- **Paul Anthony Wallis**: An Australian author who has written several books on the ancient astronaut hypothesis, including "The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?" and "Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?"
 
 ## In Raëlism 🔯
 

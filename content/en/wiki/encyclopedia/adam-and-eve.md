@@ -47,7 +47,7 @@ Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael'
 
 This passage is from the book of Genesis in the Bible and describes the story of Adam and Eve. In the story, the [Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}}), a group of the Elohim creators that wanted their genetically engineered children to know about their origins, tells Adam and Eve [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}), which results in the Serpentine group being judged by the governing body of the Elohimian civilization, which forced them to live in exile on Earth from theron. Adam and Eve are then provided with clothing made and means of survival by the banished Elohimian creators.
 
-[^fruit]: Excerpt from Raël (1973): The Book Which Tells The Truth, p. 17. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
+[^fruit]: Excerpt from Raël (1973): The Book Which Tells The Truth, republished in Intelligent Design: Message from the Designers (2005), p. 17. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
 
 ## See also
 

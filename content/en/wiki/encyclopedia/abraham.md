@@ -22,6 +22,20 @@ In the Bible, Abraham is described as:
 - The founder of the covenant between God and the Israelites, through which God promised to make Abraham's descendants a great nation (Genesis 12:1-3, 15:18)
 - The ancestor of Jesus (Matthew 1:1-17)
 
+## Historical context
+
+Abraham is a central figure in the Abrahamic religions as previousley mentioned, including Judaism, Christianity, and Islam. His life, as per religious tradition, is thought to have taken place around 2000 BCE, though it's important to note that this is not a historically verifiable timeline since written history doesn't extend well that far back in the Middle East.
+
+Abraham's story begins in the Book of Genesis, where it's mentioned that he was born in Ur of the Chaldeans, an ancient city-state in the region we now call southern Iraq. This location, situated between the Tigris and Euphrates rivers, is part of Mesopotamia, one of the cradles of human civilization. In Abraham's time, this region was likely a complex landscape of various city-states, small kingdoms, and tribal alliances.
+
+Abraham's father, Terah, decided to move the family from Ur towards Canaan, but they ended up settling in Haran. Haran was located further north, near the modern border between Turkey and Syria. It was an important hub of trade and exerted a considerable amount of cultural and religious influence in the region.
+
+Abraham's journey continued when the Elohim commanded him to leave Haran and travel to Canaan. The land of Canaan corresponds roughly to today's Israel, Palestine, Lebanon, and parts of Jordan and Syria, with a location along the eastern Mediterranean Sea, a region often referred to as the Levant. In biblical times, Canaan was a patchwork of various city-states, each having its own king.
+
+During a severe famine, Abraham and his wife Sarai (later renamed Sarah) undertook a journey to Egypt. Egypt, a remarkable civilization in northeast Africa, was one of the world's earliest and longest-lasting civilizations, centered along the fertile Nile River. It would have been a powerful kingdom and a hub of culture and learning in the ancient world at the time of Abraham's visit.
+
+Later in his life, Abraham made his home in Hebron, a city in the southern part of Canaan. Hebron is one of the oldest continuously inhabited towns in the world and is of great religious importance for Jews, Christians, and Muslims. It is in Hebron that the Cave of the Patriarchs, the supposed burial site of Abraham and Sarah, is located.
+
 ## In Raëlism 🔯
 
 Abraham is mentioned by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}) during their encounter with Raël. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of Abraham:
@@ -45,6 +59,8 @@ The banished creators were pardoned and had left since the days of the diplomati
 ## See also
 
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
+- [Wiki › Sodom and Gomorrah]({{< relref "wiki/encyclopedia/sodom-and-gomorrah.md" >}})
+- [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 - [Intro › Timeline › Age of Taurus \# Abraham]({{< relref "intro/timeline/age-of-taurus.md#abraham" >}})
 
 ## External links

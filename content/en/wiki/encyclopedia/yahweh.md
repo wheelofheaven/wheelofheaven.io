@@ -31,7 +31,7 @@ However, there are other interpretations and much scholarly debate about the ori
 
 ## In Raëlism 🔯
 
-In Raëlism, Yahweh is explicitely identified as the president of the Council of the Eternals governing the [Elohim’s planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}}) and therefore an individual of flesh and blood among the Elohimian civilization.
+In Raëlism, Yahweh is explicitely identified as the president of the [Council of the Eternals]({{< relref "wiki/encyclopedia/council-of-eternals.md" >}}) governing the [Elohim’s planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}}) and therefore an individual of flesh and blood among the Elohimian civilization.
 
 According to the second book [Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}}), Chapter Meeting the Ancient Prophets, Yahweh himself explains that the Council of the Eternals live in a planet dedicated for that purpose:
 
@@ -45,7 +45,7 @@ According to the second book [Extraterrestrials Took Me To Their Planet]({{< rel
 >
 > [...]
 
-The passage states that there is a residence on another planet where people from Earth can live due to a scientific secret of eternity based on a single cell. The residence is a large planet where the Council of the Eternals lives, and Yahweh is the president of that council. Currently, there are 8'400 people from Earth living there who have reached a sufficient level of open-mindedness towards the infinite or have contributed to humanity's progress through their discoveries, writings, ways of organizing society, and acts of fraternity, love, or selflessness. Alongside these people, there are 700 members of the Elohim who are part of the Council of the Eternals.
+The passage states that there is a residence on another planet where people from Earth can live due to a [scientific secret of eternity]({{< relref "wiki/encyclopedia/tree-of-life.md" >}}) based on a single cell. The residence is a large planet where the Council of the Eternals lives, and Yahweh is the president of that council. Currently, there are 8'400 people from Earth living there who have reached a sufficient level of open-mindedness towards the infinite or have contributed to humanity's progress through their discoveries, writings, ways of organizing society, and acts of fraternity, love, or selflessness. Alongside these people, there are 700 members of the Elohim who are part of the Council of the Eternals.
 
 [^message]: Excerpt from Raël (1976): Extraterrestrial Took Me To Their Planet, republished in Intelligent Design: Message from the Designers (2005), p. 161. Read the excerpt [here](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/2_the_second_encounter.html#meeting-the-ancient-prophets).
 
@@ -75,8 +75,8 @@ The experiment Yahweh is referring to was explained a little earlier on in the s
 
 Yahweh, the president of the council of the eternals, is 25,000 years old and has lived in twenty-five bodies. He directed the creation of life on Earth and has accumulated a vast amount of knowledge. The Elohim have a technology that allows them to re-create a person's body with new living matter using a tiny sample taken from the body. This technology can create a new body with the potential for another one thousand years of life, and the population is limited by granting eternal life only to geniuses. The council of the eternals decides who among those who have died deserves to live another life, and a grand council of the eternals assembles to judge who, in the light of their work, deserves to join the council of the eternals as a perpetual member. Those who wish to have a new life no longer have the right to have children. The scientists who were members of the council of the eternals created life on other planets as a way to transfer their procreative instincts.
 
-[^idema]: idem, p. 113
-[^idemb]: idem, p. 108
+[^idema]: idem, p. 113. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/7-the-elohim.html?highlight=immeasurable#nuclear-weapons)
+[^idemb]: idem, p. 108. Read the excerot [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/7-the-elohim.html?highlight=750#the-secret-of-eternity)
 
 ### Alpha and Omega
 

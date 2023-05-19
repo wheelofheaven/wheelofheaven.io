@@ -21,6 +21,10 @@ Hebrew is a member of the Canaanite group of Semitic languages. Ancient Hebrew, 
 
 The earliest known Semitic languages include Akkadian and Eblaite. Akkadian, the language of the ancient Akkadian Empire, existed from around 2800 to 500 BCE. Eblaite, spoken in the ancient city-state of Ebla (modern Syria), is known from texts dating back to the 24th century BCE. Another ancient Semitic language is Amorite, which existed from around 2000 to 1600 BCE.
 
+Especially Akkadian is interesting in regards to ancient Hebrew as it shares a lot of cognates. The Bible refers to Akkad in Genesis 10:10, which states:
+
+> The beginning of his Nimrod's kingdom was Babel, and Erech, and Accad, all of them in the land of Shinar.
+
 However, it's important to note that these are the earliest Semitic languages we have written records for. The actual origins of the Semitic language family likely date back several thousand years earlier, perhaps to the 4th millennium BCE. These origins are largely unrecorded and thus open to speculation.
 
 ## Relationship with Sumerian
@@ -57,10 +61,14 @@ If we assume that the first human beings during the Age of Leo or perhaps during
 
 ## Table of Semitic cognates
 
-
 | Biblical Hebrew                | Akkadian                                     | Sumerian logograms            | Meaning                   |
 |--------------------------------|----------------------------------------------|-------------------------------|---------------------------|
+| אַכַּד ('akád), Akkad             | 𒀝𒅗𒁲𒂊 (ak-ka-de-e), unknown meaning           | 𒌵𒆠 (URI.KI), place of Akkad   | Akkad                     |
+| בָּבֶל (bavél), Babel             | 𒆍𒀭𒊏𒆠 (Bābilim), gate of the gods           | 𒆍𒀭𒊏𒆠 (KA₂.DINGIR.RAki), gate of the gods | Gate to the Gods |
+| עֵרֶךְ ('érekh), Erech            | 𒌷𒀕 (Uruk), city of the throne                | 𒀕𒆠 (UN.UGki), place of the throne | City of the Throne    |
+| אֱלֹהִים (ʾélôhím), Elohim        | 𒀭 (ilum), from the sky                       | 𒀭 (ān) sky                    | The ones from the skies   |
 | נָחָשׁ (nakhásh), serpent         | 𒌨𒈤𒊭𒆕𒋡𒊑 (nēšu ša qaqqari), lion of the ground | 𒌨𒈤 (UR.MAȞ), great beast/lion | serpent?, lion            |
+| שנער (shin'ár), Shinar         | 𒆠𒂗𒄀 (Šumerum), Sumer                         | 𒆠𒂗𒄀 (KI.EN.GI), place of the noble lords | Sumeria        |
 
 ## See also
 

@@ -15,13 +15,27 @@ toc: true
 
 The Biblical Serpent refers to a serpent mentioned in the book of Genesis in the Bible. According to the biblical story, the serpent was a creature that appeared in the Garden of Eden and tempted Eve to eat the forbidden fruit from the Tree of Knowledge. This event is often seen as the first act of sin and disobedience, and is believed to have caused humanity to fall from a state of innocence and purity into a state of sin and mortality.
 
-The identity of the serpent has been the subject of much interpretation and debate throughout history. In some interpretations, the serpent is seen as a symbol of evil and temptation, while in others it is viewed as a representation of the cunning and deceptive nature of the Devil or Satan.
+## In the Bible
 
-In Christian tradition, the serpent is often associated with the idea of the fall of man, and is often used as a metaphor for sin and evil in the world. The serpent is also mentioned in the New Testament, where it is identified as the Devil or Satan, and is seen as a symbol of the opposition to God and the forces of evil in the world.
+In the Bible, the serpent is mentioned in the Book of Genesis, specifically in Genesis 3. In the Hebrew source text, the serpent is written נָחָשׁ (nakhásh)[^lion] and plays a significant role in the account of Adam and Eve in the Garden of Eden. According to the biblical narrative, the serpent is depicted as cunning and deceptive.
+
+In Genesis 3:1, the serpent is introduced: "Now the serpent was more crafty than any other beast of the field that the God had made." The serpent approaches Eve and engages her in a conversation, questioning the command given by God regarding eating from the tree of the knowledge of good and evil.
+
+Throughout the dialogue between the serpent and Eve, the serpent deceives her, suggesting that eating the forbidden fruit will not lead to death but rather to becoming like God, knowing good and evil. Eve eventually succumbs to the serpent's temptation and eats the fruit, followed by Adam.
+
+[^lion]: The Hebrew word used in the Bible is נָחָשׁ (nakhásh) and clearly denotes the snake animal. However, the Proto-Semitic root of נָחָשׁ is naḥaš-, which in Akkadian is nēšum (𒌨𒈤, pronounced as UR.MAḪ in Sumerian), meaning lion. In Akkadian, the word for serpent is also written as 𒌨𒈤𒊭𒆕𒋡𒊑 (nēšu ša qaqqari), literally meaning “lion of the ground”, where 𒆕𒋡𒊑 (qaqqarum) means the ground or earth. The Hebrew cognate of 𒆕𒋡𒊒 is קַרְקַע (karká') and both share the Proto-Semitic root *ḳarḳar- which is best represented by the Sumerian logogram 𒆠 (KI), all denoting the ground as a surface. On another note, If the Sumerian logogram for lion 𒌨𒈤 (UR.MAḪ) is prefixed with the Sumerian logogram of stars 𒀯 also explicitely denotes the Zodiac sign of Leo 𒀯𒌨𒈤 (mulUR.MAȞ). See here for more: [נחש | Wiktionary](https://en.wiktionary.org/wiki/%D7%A0%D7%97%D7%A9)
+
+## In Mesopotamian accounts
+
+In Mesopotamian and Babylonian mythology, there are references to a serpent-like entity known as the "šēdu" or "mušḫuššu." The Sumerian civilization, which predates Babylonian culture, also has serpent-like creatures mentioned in their mythology, such as the "ukum" or "mushmahhu." While there are different variations and interpretations across Mesopotamian and Sumerian texts, these entities generally share certain characteristics.
+
+In Mesopotamian mythology, the šēdu or mušḫuššu is often depicted as a hybrid creature with the body of a lion or a lion-dragon combination, and the head of a serpent or a snake-like creature. It is associated with chaos, destruction, and serves as a guardian or protector. The šēdu or mušḫuššu is sometimes portrayed as having wings, further emphasizing its formidable nature.
+
+Similarly, in Sumerian mythology, the ukum or mušmaḫḫū is described as a serpent-like monster associated with chaos and the underworld. It is often depicted with multiple heads and is considered a powerful and dangerous creature.
 
 ## In Raëlism 🔯
 
-the Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
+The Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh explains how a group of engineering Elohim disobeyed and came to be known as the Serpent:
 

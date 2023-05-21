@@ -13,6 +13,18 @@ weight: 200
 toc: true
 ---
 
+Hebrew, a member of the Semitic language family, boasts a rich history that stretches back thousands of years. Rooted in the same linguistic branch as languages such as Arabic and Amharic, Hebrew has evolved considerably from its early iterations, known as Biblical or Classical Hebrew, into the Modern Hebrew spoken in Israel today.
+
+Biblical Hebrew, the language of the ancient Israelites and the scriptural language of the Hebrew Bible, displays distinctive Semitic features, such as a triconsonantal root system and a grammar based on verb aspect. Over the centuries, Hebrew has undergone significant morphological, syntactic, and phonetic changes, influenced by contact with various languages including Aramaic, Greek, and Arabic, and notably in its modern form, German.[^german]
+
+Hebrew's script, the Hebrew alphabet, has been a constant presence throughout this evolution, though its form has changed over time. Early Hebrew was written using a script now referred to as Paleo-Hebrew, which was eventually replaced by the square script we associate with Hebrew today.
+
+Mastering Hebrew is an invaluable asset for anyone seeking a deeper understanding of Biblical scriptures. The Hebrew Bible, or Tanakh, is the foundation of Jewish religious texts and a significant part of Christian Scriptures. Being able to read it in the original language opens up a wealth of nuanced meanings and interpretations that can be lost or obscured in translation.
+
+Moreover, an understanding of Hebrew can greatly enhance the study of Interlinear Bibles. These are editions of the scriptures that present the original Hebrew and translated English text side-by-side, line-by-line, thus offering a direct comparison between the original text and its translated counterpart. The knowledge of Hebrew can allow readers to delve beneath the surface of the English translation, giving them insight into the structure, connotations, and subtleties of the ancient language, and bringing them closer to the texts as they were first composed and understood.
+
+[^german]: Since the revival of Modern Hebrew in the late 19th and early 20th centuries saw influences from several European languages, German being one of them. This influence is especially noticeable in the realm of vocabulary, where Modern Hebrew has incorporated many loanwords from German.
+
 ## Semitic language family
 
 The Semitic language family is a major subdivision of the Afroasiatic language group, native to the Middle East and parts of East Africa. Semitic languages are notable for their shared grammatical and syntactical features, including the use of root words and inflectional morphology.
@@ -43,6 +55,20 @@ Proto-Semitic is estimated to have been spoken around the 4th to 3rd millennium 
 
 Proto-Afroasiatic is even older and more speculative. Estimates of when it was spoken range from 12,000 to 18,000 years ago. The original homeland of its speakers is also disputed, with proposals including North Africa, the Horn of Africa, and the Levant. Proto-Afroasiatic is hypothesized to have had a contrast between voiced and voiceless consonants, a large number of consonants produced with different positions of the tongue, and a rich system of noun inflection (changes in form to indicate grammatical relationships).
 
+### Reconstruction of ancestor languages
+
+Understanding the earliest ancestral languages, such as Proto-Semitic or Proto-Afroasiatic, is a complex task that involves meticulous linguistic reconstruction. A key part of this process involves identifying and analyzing the similarities between ancient languages within the same family. Ancient Hebrew, often known as Biblical Hebrew, and Akkadian, the oldest known Semitic language, serve as excellent candidates for such comparative analysis.
+
+Biblical Hebrew and Akkadian share numerous features indicative of their common Semitic heritage. Their similarities provide invaluable insight into the Proto-Semitic language from which they both descended. For instance, both languages rely on a system of triconsonantal roots, wherein the meaning of a word is primarily determined by three consonants, and the specific nuances are shaped by altering vowels and adding prefixes, suffixes, or infixes. This characteristic structure is a defining feature of the Semitic language family.
+
+Another shared feature is the use of verb aspect, rather than tense, as the primary grammatical category. This means that these languages tend to express whether an action is ongoing or completed, rather than when it occurs.
+
+Biblical Hebrew and Akkadian also have similar phonetic properties, including the use of certain emphatic consonants, which further supports their common Semitic origin.
+
+By comparing these similarities, linguists can extrapolate backwards to infer the properties of Proto-Semitic. And by extending the analysis to include other ancient Afroasiatic languages outside the Semitic family, they can even make inferences about the even more remote Proto-Afroasiatic.
+
+It's important to note, however, that such reconstructions are based on probability and best-fit analyses, and absolute certainty is elusive. Furthermore, the task is complicated by language contact and borrowing, evolution and diversification of languages, and the limited availability of ancient written records. Despite these challenges, the comparative method remains one of the best tools we have for shedding light on the languages of the distant past.
+
 ## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh answers a series of questions that Raël got to ask. One of these questions aimed at what language was spoken among the Elohim themselves:
@@ -57,7 +83,14 @@ In this passage, the answer is short and to the point: the language spoken among
 
 ## Our take
 
-If we assume that the first human beings during the Age of Leo or perhaps during the Age of Cancer were learning to speak with their Elohimian parent creators, they most likely conversed in a language that was already long established and formalized by their extraterrestrial civilization. We can't know for sure from that short statement how close the actual source language has been to what we consider Biblical or Classical Hebrew. It could be that the antiquity of the language referred to as "ancient Hebrew" might have been closer to a Proto version of another Semitic language in our contemporary terms.
+If we assume that the first human beings during the Age of Leo or perhaps during the Age of Cancer were learning to speak with their Elohimian parent creators, they most likely conversed in a language that was already long established and formalized by their extraterrestrial civilization. We can't know for sure from that short statement how close the actual source language has been to what we consider Biblical or Classical Hebrew. It could be that the antiquity of the language referred to as "ancient Hebrew" might refer to one of the ancestor languages, such as Proto-Semitic, Proto-Afroasiatic or an yet unexplored ancestor language.
+
+## Table of common Biblical Hebrew words
+
+| Biblical Hebrew                | Meaning                                                                                                  |
+|--------------------------------|----------------------------------------------------------------------------------------------------------|
+| מַלְאָךְ (mal'ákh)                 | Messenger, ambadassor, usually translated as angel                                                       |
+
 
 ## Table of Semitic cognates
 

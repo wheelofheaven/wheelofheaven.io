@@ -23,6 +23,10 @@ God then made a covenant, or a promise, with Noah never to destroy the earth wit
 
 The story of Noah's Ark is considered by many as a reminder of God's power and mercy, and is still widely known and retold today.
 
+## Etymology
+
+In the Biblical source text, the word which is being used to describe Noah's Ark is תיבת נח (tevát noaḥ). The word for Ark, תיבת (tevát or tevá) signifies box or chest.
+
 ## In Raëlism 🔯
 
 Noah's Ark is mentioned by Yahweh. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of Noah's Ark:

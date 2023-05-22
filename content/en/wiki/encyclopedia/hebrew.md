@@ -15,15 +15,23 @@ toc: true
 
 Hebrew, a member of the Semitic language family, boasts a rich history that stretches back thousands of years. Rooted in the same linguistic branch as languages such as Arabic and Amharic, Hebrew has evolved considerably from its early iterations, known as Biblical or Classical Hebrew, into the Modern Hebrew spoken in Israel today.
 
-Biblical Hebrew, the language of the ancient Israelites and the scriptural language of the Hebrew Bible, displays distinctive Semitic features, such as a triconsonantal root system and a grammar based on verb aspect. Over the centuries, Hebrew has undergone significant morphological, syntactic, and phonetic changes, influenced by contact with various languages including Aramaic, Greek, and Arabic, and notably in its modern form, German.[^german]
+Biblical Hebrew, the language of the ancient Israelites and the scriptural language of the [Hebrew Bible]({{< relref "wiki/encyclopedia/bible.md" >}}), displays distinctive Semitic features, such as a triconsonantal root system[^triconsonant] and a grammar based on a so-called verb tense-aspect[^verb]. Over the centuries, Hebrew has undergone significant morphological, syntactic, and phonetic changes, influenced by contact with various languages including Aramaic, Greek, and Arabic, and notably in its modern form, German.[^german]
 
-Hebrew's script, the Hebrew alphabet, has been a constant presence throughout this evolution, though its form has changed over time. Early Hebrew was written using a script now referred to as Paleo-Hebrew, which was eventually replaced by the square script we associate with Hebrew today.
+Hebrew's script, the Hebrew alphabet, has been a constant presence throughout this evolution, though its form has changed over time. Early Hebrew was written using a script now referred to as Paleo-Hebrew[^paleo], which was eventually replaced by the square script we associate with Hebrew today.[^square]
 
 Mastering Hebrew is an invaluable asset for anyone seeking a deeper understanding of Biblical scriptures. The Hebrew Bible, or Tanakh, is the foundation of Jewish religious texts and a significant part of Christian Scriptures. Being able to read it in the original language opens up a wealth of nuanced meanings and interpretations that can be lost or obscured in translation.
 
 Moreover, an understanding of Hebrew can greatly enhance the study of Interlinear Bibles. These are editions of the scriptures that present the original Hebrew and translated English text side-by-side, line-by-line, thus offering a direct comparison between the original text and its translated counterpart. The knowledge of Hebrew can allow readers to delve beneath the surface of the English translation, giving them insight into the structure, connotations, and subtleties of the ancient language, and bringing them closer to the texts as they were first composed and understood.
 
-[^german]: Since the revival of Modern Hebrew in the late 19th and early 20th centuries saw influences from several European languages, German being one of them. This influence is especially noticeable in the realm of vocabulary, where Modern Hebrew has incorporated many loanwords from German.
+[^triconsonant]: In Semitic languages, a triconsonantal root is a sequence of three consonants that forms the core of most words. This root carries the basic semantic meaning of the word. Different words are derived from this root by altering the vowels between the consonants and adding prefixes, suffixes, or infixes. For example, in Hebrew, the root K-T-B conveys the concept of 'writing.' By changing vowels and adding affixes, it can form words like 'ketav' (script), 'kotev' (writer), 'kitvei' (writings), and 'kotevet' (she writes), among others. The triconsonantal root system allows for a high degree of precision and nuance in Semitic languages.
+
+[^verb]: The concept of "tense-aspect" in Semitic languages reflects the way these languages express both the time and the state of an action within their verb systems. "Tense" refers to when an action happens (past, present, future), while "aspect" describes the state of the action, whether it's complete (perfective) or ongoing (imperfective). In languages like Hebrew, these two elements are interconnected rather than separate. A verb form in these languages doesn't just express aspect or just express tense; instead, it conveys a combined "tense-aspect" that incorporates both temporal and aspectual information. For example, the Hebrew 'qatal' form represents a past, completed action, while the 'yiqtol' form can represent a future or present, ongoing action. This integration allows for a nuanced depiction of events, reflecting both when they happen and how they unfold.
+
+[^german]: Since the revival of Modern Hebrew in the late 19th and early 20th centuries saw influences from several European languages, German being one of them. This influence is especially noticeable in the realm of vocabulary, where Modern Hebrew has incorporated many loanwords from German. Other languages that have strongly influenced Modern Hebrew are Russian and Spanish.
+
+[^paleo]: The Paleo-Hebrew script, used in the earliest forms of Hebrew, directly evolved from the Phoenician alphabet. This Phoenician script is one of the earliest alphabetic writing systems, believed to have originated from Egyptian hieroglyphs, transforming complex pictorial symbols into a simpler, more abstract and efficient phonetic system. The influence of the Phoenician script extended far beyond the Semitic world. The Greeks adapted the Phoenician script to their language, adding vowel symbols, and from there, it passed to the Etruscans, and then to the Romans. The Latin script, used in the majority of the world's languages today, including English, evolved from this Roman adaptation, making the Phoenician script, and by extension the Paleo-Hebrew script, a distant ancestor of our modern alphabet.
+
+[^square]: The square script, also known as the Assyrian, Aramaic, or Jewish script, came into use around the 5th century BCE following the Babylonian exile, when Aramaic became the lingua franca of the region. Aramaic was written in this square script, and its use gradually spread to Hebrew as well.
 
 ## Semitic language family
 
@@ -93,6 +101,8 @@ If we assume that the first human beings during the Age of Leo or perhaps during
 
 
 ## Table of Semitic cognates
+
+Cognates are words in different languages that share a common etymological origin. In the case of Hebrew and Akkadian, these cognates reveal their shared roots in the Semitic language family. The accompanying Sumerian logograms shed light on the meanings of Akkadian terms, enhancing our understanding of their etymology and offering a richer view of the linguistic ties within the alleged Ancient Hebrew language continuum.
 
 | Biblical Hebrew                | Akkadian                                     | Sumerian logograms            | Meaning                   |
 |--------------------------------|----------------------------------------------|-------------------------------|---------------------------|

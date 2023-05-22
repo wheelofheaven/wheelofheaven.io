@@ -99,7 +99,6 @@ If we assume that the first human beings during the Age of Leo or perhaps during
 |--------------------------------|----------------------------------------------------------------------------------------------------------|
 | מַלְאָךְ (mal'ákh)                 | Messenger, ambadassor, usually translated as angel                                                       |
 
-
 ## Table of Semitic cognates
 
 Cognates are words in different languages that share a common etymological origin. In the case of Hebrew and Akkadian, these cognates reveal their shared roots in the Semitic language family. The accompanying Sumerian logograms shed light on the meanings of Akkadian terms, enhancing our understanding of their etymology and offering a richer view of the linguistic ties within the alleged Ancient Hebrew language continuum.

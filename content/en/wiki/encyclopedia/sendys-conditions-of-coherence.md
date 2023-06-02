@@ -17,7 +17,7 @@ toc: true
 
 Jean Sendy's "The Coming of the Gods" is a book published in 1970 that explores the possibility of ancient astronauts having visited Earth in the past and influencing human civilization. Sendy argues that various ancient myths and religious traditions can be interpreted as evidence of extraterrestrial contact, and that this contact may have had a profound impact on the development of human culture
 
-In this book,Sendy writes the following about what conditions need to be met in order to introduce his exegetical reading onto the Bible:
+In this book, Sendy writes the following about what conditions need to be met in order to introduce his exegetical reading onto the Bible:
 
 > To make the Biblical text appear with the relief and coherence of a hologram, there are four conditions to be met: first, you must know the Bible; second, you must know the possibilities and limitations of astronautics within the framework of today's physics; third, you must have some clear and recent knowledge, even if it is elementary, of biology, prehistory, history, and evolution; and fourth, you must reject any "explanation by the inexplicable", that is, any intrusion of the supernatural.
 >
@@ -70,6 +70,7 @@ In terms of interpreting the Bible, Raëlism takes a naturalistic and scientific
 ## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})
+- [Wiki › Biglino Method]({{< relref "wiki/encyclopedia/biglino-method.md" >}})
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 

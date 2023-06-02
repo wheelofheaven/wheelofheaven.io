@@ -13,7 +13,7 @@ weight: 200
 toc: true
 ---
 
-## The Logic of the Biblical Text
+## Logic of the Bible
 
 Jean Sendy's "The Coming of the Gods" is a book published in 1970 that explores the possibility of ancient astronauts having visited Earth in the past and influencing human civilization. Sendy argues that various ancient myths and religious traditions can be interpreted as evidence of extraterrestrial contact, and that this contact may have had a profound impact on the development of human culture
 

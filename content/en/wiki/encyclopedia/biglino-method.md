@@ -67,7 +67,6 @@ The book is written in a way where Cattaneo explores the scholarly work of Bigli
 >
 > “It arises when we want to consider the text as unique in the history of humanity because it was ‘inspired by God.’ And unfortunately (I say ‘unfortunately’ for those who believe) the Bible simply isn’t.”
 
-
 The method involves pretending that the Bible is true and examining the original Hebrew text to understand its actual description. However, it is acknowledged that no one can guarantee the truthfulness of the Bible, as we only have copies of copies of the original codices, which have been reworked over time. This approach is not considered playful but rather the only appropriate one given the uncertainty surrounding the Bible's accuracy. It is noted that the texts we have today are not the original ones, as they have been changed with each rewriting.
 
 This phenomenon is not exclusive to the Bible but applies to all ancient texts. The anomaly lies in the fact that the Bible has been the basis for a religious system claiming to possess absolute truths. Ultimately, the Biglino method suggests treating the Bible as an ancient source separate from theological intentions and reading it like any other ancient text.

@@ -1,7 +1,7 @@
 ---
 title: "Biglino method"
-description: "The Biglino Method, a way to interpret the Bible by taking its content literally as opposed to rely on figurative language or established exegesis."
-lead: "A way to interpret the Bible by taking its content literally as opposed to rely on figurative language or established exegesis."
+description: "The Biglino method is an alternative approach to interpret the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
+lead: "An alternative approach to interpret the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -87,11 +87,11 @@ In the realm of Biglino's translation work, an additional prerequisite, a third 
 
 > “I’ve said many times in recent years that there are terms that, in my opinion, should not be translated. It’s a question of integrity, since we do not know exactly what they mean. So honesty requires leaving them just as they are written.”[^kavod]
 
-Honesty, he asserts, necessitates preserving them in their original form. Biglino's method can be summarized in three steps:
+Honesty, he asserts, necessitates preserving them in their original form. With that in mind, Biglino's method can be distilled into a concise formulation consisting of three steps:
 
-1. Familiarize yourself with the original text
-2. Set aside all traditional interpretatons
-3. Embrace a literal reading of the verses
+1. Obtain familiarity with the original text
+2. Disregard all preconceived traditional interpretations
+3. Embrace a literal approach to reading the verses
 
 [^kavod]: In the book, Biglino explains that it was of utmost importance during his translation work of the Edizioni San Paolo to preserve the original spellings of ambigous terms like Kavod, Ruach, Elohim or even Yahweh.
 

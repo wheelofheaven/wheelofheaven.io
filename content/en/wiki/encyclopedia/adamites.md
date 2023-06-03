@@ -1,7 +1,7 @@
 ---
 title: "Adamites"
-description: "Adamites, a distinct community of the human genus that lived during the days of the Garden of Eden"
-lead: "A distinct community of the human genus that lived during the days of the Garden of Eden"
+description: "Adamites, a distinct community of the human genus that lived during the days of the Garden of Eden."
+lead: "A distinct community of the human genus that lived during the days of the Garden of Eden."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

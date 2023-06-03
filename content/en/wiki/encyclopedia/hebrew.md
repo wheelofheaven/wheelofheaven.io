@@ -106,9 +106,9 @@ Cognates are words in different languages that share a common etymological origi
 | Biblical Hebrew                | Akkadian                                     | Sumerian logograms            | Meaning                   |
 |--------------------------------|----------------------------------------------|-------------------------------|---------------------------|
 | אַכַּד ('akád), Akkad             | 𒀝𒅗𒁲𒂊 (ak-ka-de-e), unknown meaning           | 𒌵𒆠 (URI.KI), place of Akkad   | Akkad                     |
-| בָּבֶל (bavél), Babel             | 𒆍𒀭𒊏𒆠 (Bābilim), gate of the gods           | 𒆍𒀭𒊏𒆠 (KA₂.DINGIR.RAki), gate of the gods | Gate to the Gods |
+| בָּבֶל (bavél), Babel             | 𒆍𒀭𒊏𒆠 (Bābilim), gate of the El/gods           | 𒆍𒀭𒊏𒆠 (KA₂.DINGIR.RAki), gate of the gods from the stars | Gate to the El/stars |
 | עֵרֶךְ ('érekh), Erech            | 𒌷𒀕 (Uruk), city of the throne                | 𒀕𒆠 (UN.UGki), place of the throne | City of the Throne    |
-| אֱלֹהִים (ʾélôhím), Elohim        | 𒀭 (ilum), from the sky                       | 𒀭 (ān) sky                    | The ones from the skies   |
+| אֱלֹהִים (ʾélôhím), Elohim        | 𒀭 (ilum), from the sky                       | 𒀭 (ān) sky                    | The ones from the skies/stars  |
 | נָחָשׁ (nakhásh), serpent         | 𒌨𒈤𒊭𒆕𒋡𒊑 (nēšu ša qaqqari), lion of the ground | 𒌨𒈤 (UR.MAȞ), great beast/lion | serpent?, lion            |
 | שנער (shin'ár), Shinar         | 𒆠𒂗𒄀 (Šumerum), Sumer                         | 𒆠𒂗𒄀 (KI.EN.GI), place of the noble lords | Sumeria        |
 

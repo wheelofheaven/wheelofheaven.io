@@ -31,7 +31,7 @@ The following table shows the majority of words that can be read etymologically:
 | Ruach                 | רוּחַ rúakh (Hebrew)                                      | Wind, allegory for aircraft                    |
 | Prophet               | προφήτης prophḗtēs (Greek)                              | He who speaks on behalf of, representative     |
 | Satan                 | שָׂטָן śāṭān (Biblical Hebrew)                             | The obstructor, the accuser                    |
-| Yahweh                | יהיה yhwh (Semitic)                                     | He who is, the eternal one                     |
+| Yahweh                | יהוה yhwh (Semitic)                                     | He who is, the eternal one                     |
 
 ## See also
 

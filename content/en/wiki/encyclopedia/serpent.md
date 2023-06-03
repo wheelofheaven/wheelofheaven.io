@@ -67,6 +67,22 @@ In his analysis, Biglino strongly emphasizes that the Biblical Serpent should no
 
 Biglino's viewpoint challenges the traditional understanding that the Serpent in the Garden of Eden represents Satan. He argues that the Bible does not provide any explicit link between the two entities.
 
+### As a symbol
+
+Biglino highlights that, apart from a [literal interpretation]({{< relref "wiki/encyclopedia/biglino-method.md" >}}), the choice of a serpent as a symbol in the biblical narrative can also be understood figuratively:
+
+> In the past, says Biglino, as a premise, the snake always had a positive connotation: being an animal that nests in the ground, it symbolized the individual who digs and goes deep into knowledge.
+>
+> “The term ‘snake’, in fact, also has the meaning of possessor of knowledge. The double serpent could therefore represent profound knowledge, with particular reference to the double helix of DNA.”
+
+By exploring the symbolic nature of the serpent which used to be connotated positively, he expands the understanding of the serpentine faction's role as a representation of advanced scientific and technological knowledge. Moreover, Biglino suggests that the allusion to the serpent in the biblical narrative can be seen as a direct reference to genetics:
+
+> So would this be a way to allude directly to genetics?
+>
+> “This is true deep knowledge, the knowledge possessed above all by geneticists, who know the most intimate part of human structure. From there, the representation of the snake then came to symbolize those who deal with this type of information and who possess this kind of technology. In essence, the art of medicine.”
+
+According to Biglino, the serpent serves as a metaphorical representation of the specialized knowledge held by geneticists and their ability [to manipulate and comprehend the intricate workings of human biology]({{< relref "wiki/encyclopedia/life-engineering.md" >}}).
+
 [^gan]: Biglino refers to the Garden of Eden by its original Hebrew idiom, Gan Eden, which he identifies as an experimental laboratory, a “fenced and protected garden” located in the region of Eden.
 
 [^faction]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history]({{< relref "resources/the-naked-bible/index.md" >}}), p. 113

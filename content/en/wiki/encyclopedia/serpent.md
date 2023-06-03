@@ -33,6 +33,50 @@ In Mesopotamian mythology, the šēdu or mušḫuššu is often depicted as a hy
 
 Similarly, in Sumerian mythology, the ukum or mušmaḫḫū is described as a serpent-like monster associated with chaos and the underworld. It is often depicted with multiple heads and is considered a powerful and dangerous creature.
 
+## According to Mauro Biglino
+
+In his book [The Naked Bible]({{< relref "resources/the-naked-bible/index.md" >}}) author Biglino provides an intriguing perspective on the identity of the Biblical serpent.
+
+> “In all seriousness, this ‘serpent’ was one of the Elohim who belonged to the faction of those who were hostile to, or even an enemy of, the Elohim who ruled in the Gan Eden[^gan].”[^faction]
+
+According to Biglino, this enigmatic creature can be understood as one of the Elohim, a divine group that belonged to a faction opposing or even hostile to the ruling Elohim in the Garden of Eden.
+
+Biglino delves deeper into the role of the serpentine faction of the Elohim and its impact on the expulsion of the Adamites from the Garden of Eden:
+
+> “The Adamites,” Biglino reiterates, “are driven out because they had become reproductively independent. This should never have happened. And, above all, the breeding between the Adamites and a member of the lineage of the Elohim, which in the Bible is represented by the ‘snake’, should never have happened either. Their interbreeding was the real cause behind the expulsion of the Adamites from Gan Eden.”
+>
+> It is no coincidence, Biglino adds, that the commander of the ‘garden’ tells the Adamites, “I will put enmity between your lineage and that of the serpent.”
+>
+> So, the scholar observes, we are talking about two lineages, two distinct groups in conflict with each other.
+>
+> “The lineage of the serpent is the one directly descended from the sexual act that the serpent – a rival Elohim – had performed with Eve, which resulted in the birth of Cain. Later on, Adam and Eve had other children, but while Cain was the son of Eve and the Serpent, the others were of direct Adamite lineage.”[^cain]
+
+According to Biglino, the Adamites were driven out due to their newfound reproductive independence, which was never meant to occur. Moreover, their interbreeding with a member of the Elohim lineage, symbolized by the 'snake' in the Bible, served as a significant factor behind their expulsion. This act of interbreeding led to the birth of Cain, who belonged to the lineage of the serpent, while the other children of Adam and Eve remained of direct Adamite lineage. Biglino highlights the conflict between these two distinct groups, emphasizing the significance of this lineage division.
+
+Biglino further asserts that the actions of the Serpentine faction were the underlying cause of the [Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}}):
+
+> And what about the Great Flood?
+>
+> “It served the purpose of ‘cleansing’ the Earth (or at least that region) of the ‘serpent lineage’, which must have spread rampantly, ruining the very selective initial plans of the Gan Eden geneticists.”[^flood]
+
+According to Biglino, the occurrence of the Great Flood served a purpose beyond mere destruction, functioning as a means to restore order and rectify the genetic deviations caused by the intermingling of the serpent lineage with human beings.
+
+In his analysis, Biglino strongly emphasizes that the Biblical Serpent should not be associated with Satan, contrary to common assumptions:
+
+> “Satan has even been connected with the serpent that tempted Eve, but there is actually no trace of this link in the Bible.”[^satan]
+
+Biglino's viewpoint challenges the traditional understanding that the Serpent in the Garden of Eden represents Satan. He argues that the Bible does not provide any explicit link between the two entities.
+
+[^gan]: Biglino refers to the Garden of Eden by its original Hebrew idiom, Gan Eden, which he identifies as an experimental laboratory, a “fenced and protected garden” located in the region of Eden.
+
+[^faction]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history]({{< relref "resources/the-naked-bible/index.md" >}}), p. 113
+
+[^cain]: idem, p. 117
+
+[^flood]: idem, p. 204
+
+[^satan]: idem, p. 193
+
 ## In Raëlism 🔯
 
 The Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.

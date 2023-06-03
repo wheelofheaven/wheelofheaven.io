@@ -37,7 +37,11 @@ The five conditions that Sendy mentions in his book can be seen as a blueprint o
 4. Repudiation of the supernatural
 5. Assumption that the universe is intelligible to human reason
 
-The five conditions that Sendy lays out in his book "The Coming of the Gods" provide a blueprint for determining what conditions must be met to assert the hypothesis of ancient astronauts in the Bible. The first condition, familiarity with the contents of the Bible, suggests that one must have a deep understanding of the text itself in order to interpret it accurately. The second condition, familiarity with the current state of space science, highlights the importance of understanding what is possible and impossible within the framework of contemporary physics and astronautics.
+The five conditions that Sendy lays out in his book "The Coming of the Gods" provide a blueprint for determining what conditions must be met to assert the hypothesis of ancient astronauts in the Bible.
+
+The first condition, familiarity with the contents of the Bible, suggests that one must have a deep understanding of the text itself in order to interpret it accurately. A method that can be used to get familiar with the original meaning of Biblical scriptures is the so-called [Biglino method]({{< relref "wiki/encyclopedia/biglino-method.md" >}}), an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis.
+
+The second condition, familiarity with the current state of space science, highlights the importance of understanding what is possible and impossible within the framework of contemporary physics and astronautics.
 
 The third condition, a firm comprehension of a variety of scientific notions in biology, prehistory, history, and evolution, suggests that it is necessary to have a broad range of knowledge across scientific fields in order to interpret the text correctly. This includes an understanding of the historical and evolutionary contexts in which the text was written, as well as the scientific knowledge that has been gained since then.
 

@@ -19,13 +19,39 @@ Heinrich Schliemann was a 19th-century German archaeologist and businessman. He 
 
 In the book [Those Gods Who Made Heaven And Earth]({{< relref "resources/those-gods-who-made-heaven-and-earth.md" >}}) by Jean Sendy, a parallel is drawn between Schliemann's literal approach to reading the Homeric verses and his successful uncovering of the alleged ruins of Troy.
 
-> The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer.
+> The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer.[^portions]
 
 Sendy contends that just as Schliemann approached the Iliad with meticulousness and attentiveness, he advocates for a similar level of rigor in interpreting the Bible. By employing a comparable methodology, Sendy suggests that a literal reading of the biblical text can yield valuable insights and discoveries. The maxim that Sendy puts forward is the _"reading the Bible as Schliemann read Homer"_.
 
 > What Schliemann did for Homer was exactly what I have tried to do for the Biblical narrative that concerns me.
 >
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose is to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann," on the assumption that the text is to be taken. in its most concrete sense God is as far outside the subject as the religtous beliefs of the Greeks and Trojans were to Schliemann.
+> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose is to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann," on the assumption that the text is to be taken. in its most concrete sense God is as far outside the subject as the religtous beliefs of the Greeks and Trojans were to Schliemann.[^trojans]
+
+Sendy asserts that, just as Schliemann approached the works of Homer with a keen eye for the concrete and tangible aspects of the text, he himself has endeavored to adopt a similar approach in interpreting the Bible. This approach entails disregarding the accumulated exegeses and interpretations that have developed over the course of two millennia, particularly those aimed at finding proof of the existence of God within the text. By reading the Bible with a Schliemann-like mindset, one is encouraged to focus on the narrative's most concrete sense, setting aside theological assumptions and religious beliefs. This contextualization highlights the success of Schliemann's approach in archaeology, as he uncovered physical evidence that aligned with the mythical cities of Troy and Mycenae, which were believed to be mere legends until his discoveries. Similarly, the author implies that a similar concrete reading of the biblical narrative, unencumbered by theological preconceptions, can lead to fresh insights and a deeper understanding of the text's original, intended meaning.
+
+In a manner akin to paradigm shifts in scientific research, Mauro Biglino's approach to interpreting ancient texts parallels the transformative impact of figures like Schliemann in their respective fields. This can be likened to Galileo's groundbreaking assertion during the Copernican Revolution, where he challenged the prevailing belief that the Sun revolved around the Earth. As with any significant breakthrough, initial reactions typically involve disbelief, staunch denial, and even ridicule. Yet, the discoverer eventually presents evidence, akin to a telescope, urging skeptics to examine the truth for themselves:
+
+> It always happens, it is just a matter of time. One day someone just comes along and tells you that it is not true that the Sun revolves around the Earth, that exactly the opposite is true. We can imagine the faces of the bystanders.
+>
+> At which point the discoverer shows them a telescope and invites them to have a look for themselves. The first reaction is always the same: disbelief, harsh denial, mockery. Come on, how is that possible? Let’s be serious, no one wants to fool around here, especially not about certain things.[^telescope]
+
+ Invariably, the response follows a familiar pattern: skepticism gives way to recognition, denial yields to acceptance, and mockery transforms into serious consideration. Such is the nature of transformative discoveries that challenge established paradigms, and it is within this context that Biglino's approach aligns with the spirit of unveiling unconventional interpretations of ancient texts.
+
+> Galileo, after all, can remind us of Ulysses. The adventure of the Homeric hero seems to be speaking directly to us even to this day. Running into unexplored territories requires a willingness to let the known islands slip out of sight, to let go of conventionally acquired knowledge.
+>
+> And speaking of Homer: if, for the sake of argument, your name is Heinrich Schliemann and, perchance, one day you find yourself in love with the Iliad, what could you possibly guess from that?
+>
+> The road is certainly all uphill from there. If you believe that simple literary pages, however venerated as masterpieces, could unveil chapters of real history, the path ahead of you will be impenetrable.[^uphill]
+
+Schliemann's approach provides a compelling example of how a literal reading of mythological history can lead to significant breakthroughs. Inspired by his fascination with the Iliad, Schliemann embarked on a remarkable endeavor guided by the belief that the ancient literary work held kernels of historical truth. Despite the challenges and skepticism he faced, Schliemann's unwavering conviction in the historicity of the text drove him to excavate the ancient sites of Troy and Mycenae. Astonishingly, his meticulous efforts unearthed physical evidence that aligned with the mythological narratives, validating his interpretation and reshaping scholarly understanding. Schliemann's success demonstrates the potential of adopting a literal reading approach to uncover new insights and challenge prevailing assumptions within the realm of mythological accounts.
+
+[^portions]: Excerpt from Jean Sendy (1972): [Those Gods Who Made Heaven And Earth]({{< relref "resources/those-gods-who-made-heaven-and-earth.md" >}}), p. 12
+
+[^trojans]: idem, p. 12
+
+[^telescope]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history]({{< relref "resources/the-naked-bible/index.md" >}}), p. 6
+
+[^uphill]: idem, p. 7
 
 ## The Naked Bible
 
@@ -131,6 +157,28 @@ By adopting a literal approach, readers are encouraged to understand the words i
 
 Embracing a literal approach does not discount the presence of literary devices, poetic expressions, or the use of metaphors within the Bible. However, it calls for discerning between figurative language intended to convey a specific message and passages that are intended to be understood more literally.
 
+## According to Mauro Biglino
+
+Mauro Biglino has consistently employed this method since his initial translation work of Biblical scripture from Hebrew into Italian.
+
+> Just to be safe, Biglino declares that he adheres to a precise method. “I simply pretend that the Bible tells the truth, and when I verify that this truth is coherent.”
+
+Emphasizing his commitment to a rigorous approach, Biglino asserts that he adopts the stance of assuming the truthfulness of the Bible, subsequently verifying the coherence of this truth during his analysis.
+
+> And is it?
+>
+> “Very often, yes, it absolutely is. Everything can be explained in the simplest of ways. It’s just a matter of asking the right questions and the Bible will always offer a reasonable answer that makes sense.”
+
+According to him, the Bible often presents itself as a reliable source of information that can be explained in straightforward terms. By approaching the text with a critical mindset and posing pertinent questions, Biglino believes that the Bible consistently provides reasonable and sensible answers. This viewpoint suggests that a careful examination of the scriptures can unveil a coherent narrative that aligns with common sense and logical reasoning.
+
+> Mauro Biglino praises the exegetical and philological accuracy of Edizioni San Paolo: “Regarding the volumes we worked on together, while I was doing my editorial work for them, the term ‘Elohim’ was left that way in Italian as well. They did not translate it as the word ‘God’.”
+
+Mauro Biglino acknowledges the significant contribution of Edizioni San Paolo in maintaining exegetical and philological accuracy in their translation work. Notably, during their collaboration, the term "Elohim" was preserved in Italian without being translated as the word "God." This decision reflects a commitment to retaining the original term, thereby preserving the linguistic nuances and cultural context associated with it.
+
+> The same thing goes for the word ‘Yahweh’. “That one also always remained ‘Yahweh’ and was not translated as ‘the Lord’ as is the case with ordinary editions of the Bible – even though translating Yahweh as ‘the Lord’ is a complete fabrication.”
+
+According to Biglino, the translation of the word "Yahweh" as "the Lord" in ordinary editions of the Bible is considered by him to be a complete fabrication. He asserts that the term "Yahweh" should not be translated, but rather preserved as is, without imposing an alternate designation such as "the Lord."
+
 ## According to Jean Sendy
 
 Within the pages of the book "Those Gods Who Made Heaven And Earth," a profound observation is made by Sendy, shedding light on the transformative nature of a literal reading of the Bible. Sendy highlights a significant linguistic aspect by pointing out that the Hebrew word Elohim, typically translated as "God," is actually in plural form.
@@ -143,7 +191,7 @@ This linguistic nuance, when taken into account, leads to a striking reinterpret
 
 By adopting a literal reading, one can perceive Genesis as a fascinating narrative recounting the arrival of tangible celestial beings who bear a striking resemblance to humans. These celestial beings are depicted as engaging with the earthly realm in a manner akin to how we envision future astronauts exploring distant planets.
 
-This interpretation, in line with the Biglino Method, invites readers to consider the concrete and tangible aspects of the biblical account, imagining a scenario that lies beyond the realm of science fiction but resonates with a potential reality. Such an approach challenges traditional allegorical or metaphorical interpretations of Genesis, offering an alternative perspective that is firmly grounded in the text's literal conten.
+This interpretation, in line with the Biglino Method, invites readers to consider the concrete and tangible aspects of the biblical account, imagining a scenario that lies beyond the realm of science fiction but resonates with a potential reality. Such an approach challenges traditional allegorical or metaphorical interpretations of Genesis, offering an alternative perspective that is firmly grounded in the text's literal content.
 
 ## See also
 

@@ -1,7 +1,7 @@
 ---
 title: "Biglino method"
-description: "The Biglino method is an alternative approach to interpret the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-lead: "An alternative approach to interpret the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
+description: "The Biglino method is an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
+lead: "An alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -12,6 +12,20 @@ menu:
 weight: 200
 toc: true
 ---
+
+## Parallels with Schliemann
+
+Heinrich Schliemann was a 19th-century German archaeologist and businessman. He is best known for his excavations at the ancient sites of Troy and Mycenae, where he claimed to have discovered the remnants of the historical cities mentioned in Greek mythology. Schliemann's excavations and his belief in the historical accuracy of the Iliad and the Odyssey brought him both fame and controversy. Despite criticisms of his methods, Schliemann's discoveries significantly contributed to the field of archaeology and our understanding of ancient civilizations.
+
+In the book [Those Gods Who Made Heaven And Earth]({{< relref "resources/those-gods-who-made-heaven-and-earth.md" >}}) by Jean Sendy, a parallel is drawn between Schliemann's literal approach to reading the Homeric verses and his successful uncovering of the alleged ruins of Troy.
+
+> The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer.
+
+Sendy contends that just as Schliemann approached the Iliad with meticulousness and attentiveness, he advocates for a similar level of rigor in interpreting the Bible. By employing a comparable methodology, Sendy suggests that a literal reading of the biblical text can yield valuable insights and discoveries. The maxim that Sendy puts forward is the _"reading the Bible as Schliemann read Homer"_.
+
+> What Schliemann did for Homer was exactly what I have tried to do for the Biblical narrative that concerns me.
+>
+> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose is to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann," on the assumption that the text is to be taken. in its most concrete sense God is as far outside the subject as the religtous beliefs of the Greeks and Trojans were to Schliemann.
 
 ## The Naked Bible
 
@@ -93,7 +107,43 @@ Honesty, he asserts, necessitates preserving them in their original form. With t
 2. Disregard all preconceived traditional interpretations
 3. Embrace a literal approach to reading the verses
 
+The Biglino method, originally put forward in The Naked Bible as a two-tiered methodology and subsequently expanded with an additional assumption in here, suggests a three-step approach to interpreting the Bible: familiarize oneself with the original text, set aside preconceived traditional interpretations, and embrace a literal reading of the verses. By following these steps, the method aims to uncover new insights and challenge established understandings of the biblical text.
+
 [^kavod]: In the book, Biglino explains that it was of utmost importance during his translation work of the Edizioni San Paolo to preserve the original spellings of ambigous terms like Kavod, Ruach, Elohim or even Yahweh.
+
+### Step 1: Obtain familiarity with the original text
+
+The first step of the Biglino Method involves obtaining familiarity with the original text of the Bible. This entails engaging with the scriptures in their original languages, primarily Hebrew and Greek, in which the Old and New Testaments were respectively written. By studying the original text, one aims to gain a deeper understanding of the linguistic nuances, cultural context, and literary style employed by the ancient authors.
+
+While obtaining fluency in biblical languages may not be feasible for everyone, resources such as interlinear translations, lexicons, and commentaries can aid in developing a deeper familiarity with the original text.
+
+### Step 2: Disregard all preconceived traditional interpretations
+
+The second step of the Biglino Method calls for disregarding all preconceived traditional interpretations of the Bible. This involves approaching the text with a fresh perspective, free from the influence of established doctrines, religious dogmas, and inherited interpretations that may have shaped one's understanding of the scriptures.
+
+By setting aside preconceived notions, readers are encouraged to engage directly with the biblical text, allowing it to speak for itself without the filter of traditional interpretations. It enables readers to question long-held assumptions, explore different angles of interpretation, and consider alternative viewpoints that may challenge or expand their understanding of the biblical narratives.
+
+### Step 3: Embrace a literal approach to reading the verses
+
+The third step of the Biglino Method advocates for embracing a literal approach to reading the verses of the Bible. This step involves taking the words and phrases in the text at face value, without imposing metaphorical or allegorical interpretations upon them.
+
+By adopting a literal approach, readers are encouraged to understand the words in their most straightforward and direct sense, considering them in their ordinary meaning within the given context. Rather than searching for hidden or symbolic meanings, the focus is on grasping the explicit message conveyed by the biblical authors.
+
+Embracing a literal approach does not discount the presence of literary devices, poetic expressions, or the use of metaphors within the Bible. However, it calls for discerning between figurative language intended to convey a specific message and passages that are intended to be understood more literally.
+
+## According to Jean Sendy
+
+Within the pages of the book "Those Gods Who Made Heaven And Earth," a profound observation is made by Sendy, shedding light on the transformative nature of a literal reading of the Bible. Sendy highlights a significant linguistic aspect by pointing out that the Hebrew word Elohim, typically translated as "God," is actually in plural form.
+
+> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God," is a plural. If we read "Those who came from the sky," or "the Celestials," each time the plural Elohim occurs we find ourselves reading a narrative that needs no exegesis, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
+
+This linguistic nuance, when taken into account, leads to a striking reinterpretation. By reading "Those who came from the sky" or "the Celestials" instead of the singular "God" each time the plural Elohim occurs, the narrative unfolds with remarkable coherence, eliminating the need for extensive exegesis, external guidance, or preconceived religious convictions.
+
+> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
+
+By adopting a literal reading, one can perceive Genesis as a fascinating narrative recounting the arrival of tangible celestial beings who bear a striking resemblance to humans. These celestial beings are depicted as engaging with the earthly realm in a manner akin to how we envision future astronauts exploring distant planets.
+
+This interpretation, in line with the Biglino Method, invites readers to consider the concrete and tangible aspects of the biblical account, imagining a scenario that lies beyond the realm of science fiction but resonates with a potential reality. Such an approach challenges traditional allegorical or metaphorical interpretations of Genesis, offering an alternative perspective that is firmly grounded in the text's literal conten.
 
 ## See also
 

@@ -51,6 +51,7 @@ This passage is from the book of Genesis in the Bible and describes the story of
 
 ## See also
 
+- [Wiki › Adamites]({{< relref "wiki/encyclopedia/adamites.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
 - [Intro › Timeline › Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}})

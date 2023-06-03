@@ -41,7 +41,7 @@ In his book [The Naked Bible]({{< relref "resources/the-naked-bible/index.md" >}
 
 According to Biglino, this enigmatic creature can be understood as one of the Elohim, a divine group that belonged to a faction opposing or even hostile to the ruling Elohim in the Garden of Eden.
 
-Biglino delves deeper into the role of the serpentine faction of the Elohim and its impact on the expulsion of the Adamites from the Garden of Eden:
+Biglino delves deeper into the role of the serpentine faction of the Elohim and its impact on the expulsion of the [Adamites]({{< relref "wiki/encyclopedia/adamites.md" >}}) from the Garden of Eden:
 
 > “The Adamites,” Biglino reiterates, “are driven out because they had become reproductively independent. This should never have happened. And, above all, the breeding between the Adamites and a member of the lineage of the Elohim, which in the Bible is represented by the ‘snake’, should never have happened either. Their interbreeding was the real cause behind the expulsion of the Adamites from Gan Eden.”
 >

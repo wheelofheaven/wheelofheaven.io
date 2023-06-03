@@ -17,11 +17,11 @@ The Biblical Serpent refers to a serpent mentioned in the book of Genesis in the
 
 ## In the Bible
 
-In the Bible, the serpent is mentioned in the Book of Genesis, specifically in Genesis 3. In the Hebrew source text, the serpent is written נָחָשׁ (nakhásh)[^lion] and plays a significant role in the account of Adam and Eve in the Garden of Eden. According to the biblical narrative, the serpent is depicted as cunning and deceptive.
+In the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}), the serpent is mentioned in the Book of Genesis, specifically in Genesis 3. In the Hebrew source text, the serpent is written נָחָשׁ (nakhásh)[^lion] and plays a significant role in the account of [Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}}) in the [Garden of Eden]({{< relref "wiki/encyclopedia/eden.md" >}}). According to the biblical narrative, the serpent is depicted as cunning and deceptive.
 
-In Genesis 3:1, the serpent is introduced: "Now the serpent was more crafty than any other beast of the field that the God had made." The serpent approaches Eve and engages her in a conversation, questioning the command given by God regarding eating from the tree of the knowledge of good and evil.
+In Genesis 3:1, the serpent is introduced: "Now the serpent was more crafty than any other beast of the field that the Elohim had made." The serpent approaches Eve and engages her in a conversation, questioning the command given by the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) regarding eating from the [tree of the knowledge of good and evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}}).
 
-Throughout the dialogue between the serpent and Eve, the serpent deceives her, suggesting that eating the forbidden fruit will not lead to death but rather to becoming like God, knowing good and evil. Eve eventually succumbs to the serpent's temptation and eats the fruit, followed by Adam.
+Throughout the dialogue between the serpent and Eve, the serpent deceives her, suggesting that eating the forbidden fruit will not lead to death but rather to becoming like the Elohim, knowing good and evil. Eve eventually succumbs to the serpent's temptation and eats the fruit, followed by Adam.
 
 [^lion]: The Hebrew word used in the Bible is נָחָשׁ (nakhásh) and clearly denotes the snake animal. However, the Proto-Semitic root of נָחָשׁ is naḥaš-, which in Akkadian is nēšum (𒌨𒈤, pronounced as UR.MAḪ in Sumerian), meaning lion. In Akkadian, the word for serpent is also written as 𒌨𒈤𒊭𒆕𒋡𒊑 (nēšu ša qaqqari), literally meaning “lion of the ground”, where 𒆕𒋡𒊑 (qaqqarum) means the ground or earth. The Hebrew cognate of 𒆕𒋡𒊒 is קַרְקַע (karká') and both share the Proto-Semitic root *ḳarḳar- which is best represented by the Sumerian logogram 𒆠 (KI), all denoting the ground as a surface. On another note, If the Sumerian logogram for lion 𒌨𒈤 (UR.MAḪ) is prefixed with the Sumerian logogram of stars 𒀯 also explicitely denotes the Zodiac sign of Leo 𒀯𒌨𒈤 (mulUR.MAȞ). See here for more: [נחש | Wiktionary](https://en.wiktionary.org/wiki/%D7%A0%D7%97%D7%A9)
 
@@ -61,7 +61,7 @@ Biglino further asserts that the actions of the Serpentine faction were the unde
 
 According to Biglino, the occurrence of the Great Flood served a purpose beyond mere destruction, functioning as a means to restore order and rectify the genetic deviations caused by the intermingling of the serpent lineage with human beings.
 
-In his analysis, Biglino strongly emphasizes that the Biblical Serpent should not be associated with Satan, contrary to common assumptions:
+In his analysis, Biglino strongly emphasizes that the Biblical Serpent should not be associated with [Satan]({{< relref "wiki/encyclopedia/satan.md" >}}), contrary to common assumptions:
 
 > “Satan has even been connected with the serpent that tempted Eve, but there is actually no trace of this link in the Bible.”[^satan]
 
@@ -79,9 +79,9 @@ Biglino's viewpoint challenges the traditional understanding that the Serpent in
 
 ## In Raëlism 🔯
 
-The Serpent refers to a group of scientists led by Lucifer who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
+The Serpent refers to a group of scientists led by [Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}}) who revealed the true nature of the creators to the first humans, which ultimately led to their expulsion from the Garden of Eden.
 
-According to the _Book Which Tells The Truth_, Second Chapter, Truth, Yahweh explains how a group of engineering Elohim disobeyed and came to be known as the Serpent:
+According to the _Book Which Tells The Truth_, Second Chapter, Truth, [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}) explains how a group of engineering Elohim disobeyed and came to be known as the Serpent:
 
 > Some scientists in this team felt a deep love for their little human beings, their "creatures", and they wanted to give them a complete education in order to make them scientists like themselves. So they told these young people who were almost adults that they could pursue their scientific studies and in so doing they would become as knowledgeable as their creators.
 >

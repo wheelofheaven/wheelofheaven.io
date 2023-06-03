@@ -57,7 +57,7 @@ Schliemann's approach provides a compelling example of how a literal reading of 
 
 [The Naked Bible]({{< relref "resources/the-naked-bible/index.md" >}}) is a book written by the Italian journalist, playwright and screenwriter Giorgio Cattaneo and the Italian scholar Mauro Biglino, which challenges the traditional understanding of the Bible. In their book, Cattaneo writes about how Biglino argues that the texts of the [Old Testament]({{< relref "wiki/encyclopedia/bible.md#the-hebrew-bible-or-the-tanakh" >}}), specifically the Torah, were not divinely inspired, but rather were written by ancient scribes who recorded the history and beliefs of their society. Therein, Biglino claims that the text has been mistranslated and misinterpreted over time, and that a more accurate understanding of the Bible would reveal that it is not a divine text, but rather a historical document that reflects the cultural and political context of its authors.
 
-In this book, on page 119, a method is described that outlines Biglino's approach to examining ancient scriptures and uncovering their intended meaning. The method, developed through years of scholarly work, offers a fresh perspective on interpreting the Bible by taking its content literally rather than relying on figurative language or established exegesis.
+In this book, on page 119, a method is described that outlines Biglino's approach to examining ancient scriptures and uncovering their intended meaning. The method, developed through years of scholarly work, offers a fresh perspective on interpreting the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}) by taking its content literally rather than relying on figurative language or established exegesis.
 
 > The Biglino method works like this: ‘pretend’ that the Bible is simply telling the truth.
 
@@ -107,7 +107,7 @@ The book is written in a way where Cattaneo explores the scholarly work of Bigli
 >
 > “It arises when we want to consider the text as unique in the history of humanity because it was ‘inspired by God.’ And unfortunately (I say ‘unfortunately’ for those who believe) the Bible simply isn’t.”
 
-The method involves pretending that the Bible is true and examining the original Hebrew text to understand its actual description. However, it is acknowledged that no one can guarantee the truthfulness of the Bible, as we only have copies of copies of the original codices, which have been reworked over time. This approach is not considered playful but rather the only appropriate one given the uncertainty surrounding the Bible's accuracy. It is noted that the texts we have today are not the original ones, as they have been changed with each rewriting.
+The method involves pretending that the Bible is true and examining the original [Hebrew]({{< relref "wiki/encyclopedia/hebrew.md" >}}) text to understand its actual description. However, it is acknowledged that no one can guarantee the truthfulness of the Bible, as we only have copies of copies of the original codices, which have been reworked over time. This approach is not considered playful but rather the only appropriate one given the uncertainty surrounding the Bible's accuracy. It is noted that the texts we have today are not the original ones, as they have been changed with each rewriting.
 
 This phenomenon is not exclusive to the Bible but applies to all ancient texts. The anomaly lies in the fact that the Bible has been the basis for a religious system claiming to possess absolute truths. Ultimately, the Biglino method suggests treating the Bible as an ancient source separate from theological intentions and reading it like any other ancient text.
 
@@ -173,11 +173,11 @@ According to him, the Bible often presents itself as a reliable source of inform
 
 > Mauro Biglino praises the exegetical and philological accuracy of Edizioni San Paolo: “Regarding the volumes we worked on together, while I was doing my editorial work for them, the term ‘Elohim’ was left that way in Italian as well. They did not translate it as the word ‘God’.”
 
-Mauro Biglino acknowledges the significant contribution of Edizioni San Paolo in maintaining exegetical and philological accuracy in their translation work. Notably, during their collaboration, the term "Elohim" was preserved in Italian without being translated as the word "God." This decision reflects a commitment to retaining the original term, thereby preserving the linguistic nuances and cultural context associated with it.
+Mauro Biglino acknowledges the significant contribution of Edizioni San Paolo in maintaining exegetical and philological accuracy in their translation work. Notably, during their collaboration, the term "[Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})" was preserved in Italian without being translated as the word "God." This decision reflects a commitment to retaining the original term, thereby preserving the linguistic nuances and cultural context associated with it.
 
 > The same thing goes for the word ‘Yahweh’. “That one also always remained ‘Yahweh’ and was not translated as ‘the Lord’ as is the case with ordinary editions of the Bible – even though translating Yahweh as ‘the Lord’ is a complete fabrication.”
 
-According to Biglino, the translation of the word "Yahweh" as "the Lord" in ordinary editions of the Bible is considered by him to be a complete fabrication. He asserts that the term "Yahweh" should not be translated, but rather preserved as is, without imposing an alternate designation such as "the Lord."
+According to Biglino, the translation of the word "[Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})" as "the Lord" in ordinary editions of the Bible is considered by him to be a complete fabrication. He asserts that the term "Yahweh" should not be translated, but rather preserved as is, without imposing an alternate designation such as "the Lord."
 
 ## According to Jean Sendy
 

@@ -43,7 +43,7 @@ The following table shows the an exhaustive list of religions. The list contains
 | Caodism (Đạo Cao Đài) | 1921–today        | Ngô Văn Chiêu              |                           | highly likely               |
 | Thelema               | 1900-today        | Aleister Crowley           |                           | highly unlikely             |
 | Ōmoto (大本)          | 1892–today        | Nao Deguchi (出口 なお)    |                           | highly likely               |
-| Tenrikyō (天理教)     | 1834-today        | Nakayama Mik (中山 みき)   |                           | highly likely               |
+| Tenrikyō (天理教)     | 1834-today        | Nakayama Miki (中山 みき)  |                           | highly likely               |
 | Mormonism             | 1830–today        | Joseph Smith               | Exoplanet, tangible gods  | canonical                   |
 | Bahá'í Faith          | 1819–today        | Báb, 'Abdu'l-Bahá          | Unity, religious syncretism | highly likely             |
 | Sikhism               | 15th ce-today     | Bābā Nānak                 |                           | likely                      |

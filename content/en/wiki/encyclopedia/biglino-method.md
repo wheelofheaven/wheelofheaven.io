@@ -193,6 +193,16 @@ By adopting a literal reading, one can perceive Genesis as a fascinating narrati
 
 This interpretation, in line with the Biglino Method, invites readers to consider the concrete and tangible aspects of the biblical account, imagining a scenario that lies beyond the realm of science fiction but resonates with a potential reality. Such an approach challenges traditional allegorical or metaphorical interpretations of Genesis, offering an alternative perspective that is firmly grounded in the text's literal content.
 
+## Our take
+
+The Biglino method, advocating a literal approach to reading the Bible and ancient scriptures, is instrumental in distilling their original intended meaning. By taking the text at face value, free from symbolic or metaphorical interpretations imposed by traditional exegesis, readers gain a clearer understanding of the straightforward message conveyed by the ancient authors.
+
+While the literal approach is paramount for grasping the plain meaning of the text, it is important to recognize that the ancient scribes occasionally employed subtle linguistic devices and cultural references. In such cases, a nuanced reading is required to uncover the intended significance behind the words. This nuanced understanding, however, does not rely on imposing symbolic interpretations but rather relies on contextual analysis and familiarity with the historical and cultural context of the scriptures.
+
+The Biglino method encourages a balanced approach, combining a literal reading with contextual awareness, to unravel the true intentions of the scribes. By adhering to the literal words while considering the broader historical and cultural backdrop, readers can appreciate the original intended meaning without distorting the text with extraneous symbolic interpretations.
+
+In conclusion, the Biglino method's emphasis on a literal approach enables a more accurate understanding of the Bible and ancient scriptures, while acknowledging the occasional need for contextual analysis to capture the nuances and intended significance of the text. This approach offers readers an opportunity to engage directly with the scriptures and uncover their intended message without relying on traditional exegesis and its symbolic interpretations.
+
 ## See also
 
 - [Wiki › Bible]({{< relref "wiki/encyclopedia/bible.md" >}})

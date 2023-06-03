@@ -1,7 +1,7 @@
 ---
 title: "Eden"
-description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth."
-lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth."
+description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
+lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,25 +13,69 @@ weight: 200
 toc: true
 ---
 
-The Garden of Eden, also known simply as Eden, is a biblical story that describes a perfect and idyllic paradise where the first human beings, Adam and Eve, lived. The story of Eden is described in the first three chapters of the book of Genesis in the Bible.
+The Garden of Eden is a significant locale featured prominently in the [Biblical]({{< relref "wiki/encyclopedia/bible.md" >}}) narrative of the creation and early history of humanity. Considered a paradise by many, this garden is described in the Book of Genesis, the first book of the Jewish Torah and the Christian Bible. The Garden of Eden symbolizes a primordial utopia, filled with lush vegetation, all forms of life, and the presence of the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}).
 
-According to the biblical account, God created the Garden of Eden as a place of perfect beauty and abundance. The Garden was filled with every kind of tree that was pleasing to the eye and good for food, and God placed the first human beings, Adam and Eve, there to live and care for it. God gave Adam and Eve complete freedom in the Garden, but warned them not to eat from the tree of the knowledge of good and evil, or they would surely die.
+The Garden of Eden is often equated with paradise on earth based on its depiction in religious texts, particularly the Book of Genesis in the Bible. It's described as a place created by God specifically for [Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}}), the first human beings, where they lived in harmony with nature, and where scarcity, suffering, and death did not exist. It was a place of peace, abundance, and communion with the creators. Also, the [Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}}), which granted eternal life, and the [Tree of the Knowledge of Good and Evil]({{< relref "wiki/encyclopedia/tree-of-the-knowledge-of-good-and-evil.md" >}}) were to be found therein.
 
-However, a serpent appeared and tempted Eve to eat from the forbidden tree, promising her that she would not die, but would become like God, knowing good and evil. Eve ate from the tree and then gave some to Adam, and as a result, their eyes were opened and they realized that they were naked. They felt ashamed and covered themselves with fig leaves.
+## Etymology
 
-When God came to the Garden, he discovered that Adam and Eve had disobeyed him and had eaten from the forbidden tree. As a result, God punished them by expelling them from the Garden and placing an angel with a flaming sword to guard the entrance, so that they could not enter the garden of Eden anymore.
+In [Hebrew]({{< relref "wiki/encyclopedia/hebrew.md" >}}), the term for the Garden of Eden is גַּן־עֵדֶן (gan-ʿĒḏen)[^garden], where גַּן (gan) means garden, and עֵדֶן ('éden) is a term that is a cognate of the Akkadian word 𒂊𒁲𒉡 (edinu or idīnum), which translates to desert or steppe. The Akkadian 𒂊𒁲𒉡 (idīnum) in turn was originally borrowed from the Sumerian term 𒂔 (eden), meaning plain, steppe or even open country.
+
+These linguistic links suggest that the original concept of Eden might have been the name of a specific, delimited region located in a wide, open space - potentially a highly fertile plain or steppe.
+
+[^garden]: The Garden of Eden is also referred to as Garden of God (גַּן־יְהֹוֶה, gan-YHWH and גַן־אֱלֹהִים, gan-Elohim).
+
+## According to Mauro Biglino
+
+In his book [The Naked Bible]({{< relref "resources/the-naked-bible/index.md" >}}) author Biglino provides his interpretation of the Garden of Eden:
+
+> Biglino suggests caution: the term “Eden” indicates a rather precise geographical location, a vast region located between Mesopotamia and the Caucasus.
+>
+> “In addition to the Bible,” he explains, “the term ‘Eden’ is also found in Sumerian-Akkadian texts, where it appears as ‘E-Din’, usually translated as ‘the house of the righteous’.” And by “righteous”, the scholar specifies, they obviously meant “those of the lineage of the Commanders, meaning the biblical Elohim, who in fact correspond to the Sumerian- Akkadian Anunna or Anunnaki.”[^caution]
+
+Biglino posits that the term Eden refers to a distinct geographic region between Mesopotamia and the Caucasus. Drawing connections with Sumerian-Akkadian texts, he interprets "E-Din" as the "house of the righteous," or the dwelling of biblical Elohim, equated with the Sumerian-Akkadian Anunna or Anunnaki. Biglino also points out that there are several Gans (gardens):
+
+> To begin with, there are many Gans in ancient books. The one pertaining to Adam and Eve, the one located in the region of Eden, was just one of several “enclosed and protected gardens” on Earth.
+>
+> “So the Bible is telling us about one of the Gans existing on the planet,” confirms Biglino, “but we can imagine the existence of several others.”
+>
+> For example?
+>
+> “The first one was probably located in the center of Africa, or in the southernmost latitudes of the black continent, where the first genetic experiments to manufacture Homo sapiens took place.[^africa]
+
+Biglino expands the concept of the Garden of Eden by suggesting multiple "Gans" or gardens, enclosed and protected spaces scattered across the Earth. Biglino asserts that the biblical Eden was just one of these environments. He speculates that other Gans could have existed, possibly including one in central Africa where, according to his interpretation, early genetic experiments might have led to the creation of Homo sapiens. Finally, Biglino also identifies the Gans basically being laboratories of some kind:
+
+> “The Gan Eden was an experimental laboratory,” Biglino summarizes. “The Elohim, the Bible tells us, produced every kind of tree that gave good edible fruit.” In that laboratory, then, they experimented with food – both vegetable and animal – to be used for their workers, that is to say, humanity, which they had “created” through genetic engineering.[^workers]
+
+He interprets the biblical "Gans" or gardens, including the Garden of Eden, as experimental laboratories. He suggests that the Elohim, or biblical creators, used these locations for scientific experiments, particularly related to their magnus opus —humanity.
+
+[^caution]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history]({{< relref "resources/the-naked-bible/index.md" >}}), p. 102
+
+[^africa]: idem, p. 103
+
+[^workers]: idem, p. 115
 
 ## In Raëlism 🔯
 
-According to the _Book Which Tells The Truth_, Second Chapter Truth, Genesis, where Eden is heavily implied being synonymous with the biblical paradise, says the following about this specific place:
+According to the [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}}), where Eden is equated with the paradise on Earth, says the following about the locality of Eden:
 
 > The team located in the country you now call Israel, which at the time was not far from Greece and Turkey on the original continent, was composed of brilliant creators who were perhaps the most talented team of all.
 >
-> Their animals were the most beautiful and their plants had the sweetest perfumes. This was what you call "paradise on Earth". The human beings they created there were the most intelligent.
+> Their animals were the most beautiful and their plants had the sweetest perfumes. This was what you call "paradise on Earth". The human beings they created there were the most intelligent.[^perfume]
 
-In other words, Yahweh tells us that Eden is an antediluvian, proto-pangaean region during the Genesis phase. This region on the former Pangean continent came to what we known as the Levant after the Great Flood, or more specifically as Yahweh says himself, the land we now call Israel.
+In other words, [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}), the one who is speaking in the passage quoted above, tells us that Eden is an [antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}}), [proto-pangaean]({{< relref "wiki/encyclopedia/pangaea.md" >}}) region during the that existed by the  [Sixth Age of Creation]({{< relref "intro/timeline/age-of-leo.md" >}}) in the [Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}}) project. This region on the former Pangean continent came to what we known as the Levant after the [Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}}), or more specifically as Yahweh says himself, the land we now call Israel.
 
-Out of the seven creator teams, one industrious and talented team that happened to be conducting their Genesis projects within this Eden region managed to engineer outstanding life forms. Besides the supposedly impressive flora and faune, the human type that got incepted there is considered the most intelligent one.
+Out of the seven creator teams, one industrious and talented team that happened to be conducting their Genesis projects within this Eden region managed to engineer outstanding life forms. Besides the supposedly impressive flora and fauna, the human type that got incepted there happened to be considered the most intelligent one.
+
+In the third book, Eden is briefly mentioned again in a series of _bona fide_ revelations:
+
+> Yahweh condemns the scientists who had disobeyed his orders to spend the rest of their lives in exile on Earth. He condemns the “serpent” to crawl on Earth, as it is so poetically written, and evicts Man from the laboratory, the “Garden of Eden” where they were fed and lodged without having to make the slightest effort.[^lab]
+
+The Garden of Eden is conceptualized as a specifically delineated, controlled environment —akin to a laboratory— situated on the primal, antediluvian continent. Within this "fenced laboratory," the highly skilled team of creators conducted their work, [creating exceptional life forms]({{< relref "wiki/encyclopedia/life-engineering.md" >}}) including, most notably, the human genus.
+
+[^perfume]: Excerpt from Raël (1973): The Book Which Tells the Truth, republished in Intelligent Design: Message from the Designers (2005), p. 15. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis)
+
+[^lab]: Excerpt from Raël (1979): Let's Welcome the Extra-Terrestrials, republished in Intelligent Design: Message from the Designers (2005), p. 279.
 
 ## See also
 

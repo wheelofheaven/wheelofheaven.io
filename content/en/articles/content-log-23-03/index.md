@@ -6,7 +6,7 @@ date: 2023-03-20T00:00:00+00:00
 lastmod: 2023-03-20T00:00:00+00:00
 draft: false
 weight: 50
-images: ["content-log-03-23.png"]
+images: ["content-log-03-23.jpg"]
 categories: ["Content log"]
 tags: ["knowledge-base", "dev-log", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
 contributors: ["Zara Zinsfuss"]

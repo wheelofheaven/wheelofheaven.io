@@ -19,6 +19,14 @@ The Leviathan has been interpreted in various ways throughout history. In some i
 
 In popular culture, the Leviathan has been depicted in many different ways, often as a giant sea serpent or dragon. It has also been used as a metaphor for various forms of evil, oppression, and tyranny throughout history. The image of the Leviathan continues to hold great cultural and symbolic significance, and it is often referenced in literature, art, and other forms of popular culture.
 
+## Etymology
+
+The term Leviathan originates from the Hebrew word לִוְיָתָן (livyāthān), which appears in the Hebrew Bible (Old Testament) in several books, including Job, Psalms, and Isaiah. This term is often used to denote a large sea creature or monster.
+
+The root of the word לִוְיָתָן (livyāthān) is believed to be derived from the Hebrew verb לוה (lāvāh), which means "to twist" or "to coil", which could be a reference to the creature's serpentine or coiling nature.[^twist]
+
+[^twist]: Compound of לִוְיָה (livyá, "garland, wreath") and -תָּן (-tan, agentive suffix), meaning "the tortuous one" or the "twisting one". See here for more: [לויתן | Wiktionary](https://en.wiktionary.org/wiki/%D7%9C%D7%95%D7%99%D7%AA%D7%9F)
+
 ## Sea serpent in mythology
 
 The depiction of multi-headed creatures, while unusual in biological terms, often finds representation in mythology and heraldry. Dragons with multiple heads, such as the 8-headed Orochi (大蛇) and 3-headed Trisiras, emerge frequently across various cultures. Greek mythology also tells of Heracles' battles against the 9-headed Lernaean Hydra and the 100-headed Ladon.
@@ -36,7 +44,7 @@ This motif appears in the battles between Thor and Jörmungandr in Norse mytholo
 5. **Drangue vs. Kulshedra (Albanian mythology):** The semi-human Drangue battled the dragon-like creature Kulshedra to protect people and maintain balance in the world.
 6. **Făt-Frumos vs. Balaur (Romanian):** Făt-Frumos, a prince, defeated the dragon Balaur to save the princess, symbolizing the victory of good over evil.
 7. **Gabriel vs. Rahab (Jewish):** Angel Gabriel defeats the primordial sea monster Rahab, underlining the divine power's supremacy over chaos.
-8. **Garshasp vs. Zahhak (Iranian): Garshasp, a heroic figure, defeated Zahhak, a figure represented with serpentine characteristics, symbolizing the victory of good over evil.
+8. **Garshasp vs. Zahhak (Iranian)**: Garshasp, a heroic figure, defeated Zahhak, a figure represented with serpentine characteristics, symbolizing the victory of good over evil.
 9. **Heracles vs. The Lernaean Hydra (Greek):** In this labor of Heracles, he battled the multi-headed Hydra, an embodiment of resilience, highlighting the hero's determination and strength.
 10. **Indra vs. Vritra (Indian):** Vritra, a dragon, was defeated by the god Indra, marking the victory of the forces of order and life-giving properties over drought.
 11. **Krishna vs. Kāliyā (Indian):** Krishna, an avatar of Lord Vishnu, subdued the serpent Kāliyā, symbolizing the victory of good over harmful forces.
@@ -96,7 +104,9 @@ The root cause of this cosmic contention was the [Serpentine faction\'s rebellio
 
 ## See also
 
-- [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
+- [Wiki › Comparative mythology]({{< relref "wiki/encyclopedia/comparative-mythology.md" >}})
+- [Wiki › Elohimian Space Wars]({{< relref "wiki/encyclopedia/elohimian-space-wars.md" >}})
+- [Wiki › Serpentine rebellion]({{< relref "wiki/encyclopedia/serpentine-rebellion.md" >}})
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
 
 ## External links

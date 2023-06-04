@@ -14,4 +14,9 @@
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
+{{ else }}
+  <p>No related articles found.</p>
+  <p>Current Page URL: {{ $currentPage.RelPermalink }}</p>
+  <p>Current Page Content:</p>
+  <pre>{{ $currentPage.Content }}</pre>
 {{ end }}

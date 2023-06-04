@@ -57,14 +57,7 @@ This possibility further emphasizes the concept of an unending chain of creation
 
 ## See also
 
-- [Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
-- [Intro › Timeline › Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}})
-
-## External links
-
-- [Adam and Eve | Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
-- [Adam and Eve | Britannica](https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures)
-- [Adam | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/758-adam)
-- [Eve | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/5916-eve)
+- [Wiki › Life engineering]({{< relref "wiki/encyclopedia/life-engineering.md" >}})

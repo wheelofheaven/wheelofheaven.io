@@ -51,4 +51,3 @@ Biglino's interpretation sheds light on the origin and nature of the Adamites, f
 - [Adam and Eve | Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
 - [Adam and Eve | Britannica](https://www.britannica.com/biography/Adam-and-Eve-biblical-literary-figures)
 - [Adam | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/758-adam)
-- [Eve | Jewish Encyclopedia](https://jewishencyclopedia.com/articles/5916-eve)

@@ -47,18 +47,21 @@ Some more specific arguments that have been put forward in favor of Intelligent 
 
 ## In Raëlism 🔯
 
-In Raëlism, the concept of intelligent design is seen in the context of the Elohim, who are believed to be the extraterrestrial creators of humanity. According to the Raëlian belief system, the Elohim are highly advanced beings who possess a deep understanding of science and technology, and they used this knowledge to create humans using genetic engineering.
+In Raëlism, the concept of intelligent design is seen in the context of the [Elohim]({{< relref "wiki/encyclopedia/elohim" >}}), who are believed to be the extraterrestrial creators of humanity. The Elohim are highly advanced beings who possess a deep understanding of science and technology, and they used this knowledge to create humans using [genetic engineering]({{< relref "wiki/encyclopedia/genetic-engineering.md" >}}).
 
-Raëlians believe that the Elohim created life on Earth in a laboratory, rather than through natural evolution, and that they continue to guide and influence human evolution. This belief in intelligent design is consistent with the Raëlian view that the Elohim are responsible for the creation of all life, including humans.
+Within the scope of Intelligent Design, the notion of "directed design" as presented in Raëlism can be seen as a subtype. In this case, the intelligent cause is not an omnipotent deity or a metaphysical force but a succession of scientifically advanced civilizations. These civilizations, starting from the [Forerunners]({{< relref "wiki/encyclopedia/Forerunners.md" >}}), deliberately and consciously manipulate biological processes [to create and improve life forms]({{< relref "wiki/encyclopedia/life-engineering.md" >}}).
 
-The Raëlian belief in intelligent design also holds that human life is sacred, and that it should be respected and protected. They argue that the advanced technology and scientific knowledge possessed by the Elohim can be used to improve the quality of human life, and to address the problems facing humanity today.
+This "directed design" shares the common core belief of Intelligent Design that an intelligent cause is responsible for the complexity and diversity of life. However, it provides a unique twist by assigning this role to physically and scientifically advanced entities rather than a spiritual or divine being.
 
-Overall, Raëlians view intelligent design as a central tenet of their belief system, and they see it as a means of connecting with the advanced extraterrestrial beings who they believe created humanity.
+In the case of Raëlism, the directed design further extends to propose a lineage of creators, each civilization passing on its acquired knowledge and enhancements to the next, creating a chain of [cosmic evolution]({{< relref "wiki/encyclopedia/cosmic-evolution.md" >}}). It's a model that combines elements of both creation and evolution, attributing the origins and progression of life to the purposeful actions of advanced civilizations.
 
 ## See also
 
+- [Wiki › Cosmic evolution]({{< relref "wiki/encyclopedia/cosmic-evolution.md" >}})
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Forerunners]({{< relref "wiki/encyclopedia/forerunners.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
-- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Life engineering]({{< relref "wiki/encyclopedia/life-engineering.md" >}})
 
 ## Read more
 

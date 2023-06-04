@@ -61,6 +61,14 @@ In this passage, it is explained that the creators in exile, who were monitoring
 
 The ark was lifted "above" the Earth and not "on" the water, and it was necessary to wait until there was no more dangerous radioactive fallout. The spacecraft had three sections and carried a couple from each race of human beings on Earth. Eventually, it landed on Earth and the survivors, both human and non-human, were released to start a new life. The story of Noah's Ark can be understood as a life preservation project that safeguarded life during the Great Flood.
 
+## Legacy
+
+Noah's Ark is an integral component of the Adamite struggle and the Serpentine rebellion narrative. It is not the wooden ship as traditionally conceived in popular culture, but rather a state-of-the-art spacecraft, designed and built with the help of the exiled Elohim, who were in defiance of their home government's decision to exterminate all life on Earth.
+
+The construction of the Ark represents an act of defiance and a bold assertion of humanity's right to survival. It was designed to sustain a select group of humans, including Noah and his family, and various animal species through a cataclysm meant to wipe out life on Earth. To this end, it was equipped with advanced life-support systems and the genetic codes of various animal species. These genetic codes ensured the preservation and regeneration of biodiversity post-catastrophe.
+
+During the cataclysm, the Ark, carrying its precious cargo of human and animal life, orbited Earth, safely out of reach of the destructive forces ravaging the planet. After the cataclysm ended, Noah's Ark returned to Earth, allowing its passengers to repopulate the planet and breathe life back into the devastated ecosystem.
+
 ## See also
 
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})

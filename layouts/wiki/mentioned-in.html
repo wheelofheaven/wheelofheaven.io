@@ -8,14 +8,14 @@
 {{ end }}
 
 {{ if $relatedArticles }}
-  <h3>Related Articles</h3>
+  <h3>Mentioned in</h3>
   <ul>
     {{ range $relatedArticles }}
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
 {{ else }}
-  <p>No related articles found.</p>
+  <p>No articles found mentioning this one.</p>
   <p>Current Page URL: {{ $currentPage.RelPermalink }}</p>
   <p>Current Page Content:</p>
   <pre>{{ $currentPage.Content }}</pre>

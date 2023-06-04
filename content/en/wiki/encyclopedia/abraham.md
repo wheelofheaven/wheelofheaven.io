@@ -56,6 +56,16 @@ This passage is discussing a story from the book of Genesis in the Bible, where 
 
 [^lay]: Excerpt from Raël (1973): The Book Which Tells The Truth, republished in Intelligent Design: Message from the Designers (2005), p. 25. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#the-sacrifice-of-abraham). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
 
+## Legacy
+
+Abraham is a pivotal figure in the Adamite struggle, particularly known for his role in the aftermath of the cataclysm that wiped out Sodom and Gomorrah. As a leader of the Adamite community, he played a significant part in fostering a renewed relationship with the Elohim creators, a relationship strained by the sequence of catastrophic events and the societal upheaval they caused.
+
+In a key episode known as the Sacrifice of Abraham, the creators tested Abraham's loyalty and his community's sentiments towards them. This event is portrayed as a testament of faith, with Abraham willing to sacrifice his son in response to a perceived command from the creators. The test was not to examine Abraham's obedience, but rather to assess the strength of the positive feelings and the quality of the relationship the Adamites had towards their creators.
+
+In a symbolic gesture, the creators intervened just as Abraham was about to carry out the sacrifice, thereby indicating the completion of the test and signifying their satisfaction with the outcome. This event confirmed the Adamites' loyalty to their creators, marking a critical turning point in the relationship between the creators and their synthetic progeny.
+
+Abraham's unwavering loyalty and his subsequent actions laid the groundwork for a renewed relationship between the Adamites and the Elohim.
+
 ## Our take
 
 One of the main aspects of the [Wheel of Heaven exegesis]({{< relref "wiki/encyclopedia/wheel-of-heaven.md" >}}) is that the whole timeline of the events described in the Biblical scriptures and subsequently in the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) happen within one [precessional cycle of 25'920 years]({{< relref "wiki/encyclopedia/great-year.md" >}}). Considering this, the events during Abraham's lifetime are presumed to have occured during the Age of Taurus, a period of time that falls between 4'530 to 2'370 BCE.

@@ -50,4 +50,4 @@ We hope you enjoy your visit to Wheel of Heaven, and even if you do not fully ag
 
 ## What's next
 
-With that in mind, it's time to dive in and take a closer look at setting in which the hypothesis is grounded. [On to the Setting!]({{< ref "/intro/at-a-glance/the-hypothesis" >}})
+With that in mind, it's time to dive in and take a closer look at setting in which the hypothesis is grounded. [On to the Setting!]({{< ref "/intro/at-a-glance/the-setting" >}})

@@ -16,7 +16,8 @@
           {{ if not .Params.hidden }}
             <div class="card my-3">
               <div class="card-body">
-                <a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a>
+                <b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a></b>
+                <p class="card-text">{{ .Params.lead }}</p>
               </div>
             </div>
           {{ end }}

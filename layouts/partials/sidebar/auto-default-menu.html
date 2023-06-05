@@ -29,7 +29,9 @@
           </ul>
         {{ else }}
           {{ $active := in $currentPage.RelPermalink .RelPermalink }}
-          <li><a class="docs-link{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Name }}</a></li>
+          {{ if not .Params.hidden }}
+            <li><a class="docs-link{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Name }}</a></li>
+          {{ end }}
         {{ end }}
       {{ end }}
     </ul>

@@ -21,9 +21,26 @@ However, the swastika is also infamous for its use by the Nazi party in Germany 
 
 Due to its historical association with the Nazi regime, the display of the swastika is illegal in many countries and its use is restricted in others. In many Western countries, the swastika is widely seen as a symbol of hate and is strongly discouraged.
 
+## In Raëlism 🔯
+
+In the first book of the Raëlian canon, "The Book Which Tells The Truth", Yahweh elaborates on the symbolism depicted on the Elohim's machines and attire:
+
+> The emblem you see engraved on this machine and on my suit represents the truth. It is also the emblem of the Jewish people, the Star of David, which means: “That which is above is like that which is below”, and in its center is the swastika, which means that everything is cyclic, the top becoming the bottom, and the bottom in turn becoming the top. The origins and destiny of the creators and human beings are similar and linked.
+>
+> Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth? Isaiah 40: 21.
+
+This emblem, recognized as the Star of David, carries profound significance in the narrative.
+
+According to Yahweh, the Star of David encapsulates a philosophical tenet, essentially stating that "that which is above is like that which is below". This aphorism signifies the interconnectedness and mirroring of higher and lower realms, suggesting that the phenomena observed in the cosmos (the "above") are reflected on Earth (the "below"). This principle also implies the symmetry between the creators (the Elohim) and their creations (humans), reinforcing the inherent connection and mutual destiny they share.
+
+Within the center of the Star of David in this emblem is the swastika, an ancient symbol often associated with cyclical progression or eternal recurrence. In this context, the swastika symbolizes the cyclical nature of existence, whereby the top becomes the bottom, and vice versa. This reflects the concept that states and conditions are transient and cyclically recurring, which can also denote the cyclic evolution and transformation of civilizations or species, including the creators and their synthetic progeny.
+
+These symbols serve to reinforce the complex, intertwined relationships between the creators and the created, and the cyclical nature of existence and evolution. The reference to Isaiah 40:21 suggests a call for understanding these principles, which have been integral to the cosmic narrative from the beginning.
+
 ## See also
 
 - [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Menorah]({{< relref "wiki/encyclopedia/menorah.md" >}})
 - [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
 - [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
 

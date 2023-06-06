@@ -1,0 +1,12 @@
+<div class="timeline">
+  {{ range .Site.Data.worldages }}
+    <div class="age {{ if eq .identifier $.current }}current{{ end }}">
+      <img src="{{ .image }}" alt="{{ .name }}">
+      {{ if eq .identifier $.current }}
+        <span class="period">{{ .period }}</span>
+      {{ end }}
+      <div class="tooltip">{{ .name }}</div>
+    </div>
+  {{ end }}
+</div>
+

@@ -1,5 +1,5 @@
 <div class="timeline">
-  {{ range .Site.Data.worldages }}
+  {{ range .context.Site.Data.zodiac }}
     <div class="age {{ if eq .identifier $.current }}current{{ end }}">
       <img src="{{ .image }}" alt="{{ .name }}">
       {{ if eq .identifier $.current }}

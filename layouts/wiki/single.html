@@ -24,6 +24,9 @@
 					</ol>
 				</nav>
 			{{ end }}
+      {{ if .Params.timeline }}
+        {{ partial "utilities/timeline.html" (dict "context" . "current" .Params.timeline) }}
+      {{ end }}
 			<h1>{{ .Title }}</h1>
       <p class="lead arvo-font"><sup class="lead-tldr"><a href="/wiki/tldr/" style="text-decoration: none; color: inherit;">tl;dr</a></sup> {{ .Params.lead | safeHTML }}</p>
 			{{ if ne .Params.toc false -}}
@@ -32,9 +35,6 @@
 			</nav>
 			{{ end -}}
 			{{ .Content }}
-      {{ if .Params.timeline }}
-        {{ partial "utilities/timeline.html" (dict "context" . "current" .Params.timeline) }}
-      {{ end }}
     <!--
       {{ partial "endnotes/mentioned-in.html" . }}
       -->

@@ -13,7 +13,6 @@
   border-right: none;
   position: relative;
   box-sizing: border-box;
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,7 +24,6 @@
   img {
     width: 100%;
     height: auto;
-    fill: currentColor;
   }
 
   &.current {
@@ -40,4 +38,3 @@
     font-size: 0.8em;  /* adjust as needed */
   }
 }
-

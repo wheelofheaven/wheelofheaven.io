@@ -1,11 +1,13 @@
+Relevant world ages
 <div class="timeline">
-  {{ range .context.Site.Data.zodiac }}
-    <div class="age {{ if eq .identifier $.current }}current{{ end }}">
-      <img src="{{ .image }}" alt="{{ .name }}">
-      {{ if eq .identifier $.current }}
+  {{ range .context.Site.Data.worldages }}
+    {{ $current := .identifier }}
+    <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
+      <img src="{{ .image }}" alt="{{ .name }}" class="zodiac-image">
+      {{ if in $.context.Params.timeline $current }}
         <span class="period">{{ .period }}</span>
       {{ end }}
-      <!--
+      <!-- Uncomment the tooltip line if you have fixed the issue related to it
       <div class="tooltip">{{ .name }}</div>
       -->
     </div>

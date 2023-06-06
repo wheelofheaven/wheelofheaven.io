@@ -590,3 +590,39 @@ $navbar-dark-active-color:          $link-color-dark;
   background: $body-overlay-dark;
   border: 1px solid $body-overlay-dark;
 }
+
+
+[data-dark-mode] .age {
+  width: 61px;
+  height: 61px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid $border-dark;
+  border-right: none;
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:last-child {
+    border-right: 1px solid $border-dark;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  &.current {
+    background-color: $mauve;
+  }
+
+  .period {
+    position: absolute;
+    bottom: -20px;  /* adjust as needed */
+    left: 0;
+    width: 120%;
+    font-size: 0.5em;  /* adjust as needed */
+  }
+}

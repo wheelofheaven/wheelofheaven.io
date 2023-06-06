@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 The Confusion of Tongues is an event described in the Book of Genesis in the Bible. According to the story, the people of the world were initially of one language and lived together in harmony. However, they decided to build a great tower that would reach the heavens, as a symbol of their unity and achievement. God saw this as a challenge to his authority and decided to confuse their language, making it impossible for them to understand each other. This caused the people to scatter across the world, unable to work together on their tower, and resulted in the division of humanity into different linguistic groups.

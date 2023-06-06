@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["leo", "cancer", "gemini"]
 ---
 
 Ancient Builders typically refers to the architects, engineers, and skilled workers who created structures, such as buildings, temples, pyramids, and other monumental structures, in ancient civilizations. These ancient builders used a variety of materials and techniques, depending on the resources and technological abilities available to them. They often incorporated elements of sacred geometry, religious beliefs, and cultural symbols into their structures, which were sometimes used for religious or political purposes.

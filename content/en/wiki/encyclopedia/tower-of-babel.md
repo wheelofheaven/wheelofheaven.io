@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.

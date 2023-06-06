@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 ## In Raëlism 🔯

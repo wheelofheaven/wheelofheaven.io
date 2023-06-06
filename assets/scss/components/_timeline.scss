@@ -9,7 +9,7 @@
   height: 61px;
   padding: 10px;
   text-align: center;
-  border: 1px solid #000;
+  border: 1px solid $gray-300;
   border-right: none;
   position: relative;
   box-sizing: border-box;
@@ -18,13 +18,19 @@
   justify-content: center;
 
   &:last-child {
-    border-right: 1px solid #000;
+    border-right: 1px solid $gray-300;
   }
 
   img {
     width: 100%;
     height: auto;
+    fill: white;
   }
+
+  .zodiac-image {
+    fill: white;
+  }
+
 
   &.current {
     background-color: $mauve;

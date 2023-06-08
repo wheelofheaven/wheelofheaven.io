@@ -22,16 +22,6 @@
     border-right: 1px solid $gray-300;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    fill: white;
-  }
-
-  .zodiac-image {
-    fill: white;
-  }
-
   &.current {
     background-color: $mauve;
   }

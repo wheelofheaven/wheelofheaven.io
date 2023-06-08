@@ -1,7 +1,3 @@
-/** Theme variables */
-
-// Source: https://material.io/design/color/dark-theme.html
-
 $body-bg-dark: $gray-900;
 $body-overlay-dark: darken($body-bg-dark, 2.5%);
 
@@ -68,10 +64,6 @@ $navbar-dark-active-color:          $link-color-dark;
 [data-dark-mode] body .btn-doks-light:hover,
 [data-dark-mode] body .btn-doks-light:active {
   color: $link-color-dark;
-}
-
-[data-dark-mode] .age svg {
-  color: $gray-100;
 }
 
 [data-dark-mode] body .btn-menu svg {
@@ -607,15 +599,10 @@ $navbar-dark-active-color:          $link-color-dark;
   display: flex;
   align-items: center;
   justify-content: center;
+  color: $body-color-dark;
 
   &:last-child {
     border-right: 1px solid $border-dark;
-  }
-
-  img {
-    width: 100%;
-    height: auto;
-    color: $gray-100;
   }
 
   &.current {

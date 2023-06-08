@@ -2,14 +2,14 @@
   {{ range .context.Site.Data.worldages }}
     {{ $current := .identifier }}
     <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
-      <img src="{{ .image }}" alt="{{ .name }}" class="zodiac-image">
+      {{ .image | safeHTML }}
       {{ if in $.context.Params.timeline $current }}
         <span class="period">{{ .period }}</span>
       {{ end }}
+    </div>
       <!-- Uncomment the tooltip line if you have fixed the issue related to it
       <div class="tooltip">{{ .name }}</div>
       -->
-    </div>
   {{ end }}
 </div>
 

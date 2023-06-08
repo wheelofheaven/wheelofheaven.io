@@ -594,7 +594,7 @@ $navbar-dark-active-color:          $link-color-dark;
 [data-dark-mode] .age {
   width: 61px;
   height: 61px;
-  padding: 10px;
+  padding: 2px;
   text-align: center;
   border: 1px solid $border-dark;
   border-right: none;
@@ -611,6 +611,11 @@ $navbar-dark-active-color:          $link-color-dark;
   img {
     width: 100%;
     height: auto;
+    color: $gray-100;
+  }
+
+  svg {
+    color: $gray-100;
   }
 
   &.current {

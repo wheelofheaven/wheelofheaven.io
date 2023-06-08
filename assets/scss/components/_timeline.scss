@@ -2,12 +2,13 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  padding-bottom: 2em;
 }
 
 .age {
   width: 61px;
   height: 61px;
-  padding: 10px;
+  padding: 2px;
   text-align: center;
   border: 1px solid $gray-300;
   border-right: none;

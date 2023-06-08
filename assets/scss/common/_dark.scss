@@ -599,10 +599,15 @@ $navbar-dark-active-color:          $link-color-dark;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: $body-color-dark;
 
   &:last-child {
     border-right: 1px solid $border-dark;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    color: $gray-100;
   }
 
   &.current {

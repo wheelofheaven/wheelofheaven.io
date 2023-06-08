@@ -2,7 +2,7 @@
   {{ range .context.Site.Data.worldages }}
     {{ $current := .identifier }}
     <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
-      {{ .image | safeHTML }}
+        {{ .image | safeHTML }}
       {{ if in $.context.Params.timeline $current }}
         <span class="period">{{ .period }}</span>
       {{ end }}

@@ -612,6 +612,7 @@ $navbar-dark-active-color:          $link-color-dark;
 
   &.current {
     background-color: $mauve;
+    color: $body-bg-dark;
   }
 
   .period {

@@ -70,6 +70,10 @@ $navbar-dark-active-color:          $link-color-dark;
   color: $link-color-dark;
 }
 
+[data-dark-mode] .age svg {
+  color: $gray-100;
+}
+
 [data-dark-mode] body .btn-menu svg {
   color: $body-color-dark;
 }

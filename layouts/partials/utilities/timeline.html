@@ -1,12 +1,14 @@
 <div class="timeline">
   {{ range .context.Site.Data.worldages }}
     {{ $current := .identifier }}
-    <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
-        {{ .image | safeHTML }}
+    <a class="zodiac-link" href="{{ .link }}">
+      <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
+      {{ .image | safeHTML }}
       {{ if in $.context.Params.timeline $current }}
         <span class="period">{{ .period }}</span>
       {{ end }}
-    </div>
+      </div>
+    </a>
   {{ end }}
 </div>
 

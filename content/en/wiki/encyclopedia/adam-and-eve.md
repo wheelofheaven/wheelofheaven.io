@@ -20,7 +20,7 @@ Adam and Eve are the first man and woman according to the creation story in the 
 
 The etymology of the name of both Adam and Eve is uncertain, and several etymological theories have been proposed for each name on their own.
 
-One theory is that the name Adam is derived from the Hebrew word "adamah", which means "earth" or "soil".[^soil] This is in line with the biblical account of Adam being formed from the dust of the earth (Genesis 2:7). Another theory is that the name "Adam" is derived from the Akkadian word "adamu", which means "to make" or "to create." This interpretation emphasizes the idea of Adam as the first human being created by God. A third theory is that the name "Adam" is related to the Hebrew word "adom," which means "red".[^red] This interpretation is based on the idea that the color red symbolizes life and vitality, and that the name Adam reflects the idea of the first human as the source of life.
+One theory is that the name Adam is derived from the [Hebrew]({{< relref "wiki/encyclopedia/hebrew.md" >}}) word "adamah", which means "earth" or "soil".[^soil] This is in line with the biblical account of Adam being formed from the dust of the earth (Genesis 2:7). Another theory is that the name "Adam" is derived from the Akkadian word "adamu", which means "to make" or "to create." This interpretation emphasizes the idea of Adam as the first human being created by the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}). A third theory is that the name "Adam" is related to the Hebrew word "adom," which means "red".[^red] This interpretation is based on the idea that the color red symbolizes life and vitality, and that the name Adam reflects the idea of the first human as the source of life.
 
 On for Adam's companion Eve, the etymology of the name Eve is as already mention neither certain, but it is thought to be derived from the Hebrew word "chavah", which means "to give life".[^alive] This interpretation is in line with the biblical account of Eve being the mother of all living things (Genesis 3:20). Another theory is that the name Eve is related to the Hebrew word "haya", which means "to live". This interpretation emphasizes the idea of Eve as the source of life for all humankind. In addition, the name Eve has been connected to the Akkadian word "awwatu", which means "living one", further emphasizing the idea of Eve as a symbol of life and vitality.
 
@@ -32,7 +32,7 @@ On for Adam's companion Eve, the etymology of the name Eve is as already mention
 
 ## In Raëlism 🔯
 
-Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of them:
+Adam and Eve are mentioned briefly by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}). The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of them:
 
 >> And Yahweh Elohim said unto the serpent, 'Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.'
 >>
@@ -46,7 +46,7 @@ Adam and Eve are mentioned briefly by Yahweh. The following reference from Rael'
 >
 > The creators gave their creations the basic means of survival, enough to manage without needing any further contact with them.[^fruit]
 
-This passage is from the book of Genesis in the Bible and describes the story of Adam and Eve. In the story, the [Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}}), a group of the Elohim creators that wanted their genetically engineered children to know about their origins, tells Adam and Eve [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}), which results in the Serpentine group being judged by the governing body of the Elohimian civilization, which forced them to live in exile on Earth from theron. Adam and Eve are then provided with clothing made and means of survival by the banished Elohimian creators.
+This passage is from the book of Genesis in the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}) and describes the story of Adam and Eve. In the story, the [Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}}), a group of the Elohim creators that wanted their genetically engineered children to know about their origins, tells Adam and Eve [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}), which results in the [Serpentine group]({{< relref "wiki/encyclopedia/serpent.md" >}}) being judged by the governing body of the Elohimian civilization, which forced them to live in exile on Earth from theron. Adam and Eve are then provided with clothing made and means of survival by the banished Elohimian creators.
 
 [^fruit]: Excerpt from Raël (1973): The Book Which Tells The Truth, republished in Intelligent Design: Message from the Designers (2005), p. 17. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis). The Bible passage quoted therein is based on the Restored Name King James Bible (RNKJV) translation.
 

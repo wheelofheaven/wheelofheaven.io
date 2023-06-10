@@ -29,6 +29,11 @@
     background-color: $mauve;
   }
 
+  &.chronology {
+    background-color: $magic-mint;
+    border: 0.1rem solid $body-color;;
+  }
+
   .period {
     position: absolute;
     bottom: -30px;

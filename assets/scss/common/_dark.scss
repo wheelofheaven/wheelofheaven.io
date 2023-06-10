@@ -637,6 +637,12 @@ $navbar-dark-active-color:          $link-color-dark;
     color: $body-bg-dark;
   }
 
+  &.chronology {
+    background-color: $pink-lavender;
+    border: 0.1rem solid $body-color;
+    color: $body-color;
+  }
+
   .period {
     color: $gray-100;
     position: absolute;

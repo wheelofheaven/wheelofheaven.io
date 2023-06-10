@@ -2,7 +2,9 @@
   {{ range .context.Site.Data.worldages }}
     {{ $current := .identifier }}
     <a class="zodiac-link" href="{{ .link }}">
-      <div class="age {{ if in $.context.Params.timeline $current }}current{{ end }}">
+      <div class="age
+        {{ if in $.context.Params.timeline $current }}current{{ end }}
+        {{ if eq $current "chronology" }}chronology{{ end }}">
       {{ .image | safeHTML }}
       {{ if in $.context.Params.timeline $current }}
         <span class="period">{{ .period }}</span>

@@ -23,11 +23,11 @@
 }
 
 blockquote {
-  background: $champagne-pink;
+  background: lighten($baby-pink, 6%);
   margin-bottom: 1rem;
   font-family: $font-family-monospace;
   font-size: $font-size-sm;
-  border-left: 3px solid $gray-300;
+  border-left: 3px solid darken($baby-pink, 6%);
   padding-left: 1rem;
 }
 

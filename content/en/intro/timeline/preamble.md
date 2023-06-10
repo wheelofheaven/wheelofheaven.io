@@ -13,7 +13,6 @@ weight: 204
 toc: true
 ---
 
-
 The timeline begins some time before around –22'000, right at the doorstep to the Age of Capricorn. What preceeds the Age of Capricorn is an Age of Aquarius of the preceeding Great Year. Before we get started with the first precessional Great Month, the Capricornian World Age, it is worth examining what led up to it. To illustrate what happened, we can take inspiration from a classic of the American film industry, Jurassic Park.
 
 ## Hubris or bravery?
@@ -58,7 +57,7 @@ The story of the Elohim evidently doesn't start on planet Earth. They originate 
 >
 > The scientists perfected their techniques and began creating bizarre little animals but the government, under pressure from public opinion, ordered the scientists to stop their experiments for fear they would create monsters, which would become dangerous to society. In fact one of these animals had broken loose and killed several people. [...]
 
-The parallels with the Jurassic Park lore is staggering. We note that some 24'000 years ago, on a distant planet, the Elohimian home planet, its inhabitants managed to develop a civilization capable of artifical gene synthesis _de novo_[^7]. These advancements of genetic engineering lead them to synthetically engineer new life forms. Ulimately, that branch of research of synthetic life engineering ended in a fateful casuality where some of these synthetically created animals broke loose and did kill many people.
+The parallels with the Jurassic Park lore is staggering. We note that some 24'000 years ago, on a distant planet, the Elohimian home planet, its inhabitants managed to develop a civilization capable of [artifical gene synthesis de novo]({{< relref "wiki/encyclopedia/synthetic-biology.md#artifical-gene-synthesis" >}})[^7]. These advancements of genetic engineering lead them to synthetically engineer new life forms. Ulimately, that branch of research of synthetic life engineering ended in a fateful casuality where some of these synthetically created animals broke loose and did kill many people.
 
 We must imagine how a civilization similar to ours, even if slightly more advanced and developed, would react to experimental research like that. Especially considering that the concerns voiced by an eminent faction among the populace, deeming that kind of research to be distateful, objectionable and most importantly dangerous proved to be appropriate. In our day and age, abundant with controversies and mistrust towards executive and leading institutions, a research project of the same magnitude, if it were to become a public matter, would most likely provoke a similar amount of criticism and politicization. The very popularity of the Jurassic Park franchise is a telling indicator on how arguments would be made.
 

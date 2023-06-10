@@ -8,7 +8,7 @@
     titleAddition = "The democratization of the Age of Aquarius starts here."
     description = "The democratization of the Age of Aquarius starts here. Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, and <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footer = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" class=\"link\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" class=\"link\" target=\"_blank\">Zola</a>, and <a href=\"https://getdoks.org/\" class=\"link\" target=\"_blank\">Doks</a>"
     alertText = "Welcome to Wheel of Heaven. Please note this website is being still improved on a daily basis. 😊"
 
 [de]
@@ -23,7 +23,7 @@ titleAddition = "Die Demokratisierung des Wassermannzeitalters ist hier."
     titleHome = "Wheel of Heaven"
     footer = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, und <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
     alertText = "Willkommen bei Wheel of Heaven. Bitte beachte dass diese Website sich noch im Bau befindet. 😊"
- 
+
 [es]
   languageName = "Español"
   contentDir = "content/es"
@@ -36,7 +36,7 @@ titleAddition = "La democratización de la Era de Acuario está aquí."
     titleHome = "Wheel of Heaven"
     footer = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, y <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
     alertText = "Bienvenido a Wheel of Heaven. Tenga en cuenta que este sitio web aún se mejora a diario. 😊"
-    
+
 
 [fr]
   languageName = "Français"
@@ -50,7 +50,7 @@ titleAddition = "La démocratisation de l'Âge du Verseau est là."
     titleHome = "Wheel of Heaven"
     footer = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, et <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
     alertText = "Bienvenue chez Wheel of Heaven. Veuillez noter que ce site web est encore amélioré quotidiennement. 😊"
-      
+
 [ja]
   languageName = "日本語"
   contentDir = "content/ja"
@@ -58,7 +58,7 @@ titleAddition = "La démocratisation de l'Âge du Verseau est là."
   [ja.params]
     languageISO = "JA"
     languageTag = "ja-JA"
-    titleAddition = "水瓶座の時代の民主化がここにあります。" 
+    titleAddition = "水瓶座の時代の民主化がここにあります。"
     description = "水瓶座の時代の民主化がここにあります。 Wheel of Heaven は、地球上の生命は地球外文明、いわゆるエロヒムによって知的に設計されたという作業理論に関する知識ベースです。"
     titleHome = "Wheel of Heaven"
     footer = "<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>、<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>、<a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> を使用してスイスで ♥ で作成"
@@ -76,7 +76,7 @@ titleAddition = "Демократизация эпохи Водолея здес
     titleHome = "Wheel of Heaven"
     footer = "Made with ♥ в Швейцарии c<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, и <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
     alertText = "Добро пожаловать в Wheel of Heaven. Обратите внимание, что этот веб-сайт ежедневно совершенствуется. 😊"
-    
+
 [zh]
   languageName = "中文"
   contentDir = "content/zh"
@@ -89,4 +89,4 @@ titleAddition = "水瓶座时代的民主化就在这里。"
     titleHome = "Wheel of Heaven"
     footer = "使用<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>，<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a> 和 <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> 在瑞士制造♥"
     alertText = "欢迎来到 Wheel of Heaven (“天轮”)。 请注意，该网站每天都在改进。 😊"
- 
+

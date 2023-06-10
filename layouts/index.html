@@ -7,7 +7,7 @@
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href="intro/wheel-of-heaven/" role="button">{{ i18n "get-started" }}</a>
-      <p class="meta">Creative Commons Attribution 4.0 International (CC-BY-4.0). <a href="https://github.com/wheelofheaven/site/blob/main/LICENSE">See here.</a></p>
+      <p class="meta">Creative Commons Attribution 4.0 International (CC-BY-4.0). <a href="https://github.com/wheelofheaven/site/blob/main/LICENSE" class="link">See here</a></p>
     </div>
   </div>
 </section>
@@ -17,14 +17,14 @@
 {{ define "sidebar-prefooter" }}
 <div class="d-flex justify-content-start mb-3">
   <div class="bg-dots"></div>
-</div> 
+</div>
 
 
 <section class="section container-fluid mt-n3 pb-3" style="padding-top: 0; padding-bottom: 0;">
   <div class="row justify-content-center">
     <figure>
       <img src="{{ "images/mccall_the_prologue_and_the_promise.jpg" | absURL }}" alt="mccall_the_prologue_and_the_promise.jpg">
-      <figcaption>Fig.1 - Robert McCall's The Prologue and the Promise. (<a href="https://www.mccallstudios.com/the-prologue-and-the-promise/" target="_blank">Link</a>)</figcaption>
+      <figcaption>Fig.1 - Robert McCall's The Prologue and the Promise. (<a href="https://www.mccallstudios.com/the-prologue-and-the-promise/" class="link" target="_blank">Source</a>)</figcaption>
     </figure>
   </div>
 </section>
@@ -172,7 +172,7 @@
   {{ end }}
 
 {{ end }}
-      
+
 {{ define "sidebar-footer" }}
 <section class="section section-sm container-fluid">
   <div class="row justify-content-center text-center">

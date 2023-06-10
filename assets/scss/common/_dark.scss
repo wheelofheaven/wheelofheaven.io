@@ -18,12 +18,6 @@ $navbar-dark-active-color:          $link-color-dark;
 
 /** Theme styles */
 
-[data-dark-mode] a:hover {
-    color: $link-color-dark;
-    text-decoration: underline;
-}
-
-
 [data-dark-mode] .lead-tldr {
   font-family: $font-family-serif;
   text-decoration-line: underline overline;
@@ -62,6 +56,11 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] body a.text-body {
   color: $body-color-dark !important;
+}
+
+[data-dark-mode] a:hover {
+  color: $link-color-dark;
+  text-decoration: underline;
 }
 
 [data-dark-mode] body .btn-primary {

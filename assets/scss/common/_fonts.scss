@@ -100,7 +100,6 @@
     url("fonts/vendor/jost/jost-v4-latin-700italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* arvo-regular - latin */
 @font-face {
   font-family: Arvo;
   font-style: normal;
@@ -109,4 +108,24 @@
   src:
     local("Arvo Regular"),
     url("fonts/vendor/arvo/arvo-regular_201-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: SpaceMono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Space Mono"),
+    url("fonts/vendor/spacemono/SpaceMono-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: SpaceMono;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Space Mono Italic"),
+    url("fonts/vendor/spacemono/SpaceMono-Italic.ttf") format("ttf");
 }

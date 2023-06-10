@@ -18,6 +18,12 @@ $navbar-dark-active-color:          $link-color-dark;
 
 /** Theme styles */
 
+[data-dark-mode] a:hover {
+    color: $link-color-dark;
+    text-decoration: underline;
+}
+
+
 [data-dark-mode] .lead-tldr {
   font-family: $font-family-serif;
   text-decoration-line: underline overline;
@@ -613,20 +619,10 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] .zodiac-link {
   color: inherit;
-  text-decoration: none;
 }
 
 [data-dark-mode] .age {
-  width: 32px;
-  padding: 5px;
-  text-align: center;
   border: 1px solid $border-dark;
-  border-right: none;
-  position: relative;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 
   &:last-child {
     border-right: 1px solid $border-dark;
@@ -645,10 +641,5 @@ $navbar-dark-active-color:          $link-color-dark;
 
   .period {
     color: $gray-100;
-    position: absolute;
-    bottom: -30px;
-    left: 0;
-    width: 120%;
-    font-size: 0.5em;
   }
 }

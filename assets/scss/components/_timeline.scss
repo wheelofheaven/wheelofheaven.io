@@ -1,6 +1,5 @@
 .timeline {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
   padding-bottom: 2em;
 }
@@ -11,7 +10,7 @@
 }
 
 .age {
-  width: 61px;
+  width: 32px;
   padding: 5px;
   text-align: center;
   border: 1px solid $gray-300;
@@ -32,9 +31,9 @@
 
   .period {
     position: absolute;
-    bottom: -20px;
+    bottom: -30px;
     left: 0;
-    width: 120%;
+    width: 110%;
     font-size: 0.5em;
   }
 }

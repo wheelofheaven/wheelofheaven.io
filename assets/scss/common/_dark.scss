@@ -587,9 +587,19 @@ $navbar-dark-active-color:          $link-color-dark;
   border: 1px solid $body-overlay-dark;
 }
 
+[data-dark-mode] .timeline {
+  display: flex;
+  align-items: flex-start;
+  padding-bottom: 2em;
+}
+
+[data-dark-mode] .zodiac-link {
+  color: inherit;
+  text-decoration: none;
+}
+
 [data-dark-mode] .age {
-  width: 61px;
-  height: 61px;
+  width: 32px;
   padding: 5px;
   text-align: center;
   border: 1px solid $border-dark;
@@ -604,27 +614,17 @@ $navbar-dark-active-color:          $link-color-dark;
     border-right: 1px solid $border-dark;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    color: $gray-100;
-  }
-
   &.current {
     background-color: $mauve;
     color: $body-bg-dark;
   }
 
   .period {
+    color: $gray-100;
     position: absolute;
-    bottom: -20px;  /* adjust as needed */
+    bottom: -30px;
     left: 0;
     width: 120%;
-    font-size: 0.5em;  /* adjust as needed */
+    font-size: 0.5em;
   }
-}
-
-[data-dark-mode] .zodiac-link {
-  color: inherit;
-  text-decoration: none;
 }

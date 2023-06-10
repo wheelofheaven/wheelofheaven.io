@@ -638,7 +638,11 @@ $navbar-dark-active-color:          $link-color-dark;
     color: $body-color;
   }
 
-  .period {
+  .start {
+    color: $gray-100;
+  }
+
+  .end {
     color: $gray-100;
   }
 }

@@ -39,7 +39,7 @@ In addition to these three pillars of information, there is also a [Blog]({{< re
 
 Ok, so far so good. Let's quickly recapitulate what we came to learn so far. All of the following points are main aspects of what makes up the content here on Wheel of Heaven:
 
-- [An extensive and comprehensive introduction]({{< ref "/intro/" >}})
+- [An extensive and comprehensive introduction]({{< ref "/intro/timeline/preamble.md" >}})
 - [An informative wiki section filled with entries and points of interest]({{< ref "/wiki/" >}})
 - [A resource area that features web books handpicked by our team]({{< ref "/resources/" >}})
 - [A frequently updated blog where fresh perspectives and insights are shared]({{< ref "/articles/" >}})

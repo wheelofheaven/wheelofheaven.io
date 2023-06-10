@@ -1,5 +1,6 @@
 ---
 title: "Lucifer"
+alternatives: ["Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
 description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
 lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
 date: 2022-09-20T00:00:00+00:00
@@ -21,7 +22,7 @@ In the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}), the name Lucifer is
 
 In Latin, the term Lucifer translates to light-bringer or morning star, originating from the Latin words "lux" meaning light and "ferre" meaning "to bring or carry". The term was originally used to refer to the planet Venus, which is the brightest object in the sky after the Sun and Moon and often appears just before dawn.
 
-The Hebrew term הֵילֵל בֶּן-שָׁחַר (Helel ben Shachar) is found in the Hebrew Bible in the Book of Isaiah. It is typically translated as "son of the morning" or "son of the dawn". Helel means "shining one" or "bright one", while ben Shachar translates to "son of dawn" or "son of morning light". Much like Lucifer, this name was associated with the planet Venus, due to its brightness and appearance in the early morning sky. These names have often been connected with mythological and religious figures associated with light, pride, or rebellion.
+The Hebrew term הֵילֵל בֶּן-שָׁחַר (Hêlêl ben Šāḥar) is found in the Hebrew Bible in the Book of Isaiah. It is typically translated as "son of the morning" or "son of the dawn". Helel means "shining one" or "bright one", while ben Shachar translates to "son of dawn" or "son of morning light". Much like Lucifer, this name was associated with the planet Venus, due to its brightness and appearance in the early morning sky. These names have often been connected with mythological and religious figures associated with light, pride, or rebellion.
 
 ## In Raëlism 🔯
 

@@ -10,13 +10,13 @@
   <sup>🕮</sup>
   {{ else if strings.HasPrefix .Destination "http" }}
   <sup>↗</sup>
-  {{ else if strings.Contains .Destination "/articles/" }}
+  {{ else if strings.Contains .Destination "articles/" }}
   <sup>a</sup>
-  {{ else if strings.Contains .Destination "/intro/" }}
+  {{ else if strings.Contains .Destination "intro/" }}
   <sup>i</sup>
-  {{ else if strings.Contains .Destination "/wiki/" }}
+  {{ else if strings.Contains .Destination "wiki/" }}
   <sup>w</sup>
-  {{ else if strings.Contains .Destination "/resources/" }}
+  {{ else if strings.Contains .Destination "resources/" }}
   <sup>r</sup>
   {{ else }}
   {{ end }}

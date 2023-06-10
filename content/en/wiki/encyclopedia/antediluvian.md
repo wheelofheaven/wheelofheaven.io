@@ -1,5 +1,6 @@
 ---
 title: "Antediluvian"
+alternatives: ["pre-diluvian", "pre-flood"]
 description: "Antediluvian, the time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
 lead: "The time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
 date: 2022-09-20T00:00:00+00:00

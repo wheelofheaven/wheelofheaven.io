@@ -1,5 +1,6 @@
 ---
 title: "Cyberparadism"
+alternatives: ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
 description: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
 lead: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
 date: 2022-09-20T00:00:00+00:00

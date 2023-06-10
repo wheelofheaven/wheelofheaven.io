@@ -15,7 +15,7 @@ toc: true
 
 ## Relationship with synthetic genomics
 
-Synthetic biology and synthetic genomics are closely related fields, but there are subtle differences between the two:
+Synthetic biology and [synthetic genomics]({{< relref "wiki/encyclopedia/synthetic-genomics.md" >}}) are closely related fields, but there are subtle differences between the two:
 
 - **Synthetic biology**: Synthetic biology, on the other hand, encompasses a broader range of activities and approaches. It involves the application of engineering principles to design and construct biological systems or components with novel functions. Synthetic biology encompasses the design and engineering of genetic circuits, metabolic pathways, proteins, and other biological modules to create new organisms or modify existing ones. It integrates various disciplines such as biology, genetics, biochemistry, and engineering to create synthetic biological systems that can perform specific tasks or exhibit desired traits.
 

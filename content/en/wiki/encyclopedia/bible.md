@@ -14,51 +14,113 @@ weight: 200
 toc: true
 ---
 
-The Bible is a collection of religious texts considered sacred by Christians. It is divided into two main parts: the Old Testament and the New Testament. The Old Testament contains Jewish scripture, while the New Testament contains the teachings of Jesus and the early Christian church. The exact texts that make up the Bible vary between Christian denominations, but the most widely accepted version is the King James Version. The Bible has been translated into many languages and is considered one of the most influential books in human history. Its creation and preservation have been shaped by cultural, political, and religious factors throughout history.
+The Bible is an anthology of religious texts, written and assembled over many centuries, regarded as sacred in Jewish, Christian, and, to some extent, Islamic traditions. Its significance cannot be understated; it has shaped civilizations, informed legal systems, influenced literature and art, and guided the spiritual lives of billions of people worldwide. However, it isn't a single book authored by one individual. Instead, the Bible is a complex library of texts, encompassing a wide range of literary genres - histories, prophecies, poetry, wisdom literature, letters, and apocalyptic writings. Understanding the Bible, therefore, involves recognizing this diversity and appreciating the various religious traditions that interpret it.
 
-The Old Testament of the Bible is primarily made up of texts written in Hebrew and Aramaic, some of which were written as early as the 9th century BCE. Many of these texts were orally transmitted before being written down, and they reflect the beliefs, history, and traditions of the Jewish people. The process of canonization, or determining which texts should be considered authoritative and included in the Old Testament, took place over several centuries and was influenced by religious, political, and cultural factors.
+## Origins and historical context
 
-It is believed by scholars that the Old Testament was written by a diverse group of authors, including prophets, priests, scribes, and kings. The exact identity of these authors is often not known, and some of the texts may have been written or edited by multiple individuals over time. Nevertheless, the Old Testament remains an important source of religious, cultural, and historical information for the Jewish and Christian communities.
+The origins of the Bible lie in the ancient Near East, in the cradle of human civilization, where writing systems first developed. The biblical texts were primarily composed in three languages: Hebrew, Aramaic, and Greek, each reflecting the socio-cultural contexts of their time.
 
-## The Hebrew Bible or the Tanakh
+The Hebrew Bible, also known as the Tanakh in Jewish tradition, is foundational for both Judaism and Christianity. It consists of texts written and edited between the 12th and 2nd century BCE. The Tanakh is divided into three parts: the Torah, also known as the Pentateuch or the Law, comprises the first five books from Genesis to Deuteronomy; the Nevi'im, or the Prophets; and the Ketuvim, or the Writings, including Psalms, Proverbs, Job, and others. Each of these sections presents a rich tapestry of genres, themes, and theologies, reflecting on various aspects of human existence and relationships between humanity and the divine.
 
-The Hebrew Bible, also known as the Tanakh, is the primary text of the Jewish faith and a key source of religious, cultural, and historical information for Jews. It is composed of three main parts: the Torah (the first five books of the Old Testament), the Prophets (Nevi'im), and the Writings (Ketuvim). The Hebrew Bible is written in Hebrew and is considered the oldest version of the Old Testament, predating the Christian Old Testament by several centuries.
+On the other hand, the New Testament, which is significant to Christian tradition, contains texts written in the first century CE by various early Christian communities. These include the Gospels - narratives of Jesus Christ's life and teachings - along with letters (or Epistles) written by apostles like Paul and Peter, and the apocalyptic book of Revelation. The New Testament texts reflect the early Christian understanding of Jesus Christ's teachings and their implications for both individuals and communities.
 
-For Jews, the Hebrew Bible is a sacred text that contains the revealed word of God and provides guidance for how to live a righteous life. It is also seen as a historical record of the Jewish people and their relationship with God. The Hebrew Bible is an important part of Jewish tradition and continues to play a central role in Jewish worship and education.
+## Canonization
+
+The process of canonization - determining which texts should be considered authoritative and included in the Bible - wasn't a straightforward or universal process. Instead, it occurred over centuries and was influenced heavily by theological, political, and societal factors. Jewish communities recognized the Tanakh as their canon by the end of the 1st century CE, while different Christian communities took until the 4th century CE to reach a consensus on the New Testament canon.
+
+Furthermore, the Bible varies among Jewish, Catholic, Protestant, and Orthodox Christian traditions. Some Christian traditions, such as the Catholic and Orthodox Churches, include additional books known as the Deuterocanonical or Apocryphal books. These books, written during the intertestamental period, are regarded as valuable but secondary in authority to the books in the Hebrew Bible. Protestant traditions, following Martin Luther's lead during the Reformation, reject these additional books as non-canonical.
+
+### Apocryphas
+
+The term 'Apocrypha' often refers to a collection of Jewish writings that are included in some Christian Bibles but are excluded from the Hebrew Bible. These works, also known as deuterocanonical books in some traditions, were written during the intertestamental period - the period between the writing of the last Old Testament book (approximately 400 BCE) and the first New Testament book (around 50 CE).
+
+Included in this category are books like Tobit, Judith, Wisdom of Solomon, Sirach (also called Ecclesiasticus), Baruch, and First and Second Maccabees, among others. These books, along with some additional texts and additions to canonical books like Daniel and Esther, are recognized by the Roman Catholic and Eastern Orthodox churches as part of their Old Testament.
+
+The Protestants, following Martin Luther, tend to exclude these books from their canon, considering them useful but not authoritative. The term 'Apocrypha' in Protestant usage can sometimes also include several other non-canonical Jewish and Christian writings from various periods.
+
+### Non-Canonical Texts
+
+Alongside the Apocrypha, there are a plethora of Jewish and Christian texts that are not included in the standard canons of scripture but have been influential in some circles or provide important insights into ancient religious thought. These include Pseudepigrapha, Gnostic texts, and several other early Christian writings.
+
+Pseudepigrapha are Jewish texts that are attributed to biblical figures but were not included in either the canon of the Hebrew Bible or the Apocrypha. Examples include the Books of Enoch, the Jubilees, and the Testaments of the Twelve Patriarchs.
+
+In early Christian tradition, there are many texts, sometimes called the New Testament Apocrypha, that were not included in the New Testament canon. These include several Gospels such as the Gospel of Thomas, Gospel of Peter, and Gospel of Judas, numerous Acts such as the Acts of Paul and Thecla, and a variety of Epistles and Apocalypses.
+
+Gnostic texts, often found among the New Testament Apocrypha, are a diverse collection of writings that reflect the teachings of various Gnostic sects in the early Christian era. Many of these were discovered in the Nag Hammadi library in Egypt in 1945, including texts like the Gospel of Thomas and the Gospel of Philip.
+
+### List of Biblical scriptures
+
+Here is an expanded list of Biblical scriptures categorized primarily according to their inclusion in the Hebrew Bible (Tanakh), and then branching out to other Jewish, Christian, and related texts:
+
+#### 1. Tanakh (Hebrew Bible)
+
+- **Torah (Pentateuch):** Genesis, Exodus, Leviticus, Numbers, Deuteronomy
+- **Nevi'im (Prophets):** Joshua, Judges, Samuel (I & II), Kings (I & II), Isaiah, Jeremiah, Ezekiel, and the Twelve Minor Prophets (Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi)
+- **Ketuvim (Writings):** Psalms, Proverbs, Job, Song of Songs, Ruth, Lamentations, Ecclesiastes, Esther, Daniel, Ezra-Nehemiah, Chronicles (I & II)
+
+#### 2. Deuterocanonical books
+
+These are included in the Septuagint and accepted by Catholic and Orthodox Churches, but not in the Tanakh or Protestant Bible.
+
+- Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, Letter of Jeremiah (in the Vulgate this is chapter 6 of Baruch), additions to Daniel (Prayer of Azariah, Song of the Three Holy Children, Susanna, and Bel and the Dragon), additions to Esther, 1 Maccabees, 2 Maccabees
+
+#### 3. Additional books in the Eastern Orthodox Canon
+
+- 1 Esdras, Prayer of Manasseh, Psalm 151, 3 Maccabees, 2 Esdras, 4 Maccabees (in an appendix to the Greek Bible)
+
+#### Apocryphal/deuterocanonical books in the Syriac Orthodox tradition
+
+- Psalms 152–155, 2 Baruch, Letter of Baruch
+
+#### 4. New Testament
+
+These books are common to all Christian canons.
+
+- The four Gospels (Matthew, Mark, Luke, John), Acts of the Apostles, 14 Pauline epistles, 7 general epistles, and Revelation.
+
+#### 5. Pseudepigrapha and other Jewish non-canonical texts:
+
+- Books of Enoch (1 Enoch, 2 Enoch, 3 Enoch), Jubilees, Testament of the Twelve Patriarchs, The Life of Adam and Eve, The Book of Jasher, The Book of Noah, The Assumption of Moses, The Apocalypse of Moses, The Ascension of Isaiah, The Testament of Solomon, The Psalms of Solomon, The Odes of Solomon.
+
+#### 6. New Testament Apocrypha and other early Christian writings:
+
+- Protoevangelium of James, Infancy Gospel of Thomas, Gospel of Peter, Gospel of Judas, Gospel of Mary, Gospel of Philip, Gospel of Thomas, Acts of Paul and Thecla, Shepherd of Hermas, Didache, 1 Clement, 2 Clement, Apocalypse of Peter, The Epistles of Clement, The Letters of Ignatius.
+
+#### 7. Ethiopian Orthodox Canon:
+
+Contains all the deuterocanonical books found in Catholic and Orthodox canons, and also unique books like the following ones:
+
+- 1 Enoch, Jubilees, 1 Meqabyan, 2 Meqabyan, 3 Meqabyan, and others.
 
 ## Documentary hypothesis
 
-The Documentary Hypothesis is a theory in biblical scholarship that suggests the Pentateuch (the first five books of the Old Testament) were composed from four primary sources, each with distinct literary, theological, and historical characteristics. These sources are referred to as J (for Yahwist), E (for Elohist), D (for Deuteronomist), and P (for Priestly). According to the hypothesis, these sources were combined and edited over time to form the text as we now have it.
+One of the significant developments in the modern scholarly understanding of the Bible, particularly the Torah/Pentateuch, is the Documentary Hypothesis. This theory suggests that the first five books of the Bible aren't the work of a single author but were composed from four distinct sources, known by their respective letters J (Yahwist), E (Elohist), D (Deuteronomist), and P (Priestly). Each of these sources is characterized by distinct literary styles, theological emphases, and historical contexts.
 
-This hypothesis has affected the way modern biblical scholars approach the study of the Old Testament by highlighting the diverse perspectives and traditions that shaped its composition. By examining the different sources, scholars are able to gain a better understanding of the various cultural, historical, and theological contexts in which the text was written.
+The Yahwist source (J), for example, uses the divine name Yahweh and depicts God in very anthropomorphic terms. In contrast, the Elohist source (E) refers to God as Elohim and presents God in a more transcendent way. The Deuteronomist source (D) is primarily concerned with the law and covenant, while the Priestly source (P) focuses on matters of ritual and worship.
 
-However, some religious believers may reject the Documentary Hypothesis, as they see it as challenging the traditional view of the Old Testament as a unified and divinely inspired text. Ultimately, the impact of the Documentary Hypothesis on contemporary reading of the Bible will depend on the individual reader's beliefs and perspectives.
+Although not all scholars agree on the details of the Documentary Hypothesis, it offers a valuable framework for understanding the Pentateuch. It highlights the Bible's complex composition and the diverse theological perspectives present within it.
 
-## Elohim, the name of the Gods
+## The Dead Sea Scrolls
 
-Yes, Elohim is a plural noun used in the Hebrew Bible, particularly in the book of Genesis, to refer to the deity or deities. However, it is also used with singular verb forms, leading to debate among scholars about whether it is being used as a plural of majesty (a plural form used to convey grandeur or respect) or as a genuine plural referring to multiple deities.
+The Dead Sea Scrolls are an invaluable historical treasure, comprising a vast collection of Jewish documents written in Hebrew, Aramaic, and Greek. Discovered between 1947 and 1956 in eleven caves near the northwestern edge of the Dead Sea, the documents offer an unprecedented insight into the life and beliefs of Jews during the Second Temple period of history (537 BC to AD 70).
 
-In Jewish and Christian interpretation, "Elohim" is usually understood as a singular noun referring to the God of Abraham, Isaac, and Jacob, and is used to emphasize the divine majesty and power of God. Some scholars argue that the use of a plural form was a way of expressing the idea of the Trinity, while others believe it reflects the polytheistic beliefs of the ancient Near East that influenced the development of the Hebrew religion. Regardless of its origin, "Elohim" remains an important and enigmatic term in the Hebrew Bible.
+### Origins and discovery
 
-## Dead Sea Scrolls
+The first of these scrolls were found by a Bedouin shepherd in the vicinity of the ancient site of Khirbet Qumran. This discovery initiated a decade-long archaeological expedition that resulted in the uncovering of thousands of fragments belonging to nearly 900 different scrolls. The texts, concealed for nearly two millennia, were preserved by the arid desert conditions, and are considered the most significant archaeological discovery of the 20th century.
 
-The Dead Sea Scrolls are a collection of Jewish texts discovered in the 1940s in eleven caves near the Dead Sea. The scrolls contain fragments from every book of the Hebrew Bible, as well as other Jewish texts, hymns, and commentaries. The texts are written in Hebrew and are estimated to have been composed between the third century BCE and the first century CE.
+### Contents and importance
 
-The Dead Sea Scrolls are significant for the interpretation of the Biblical scriptures because they are some of the oldest surviving copies of the Hebrew Bible. The texts provide valuable insight into the text and interpretation of the Hebrew Bible during the Second Temple period (516 BCE to 70 CE) and offer a glimpse into the religious and cultural world of ancient Judaism.
+The collection includes a diverse array of writings: religious texts, commentaries, apocalyptic literature, sectarian documents, and even legal contracts and deeds. Most famously, the Dead Sea Scrolls encompass copies of books from the Hebrew Bible (or Old Testament), notably including the oldest known copies of these texts. They also contain a multitude of extrabiblical texts that shed light on the theological landscape of Judaism during this era.
 
-The discovery of the Dead Sea Scrolls also challenged the previously accepted view of the text of the Hebrew Bible as having been transmitted accurately and unchanged over time. The variations and differences between the texts found in the Dead Sea Scrolls and the later, more well-known versions of the Hebrew Bible showed that the text was not as stable as previously thought, and that there was a significant amount of textual diversity in ancient Judaism.
+Beyond their value in verifying the accuracy of subsequent biblical copies, the Dead Sea Scrolls have illuminated the sociopolitical climate of Judea in the years leading up to the Jewish revolt against Rome in AD 66-70. They give us a window into the diverse beliefs and practices within Judaism at this time, including those of a sectarian group often associated with the scrolls, the Essenes.
 
-Overall, the Dead Sea Scrolls are an important resource for biblical scholarship and offer valuable insight into the development of the Hebrew Bible and the religious and cultural world of ancient Judaism.
+### Controversy and scholarship
 
-## The Book of Enoch
+The interpretation of the Dead Sea Scrolls is not without controversy. Debates continue over their authors (often proposed to be the Essenes), the nature of the community at Qumran, and the implications of the Scrolls' teachings on both Judaism and Christianity.
 
-The Book of Enoch is not considered part of the canon of the Hebrew Bible or the Christian Old Testament. However, it is part of the Dead Sea Scrolls and was highly regarded by some Jewish sects in the Second Temple period.
+Scholars have utilized the scrolls to explore the development of the Hebrew Bible and apocalyptic literature, to understand better the context of Jesus's teachings and the early Christian Church, and to learn more about ancient practices such as ritual purity, temple worship, and communal living.
 
-The significance of the Book of Enoch in modern day interpretation of the Biblical scriptures is a matter of debate among scholars and religious communities. Some scholars view the Book of Enoch as an important source of information about early Jewish mysticism and eschatology, while others consider it to be of limited historical value and of questionable authenticity.
-
-In the modern era, some religious groups, such as the Ethiopian Orthodox Church, have included the Book of Enoch as part of their biblical canon, while others, such as the Roman Catholic Church, have rejected it.
-
-Ultimately, the interpretation of the Book of Enoch and its relationship to the Biblical scriptures will depend on the individual reader's beliefs, perspective, and the religious or scholarly context in which it is being considered.
+Despite the wealth of knowledge gleaned from these texts, the Dead Sea Scrolls continue to be carefully studied, with scholars across the world seeking to unlock their full historical, religious, and linguistic significance.
 
 ## See also
 

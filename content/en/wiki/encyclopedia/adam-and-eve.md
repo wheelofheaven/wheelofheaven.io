@@ -32,7 +32,11 @@ On for Adam's companion Eve, the etymology of the name Eve is as already mention
 
 ## In Raëlism 🔯
 
-Adam and Eve are mentioned briefly by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}). The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, showcases the mentioning of them:
+Adam and Eve are mentioned briefly by [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}). The following reference from Rael's first book, [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup> mentions two children growing up among the Elohim creators located in Eden:
+
+> [...] Imagine the joy of this team of scientists, having two children, a male and a female running around, eagerly learning what was being taught to them.
+
+And two paragraphs later, these two children are identified as Adam and Eve when they're being confronted with the truth of having been synthetically engineered by the creators.
 
 >> And Yahweh Elohim said unto the serpent, 'Because thou hast done this, thou art cursed... upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.'
 >>

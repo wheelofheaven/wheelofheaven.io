@@ -6,7 +6,7 @@
     target="_blank"
   {{ end }}>{{ .Text }}
 
-  {{ if strings.HasPrefix .Destination "https://wheelofheaven.github.io/"}}
+  {{ if strings.HasPrefix .Destination "https://wheelofheaven.github.io/rael"}}
   <sup>🕮</sup>
   {{ else if strings.HasPrefix .Destination "http" }}
   <sup>↗</sup>
@@ -21,4 +21,3 @@
   {{ else }}
   {{ end }}
 </a>
-

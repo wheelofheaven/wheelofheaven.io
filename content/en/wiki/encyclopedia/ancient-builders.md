@@ -23,6 +23,50 @@ The notion of Ancient Builders is usually understood within the realm of an alle
 
 Proponents of this idea argue that these structures, such as pyramids, stone circles, and megaliths, are too complex and sophisticated to have been built by the civilizations that are known to have lived in the areas where they are found. They suggest that this ancient race may have had advanced knowledge of engineering, mathematics, and astronomy, and that they left behind evidence of their existence in the form of these structures.
 
+## Megalithic Structures
+
+Megalithic structures are large, often ancient, monuments or edifices created from sizable stones or boulders. The term ‘megalithic’ originates from Greek, with 'mega' meaning 'large', and 'lithos' meaning 'stone'. These structures are found globally, with some of the most famous examples including the Egyptian pyramids, Stonehenge in England, and the Moai of Easter Island.
+
+The builders of megalithic structures used primitive tools and techniques to create them. It's often speculated that these buildings were created using a combination of physical labor, simple machines such as levers and ramps, and possibly even a deep understanding of acoustics and resonance frequencies. The megalithic stones are often fitted together in intricate patterns, which can suggest a level of mathematical and geometrical knowledge beyond what is typically attributed to these ancient societies.
+
+These structures often exhibit astonishing precision. For instance, the stones used in the construction of the Great Pyramid of Giza were cut with such exactness that the gaps between them are often just a few millimeters wide. Similarly, Stonehenge's positioning relates to celestial events like the solstices, indicating advanced knowledge of astronomy.
+
+### Heavy stonework
+
+One of the most baffling aspects of these megalithic sites is the use of extremely heavy stone blocks, often weighing several tons, that were quarried and transported over significant distances, including uphill to mountainous or elevated locations. This conundrum is intensified when considering that the civilizations attributed to these constructions did not have the wheel, iron tools, or any known form of advanced technology that could facilitate such an endeavour.
+
+For example, the stones used in the construction of Stonehenge, known as bluestones, were sourced from a quarry over 200 kilometers away, in the Preseli Hills in Wales. Similarly, the massive granite blocks used in the Pyramids of Giza were quarried at Aswan, more than 800 kilometers away.
+
+In South America, the fortress of Sacsayhuamán in Peru is built from stones weighing up to 200 tons, transported from quarries located several kilometers away, and then lifted and placed at altitudes exceeding 3,000 meters.
+
+How these enormous stone blocks were moved, lifted, and meticulously placed remains one of the greatest mysteries of our ancient past. It's these seemingly insurmountable challenges that have given rise to theories suggesting the involvement of an advanced builder race, or the Elohim, as it appears beyond the capacity of our known ancient civilizations to have achieved these feats with the technologies presumed to have been available to them.
+
+### Cyclopean masonry
+
+A common characteristic seen in many megalithic sites worldwide is the use of polygonal masonry, where the stones are cut into a variety of polygonal shapes and sizes and fitted together like a jigsaw puzzle. This technique, also known as cyclopean masonry, is a testament to the high level of sophistication and skill possessed by these ancient builders. Remarkably, despite the irregularity of each stone's shape, the stones fit together so precisely that it's often impossible to insert even a thin blade between them. Examples of this type of construction can be found globally, from the ancient Greek structures in Argolis to the Andean walls of Cusco and Sacsayhuamán in Peru. This architectural style has puzzled historians and engineers, as the technology needed to achieve such precision is typically associated with much more recent times. The consistent presence of polygonal masonry in ancient, geographically diverse sites has fueled speculation about a global, advanced ancient builder race, potentially linked to the extraterrestrial Elohim as the architects of these structures.
+
+### Astronomical alignements
+
+Many megalithic structures showcase a clear intent of aligning to celestial bodies or events, suggesting advanced knowledge of astronomy and the movements of heavenly bodies among the builders. The incorporation of such celestial alignments is seen in monuments across the world, and they often correspond to important astronomical occurrences such as solstices, equinoxes, and the rise or set of particular stars or constellations.
+
+The Pyramids of Giza, for instance, are famously aligned with the constellation Orion, with the three pyramids mimicking the layout of Orion's Belt. Orion was associated with the Egyptian god Osiris, indicating a cultural as well as astronomical significance.
+
+In Europe, the ancient site of Newgrange in Ireland is designed such that during the Winter Solstice, a narrow beam of sunlight illuminates its inner chamber, a phenomenon that requires precise architectural planning and understanding of solar movements.
+
+Significant is the recurring reference to the Pleiades and the Zodiac across various cultures and their monuments. The Pleiades, a cluster of stars, were important to numerous ancient cultures worldwide, and many monuments, like the pyramids of Teotihuacan in Mexico, have been found to align with them.
+
+In terms of the Zodiac, it's believed that some monuments' design incorporates the understanding of the precession of the equinoxes. The precession is a slow shift in Earth's rotational axis that takes about 26,000 years to complete a cycle. This understanding of the precession suggests knowledge of long-term astronomical cycles.
+
+These precise alignments and astronomical references embedded in megalithic architecture defy simple explanation and point towards an advanced understanding of the heavens. Some argue that such knowledge might imply the influence or direct involvement of an advanced extraterrestrial race, such as the Elohim, in guiding or inspiring these constructions.
+
+### Examples of megalithic sites
+
+- **The Giza pyramid complex:** The Egyptian pyramids, particularly the three Great Pyramids of Giza, are perhaps the most iconic megalithic structures. The precision in design and the scale of construction have fueled speculation about the builders' identity and methods. These pyramids, built as tombs for the pharaohs, align with the Orion constellation, suggesting advanced astronomical knowledge.
+
+- **Machu Picchu:** The megalithic structures at Machu Picchu, Peru, provide another example of advanced construction techniques. The structures were built from large stone blocks that fit together without the use of mortar, known as ashlar masonry, with such precision that even a blade of grass cannot be inserted between the stones.
+
+See the [list of megalithic sites]({{< relref "wiki/encyclopedia/list-of-megalithic-sites.md" >}}) for more examples of megalithic constructions.
+
 ## In Raëlism 🔯
 
 According to the _Book Which Tells The Truth_, Yahweh explains how a group of exiled Elohim known as the Serpent came to hide in the oceans and how the Elohim built bases and residences on top of high mountain peaks:

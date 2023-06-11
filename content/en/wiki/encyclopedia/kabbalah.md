@@ -40,7 +40,7 @@ In addition to the commentary on the Torah, the Zohar also contains homilies, pa
 
 In his book _The Coming of the Gods_, in a subchapter about "Rationalism and the Tradition", Jean Sendy writes the following about the origins and meaning of the Kabbalah:
 
-> Rationalily is what bill made it possible to send men to the moon, to prepare to send men to Mars, to consider dispersing the opaque clouds under which Venus is hidden, to send "the spirit of man" to "move upon the face of the waters" under which Venus is "without form, and void," and to prepare the methods and means that may some day bring it to pass that there will "be light" on Venus also.
+> Rationality is what will made it possible to send men to the moon, to prepare to send men to Mars, to consider dispersing the opaque clouds under which Venus is hidden, to send "the spirit of man" to "move upon the face of the waters" under which Venus is "without form, and void," and to prepare the methods and means that may some day bring it to pass that there will "be light" on Venus also.
 >
 > Are we on the verge of "renewing the acts related at the beginning of Genesis?' It would seem so, judging from what leading scientists and technicians believe and say. But scientists and technicians do not necessarily read the Bible or practice the Cabala, that "oral teaching" for which the Bible is the equivalent of a detailed outline intended to help students understand a college lecture course.
 >

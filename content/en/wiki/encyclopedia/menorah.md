@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["taurus", "aries"]
 ---
 
 The Menorah has long been a central symbol in Jewish tradition, representing enlightenment, wisdom, and divine inspiration. Its seven branches are often interpreted symbolically, with various interpretations existing within different Jewish traditions.
@@ -46,6 +47,10 @@ It's postulated that at the Elohim's central base, a switchboard featuring seven
 - [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
 - [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
 - [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+
+## Read more
+
+- [Intro › Timeline › Age of Aries]({{< relref "intro/timeline/age-of-aries.md" >}})
 
 ## External links
 

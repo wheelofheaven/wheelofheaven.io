@@ -12,6 +12,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 The Great Flood is a story that appears in several different religious traditions, including the Bible, and describes a massive flood that covers the entire Earth and destroys all life except for a select few. In the biblical account, the Great Flood is described in the book of Genesis as a punishment from God for the wickedness and corruption of humanity.
@@ -96,6 +97,10 @@ The creators were happy to see that humans wished them well, and they promised n
 - [Wiki › Noahic Covenant]({{< relref "wiki/encyclopedia/noahic-covenant.md" >}})
 - [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
 - [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
+
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
 
 ## External links
 

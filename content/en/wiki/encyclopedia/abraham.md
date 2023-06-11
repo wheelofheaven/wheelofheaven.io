@@ -71,7 +71,7 @@ Abraham's unwavering loyalty and his subsequent actions laid the groundwork for 
 
 ## Our take
 
-One of the main aspects of the [Wheel of Heaven exegesis]({{< relref "wiki/encyclopedia/wheel-of-heaven.md" >}}) is that the whole timeline of the events described in the Biblical scriptures and subsequently in the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) happen within one [precessional cycle of 25'920 years]({{< relref "wiki/encyclopedia/great-year.md" >}}). Considering this, the events during Abraham's lifetime are presumed to have occured during the Age of Taurus, a period of time that falls between 4'530 to 2'370 BCE.
+One of the main aspects of the [Wheel of Heaven exegesis]({{< relref "wiki/encyclopedia/wheel-of-heaven.md" >}}) is that the whole timeline of the events described in the Biblical scriptures and subsequently in the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) happen within one precessional cycle of [25'920 years]({{< relref "wiki/encyclopedia/great-year.md" >}}). Considering this, the events during Abraham's lifetime are presumed to have occured during the Age of Taurus, a period of time that falls between 4'530 to 2'370 BCE.
 
 Abraham served as an important caesura in the relationship between human beings on Earth and their extraterrestrial creator parents, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}). Up until that point, human beings enjoyed a certain level of self-determination and autonomy. After the [Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}}) cataclysmically reset life on Earth and the planet had to be repopulated, the postdiluvian human civilization grew fast demographically and technologically with the help of the banished creators that also had to remain on Earth and the technology and scientif wealth either safeguarded during the cataclysm or salvaged thereafter.
 
@@ -82,6 +82,9 @@ The banished creators were pardoned and had left since the days of the diplomati
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 - [Wiki › Sodom and Gomorrah]({{< relref "wiki/encyclopedia/sodom-and-gomorrah.md" >}})
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
+
+## Read more
+
 - [Intro › Timeline › Age of Taurus \# Abraham]({{< relref "intro/timeline/age-of-taurus.md#abraham" >}})
 
 ## External links

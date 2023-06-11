@@ -45,6 +45,9 @@ Biglino's interpretation sheds light on the origin and nature of the Adamites, f
 - [Wiki › Adam and Eve]({{< relref "wiki/encyclopedia/adam-and-eve.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 - [Wiki › Intelligent Design]({{< relref "wiki/encyclopedia/intelligent-design.md" >}})
+
+## Read more
+
 - [Intro › Timeline › Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}})
 
 ## External links

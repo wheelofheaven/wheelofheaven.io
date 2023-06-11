@@ -31,6 +31,10 @@ Following the cataclysm, Noah and his descendants played a vital role in repopul
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 - [Intro › Timeline › Age of Gemini \# The Preservation Project]({{< relref "intro/timeline/age-of-gemini.md#the-preservation-project" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
+
 ## External links
 
 - [Noah | Wikipedia](https://en.wikipedia.org/wiki/Noah)

@@ -42,6 +42,10 @@ In Hinduism and Buddhism, the end of the world is seen as a natural cycle of cre
 
 - [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+
 ## External links
 
 - [Golden Age | Wikipedia](https://en.wikipedia.org/wiki/Golden_Age)

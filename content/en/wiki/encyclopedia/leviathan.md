@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 The Leviathan is a mythical sea monster mentioned in the Bible, specifically in the book of Job and in the book of Psalms. In the Bible, the Leviathan is described as a powerful and fearsome creature that lives in the sea and is difficult to control.
@@ -108,6 +109,10 @@ The root cause of this cosmic contention was the [Serpentine faction\'s rebellio
 - [Wiki › Elohimian Space Wars]({{< relref "wiki/encyclopedia/elohimian-space-wars.md" >}})
 - [Wiki › Serpentine rebellion]({{< relref "wiki/encyclopedia/serpentine-rebellion.md" >}})
 - [Wiki › Lucifer]({{< relref "wiki/encyclopedia/lucifer.md" >}})
+
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
 
 ## External links
 

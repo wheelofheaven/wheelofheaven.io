@@ -74,6 +74,10 @@ During the cataclysm, the Ark, carrying its precious cargo of human and animal l
 
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
+
 ## External links
 
 - [Noah\'s Ark | Wikipedia](https://en.wikipedia.org/wiki/Noah%27s_Ark)

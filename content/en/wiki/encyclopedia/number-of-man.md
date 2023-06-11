@@ -96,6 +96,10 @@ It is worth noting that the date of 11'375 BCE holds particular significance as 
 - [Wiki › Apocalypse]({{< relref "wiki/encyclopedia/apocalypse.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+
 ## External links
 
 - [Number of the beast | Wikipedia](https://en.wikipedia.org/wiki/Number_of_the_beast)

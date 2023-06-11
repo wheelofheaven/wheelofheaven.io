@@ -11,6 +11,7 @@ menu:
     parent: "Wiki"
 weight: 200
 toc: true
+timeline: ["gemini"]
 ---
 
 ## Etymology
@@ -42,6 +43,10 @@ The creators were pleased to see that the humans had expressed gratitude for the
 - [Wiki › Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}})
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 - [Intro › Timeline › Age of Gemini \# Noahic covenant]({{< relref "intro/timeline/age-of-gemini.md#noahic-covenant" >}})
+
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
 
 ## External links
 

@@ -78,6 +78,10 @@ In Raëlism, the Ancient Astronaut hypothesis is interpreted as a belief that in
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
+## Read more
+
+- [Intro › Take aways › Extraterrestrial civilization]({{< relref "intro/take-aways/extraterrestrial-civilization.md" >}})
+
 ## External links
 
 - [Ancient astronauts | Wikipedia](https://en.wikipedia.org/wiki/Ancient_astronauts)

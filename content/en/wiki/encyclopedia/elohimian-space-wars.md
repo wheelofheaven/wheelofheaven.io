@@ -24,6 +24,10 @@ timeline: ["gemini"]
 - [Wiki › Serpentine rebellion]({{< relref "wiki/encyclopedia/serpentine-rebellion.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}})
+
 ## External links
 
 - [Chaos (cosmogony) # Chaoskampf | Wikipedia](https://en.wikipedia.org/wiki/Chaos_\(cosmogony\)#Chaoskampf)

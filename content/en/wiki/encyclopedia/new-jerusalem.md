@@ -50,6 +50,10 @@ The passage also references the time 2,000 years ago when the people of Israel d
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})</br>
 - [Wiki › Third Temple]({{< relref "wiki/encyclopedia/third-temple.md" >}})</br>
 
+## Read more
+
+- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+
 ## External links
 
 - [New Jerusalem | Wikipedia](https://en.wikipedia.org/wiki/New_Jerusalem)

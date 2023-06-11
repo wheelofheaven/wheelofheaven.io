@@ -224,6 +224,10 @@ It is during the Age of Cancer that the well-known story of Adam and Eve in the 
 - [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
 - [Wiki › Life engineering]({{< relref "wiki/encyclopedia/life-engineering.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Preamble]({{< relref "intro/timeline/preamble.md" >}})
+
 ## External links
 
 - [Genesis creation narrative | Wikipedia](https://en.wikipedia.org/wiki/Genesis_creation_narrative)

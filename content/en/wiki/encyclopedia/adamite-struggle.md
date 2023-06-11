@@ -37,3 +37,7 @@ The Adamite struggle embodies the resilience and potential of humanity, highligh
 - [Wiki › Leviathan]({{< relref "wiki/encyclopedia/leviathan.md" >}})
 - [Wiki › Serpentine rebellion]({{< relref "wiki/encyclopedia/serpentine-rebellion.md" >}})
 - [Wiki › Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}})
+
+## Read more
+
+- [Intro › Timeline › Age of Caner]({{< relref "intro/timeline/age-of-cancer.md" >}})

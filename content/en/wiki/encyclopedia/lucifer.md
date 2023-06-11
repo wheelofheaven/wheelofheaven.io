@@ -55,6 +55,10 @@ Lucifer's role, according to the excerpts, was to bring light and knowledge to t
 - [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
 - [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Cancer]({{< relref "intro/timeline/age-of-cancer.md" >}})
+
 ## External links
 
 - [Lucifer | Wikipedia](https://en.wikipedia.org/wiki/Lucifer)

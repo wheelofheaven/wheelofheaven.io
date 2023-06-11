@@ -48,6 +48,10 @@ The Pangea continent drifted away after a catastrophic explosion that provoked t
 - [Wiki › Eden]({{< relref "wiki/encyclopedia/eden.md" >}})
 - [Wiki › Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Sagittarius]({{< relref "intro/timeline/age-of-sagittarius.md" >}})
+
 ## External links
 
 - [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)

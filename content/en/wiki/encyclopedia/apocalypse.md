@@ -44,6 +44,10 @@ The context of this passage is the Age of Apocalypse, which is a concept found i
 - [Wiki › Golden Age]({{< relref "wiki/encyclopedia/golden-age.md" >}})
 - [Wiki › Saṃsāra]({{< relref "wiki/encyclopedia/samsara.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+
 ## External links
 
 - [Apocalypse | Wikipedia](https://en.wikipedia.org/wiki/Apocalypse)

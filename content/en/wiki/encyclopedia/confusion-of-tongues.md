@@ -40,6 +40,10 @@ The author of the passage suggests that the creators took this action to prevent
 - [Wiki › Great Flood]({{< relref "wiki/encyclopedia/great-flood.md" >}})
 - [Wiki › Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Gemini]({{< relref "intro/timeline/age-of-gemini.md" >}})
+
 ## External links
 
 - [Tower of Babel › Confusion of tongues | Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Babel#Confusion_of_tongues)

@@ -84,6 +84,10 @@ The Garden of Eden is conceptualized as a specifically delineated, controlled en
 - [Wiki › Antediluvian]({{< relref "wiki/encyclopedia/antediluvian.md" >}})
 - [Wiki › Pangaea]({{< relref "wiki/encyclopedia/pangaea.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}})
+
 ## External links
 
 - [Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)

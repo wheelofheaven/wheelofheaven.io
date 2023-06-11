@@ -139,6 +139,10 @@ In this passage, it is explained that Jesus' mission on Earth was to spread the 
 - [Wiki › Moses]({{< relref "wiki/encyclopedia/moses.md" >}})
 - [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Pisces]({{< relref "intro/timeline/age-of-pisces.md" >}})
+
 ## External links
 
 - [Jesus | Wikipedia](https://en.wikipedia.org/wiki/Jesus)

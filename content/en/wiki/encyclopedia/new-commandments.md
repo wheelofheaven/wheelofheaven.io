@@ -29,4 +29,8 @@ The New Commandments are constituted of the following aspects:
 
 ## Read more
 
+- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+
+## Read more
+
 - [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})

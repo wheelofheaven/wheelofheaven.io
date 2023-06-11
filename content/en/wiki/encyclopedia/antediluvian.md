@@ -55,6 +55,10 @@ The scientific progress on Earth during this time was deemed dangerous by those 
 - [Wiki › Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}})
 - [Wiki › Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Cancer]({{< relref "intro/timeline/age-of-cancer.md" >}})
+
 ## External links
 
 - [Antediluvian | Wikipedia](https://en.wikipedia.org/wiki/Antediluvian)

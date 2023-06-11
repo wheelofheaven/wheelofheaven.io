@@ -74,6 +74,10 @@ In summary, Moses was a prophet who received guidance and assistance from extrat
 
 - [Wiki › Prophet]({{< relref "wiki/encyclopedia/prophet.md" >}})
 
+## Read more
+
+- [Intro › Timeline › Age of Aries]({{< relref "intro/timeline/age-of-aries.md" >}})
+
 ## External links
 
 - [Moses | Wikipedia](https://en.wikipedia.org/wiki/Moses)

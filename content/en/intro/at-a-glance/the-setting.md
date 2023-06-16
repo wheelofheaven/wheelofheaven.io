@@ -57,7 +57,7 @@ In this awe-inspiring vista of cosmic exploration, nothing seems beyond our reac
 
 The prospect of life beyond the confines of our celestial home has captivated our collective curiosity for centuries. It is an enigma that has not only stoked the fires of our scientific endeavor but has also sparked our wildest imaginings. In the absence of definitive proof of extraterrestrial life, we find ourselves embarking on a journey of speculation, attempting to unravel the intricate matrix of conditions that could make life possible beyond Earth.
 
-In our pursuit, we recognize water as a sine qua non of life. Known as the universal solvent, water serves as the medium in which the symphony of biological processes unfolds. Thus, the detection of this precious liquid in its most habitable form, liquid, on any celestial body, significantly amplifies the odds of discovering life there.
+In our pursuit, we recognize water as a sine qua non of life[^water]. Known as the universal solvent, water serves as the medium in which the symphony of biological processes unfolds. Thus, the detection of this precious liquid in its most habitable form, liquid, on any celestial body, significantly amplifies the odds of discovering life there.
 
 Beyond the indispensable requirement of water, life demands an environment that walks a delicate balance between dynamism and stability. It requires a safe haven that can shield it from the harsh cosmic realities, yet provide a stage robust enough for the grand play of evolution. This necessitates a stable climate, a protective atmosphere, and a reliable energy source such as a star, capable of sustaining life's incessant dance.
 
@@ -69,13 +69,15 @@ Lastly, life as complex and intelligent as us might owe its existence to a serie
 
 This, then, is the delicate balance, the confluence of precise factors, that makes our existence possible. It's a cosmic serendipity that seems nothing short of miraculous. Is it possible that such miraculous serendipity has repeated itself in the vast cosmic ocean, giving birth to other islands of life? We stand at the threshold of this grand mystery, our eyes turned skyward, waiting for the whispers from the cosmos that we are, indeed, not alone.
 
+[^water]: The phrase sine qua non is Latin for “without which not.” When something is described as sine qua non, it is a necessary or indispensable requirement. In this case, water is indispensable for life to exist in a given place.
+
 ### The Enigma of Infinite Space
 
 The vast expanse of the cosmos, the pulsating stars that pierce the veil of the night sky, the silent majesty of countless galaxies and nebulae; they all paint an awe-inspiring, if not humbling, portrait of our universe. In the face of such immeasurable grandeur, it becomes difficult, almost irreverent, to believe that we are the sole sentient inhabitants of this cosmic symphony.
 
-There are approximately 100 billion galaxies in the observable universe, each brimming with billions, if not trillions, of stars. When we factor in the recently discovered multitude of exoplanets, many of which reside in the habitable zones of their stars, the possibilities of finding life-supporting conditions appear staggering. To assume that Earth is the only theatre of life in such an infinite cosmic stage seems almost audacious, given the vast scales at play.
+Within our current technological capability, there are approximately 100 billion galaxies in the observable universe, each brimming with billions, if not trillions, of stars. When we factor in the recently discovered multitude of exoplanets, many of which reside in the habitable zones of their stars, the possibilities of finding life-supporting conditions appear staggering. To assume that Earth is the only theatre of life in such an infinite cosmic stage seems almost audacious, given the vast scales at play.
 
-The Drake equation, formulated by astrophysicist Frank Drake, offers an enticing glimpse into the probabilistic nature of extraterrestrial life. Though it's not an equation in the traditional sense, the Drake equation is more of a framework, a tool for pondering over the multitude of variables that could lead to the existence of intelligent, communicative life forms in our galaxy. It provides a tantalizing possibility that there might be thousands, if not millions, of civilizations out there, broadcasting their existence to the cosmos.
+The [Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}}), formulated by astrophysicist Frank Drake, offers an enticing glimpse into the probabilistic nature of extraterrestrial life. Though it's not an equation in the traditional sense, the Drake equation is more of a framework, a tool for pondering over the multitude of variables that could lead to the existence of intelligent, communicative life forms in our galaxy. It provides a tantalizing possibility that there might be thousands, if not millions, of civilizations out there, broadcasting their existence to the cosmos.
 
 > The importance of the Drake Equation is not in the solving, but rather in the contemplation. It was written not for purposes of quantification at all, but rather as the agenda for the world's first SETI meeting, in Green Bank WV in 1961. It was quite useful for its intended application, which was to summarize all the various factors which scientists must contemplate when considering the question of other life.
 >
@@ -89,9 +91,11 @@ Yet, it's crucial to remember Dr. Drake's own interpretation of his formula: "Th
 
 This sentiment finds echo in the concept of the "cosmic haystack." The term, metaphorically alluding to the classic needle in a haystack conundrum, is used to highlight the daunting challenge that space's vastness poses in our quest for extraterrestrial intelligence. The idea is simple: space is so incredibly vast that even if intelligent civilizations abound, finding them or their signals is akin to finding a single specific straw in an enormous stack of hay.
 
-Consider this; light from the closest star to our sun, Proxima Centauri, takes more than four years to reach us. That's the nearest star! When we scale up to galaxies, clusters, and superclusters, the distances become so mind-bogglingly large that the idea of stumbling upon an extraterrestrial signal starts to seem less like a science endeavor and more like winning a cosmic lottery.
+Consider this; light from the closest star to our sun, Proxima Centauri, takes more than four years to reach us[^light]. That's the nearest star! When we scale up to galaxies, clusters, and superclusters, the distances become so mind-bogglingly large that the idea of stumbling upon an extraterrestrial signal starts to seem less like a science endeavor and more like winning a cosmic lottery.
 
 Nevertheless, our ignorance should not breed despair but rather kindle curiosity. The universe, in all its infinite glory, beckons us to explore, to seek, to question. The vastness of space, rather than discouraging us, should serve as a humbling reminder of our place in the cosmos and an inspiration to explore its endless mysteries. As long as the stars shimmer in the night sky, the hypothesis of extraterrestrial intelligence will continue to captivate our collective imagination, prompting us to delve deeper into the cosmic abyss in our quest for cosmic companionship.
+
+[^light]: A distance that has yet to be confirmed by empirical data. This could be achieved by undertaking an actual space travel leaving Earth and actually landing on the shores of the sun system of Proxima Centauri.
 
 ### Unraveling the Tapestry of Ancient Memories
 
@@ -129,7 +133,7 @@ Therefore, while our current interpretations provide a valuable understanding of
 
 In his book "The Coming of the Gods," published in 1970, Jean Sendy put forward a compelling argument for the possible existence of ancient astronauts who once visited Earth and greatly influenced the trajectory of human civilization. Sendy interpreted several ancient myths and religious traditions as probable evidence of extraterrestrial contact. He proposed that this contact could have left a lasting impression on human culture and belief systems.
 
-To effectively establish his unique interpretation of the Bible, Sendy stipulated five conditions that must be satisfied:
+To effectively establish his unique interpretation of the Bible, Sendy stipulated [five conditions]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}}) that must be satisfied:
 
 1. Proficiency in the contents of the Bible: To accurately interpret the text, one must have a thorough understanding of the scriptures. An alternative method to become familiar with the original meanings of Biblical scriptures could be the Biglino method, which calls for a literal interpretation of the Bible rather than depending on figurative language or traditional exegesis.
 
@@ -167,7 +171,7 @@ Sendy's and Biglino’s approach to interpreting biblical narratives, much like 
 
 Biglino's method, as outlined in The Naked Bible and further expanded upon through his work, encourages readers to embark on an intellectual journey akin to what Schliemann embarked upon in the world of archaeology. Schliemann, armed with Homer's texts, set out to unearth a world long dismissed as purely mythical, while Biglino, equipped with the Hebrew Bible, endeavors to bring to light a narrative buried under millennia of theological interpretations.
 
-The analogy of Schliemann's methods, as Jean Sendy pointed out, is not a mere rhetorical flourish but a call to shift the paradigm in understanding ancient texts. In the same vein, Biglino's method is an attempt to rewrite the accepted interpretation of the Bible, mirroring Schliemann's audacity to challenge the status quo of his time.
+The analogy of Schliemann's methods, as Jean Sendy pointed out, is not a mere rhetorical flourish but a call to shift the paradigm in understanding ancient texts. In the same vein, [Biglino's method]({{< relref "wiki/encyclopedia/biglinos-method.md" >}}) is an attempt to rewrite the accepted interpretation of the Bible, mirroring Schliemann's audacity to challenge the status quo of his time.
 
 In Biglino's method, a key factor is the appeal to a literal interpretation, unclouded by metaphoric readings. This approach mirrors Schliemann's literal understanding of the Homeric texts that led him to the actual geographical locations of Troy and Mycenae. Schliemann's literal interpretation revealed an entirely different perspective of the texts, much like Biglino's method seeks to reveal a fresh interpretation of the biblical narrative.
 

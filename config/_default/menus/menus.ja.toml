@@ -1,3 +1,27 @@
+[[intro]]
+  name = "一言で言えば"
+  weight = 110
+  identifier = "at-a-glance"
+  url = "/intro/at-a-glance/"
+
+[[intro]]
+  name = "年表"
+  weight = 120
+  identifier = "timeline"
+  url = "/intro/timeline/"
+
+[[intro]]
+  name = "重要なポイント"
+  weight = 130
+  identifier = "take-aways"
+  url = "/intro/take-aways/"
+
+[[intro]]
+  name = "続きを見る"
+  weight = 140
+  identifier = "see-more"
+  url = "/intro/see-more/"
+
 [[main]]
   name = "はじめに"
   weight = 10

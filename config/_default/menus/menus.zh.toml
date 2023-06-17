@@ -1,3 +1,27 @@
+[[intro]]
+  name = "简而言之"
+  weight = 110
+  identifier = "at-a-glance"
+  url = "/intro/at-a-glance/"
+
+[[intro]]
+  name = "年表"
+  weight = 120
+  identifier = "timeline"
+  url = "/intro/timeline/"
+
+[[intro]]
+  name = "关键要点"
+  weight = 130
+  identifier = "take-aways"
+  url = "/intro/take-aways/"
+
+[[intro]]
+  name = "查看更多"
+  weight = 140
+  identifier = "see-more"
+  url = "/intro/see-more/"
+
 [[main]]
   name = "介绍"
   weight = 10

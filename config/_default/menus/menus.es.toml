@@ -1,3 +1,27 @@
+[[intro]]
+  name = "En una palabra"
+  weight = 110
+  identifier = "at-a-glance"
+  url = "/intro/at-a-glance/"
+
+[[intro]]
+  name = "Cronología"
+  weight = 120
+  identifier = "timeline"
+  url = "/intro/timeline/"
+
+[[intro]]
+  name = "Puntos clave"
+  weight = 130
+  identifier = "take-aways"
+  url = "/intro/take-aways/"
+
+[[intro]]
+  name = "Ver más"
+  weight = 140
+  identifier = "see-more"
+  url = "/intro/see-more/"
+
 [[main]]
   name = "Introducción"
   weight = 10

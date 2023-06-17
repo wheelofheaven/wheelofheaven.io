@@ -1,3 +1,27 @@
+[[intro]]
+  name = "С одного взгляда"
+  weight = 110
+  identifier = "at-a-glance"
+  url = "/intro/at-a-glance/"
+
+[[intro]]
+  name = "Хронология"
+  weight = 120
+  identifier = "timeline"
+  url = "/intro/timeline/"
+
+[[intro]]
+  name = "Ключи на вынос"
+  weight = 130
+  identifier = "take-aways"
+  url = "/intro/take-aways/"
+
+[[intro]]
+  name = "Увидеть больше"
+  weight = 140
+  identifier = "see-more"
+  url = "/intro/see-more/"
+
 [[main]]
   name = "внесение"
   weight = 10

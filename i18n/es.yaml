@@ -2,10 +2,10 @@
   translation: "Aprende más"
 
 - id: on-this-page
-  translation: ""
+  translation: "En esta página"
 
 - id: search-text
-  translation: ""
+  translation: "Buscar..."
 
 - id: 404-title
   translation: ""
@@ -14,4 +14,4 @@
   translation: ""
 
 - id: browse
-  translation: ""
+  translation: "Navegar"

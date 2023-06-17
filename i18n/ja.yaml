@@ -2,10 +2,10 @@
   translation: "もっと詳しく知る"
 
 - id: on-this-page
-  translation: ""
+  translation: "このページでは"
 
 - id: search-text
-  translation: ""
+  translation: "検索..."
 
 - id: 404-title
   translation: ""
@@ -14,4 +14,4 @@
   translation: ""
 
 - id: browse
-  translation: ""
+  translation: "ブラウズ"

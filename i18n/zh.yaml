@@ -2,10 +2,10 @@
   translation: "学到更多"
 
 - id: on-this-page
-  translation: ""
+  translation: "在本页"
 
 - id: search-text
-  translation: ""
+  translation: "搜索..."
 
 - id: 404-title
   translation: ""
@@ -14,4 +14,4 @@
   translation: ""
 
 - id: browse
-  translation: ""
+  translation: "浏览"

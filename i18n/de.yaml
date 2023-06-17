@@ -1,17 +1,17 @@
 - id: get-started
-  translation: "Lerne mehr"
+  translation: "Einstieg"
 
 - id: on-this-page
-  translation: ""
+  translation: "Auf dieser Seite"
 
 - id: search-text
-  translation: ""
+  translation: "Suche..."
 
 - id: 404-title
-  translation: ""
+  translation: "Seite nicht gefunden :("
 
 - id: 404-text
-  translation: ""
+  translation: "Die Seite die aufgerufen hast gibt es nicht oder wurde verschoben."
 
 - id: browse
-  translation: ""
+  translation: "Navigation"

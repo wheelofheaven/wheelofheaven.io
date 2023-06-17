@@ -2,16 +2,16 @@
   translation: "Apprends-en plus"
 
 - id: on-this-page
-  translation: ""
+  translation: "Sur cette page"
 
 - id: search-text
-  translation: ""
+  translation: "Chercher..."
 
 - id: 404-title
-  translation: ""
+  translation: "Page pas trouvée"
 
 - id: 404-text
-  translation: ""
+  translation: "La page requêtée n'existe plus ou a été déplacée."
 
 - id: browse
-  translation: ""
+  translation: "Navigation"

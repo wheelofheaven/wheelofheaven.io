@@ -1,7 +1,7 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
+excerpt: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,39 +13,41 @@ weight: 110
 toc: true
 ---
 
-![Image](images/moodscape_01.jpg "moodscape_01")
+如果你刚好看到这个网站的“介绍”部分，你可能会想知道Wheel of Heaven到底是什么。从核心上来说，Wheel of Heaven是一个基于网络的知识库，探索地球生命是否被具有星际旅行能力的外星文明有意识地设计的假设。
 
-If you made it to this site, you may wonder what the whole fuzz is actually about. Wheel of Heaven, a web knowledge base for a seemingly fringe hypothesis? Namely that life on Earth was intelligently designed by an alleged extraterrestrial civilization capable of interstellar travel? Simply put, the answer to that question is a ressounding yes. Or more accurately, it-does-seem-that-way sort of modest yes that begs to ask further questions. This site considers itself a repository of informations predicated on the premise that life on Earth has a deliberate purpose, that the origins of sentient life can't conclusively be attributed to the disorganized doings of _whatever_ nor to the mere unwillingness of _chaos_. And more, that these truths are as much encoded in scriptures and artifacts still available to us, hailing from a remote past as they are kept at least partially intact and alive in the collective experience and preservation of religious traditions.
+简单来说，这个网站提出的观点是，地球上有意识生命的起源不能完全归因于机会或自然的混乱，而是有一个明确的目的，这个目的被编码在古代的经文和文物中，并得到了宗教传统的保留。
 
-Not only that, but Wheel of Heaven is a place where such a hypothesis is upheld and laid out, but where everyone is invited to immerse him or herself in this fascinating realm of inquisitive curiosity and consider the possibility of the very premises laid out on here to be congruent enough to elaborate and to contribute additional considerations, utlimately expanding the narrative even further.
+在Wheel of Heaven，我们不仅旨在推广这个假设，而且邀请所有的访客参与到对所呈现可能性的深入而好奇的探索中来。我们欢迎每个人考虑在网站上列出的前提，并贡献他们自己的思考和想法，以扩大和丰富这个叙述。
 
-## What you will find
+{{< figure src="images/sunset-man-on-hill.png" caption="图1 - 观看星辰日落" >}}
 
-Before we take the plunge together, let us first tell you what you're going to be able to read on Wheel of Heaven and how its contents are structured to make the ride the smoothest possible for you. Wheel of Heaven starts of with a lenghty introduction into the narrative where all the key aspects are being highlighted and explained accordingly. There, you're going to read about what the key premises are, how life on Earth and especially humanity took its course, and how such claims would embed themselves into our contemporary understanding and what meaning could be derived from there on. We got good news for you, if you're reading this paragraph, this means that you already found your way into this very introduction we just mentioned, namely the first part of the _At-a-glance_ chapter. You just can keep reading from here on to go along through this Introduction.
+## 你将会找到什么
 
-{{< alert icon="👉" text="If this is your first exposure to Wheel of Heaven, it is wise to stick to the Introduction for now." />}}
+为了帮助你更好地理解这个概念，Wheel of Heaven从一个全面的[介绍]({{< ref "/intro/" >}})开始，突出并解释了上述假设的关键方面。你将学习到主要的前提，地球生命的演化，以及这些主张如何适应我们现代的理解。如果你在阅读这个，你已经找到了“一目了然”章节的第一部分，介绍。
+
+{{< alert icon="👉" text="如果这是你第一次接触Wheel of Heaven，请先坚持阅读介绍。" />}}
 
 <br>
 
-As there is only so much one can condense down into an _long enough but not as long as it could be_ introduction, Wheel of Heaven features a Wiki, a web encyclopedia where all the main domains of interest such as places, objects, people and ideas have an entry on their own. This wiki is a place where you can look up, given that the notion you're looking for has gotten an entry by then, its meaning and what more can be said about it. That's the perfect place to put things into context and where most of the information here on Wheel of Heaven is aggregated at. The wiki be understood as the heart of this repository of knowledge around our esteemed hypothesis.
+Wheel of Heaven的信息已经为易于导航而整理。为了更深入的理解，这里有一个[维基]({{< ref "/wiki/" >}})，它充当一个网络百科全书，你可以在其中查找关键词和概念的含义。维基是Wheel of Heaven知识库的核心。
 
-What is the worth of information that is not making references to other bodies of information. That's why we have a Resources place dedicated to the curation of a set of related resources that expand upon the premises found on this site. Resources listed there can either be books, websites, audiovisual media and other media formats. Go over to Resources if you want to read up some sources directly and/or if you want to get to see what adjacent literature may look like. Some of these resources are curated by us at Wheel of Heaven. As of now, all these self-curated resources are formatted as a Gitbook and hosted on Gitub as a git project, in a similar fashion as the source code of this very web site.
+不嵌入到其他信息库引用框架的信息有什么价值呢。这就是为什么我们有一个专门用于策划一套相关资源的[资源]({{< ref "/resources/" >}})地方，这些资源可以扩展在这个网站上找到的前提。那里列出的资源可以是书籍，网站和视听媒体。如果你想直接阅读一些资源，或者如果你想看看什么样的文献可能接近，就去看看资源吧。Wheel of Heaven的一些资源是我们自己策划的。目前，所有这些自策的资源都以Gitbook的形式编排，并作为git项目托管在Github上，就像这个网站的源代码一样。
 
-Last but not least, besides these three pillars of information, there's a Blog that reads itself as a journal of all the thoughts and new insights that arise over time. Don't hesitate to check that one out while you're reading the introductory prose or after you read all of it and wonder what there's more to know.
+除了这三个信息支柱，还有一个[博客]({{< ref "/articles/" >}})，它作为一个新想法和洞察随时间产生的日记。不要犹豫，去看看它，以了解Wheel of Heaven的最新发展。
 
-## Let's recap
+## 我们回顾一下
 
-Ok, so far so good. Let's quickly recapitulate what we came to learn so far. All of the following points are main aspects of what makes up the content here on Wheel of Heaven:
+好的，到目前为止一切都很顺利。让我们快速回顾一下我们到目前为止学到了什么。以下所有的点都是Wheel of Heaven内容的主要方面：
 
-- A rather complete introduction 🔗
-- A wiki space with lots of entries and points of interests 🔗
-- A resources space with web books curated by us 🔗
-- A regularly updated blog where new insights and considerations are posted 🔗
+- [一个详尽而全面的介绍]({{< ref "/intro/timeline/preamble.md" >}})
+- [一个充满了条目和兴趣点的信息丰富的wiki部分]({{< ref "/wiki/" >}})
+- [一个由我们团队精选的网络图书特色的资源区域]({{< ref "/resources/" >}})
+- [一个频繁更新的博客，其中分享新鲜的视角和见解]({{< ref "/articles/" >}})
 
-In closing, we at Wheel of Heaven think it is important to point out that we believe that information should be as forthcoming and transparent as possible. We are well aware how disruptive and outlandish some of the premises on this website may seem, but we strive for a smooth experience for those who are curious enought to keep reading about this fascination examniation of a possible explanation of how things may have come about.
+总之，我们在Wheel of Heaven重视透明度，并且相信尽可能提供更多的信息。虽然这个网站上提出的假设可能看起来非常规或者有争议，但是我们的目标是为那些对探索这个引人入胜的主题有好奇心的人提供一个流畅且引人入胜的体验。🙏
 
-We hope you enjoy your stay on Wheel of Heaven and even if you don't end up convinced by its premises, you may still have learned one or two pieces of information down the line. 🙏
+我们希望你能喜欢访问Wheel of Heaven，即使你不能完全同意我们的前提，我们也希望你能带走一些新的洞察和知识。
 
-## What's next
+## 接下来要做什么
 
-So, it is time to take the plunge and see for ourselves what the fuzz is effectively about. On to the hypothesis!
+有了这样的思考，现在是深入了解假设所依赖的背景的时候了。[进入背景！]({{< ref "/intro/at-a-glance/the-setting" >}})

@@ -1,7 +1,7 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heaven - это база знаний, исследующая рабочую гипотезу о том, что жизнь на Земле была разумно спроектирована внеземной цивилизацией, так называемыми Элохим."
+excerpt: "Wheel of Heaven - это база знаний, исследующая рабочую гипотезу о том, что жизнь на Земле была разумно спроектирована внеземной цивилизацией, так называемыми Элохим."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,39 +13,41 @@ weight: 110
 toc: true
 ---
 
-![Image](images/moodscape_01.jpg "moodscape_01")
+Если вы случайно наткнулись на раздел Введение на этом сайте, вам, возможно, интересно, о чем именно идет речь в Wheel of Heaven. В основе Wheel of Heaven - веб-база знаний, исследующая гипотезу о том, что жизнь на Земле была разумно спроектирована внеземной цивилизацией, способной на межзвездные путешествия.
 
-If you made it to this site, you may wonder what the whole fuzz is actually about. Wheel of Heaven, a web knowledge base for a seemingly fringe hypothesis? Namely that life on Earth was intelligently designed by an alleged extraterrestrial civilization capable of interstellar travel? Simply put, the answer to that question is a ressounding yes. Or more accurately, it-does-seem-that-way sort of modest yes that begs to ask further questions. This site considers itself a repository of informations predicated on the premise that life on Earth has a deliberate purpose, that the origins of sentient life can't conclusively be attributed to the disorganized doings of _whatever_ nor to the mere unwillingness of _chaos_. And more, that these truths are as much encoded in scriptures and artifacts still available to us, hailing from a remote past as they are kept at least partially intact and alive in the collective experience and preservation of religious traditions.
+Проще говоря, этот сайт предлагает, что происхождение разумной жизни на Земле нельзя полностью объяснить случайностью или хаосом природы, а имеет целенаправленное назначение, которое зашифровано в древних писаниях и артефактах, а также сохранено в религиозных традициях.
 
-Not only that, but Wheel of Heaven is a place where such a hypothesis is upheld and laid out, but where everyone is invited to immerse him or herself in this fascinating realm of inquisitive curiosity and consider the possibility of the very premises laid out on here to be congruent enough to elaborate and to contribute additional considerations, utlimately expanding the narrative even further.
+В Wheel of Heaven мы стремимся не только продвигать эту гипотезу, но и приглашаем всех посетителей принять участие в захватывающем и любознательном исследовании представленных возможностей. Всем предлагается рассмотреть приведенные на сайте предпосылки и привнести свои собственные мысли и идеи, помогая расширить и обогатить нарратив.
 
-## What you will find
+{{< figure src="images/sunset-man-on-hill.png" caption="Иллюстрация 1 - Наблюдение за звездным закатом" >}}
 
-Before we take the plunge together, let us first tell you what you're going to be able to read on Wheel of Heaven and how its contents are structured to make the ride the smoothest possible for you. Wheel of Heaven starts of with a lenghty introduction into the narrative where all the key aspects are being highlighted and explained accordingly. There, you're going to read about what the key premises are, how life on Earth and especially humanity took its course, and how such claims would embed themselves into our contemporary understanding and what meaning could be derived from there on. We got good news for you, if you're reading this paragraph, this means that you already found your way into this very introduction we just mentioned, namely the first part of the _At-a-glance_ chapter. You just can keep reading from here on to go along through this Introduction.
+## Что вы найдете
 
-{{< alert icon="👉" text="If this is your first exposure to Wheel of Heaven, it is wise to stick to the Introduction for now." />}}
+Чтобы помочь вам лучше понять эту концепцию, Wheel of Heaven начинается с полного [Введения]({{< ref "/intro/" >}}), которое выделяет и объясняет ключевые аспекты вышеизложенной гипотезы. Вы узнаете о основных предпосылках, эволюции жизни на Земле и о том, как эти утверждения соотносятся с современным пониманием. Если вы читаете это, то уже нашли путь к первой части главы _На первый взгляд_, Введение.
+
+{{< alert icon="👉" text="Если это ваше первое знакомство с Wheel of Heaven, оставайтесь в разделе Введение на текущий момент." />}}
 
 <br>
 
-As there is only so much one can condense down into an _long enough but not as long as it could be_ introduction, Wheel of Heaven features a Wiki, a web encyclopedia where all the main domains of interest such as places, objects, people and ideas have an entry on their own. This wiki is a place where you can look up, given that the notion you're looking for has gotten an entry by then, its meaning and what more can be said about it. That's the perfect place to put things into context and where most of the information here on Wheel of Heaven is aggregated at. The wiki be understood as the heart of this repository of knowledge around our esteemed hypothesis.
+Информация в Wheel of Heaven организована для удобной навигации. Для более глубокого понимания есть [Вики]({{< ref "/wiki/" >}}), которая служит веб-энциклопедией, где вы можете узнать значения ключевых терминов и концепций. Вики - это сердце хранилища знаний в Wheel of Heaven.
 
-What is the worth of information that is not making references to other bodies of information. That's why we have a Resources place dedicated to the curation of a set of related resources that expand upon the premises found on this site. Resources listed there can either be books, websites, audiovisual media and other media formats. Go over to Resources if you want to read up some sources directly and/or if you want to get to see what adjacent literature may look like. Some of these resources are curated by us at Wheel of Heaven. As of now, all these self-curated resources are formatted as a Gitbook and hosted on Gitub as a git project, in a similar fashion as the source code of this very web site.
+Какая ценность информации, которая не встроена в контекст ссылок на другие информационные ресурсы? Именно поэтому у нас есть раздел [Ресурсы]({{< ref "/resources/" >}}), посвященный составлению набора связанных ресурсов, которые расширяют приведенные на этом сайте предпосылки. Перечисленные там ресурсы могут быть книгами, веб-сайтами и аудиовизуальными материалами. Перейдите в Ресурсы, если хотите прочитать некоторые источники непосредственно и/или если хотите узнать, как может выглядеть смежная литература. Некоторые из этих ресурсов отобраны нами в Wheel of Heaven. На данный момент все эти самостоятельно отобранные ресурсы оформлены в виде Gitbook и размещены на Github в виде git-проекта, таким же образом, как и исходный код этого сайта.
 
-Last but not least, besides these three pillars of information, there's a Blog that reads itself as a journal of all the thoughts and new insights that arise over time. Don't hesitate to check that one out while you're reading the introductory prose or after you read all of it and wonder what there's more to know.
+В дополнение к этим трём столпам информации есть [Блог]({{< ref "/articles/" >}}), который служит журналом новых мыслей и взглядов, возникающих со временем. Не стесняйтесь проверить его, чтобы оставаться в курсе последних событий в Wheel of Heaven.
 
-## Let's recap
+## Подведем итоги
 
-Ok, so far so good. Let's quickly recapitulate what we came to learn so far. All of the following points are main aspects of what makes up the content here on Wheel of Heaven:
+Хорошо, до сих пор все идет хорошо. Давайте быстро вспомним, что мы узнали до сих пор. Все следующие пункты - это основные аспекты содержания здесь, в Wheel of Heaven:
 
-- A rather complete introduction 🔗
-- A wiki space with lots of entries and points of interests 🔗
-- A resources space with web books curated by us 🔗
-- A regularly updated blog where new insights and considerations are posted 🔗
+- [Обширное и всестороннее введение]({{< ref "/intro/timeline/preamble.md" >}})
+- [Информативный раздел вики со статьями и интересными моментами]({{< ref "/wiki/" >}})
+- [Область ресурсов, где представлены веб-книги, отобранные нашей командой]({{< ref "/resources/" >}})
+- [Регулярно обновляемый блог, где делаются новые взгляды и инсайты]({{< ref "/articles/" >}})
 
-In closing, we at Wheel of Heaven think it is important to point out that we believe that information should be as forthcoming and transparent as possible. We are well aware how disruptive and outlandish some of the premises on this website may seem, but we strive for a smooth experience for those who are curious enought to keep reading about this fascination examniation of a possible explanation of how things may have come about.
+В заключение, мы в Wheel of Heaven ценим прозрачность и верим в предоставление как можно большего объема информации. Хотя гипотезы, представленные на этом сайте, могут показаться необычными или даже спорными, наша цель - предложить плавный и увлекательный опыт для тех, кто интересуется изучением этой интригующей темы. 🙏
 
-We hope you enjoy your stay on Wheel of Heaven and even if you don't end up convinced by its premises, you may still have learned one or two pieces of information down the line. 🙏
+Мы надеемся, что вам понравится ваше посещение Wheel of Heaven, и даже если вы не полностью согласны с нашими предпосылками, мы надеемся, что вы все равно получите новые знания и инсайты.
 
-## What's next
+## Что дальше
 
-So, it is time to take the plunge and see for ourselves what the fuzz is effectively about. On to the hypothesis!
+Имея это в виду, пришло время более внимательно рассмотреть контекст, в котором основана гипотеза. [Дальше к настройкам!]({{< ref "/intro/at-a-glance/the-setting" >}})

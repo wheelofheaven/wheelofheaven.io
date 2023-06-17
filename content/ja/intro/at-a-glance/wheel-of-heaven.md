@@ -1,7 +1,7 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+excerpt: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,39 +13,41 @@ weight: 110
 toc: true
 ---
 
-![Image](images/moodscape_01.jpg "moodscape_01")
+このウェブサイトの「イントロダクション」セクションに偶然出会ったあなたは、Wheel of Heavenが一体何なのか、どんな内容なのか気になっているかもしれません。核心的には、Wheel of Heavenは地球上の生命が、星間旅行が可能な地球外文明によって知的に設計されたという仮説を探求するウェブベースの知識リポジトリです。
 
-If you made it to this site, you may wonder what the whole fuzz is actually about. Wheel of Heaven, a web knowledge base for a seemingly fringe hypothesis? Namely that life on Earth was intelligently designed by an alleged extraterrestrial civilization capable of interstellar travel? Simply put, the answer to that question is a ressounding yes. Or more accurately, it-does-seem-that-way sort of modest yes that begs to ask further questions. This site considers itself a repository of informations predicated on the premise that life on Earth has a deliberate purpose, that the origins of sentient life can't conclusively be attributed to the disorganized doings of _whatever_ nor to the mere unwillingness of _chaos_. And more, that these truths are as much encoded in scriptures and artifacts still available to us, hailing from a remote past as they are kept at least partially intact and alive in the collective experience and preservation of religious traditions.
+簡単に言えば、このサイトは、地球上の知覚的な生命の起源は、偶然や自然の混沌に完全に帰することはできず、代わりに古代の聖典や遺物にコーディングされ、宗教的伝統に保存されている意図的な目的があると提案しています。
 
-Not only that, but Wheel of Heaven is a place where such a hypothesis is upheld and laid out, but where everyone is invited to immerse him or herself in this fascinating realm of inquisitive curiosity and consider the possibility of the very premises laid out on here to be congruent enough to elaborate and to contribute additional considerations, utlimately expanding the narrative even further.
+Wheel of Heavenでは、この仮説を推進するだけでなく、訪問者全員に可能性を探求し、興味深く問い探す探検に参加するように誘っています。サイト上で示された前提を考慮に入れ、自身の思考やアイデアを提供することで、物語を広げ、豊かにするのに協力することを歓迎します。
 
-## What you will find
+{{< figure src="images/sunset-man-on-hill.png" caption="図1 - 星蓋の日没を見つめる" >}}
 
-Before we take the plunge together, let us first tell you what you're going to be able to read on Wheel of Heaven and how its contents are structured to make the ride the smoothest possible for you. Wheel of Heaven starts of with a lenghty introduction into the narrative where all the key aspects are being highlighted and explained accordingly. There, you're going to read about what the key premises are, how life on Earth and especially humanity took its course, and how such claims would embed themselves into our contemporary understanding and what meaning could be derived from there on. We got good news for you, if you're reading this paragraph, this means that you already found your way into this very introduction we just mentioned, namely the first part of the _At-a-glance_ chapter. You just can keep reading from here on to go along through this Introduction.
+## ここで見つけるもの
 
-{{< alert icon="👉" text="If this is your first exposure to Wheel of Heaven, it is wise to stick to the Introduction for now." />}}
+この概念をより理解しやすくするために、Wheel of Heavenは、上記の仮説の主要な側面を強調し説明する包括的な[イントロダクション]({{< ref "/intro/" >}})から始まります。主要な前提、地球上の生命の進化、そしてこれらの主張が我々の現代的理解にどのように適合するかについて学びます。あなたがこれを読んでいるなら、すでに「一目でわかる」章の最初の部分、イントロダクションにたどり着いています。
+
+{{< alert icon="👉" text="これが初めてのWheel of Heavenへの触れ込みであれば、ひとまずイントロダクションを見てみてください。" />}}
 
 <br>
 
-As there is only so much one can condense down into an _long enough but not as long as it could be_ introduction, Wheel of Heaven features a Wiki, a web encyclopedia where all the main domains of interest such as places, objects, people and ideas have an entry on their own. This wiki is a place where you can look up, given that the notion you're looking for has gotten an entry by then, its meaning and what more can be said about it. That's the perfect place to put things into context and where most of the information here on Wheel of Heaven is aggregated at. The wiki be understood as the heart of this repository of knowledge around our esteemed hypothesis.
+Wheel of Heavenの情報は、簡単にナビゲートできるように整理されています。より深い理解のために、重要な用語や概念の意味を調べることができるウェブ百科事典である[ウィキ]({{< ref "/wiki/" >}})があります。ウィキは、Wheel of Heavenの知識リポジトリの中心です。
 
-What is the worth of information that is not making references to other bodies of information. That's why we have a Resources place dedicated to the curation of a set of related resources that expand upon the premises found on this site. Resources listed there can either be books, websites, audiovisual media and other media formats. Go over to Resources if you want to read up some sources directly and/or if you want to get to see what adjacent literature may look like. Some of these resources are curated by us at Wheel of Heaven. As of now, all these self-curated resources are formatted as a Gitbook and hosted on Gitub as a git project, in a similar fashion as the source code of this very web site.
+情報が他の情報本体を参照する枠組みに組み込まれていない価値とは何でしょうか。それが、我々が[リソース]({{< ref "/resources/" >}})という場所を設け、このサイト上で見つかる前提を拡張する関連リソースのセットのキュレーションに専念している理由です。そこにリストアップされたリソースは、本やウェブサイト、視聴覚メディアなどです。直接いくつかの情報源を読みたいとか、何が隣接する文献になるかを見てみたい場合は、リソースをチェックしてみてください。これらのリソースの一部は、Wheel of Heavenの我々がキュレートしています。現在、これらの自己キュレートされたリソースは全てGitbookとしてフォーマットされ、このウェブサイトのソースコードと同様に、Githubのgitプロジェクトとしてホストされています。
 
-Last but not least, besides these three pillars of information, there's a Blog that reads itself as a journal of all the thoughts and new insights that arise over time. Don't hesitate to check that one out while you're reading the introductory prose or after you read all of it and wonder what there's more to know.
+これらの情報の三本柱に加えて、新たな思考や洞察が時間と共に生まれるジャーナルである[ブログ]({{< ref "/articles/" >}})もあります。Wheel of Heavenでの最新の動向を追うために、ぜひチェックしてみてください。
 
-## Let's recap
+## まとめ
 
-Ok, so far so good. Let's quickly recapitulate what we came to learn so far. All of the following points are main aspects of what makes up the content here on Wheel of Heaven:
+さて、ここまで順調に来ました。今までに学んだことをすばやく復習しましょう。以下の全ての点が、Wheel of Heavenのコンテンツの主要な側面です：
 
-- A rather complete introduction 🔗
-- A wiki space with lots of entries and points of interests 🔗
-- A resources space with web books curated by us 🔗
-- A regularly updated blog where new insights and considerations are posted 🔗
+- [包括的で詳細な導入部]({{< ref "/intro/timeline/preamble.md" >}})
+- [エントリーや興味深いポイントが満載の情報豊富なウィキセクション]({{< ref "/wiki/" >}})
+- [我々のチームが厳選したウェブブックを特集するリソースエリア]({{< ref "/resources/" >}})
+- [新鮮な視点と洞察を共有する頻繁に更新されるブログ]({{< ref "/articles/" >}})
 
-In closing, we at Wheel of Heaven think it is important to point out that we believe that information should be as forthcoming and transparent as possible. We are well aware how disruptive and outlandish some of the premises on this website may seem, but we strive for a smooth experience for those who are curious enought to keep reading about this fascination examniation of a possible explanation of how things may have come about.
+結論として、Wheel of Heavenでは透明性を尊重し、可能な限り多くの情報を提供することを信じています。このウェブサイトで提出される仮説は、非常識であったり、または議論の余地があるかもしれませんが、我々の目標は、この魅力的な主題を探求することに好奇心がある方々に、スムーズで魅力的な体験を提供することです。🙏
 
-We hope you enjoy your stay on Wheel of Heaven and even if you don't end up convinced by its premises, you may still have learned one or two pieces of information down the line. 🙏
+あなたがWheel of Heavenを訪れるのを楽しんでいただけることを願っています。また、我々の前提に完全に同意できないとしても、何か新たな洞察や知識を得られることを願っています。
 
-## What's next
+## 次に何をすべきか
 
-So, it is time to take the plunge and see for ourselves what the fuzz is effectively about. On to the hypothesis!
+それでは、仮説が根ざしている設定をより詳しく見ていく時間です。[設定に進みましょう！]({{< ref "/intro/at-a-glance/the-setting" >}})

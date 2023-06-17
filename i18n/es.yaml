@@ -15,3 +15,6 @@
 
 - id: browse
   translation: "Navegar"
+
+- id: edit-page-on
+  translation: "Editar esta página en"

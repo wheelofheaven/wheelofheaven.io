@@ -1,7 +1,7 @@
 ---
 title: "假设"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heaven 是一个知识库，探索地球上的生命是否被一个外星文明，即所谓的Elohim，智能地设计的工作假设。"
+excerpt: "Wheel of Heaven 是一个知识库，探索地球上的生命是否被一个外星文明，即所谓的Elohim，智能地设计的工作假设。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,44 +13,40 @@ weight: 140
 toc: true
 ---
 
-The hypothesis presented here at Wheel of Heaven is profoundly influenced by the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}), as it embraces the core message of the Elohim's role in creating life on Earth. By considering the Raëlian messages to be authentic, Wheel of Heaven proposes a more nuanced understanding of the Raëlian messages and their implications within the context of our rapidly evolving world.
+在 Wheel of Heaven 这里提出的假设深受 [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) 的影响，因为它接受了 Elohim 在创造地球生命的核心信息。通过认为 Raëlian 的信息是真实的，Wheel of Heaven 提出了对 Raëlian 信息以及它们在我们快速发展的世界背景下的含义的更为细致的理解。
 
-In the canon of the Raëlian messages, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) are portrayed as an advanced extraterrestrial civilization responsible for creating life on Earth. According to this belief, the creation process occurred within a [precessional cycle of less than 26,000 years]({{< relref "wiki/encyclopedia/great-year.md" >}}), a relatively short time frame when compared to the Earth's geological history.
+在 Raëlian 的信息中，[Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) 被描绘成一个高级的外星文明，负责创造地球上的生命。根据这种信念，创造过程发生在一个 [precessional cycle of less than 26,000 years]({{< relref "wiki/encyclopedia/great-year.md" >}})，与地球的地质历史相比，这是一个相对短暂的时间范围。
 
-The Raëlian messages, which are considered to be congruent and coherent, present the Elohim as beings who mastered the science of genetics and used their knowledge [to engineer a diverse array of life forms on Earth, including humans]({{< relref "wiki/encyclopedia/genesis.md" >}}). These messages are said to be encoded within ancient religious texts, particularly the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}), wherein the Elohim are sometimes misinterpreted as "gods."
+被认为是一致和连贯的 Raëlian 信息，将 Elohim 描述为掌握了遗传学的科学并利用他们的知识 [to engineer a diverse array of life forms on Earth, including humans]({{< relref "wiki/encyclopedia/genesis.md" >}})。据说这些信息被编码在古代的宗教文本中，特别是 [Bible]({{< relref "wiki/encyclopedia/bible.md" >}})，在那里，Elohim 有时被误解为 "gods"。
 
-As humanity continues to develop its scientific understanding and technological capabilities, the Raëlian hypothesis suggests that we are approaching a significant turning point in our development, the entering into the Age of Aquarius, a new Golden Age for humanity where the Truth is being revealed again. This involves humans becoming an interstellar civilization capable of traveling across the cosmos and seeding life on other planets. In this way, humanity would be carrying on the legacy of the Elohim and participating in a cosmic cycle of creation and propagation of life.
+随着人类继续发展其科学理解和技术能力，Raëlian 的假设表明我们正在接近我们发展的一个重要转折点，即进入水瓶座时代，一个新的人类黄金时代，在这个时代，真理再次被揭示。这涉及到人类成为一个星际文明，能够穿越宇宙，将生命播种到其他星球。以这种方式，人类将继续 Elohim 的遗产，并参与到生命的创造和传播的宇宙周期中。
 
-This transformative process mirrors the events described in the Genesis creation story, where life is brought forth on a previously barren planet. Under this scenario, humans would take on the role of the Elohim, using advanced technologies and genetic engineering to create new life forms on distant worlds. This cosmic endeavor would not only represent a significant milestone in humanity's progress but also perpetuate the cycle of life throughout the universe.
+这种转变过程反映了创世纪创造故事中描述的事件，即生命被带到以前的荒芜星球上。在这种情况下，人类将扮演 Elohim 的角色，利用先进的技术和遗传工程在遥远的世界上创造新的生命形式。这个宇宙的努力不仅代表了人类进步的重要里程碑，而且还在宇宙中保持了生命的周期。
 
-Furthermore, this hypothesis heavily challenges established contemporary paradigms and encourages us to explore the potential implications of our cosmic origins. By accepting the possibility that life on Earth was seeded by an advanced extraterrestrial civilization, we open ourselves up to a wealth of new questions and potential avenues of exploration. These inquiries could range from deciphering the true nature of ancient religious texts to examining the possibility of contact with the Elohim or other extraterrestrial beings in the past, present, or future.
+此外，这种假设严重挑战了现代已经建立的范式，并鼓励我们探索我们的宇宙起源的潜在影响。通过接受地球上的生命可能由一个高级的外星文明播种的可能性，我们向自己打开了一个新的问题和探索可能的丰富渠道。这些问题可能涉及解读古代宗教文本的真正性质，到检查与 Elohim 或其他外星生物在过去、现在或未来的接触的可能性。
 
-As we continue to push the boundaries of our knowledge, the Wheel of Heaven hypothesis invites us to confront the limits of our understanding and consider the broader implications of humanity's place within the cosmos. This perspective offers us a glimpse into a future where we are not only the beneficiaries of the Elohim's creative legacy but also active participants in the ongoing process of cosmic creation and evolution.
+随着我们继续推动我们的知识边界，Wheel of Heaven 的假设邀请我们面对我们理解的极限，并考虑人类在宇宙中的地位的更广泛影响。这种观点为我们提供了一个未来的一瞥，我们不仅是 Elohim 的创造性遗产的受益者，而且是宇宙创造和演化过程的积极参与者。
 
-By extending the Raëlian hypothesis, Wheel of Heaven seeks to inspire further inquiry, debate, and reflection on the mysteries of our origins and the potential destiny that awaits us as a space-faring civilization. By doing so, we hope to foster a sense of wonder and curiosity about the infinite possibilities that may lie ahead for humanity as we continue our journey through the cosmos.
+通过扩展 Raëlian 的假设，Wheel of Heaven 寻求激发对我们起源之谜和作为星际文明可能等待我们的潜在命运的进一步探讨、辩论和反思。为此，我们希望培养对可能在我们继续通过宇宙旅行的过程中为人类展现出来的无限可能性的惊奇和好奇心。
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Spacecraft in orbit" >}}
+{{< figure src="images/spacecraft-in-orbit.png" caption="插图 1 - 轨道上的宇宙飞船" >}}
 
-## Where does that leave us
+## 我们在哪里
 
-The Wheel of Heaven hypothesis not only broadens our understanding of the Raëlian revelations but also prompts us to reevaluate the nature of our existence and consider the profound implications of our potential extraterrestrial origins. By contemplating the role of the Elohim in the creation of life on Earth, we are encouraged to examine the intersections between science, spirituality, and the search for meaning in an ever-expanding universe.
+Wheel of Heaven 的假设不仅拓宽了我们对 Raëlian 揭示的理解，也促使我们重新评估我们的存在性质，并考虑我们可能的外星起源的深远影响。通过思考 Elohim 在创造地球生命中的角色，我们被鼓励去检查科学、精神和寻找意义在不断扩展的宇宙中的交叉点。
 
-One aspect of this hypothesis that warrants further exploration is the potential impact of the Elohim's genetic engineering on human evolution and development. If the Elohim were indeed responsible for the creation of life on Earth, including humanity, what role did their advanced genetic knowledge play in shaping our species' traits, abilities, and even our propensity for spiritual and intellectual growth? This line of inquiry could lead to a deeper understanding of the complex interplay between nature and nurture, genetics and environment, and the role of extraterrestrial intervention in human development.
+这个假设的一个方面值得进一步探索的是 Elohim 的遗传工程对人类进化和发展的潜在影响。此外，它也呼吁我们考虑一种更宏观的视角，即 Elohim 可能是一个广阔的星际网络的一部分，这个网络在整个宇宙中播种生命。
 
-Another intriguing dimension of the Wheel of Heaven hypothesis is the exploration of ancient religious texts and mythologies through the lens of extraterrestrial contact. By considering the possibility that these texts contain encoded messages from advanced civilizations such as the Elohim, we are prompted to reexamine the wisdom and insights contained within them. This reinterpretation could lead to a synthesis of spiritual and scientific perspectives, allowing us to glean new insights into the nature of existence, consciousness, and our place in the cosmos.
+总的来说，Wheel of Heaven 的工作假设不仅提供了我们的起源和命运的新颖和挑战性的观点，而且还鼓励我们以更为批判和开放的态度来思考和探索我们在宇宙中的地位和角色。
 
-The Wheel of Heaven hypothesis also opens up a wealth of possibilities for future human endeavors in space exploration and colonization. If we indeed carry the legacy of the Elohim as creators and propagators of life, what ethical responsibilities and challenges might we face as we venture beyond our home planet and encounter other life forms in the universe? How might our understanding of our cosmic origins inform our approach to space travel, diplomacy, and the potential colonization of other worlds?
+## 那我们处于何处
 
-Additionally, the hypothesis invites us to consider the potential for ongoing contact between humanity and extraterrestrial civilizations such as the Elohim. If they have been guiding our development throughout history, what might the future hold for our relationship with these advanced beings? Will we eventually establish open communication, collaboration, or even form alliances with them, or will our interactions remain shrouded in mystery and intrigue?
+Wheel of Heaven假说不仅拓宽了我们对雷尔主义启示的理解，而且也促使我们重新评估我们存在的性质，并考虑我们可能的外星起源的深远影响。通过思考埃洛希姆在地球生命的创造中的角色，我们被鼓励去考察科学、精神和在不断扩大的宇宙中寻找意义之间的交叉点。
 
-In conclusion, the Wheel of Heaven hypothesis serves as a catalyst for deepening our understanding of the universe, our origins, and our potential destiny as a space-faring civilization. By embracing the possibility of extraterrestrial involvement in the creation of life on Earth, we open ourselves up to a vast array of questions, challenges, and opportunities that can enrich our collective knowledge and shape our future in profound and unforeseen ways. As we continue to push the boundaries of our understanding, we remain ever-curious about the mysteries that lie ahead and the potential for uncovering the truth of our cosmic heritage.
+这个假说的一个方面，值得进一步探索的是埃洛希姆的基因工程对人类演化和发展的可能影响。如果埃洛希姆确实负责在地球上创造生命，包括人类，那么他们先进的基因知识在塑造我们物种的特征、能力，甚至我们对精神和智力成长的倾向中起了什么作用？这一探究线路可能会导致对自然与培养、遗传与环境，以及外星干预在人类发展中角色的更深入理解。
 
-## The Timeline
+Wheel of Heaven假说的另一个引人入胜的维度是通过外星接触的视角来探索古老的宗教文本和神话。通过考虑这些文本可能包含来自像埃洛希姆这样的先进文明的编码信息，我们被促使重新检查其中包含的智慧和洞见。这种重新解释可能导致精神和科学观点的融合，使我们能够洞察到存在、意识和我们在宇宙中位置的本质。
 
-Having established the basis of the Wheel of Heaven hypothesis and its profound implications for our understanding of humanity's origins, our relationship with the advanced extraterrestrial civilization of the Elohim, and our potential destiny as a space-faring species, we now turn our attention to an examination of the broader historical context in which these revelations take place. In the upcoming section, "Timeline," we will embark on a journey through the vast timeline of 26,000 years, culminating in today's day and age.
+Wheel of Heaven假说也为未来人类在空间探索和殖民方面的努力开辟了丰富的可能性。如果我们确实承载了埃洛希姆作为生命创造者和传播者的遗产，那么当我们冒险超越我们的家园行星，遇到宇宙中的其他生命形式时，我们可能面临哪些道德责任和挑战？我们对宇宙起源的理解如何影响我们对空间旅行、外交以及可能的其他世界殖民的态度？
 
-The timeline begins sometime before around -22,000, right at the doorstep of the Age of Capricorn. What precedes the Age of Capricorn is an Age of Aquarius of the preceding Great Year. Before we delve into the first precessional Great Month, the Capricornian World Age, it is essential to examine the events that led up to this significant period in cosmic history. To illustrate what happened, we're taking inspiration from a classic of the American film industry, Jurassic Park.
-
-As we explore this expansive timeline and the cosmic cycles that have shaped our history, we will uncover fascinating insights into the evolution of human civilization, the influence of the Elohim, and the recurring themes that have emerged throughout the Ages. This exploration will not only deepen our understanding of the Wheel of Heaven hypothesis but also provide a rich context for appreciating the unfolding narrative of our cosmic journey.
-
-As we transition from the foundational Wheel of Heaven hypothesis to the exploration of the broader historical and cosmic context in the "Preamble" chapter, we invite you to join us on this fascinating journey through time and space, as we uncover the mysteries of our past, contemplate the significance of our present, and envision the incredible possibilities that await us in the future.
+此外，假说邀请我们考虑人类和埃洛希姆等外星文明之间持续接触的可能性。如果他们一直在引导我们的发展，那么我们与这些先进生物的关系未来可能会如何发展？我们是否会最终建立开放

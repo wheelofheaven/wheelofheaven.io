@@ -74,7 +74,7 @@ titleAddition = "La démocratisation de l'Âge du Verseau est là."
 titleAddition = "Демократизация эпохи Водолея здесь."
     description = "Демократизация эпохи Водолея здесь. Wheel of Heaven-это база знаний вокруг рабочей теории, что жизнь на Земле была разумно разработана внеземной цивилизацией, так называемым Elohim."
     titleHome = "Wheel of Heaven"
-    footer = "Made with ♥ в Швейцарии c<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, и <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footer = "Made with ♥ в Швейцарии <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, и <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
     alertText = "Добро пожаловать в Wheel of Heaven. Обратите внимание, что этот веб-сайт ежедневно совершенствуется. 😊"
 
 [zh]

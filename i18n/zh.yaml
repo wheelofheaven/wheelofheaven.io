@@ -15,3 +15,6 @@
 
 - id: browse
   translation: "浏览"
+
+- id: edit-page-on
+  translation: "在以下站点上编辑此页面："

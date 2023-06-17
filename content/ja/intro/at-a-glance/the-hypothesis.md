@@ -1,7 +1,7 @@
 ---
 title: "仮説"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+excerpt: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,44 +13,30 @@ weight: 140
 toc: true
 ---
 
-The hypothesis presented here at Wheel of Heaven is profoundly influenced by the [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}), as it embraces the core message of the Elohim's role in creating life on Earth. By considering the Raëlian messages to be authentic, Wheel of Heaven proposes a more nuanced understanding of the Raëlian messages and their implications within the context of our rapidly evolving world.
+ここでWheel of Heavenで提示される仮説は、[ラエリアンの啓示]({{< relref "wiki/encyclopedia/raelism.md" >}})の影響を深く受けています。なぜなら、それは地球上の生命を創造したエロヒムの役割の核心的なメッセージを採用しているからです。ラエリアンのメッセージが本物であると考えることで、Wheel of Heavenは私たちの急速に進化する世界の文脈でのラエリアンのメッセージとその意味をより繊細に理解することを提案します。
 
-In the canon of the Raëlian messages, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) are portrayed as an advanced extraterrestrial civilization responsible for creating life on Earth. According to this belief, the creation process occurred within a [precessional cycle of less than 26,000 years]({{< relref "wiki/encyclopedia/great-year.md" >}}), a relatively short time frame when compared to the Earth's geological history.
+ラエリアンのメッセージの教義において、[エロヒム]({{< relref "wiki/encyclopedia/elohim.md" >}})は地球上の生命を創造する責任を負った進んだ地球外文明として描かれています。この信念によれば、創造過程は[約26,000年]({{< relref "wiki/encyclopedia/great-year.md" >}})以下の歳差運動のサイクルの中で起こり、地球の地質史と比較して比較的短い時間枠で発生したとされています。
 
-The Raëlian messages, which are considered to be congruent and coherent, present the Elohim as beings who mastered the science of genetics and used their knowledge [to engineer a diverse array of life forms on Earth, including humans]({{< relref "wiki/encyclopedia/genesis.md" >}}). These messages are said to be encoded within ancient religious texts, particularly the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}), wherein the Elohim are sometimes misinterpreted as "gods."
+一貫性と整合性があるとされるラエリアンのメッセージは、エロヒムを遺伝学の科学をマスターし、その知識を用いて[地球上に多様な生命形態]({{< relref "wiki/encyclopedia/genesis.md" >}})、人間を含む、を工学的に創り出した存在として提示します。これらのメッセージは、特に[聖書]({{< relref "wiki/encyclopedia/bible.md" >}})などの古代の宗教的テキストにコード化されているとされ、エロヒムは時として「神々」と誤解されることがあります。
 
-As humanity continues to develop its scientific understanding and technological capabilities, the Raëlian hypothesis suggests that we are approaching a significant turning point in our development, the entering into the Age of Aquarius, a new Golden Age for humanity where the Truth is being revealed again. This involves humans becoming an interstellar civilization capable of traveling across the cosmos and seeding life on other planets. In this way, humanity would be carrying on the legacy of the Elohim and participating in a cosmic cycle of creation and propagation of life.
+人類が科学的理解と技術的能力を発展させていく中で、ラエリアンの仮説は、我々が開発の重要な転換点に接近していることを示唆しています。それは水瓶座の時代、真実が再び明らかにされる人類の新たな黄金時代への進入です。これには、人間が宇宙を越えて旅する能力を持つ星間文明になり、他の惑星で生命を種付けすることが含まれます。このようにして、人間はエロヒムの遺産を引き継ぎ、生命の創造と普及という宇宙のサイクルに参加することになるでしょう。
 
-This transformative process mirrors the events described in the Genesis creation story, where life is brought forth on a previously barren planet. Under this scenario, humans would take on the role of the Elohim, using advanced technologies and genetic engineering to create new life forms on distant worlds. This cosmic endeavor would not only represent a significant milestone in humanity's progress but also perpetuate the cycle of life throughout the universe.
+この変容の過程は、以前は荒涼とした惑星上で生命が生まれるという創世記の創造物語の出来事を反映しています。このシナリオの下では、人間はエロヒムの役割を引き継ぎ、先進的な技術と遺伝子工学を用いて遠い世界で新たな生命形態を創造します。この宇宙的な試みは、人類の進歩の重要な節目を表すだけでなく、生命のサイクルを宇宙全体に永続させることになるでしょう。
 
-Furthermore, this hypothesis heavily challenges established contemporary paradigms and encourages us to explore the potential implications of our cosmic origins. By accepting the possibility that life on Earth was seeded by an advanced extraterrestrial civilization, we open ourselves up to a wealth of new questions and potential avenues of exploration. These inquiries could range from deciphering the true nature of ancient religious texts to examining the possibility of contact with the Elohim or other extraterrestrial beings in the past, present, or future.
+さらに、この仮説は確立された現代のパラダイムに大いに挑戦し、私たちが宇宙的な起源の可能性を探求することを奨励します。地球上の生命が進歩した地球外文明によって播種された可能性を受け入れることで、新たな問いと探求の可能性に私たち自身を開放します。これらの問いは、古代の宗教的テキストの真の性質を解読することから、過去、現在、または未来にエロヒムや他の地球外の存在との接触の可能性を検討することまで範囲が広がります。
 
-As we continue to push the boundaries of our knowledge, the Wheel of Heaven hypothesis invites us to confront the limits of our understanding and consider the broader implications of humanity's place within the cosmos. This perspective offers us a glimpse into a future where we are not only the beneficiaries of the Elohim's creative legacy but also active participants in the ongoing process of cosmic creation and evolution.
+私たちが知識の境界を押し広げていく中で、Wheel of Heavenの仮説は、私たちが理解の限界に立ち向かい、人類の宇宙における位置の広範な影響を考慮することを求めています。この視点は、私たちがエロヒムの創造的な遺産の受益者だけでなく、宇宙的な創造と進化の継続的な過程に積極的に参加している未来を垣間見せてくれます。
 
-By extending the Raëlian hypothesis, Wheel of Heaven seeks to inspire further inquiry, debate, and reflection on the mysteries of our origins and the potential destiny that awaits us as a space-faring civilization. By doing so, we hope to foster a sense of wonder and curiosity about the infinite possibilities that may lie ahead for humanity as we continue our journey through the cosmos.
+ラエリアンの仮説を拡張することで、Wheel of Heavenは、我々の起源の謎や、宇宙を旅する文明としての我々が待ち受ける可能な運命についてのさらなる問い、議論、そして反省を促すことを目指しています。それによって、我々は宇宙を通じて続く旅路に向けて人類に無限の可能性についての驚異と好奇心を育むことを願っています。
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Spacecraft in orbit" >}}
+{{< figure src="images/spacecraft-in-orbit.png" caption="図 1 - 軌道上の宇宙船" >}}
 
-## Where does that leave us
+## それでは、私たちはどこに立つのか
 
-The Wheel of Heaven hypothesis not only broadens our understanding of the Raëlian revelations but also prompts us to reevaluate the nature of our existence and consider the profound implications of our potential extraterrestrial origins. By contemplating the role of the Elohim in the creation of life on Earth, we are encouraged to examine the intersections between science, spirituality, and the search for meaning in an ever-expanding universe.
+Wheel of Heavenの仮説は、ラエリアンの啓示についての我々の理解を広げるだけでなく、我々の存在の性質を再評価し、我々の可能性のある地球外起源の深遠な影響を考えるよう促します。地球上の生命の創造におけるエロヒムの役割を考えることにより、我々は科学、精神性、そして拡大する宇宙における意味を求める探求との間の交差点を調査することを奨励されます。
 
-One aspect of this hypothesis that warrants further exploration is the potential impact of the Elohim's genetic engineering on human evolution and development. If the Elohim were indeed responsible for the creation of life on Earth, including humanity, what role did their advanced genetic knowledge play in shaping our species' traits, abilities, and even our propensity for spiritual and intellectual growth? This line of inquiry could lead to a deeper understanding of the complex interplay between nature and nurture, genetics and environment, and the role of extraterrestrial intervention in human development.
+この仮説の一部で更に探究すべきなのは、エロヒムの遺伝子工学が人類の進化と発展に及ぼした可能性のある影響です。もしエロヒムが実際に地球上の生命、人類を含む、の創造に責任があるなら、彼らの進歩した遺伝学の知識は、我々の種の特性、能力、さらには精神的と知的な成長への傾向を形成するのにどのような役割を果たしたのでしょうか？この問いの線は、自然と養育、遺伝と環境、そして人類の発展における地球外介入の役割という複雑な相互作用をより深く理解するための道を開くかもしれません。
 
-Another intriguing dimension of the Wheel of Heaven hypothesis is the exploration of ancient religious texts and mythologies through the lens of extraterrestrial contact. By considering the possibility that these texts contain encoded messages from advanced civilizations such as the Elohim, we are prompted to reexamine the wisdom and insights contained within them. This reinterpretation could lead to a synthesis of spiritual and scientific perspectives, allowing us to glean new insights into the nature of existence, consciousness, and our place in the cosmos.
+Wheel of Heavenの仮説のもう一つの興味深い側面は、人類が地球外の生命と接触を持つ可能性についての考察です。もしエロヒムが我々の創造主であり、我々がその創造的な遺産を継承しているとしたら、我々は未来のある時点で彼らと再び接触を持つことができるでしょうか？それとも、我々自身が彼らのように新たな世界を創造し、新たな生命を種付けする星間文明となる可能性があるでしょうか？
 
-The Wheel of Heaven hypothesis also opens up a wealth of possibilities for future human endeavors in space exploration and colonization. If we indeed carry the legacy of the Elohim as creators and propagators of life, what ethical responsibilities and challenges might we face as we venture beyond our home planet and encounter other life forms in the universe? How might our understanding of our cosmic origins inform our approach to space travel, diplomacy, and the potential colonization of other worlds?
-
-Additionally, the hypothesis invites us to consider the potential for ongoing contact between humanity and extraterrestrial civilizations such as the Elohim. If they have been guiding our development throughout history, what might the future hold for our relationship with these advanced beings? Will we eventually establish open communication, collaboration, or even form alliances with them, or will our interactions remain shrouded in mystery and intrigue?
-
-In conclusion, the Wheel of Heaven hypothesis serves as a catalyst for deepening our understanding of the universe, our origins, and our potential destiny as a space-faring civilization. By embracing the possibility of extraterrestrial involvement in the creation of life on Earth, we open ourselves up to a vast array of questions, challenges, and opportunities that can enrich our collective knowledge and shape our future in profound and unforeseen ways. As we continue to push the boundaries of our understanding, we remain ever-curious about the mysteries that lie ahead and the potential for uncovering the truth of our cosmic heritage.
-
-## The Timeline
-
-Having established the basis of the Wheel of Heaven hypothesis and its profound implications for our understanding of humanity's origins, our relationship with the advanced extraterrestrial civilization of the Elohim, and our potential destiny as a space-faring species, we now turn our attention to an examination of the broader historical context in which these revelations take place. In the upcoming section, "Timeline," we will embark on a journey through the vast timeline of 26,000 years, culminating in today's day and age.
-
-The timeline begins sometime before around -22,000, right at the doorstep of the Age of Capricorn. What precedes the Age of Capricorn is an Age of Aquarius of the preceding Great Year. Before we delve into the first precessional Great Month, the Capricornian World Age, it is essential to examine the events that led up to this significant period in cosmic history. To illustrate what happened, we're taking inspiration from a classic of the American film industry, Jurassic Park.
-
-As we explore this expansive timeline and the cosmic cycles that have shaped our history, we will uncover fascinating insights into the evolution of human civilization, the influence of the Elohim, and the recurring themes that have emerged throughout the Ages. This exploration will not only deepen our understanding of the Wheel of Heaven hypothesis but also provide a rich context for appreciating the unfolding narrative of our cosmic journey.
-
-As we transition from the foundational Wheel of Heaven hypothesis to the exploration of the broader historical and cosmic context in the "Preamble" chapter, we invite you to join us on this fascinating journey through time and space, as we uncover the mysteries of our past, contemplate the significance of our present, and envision the incredible possibilities that await us in the future.
+これらの問いは、Wheel of Heavenが探求する領域の一部です。我々は、新たな思考の視点、新たな洞察、そして新たな可能性への開放性を促すことで、これらの問いの探求を促しています。最終的には、我々が探求し、理解し、そして共有することで、我々の存在のより深い意味と目的を探す旅は続くことでしょう。

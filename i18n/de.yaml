@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "de_DE"
+
 - id: get-started
   translation: "Einstieg"
 

@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "ru_RU"
+
 - id: get-started
   translation: "Учить больше"
 

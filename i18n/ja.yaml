@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "ja_JP"
+
 - id: get-started
   translation: "もっと詳しく知る"
 

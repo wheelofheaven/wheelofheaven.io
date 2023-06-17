@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "es_ES"
+
 - id: get-started
   translation: "Aprende más"
 

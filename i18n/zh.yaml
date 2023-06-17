@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "zh_CN"
+
 - id: get-started
   translation: "学到更多"
 

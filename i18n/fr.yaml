@@ -1,3 +1,6 @@
+- id: og-locale
+  translation: "fr_FR"
+
 - id: get-started
   translation: "Apprends-en plus"
 

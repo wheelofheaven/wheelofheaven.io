@@ -1,4 +1,4 @@
-<meta property="og:locale" content="{{ if eq $.Site.Language.LanguageName "English" }}en_US{{ else if eq $.Site.Language.LanguageName "Deutsch" }}de_DE{{ else if eq $.Site.Language.LanguageName "Español" }}es_ES{{ else if eq $.Site.Language.LanguageName "Français" }}fr_FR{{ else if eq $.Site.Language.LanguageName "日本語" }}ja_JP{{ else if eq $.Site.Language.LanguageName "Pусский" }}ru_RU{{ else if eq $.Site.Language.LanguageName "中文" }}zh_CN{{ end }}">
+<meta property="og:locale" content="{{ i18n "og-locale" }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">

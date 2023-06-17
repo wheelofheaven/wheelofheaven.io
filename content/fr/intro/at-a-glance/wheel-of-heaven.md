@@ -40,9 +40,9 @@ En plus de ces trois piliers d'information, il y a aussi un [Blog]({{< ref "/art
 Ok, jusqu'ici tout va bien. Récapitulons rapidement ce que nous avons appris jusqu'à présent. Tous les points suivants sont des aspects principaux de ce qui constitue le contenu ici sur Wheel of Heaven :
 
 - [Une introduction extensive et complète]({{< ref "/intro/timeline/preamble.md" >}})
-- [Une section informative du wiki remplie d'entrées et de points d'intérêt]({{< ref "/wiki/" >}})
+- [Un wiki remplie d'entrées et de points d'intérêt]({{< ref "/wiki/" >}})
 - [Une zone de ressources qui propose des livres web choisis par notre équipe]({{< ref "/resources/" >}})
-- [Un blog fréquemment mis à jour où sont partagées de nouvelles perspectives et idées]({{< ref "/articles/" >}})
+- [Un blog fréquemment mis à jour avec des nouvelles perspectives et idées]({{< ref "/articles/" >}})
 
 En conclusion, nous chez Wheel of Heaven valorisons la transparence et croyons en la fourniture d'autant d'informations que possible. Alors que les hypothèses présentées sur ce site web peuvent sembler non conventionnelles ou même controversées, notre but est d'offrir une expérience douce et intéressante pour ceux qui sont curieux d'explorer ce sujet intrigant. 🙏
 

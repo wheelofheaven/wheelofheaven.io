@@ -1,7 +1,7 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
+excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,41 +13,41 @@ weight: 110
 toc: true
 ---
 
-If you've just stumbled upon the Introduction section of this website, you might be wondering what exactly Wheel of Heaven is all about. At its core, Wheel of Heaven is a web-based knowledge repository that explores the hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization with the capability of interstellar travel.
+Si acaba de toparse con la sección de Introducción de este sitio web, es posible que se esté preguntando de qué trata exactamente Wheel of Heaven. En su núcleo, Wheel of Heaven es un repositorio de conocimientos basado en la web que explora la hipótesis de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre con la capacidad de viajar interestelarmente.
 
-In simple terms, this site suggests that the origins of sentient life on Earth cannot be solely attributed to chance or the chaos of nature, but instead have a deliberate purpose that is encoded in ancient scriptures and artifacts, as well as being preserved in religious traditions.
+En términos simples, este sitio sugiere que los orígenes de la vida consciente en la Tierra no pueden atribuirse únicamente al azar o al caos de la naturaleza, sino que tienen un propósito deliberado que está codificado en las antiguas escrituras y artefactos, así como preservado en las tradiciones religiosas.
 
-At Wheel of Heaven, we aim to not only promote this hypothesis, but also invite all visitors to engage in a fascinating and inquisitive exploration of the possibilities presented. Everyone is welcome to consider the premises laid out on the site and contribute their own thoughts and ideas, helping to expand and enrich the narrative.
+En Wheel of Heaven, aspiramos no solo a promover esta hipótesis, sino también a invitar a todos los visitantes a participar en una exploración fascinante e inquisitiva de las posibilidades presentadas. Todos son bienvenidos a considerar las premisas expuestas en el sitio y aportar sus propios pensamientos e ideas, ayudando a expandir y enriquecer la narrativa.
 
-{{< figure src="images/sunset-man-on-hill.png" caption="Ill. 1 - Watching the star-lid sunset" >}}
+{{< figure src="images/sunset-man-on-hill.png" caption="Il. 1 - Observando el atardecer estrellado" >}}
 
-## What you will find
+## Lo que encontrarás
 
-To help you understand this concept better, Wheel of Heaven begins with a comprehensive [Introduction]({{< ref "/intro/" >}}) that highlights and explains the key aspects of the hypothesis laid out above. You'll learn about the main premises, the evolution of life on Earth, and how these claims fit into our contemporary understanding. If you're reading this, you've already found your way to the first part of the _At a Glance_ chapter, the Introduction.
+Para ayudarte a entender mejor este concepto, Wheel of Heaven comienza con una [Introducción]({{< ref "/intro/" >}}) completa que destaca y explica los aspectos clave de la hipótesis planteada arriba. Aprenderás sobre las premisas principales, la evolución de la vida en la Tierra y cómo estas afirmaciones encajan en nuestra comprensión contemporánea. Si estás leyendo esto, ya has encontrado tu camino a la primera parte del capítulo _De un Vistazo_, la Introducción.
 
-{{< alert icon="👉" text="If this is your first exposure to Wheel of Heaven, stick to the Introduction for now." />}}
+{{< alert icon="👉" text="Si este es tu primer encuentro con Wheel of Heaven, quédate en la Introducción por ahora." />}}
 
 <br>
 
-The information on Wheel of Heaven is organized for easy navigation. For a more in-depth understanding, there is a [Wiki]({{< ref "/wiki/" >}}) that serves as a web encyclopedia where you can look up the meanings of key terms and concepts. The wiki is the heart of the knowledge repository on Wheel of Heaven.
+La información en Wheel of Heaven está organizada para una fácil navegación. Para una comprensión más profunda, hay un [Wiki]({{< ref "/wiki/" >}}) que sirve como enciclopedia web donde puedes buscar los significados de términos y conceptos clave. El wiki es el corazón del repositorio de conocimientos en Wheel of Heaven.
 
-What is the worth of information that is not embedded in a framework of references to further bodies of information. That's why we have a [Resources]({{< ref "/resources/" >}}) place dedicated to the curation of a set of related resources that expand upon the premises found on this site. Resources listed there can either be books, websites and audiovisual media. Go over to Resources if you want to read up some sources directly and/or if you want to get to see what adjacent literature may look like. Some of these resources are curated by us at Wheel of Heaven. As of now, all these self-curated resources are formatted as a Gitbook and hosted on Gitub as a git project, in a similar fashion as the source code of this very web site.
+¿Cuál es el valor de la información que no está incrustada en un marco de referencias a otros cuerpos de información? Por eso tenemos un lugar [Recursos]({{< ref "/resources/" >}}) dedicado a la curación de un conjunto de recursos relacionados que expanden las premisas encontradas en este sitio. Los recursos listados allí pueden ser libros, sitios web y medios audiovisuales. Ve a Recursos si quieres leer algunas fuentes directamente y/o si quieres ver cómo puede ser la literatura adyacente. Algunos de estos recursos son seleccionados por nosotros en Wheel of Heaven. A partir de ahora, todos estos recursos auto seleccionados están formateados como un Gitbook y alojados en Github como un proyecto git, de manera similar al código fuente de este mismo sitio web.
 
-In addition to these three pillars of information, there is also a [Blog]({{< ref "/articles/" >}}) that serves as a journal of new thoughts and insights that arise over time. Don't hesitate to check it out to stay up to date on the latest developments on Wheel of Heaven.
+Además de estos tres pilares de información, también hay un [Blog]({{< ref "/articles/" >}}) que sirve como diario de nuevos pensamientos y percepciones que surgen con el tiempo. No dudes en consultarlo para mantenerte al día sobre los últimos desarrollos en Wheel of Heaven.
 
-## Let's recap
+## Recapitulemos
 
-Ok, so far so good. Let's quickly recapitulate what we came to learn so far. All of the following points are main aspects of what makes up the content here on Wheel of Heaven:
+Ok, hasta ahora todo bien. Vamos a recapitular rápidamente lo que hemos aprendido hasta ahora. Todos los siguientes puntos son aspectos principales de lo que compone el contenido aquí en Wheel of Heaven:
 
-- [An extensive and comprehensive introduction]({{< ref "/intro/timeline/preamble.md" >}})
-- [An informative wiki section filled with entries and points of interest]({{< ref "/wiki/" >}})
-- [A resource area that features web books handpicked by our team]({{< ref "/resources/" >}})
-- [A frequently updated blog where fresh perspectives and insights are shared]({{< ref "/articles/" >}})
+- [Una introducción extensa y completa]({{< ref "/intro/timeline/preamble.md" >}})
+- [Una sección informativa de wiki llena de entradas y puntos de interés]({{< ref "/wiki/" >}})
+- [Un área de recursos que presenta libros web seleccionados a mano]({{< ref "/resources/" >}})
+- [Un blog actualizado frecuentemente con nuevas perspectivas e ideas]({{< ref "/articles/" >}})
 
-In conclusion, we at Wheel of Heaven value transparency and believe in providing as much information as possible. While the hypotheses presented on this website may seem unconventional or even controversial, our goal is to offer a smooth and engaging experience for those who are curious about exploring this intriguing subject matter. 🙏
+En conclusión, nosotros en Wheel of Heaven valoramos la transparencia y creemos en proporcionar tanta información como sea posible. Aunque las hipótesis presentadas en este sitio web pueden parecer poco convencionales o incluso controvertidas, nuestro objetivo es ofrecer una experiencia suave e interesante para aquellos que tienen curiosidad por explorar este intrigante tema. 🙏
 
-We hope you enjoy your visit to Wheel of Heaven, and even if you do not fully agree with our premises, we hope that you will still come away with some new insights and knowledge.
+Esperamos que disfrutes tu visita a Wheel of Heaven, y aunque no estés completamente de acuerdo con nuestras premisas, esperamos que aún así te lleves algunas nuevas perspectivas y conocimientos.
 
-## What's next
+## Lo que sigue
 
-With that in mind, it's time to dive in and take a closer look at setting in which the hypothesis is grounded. [On to the Setting!]({{< ref "/intro/at-a-glance/the-setting" >}})
+Con eso en mente, es hora de sumergirse y echar un vistazo más de cerca al escenario en el que se basa la hipótesis. [¡A por el Escenario!]({{< ref "/intro/at-a-glance/the-setting.md" >}})

@@ -1,6 +1,7 @@
 ---
 title: "Das Szenario"
 description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
+description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 excerpt: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
@@ -8,7 +9,7 @@ draft: false
 images: []
 menu:
   intro:
-    parent: "auf-einen-blick"
+    parent: "at-a-glance"
 weight: 120
 toc: true
 ---
@@ -151,4 +152,19 @@ Sendys Ablehnung von übernatürlichen Elementen und sein Glaube an die rational
 
 Der wissenschaftliche Realismus behauptet, dass wissenschaftliche Theorien genaue Beschreibungen der Welt liefern, wobei die in der Wissenschaft postulierten Entitäten und Prozesse real sind und unabhängig von unserer Beobachtung existieren. Er glaubt fest an die Ordnung und Verständlichkeit der natürlichen Welt und vertraut darauf, dass wissenschaftliche Untersuchungen ein zuverlässiges Verständnis davon bieten können.
 
-Der Raelismus, eine zeitgenössische religiöse Bewegung, zeigt Ähnlichkeiten mit Sendys Perspektive, insbesondere in seinen Überzeugungen über außerirdisches Leben und seinen Versuchen, Wissenschaft und Religion in Einklang zu bringen. Sowohl der Raelismus als auch Sendy halten das Vorhandensein von außerirdischem Leben für möglich und postulieren, dass außerirdische Wesen die Erde bereits besucht haben. Sie hegen auch ein gemeinsames Interesse an der Idee, dass antike Texte, wie die Bibel, Hinweise auf außerirdisches Leben enthalten könnten oder auf außerirdische Eingriffe in die menschliche Geschichte hindeuten. Die Raelianer, ähnlich wie Sendy, lehnen traditionelle religiöse Interpretationen der Bibel ab und suchen die wissenschaftlichen Wahrheiten, von denen sie glauben, dass sie im Text kodiert sind.
+Der Raelismus, eine zeitgenössische neu-religiöse Bewegung, zeigt Ähnlichkeiten mit Sendys Perspektive, insbesondere in seinen Überzeugungen über außerirdisches Leben und seinen Versuchen, Wissenschaft und Religion in Einklang zu bringen. Sowohl der Raelismus als auch Sendy halten das Vorhandensein von außerirdischem Leben für möglich und postulieren, dass außerirdische Wesen die Erde bereits besucht haben. Sie hegen auch ein gemeinsames Interesse an der Idee, dass antike Texte, wie die Bibel, Hinweise auf außerirdisches Leben enthalten könnten oder auf außerirdische Eingriffe in die menschliche Geschichte hindeuten. Die Raelianer, ähnlich wie Sendy, lehnen traditionelle religiöse Interpretationen der Bibel ab und suchen die wissenschaftlichen Wahrheiten, von denen sie glauben, dass sie im Text kodiert sind.
+
+## Die Bibel lesen wie Schliemann Homer las
+
+Die Geschichte von Heinrich Schliemann, einem Geschäftsmann, der zum Archäologen wurde, bietet ein interessantes Pendant zu Jean Sendys Ansatz der biblischen Interpretation. Schliemann, der mit der Entdeckung der antiken Stätten Troja und Mykene in Verbindung gebracht wird, verfolgte einen einzigartigen Ansatz zur antiken Mythologie. Anstatt die Erzählungen der Ilias und der Odyssee als reine Fiktion zu betrachten, glaubte er, dass sie einen Kern historischer Wahrheit enthielten und machte sich daran, ihn zu entdecken.
+
+Diese wörtliche Interpretation antiker Texte war zu dieser Zeit innovativ und erinnert an Sendys eigene Methode des Bibellesens, wie er sie in seinem Buch Those Gods Who Made Heaven And Earth zum Ausdruck bringt. Er stellte die These auf, dass die Anwendung der gleichen Stufe der wörtlichen Analyse auf die Bibel ebenso bedeutsame Erkenntnisse liefern könnte, vergleichbar mit Schliemanns Erforschung der Ilias.
+
+Sendy argumentiert, dass dieser Ansatz den Lesern ermöglicht, die Bibel als ein historisches Dokument zu betrachten, das Interaktionen mit einer fortgeschrittenen interstellaren Zivilisation beschreibt, anstatt sie rein als spirituellen Leitfaden zu sehen. Er rät den Lesern, die Bibel so zu betrachten, wie Schliemann Homer betrachtete, indem sie "alle Exegesen, die sich in den letzten zweitausend Jahren um sie herum angesammelt haben, ignorieren". Dieser Ansatz beinhaltet, bestehende theologische Interpretationen beiseite zu legen und die Bibel in ihrem wörtlichsten und konkretesten Sinne zu lesen.
+
+Der Vergleich mit Schliemann geht über den Ansatz des Lesens antiker Texte hinaus und berührt auch die Reaktionen, die solch bahnbrechende Behauptungen hervorrufen können. Genau wie Schliemann auf Skepsis und Ablehnung stieß, als er vorschlug, dass die homerischen Erzählungen eine Grundlage in der historischen Tatsache hätten, so erleben auch Befürworter der Theorie der antiken Astronauten ähnliche Reaktionen. Diese Theorien lösen oft Unglauben und sogar Spott aus, da sie lang gehegte Überzeugungen und Verständnisse der biblischen Erzählungen in Frage stellen.
+
+Diese Verschiebung in der Interpretation spiegelt die Auswirkungen anderer revolutionärer Figuren wie Galileo wider, der die vorherrschende geozentrische Sicht des Universums auf den Kopf stellte, indem er ein heliozentrisches Modell behauptete. Genau wie Galileos paradigmenverändernde Entdeckung stößt die Arbeit von Persönlichkeiten wie Sendy und Biglino zunächst auf Widerstand, oft gefolgt von widerwilliger Akzeptanz und in einigen Fällen vollständiger Transformation des vorherrschenden Paradigmas.
+
+Sendys und Biglinos Ansatz zur Interpretation biblischer Erzählungen, genau wie Schliemanns Ansatz zu Homers Epen, stellt einen Br
+

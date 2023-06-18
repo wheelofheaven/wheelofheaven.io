@@ -167,4 +167,3 @@ Der Vergleich mit Schliemann geht über den Ansatz des Lesens antiker Texte hina
 Diese Verschiebung in der Interpretation spiegelt die Auswirkungen anderer revolutionärer Figuren wie Galileo wider, der die vorherrschende geozentrische Sicht des Universums auf den Kopf stellte, indem er ein heliozentrisches Modell behauptete. Genau wie Galileos paradigmenverändernde Entdeckung stößt die Arbeit von Persönlichkeiten wie Sendy und Biglino zunächst auf Widerstand, oft gefolgt von widerwilliger Akzeptanz und in einigen Fällen vollständiger Transformation des vorherrschenden Paradigmas.
 
 Sendys und Biglinos Ansatz zur Interpretation biblischer Erzählungen, genau wie Schliemanns Ansatz zu Homers Epen, stellt einen Br
-

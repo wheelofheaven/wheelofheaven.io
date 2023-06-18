@@ -1,5 +1,5 @@
 ---
-title: "Age of Capricorn (21'810—19'650BC)"
+title: "Zeitalter des Steinbocks (21'810—19'650 v. Chr.)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

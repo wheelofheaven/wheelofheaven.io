@@ -1,5 +1,5 @@
 ---
-title: "Age of Scorpio (17'490—15'330BC)"
+title: "蠍座の時代 (紀元前17'490—紀元前15'330)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

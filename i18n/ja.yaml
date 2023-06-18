@@ -21,3 +21,6 @@
 
 - id: edit-page-on
   translation: "次のサイトでこのページを編集します:"
+
+- id: see-here
+  translation: "ここを参照"

@@ -1,5 +1,5 @@
 ---
-title: "Age of Sagittarius (19'650—17'490BC)"
+title: "射手座の時代 (紀元前 19'650 年—紀元前 17'490 年)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

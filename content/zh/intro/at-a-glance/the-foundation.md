@@ -1,7 +1,7 @@
 ---
 title: "基础"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "Wheel of Heaven是一个知识库，探索地球上的生命是由一个外星文明，所谓的Elohim，智能设计的工作假设。"
+excerpt: "Wheel of Heaven是一个知识库，探索地球上的生命是由一个外星文明，所谓的Elohim，智能设计的工作假设。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,59 +13,59 @@ weight: 130
 toc: true
 ---
 
-Considering the hypothesis outlined in the previous chapter, it becomes evident that a framework of thought emerges that enables us to create a consistent portrayal of the possible origins of life on Earth. The aesthetics provided by this portrayal form the foundation of the grand narrative we put forward. This narrative depicts how sentient life on planet Earth is best explained as being another link in an interstellar chain of planetary civilizations. This idea can be seen as a revival of the concept of cosmic pluralism, which posits that the vastness of space makes it highly likely that sentient life is abundant and that this abundance makes it plausible for sentient life to exist in close proximity to Earth for a long time.
+考虑到前一章中概述的假设，显然我们可以创建一种思想框架，使我们能够对地球上生命可能的起源进行一致的描绘。这种描绘提供的美学构成了我们提出的宏大叙事的基础。这种叙事描绘了地球上的有意识生命最好被解释为行星文明的星际链中的另一个环节。这个想法可以被看作是宇宙多元性概念的复兴，该概念认为，空间的广阔使得有意识生命的丰富性变得非常可能，并且这种丰富性使得有意识生命在地球附近长时间存在变得合理。
 
-With continuous advancements in space travel and genetic engineering, it is becoming increasingly apparent that these technologies will soon empower us to become a space-faring civilization with the capability to spread life across other worlds. As we progress through the 21st century, these ideas have transcended the realm of fantasy or science fiction and are becoming increasingly plausible and grounded in reality.
+随着空间旅行和基因工程的不断进步，越来越明显的是，这些技术将很快使我们有能力成为一种具有在其他世界传播生命能力的太空文明。随着我们在21世纪的进步，这些想法已经超越了幻想或科幻的领域，越来越可能并立足于现实。
 
-We recognize that some critics may accuse us of cherry-picking facts or misconstruing speculative conclusions. However, we endeavor to maintain honesty and transparency in our presentation of the narrative's foundations. We hold that the emerging picture will be self-evident once it is fully realized.
+我们认识到，一些批评者可能会指责我们挑选事实或误解推测性的结论。然而，我们努力在我们的叙事基础的呈现中保持诚实和透明。我们认为，一旦完全实现，新出现的画面将是不言自明的。
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Ill. 1 - Monolithic structure covered in snow" >}}
+{{< figure src="images/monolithic-base-in-snow.png" caption="插图 1 - 覆盖在雪中的单片结构" >}}
 
-## The four pillars
+## 四大支柱
 
-To that effect, let us consider 4 aspects by which we're going to establish the cornerstone of the grand narrative. These four aspects can be summarized as follows:
+为此，让我们考虑我们将建立宏大叙事基石的4个方面。这四个方面可以概括如下：
 
-- **Cosmic pluralism**: This idea proposes that the immense expanse of space contains a plethora of worlds, each teeming with intelligent life. The vastness of the cosmos and the innumerable celestial bodies it encompasses suggest that the probability of encountering other civilizations is much higher than previously assumed.
-- **The Tradition**: Building upon the first aspect, the awareness of Earth's status as just one of many inhabited worlds has persisted throughout history. This awareness, coupled with ancestral wisdom encompassing a broad spectrum of scientific, technological, and historical knowledge, has been safeguarded through an all-encompassing Tradition. This Tradition serves as a bridge between the past and the present, reminding us of our cosmic connections and obligations.
-- **The Truth**: The Truth encompasses the idea that our origins' reality has not only been preserved by the earthly efforts known as the Tradition, but also by the continued presence and interaction of the Gods of Old, the Heavenly Fathers, the Spacefarers, and the Ones who came from the Skies. These celestial beings have not merely disappeared into the annals of history; instead, they have proactively engaged with and guided our progress since our synthetic inception during the creation project outlined in the Biblical Genesis.
-- **The Cycle**: The Cycle posits that intelligent life ensures its preservation throughout interstellar space by disseminating life across new planetary frontiers. This interstellar procreation is, in a sense, encoded within us, and the cycle perpetuates in accordance with the secular movement of Precession. As we enter the Age of Aquarius, we bear witness to the reawakening of knowledge that had been lost or obscured in previous eras.
+- **宇宙多元性**：这个观点提出，浩渺的太空中包含了无数的世界，每个世界都充满了智慧的生命。宇宙的广阔和其中无数的天体表明，遇到其他文明的可能性远高于之前的假设。
+- **传统**：在第一个方面的基础上，地球只是众多有生命的世界之一的认识在历史上一直存在。这种认识，再加上覆盖广泛的科学、技术和历史知识的祖先的智慧，一直通过全面的传统得以保护。这种传统作为过去和现在之间的桥梁，提醒我们我们的宇宙联系和义务。
+- **真理**：真理包括我们的起源的现实不仅被地球的努力（被称为传统）保存，而且被古老的神，天父，太空人，和那些来自天空的人的持续存在和互动保存。这些天体并没有仅仅消失在历史的记载中；相反，他们自从我们在《圣经创世记》中描述的创造项目中的合成起源以来，就一直积极地参与和指导我们的进步。
+- **周期**：周期假设通过在新的行星前沿传播生命，智慧生命确保了其在星际空间的保存。这种星际繁殖在某种意义上是我们内在的，并且周期按照岁差的世俗运动进行。当我们进入水瓶时代，我们见证了在前几个时代失落或被模糊的知识的重新唤醒。
 
-By further exploring these four pillars, we hope to provide a comprehensive and convincing argument for the grand narrative we propose, allowing readers to contemplate the true extent of our cosmic heritage and the potential future of humanity as a space-faring civilization.
+通过进一步探索这四大支柱，我们希望为我们提出的宏大叙事提供全面而有力的论据，让读者能够思考我们宇宙遗产的真正程度以及作为一个太空文明的人类的潜在未来。
 
-### Cosmic pluralism
+### 宇宙多元性
 
-[Cosmic pluralism]({{< relref "wiki/encyclopedia/cosmic-pluralism.md" >}}) is the first foundational aspect of the Wheel of Heaven hypothesis, centered around the idea that the vastness of space is home to a multitude of worlds, each harboring intelligent life. This concept suggests that our planet is but one of countless others that host advanced civilizations, highlighting the incredible diversity and potential for life throughout the cosmos.
+[宇宙多元性]({{< relref "wiki/encyclopedia/cosmic-pluralism.md" >}})是Wheel of Heaven假设的第一个基础方面，围绕的观点是空间的广大是多个世界的家，每个世界都孕育着智能生命。这个概念表明，我们的星球只是无数拥有先进文明的星球中的一个，突显了宇宙中生命的令人难以置信的多样性和潜力。
 
-This notion of cosmic pluralism challenges the idea that Earth is unique in its capacity to support intelligent life. Instead, it posits that the universe is teeming with a wide variety of life forms and civilizations, each with their own unique histories, technologies, and cultures. By acknowledging the existence of these diverse worlds, we can begin to appreciate the interconnectedness of life on a cosmic scale and recognize the potential for collaboration and learning between different species and civilizations.
+宇宙多元性的概念挑战了地球在支持智能生命方面的独特性的想法。相反，它认为宇宙中充满了各种各样的生命形式和文明，每个都有自己独特的历史、技术和文化。通过承认这些多元世界的存在，我们可以开始欣赏生命在宇宙尺度上的相互联系，认识到不同物种和文明之间合作和学习的潜力。
 
-Cosmic pluralism also underscores the importance of humanity's continued exploration of the universe, as it implies that our quest for knowledge and understanding is not limited to our home planet. By venturing beyond Earth, we have the opportunity to discover new worlds, encounter other intelligent life forms, and gain insights that can enhance our own civilization.
+宇宙多元性也强调了人类继续探索宇宙的重要性，因为它意味着我们对知识和理解的追求不仅限于我们的家园。通过冒险超越地球，我们有机会发现新的世界，遇到其他智能生命形式，并获得可以提升我们自身文明的见解。
 
-### The Tradition
+### 传统
 
-[The Tradition]({{< relref "wiki/encyclopedia/the-tradition.md" >}}) represents the enduring awareness that Earth is just one of many inhabited worlds in the cosmos. Throughout history, this recognition of our place in the universe has been preserved and transmitted across generations. The Tradition encompasses not only the understanding of extraterrestrial life but also the ancestral wisdom concerning various scientific, technological, and historical knowledge.
+[传统]({{< relref "wiki/encyclopedia/the-tradition.md" >}})代表了地球只是宇宙中众多有生命的世界之一的持久意识。在历史上，这种认识我们在宇宙中的位置的认识被保留并传递给后代。传统不仅包括对外星生命的理解，还包括关于各种科学、技术和历史知识的祖先智慧。
 
-This all-encompassing Tradition has served as a means of safeguarding and perpetuating the awareness of our cosmic connections, ensuring that humanity's understanding of its place in the universe is not lost or forgotten. By preserving this knowledge, the Tradition has also allowed for the continued development of our collective consciousness and understanding of the cosmos.
+这种全面的传统作为保护和传播我们对宇宙联系的认识的手段，确保了人类对其在宇宙中位置的理解不会丢失或被遗忘。通过保留这种知识，传统也允许我们的集体意识和对宇宙理解的持续发展。
 
-The Tradition acknowledges the possibility that ancient civilizations may have had contact with extraterrestrial beings, such as the Elohim, and that these interactions could have influenced our understanding of the universe and ourselves. This awareness has been passed down through generations, manifesting in various forms such as myths, legends, religious texts, and esoteric teachings. These diverse expressions of the Tradition serve to maintain and strengthen the understanding of our cosmic origins and connections.
+传统承认古代文明可能已经与外星生物，如Elohim，有过接触，并且这些交互可能影响了我们对宇宙和我们自身的理解。这种意识已经通过代代相传，表现在各种形式中，如神话、传说、宗教文本和神秘教义。这些传统的多样化表达方式有助于维护和强化我们对宇宙起源和联系的理解。
 
-Furthermore, the Tradition emphasizes the importance of integrating this ancestral wisdom with the latest scientific, technological, and political developments. By doing so, we can more fully comprehend the implications of our place in the universe and the potential for interstellar exploration and the propagation of life throughout the cosmos. This synthesis of ancient wisdom and modern advancements allows for a more complete and holistic understanding of the human experience, our cosmic origins, and our ultimate destiny.
+此外，传统强调了将这种祖先智慧与最新的科学、技术和政治发展相结合的重要性。通过这样做，我们可以更全面地理解我们在宇宙中的地位的含义以及进行星际探索和在宇宙中传播生命的潜力。古代智慧和现代进步的融合允许我们对人类经历、我们的宇宙起源和我们的最终命运有更完整和全面的理解。
 
-### The Truth
+### 真理
 
-[The Truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}) is another foundational aspect of the Wheel of Heaven hypothesis, which posits that our understanding of our origins has been preserved not only through the Earthly safeguarding known as the Tradition, but also through the ongoing interactions of the extraterrestrial beings who played a crucial role in our creation.
+[真理]({{< relref "wiki/encyclopedia/the-truth.md" >}})是Wheel of Heaven假设的另一个基础方面，它认为我们对我们起源的理解不仅通过被称为传统的地球上的保护，而且通过在我们创造过程中起到关键作用的外星生物的持续互动得以保存。
 
-These beings, referred to as the Gods of Old, the Heavenly Fathers, the Spacefarers, or the [Ones who came from the Skies]({{< relref "wiki/encyclopedia/elohim.md" >}}), are believed to have maintained a [proactive relationship]({{< relref "wiki/encyclopedia/religion.md" >}}) with humanity since our [synthetic inception]({{< relref "wiki/encyclopedia/genesis.md" >}}). Rather than simply vanishing after creating life on Earth, these advanced beings have continued [to guide and influence]({{< relref "wiki/encyclopedia/prophet.md" >}}) our progress throughout history.
+这些生物被称为古老的神、天堂之父、太空旅行者，或者[来自天空的人]({{< relref "wiki/encyclopedia/elohim.md" >}})，他们被认为自我们的[合成起源]({{< relref "wiki/encyclopedia/genesis.md" >}})以来一直与人类保持[积极的关系]({{< relref "wiki/encyclopedia/religion.md" >}})。这些先进的生物并没有在创造地球生命后就消失，他们一直在[指导和影响]({{< relref "wiki/encyclopedia/prophet.md" >}})我们的历史进程。
 
-The Truth emphasizes that the presence of these extraterrestrial beings is not merely a matter of historical curiosity, but an ongoing reality that shapes our understanding of ourselves and our place in the cosmos. Their continued interactions with humanity serve as a reminder of our cosmic origins and highlight the potential for future collaboration as we evolve into an interstellar civilization.
+真理强调这些外星生物的存在不仅仅是历史上的好奇事物，而且是一个持续塑造我们对自己和我们在宇宙中位置理解的现实。他们与人类的持续互动作为我们宇宙起源的提醒，并突显了我们作为星际文明演化时未来合作的潜力。
 
-This aspect of the hypothesis suggests that these beings have been instrumental in shaping human development across various fields, such as science, technology, politics, and spirituality. By imparting their knowledge and wisdom, they have helped to advance our understanding of the universe and our own capabilities.
+这个假设的方面暗示这些生物在塑造人类发展的各个领域，如科学、技术、政治和精神上，起到了关键作用。通过传授他们的知识和智慧，他们帮助我们提高对宇宙和我们自身能力的理解。
 
-### The Cycle
+### 循环
 
-[The Cycle]({{< relref "wiki/encyclopedia/samsara.md" >}}) is another foundational aspect of the Wheel of Heaven hypothesis, focusing on the idea that intelligent life perpetuates itself across the vast expanse of interstellar space by [seeding life]({{< relref "wiki/encyclopedia/genesis.md" >}}) on new planetary frontiers. This cosmic process of spreading and renewing life is ingrained within us and forms a crucial component of our destiny as an evolving species.
+[循环]({{< relref "wiki/encyclopedia/samsara.md" >}})是Wheel of Heaven假设的另一个基础方面，侧重于智能生命通过在新的行星前沿[播种生命]({{< relref "wiki/encyclopedia/genesis.md" >}})在广阔的星际空间中持续自我复制的想法。这个传播和更新生命的宇宙过程深深地植入了我们，并构成了我们作为一个进化种族命运的关键组成部分。
 
-According to the Cycle, interstellar procreation is an innate characteristic of intelligent life, driving us to explore the universe and expand our presence beyond our home planet. On Earth at least, this process is believed to have occured in accordance with the secular movement of [Precession]({{< relref "wiki/encyclopedia/precession.md" >}}), an astronomical phenomenon that governs the gradual shift of Earth's rotational axis over time.
+根据循环，星际繁殖是智能生命的本质特性，驱使我们探索宇宙并将我们的存在扩展到我们的家园以外。至少在地球上，人们认为这个过程是按照[岁差]({{< relref "wiki/encyclopedia/precession.md" >}})的世俗运动进行的，这是一种控制地球自转轴随时间的逐渐移动的天文现象。
 
-As we enter the Age of Aquarius, a new era marked by the [Precession]({{< relref "wiki/encyclopedia/precession.md"  >}}), the Cycle suggests that humanity will become increasingly aware of our cosmic origins and the knowledge that has been lost or obscured throughout history. This renewed awareness will guide us towards a deeper understanding of our place in the universe and the significance of the cosmic cycle of life.
+当我们进入由[岁差]({{< relref "wiki/encyclopedia/precession.md"  >}})标记的新时代水瓶座时代，循环暗示人类将对我们的宇宙起源以及历史上丢失或被遮蔽的知识有越来越清晰的认识。这种更新的认识将引导我们对宇宙中的位置和生命的宇宙周期的意义有更深的理解。
 
-The [Age of Aquarius]({{< relref "wiki/encyclopedia/golden-age.md" >}}) is considered a transformative period that bears the hallmarks of rediscovering our connection to the extraterrestrial beings who created life on Earth, as well as our inherent drive to explore and populate new worlds. This awakening will enable humanity to embrace its cosmic heritage and actively participate in the ongoing Cycle of interstellar procreation.
+[水瓶座时代]({{< relref "wiki/encyclopedia/golden-age.md" >}})被认为是一个变革的时期，它的特点是重新发现我们与创造地球生命的外星生物的联系，以及我们探索和居住新世界的固有驱动力。这种觉醒将使人类能够接受其宇宙遗产，并积极参与持续的星际繁殖循环。

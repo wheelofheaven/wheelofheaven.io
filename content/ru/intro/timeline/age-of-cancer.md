@@ -1,5 +1,5 @@
 ---
-title: "Age of Cancer (8'850—6'690BC)"
+title: "Эпоха Рака (8850—6690 до н. э.)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: "Age of Taurus (4'530—2'370BC)"
+title: "おうし座の時代 (紀元前 4'530—紀元前 2'370)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: "Age of Gemini (6'690—4'530BC)"
+title: "双子座の時代 (紀元前6'690—紀元前4'530)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

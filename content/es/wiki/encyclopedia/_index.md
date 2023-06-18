@@ -1,6 +1,6 @@
 ---
 title: "Enciclopedia"
-description: "Encyclopedia of Wheel of Heaven."
+description: "Enciclopedia de Wheel of Heaven."
 lead: ""
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00

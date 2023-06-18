@@ -26,7 +26,7 @@
 			{{ end }}
 			<h1>{{ .Title }}</h1>
       {{ with .Params.alternatives }}
-        <p>Alternative names: {{ range $index, $element := . }}
+      <p>{{ i18n "alternative-names" }}  {{ range $index, $element := . }}
         {{ if $index }}, {{ end }}{{ $element }}{{ end }}</p>
       {{ end }}
       <p class="lead arvo-font"><sup class="lead-tldr"><a href="/wiki/tldr/" style="text-decoration: none; color: inherit;">tl;dr</a></sup> {{ .Params.lead | safeHTML }}</p>

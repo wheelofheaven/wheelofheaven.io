@@ -1,8 +1,8 @@
 ---
-title: "Cyberparadism"
-alternatives: ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
-description: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
-lead: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
+title: "Киберпарадизм"
+alternatives: ["Кибер-рай", "Кибергенезис", "Неогенез"]
+description: "Киберпарадизм — это эстетика, объединяющая передовую технологию с раем природы, представляющая будущее, где прогресс человека и экологическое согласие сосуществуют устойчиво."
+lead: "Киберпарадизм — это эстетика, объединяющая передовую технологию с раем природы, представляющая будущее, где прогресс человека и экологическое согласие сосуществуют устойчиво."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,41 +14,41 @@ weight: 200
 toc: true
 ---
 
-Cyberparadism is a subgenre of Cyberprep and Post-Cyberpunk, combining cybernetic themes with aspects of paradise. This can be portrayed as a utopian society or a literal paradise, such as a Garden of Eden. It diverges from Cyberprep by not just focusing on the benefits of technological advancement, but also showcasing how technology has significantly altered economic principles and labor, encouraging the pursuit of higher goals in science, technology, civilization, and spirituality.
+Киберпарадизм является поджанром Киберпанка и Пост-киберпанка, сочетающим кибернетические темы с элементами рая. Это может быть изображено как утопическое общество или буквальный рай, такой как Сад Эдема. Киберпарадизм отличается от Киберпанка тем, что он не только сосредотачивается на выгодах технологического прогресса, но и демонстрирует, как технология значительно изменяет экономические принципы и труд, поощряя стремление к высшим целям в науке, технологии, цивилизации и духовности.
 
-Societal structures in Cyberparadism reflect this pursuit, with highly interconnected small communities or dense urban pods working together towards common objectives, such as environmental conservation or scientific advancement. This cooperative emphasis is a distinguishing feature of Cyberparadism and is facilitated by the advanced technology of a post-scarcity society.
+Общественные структуры в Киберпарадизме отражают это стремление, с высоко связанными малыми сообществами или плотными городскими островами, работающими вместе для достижения общих целей, таких как охрана окружающей среды или научный прогресс. Это сотрудничество является отличительной чертой Киберпарадизма и облегчается передовой технологией постдефицитного общества.
 
-In Cyberparadism, the paradisal aspect is more than an aesthetic, it is central to the philosophy of the subgenre. It envisions a future where technology enhances and safeguards the natural world, advocating a sustainable, fulfilling, and purposeful future. It refutes the notion that progress necessitates environmental degradation, instead proposing a harmonious coexistence of humans and nature.
+В Киберпарадизме райский аспект является не только эстетическим, но и центральным для философии поджанра. Он предвидит будущее, в котором технология улучшает и охраняет природный мир, пропагандируя устойчивое, сбалансированное и смысловое будущее. Он отвергает представление о том, что прогресс неизбежно приводит к экологическому ухудшению, предлагая вместо этого гармоничное сосуществование людей и природы.
 
-In short, Cyberparadism is an aesthetic that merges nature, often tropical or jungle-like, with a small civilization utilizing advanced technology for survival or luxury, promoting a quasi-hedonistic lifestyle. It frequently explores themes such as genetic engineering, terraformation, and space frontiers.
+Короче говоря, Киберпарадизм — это эстетика, объединяющая природу, часто тропическую или джунглевую, с небольшой цивилизацией, использующей передовые технологии для выживания или роскоши, поощряющая псевдогедонистический образ жизни. Он часто исследует такие темы, как генная инженерия, терраформация и космические фронтиры.
 
-## As an aesthetic
+## Как эстетика
 
-An aesthetic refers to a distinctive style or appearance that characterizes a particular form of art, design, or culture. It often involves visual elements but can also include themes, values, and feelings associated with a specific era, group, or concept. As an aesthetic, Cyberparadism encapsulates a visual style, thematic elements, and a set of values that can be used to represent and communicate its underlying philosophy. It's not just about how a setting or a piece of art looks, but also what it represents and conveys.
+Эстетика относится к характерному стилю или внешнему виду, характеризующему конкретную форму искусства, дизайна или культуры. Она часто включает визуальные элементы, но также может включать темы, ценности и чувства, связанные с определенной эпохой, группой или концепцией. Как эстетика, Киберпарадизм охватывает визуальный стиль, тематические элементы и набор ценностей, которые могут использоваться для представления и передачи его основной философии. Важно не только то, как выглядит среда или произведение искусства, но и то, что оно представляет и передает.
 
-Visually, Cyberparadism often combines the elements of advanced technology with lush, untamed natural settings. This can include depictions of futuristic, high-tech cities nestled in a jungle, or small, minimalist societies that have used technology to live sustainably in harmony with nature. The imagery used in Cyberparadism often serves to highlight the coexistence of advanced technology and pristine nature, portraying a future where technology has allowed humans to live in harmony with the environment.
+Визуально Киберпарадизм часто сочетает элементы передовой технологии с пышными, неукрощенными природными пейзажами. Это может включать изображения футуристических городов высоких технологий, спрятанных в джунглях, или маленьких минималистичных обществ, которые использовали технологии для устойчивого сосуществования в гармонии с природой. Используемые визуальные образы в Киберпарадизме часто служат для подчеркивания сосуществования передовой технологии и неприкосновенной природы, изображая будущее, где технология позволяет людям жить в гармонии с окружающей средой.
 
-Thematically, Cyberparadism explores positive use of technology, sustainable living, cooperation, and the pursuit of higher goals and pleasures in life. These themes are often reflected in the narratives, characters, and societies that are depicted within the Cyberparadism aesthetic.
+Тематически Киберпарадизм исследует позитивное использование технологии, устойчивое существование, сотрудничество и стремление к высшим целям и удовольствиям в жизни. Эти темы часто отражаются в повествовании, персонажах и обществах, изображенных в рамках эстетики Киберпарадизма.
 
-In terms of values, Cyberparadism promotes harmony with nature, technological progress for the betterment of society, and a balance between technological advancement and environmental preservation. It challenges the notion of progress at the expense of the environment, advocating instead for a future where technology and nature coexist and thrive together.
+В плане ценностей Киберпарадизм пропагандирует гармонию с природой, технологический прогресс во благо общества и баланс между технологическим развитием и сохранением окружающей среды. Он вызывает сомнения в том, что прогресс происходит за счет ущерба окружающей среде, и предлагает вместо этого будущее, где технология и природа сосуществуют и процветают вместе.
 
-Thus, as an aesthetic, Cyberparadism is a way of visualizing and embodying a specific set of themes and values. It's a tool for expressing a particular vision of the future—one that is technologically advanced, environmentally sustainable, and deeply fulfilling for its inhabitants.
+Таким образом, Киберпарадизм как эстетика представляет собой способ визуализации и воплощения определенного набора тем и ценностей. Это инструмент для выражения конкретного видения будущего, которое является технологически передовым, экологически устойчивым и глубоко удовлетворительным для его обитателей.
 
-## Depiction in media
+## Изображение в медиа
 
-There are a few movies that can be mentioned that each depict elements of the Cyberparadism aesthetic:
+Есть несколько фильмов, в которых можно увидеть элементы эстетики Киберпарадизма:
 
-- "Jurassic World" (2015): In this movie, the theme park, which is filled with genetically engineered dinosaurs, is a prime example of the Cyberparadism aesthetic. The park represents an advanced use of technology, in this case genetic engineering, to recreate prehistoric life forms and coexist with them in a lush, tropical environment. It blends the untamed wilderness of the past with the high-tech reality of the present, making it a paradisal place despite the inherent dangers.
+- "Мир Юрского периода" (2015): В этом фильме тематический парк, заполненный генетически измененными динозаврами, является примером эстетики Киберпарадизма. Парк представляет собой передовое использование технологии, в данном случае генной инженерии, для воссоздания динозавров и их сосуществования в пышной тропической среде. Он смешивает дикую природу прошлого с высокотехнологичной реальностью настоящего, делая его местом рая несмотря на внутренние опасности.
 
-- "Elysium" (2013): The orbital ring-world Elysium depicts a different form of Cyberparadism. This space habitat is filled with beautiful landscapes, luxury homes, and highly advanced medical technology that can cure all diseases, representing a sort of utopia or paradise. However, the paradisal aspect is only available to the wealthy, leading to social inequality, which contradicts the egalitarian principles usually associated with Cyberparadism. Still, the aesthetic can be seen in the combination of advanced technology and an idyllic living environment.
+- "Элизиум" (2013): Космическое жилое кольцо Элизиум изображает другую форму Киберпарадизма. Этот космический габитат наполнен красивыми пейзажами, роскошными домами и высокотехнологичной медицинской технологией, способной вылечить все болезни, представляя собой своего рода утопию или рай. Однако райский аспект доступен только богатым, что противоречит принципам эгалитаризма, обычно связываемым с Киберпарадизмом. Тем не менее, эстетика проявляется в сочетании передовой технологии и идиллической обстановки для проживания.
 
-- "Oblivion" (2013): In the beginning scenes of the movie, the protagonist lives in a high-tech tower above the clouds, with a stunning view of the earth below. This represents a form of Cyberparadism in the sense that he lives in a highly advanced dwelling, with sophisticated technology, above a desolate Earth. The harmony with nature is achieved by leaving nature thrive on its own having a habitats that are well isolated form nature and fusion energy generators deployed on top the oceans.
+- "Забвение" (2013): В начальных сценах этого фильма главный герой живет в высокотехнологичном башне над облаками, с потрясающим видом на землю внизу. Это представляет собой форму Киберпарадизма в том смысле, что он живет в высокотехнологичном жилище с утонченной технологией над опустошенной Землей. Гармония с природой достигается путем приведения в порядок природы, обитающей в отдельных районах, хорошо изолированных от внешнего мира, и установки генераторов фьюжн-энергии на вершине океанов.
 
-## See also
+## Смотрите также
 
-- [Wiki › Paradism]({{< relref "wiki/encyclopedia/paradism.md" >}})
+- [Вики › Парадизм]({{< relref "wiki/encyclopedia/paradism.md" >}})
 
-## External links
+## Внешние ссылки
 
-- [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
-- [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)
+- [Киберпарадизм | Вики эстетики](https://aesthetics.fandom.com/wiki/Cyberparadism)
+- [Манифест Киберпарадизма | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)

@@ -1,8 +1,8 @@
 ---
 title: "Cyberparadism"
 alternatives: ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
-description: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
-lead: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
+description: "Cyberparadism ist eine Ästhetik, die fortgeschrittene Technologie mit paradiesischer Natur verbindet und eine Zukunftsvision entwirft, in der menschlicher Fortschritt und Umweltharmonie nachhaltig miteinander vereint sind."
+lead: "Cyberparadism ist eine Ästhetik, die fortgeschrittene Technologie mit paradiesischer Natur verbindet und eine Zukunftsvision entwirft, in der menschlicher Fortschritt und Umweltharmonie nachhaltig miteinander vereint sind."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,41 +14,41 @@ weight: 200
 toc: true
 ---
 
-Cyberparadism is a subgenre of Cyberprep and Post-Cyberpunk, combining cybernetic themes with aspects of paradise. This can be portrayed as a utopian society or a literal paradise, such as a Garden of Eden. It diverges from Cyberprep by not just focusing on the benefits of technological advancement, but also showcasing how technology has significantly altered economic principles and labor, encouraging the pursuit of higher goals in science, technology, civilization, and spirituality.
+Cyberparadism ist ein Subgenre des Cyberprep und Post-Cyberpunk, das kybernetische Themen mit Aspekten des Paradieses kombiniert. Dies kann als utopische Gesellschaft oder als buchstäbliches Paradies wie der Garten Eden dargestellt werden. Es unterscheidet sich vom Cyberprep, indem es sich nicht nur auf die Vorteile des technologischen Fortschritts konzentriert, sondern auch zeigt, wie die Technologie wirtschaftliche Prinzipien und Arbeit wesentlich verändert hat, was die Verfolgung höherer Ziele in Wissenschaft, Technologie, Zivilisation und Spiritualität fördert.
 
-Societal structures in Cyberparadism reflect this pursuit, with highly interconnected small communities or dense urban pods working together towards common objectives, such as environmental conservation or scientific advancement. This cooperative emphasis is a distinguishing feature of Cyberparadism and is facilitated by the advanced technology of a post-scarcity society.
+Gesellschaftliche Strukturen im Cyberparadismus spiegeln diese Verfolgung wider, mit hochvernetzten kleinen Gemeinschaften oder dicht besiedelten urbanen Pods, die gemeinsam an gemeinsamen Zielen wie Umweltschutz oder wissenschaftlichem Fortschritt arbeiten. Diese kooperative Betonung ist ein unterscheidendes Merkmal des Cyberparadismus und wird durch die fortschrittliche Technologie einer postknappen Gesellschaft ermöglicht.
 
-In Cyberparadism, the paradisal aspect is more than an aesthetic, it is central to the philosophy of the subgenre. It envisions a future where technology enhances and safeguards the natural world, advocating a sustainable, fulfilling, and purposeful future. It refutes the notion that progress necessitates environmental degradation, instead proposing a harmonious coexistence of humans and nature.
+Im Cyberparadismus ist der paradiesische Aspekt mehr als eine Ästhetik, er ist zentral für die Philosophie des Subgenres. Er entwirft eine Zukunftsvision, in der die Technologie die natürliche Welt verbessert und schützt und eine nachhaltige, erfüllende und sinnvolle Zukunft befürwortet. Er widerlegt die Vorstellung, dass Fortschritt eine Umweltzerstörung erfordert, und schlägt stattdessen ein harmonisches Miteinander von Mensch und Natur vor.
 
-In short, Cyberparadism is an aesthetic that merges nature, often tropical or jungle-like, with a small civilization utilizing advanced technology for survival or luxury, promoting a quasi-hedonistic lifestyle. It frequently explores themes such as genetic engineering, terraformation, and space frontiers.
+Kurz gesagt ist Cyberparadismus eine Ästhetik, die die Natur, oft tropisch oder dschungelähnlich, mit einer kleinen Zivilisation vereint, die fortschrittliche Technologie zur Sicherung oder zum Luxus nutzt und einen quasi-hedonistischen Lebensstil fördert. Häufig erkundet es Themen wie genetische Manipulation, Terraforming und Raumgrenzen.
 
-## As an aesthetic
+## Als Ästhetik
 
-An aesthetic refers to a distinctive style or appearance that characterizes a particular form of art, design, or culture. It often involves visual elements but can also include themes, values, and feelings associated with a specific era, group, or concept. As an aesthetic, Cyberparadism encapsulates a visual style, thematic elements, and a set of values that can be used to represent and communicate its underlying philosophy. It's not just about how a setting or a piece of art looks, but also what it represents and conveys.
+Eine Ästhetik bezieht sich auf einen charakteristischen Stil oder ein Erscheinungsbild, das eine bestimmte Form von Kunst, Design oder Kultur kennzeichnet. Es beinhaltet oft visuelle Elemente, kann aber auch Themen, Werte und Gefühle umfassen, die mit einer bestimmten Epoche, Gruppe oder Konzept verbunden sind. Als Ästhetik verkörpert Cyberparadismus einen visuellen Stil, thematische Elemente und einen Satz von Werten, die verwendet werden können, um seine zugrunde liegende Philosophie zu repräsentieren und zu kommunizieren. Es geht nicht nur darum, wie eine Umgebung oder ein Kunstwerk aussieht, sondern auch darum, was es repräsentiert und vermittelt.
 
-Visually, Cyberparadism often combines the elements of advanced technology with lush, untamed natural settings. This can include depictions of futuristic, high-tech cities nestled in a jungle, or small, minimalist societies that have used technology to live sustainably in harmony with nature. The imagery used in Cyberparadism often serves to highlight the coexistence of advanced technology and pristine nature, portraying a future where technology has allowed humans to live in harmony with the environment.
+Visuell kombiniert Cyberparadismus oft die Elemente fortgeschrittener Technologie mit üppigen, unberührten natürlichen Umgebungen. Dies kann die Darstellung futuristischer, hochtechnologischer Städte sein, die in einem Dschungel eingebettet sind, oder kleine, minimalistische Gemeinschaften, die Technologie genutzt haben, um nachhaltig im Einklang mit der Natur zu leben. Die in Cyberparadismus verwendeten Bilder dienen oft dazu, das Zusammenleben von fortschrittlicher Technologie und unberührter Natur hervorzuheben und eine Zukunft darzustellen, in der die Technologie es den Menschen ermöglicht, im Einklang mit der Umwelt zu leben.
 
-Thematically, Cyberparadism explores positive use of technology, sustainable living, cooperation, and the pursuit of higher goals and pleasures in life. These themes are often reflected in the narratives, characters, and societies that are depicted within the Cyberparadism aesthetic.
+Thematisch erforscht Cyberparadismus den positiven Einsatz von Technologie, nachhaltiges Leben, Zusammenarbeit und die Verfolgung höherer Ziele und Freuden im Leben. Diese Themen spiegeln sich oft in den Erzählungen, Charakteren und Gesellschaften wider, die innerhalb der Cyberparadismus-Ästhetik dargestellt werden.
 
-In terms of values, Cyberparadism promotes harmony with nature, technological progress for the betterment of society, and a balance between technological advancement and environmental preservation. It challenges the notion of progress at the expense of the environment, advocating instead for a future where technology and nature coexist and thrive together.
+In Bezug auf Werte fördert Cyberparadismus Harmonie mit der Natur, technologischen Fortschritt zum Wohl der Gesellschaft und ein Gleichgewicht zwischen technologischem Fortschritt und Umweltschutz. Es hinterfragt die Vorstellung, dass Fortschritt auf Kosten der Umwelt geht, und setzt sich stattdessen für eine Zukunft ein, in der Technologie und Natur miteinander existieren und gedeihen.
 
-Thus, as an aesthetic, Cyberparadism is a way of visualizing and embodying a specific set of themes and values. It's a tool for expressing a particular vision of the future—one that is technologically advanced, environmentally sustainable, and deeply fulfilling for its inhabitants.
+Daher ist Cyberparadismus als Ästhetik eine Möglichkeit, eine spezifische Reihe von Themen und Werten zu visualisieren und zu verkörpern. Es ist ein Werkzeug, um eine bestimmte Vision der Zukunft auszudrücken - eine Zukunft, die technologisch fortschrittlich, umweltfreundlich und für ihre Bewohner tief erfüllend ist.
 
-## Depiction in media
+## Darstellung in den Medien
 
-There are a few movies that can be mentioned that each depict elements of the Cyberparadism aesthetic:
+Es gibt einige Filme, die Elemente der Cyberparadismus-Ästhetik darstellen:
 
-- "Jurassic World" (2015): In this movie, the theme park, which is filled with genetically engineered dinosaurs, is a prime example of the Cyberparadism aesthetic. The park represents an advanced use of technology, in this case genetic engineering, to recreate prehistoric life forms and coexist with them in a lush, tropical environment. It blends the untamed wilderness of the past with the high-tech reality of the present, making it a paradisal place despite the inherent dangers.
+- "Jurassic World" (2015): In diesem Film ist der Themenpark, der mit genetisch manipulierten Dinosauriern gefüllt ist, ein herausragendes Beispiel für die Cyberparadismus-Ästhetik. Der Park repräsentiert eine fortgeschrittene Nutzung von Technologie, in diesem Fall der genetischen Manipulation, um prähistorische Lebensformen wiederzuerwecken und mit ihnen in einer üppigen tropischen Umgebung zu koexistieren. Es verbindet die unberührte Wildnis der Vergangenheit mit der hochtechnologischen Realität der Gegenwart und macht es zu einem paradiesischen Ort trotz der inhärenten Gefahren.
 
-- "Elysium" (2013): The orbital ring-world Elysium depicts a different form of Cyberparadism. This space habitat is filled with beautiful landscapes, luxury homes, and highly advanced medical technology that can cure all diseases, representing a sort of utopia or paradise. However, the paradisal aspect is only available to the wealthy, leading to social inequality, which contradicts the egalitarian principles usually associated with Cyberparadism. Still, the aesthetic can be seen in the combination of advanced technology and an idyllic living environment.
+- "Elysium" (2013): Der orbitalen Ringwelt Elysium stellt eine andere Form von Cyberparadismus dar. Dieser Raumlebensraum ist gefüllt mit wunderschönen Landschaften, luxuriösen Häusern und hochentwickelter medizinischer Technologie, die alle Krankheiten heilen kann und eine Art Utopie oder Paradies darstellt. Der paradiesische Aspekt steht jedoch nur den Reichen zur Verfügung und führt zu sozialer Ungleichheit, was im Widerspruch zu den in der Regel mit Cyberparadismus verbundenen egalitären Prinzipien steht. Dennoch ist die Ästhetik in der Kombination von fortschrittlicher Technologie und einer idyllischen Lebensumgebung zu erkennen.
 
-- "Oblivion" (2013): In the beginning scenes of the movie, the protagonist lives in a high-tech tower above the clouds, with a stunning view of the earth below. This represents a form of Cyberparadism in the sense that he lives in a highly advanced dwelling, with sophisticated technology, above a desolate Earth. The harmony with nature is achieved by leaving nature thrive on its own having a habitats that are well isolated form nature and fusion energy generators deployed on top the oceans.
+- "Oblivion" (2013): In den Anfangsszenen des Films lebt der Protagonist in einem hochmodernen Turm über den Wolken mit einem atemberaubenden Blick auf die Erde darunter. Dies stellt eine Form von Cyberparadismus dar, da er in einer hochentwickelten Behausung mit anspruchsvoller Technologie lebt, über einer öden Erde. Die Harmonie mit der Natur wird erreicht, indem die Natur in ihrer eigenen Blüte gelassen wird und Lebensräume gut von der Natur isoliert sind und auf den Ozeanen Fusionsenergiegeneratoren installiert sind.
 
-## See also
+## Siehe auch
 
-- [Wiki › Paradism]({{< relref "wiki/encyclopedia/paradism.md" >}})
+- [Wiki › Paradismus]({{< relref "wiki/encyclopedia/paradism.md" >}})
 
-## External links
+## Externe Links
 
-- [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
-- [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)
+- [Cyberparadismus | Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
+- [Cyberparadismus Manifest | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)

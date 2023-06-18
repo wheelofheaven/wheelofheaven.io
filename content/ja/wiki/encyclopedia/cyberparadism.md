@@ -1,8 +1,8 @@
 ---
-title: "Cyberparadism"
-alternatives: ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
-description: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
-lead: "Cyberparadism is an aesthetic that merges advanced technology with paradisal nature, envisioning a future where human progress and environmental harmony coexist sustainably."
+title: "サイバーパラダイズム"
+alternatives: ["サイバーパラダイス", "サイバーゲネシス", "ネオジェネシス"]
+description: "サイバーパラダイズムは、先進技術と楽園的な自然を融合させ、人間の進歩と環境の調和が持続可能な共存を描く美的感覚です。"
+lead: "サイバーパラダイズムは、先進技術と楽園的な自然を融合させ、人間の進歩と環境の調和が持続可能な共存を描く美的感覚です。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,41 +14,41 @@ weight: 200
 toc: true
 ---
 
-Cyberparadism is a subgenre of Cyberprep and Post-Cyberpunk, combining cybernetic themes with aspects of paradise. This can be portrayed as a utopian society or a literal paradise, such as a Garden of Eden. It diverges from Cyberprep by not just focusing on the benefits of technological advancement, but also showcasing how technology has significantly altered economic principles and labor, encouraging the pursuit of higher goals in science, technology, civilization, and spirituality.
+サイバーパラダイズムは、サイバープレップとポストサイバーパンクのサブジャンルであり、サイバネティックなテーマと楽園的な要素を組み合わせています。これは、ユートピア的な社会やエデンの園など、文字通りの楽園として描かれることがあります。サイバープレップとは異なり、技術の進歩がもたらす利益だけでなく、経済原理や労働にも重要な影響を与えており、科学、技術、文明、精神的な高みへの追求を促しています。
 
-Societal structures in Cyberparadism reflect this pursuit, with highly interconnected small communities or dense urban pods working together towards common objectives, such as environmental conservation or scientific advancement. This cooperative emphasis is a distinguishing feature of Cyberparadism and is facilitated by the advanced technology of a post-scarcity society.
+サイバーパラダイズムにおける社会的な構造は、環境保護や科学の進歩など共通の目標に向けて協力している、高度に連携した小規模な共同体や密集した都市ポッドを反映しています。この協力の重視は、ポストスカーシティ社会の先進技術によって可能にされるサイバーパラダイズムの特徴です。
 
-In Cyberparadism, the paradisal aspect is more than an aesthetic, it is central to the philosophy of the subgenre. It envisions a future where technology enhances and safeguards the natural world, advocating a sustainable, fulfilling, and purposeful future. It refutes the notion that progress necessitates environmental degradation, instead proposing a harmonious coexistence of humans and nature.
+サイバーパラダイズムでは、楽園的な要素は単なる美的感覚以上に、このサブジャンルの哲学の中心的な要素です。これは、技術が自然界を向上させ、保護する未来を描いており、持続可能で充実した意義のある未来を提唱しています。進歩が環境の劣化を必然とするという考えを否定し、人間と自然の調和した共存を提案しています。
 
-In short, Cyberparadism is an aesthetic that merges nature, often tropical or jungle-like, with a small civilization utilizing advanced technology for survival or luxury, promoting a quasi-hedonistic lifestyle. It frequently explores themes such as genetic engineering, terraformation, and space frontiers.
+要するに、サイバーパラダイズムは、しばしば熱帯やジャングルのような自然と先進技術を生かした小規模な文明が生存や贅沢のために利用される美的感覚です。遺伝子工学、テラフォーミング、宇宙のフロンティアなどのテーマを頻繁に探求しています。
 
-## As an aesthetic
+## 美的感覚としてのサイバーパラダイズム
 
-An aesthetic refers to a distinctive style or appearance that characterizes a particular form of art, design, or culture. It often involves visual elements but can also include themes, values, and feelings associated with a specific era, group, or concept. As an aesthetic, Cyberparadism encapsulates a visual style, thematic elements, and a set of values that can be used to represent and communicate its underlying philosophy. It's not just about how a setting or a piece of art looks, but also what it represents and conveys.
+美的感覚とは、特定の形態の芸術、デザイン、文化を特徴づける独特なスタイルや外観を指します。これには視覚的な要素が含まれることが一般的ですが、特定の時代、グループ、または概念に関連するテーマ、価値観、感情も含まれることがあります。美的感覚としてのサイバーパラダイズムは、その基礎となる哲学を表現し伝えるために、視覚的なスタイル、テーマの要素、価値観のセットを取り込んでいます。見た目や芸術作品だけでなく、それが何を表し伝えるかも重要です。
 
-Visually, Cyberparadism often combines the elements of advanced technology with lush, untamed natural settings. This can include depictions of futuristic, high-tech cities nestled in a jungle, or small, minimalist societies that have used technology to live sustainably in harmony with nature. The imagery used in Cyberparadism often serves to highlight the coexistence of advanced technology and pristine nature, portraying a future where technology has allowed humans to live in harmony with the environment.
+視覚的には、サイバーパラダイズムは先進技術と豊かで未開の自然の要素を組み合わせることがよくあります。これには、ジャングルに囲まれた未来的なハイテク都市の描写や、テクノロジーを使って持続可能な生活を自然と調和させる小さなミニマリストの社会などが含まれます。サイバーパラダイズムのイメージは、先進技術と原始的な自然の共存を強調し、技術が人間が環境と調和して生活することを可能にした未来を描いています。
 
-Thematically, Cyberparadism explores positive use of technology, sustainable living, cooperation, and the pursuit of higher goals and pleasures in life. These themes are often reflected in the narratives, characters, and societies that are depicted within the Cyberparadism aesthetic.
+テーマ的には、サイバーパラダイズムは技術の積極的な利用、持続可能な生活、協力、高い目標と喜びの追求を探求します。これらのテーマは、サイバーパラダイズムの美的感覚の中で描かれる物語、キャラクター、社会によく反映されます。
 
-In terms of values, Cyberparadism promotes harmony with nature, technological progress for the betterment of society, and a balance between technological advancement and environmental preservation. It challenges the notion of progress at the expense of the environment, advocating instead for a future where technology and nature coexist and thrive together.
+価値観においては、サイバーパラダイズムは自然との調和、社会の改善のための技術の進歩、技術の発展と環境保護のバランスを促進します。環境を犠牲にして進歩するという考えに疑問を投げかけ、技術と自然が共存し繁栄する未来を提唱しています。
 
-Thus, as an aesthetic, Cyberparadism is a way of visualizing and embodying a specific set of themes and values. It's a tool for expressing a particular vision of the future—one that is technologically advanced, environmentally sustainable, and deeply fulfilling for its inhabitants.
+したがって、美的感覚としてのサイバーパラダイズムは、特定のテーマや価値観の具現化と視覚化の方法です。それは、技術的に先進し、環境的に持続可能で、住民にとって深い充実感を持つ未来のビジョンを表現するためのツールです。
 
-## Depiction in media
+## メディアでの描写
 
-There are a few movies that can be mentioned that each depict elements of the Cyberparadism aesthetic:
+以下に、サイバーパラダイズムの美的感覚の要素を描写したいくつかの映画があります。
 
-- "Jurassic World" (2015): In this movie, the theme park, which is filled with genetically engineered dinosaurs, is a prime example of the Cyberparadism aesthetic. The park represents an advanced use of technology, in this case genetic engineering, to recreate prehistoric life forms and coexist with them in a lush, tropical environment. It blends the untamed wilderness of the past with the high-tech reality of the present, making it a paradisal place despite the inherent dangers.
+- 「ジュラシック・ワールド」（2015年）：この映画では、遺伝子工学によって創り出された恐竜で満たされたテーマパークが、サイバーパラダイズムの美的感覚の一例です。このパークは、遺伝子工学を用いて史前の生物を再現し、豊かな熱帯環境で共存させるための先進技術の利用を表しています。過去の未開の荒野と現実のハイテクな世界を融合させ、危険が伴う場所でも楽園として描かれています。
 
-- "Elysium" (2013): The orbital ring-world Elysium depicts a different form of Cyberparadism. This space habitat is filled with beautiful landscapes, luxury homes, and highly advanced medical technology that can cure all diseases, representing a sort of utopia or paradise. However, the paradisal aspect is only available to the wealthy, leading to social inequality, which contradicts the egalitarian principles usually associated with Cyberparadism. Still, the aesthetic can be seen in the combination of advanced technology and an idyllic living environment.
+- 「エリジウム」（2013年）：軌道リングワールドのエリジウムは、異なる形態のサイバーパラダイズムを描いています。この宇宙生活圏は美しい景色、高級住宅、あらゆる病気を治療することができる高度な医療技術で満たされ、ユートピアや楽園のような存在です。しかし、この楽園的な要素は富裕層にのみ利用可能であり、サイバーパラダイズムと通常関連付けられる平等の原則とは矛盾しています。それにもかかわらず、先進技術と理想的な生活環境の組み合わせから美的感覚を感じることができます。
 
-- "Oblivion" (2013): In the beginning scenes of the movie, the protagonist lives in a high-tech tower above the clouds, with a stunning view of the earth below. This represents a form of Cyberparadism in the sense that he lives in a highly advanced dwelling, with sophisticated technology, above a desolate Earth. The harmony with nature is achieved by leaving nature thrive on its own having a habitats that are well isolated form nature and fusion energy generators deployed on top the oceans.
+- 「オブリビオン」（2013年）：映画の序盤のシーンでは、主人公が雲の上にそびえるハイテクなタワーに住み、地球を一望できる壮大な景色が広がっています。これは、荒廃した地球の上空に高度な技術を備えた居住施設があり、自然との調和を実現している形態のサイバーパラダイズムを表しています。自然が独自に繁栄し、海洋上に配置された融合エネルギー発電所と自然を十分に隔離した生息地が実現されています。
 
-## See also
+## 関連項目
 
-- [Wiki › Paradism]({{< relref "wiki/encyclopedia/paradism.md" >}})
+- [Wiki › パラダイズム]({{< relref "wiki/encyclopedia/paradism.md" >}})
 
-## External links
+## 外部リンク
 
-- [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
-- [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)
+- [サイバーパラダイズム | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
+- [サイバーパラダイズムマニフェスト | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)

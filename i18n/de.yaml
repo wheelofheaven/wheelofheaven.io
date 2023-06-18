@@ -24,3 +24,6 @@
 
 - id: see-here
   translation: "Siehe hier"
+
+- id: alternative-names
+  translation: "Alternative Namen:"

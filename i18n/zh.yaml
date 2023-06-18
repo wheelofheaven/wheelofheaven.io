@@ -24,3 +24,6 @@
 
 - id: see-more
   translation: "看这里"
+
+- id: alternative-names
+  translation: "替代名称："

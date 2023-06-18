@@ -1,7 +1,7 @@
 ---
-title: "シナリオ"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+title: "舞台設定"
+description: "Wheel of Heavenは、地球上の生命が所謂エロヒムという地球外文明により知的に設計されたという仮説を探求する知識ベースです。"
+excerpt: "Wheel of Heavenは、地球上の生命が所謂エロヒムという地球外文明により知的に設計されたという仮説を探求する知識ベースです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,182 +13,182 @@ weight: 120
 toc: true
 ---
 
-If you have made it this far, it is clear that you are seeking to understand the reason for the existence of this website. We are thrilled to embark on this thought-provoking journey with you, one that may be life-altering or at the very least, provide a newfound appreciation for expanding your mind. Get ready for an adventure that takes us from the foundations of civilization, through the beginning of history and up to present day, focusing on the most crucial events that have shaped our world. As with all grand narratives, let us broaden our perspective and establish some assumptions and considerations upon which our hypothesis is based. Buckle up, you're in for a ride!
+ここまでたどり着いたあなたは、このウェブサイトの存在理由を理解しようとしていることは明らかです。我々は、あなたと一緒にこの考えを刺激する旅を始めることに興奮しています。この旅は、人生を変えるかもしれない、または少なくとも、あなたの心を広げる新たな価値観を提供するかもしれません。文明の基礎から歴史の始まり、現代まで、そして私たちの世界を形成してきた最も重要な出来事に焦点を当てた冒険に備えてください。すべての壮大な物語と同様に、我々の視点を広げ、我々の仮説が基づくいくつかの前提と考慮事項を確立しましょう。シートベルトを締めて、楽しい旅に出発しましょう！
 
-{{< figure src="images/ancient-monuments-sunset.png" caption="Ill. 1 - Ancient monuments in sunset light" >}}
+{{< figure src="images/ancient-monuments-sunset.png" caption="図1 - 日没時の古代遺跡" >}}
 
-## Opening considerations
+## 序論
 
-The purpose of this write-up is to provide a foundation for our thoughts and establish a framework for exploring the premises that follow. These considerations serve as the building blocks for a comprehensive understanding of the narrative.
+このライトアップの目的は、我々の思考の基盤を提供し、後に続く前提を探求するための枠組みを確立することです。これらの考慮事項は、物語の包括的な理解を得るための構築ブロックとして機能します。
 
-When building a case for a narrative like the one we're about to explore, it is essential to begin with a careful examination of the underlying premises that form the foundation of the story. This analytical approach enables a deeper understanding of the fundamental assumptions and ideas that shape the narrative. Once these premises are clearly grasped, their implications can be explored, as well as the broader themes and concepts that emerge from them.
+私たちがこれから探求するような物語の根拠を構築する際には、物語の基盤を形成する基本的な前提の慎重な調査から始めることが不可欠です。この分析的アプローチにより、物語を形成する基本的な前提と考え方の深い理解が可能となります。これらの前提が明確に理解されれば、その含意を探求し、それらから生まれるより広範なテーマと概念も探求できます。
 
-In other words, the process involves breaking down the narrative into its core components, critically assessing their validity and coherence, and then using this understanding to develop a well-structured analysis or interpretation that encompasses the narrative's wider context and significance. This method not only helps to clarify one's perspective on the story but also allows for a more compelling and transparent presentation of the case to new comers. The full picture will only start to emerge once you have taken in all aspects of the narrative. The underlying common denominator of everything written down on _Wheel on Heaven_ is the assumption of the narrative.
+言い換えれば、このプロセスは、物語をその核となる成分に分解し、それらの妥当性と一貫性を批判的に評価し、その理解を用いて物語の広範な文脈と意義を包括するよく構造化された分析や解釈を開発することを含みます。この方法は、物語に対する自身の視点を明確にするだけでなく、新たな参加者に対してより魅力的で透明なケースの提示を可能にします。全体像は、物語のすべての側面を理解した後でしか出現しません。Wheel on Heavenに書かれているすべてのものの基本的な共通分母は、物語の前提です。
 
-The journey we embark on is not unlike the historical journey of discovering a more favorable route for trade. Just as that journey led to the rediscovery of a new world that changed the status quo, our exploration of ideas may lead to similar breakthroughs. And let us recall that the world was already known to be spherical at that moment in time (yes, ellipsoidal is more accurate), and yet they collectively failed to consider the possbility of the existence of another unknown new world possibly as massive and populous as their own known old world.
+我々が始める旅は、より好ましい貿易路を発見するための歴史的な旅に似ていません。その旅がステータスクォを変える新しい世界の再発見につながったのと同じように、我々のアイデアの探求も同様のブレークスルーにつながるかもしれません。そして、その時点で世界はすでに球体であることが知られていました（はい、楕円体がより正確です）、しかし彼らは集団的に、自分たちが知っている古い世界と同じくらい大きく、人口が多い可能性のある新しい未知の世界の存在の可能性を考慮しませんでした。
 
-This analogy serves as a reminder to approach our established beliefs with humility and not take them too seriously. The challenge to consider worlds beyond the preconceptions of our imagination has been a constant in known history. Let's start with the proper characterization of what encompasses us all - the speculative realm of outer space. This may come off as a surprise to some, but the context everything eventually is embedded in is indeed outer space. To avoid losing our footing and maintain a rational approach to the impossible, we must maintain some level of humility in our evaluation of the narrative ahead.
+この比喩は、我々が確立した信念を謙虚に接し、それをあまり深刻に受け取らないようにするためのリマインダーとして機能します。私たちの想像力の先入観を超えた世界を考える挑戦は、既知の歴史の中で一貫して存在してきました。我々を取り巻くすべてのものの適切な特性づけから始めましょう - 外宇宙の推測領域。これは一部の人々にとっては驚きかもしれませんが、すべてが最終的に埋め込まれる文脈は実際には外宇宙です。足元を見失わず、不可能なことに対して合理的なアプローチを維持するためには、物語の評価にあたって一定の謙虚さを保つ必要があります。
 
-### Nothing seems impossible anymore
+### もはや何も不可能ではない
 
-As we navigate the vast, uncharted waters of astronomical research and interplanetary exploration—still nascent fields by human standards—we must remember the landscape of our past is strewn with errors and ill-conceived assumptions. This is not to belittle our strides in knowledge and technology, but a humble reminder to tread carefully, to recognize our fallibility, and to guard against the pitfall of overconfidence.
+我々が天文研究や惑星間探査の広大で未開の海を航行する中で、これらは人間の基準から見てまだ新しい領域であることを覚えておかなければならない。私たちの過去の景色は、誤りや誤解された仮定で満ちています。これは、私たちの知識と技術における躍進を小さく見せるためではなく、慎重に歩み、私たちの誤りを認識し、過信の落とし穴を警戒することを謙虚に思い出させるためのものです。
 
-In the grand scheme of scientific discovery, it's crucial to separate the realms of scientific fact from the domain of science fiction, the "science fictive".[^1] Rather than taking societal conventions as gospel, we must learn to expand our horizons, to question, to challenge. By doing so, we not only sidestep the blunders of the past but also broaden our comprehension of life's mysteries. By doing so, we can hope to avoid making the same mistakes of the past and continue advancing in our understanding of what makes up life. Human progress as understood in being but one inhabited planet known throughout the vastness of space is what we identify as one of the most pertinent question of the human condition. This frame of reference transcends most if not all aspects of the human experience.
+科学的発見の大局的な視点では、科学的事実と「サイエンス・フィクティヴ」[^1]と呼ばれるサイエンスフィクションの領域を区別することが重要です。社会的な慣習を絶対的な真理として受け入れるのではなく、我々は視野を広げる、問い、挑戦することを学ばなければなりません。そうすることで、我々は過去の失敗を回避するだけでなく、生命の神秘についての理解を広げます。そうすることで、過去の同じ間違いを繰り返すことを避け、生命を形成するものについての理解を進めていくことができます。人間の進歩とは、宇宙の広大さの中で唯一知られている居住惑星であるという理解におけるものであり、これは人間の状態に関する最も関連性の高い問いの1つとして我々が特定しています。この参照枠は、人間の経験のほとんどすべて、あるいはすべての側面を超えています。
 
-A quintessential question of the human condition is the existence of life beyond Earth. This query, this deep yearning for companionship in the cosmos, is a thread that weaves through the very fabric of our human experience. It implores us to look beyond our immediate surroundings, to contextualize our existence within the grand cosmic tapestry.
+人間の状態に関する典型的な問いは、地球以外の生命の存在です。この問い、宇宙での同伴者への深い渇望は、我々の人間体験の布の中を織りなす糸です。それは我々に、直接的な周囲を見越して、我々の存在を壮大な宇宙のタペストリーの中に位置づけることを求めます。
 
-Our odyssey into the cosmos, steered by the fields of modern astronomy, space science, and astrophysics, continues to reshape our perception of what it means to be human. While much of astrophysical insight rests on the bedrock of computational guesswork and a multitude of assumptions, the staggering scale of the cosmos remains an indisputable fact.[^2]
+現代の天文学、宇宙科学、天体物理学の分野によって舵取りされる我々の宇宙へのオデッセイは、人間であるとは何かという我々の認識を再形成し続けています。天体物理学の洞察の多くは計算による推測と多くの仮定に基づいていますが、宇宙の驚異的な規模は否応なく事実です。[^2]
 
-Estimates suggest our observable universe is a cosmic ensemble of 200 billion to 2 trillion galaxies, each a magnificent orchestration of a few million to trillions of stars. The sheer number of these luminous celestial bodies hints at an unimaginable abundance of potential homes for life.[^3]
+推計によれば、我々が観測可能な宇宙は2000億から2兆の銀河系の宇宙的なアンサンブルであり、それぞれが数百万から数兆の星の壮麗な演奏です。これらの輝かしい天体の数の多さは、生命の潜在的な住処の数が計り知れないほど豊富であることを示唆しています。[^3]
 
-In this cosmic backdrop, the implications of the space age take on an even more profound significance. The dawn of this era heralded an evolutionary leap for our species, an epochal shift from terrestrial dwellers to cosmic explorers. Fueled by relentless scientific progress and technological innovation, we've started to overcome the formidable barriers of space travel, despite it still being in its embryonic stage.
+この宇宙的な背景において、宇宙時代の意味合いはさらに深遠な意義を持つようになります。この時代の夜明けは、我々の種の進化的な飛躍を告げ、地球の住人から宇宙の探検家へと大変革をもたらしました。絶え間ない科学的進歩と技術革新によって燃え上がった我々は、まだその初期段階にある宇宙旅行の難題を克服し始めています。
 
-This is the setting that the subsequent considerations are going to build upon. What's more is the dawn of the space age marked a pivotal moment in human history, as our species ventured beyond Earth's confines and set out to explore the vastness of the cosmos. This monumental journey began with a series of scientific advancements and technological innovations that enabled us to conquer the challenges of space travel, despite its infancy. Nothing seems impossible anymore. Everything seems so that only a little ingenuity and resolution is needed to reach for the stars.
+これが、以降の考察が構築するための設定です。さらに、宇宙時代の夜明けは、人間の歴史の中で画期的な瞬間を印象付けました。我々の種が地球の限界を超えて広大な宇宙を探検し始めた瞬間です。この壮大な旅は、宇宙旅行の挑戦を克服するための一連の科学的進歩と技術革新によって始まりました。もはや何も不可能ではないと思えます。すべてが、星に手を伸ばすためには少しの工夫と決断力が必要だと思えます。
 
-In this awe-inspiring vista of cosmic exploration, nothing seems beyond our reach. We stand poised on the precipice of a new age, one that holds the promise of the stars. Yet, as we extend our reach into the cosmos, we must also extend our understanding, armed with humility and curiosity, ready to question, ready to learn, and ready to marvel at the wonders the universe holds in store for us.
+この宇宙探査の畏敬の念を起こさせる景観の中では、何も我々の手の届かないところにはありません。我々は新しい時代の入口に立ち、星々の約束を抱いています。しかし、我々が宇宙へと手を伸ばすにつれて、謙虚さと好奇心を武器に、理解を広げ、問い、学び、宇宙が我々に用意している驚異に驚く準備をしなければなりません。
 
-[^1]: "Science fictive", an idiom commonly used by Jean Sendy in his many publications. Fictional science refers to the notion that many concepts of science-fiction has been incorporated in the popular thought of science and vice-versa. In this context, it should be understood that many grand narratives that are commonly understood to be flagship insights of contemporary scientific inquiry such as anthropologial climate change, the physical theory of Big Bang or Evolution-induced abiogenesis are down-the-line best characterized as _fictional_ in the same vein as Flat Earth has historically devolved from a popular belief endorsed by an authoritative quasi-scientific institution into oblivion.
+[^1]: "Science fictive"という言葉は、Jean Sendyが多くの出版物でよく使っていました。フィクション科学は、多くのサイエンスフィクションの概念が一般の科学の思想に取り込まれ、その逆もまた然り、という概念を指しています。この文脈では、人類の気候変動、ビッグバンの物理学的理論、進化による自然発生など、現代の科学的探求の旗印とされる多くの壮大な物語が、最終的には平らな地球が一般的な信念から権威ある準科学的機関によって認められたものから過去のものとなったのと同じように、_フィクション_として最もよく特徴づけられるべきであると理解するべきです。
 
-[^2]: No matter how sophisticated and well calculated the approximation of a given astronomical distance is, we have yet to traverse that distance to ultimately confirm the distance itself.
+[^2]: どれほど洗練され、よく計算された天文学的距離の近似があっても、その距離を確認するために最終的にその距離を渡ることはまだありません。
 
-[^3]: It is impossible to provide an exact number of stars in the entire universe, as our knowledge is limited to the observable universe, which is a fraction of the total cosmos. The observable universe has an estimated 93 billion light-years in diameter, while the total universe might be much larger or even infinite. A rough estimate suggests there could be around 200 sextillion (2 x 10^23) stars in the observable universe. However, it is important to note that these numbers are only approximations and are based on our current understanding of the cosmos, which is continually evolving as we gather more information through advancements in astronomical observation and research.
+[^3]: 宇宙全体の星の数を正確に提供することは不可能であり、我々の知識は観測可能な宇宙、すなわち全宇宙の一部に限られています。観測可能な宇宙の直径は約930億光年と推定されていますが、全宇宙はそれよりもはるかに大きいかもしれず、また無限かもしれません。大まかな推計によれば、観測可能な宇宙には約200 sextillion (2 x 10^23) の星がある可能性があります。しかし、これらの数字は現在の宇宙の理解に基づいているだけであり、天文観測と研究の進歩によって更なる情報を収集することで絶えず進化していることを注意すべきです。
 
-### Cosmic Serendipity: The Enigma of Life Beyond Earth
+### 宇宙的な偶然: 地球を超えた生命の謎
 
-The prospect of life beyond the confines of our celestial home has captivated our collective curiosity for centuries. It is an enigma that has not only stoked the fires of our scientific endeavor but has also sparked our wildest imaginings. In the absence of definitive proof of extraterrestrial life, we find ourselves embarking on a journey of speculation, attempting to unravel the intricate matrix of conditions that could make life possible beyond Earth.
+地球という星の家から越えて生命が存在する可能性は、何世紀もの間、私たちの集団的な好奇心を魅了してきました。これは、私たちの科学的な努力を刺激し、最も野放図な想像力を呼び起こすだけでなく、謎でもあります。地球外生命の決定的な証拠がない中で、私たちは地球を超えた生命が可能となる複雑な条件の行列を解きほぐす、憶測の旅に出発しています。
 
-In our pursuit, we recognize water as a sine qua non of life[^water]. Known as the universal solvent, water serves as the medium in which the symphony of biological processes unfolds. Thus, the detection of this precious liquid in its most habitable form, liquid, on any celestial body, significantly amplifies the odds of discovering life there.
+私たちの追求の中で、私たちは水を生命のsine qua non[^water]と認識しています。水は生物学的なプロセスの交響曲が繰り広げられる媒体として機能する普遍的な溶媒として知られています。したがって、水が最も住みやすい形態、すなわち液体として天体で検出されると、そこに生命が存在する可能性は大幅に増大します。
 
-Beyond the indispensable requirement of water, life demands an environment that walks a delicate balance between dynamism and stability. It requires a safe haven that can shield it from the harsh cosmic realities, yet provide a stage robust enough for the grand play of evolution. This necessitates a stable climate, a protective atmosphere, and a reliable energy source such as a star, capable of sustaining life's incessant dance.
+水という必須の要求に加えて、生命はダイナミズムと安定性の間で微妙なバランスを歩む環境を求めます。それは、厳しい宇宙の現実から生命を保護する安全な避難所を必要とし、それでも大進化の劇を繰り広げるために十分に強靭なステージを提供する必要があります。これには、安定した気候、保護的な大気、そして生命の絶え間ないダンスを維持する能力を持つ星などの信頼できるエネルギー源が必要となります。
 
-We must also consider the role of organic compounds, life's building blocks. These intricate molecules, given the right environment, could be synthesized on a planet itself or delivered by celestial stowaways such as comets or meteorites. Once these building blocks are assembled, the stage is set for the grand spectacle of life to begin.
+また、生命の構成要素である有機化合物の役割も考慮する必要があります。これらの複雑な分子は、適切な環境があれば、惑星自体で合成されるか、彗星や隕石などの天体によって運ばれることができます。一旦これらの構成要素が組み立てられれば、生命の壮大なスペクタクルが始まるための舞台が設定されます。
 
-Our cosmic companion, the star around which a planet orbits, also plays a vital role in determining the prospects for life. The star needs to have a Goldilocks quality – not too hot, not too cold, not too volatile, but just right – providing consistent heat and energy essential for life to flourish.
+我々の宇宙の伴侶である、惑星が公転する星も、生命の可能性を決定する上で重要な役割を果たします。星にはゴールディロックスの品質が必要です - 過熱でも過冷却でもなく、過度に変動性があるわけでもなく、ちょうど良い - 生命が繁栄するために必要な一貫した熱とエネルギーを提供します。
 
-Lastly, life as complex and intelligent as us might owe its existence to a series of serendipitous cosmic events. Perhaps it requires the fortuitous formation of a large moon to stabilize the planet's axial tilt, maintaining a climate congenial for life. Maybe the presence of a guardian gas giant, with its gravitational might, shielding the planet from destructive impacts is a necessity. Or, it could be that a planet requires a long and eventful geological history to orchestrate the grand evolutionary ballet that gives rise to intelligent life.
+最後に、我々のように複雑で知性を持った生命は、一連の偶然な宇宙的な出来事にその存在を負っているかもしれません。おそらく、生命に好適な気候を維持するために、惑星の軸の傾きを安定化する大きな月の幸運な形成が必要であるかもしれません。もしくは、破壊的な衝突から惑星を守る重力の力を持つガス巨大星の存在が必要であるかもしれません。あるいは、知性を持つ生命を生み出す壮大な進化のバレエを指揮するために、長いかつ多事な地質学的な歴史が必要であるかもしれません。
 
-This, then, is the delicate balance, the confluence of precise factors, that makes our existence possible. It's a cosmic serendipity that seems nothing short of miraculous. Is it possible that such miraculous serendipity has repeated itself in the vast cosmic ocean, giving birth to other islands of life? We stand at the threshold of this grand mystery, our eyes turned skyward, waiting for the whispers from the cosmos that we are, indeed, not alone.
+これが、我々の存在を可能にする微妙なバランス、正確な要素の合流です。それは何もかもが奇跡的に思える宇宙的な偶然です。この奇跡的な偶然が広大な宇宙の海で自己を繰り返し、他の生命の島を生んだ可能性はあるのでしょうか？我々はこの壮大な謎の閾値に立ち、目を天に向けて、我々が確かに孤独でないという宇宙からのささやきを待っています。
 
-[^water]: The phrase sine qua non is Latin for “without which not.” When something is described as sine qua non, it is a necessary or indispensable requirement. In this case, water is indispensable for life to exist in a given place.
+[^water]: "sine qua non"というフレーズはラテン語で「それなくしてはならない」という意味です。何かがsine qua nonとして説明されるとき、それは必要かつ不可欠な要求であるということです。この場合、特定の場所で生命が存在するためには水が不可欠です。
 
-### The Enigma of Infinite Space
+### 無限の宇宙の謎
 
-The vast expanse of the cosmos, the pulsating stars that pierce the veil of the night sky, the silent majesty of countless galaxies and nebulae; they all paint an awe-inspiring, if not humbling, portrait of our universe. In the face of such immeasurable grandeur, it becomes difficult, almost irreverent, to believe that we are the sole sentient inhabitants of this cosmic symphony.
+広大な宇宙、夜空のヴェールを突き破る脈打つ星々、無数の銀河や星雲の静かな威厳; それら全てが、私たちの宇宙に対する畏敬の念を抱かせ、あるいは謙虚にさせる肖像画を描き出しています。これほどの測り知れない壮大さの前では、私たちがこの宇宙の交響曲の唯一の感情を持つ住民であると信じることが困難で、あるいは無礼に感じられます。
 
-Within our current technological capability, there are approximately 100 billion galaxies in the observable universe, each brimming with billions, if not trillions, of stars. When we factor in the recently discovered multitude of exoplanets, many of which reside in the habitable zones of their stars, the possibilities of finding life-supporting conditions appear staggering. To assume that Earth is the only theatre of life in such an infinite cosmic stage seems almost audacious, given the vast scales at play.
+現在の技術力では、観測可能な宇宙には約1千億個の銀河があり、そのそれぞれが何十億という星々で溢れています。最近発見された多数の太陽系外惑星を考慮に入れると、その多くがその星々の居住可能な地帯に存在しており、生命を支える条件を見つける可能性は驚くべきものとなります。これほどの無限の宇宙の舞台で地球だけが生命の劇場であると仮定することは、広大なスケールを考慮に入れると、ほぼ大胆とも言えます。
 
-The [Drake equation]({{< relref "wiki/encyclopedia/drake-equation.md" >}}), formulated by astrophysicist Frank Drake, offers an enticing glimpse into the probabilistic nature of extraterrestrial life. Though it's not an equation in the traditional sense, the Drake equation is more of a framework, a tool for pondering over the multitude of variables that could lead to the existence of intelligent, communicative life forms in our galaxy. It provides a tantalizing possibility that there might be thousands, if not millions, of civilizations out there, broadcasting their existence to the cosmos.
+物理学者フランク・ドレイクによって提唱された[ドレイクの方程式]({{< relref "wiki/encyclopedia/drake-equation.md" >}})は、地球外生命の確率的な性質を垣間見る魅力的な機会を提供します。ドレイクの方程式は伝統的な意味での方程式ではなく、むしろ我々の銀河における知的でコミュニケーションを取り合う生命体の存在につながるであろう多数の変数を考えるためのフレームワーク、ツールです。それは、何千、あるいは何百万もの文明が自分たちの存在を宇宙に伝えているかもしれないという、興奮する可能性を提供します。
 
-> The importance of the Drake Equation is not in the solving, but rather in the contemplation. It was written not for purposes of quantification at all, but rather as the agenda for the world's first SETI meeting, in Green Bank WV in 1961. It was quite useful for its intended application, which was to summarize all the various factors which scientists must contemplate when considering the question of other life.
+> ドレイクの方程式の重要性は解くことにあるのではなく、むしろ考察にある。それは量を定義する目的で書かれたものではなく、1961年にウェストバージニア州のグリーンバンクで開催された世界初のSETI会議の議題として書かれました。それは、他の生命の問題を考える際に科学者が考察しなければならない様々な要素をまとめるという、意図した適用に対して非常に役立ちました。
 >
-> Dr. Frank Drake (from [Ask Dr. SETI | Chapter 3: Philosophy](http://www.setileague.org/askdr/drake.htm))
+> フランク・ドレイク博士（[Ask Dr. SETI | Chapter 3: Philosophy](http://www.setileague.org/askdr/drake.htm)より）
 
-In the same chapter, Dr. Franke Drake goes on to say the following sentence:
+同じ章で、ドクター・フランケ・ドレイクは次のように述べています：
 
-> For the record, I consider the Drake Equation to be a marvelous tool for quantifying our ignorance.
+> 確認のために言っておくと、私はドレイクの方程式を我々の無知を数値化する素晴らしいツールと考えています。
 
-Yet, it's crucial to remember Dr. Drake's own interpretation of his formula: "The importance of the Drake Equation is not in the solving, but rather in the contemplation." It's not a crystal ball revealing the exact number of extraterrestrial civilizations but a mirror that reflects our profound ignorance about the universe.
+しかし、ドレイク博士自身のその公式の解釈を覚えておくことが重要です："ドレイクの方程式の重要性は解くことにあるのではなく、むしろ考察にある。"それは地球外文明の正確な数を明らかにする結晶玉ではなく、我々が宇宙について深く無知であることを映し出す鏡です。
 
-This sentiment finds echo in the concept of the "cosmic haystack." The term, metaphorically alluding to the classic needle in a haystack conundrum, is used to highlight the daunting challenge that space's vastness poses in our quest for extraterrestrial intelligence. The idea is simple: space is so incredibly vast that even if intelligent civilizations abound, finding them or their signals is akin to finding a single specific straw in an enormous stack of hay.
+この感情は"宇宙の干し草山"という概念に共感を見つけます。この言葉は、比喩的に干し草山の中の針の問題を示しており、我々が地球外知性の探求において宇宙の広大さが提起する恐ろしい挑戦を強調しています。その考え方は単純です：宇宙はとても広大で、たとえ知的な文明が溢れていても、それらやその信号を見つけることは、巨大な干し草山の中から一本特定のわらを見つけることに似ています。
 
-Consider this; light from the closest star to our sun, Proxima Centauri, takes more than four years to reach us[^light]. That's the nearest star! When we scale up to galaxies, clusters, and superclusters, the distances become so mind-bogglingly large that the idea of stumbling upon an extraterrestrial signal starts to seem less like a science endeavor and more like winning a cosmic lottery.
+これを考慮に入れてみてください。私たちの太陽に最も近い星からの光、プロキシマ・ケンタウリから、私たちに届くまでに4年以上かかります[^light]。それが最も近い星です！それを銀河、クラスター、スーパークラスターにスケールアップすると、距離があまりにも大きすぎて、地球外の信号に偶然出くわすという考え方は、科学的な取り組みよりも宇宙の宝くじを当てることにより似てきます。
 
-Nevertheless, our ignorance should not breed despair but rather kindle curiosity. The universe, in all its infinite glory, beckons us to explore, to seek, to question. The vastness of space, rather than discouraging us, should serve as a humbling reminder of our place in the cosmos and an inspiration to explore its endless mysteries. As long as the stars shimmer in the night sky, the hypothesis of extraterrestrial intelligence will continue to captivate our collective imagination, prompting us to delve deeper into the cosmic abyss in our quest for cosmic companionship.
+それにもかかわらず、我々の無知は絶望を生むべきではなく、むしろ好奇心を掻き立てるべきです。無限の栄光の中で、宇宙は我々に探求、探求、問いかけることを求めています。宇宙の広大さは、我々を落胆させるのではなく、我々の宇宙における位置を謙虚に思い出させ、その終わりない神秘を探求するためのインスピレーションとなるべきです。星が夜空で輝き続ける限り、地球外知性の仮説は我々の集合的な想像力を魅了し続け、我々を宇宙の深淵に深く探求させるために我々を促します。
 
-[^light]: A distance that has yet to be confirmed by empirical data. This could be achieved by undertaking an actual space travel leaving Earth and actually landing on the shores of the sun system of Proxima Centauri.
+[^light]: これは実際の宇宙旅行を開始し、地球を離れ、プロキシマ・ケンタウリの太陽系の海岸に実際に着陸することによって実証されるべき距離であり、まだ実証されていません。
 
-### Unraveling the Tapestry of Ancient Memories
+### 古代の記憶のテープストリーを解きほぐす
 
-Humanity's shared history is a richly woven tapestry of myth, mystery, and memory that stretches back to the dawn of consciousness itself. It is a grand tale of our struggle to understand the enigmatic cosmos that unfolds above us, a narrative that has birthed a dazzling array of spiritual traditions, each with its unique metaphoric cosmology. Yet, amidst their diversity, there is a shared thread that binds them together - tales of divine entities, superior beings often revered as gods.
+人類の共有する歴史は、神話、神秘、記憶の豊かに織りなされたテープストリーであり、それは意識の黎明まで遡ります。それは我々が上空で繰り広げられる謎めいた宇宙を理解しようとする闘争の壮大な物語であり、各々が独自の比喩的宇宙論を持つ鮮やかな精神的伝統を生み出した物語です。しかし、その多様性の中にも、神聖な存在、しばしば神として崇められる優れた存在の物語という共有の糸が彼らを繋いでいます。
 
-But what if these divine figures, these 'gods,' were not merely abstract symbols or metaphysical constructs? What if they were corporeal entities, not of this Earth, whose advanced knowledge and technology left an indelible mark on our ancestors? This seemingly radical idea, when examined more closely, starts to weave an intriguing pattern.
+しかし、これらの神聖なフィギュア、これらの「神々」が単なる抽象的なシンボルや形而上学的な構造物でなかったとしたらどうでしょうか。彼らが地球外の実体であり、その高度な知識と技術が我々の祖先に深い印象を残したとしたらどうでしょうか？この一見すると過激な考えも、より詳しく見ていくと興味深いパターンを描き始めます。
 
-The epic narratives of our collective past are replete with stories of incredible flying chariots, weapons capable of cataclysmic destruction, and god-like beings bestowing knowledge that seems strangely advanced for their epochs. Are these simply the imaginative creations of our ancestors, steeped in the language of metaphor and hyperbole? Or could they be cryptic chronicles of real events, veiled accounts of advanced extraterrestrial technology?
+我々の集合的な過去の壮大な物語は、驚くべき飛行戦車、壊滅的な破壊を引き起こす能力を持つ武器、その時代にしては異常に進んだ知識を授ける神のような存在の話で満ちています。これらは我々の祖先の想像力の産物で、隠喩や誇張の言語に浸っているだけでしょうか？それとも、これらは実際の出来事の暗号化された年代記であり、先進的な地球外技術の隠された記録なのでしょうか？
 
-Take, for example, the Vimanas described in the ancient Indian epic Mahabharata - flying machines capable of astonishing feats, spewing fire and thunder. Similarly, the Bible's Book of Ezekiel recounts the prophet's vision of a celestial chariot composed of wheels within wheels, descending from the heavens, a spectacle that resonates eerily with modern UFO reports.
+例えば、古代インドの叙事詩マハーバーラタに記述されているヴィマナを考えてみてください - 火と雷を吹き出す、驚くべき技を持つ飛行機。同様に、聖書のエゼキエル書は、天から降りてくる、車輪の中の車輪から成る天上の戦車のビジョンを預言者が語っており、それは現代のUFO報告と不気味なほど共鳴します。
 
-Moreover, these narratives aren't confined to one culture or epoch. From the ancient Sumerians, who believed their gods, the Anunnaki, hailed from the heavens, to the Dogon people of Mali, whose traditional cosmology includes knowledge of the Sirius star system's complexities that baffled modern astronomers, we find recurring themes of celestial beings and their wondrous technologies.
+また、これらの物語は一つの文化や時代に限定されているわけではありません。天から来たと信じられている神々、アヌンナキを信じていた古代のシュメール人から、シリウス星系の複雑さについての知識を伝統的な宇宙論に含んでいるマリのドゴン人まで、天上の存在とその驚くべき技術のテーマが繰り返されています。
 
-This begs the question - are these stories mere myth or memory? Are we unconsciously carrying the echoes of our extraterrestrial ancestors in the sacred stories we pass down through generations?
+これは問いを投げかけます - これらの物語は単なる神話なのか、それとも記憶なのか？我々は世代を超えて伝えられる聖なる物語の中に、地球外の祖先の反響を無意識に持っているのでしょうか？
 
-Critics might dismiss this as an exercise in fanciful thinking, an attempt to romanticize our past with the sheen of science fiction. Yet, one can't help but wonder if we're dismissing too quickly, driven by modern arrogance. As Arthur C. Clarke's third law states, "Any sufficiently advanced technology is indistinguishable from magic." Perhaps, what our ancestors perceived as divine was simply technology far beyond their understanding.
+批評家はこれを空想的な思考の運動として退けるかもしれません、過去をSFの光沢でロマンチックに見せる試みとして。しかし、我々があまりにも早く退けてしまっているのではないかと思わずにはいられません、現代の傲慢さに駆られて。アーサー・C・クラークの第三の法則によれば、「十分に高度な技術は、魔法と見分けがつかない」。おそらく、我々の祖先が神聖と捉えていたのは、単に彼らの理解を超えた技術だったのかもしれません。
 
-What if we are not trying to impose a science fiction narrative onto our past, but rather, are attempting to decode a science factual past that's been woven into our myths and legends, a past where our ancestors were not merely spectators of celestial miracles, but active participants in a grand cosmic drama, a drama that shaped the course of our species' evolution?
+我々が過去にSFの物語を押し付けようとしているのではなく、むしろ、我々の神話と伝説に織り込まれた科学的な事実の過去を解読しようとしているのではないでしょうか？我々の祖先が天上の奇跡のただの観察者でなく、我々の種の進化の道筋を定める壮大な宇宙のドラマの活発な参加者であった過去、それは何でしょうか？
 
-### What do the scriptures say?
+### 聖典は何を語っているのか？
 
-Before exploring the reinterpretation possibilities proposed by Jean Sendy and Mauro Biglino, let us delve deeper into the fundamental material of our discussion: the scriptures. These texts, dated thousands of years back, carry profound religious and cultural significance and have shaped our moral, ethical, and spiritual understanding of the world around us. The question we pose today is not about their historical relevance or the inherent wisdom they hold, but rather about their potential misinterpretation over the centuries. Is it plausible that the truths they convey have been misconstrued, or even lost, due to interpretive variances?
+ジャン・サンディとマウロ・ビグリノの再解釈の可能性を探る前に、まず我々の議論の基本的な素材、すなわち聖典を深く掘り下げてみましょう。これらのテキストは何千年も前のもので、深い宗教的、文化的意義を持ち、我々の道徳的、倫理的、精神的な世界の理解を形成してきました。今日我々が問いかけるのは、彼らの歴史的な関連性や彼らが持つ内在的な知恵についてではなく、むしろ何世紀にもわたる可能性のある誤解釈についてです。それらが伝える真実が解釈の違いにより誤解され、あるいは失われた可能性はあるのでしょうか？
 
-The scriptures, encompassing a multitude of ancient texts like the Bible, Torah, and others, are a goldmine of stories, teachings, and descriptions of divine interactions with humanity. These texts have been studied and examined extensively by scholars, theologians, and philosophers who have derived a plethora of interpretations and understanding of these narratives. Yet, the exegesis and interpretations have often been shaped by the prevalent socio-cultural context, theological doctrines, and individual perspectives. This can raise questions about the fidelity of our contemporary understanding to the original intentions of the ancient scribes.
+聖典は、聖書、トーラーなどの多数の古代のテキストを含み、物語、教え、人間と神々との交流の描写の宝庫です。これらのテキストは学者、神学者、哲学者により広範に研究・検討され、これらの物語から多くの解釈と理解を導き出してきました。しかし、解釈や解説はよくその時代の社会文化的な文脈、神学的な教義、個々の視点によって形作られています。これは、現代の我々の理解が古代の筆者の元々の意図に忠実であるかどうかについて疑問を投げかけることができます。
 
-Moreover, it's important to recognize that these texts were written in languages and dialects vastly different from modern ones, leading to potential ambiguities and inaccuracies during translation. Words and idioms in one language might not have exact equivalents in another, which might lead to a shift in the nuances and meaning of the text when translated. In addition to this, the evolution of languages over time and the possible extinction of certain words or phrases could complicate our understanding of these ancient texts.
+また、これらのテキストが書かれた言語と方言は現代のものとは大きく異なり、翻訳時に曖昧さや不正確さが生じる可能性があることを認識することは重要です。一つの言語の単語や成句が他の言語に正確に相当するものを持たない場合、テキストのニュアンスや意味が翻訳される際に変化する可能性があります。これに加えて、時間の経過に伴う言語の進化や特定の単語やフレーズの消滅可能性が、これらの古代のテキストの理解を複雑にするかもしれません。
 
-Beyond linguistic concerns, the historical and cultural context in which these scriptures were written also play a crucial role in their interpretation. Every culture and society has its unique belief system, values, traditions, and symbols that influence its literature. The authors of these scriptures wrote them within a specific cultural milieu which may be vastly different from ours today. This difference can lead to a gap in our understanding of the cultural references, metaphors, and symbols used in the texts.
+言語の問題を超えて、聖典が書かれた歴史的、文化的な文脈もその解釈に重要な役割を果たします。すべての文化や社会は独自の信念体系、価値観、伝統、象徴を持ち、それがその文学に影響を与えます。これらの聖典の著者たちは特定の文化的な環境の中でそれらを書き、それは今日の我々のものと大きく異なる可能性があります。この違いは、テキストで使われている文化的な参照、隠喩、象徴を理解するためのギャップを生む可能性があります。
 
-Lastly, the scriptures were initially disseminated through oral tradition before being transcribed. This process could have led to alterations and additions, whether intentional or not, which may have caused deviations from the original narratives. Subsequent copying of these texts over centuries, each time by different scribes, could have further compounded these discrepancies.
+最後に、聖典は最初は口承伝承を通じて広められ、その後書き写されました。このプロセスにより、意図的であれそれ以外であれ、変更や追加が行われ、元の物語からの逸脱を引き起こした可能性があります。これらのテキストが何世紀にもわたってコピーされ、その都度異なる筆者によって、これらの不一致がさらに深まった可能性があります。
 
-Therefore, while our current interpretations provide a valuable understanding of these ancient texts, it's crucial to recognize that they may not fully or accurately represent the original intentions of the scriptures. There is a strong argument to be made for a reinterpretation of these texts, one that takes into account the original languages, historical and cultural contexts, and the potential changes brought about by centuries of oral transmission and copying. Both Sendy and Biglino, as we will explore in the subsequent chapters, propose innovative methodologies to do just that. By shedding preconceived notions and adopting a fresh approach, they suggest that we might uncover hidden truths and new insights from these ancient texts.
+したがって、我々の現在の解釈はこれらの古代のテキストの貴重な理解を提供していますが、それが聖典の元々の意図を完全に、または正確に表現しているわけではないことを認識することが重要です。これらのテキストの再解釈、つまり、元の言語、歴史的・文化的文脈、何世紀にもわたる口承伝承とコピーによる可能性のある変化を考慮に入れたものについて、強い議論が存在します。サンディとビグリノは、我々が次の章で探求するように、まさにそのような方法論を提案しています。先入観を捨て、新たなアプローチを採用することで、我々はこれらの古代のテキストから隠された真実と新たな洞察を明らかにすることができるかもしれません。
 
-### Sendy's law
+### サンディの法則
 
-In his book "The Coming of the Gods," published in 1970, Jean Sendy put forward a compelling argument for the possible existence of ancient astronauts who once visited Earth and greatly influenced the trajectory of human civilization. Sendy interpreted several ancient myths and religious traditions as probable evidence of extraterrestrial contact. He proposed that this contact could have left a lasting impression on human culture and belief systems.
+1970年に出版されたジャン・サンディの著書「神々の到来」では、かつて地球を訪れ、人類文明の軌道に大きな影響を与えた古代の宇宙飛行士の可能性について説得力のある論議を展開しました。サンディは、いくつかの古代の神話や宗教的伝統を、地球外生命との接触の可能性のある証拠として解釈しました。彼は、この接触が人間の文化や信念体系に深い印象を残した可能性があると提案しました。
 
-To effectively establish his unique interpretation of the Bible, Sendy stipulated [five conditions]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}}) that must be satisfied:
+サンディが聖書の独自の解釈を効果的に確立するために、彼は[五つの条件]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}})を満たす必要があると定めました：
 
-1. Proficiency in the contents of the Bible: To accurately interpret the text, one must have a thorough understanding of the scriptures. An alternative method to become familiar with the original meanings of Biblical scriptures could be the Biglino method, which calls for a literal interpretation of the Bible rather than depending on figurative language or traditional exegesis.
+1. 聖書の内容に精通していること：テキストを正確に解釈するためには、聖典に対する徹底的な理解が必要です。ビグリノの方法は、比喩的な言葉や伝統的な聖書解釈に頼るのではなく、聖書を文字通りに解釈することを求めるもので、これが聖書の原文の意味を理解するための別の方法となり得ます。
 
-2. Acquaintance with current space science and spaceflight: To comprehend what is feasible and unfeasible within modern physics and astronautics, a solid grounding in the current state of space science is crucial.
+2. 現代の宇宙科学と宇宙飛行に詳しいこと：現代の物理学と宇宙飛行学の中で何が可能で何が不可能であるかを理解するために、現状の宇宙科学に対するしっかりとした知識が必要です。
 
-3. Robust understanding of various scientific domains including biology, prehistory, history, and evolution: This broad-based knowledge helps to accurately interpret the scriptures by considering the historical and evolutionary contexts of the text and the scientific knowledge accrued over the years.
+3. 生物学、先史学、歴史学、進化論などのさまざまな科学分野に対する堅固な理解：この幅広い知識は、テキストの歴史的、進化論的文脈と、年月を経て蓄積された科学的知識を考慮に入れて聖典を正確に解釈するのに役立ちます。
 
-4. Dismissal of the supernatural: This means interpreting the text without invoking divine intervention or any other supernatural phenomenon, thereby aligning with contemporary scientific knowledge.
+4. 超自然的なものを排除すること：これは、神の介入や他の超自然的な現象を持ち出すことなくテキストを解釈することを意味し、現代の科学的知識と一致します。
 
-5. Acceptance of a universe that is intelligible to human reason: This signifies that Sendy believed the scriptures could be unraveled using human reasoning and scientific methodologies.
+5. 人間の理性によって理解可能な宇宙を受け入れること：これは、サンディが聖典を人間の理性と科学的方法論を使って解き明かすことができると信じていたことを示しています。
 
-These five conditions collectively support Sendy's belief that the theory of ancient astronauts in the Bible can be defended through a meticulous scientific examination of the text.
+これらの五つの条件は、聖書の中の古代の宇宙飛行士の理論を、テキストの厳密な科学的検討を通じて防衛することができるとサンディが信じていることをまとめて支持しています。
 
-Sendy's rejection of supernatural elements and his belief in the rational intelligibility of the universe echo the principles of philosophical naturalism and scientific realism. Naturalism negates supernatural explanations, asserting that the natural world and its inhabitants, including humans, can be explained through natural causes and laws, and that the world is knowable via scientific inquiry and human reason.
+サンディの超自然的な要素の排除と、宇宙の合理的な理解可能性への信念は、哲学的自然主義と科学的現実主義の原則を反映しています。自然主義は超自然的な説明を否定し、自然世界とその住民、人間を含む、を自然の原因と法則を通じて説明できると主張し、世界は科学的な探求と人間の理性を通じて知ることができるとします。
 
-Scientific realism posits that scientific theories offer accurate descriptions of the world, with the entities and processes theorized in science being real and existing independently of our observation. It firmly believes in the orderliness and intelligibility of the natural world and trusts that scientific inquiries can offer a reliable understanding of it.
+科学的現実主義は、科学的な理論が世界の正確な記述を提供すると主張し、科学において理論化された実体とプロセスが現実であり、我々の観察とは独立して存在しているとします。それは自然世界の秩序と理解可能性を固く信じており、科学的な探求がそれを信頼できる理解を提供することができると信じています。
 
-Raëlism, a contemporary religious movement, exhibits similarities to Sendy's perspective, particularly in its beliefs about extraterrestrial life and its attempts to reconcile science and religion. Both Raëlism and Sendy suggest the feasibility of extraterrestrial life and postulate that alien beings have previously visited Earth. They also harbor a shared interest in the idea that ancient texts, like the Bible, may hold references to extraterrestrial life or suggest alien interventions in human history. Raëlians, similar to Sendy, reject traditional religious interpretations of the Bible and seek to discover the scientific truths they believe are encoded within the text.
+ラエリアン教、現代の宗教的運動は、特に地球外生命に対する信念や科学と宗教を調和させる試みにおいて、サンディの視点に類似性を示しています。ラエリアン教とサンディは、地球外生命の可能性を示唆し、エイリアンが以前に地球を訪れたと推測しています。また、聖書のような古代のテキストに地球外生命の言及が含まれているか、または人間の歴史におけるエイリアンの介入を示唆している可能性に興味を共有しています。ラエリアン教徒はサンディと同様に、聖書の伝統的な宗教的解釈を否定し、テキスト内にエンコードされた科学的な真実を発見しようと試みています。
 
-## Reading the Bible like Schliemann read Homer
+## シュリーマンがホーマーを読んだように聖書を読む
 
-The story of Heinrich Schliemann, a businessman turned archaeologist, provides an interesting parallel to Jean Sendy's approach to biblical interpretation. Schliemann, credited with uncovering the ancient sites of Troy and Mycenae, took a unique approach to ancient mythology. Instead of viewing the tales of the Iliad and the Odyssey as pure fiction, he believed they held a kernel of historical truth and set out to discover it.
+実業家から考古学者へと転身したハインリヒ・シュリーマンの物語は、ジャン・サンディの聖書解釈へのアプローチと興味深い平行性を提供します。古代のトロイとミケーネの遺跡を発掘したことで名を知られるシュリーマンは、古代の神話に対して独特のアプローチを採りました。彼は、イリアスとオデュッセイアの物語を純粋な創作として見るのではなく、歴史的な真実の核が含まれていると信じ、それを発見するために出かけました。
 
-This literal interpretation of ancient texts was innovative at the time, and it is reminiscent of Sendy's own method of reading the Bible, as expressed in his book Those Gods Who Made Heaven And Earth. He posited that applying the same level of literal analysis to the Bible could yield equally significant insights, paralleling Schliemann's exploration of the Iliad.
+この古代のテキストに対する文字通りの解釈は、当時としては革新的であり、彼自身の書籍「Those Gods Who Made Heaven And Earth」で表現された聖書の読み方とも似ています。彼は、聖書に対しても同じレベルの文字通りの分析を適用すれば、シュリーマンがイリアスを探求したのと同様の重要な洞察を得ることができると主張しました。
 
-Sendy argues that this approach allows readers to examine the Bible as an historical document, detailing interactions with an advanced interstellar civilization, instead of viewing it purely as a spiritual guide. He advises readers to approach the Bible as Schliemann approached Homer, by 'ignoring all the exegeses that have accumulated around it for the past two thousand years'. This approach involves setting aside existing theological interpretations and reading the Bible in its most literal and concrete sense.
+サンディは、このアプローチによって読者が聖書を高度な星間文明との相互作用を詳述した歴史的な文書として調査することができ、それを純粋に精神的なガイドとして見るのではなく、シュリーマンがホーマーに接近したように聖書に接近することを読者に勧めます。彼は、「過去二千年間でそれを取り巻くすべての聖書解釈を無視する」ように助言します。このアプローチは、既存の神学的な解釈を置き換えて、聖書を最も文字通りで具体的な意味で読むことを含みます。
 
-The comparison to Schliemann extends beyond the approach to reading ancient texts, it also touches upon the reactions that such groundbreaking assertions can engender. Much like Schliemann faced skepticism and denial when he suggested that the Homeric tales held a basis in historical fact, so too do proponents of the ancient astronaut theory face similar reactions. These theories often spark disbelief and even ridicule, as they challenge long-held beliefs and understandings of biblical narratives.
+シュリーマンへの比較は、古代のテキストを読むアプローチだけでなく、そのような画期的な主張が引き起こす反応にも及びます。ホーマーの物語が歴史的事実の基盤を持っていると提案したときにシュリーマンが直面した懐疑と否定のように、古代の宇宙飛行士の理論の提唱者も同様の反応に直面します。これらの理論はしばしば不信感やさらには嘲笑を引き起こすことがあります。なぜなら、それらは長年にわたって保持されてきた信念と聖書の物語の理解を挑戦するからです。
 
-This shift in interpretation echoes the impact of other revolutionary figures such as Galileo, who turned the prevailing geocentric view of the universe on its head by asserting a heliocentric model. Much like Galileo’s paradigm-shifting discovery, the work of figures like Sendy and Biglino faces initial resistance, often followed by grudging acceptance and, in some cases, complete transformation of the prevailing paradigm.
+この解釈の変化は、地動説を主張して当時の地心的な宇宙観を覆したガリレオなどの他の革命的な人物の影響を反映しています。ガリレオのパラダイムシフトの発見と同様に、サンディやビグリノのような人物の作品は初期の抵抗を経験し、しばしばしぶしぶの受け入れと、いくつかの場合では支配的なパラダイムの完全な変革をもたらします。
 
-Sendy's and Biglino’s approach to interpreting biblical narratives, much like Schliemann’s approach to Homer's epics, presents a departure from established interpretations, seeking instead to explore these texts from a literal and historical perspective. This approach, while controversial, offers a new lens through which to view and understand these ancient works, potentially uncovering fresh insights about our past and our understanding of the universe. This openness to new interpretations reflects a willingness to challenge the status quo and to push the boundaries of our knowledge, much like Schliemann did in his time. By highlighting this parallel, Sendy not only offers a new perspective on the Bible but also aligns himself with a tradition of thought that challenges established norms and continually seeks to explore the unknown.
+サンディとビグリノの聖書物語の解釈へのアプローチは、シュリーマンのホーマーの叙事詩へのアプローチと同様に、既存の解釈からの脱却を示しており、代わりにこれらのテキストを文字通りかつ歴史的な視点から探求しようとしています。このアプローチは、議論の余地がありますが、これらの古代の作品を見る新たなレンズを提供し、私たちの過去や宇宙の理解について新たな洞察を発掘する可能性を持っています。新しい解釈への開放性は、既成の事実を挑戦し、我々の知識の境界を押し広げる意欲を反映しており、これはシュリーマンが彼の時代に行ったことと同様です。この平行性を強調することで、サンディは聖書に新たな視点を提供するだけでなく、確立された規範に挑戦し、未知を探求することを常に求める思考の伝統と自身を一致させています。
 
-## Biglino's method
+## ビグリノの方法
 
-Biglino's method, as outlined in The Naked Bible and further expanded upon through his work, encourages readers to embark on an intellectual journey akin to what Schliemann embarked upon in the world of archaeology. Schliemann, armed with Homer's texts, set out to unearth a world long dismissed as purely mythical, while Biglino, equipped with the Hebrew Bible, endeavors to bring to light a narrative buried under millennia of theological interpretations.
+ビグリノの方法は、彼の作品「The Naked Bible」に概説され、さらに彼の作品を通じて詳述されており、読者に考古学の世界でシュリーマンが開始したものと同様の知的な旅に乗り出すことを奨励しています。ホーマーのテキストを手に、シュリーマンは純粋な神話としてすでに否定されていた世界を発掘するために旅立ちました。一方、ヘブライ語の聖書を手にしたビグリノは、千年にわたる神学的な解釈の下に埋もれた物語を明らかにする努力をしています。
 
-The analogy of Schliemann's methods, as Jean Sendy pointed out, is not a mere rhetorical flourish but a call to shift the paradigm in understanding ancient texts. In the same vein, [Biglino's method]({{< relref "wiki/encyclopedia/biglino-method.md" >}}) is an attempt to rewrite the accepted interpretation of the Bible, mirroring Schliemann's audacity to challenge the status quo of his time.
+ジャン・サンディが指摘したように、シュリーマンの方法の類推は単なる修辞的な飾りではなく、古代のテキストの理解においてパラダイムをシフトさせるよう呼びかけています。同様に、[ビグリノの方法]({{< relref "wiki/encyclopedia/biglino-method.md" >}})は、聖書の受け入れられている解釈を書き換える試みであり、シュリーマンの自身の時代の既成の考え方に挑戦する大胆さを反映しています。
 
-In Biglino's method, a key factor is the appeal to a literal interpretation, unclouded by metaphoric readings. This approach mirrors Schliemann's literal understanding of the Homeric texts that led him to the actual geographical locations of Troy and Mycenae. Schliemann's literal interpretation revealed an entirely different perspective of the texts, much like Biglino's method seeks to reveal a fresh interpretation of the biblical narrative.
+ビグリノの方法において重要な要素は、比喩的な読解による影響を受けない文字通りの解釈への訴えです。このアプローチは、シュリーマンがホーマーのテキストを文字通りに理解し、それが彼をトロイとミケーネの実際の地理的な場所へと導いたことを反映しています。シュリーマンの文字通りの解釈は、テキストの全く異なる視点を明らかにしました。これはビグリノの方法が聖書の物語の新鮮な解釈を明らかにしようとする試みとよく似ています。
 
-The first step in Biglino's method is familiarization with the original text. Just as Schliemann immersed himself in the world of Homer's Iliad, so too does Biglino advocate for a deep familiarity with the Hebrew Bible. The second step, setting aside preconceived traditional interpretations, parallels Schliemann disregarding the prevailing belief that the Homeric cities were mythical. Lastly, the commitment to a literal reading, in both Schliemann's approach and Biglino's method, grounds their investigations in the tangibility of the texts.
+ビグリノの方法の最初のステップは、元のテキストに親しむことです。シュリーマンがホーマーの「イリアス」の世界に没入したのと同様に、ビグリノもヘブライ語の聖書に深い親しみを持つことを提唱しています。第二のステップは、先入観に基づく伝統的な解釈を脇に置くことで、これはシュリーマンがホーマーの都市が神話だという一般的な信念を無視したことと並行しています。最後に、文字通りの読解に対するコミットメントは、シュリーマンのアプローチとビグリノの方法の両方で、彼らの調査をテキストの具体性に基づいています。
 
-Biglino also acknowledges the inherent uncertainty that comes with ancient texts. Like Schliemann who worked with ancient ruins and Homeric texts that had been translated and interpreted numerous times, Biglino is aware that he is working with biblical copies of copies. Yet, both of them don't let this uncertainty hinder their pursuits. Instead, they use it as a starting point to 'pretend' that the stories are true, leading to astounding revelations and new perspectives on the old narratives.
+ビグリノはまた、古代のテキストに伴う固有の不確実性を認めています。シュリーマンが古代の遺跡や何度も翻訳され、解釈されたホーマーのテキストを扱っていたように、ビグリノは自身が聖書のコピーを扱っていることを認識しています。しかし、彼ら二人はこの不確実性が自身の追求を妨げることを許さない。代わりに、彼らはそれをスタートポイントとして「物語が真実であるかのように振る舞う」ことで、驚くべき啓示と古い物語に対する新しい視点をもたらします。
 
-## Assumptions
+## 仮定
 
-As we navigate our way towards the end of this exploration, it becomes crucial to understand the bedrock of assumptions that underpin the entirety of our journey. These assumptions form the basis for our interpretation and understanding of the ancient texts and scriptures.
+この探索の終わりに向けて進む中で、私たちの旅全体を支える仮定の基盤を理解することが極めて重要となります。これらの仮定は、古代のテキストや経典の解釈と理解の基礎を形成します。
 
-1. **Life on Earth is meaningful:** It is assumed that our existence on Earth is not an accidental or random occurrence. There is a purpose and meaning behind life on this planet. This assumption doesn't necessarily imply a divine intervention or a specific teleological perspective. Rather, it is a position that recognises the complexity and intricacy of life and seeks to explore the profound implications and possibilities associated with our existence.
+1. **地球上の生命は意味がある：** 私たちの地球上での存在は偶然やランダムな出来事ではないと仮定されています。この惑星上の生命の背後には目的と意味があります。この仮定は必ずしも神の介入や特定の目的論的視点を意味するものではありません。それよりも、生命の複雑さと入念さを認識し、私たちの存在に関連した深淵な意義と可能性を探求しようとする立場です。
 
-2. **Vastness of space is significant:** The expansive and seemingly infinite nature of space isn't seen as empty or meaningless. Its vastness holds significance and raises fundamental questions about our place within it. Are we alone, or is there other life out there? What role might extraterrestrial beings have played in our past, and what potential role might they play in our future?
+2. **宇宙の広大さは重要である：** 広大で seemingly 無限の宇宙の性質は、空っぽで意味のないものとは見なされません。その広大さは重要性を持ち、我々のそれに対する位置についての基本的な質問を提起します。我々は一人で、あるいは他の生命体が存在するのでしょうか？地球外の存在が我々の過去にどのような役割を果たしてきたのか、そして彼らが我々の未来にどのような役割を果たす可能性があるのか？
 
-3. **Scriptures and religion are deliberate:** The holy scriptures, myths, and religions of various cultures are not just a series of fables or moral tales but deliberate efforts to explain and record phenomena experienced by ancient peoples. This includes unusual events and encounters that may have seemed divine or supernatural to them but might have been interactions with technologically advanced beings or civilizations.
+3. **聖典と宗教は意図的である：** 様々な文化の聖典、神話、宗教は、ただの寓話や道徳の話ではなく、古代の人々が経験した現象を説明し、記録するための意図的な試みです。これには、彼らにとっては神聖または超自然に見えたかもしれない異常な出来事や出会いが含まれますが、それらは技術的に進んだ存在や文明との交流だった可能性があります。
 
-4. **Gods must have been real:** This assumption builds upon the concept of Neo-euhemerism, a term derived from the Greek philosopher Euḗmeros. It involves the speculative idea that the gods and people from ancient mythologies were not mythical beings, but rather real, humanoid entities. In a more daring interpretation, this perspective suggests that these entities could be extraterrestrial humanoids. This concept not only reframes our understanding of religious and mythological narratives but also forces us to re-evaluate our perception of our history, our universe, and ultimately ourselves.
+4. **神々は実在したはずである：** この仮定は、ネオ-ユーヘメリズムの概念に基づいています。これは、ギリシャの哲学者エウエメロスから派生した用語であり、古代の神話から来る神々や人々が神話の存在ではなく、実際には実在するヒューマノイドであったという推測的な考えを含んでいます。さらに大胆な解釈では、これらの存在は地球外のヒューマノイドであった可能性が示唆されています。この概念は、宗教や神話の物語の理解を再構築するだけでなく、私たちの歴史、宇宙、そして最終的には自己の認識を再評価することを強いる。
 
-Each of these assumptions encourages us to question conventional wisdom and broaden our perspective. They serve as the pillars supporting an audacious yet compelling exploration of our past, grounded in an appreciation for the vast potential of the universe and the complex mystery that is life itself. By embracing these assumptions, we equip ourselves with a lens that enables us to revisit our ancient texts with newfound curiosity and an open mind, poised to unlock insights that might redefine our understanding of our own origins and destiny.
+これらの仮定は、私たちに既成の知識を問い直し、視野を広げることを奨励します。彼らは、宇宙の広大な可能性と、生命そのものが持つ複雑な謎への理解に基づいた、我々の過去の大胆ながら説得力のある探求を支える柱として機能します。これらの仮定を受け入れることで、私たち自身は、我々の古代のテキストを新たな好奇心とオープンな心で再訪することができるレンズを装備し、私たち自身の起源と運命についての理解を再定義する可能性のある洞察を解き放つことができます。

@@ -1,5 +1,5 @@
 ---
-title: "Encyclopedia"
+title: "百科事典"
 description: "Encyclopedia of Wheel of Heaven."
 lead: ""
 date: 2022-09-20T00:00:00+00:00

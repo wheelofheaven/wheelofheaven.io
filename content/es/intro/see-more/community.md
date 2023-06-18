@@ -13,8 +13,8 @@ weight: 420
 toc: true
 ---
 
-If the premises of Wheel of Heaven made you more curious, you can also participate on making the experience more worthwhile by helping us out to add missing pieces of information or to translate unavailable content into one of the supported languages.
+Si las premisas de Wheel of Heaven despertaron tu curiosidad, también puedes participar para que la experiencia sea más valiosa ayudándonos a agregar piezas de información faltantes o a traducir contenido no disponible a uno de los idiomas admitidos.
 
-You can also connect with us through Telegram, Github and/or Twitter. In the header, you're going to find the links to each of these platforms by simply clicking on the corresponding icon.
+También puedes conectarte con nosotros a través de Telegram, Github y/o Twitter. En el encabezado, encontrarás los enlaces a cada una de estas plataformas haciendo clic en el icono correspondiente.
 
-The most straightforward way to contact us is by e-mail. Get the current official e-mail address from our [Contact]({{< ref "/contact" >}}) page.
+La forma más directa de contactarnos es por correo electrónico. Obtén la dirección de correo electrónico oficial actual en nuestra página de [Contacto]({{< ref "/contact" >}}).

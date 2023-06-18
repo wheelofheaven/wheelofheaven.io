@@ -13,8 +13,8 @@ weight: 410
 toc: true
 ---
 
-You made it through the Introduction, but the inquisitive journey doesn't end here. Make sure to check out the Wiki, the Resources and the Blog section of Wheel of Heaven to dive more into the big narrative put forward here.
+Has llegado a la Introducción, pero el viaje inquisitivo no termina aquí. Asegúrate de revisar la Wiki, los Recursos y la sección de Blog de Wheel of Heaven para sumergirte más en la gran narrativa presentada aquí.
 
-- [An informative wiki section filled with entries and points of interest 🔗]({{< ref "/wiki/" >}})
-- [A resource area that features web books handpicked by our team 🔗]({{< ref "/resources/" >}})
-- [A frequently updated blog where fresh perspectives and insights are shared 🔗]({{< ref "/articles/" >}})
+- [Una sección informativa de la Wiki llena de entradas y puntos de interés 🔗]({{< ref "/wiki/" >}})
+- [Un área de recursos que presenta libros web seleccionados por nuestro equipo 🔗]({{< ref "/resources/" >}})
+- [Un blog actualizado con frecuencia donde se comparten perspectivas frescas y conocimientos 🔗]({{< ref "/articles/" >}})

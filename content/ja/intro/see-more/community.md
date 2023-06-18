@@ -13,8 +13,8 @@ weight: 420
 toc: true
 ---
 
-If the premises of Wheel of Heaven made you more curious, you can also participate on making the experience more worthwhile by helping us out to add missing pieces of information or to translate unavailable content into one of the supported languages.
+もしWheel of Heavenの前提があなたをより興味深くさせた場合、サポートされている言語の一つに未提供のコンテンツを翻訳するか、情報の欠落している部分を補完するために、私たちを助けることで体験をより価値あるものにするために参加することもできます。
 
-You can also connect with us through Telegram, Github and/or Twitter. In the header, you're going to find the links to each of these platforms by simply clicking on the corresponding icon.
+また、Telegram、Github、Twitterを介して私たちと連絡を取ることもできます。ヘッダーには、それぞれのプラットフォームへのリンクがあります。対応するアイコンをクリックするだけでアクセスできます。
 
-The most straightforward way to contact us is by e-mail. Get the current official e-mail address from our [Contact]({{< ref "/contact" >}}) page.
+私たちとの最も直接的な連絡方法は、電子メールです。[お問い合わせ]({{< ref "/contact" >}})ページから、現在の公式メールアドレスを入手してください。

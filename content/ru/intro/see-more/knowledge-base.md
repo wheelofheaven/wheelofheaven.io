@@ -13,8 +13,8 @@ weight: 410
 toc: true
 ---
 
-You made it through the Introduction, but the inquisitive journey doesn't end here. Make sure to check out the Wiki, the Resources and the Blog section of Wheel of Heaven to dive more into the big narrative put forward here.
+Вы прочитали введение, но исследовательское путешествие не заканчивается здесь. Обязательно ознакомьтесь с разделами Википедии, Ресурсов и Блога на сайте Wheel of Heaven, чтобы глубже погрузиться в большую представленную здесь историю.
 
-- [An informative wiki section filled with entries and points of interest 🔗]({{< ref "/wiki/" >}})
-- [A resource area that features web books handpicked by our team 🔗]({{< ref "/resources/" >}})
-- [A frequently updated blog where fresh perspectives and insights are shared 🔗]({{< ref "/articles/" >}})
+- [Информативный раздел Википедии, заполненный статьями и интересными фактами 🔗]({{< ref "/wiki/" >}})
+- [Раздел с полезными ресурсами, включающий отобранные нашей командой веб-книги 🔗]({{< ref "/resources/" >}})
+- [Часто обновляемый блог, где делятся свежими взглядами и идеями 🔗]({{< ref "/articles/" >}})

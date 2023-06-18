@@ -129,3 +129,27 @@ Schließlich wurden die Schriften zunächst durch mündliche Tradition verbreite
 
 Daher, während unsere aktuellen Interpretationen ein wertvolles Verständnis dieser alten Texte bieten, ist es entscheidend zu erkennen, dass sie die ursprünglichen Absichten der Schriften möglicherweise nicht vollständig oder genau repräsentieren. Es gibt starke Argumente dafür, dass diese Texte neu interpretiert werden müssen, wobei die ursprünglichen Sprachen, historischen und kulturellen Kontexte und die möglichen Änderungen, die durch Jahrhunderte der mündlichen Überlieferung und des Kopierens entstanden sind, berücksichtigt werden müssen. Sowohl Sendy als auch Biglino, wie wir in den folgenden Kapiteln untersuchen werden, schlagen innovative Methoden vor, um genau das zu tun. Indem sie vorgefasste Vorstellungen ablegen und einen frischen Ansatz annehmen, schlagen sie vor, dass wir möglicherweise verborgene Wahrheiten und neue Erkenntnisse aus diesen alten Texten aufdecken können.
 
+### Sendys Gesetz
+
+In seinem 1970 veröffentlichten Buch "The Coming of the Gods" stellte Jean Sendy ein überzeugendes Argument für die mögliche Existenz von antiken Astronauten auf, die einst die Erde besucht und den Verlauf der menschlichen Zivilisation stark beeinflusst haben könnten. Sendy interpretierte mehrere antike Mythen und religiöse Traditionen als wahrscheinliche Beweise für außerirdischen Kontakt. Er schlug vor, dass dieser Kontakt einen dauerhaften Eindruck auf die menschliche Kultur und Glaubenssysteme hinterlassen könnte.
+
+Um seine einzigartige Interpretation der Bibel wirksam zu etablieren, stellte Sendy [fünf Bedingungen]({{< relref "wiki/encyclopedia/sendys-conditions-of-coherence.md" >}}) auf, die erfüllt sein müssen:
+
+1. Beherrschung des Inhalts der Bibel: Um den Text genau interpretieren zu können, muss man ein gründliches Verständnis der Schriften haben. Eine alternative Methode, um sich mit den ursprünglichen Bedeutungen der biblischen Schriften vertraut zu machen, könnte die Biglino-Methode sein, die eine wörtliche Interpretation der Bibel fordert, anstatt sich auf bildliche Sprache oder traditionelle Exegese zu verlassen.
+
+2. Vertrautheit mit der aktuellen Raumfahrtwissenschaft und Raumfahrt: Um zu verstehen, was innerhalb der modernen Physik und Astronautik möglich und unmöglich ist, ist ein solides Fundament im aktuellen Stand der Raumfahrtwissenschaft entscheidend.
+
+3. Robustes Verständnis verschiedener wissenschaftlicher Bereiche einschließlich Biologie, Vorgeschichte, Geschichte und Evolution: Dieses breit gefächerte Wissen hilft, die Schriften genau zu interpretieren, indem man die historischen und evolutionären Kontexte des Textes und das im Laufe der Jahre angesammelte wissenschaftliche Wissen berücksichtigt.
+
+4. Ablehnung des Übernatürlichen: Dies bedeutet, den Text zu interpretieren, ohne göttliche Intervention oder irgendein anderes übernatürliches Phänomen heranzuziehen, und damit mit dem zeitgenössischen wissenschaftlichen Wissen übereinzustimmen.
+
+5. Akzeptanz eines Universums, das für die menschliche Vernunft verständlich ist: Dies bedeutet, dass Sendy glaubte, dass die Schriften mit menschlicher Vernunft und wissenschaftlichen Methoden entschlüsselt werden könnten.
+
+Diese fünf Bedingungen unterstützen zusammen Sendys Glauben, dass die Theorie der antiken Astronauten in der Bibel durch eine sorgfältige wissenschaftliche Untersuchung des Textes verteidigt werden kann.
+
+Sendys Ablehnung von übernatürlichen Elementen und sein Glaube an die rationale Verständlichkeit des Universums echoen die Prinzipien des philosophischen Naturalismus und des wissenschaftlichen Realismus. Der Naturalismus leugnet übernatürliche Erklärungen und behauptet, dass die natürliche Welt und ihre Bewohner, einschließlich des Menschen, durch natürliche Ursachen und Gesetze erklärt werden können und dass die Welt durch wissenschaftliche Untersuchung und menschliche Vernunft erkennbar ist.
+
+Der wissenschaftliche Realismus behauptet, dass wissenschaftliche Theorien genaue Beschreibungen der Welt liefern, wobei die in der Wissenschaft postulierten Entitäten und Prozesse real sind und unabhängig von unserer Beobachtung existieren. Er glaubt fest an die Ordnung und Verständlichkeit der natürlichen Welt und vertraut darauf, dass wissenschaftliche Untersuchungen ein zuverlässiges Verständnis davon bieten können.
+
+Der Raelismus, eine zeitgenössische religiöse Bewegung, zeigt Ähnlichkeiten mit Sendys Perspektive, insbesondere in seinen Überzeugungen über außerirdisches Leben und seinen Versuchen, Wissenschaft und Religion in Einklang zu bringen. Sowohl der Raelismus als auch Sendy halten das Vorhandensein von außerirdischem Leben für möglich und postulieren, dass außerirdische Wesen die Erde bereits besucht haben. Sie hegen auch ein gemeinsames Interesse an der Idee, dass antike Texte, wie die Bibel, Hinweise auf außerirdisches Leben enthalten könnten oder auf außerirdische Eingriffe in die menschliche Geschichte hindeuten. Die Raelianer, ähnlich wie Sendy, lehnen traditionelle religiöse Interpretationen der Bibel ab und suchen die wissenschaftlichen Wahrheiten, von denen sie glauben, dass sie im Text kodiert sind.
+

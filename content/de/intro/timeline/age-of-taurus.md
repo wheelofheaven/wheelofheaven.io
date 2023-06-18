@@ -1,5 +1,5 @@
 ---
-title: "Age of Taurus (4'530—2'370BC)"
+title: "Zeitalter des Stiers (4'530—2'370 v. Chr.)"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

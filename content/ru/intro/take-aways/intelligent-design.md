@@ -13,8 +13,8 @@ weight: 320
 toc: true
 ---
 
-The widely accepted scientific explanation for the origins of life on Earth is the theory of abiogenesis, which suggests that life emerged from simple organic compounds through a series of natural chemical processes.
+Общепринятое научное объяснение происхождения жизни на Земле - это теория абиогенеза, которая предполагает, что жизнь возникла из простых органических соединений благодаря ряду естественных химических процессов.
 
-The idea that extraterrestrial beings created life on Earth is certainly a departure from traditional scientific and also religious explanations.
+Идея о том, что внеземные существа создали жизнь на Земле, безусловно, отходит от традиционных научных и также религиозных объяснений.
 
-While it would be generally considered to be fringe belief or even pseudoscience, Raëlism's concept of Intelligent Design raises thought-provoking questions about what constitutes life and intelligence, and the role these factors play in the development of species.
+Хотя это обычно считается маргинальной верой или даже псевдонаукой, концепция Интеллектуального Проектирования в Раэлизме поднимает провокационные вопросы о том, что составляет жизнь и интеллект, и какую роль эти факторы играют в развитии видов.

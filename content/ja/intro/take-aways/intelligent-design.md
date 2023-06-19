@@ -13,8 +13,8 @@ weight: 320
 toc: true
 ---
 
-The widely accepted scientific explanation for the origins of life on Earth is the theory of abiogenesis, which suggests that life emerged from simple organic compounds through a series of natural chemical processes.
+地球上の生命の起源に関する広く受け入れられている科学的な説明は、生命は自然の化学反応を通じて単純な有機化合物から生じたとする無機起源説です。
 
-The idea that extraterrestrial beings created life on Earth is certainly a departure from traditional scientific and also religious explanations.
+地球上の生命を地球外生命体が創り出したという考え方は、伝統的な科学的、そして宗教的な説明からの確実な脱却でしょう。
 
-While it would be generally considered to be fringe belief or even pseudoscience, Raëlism's concept of Intelligent Design raises thought-provoking questions about what constitutes life and intelligence, and the role these factors play in the development of species.
+ラエリアンのインテリジェントデザインの概念は、一般的にはフリンジな信念や偽科学と考えられるかもしれませんが、生命と知性を何が構成し、これらの要素が種の発展にどのような役割を果たすのかという問いを提起します。

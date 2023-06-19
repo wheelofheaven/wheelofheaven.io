@@ -13,8 +13,8 @@ weight: 320
 toc: true
 ---
 
-The widely accepted scientific explanation for the origins of life on Earth is the theory of abiogenesis, which suggests that life emerged from simple organic compounds through a series of natural chemical processes.
+L'explication scientifique généralement acceptée pour l'origine de la vie sur Terre est la théorie de l'abiogenèse, qui suggère que la vie est apparue à partir de composés organiques simples grâce à une série de processus chimiques naturels.
 
-The idea that extraterrestrial beings created life on Earth is certainly a departure from traditional scientific and also religious explanations.
+L'idée que des êtres extraterrestres ont créé la vie sur Terre est certainement une déviation des explications scientifiques et religieuses traditionnelles.
 
-While it would be generally considered to be fringe belief or even pseudoscience, Raëlism's concept of Intelligent Design raises thought-provoking questions about what constitutes life and intelligence, and the role these factors play in the development of species.
+Bien qu'elle serait généralement considérée comme une croyance marginale ou même une pseudoscience, le concept de design intelligent du Raëlisme soulève des questions provocatrices sur ce qui constitue la vie et l'intelligence, et le rôle que ces facteurs jouent dans le développement des espèces.

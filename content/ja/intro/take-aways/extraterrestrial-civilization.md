@@ -13,6 +13,6 @@ weight: 310
 toc: true
 ---
 
-Placing terrestrial life within a broader cosmic context inspires a greater sense of interconnectedness and encourages curiosity about the possibility of other forms of life in the universe. It also raises questions about the potential role of humans in the cosmos and our responsibilities as a species, inviting us to reevaluate our place in the grand scheme of things.
+地球上の生命をより広い宇宙的な文脈に位置づけることで、相互接続の意識が深まり、宇宙に他の生命形態が存在する可能性についての好奇心が刺激されます。また、人間が宇宙で果たす可能性のある役割や、私たちが種として負う責任についての問いを提起し、物事の大局的な視野で自分たちの立場を再評価するように促します。
 
-The notion that life on Earth was created by extraterrestrial beings challenges anthropocentric perspectives, which place humans at the center of the universe. By considering the possibility of an extraterrestrial origin for life on Earth, we are invited to reflect on the meaning and purpose of terrestrial life in a broader cosmic context. This perspective can encourage a more humble view of our place in the universe.
+地球上の生命が地球外生命体によって創造されたという考えは、人間を宇宙の中心に位置づける人間中心的な視点に挑戦します。地球上の生命の起源が地球外にある可能性を考慮することで、地球上の生命の意味や目的について、より広い宇宙的な文脈で反省するように私たちを誘います。この視点は、宇宙における我々の位置をより謙虚に考えることを助けます。

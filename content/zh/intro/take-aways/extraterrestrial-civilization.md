@@ -13,6 +13,6 @@ weight: 310
 toc: true
 ---
 
-Placing terrestrial life within a broader cosmic context inspires a greater sense of interconnectedness and encourages curiosity about the possibility of other forms of life in the universe. It also raises questions about the potential role of humans in the cosmos and our responsibilities as a species, inviting us to reevaluate our place in the grand scheme of things.
+将地球生命置于更广泛的宇宙背景下，激发了更强的相互联系感，并激发了对宇宙中可能存在其他生命形式的好奇心。这也提出了关于人类在宇宙中可能的角色和我们作为一个物种的责任的问题，邀请我们重新评估我们在事物大计中的位置。
 
-The notion that life on Earth was created by extraterrestrial beings challenges anthropocentric perspectives, which place humans at the center of the universe. By considering the possibility of an extraterrestrial origin for life on Earth, we are invited to reflect on the meaning and purpose of terrestrial life in a broader cosmic context. This perspective can encourage a more humble view of our place in the universe.
+关于地球上的生命由外星生物创造的观点，挑战了将人类置于宇宙中心的人类中心主义视角。考虑到地球生命可能有外星起源的可能性，我们被邀请在更广泛的宇宙背景下思考地球生命的意义和目的。这种观点可以鼓励我们对宇宙中我们的位置有更谦逊的看法。

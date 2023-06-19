@@ -13,6 +13,6 @@ weight: 310
 toc: true
 ---
 
-Placing terrestrial life within a broader cosmic context inspires a greater sense of interconnectedness and encourages curiosity about the possibility of other forms of life in the universe. It also raises questions about the potential role of humans in the cosmos and our responsibilities as a species, inviting us to reevaluate our place in the grand scheme of things.
+Placer la vie terrestre dans un contexte cosmique plus large inspire un plus grand sens de l'interconnexion et suscite la curiosité quant à la possibilité d'autres formes de vie dans l'univers. Cela soulève également des questions sur le rôle potentiel des humains dans le cosmos et nos responsabilités en tant qu'espèce, nous invitant à réévaluer notre place dans le grand schéma des choses.
 
-The notion that life on Earth was created by extraterrestrial beings challenges anthropocentric perspectives, which place humans at the center of the universe. By considering the possibility of an extraterrestrial origin for life on Earth, we are invited to reflect on the meaning and purpose of terrestrial life in a broader cosmic context. This perspective can encourage a more humble view of our place in the universe.
+L'idée que la vie sur Terre a été créée par des êtres extraterrestres défie les perspectives anthropocentriques, qui placent les humains au centre de l'univers. En considérant la possibilité d'une origine extraterrestre pour la vie sur Terre, nous sommes invités à réfléchir à la signification et au but de la vie terrestre dans un contexte cosmique plus large. Cette perspective peut encourager une vision plus humble de notre place dans l'univers.

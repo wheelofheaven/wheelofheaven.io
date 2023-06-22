@@ -39,9 +39,7 @@
         {{ partial "utilities/timeline.html" (dict "context" . "current" .Params.timeline) }}
       {{ end }}
 			{{ .Content }}
-    <!--
-      {{ partial "endnotes/mentioned-in.html" . }}
-      -->
+      {{ partial "backlinks.html" (dict "page" .) }}
 			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
 				{{ if .Site.Params.lastMod -}}
 					{{ partial "main/last-modified.html" . }}

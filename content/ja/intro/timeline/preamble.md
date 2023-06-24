@@ -43,52 +43,58 @@ toc: true
 
 [^4]: 「地球の使者たち」、P.133、15章「過去からの一日」より抜粋。
 
-## On a distant planet
+## 遥かなる星にて
 
-The narrative as recorded during the encounters between Raël and Yahweh is for the most part a commentary on the Biblical scriptures. In an exegetical manner[^5], Yahweh recollects what happened in the beginning, during Genesis[^6]. However, before he starts commenting on the Biblical passages, he establishes a prologue to the events described in [Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}}). That prologue brings us back to Jurassic Park.
+ラエルとヤハウェとの出会いで記録された物語の大部分は、聖書の解釈についての解説です。ヤハウェはエクゼゲティカルな方法[^5]で、創世記[^6]の間に何が起こったのかを思い起こします。しかし、彼が聖書の節を解説し始める前に、彼は[創世記]({{< relref "wiki/encyclopedia/genesis.md" >}})で説明された出来事の序章を設けます。その序章は、私たちをジュラシックパークに戻します。
 
-The story of the Elohim evidently doesn't start on planet Earth. They originate from another planet, an [Elohimian home planet]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}}). Yahweh starts off the story with remembering what preceded the events Genesis and eventually lead to them:
+エロヒムの物語は明らかに地球から始まるものではありません。彼らは別の星、[エロヒムの母星]({{< relref "wiki/encyclopedia/elohimian-home-planet.md" >}})から来たのです。ヤハウェは、創世記の出来事に先立って何があったのか、そしてそれらがどのようにして創世記の出来事につながったのかを思い出し始めます：
 
-> A very long time ago on our distant planet, we had reached a level of technical and scientific knowledge, comparable to that which you will soon reach. Our scientists had started to create primitive, embryonic forms of life, namely living cells in test tubes. Everyone was thrilled by this.
+> 非常に昔、私たちの遠い星にて、私たちが間もなく到達するであろう技術的で科学的な知識のレベルに達していました。我々の科学者たちは、試験管内で生命細胞という原始的で胚性のある生命形態を創造し始めました。みんながこれに興奮していました。
 >
-> The scientists perfected their techniques and began creating bizarre little animals but the government, under pressure from public opinion, ordered the scientists to stop their experiments for fear they would create monsters, which would become dangerous to society. In fact one of these animals had broken loose and killed several people. [...]
+> 科学者たちは技術を改良し、奇妙な小動物を作り始めましたが、政府は公衆の意見の圧力下で、彼らが怪物を作り出し、それが社会に危険をもたらすのではないかとの恐れから、科学者たちに実験を停止するよう命じました。事実、これらの動物の一つが逃げ出し、何人かの人々を殺しました。 [...]
 
-The parallels with the Jurassic Park lore is staggering. We note that some 24'000 years ago, on a distant planet, the Elohimian home planet, its inhabitants managed to develop a civilization capable of [artifical gene synthesis de novo]({{< relref "wiki/encyclopedia/synthetic-biology.md#artifical-gene-synthesis" >}})[^7]. These advancements of genetic engineering lead them to synthetically engineer new life forms. Ulimately, that branch of research of synthetic life engineering ended in a fateful casuality where some of these synthetically created animals broke loose and did kill many people.
+ジュラシックパークの伝説との類似性は驚くべきものです。約24,000年前、遥かなる星、エロヒムの母星で、その住民たちは、[人工的な遺伝子合成デノヴォ]({{< relref "wiki/encyclopedia/synthetic-biology.md#artifical-gene-synthesis" >}})[^7]が可能な文明を発展させることに成功しました。これらの遺伝子工学の進歩は、新たな生命形態を合成的に設計するように彼らを導きました。最終的には、合成生命工学という研究の分野は、これらの合成的に創造された動物が逃げ出し、多くの人々を殺すという運命的な事故に終わりました。
 
-We must imagine how a civilization similar to ours, even if slightly more advanced and developed, would react to experimental research like that. Especially considering that the concerns voiced by an eminent faction among the populace, deeming that kind of research to be distateful, objectionable and most importantly dangerous proved to be appropriate. In our day and age, abundant with controversies and mistrust towards executive and leading institutions, a research project of the same magnitude, if it were to become a public matter, would most likely provoke a similar amount of criticism and politicization. The very popularity of the Jurassic Park franchise is a telling indicator on how arguments would be made.
+我々は、実験的な研究に対して、少しでも進歩した、発展した我々と同じような文明がどのように反応するかを想像しなければなりません。特に、そのような研究が不快で、異議あり、そして何よりも危険であると考えている人々の間で声を上げている懸念を考慮すると、その研究プロジェクトが公になった場合、おそらく同じくらいの批判と政治化を引き起こすでしょう。ジュラシックパークのフランチャイズの人気は、どのように議論が進展するかについての示唆的な指標です。
 
-The franchise explores the dangers of playing God through the use of genetic engineering to bring extinct species back to life. In the first Jurassic Park movie for instance, the character Dr. Ian Malcolm warns of the dangers of genetic engineering and the risks of creating genetically modified organisms that can potentially escape and wreak havoc on the world. He argues that the scientists behind the creation of the park were so preoccupied with whether or not they could create dinosaurs, they never stopped to think if they should.
+そのフランチャイズは、絶滅した種を遺伝子工学を用いて再生することによる神を演じる危険性を探求しています。例えば、最初のジュラシックパーク映画では、イアン・マルコム博士が遺伝子工学の危険性と、遺伝子改変された生物を作り出し、それが可能性として世界を混乱に陥れるリスクについて警告しています。彼は、公園の創造の背後にある科学者たちが恐竜を創造することができるかどうかについての考えに夢中になって、彼らがそうすべきかどうかを考えることを止めてしまったと主張しています。
 
-The subsequent films in the franchise also continue to explore the consequences of genetic engineering, such as the development of hybrid dinosaurs with unpredictable and dangerous behaviors. Through these themes, the Jurassic Park franchise critiques the potential for science to be used for destructive purposes and emphasizes the importance of responsible scientific research and development.
+フランチャイズの後続の映画でも、予測不可能で危険な行動を持つハイブリッド恐竜の開発など、遺伝子工学の結果をさらに探求しています。これらのテーマを通じて、ジュラシックパークのフランチャイズは科学が破壊的な目的に使われる可能性を批判し、責任ある科学的研究と開発の重要性を強調しています。
 
-What happened after these _monsters_ broke free? The second part of the prologue as recounted by Yahweh finished with the following sentence:
+これらの_monsters_が自由になった後、何が起こったのでしょうか？ヤハウェによって語られた序章の第二部分は、以下の文で終わります：
 
-> [...] Since at that time, interplanetary and intergalactic explorations had also made progress, the scientists decided to set out for a distant planet where they could find most of the necessary conditions to pursue their experiments.
+> [...] 当時、惑星間や銀河間の探検も進歩していたので、科学者たちは自分たちの実験を続けるための必要な条件をほとんど見つけることができる遠い星へ出発することを決めました。
 
-This brings us back to Jurassic Park lore once more. In the fourth installment of the Jurassic Park movies, Jurassic World (2015), the female lead character Claire Dearing mentions the possibility of the space program being as profitable as dinosaur-based theme parks[^8]. Although the movie is fictional, this detail is intriguing. The writers suggests that in a society as advanced as the one depicted in the film, genetic engineering and space travel could potentially develop concurrently.
+これは再び私たちをジュラシックパークの伝説に戻します。ジュラシックパークの映画の第四作、ジュラシック・ワールド（2015年）では、主要キャラクターのクレア・ディアリングが、恐竜テーマパークと同じくらい利益が出る可能性のある宇宙プログラムの可能性を示唆しています[^8]。この映画はフィクションですが、この詳細は興味深いものです。脚本家は、映画で描かれているような進んだ社会では、遺伝子工学と宇宙旅行が同時に発展する可能性があると示唆しています。
 
-Apparently, this concurrency did happen for the Elohimian civilization. Considering our own pace of scientific and technological progress of the past few decades, it isn't too much of a stretch to imagine that a sophisticated state of genetic engineering capabilities, where life synthetization is possible, coincides with interplanetary and interstellar space travel capabilities in terms of civilizational progress[^9]. It is also reasonable to assume that a civilization like ours that just entered the age of space travel wouldn't have fully overcome resource and energy scarcity. While such a civilization must be thriving and abundant in problem solving technologies and research, it would also be likely to incentivize and foster progress through a credit system. The point being that genetic engineering and space travel as industries and fields of research must be very lucrative and highly incentivized in such a civilization that just made the technological leap of creating the means to travel in space and create new life from scratch.
+明らかに、この同時性はエロヒムの文明にとって実現したものでした。我々自身の科学技術の進歩のペースを考えると、生命を合成することが可能な遺伝子工学の洗練された状態と、惑星間および星間の宇宙旅行能力が文明の進歩の観点から同時に発生するということは、想像しすぎではないと言えます[^9]。また、宇宙旅行の時代に入ったばかりの我々のような文明が、資源やエネルギーの不足を完全に克服しているわけではないと考えるのは合理的です。そのような文明は、問題解決の技術と研究に富んでいて繁栄しているはずですが、それはまた、クレジットシステムを通じて進歩を奨励し、促進する可能性もあります。つまり、遺伝子工学と宇宙旅行は、宇宙旅行の手段を作り出し、新しい生命を一から創造する技術的な飛躍を達成したばかりの文明にとって、非常に有益で、大いに奨励される産業や研究分野であると言えるのです。
 
-The consistency of the narrative allegedly put forward by Yahweh himself is in the realm of the conceivable. While in our day and age, we clearly haven't achieved nor mastered in the least any of these leaps in technology, these things cannot be considered fictional anymore, but almost seem in reach. Only 50 years ago, when these revelations were made to Raël, the Apollo program just came to put men on the moon and James Watson Francis Crick discovered the double helix structure of the DNA two decades before that. Science and especially applied science has come a long way since, what used to be science-fiction only 50 years ago became reality. Let's just consider for a minute what is possible in the next 50 years, let alone 100 years from now on...
+エロヒムが新たな星に到達すると、彼らは新たな計画を立てました。新たな星を設立し、新たな生命を創造しようという計画です。次に、エロヒムは地球の創造を始めます。
 
-[^9]: The idea that reviving extinct creatures like dinosaurs through genetic engineering may happen at the same time as space travel becoming possible is based on the idea that both fields of science and technology are advancing rapidly. The connection between these two fields lies in the fact that they both involve exploring the boundaries of what is possible and pushing the limits of what we can achieve as a species. While it is difficult to predict the future of these fields with certainty, it is reasonable to think that both genetic engineering and space travel will continue to advance in the coming decades and may lead to significant scientific and technological breakthroughs.
+## 地球へ
 
-## To Earth
+序章はそこで終わるわけではありません。遺伝子実験が論争となり、その結果、エロヒムの母星でそれらが中止された後、宇宙探検は新たな惑星間、星間の境界へと進みました。彼らにはまったく新しい可能性が広がりました。
 
-The prologue doesn't end there. After the genetic experiments became polemic and consequently were halted therefrom on the Elohimian home planet, space exploration lead to new interplanetary and interstellar frontiers. A complete new class of possibilities opened for them.
+先述の節の直後、ヤハウェは続けて我々と彼らとを結びつけることを追加します：
 
-Right after the aforementioned passage, Yahweh goes on and adds what ties us to them:
+> 彼らはあなたが住んでいる地球を選びました。
 
-> They chose Earth where you live.
+生命が存在しない地球、しかし素材が豊富な地球は、彼らが求めていた境界を証明しました。だが、誰が彼らでしょうか？「彼ら」とは、エロヒム文明の中で自分たちの母星近くで長距離を旅し、以前は未踏で未知の領域とされていた境界を押し広げる勇気のある者たちを指します。しかし、具体的にはこれらの勇敢な者たちは誰であったのでしょうか？ラエリアン・カノンはこの問いに部分的な答えを提供しています。しかし、この段階では、それがどのような動機でそんなに長い距離を移動しようとしたのか、より深く理解するために、我々は推測してみましょう。これらの推測は、これらの事象がどのような条件で進行したのかをよりよく理解するためのものです。
 
-Earth, a barren but material planet devoid of life proved to be the frontier they were looking for. Who is _they_ though? _They_ refers to brave ones among the Elohimian civilization that were willing to travel long distances in the vicinity of their home planet and push the boundaries of what was previously considered the realm of the unchartered and the unknown. But who in particular could these brave ones have been? The Raëlian canon does offer partial answers to this question. At this stage of the narration however, let us speculate on the nature of that may have been the incentives to go such great lengths to get a better grip on the matter. These speculations will give us a better understanding of the conditions in which these events evolved in.
+[^5]: エクセゲーシス（exegesis）の実践は、宗教文を批判的に解説または解釈することを意味します。簡単に言えば、エクセゲーシスは、聖典の節の本来の意図された意味を探る過程を指します。これはまさにラエリアン教の基礎作品で説明されているようなヤハウェが行っていることです。ヤハウェは聖書の節を解説し、これらの節をどのように理解すべきかを説明します。
+[^6]: ヘブライ語のトーラーでの聖書の創世記はベレーシート（בְּרֵאשִׁית）と呼ばれ、文字通りにはヘブライ語で「初めに」という意味になります。これは、ヘブライ語の聖書では、書籍は冒頭語で名付けられているからです。ヘブライ聖書の最初の書籍の最初の言葉はベレーシート（"初めに..."）。詳細は[冒頭語](https://en.wikipedia.org/wiki/Incipit)を参照してください。
+[^7]: De novo遺伝子合成は、DNA配列を人工的にゼロから作り出すプロセスで、既存のDNAテンプレートが必要ないということです。基本的には新たな遺伝子コードをゼロから書き出すようなものです。詳細は[De novo合成](https://en.wikipedia.org/wiki/De_novo_synthesis)を参照してください。
+[^8]: 映画『ジュラシック・ワールド』（2015年）では、宇宙旅行のアイデアが恐竜テーマパークの競争ビジネスとして簡単に言及されています。この映画は、オリジナルの『ジュラシック・パーク』から約22年後の事件を描いており、完全に稼働している恐竜テーマパーク、ジュラシック・ワールドが描かれています。宇宙テーマのアトラクションを提案するキャラクターは、人々が恐竜を見ることよりも宇宙旅行により興味があると指摘しています。このアイデアは、時間とともに社会の関心と優先事項が変わっていくことを反映しています。
 
-[^5]: The practice of exegesis equates to critically explain or interpret a religious text. In simple terms, exegesis refers to the process of discovering the original and intended meaning of a passage of scripture. This is precisely what Yahweh does as described in the foundational works of Raëlism. Yahweh comments on Biblical passages and explains how these passages should be understood.
-[^6]: The Biblical Book of Genesis is called Bereshith (בְּרֵאשִׁית) in the Hebraic Torah, literally meaning "in the beginning" in Hebrew. This is because in the Hewbrew Bible, books are named using incipits. The first words in first book of the Hebrew Bible is Bereshit ("In the beginning ..."). See more: [Incipit](https://en.wikipedia.org/wiki/Incipit)
-[^7]: De novo gene synthesis is a process where a DNA sequence is artificially created from scratch, without the need for an existing DNA template. Essentially, it is like writing a new genetic code from scratch. See more: [De novo synthesis](https://en.wikipedia.org/wiki/De_novo_synthesis)
-[^8]: In the movie Jurassic World (2015), the idea of space travel is briefly mentioned as a competing business of dinosaur theme parks. The movie is set about 22 years after the events of the original Jurassic Park, and it depicts a fully operational dinosaur theme park called Jurassic World. The character who suggests the space-themed ride notes that people are now more interested in space travel than in seeing dinosaurs. This idea reflects the changing interests and priorities of society over time.
+{{< figure src="images/archaic-blue-planet.png" caption="Ill. 2 - 古代の青い惑星" >}}
 
-{{< figure src="images/archaic-blue-planet.png" caption="Ill. 2 - Archaic blue planet" >}}
+## 科学の経済
+
+すでに指摘したように、その開発段階でのエロヒム文明は、資源とエネルギーの不足に基づいた経済システムによってまだ支配されていた可能性があり、クレジットシステムが存在し、生産手段を最も適した者に割り当てていたと考えるのは合理的でしょう。また、遺伝子工学の実験研究を停止することに責任を持つ公衆の意見が、立法的であり、おそらく彼らの利益に合った行政的な力を持つことに十分な影響力を示していたことを知っています。_Rēs pūblica_、つまり人々の問題が考慮される共和制的要素を持つ政治システムも想定されます。
+
+これら2つの前提が、21世紀の我々自身の経済的・政治的条件を大いに反映していることから、合成工学の研究開発を担当していた研究者たちは、準企業的社会機関（企業と呼ぶこともあるかもしれない）を代表して働いていたと推測することができます。その機関は、彼らの科学的洞察に伴って来る明るい頭脳と力から、かなりの可能性で利益を得ていたはずです。
+
+そのような有望な研究がどのような経済的副作用を生み出したかを想像することは難しいです。遺伝子コードを逆工程する能力、つまり新たな遺伝子コードを書くことができるようになる、ということは現代のソフトウェアソースコードの作成と同じです。遺伝子コードを化学的なソース成分だけでコンパイルし統合する能力、つまり現在のようにソースコードをマシンコードに変換する能力。与えられた遺伝子セットから新しい特性を完全に理解し、模倣することは、現代の一部の技術魔術師がソースコードを読んで新しい機能のセットで機能リポジトリを拡張する方法を思いつくのとあまり変わりません。これらの技術魔術師、一般
 
 ## The economy of science
 

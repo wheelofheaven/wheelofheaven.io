@@ -1,7 +1,7 @@
 ---
-title: "前文 (紀元前 21'810 年以前)"
-description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
-excerpt: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+title: "序文 (紀元前21'810年以前)"
+description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる異星人文明によって知的に設計されたという仮説を探求する知識ベースです。"
+excerpt: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる異星人文明によって知的に設計されたという仮説を探求する知識ベースです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -13,39 +13,35 @@ weight: 204
 toc: true
 ---
 
-The timeline begins some time before around –22'000, right at the doorstep to the Age of Capricorn. What preceeds the Age of Capricorn is an Age of Aquarius of the preceeding Great Year. Before we get started with the first precessional Great Month, the Capricornian World Age, it is worth examining what led up to it. To illustrate what happened, we can take inspiration from a classic of the American film industry, Jurassic Park.
+タイムラインは約22,000年前、すなわち摩羯宮の時代の門戸の直前から始まります。摩羯宮の時代に先立つのは、前の大年の水瓶宮の時代です。摩羯宮の世界時代、つまり最初の歳差の大月を始める前に、それに先立つ出来事を調査する価値があります。それが何だったのかを説明するために、アメリカ映画業界の古典、ジュラシックパークからインスピレーションを得ることができます。
 
-## Hubris or bravery?
+## 傲慢、あるいは勇敢？
 
-Have you watched the classic film series Jurassic Park by Steven Spielberg?[^1] We will be using the movie's premise and fictional setting as a starting point for our journey of space explorers, planet terraformers, and life creators. The first movie introduces us to wealthy and successful entrepreneur John Hammond and his team of brilliant scientists, who use cloning and genetic engineering to bring dinosaurs back to life. According to the movie, prehistoric mosquitos trapped in un-fossilized amber still contain the partially intact blood of some reptiles, which serves as the basis for DNA extraction. To complete the DNA, the gaps are filled with frog DNA through a speculative process. With this, the scientists are able to revive the long-extinct dinosaurs, which are showcased in a theme park on a Central American island, attracting visitors from all over the world.
+あなたはスティーブン・スピルバーグによる古典的な映画シリーズ、ジュラシックパークを観たことがありますか？[^1] 私たちは、映画の設定とフィクションの設定を、宇宙の探検家、惑星のテラフォーマー、生命の創造者たちの旅の出発点として使用します。最初の映画では、裕福で成功した起業家ジョン・ハモンドと彼の優秀な科学者チームが、クローニングと遺伝子工学を使って恐竜を生き返らせることを紹介します。映画では、化石化していない琥珀に閉じ込められた古代の蚊がまだ一部の爬虫類の血を部分的に保持しており、これがDNA抽出の基礎となります。DNAを補完するために、推測的なプロセスを通じてカエルのDNAでギャップが埋められます。これにより、科学者たちは長い間絶滅していた恐竜を再生し、それを中米の島のテーマパークで世界中からの訪問者に披露します。
 
-However, things go wrong when the dinosaurs break free and create chaos, but the main characters manage to survive against all odds and are rescued by an extraction team at the end of the movie, a pattern that continues in the series. The film series is known for its skeptical view of scientific progress and human hubris, inspired by Michael Crichton's 1990 novel of the same name.
+しかし、恐竜が自由になり混乱を引き起こすと、物事はうまくいかなくなりますが、主要キャラクターたちは困難に立ち向かい、映画の最後に救出チームによって救出されます。このパターンはシリーズ全体で続きます。この映画シリーズは、マイケル・クライトンの1990年の同名の小説に触発された科学的進歩と人間の傲慢に対する懐疑的な視点で知られています。
 
-Here's the connection: According to the [Wheel of Heaven hypothesis]({{< relref "intro/at-a-glance/the-hypothesis.md" >}}), based on the revelations made by Yahweh to Raël, what happened at the onset of the Age of Capricorn could have been taken straight from the pages of Jurassic Park: In this scenario, a group of visionary scientists create a new and potentially dangerous species through genetic engineering, which ultimately leads to a catastrophic outcome and endangers their research.
+ここでの接続点は、ヤハウェがラエルに明らかにしたことに基づく[Wheel of Heaven の仮説]({{< relref "intro/at-a-glance/the-hypothesis.md" >}})によれば、摩羯宮の時代の開始時に起こったことは、ジュラシックパークのページから直接取られたかのようなものであるということです。このシナリオでは、ビジョナリーな科学者のグループが遺伝子工学を通じて新しく、潜在的に危険な種を作り出し、それが最終的には災厄の結果をもたらし、彼らの研究を危険にさらす。
 
-[^1]: Jurassic Park is a movie that was directed by Steven Spielberg, but it is actually based on a novel of the same name by Michael Crichton. The book was first published in 1990, and it tells the story of a theme park that is populated by genetically engineered dinosaurs. The book explores the ethical and scientific implications of genetic engineering, as well as the dangers of playing with nature. The movie adaptation of "Jurassic Park" was released in 1993, and it was a huge success. The film brought the story of the novel to a wider audience and introduced many people to the concept of genetically engineered dinosaurs. While the movie adaptation of Jurassic Park differs in some ways from the novel, it stays true to the book's themes and explores many of the same ethical and scientific issues. See here for more: [Jurassic Park (novel) | Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))
+[^1]: ジュラシックパークはスティーブン・スピルバーグが監督した映画ですが、実際にはマイケル・クライトンの同名の小説に基づいています。この本は1990年に初めて出版され、遺伝子操作で作られた恐竜が生息するテーマパークの物語を描いています。本は遺伝子工学の倫理的および科学的な含意、および自然と遊ぶ危険性を探求しています。映画版の「ジュラシックパーク」は1993年に公開され、大成功を収めました。この映画は小説の物語を広く伝え、多くの人々に遺伝子操作で作られた恐竜の概念を紹介しました。ジュラシックパークの映画版は小説といくつかの点で異なりますが、本のテーマに忠実であり、多くの同じ倫理的および科学的な問題を探求しています。詳しくはこちらを参照してください：[ジュラシックパーク（小説）| Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))
 
-{{< figure src="images/saurian-experiments.png" caption="Ill. 1 - Genetic lab experiment gone wrong" >}}
+{{< figure src="images/saurian-experiments.png" caption="図1 - 遺伝子実験の失敗" >}}
 
-## Once upon a time
+## 昔々
 
-Obviously, Jurassic Parc is fictional and no research institution has been in the news for having synthetized an extinct or even a new species of life lately. The events that we're about to discuss are to be situated in a totally different day and age.
+明らかに、ジュラシックパークはフィクションであり、最近、絶滅した種または新しい生命種を合成したというニュースで研究機関が取り上げられることはありません。今から話すことになる出来事は、全く異なる日と時代に位置付けられるべきです。
 
-As we pointed out in the previous chapter [The hypothesis]({{< relref "intro/at-a-glance/the-hypothesis.md" >}}), we acknowledge the narrative put forward in the three founding books of Räelism as canonical[^2]. These books document a series of series of encounters between [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}), the head representative of a Heavenly extraterrestrial council of Eternals, that were mistaken for Gods over the ages, and a Frenchman. This council of Eternals is best considered a governing body of an extraterrestrial civilization we commonly remember as the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}). The aforementioned Frenchman, who was given the name Ra-el designating his role as an Earthly ambassador, went on to form a new religious movement, [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})[^3]. One of the main goals of the newly found movement is to preserve, translate and propagate the messages entrusted by Yahweh to all receptive ears. In these messages, Yahweh demystifies the notion of God, revises the meaning of religion and recounts an in-depth retelling of the Biblical Genesis creation narrative.
+前章で指摘したように、[仮説]({{< relref "intro/at-a-glance/the-hypothesis.md" >}})で、我々は、ラエリアン教の三冊の創設書が示す物語を、正典として認識しています[^2]。これらの本は、神々と誤解されてきた永遠の者たちの評議会の首代表である[ヤハウェ]({{< relref "wiki/encyclopedia/yahweh.md" >}})と、フランス人との一連の出会いを記録したものです。この評議会の永遠の者たちは、我々が一般的に[エロヒム]({{< relref "wiki/encyclopedia/elohim.md" >}})と記憶している宇宙文明の政府機関として最も適しています。このフランス人は、地球の大使としての役割を指すラエルという名前を与えられ、新たな宗教運動である[ラエリアン教]({{< relref "wiki/encyclopedia/raelism.md" >}})[^3]を形成しました。新設された運動の主な目標の一つは、ヤハウェによって委託されたメッセージを保管、翻訳し、受け入れる耳に伝えることです。これらのメッセージの中で、ヤハウェは神の概念を神秘化し、宗教の意味を改訂し、聖書の創世記の創造物語を詳細に再話します。
 
-In one of these retellings, Yahweh gives a significant chronological clue to situate the beginning of their arrival on planet Earth:
+その一つの再話の中で、ヤハウェは地球への彼らの到着の開始を位置付けるための重要な時間的手がかりを与えます。
 
-> Some 22,000 years ago, your creators decided to start their work on Earth, and everything that has happened since was anticipated because the movement of the galaxy implies this knowledge.
+> 約22,000年前、あなたたちの創造に先立ち、我々は地球に到着しました。[^4]
 
-This puts us right at in between the years of –21'810 and –19'650, the range of years that make up the Age of Capricorn. The Elohim allegedly came to Earth and started their work thereon. While the precessional wobble of the Earthly axis is not unique to this planet, the duration and the effect it has on the observable night sky is. As much as an Earhtly day or an Earthly year are unique characteristics of our planet, the precessional [World Ages]({{< relref "wiki/encyclopedia/world-age.md" >}}) as much of a unique characteristic.
+[^2]: ラエリアン運動の創設書は、彼らの指導者であるラエル（本名：クロード・ヴォリロン）によって書かれた三冊の本で構成されています。それらは「地球の使者たち」（1974年）、「終わりの書」（1975年）、「宇宙の人間の永遠の生命」（2003年）です。
 
-Therefore, the moment of arrival of an extraterrestrial civilization to a planet devoid of life would mark the beginning of having an intelligent entity being capable of observing astral phenomenons as seen from planet Earth. Along the twelve World Ages, the Age of Capricorn starting in –21'810 would make an appropriate starting point of the overall chronology put forward here on Wheel of Heaven.
+[^3]: ラエリアン教は、1970年代にラエルによって創設された新興宗教です。この宗教は、地球上の生命が宇宙から来た科学者たちによって創造され、これらの科学者が聖書で言及される「神」であると主張します。ラエリアン教は、自己の開発、愛、個々の自由、そして全ての生命の尊重を強調します。
 
-Moreover, in ordinary or popular astrology, the astrological sign of Capricorn is thought to last from 22nd of December to 19th of January[^4]. In the Gregorian calender, the New Year's Day falls on the 1st of January. This makes both the precession induced Age of Capricorn as well as the ordinary astrological sign Capricorn symbols of start and end of a longer cycle. What an interesting coincidence that deserves more pondering.  To recap, the Age of Capricorn is best considered to be the precessional January, starting in –21'810, where a full precessional year, the Great Year takes full 25'920 years. The Age of Capricorn presently marking the arrival of the Elohim on planet Earth.
-
-[^2]: The authors and maintainers of this website, Wheel of Heaven, believe that Raëlism and its three primary books offer the most logical and consistent explanations to date. As a result, these books are regarded as canonical and will be frequently cited and referenced on the website.
-[^3]: The letter _ë_ is relict from the French language, in which the diaresis that indicates that the _ë_ is to be pronounced separately from the preceding vowel, rendering the morpheme _raël_ to be correctly pronounced as one would in pronouncing the name Raphael.
-[^4]: The name of the first month of the year, January, goes back to the Roman god of gateways and beginnings, Janus. The etymology of Janus, or as written in Latin Iānus, literally meaning "arched passage" or "doorway", ultimately comes from the Proto-Indo-European *ieh₂nu "passage".
+[^4]: 「地球の使者たち」、P.133、15章「過去からの一日」より抜粋。
 
 ## On a distant planet
 

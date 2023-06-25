@@ -93,9 +93,9 @@ Plus tard dans le même livre, il traduit avec diligence les premiers passages d
 
 Biglino encourage clairement les lecteurs à considérer les Elohìm comme une pluralité réelle de personnes, plutôt qu'une entité singulière, et soutient que le nom du Dieu biblique, Elohim, est un pluriel qui peut être traduit par "les seigneurs d'en haut".
 
-Selon Paul Anthony Wallis
+## Selon Paul Anthony Wallis
 
-Paul Anthony Wallis, un auteur australien spécialisé dans la réinterprétation des écritures bibliques avec un Elohim au pluriel, traduit Elohim par les "Puissants". Cette traduction est expliquée, par exemple, dans son premier livre sur le sujet intitulé *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs*, où il explique comment il utilise la racine sémitique du mot Elohim :
+Paul Anthony Wallis, un auteur australien spécialisé dans la réinterprétation des écritures bibliques avec un Elohim au pluriel, traduit Elohim par les "Puissants". Cette traduction est expliquée, par exemple, dans son premier livre sur le sujet intitulé _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, où il explique comment il utilise la racine sémitique du mot Elohim :
 
 > Quelle que soit notre conception d'eux, l'histoire nous invite à reconnaître un pouvoir bien au-delà de tout ce que nous connaissons. Pour le dire sobrement, ils sont clairement différents de nous ! Pour simplifier, je m'en tiendrai à la signification racine du mot "elohim" et je désignerai ces entités comme les "Puissants".
 

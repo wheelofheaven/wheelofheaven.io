@@ -1,8 +1,8 @@
 ---
-title: "Elohim"
-alternatives: ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods","The Powerful Ones", "The Ones from the Skies", "Theosites"]
-description: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civlization capable of interstellar travel, terraforming planets and life synthetization."
-lead: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civilization capable of interstellar travel, terraforming planets and life synthetization."
+title: "以利沙"
+alternatives: ["阿努那奇", "天界之神", "造物主", "德意志", "以利", "众神", "强大者", "来自天空之人", "神徒"]
+description: "以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的希伯来语词汇，通常被翻译为神。它是一个复数名词，其使用在圣经学者之间引起了很多争议，涉及其意义。"
+lead: "以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的希伯来语词汇，通常被翻译为神。它是一个复数名词，其使用在圣经学者之间引起了很多争议，涉及其意义。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,84 +14,83 @@ weight: 200
 toc: true
 ---
 
-The term Elohim (Hebrew: אֱלֹהִים, 'ēlohîm) is a Hebrew word used in the Old Testament of the Bible and is typically translated as God. It is a plural noun, and its use has led to much debate among biblical scholars regarding its significance.
+以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的一个词，通常被翻译为神。这是一个复数名词，其使用在圣经学者之间引发了许多关于其重要性的辩论。
 
-In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
+在传统的犹太教和基督教中，使用复数名词来描述神被理解为一种尊贵的复数形式，类似于国王可能用皇家的“我们”来称呼自己的方式。然而，一些圣经学者和宗教传统对于“以利沙”这个复数名词的使用持有不同的观点。有人认为这是古代近东多神论信仰的证据，该术语指的是负责世界不同方面的众神委员会。根据这种解释，一神论的概念，即只信仰一个神，逐渐在古代以色列逐渐发展起来。
 
-## Plural form
+## 复数形式
 
-The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
+如果接受Elohim的复数性，将挑战圣经中将上帝理解为单一实体的传统观念。这将对我们理解上帝的本质和特征，以及圣经中描述的故事和事件产生巨大影响。它还将引发关于Elohim不同派别之间、其他强大存在和人类之间关系的问题。此外，这些强大存在的本质可能对宗教信仰产生潜在影响，特别是如果这些存在具有外星起源的话。将Elohim解释为复数实体还将引发有关人类起源和我们在宇宙中的位置的问题。这可能导致我们对圣经及其教义的理解出现重大的范式转变。
 
-## Etymology
+## 词源学
 
-The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl.[^1] In its plural form ʾilhm, it denotes "powers" or, if applied to a subject, "powerful ones."[^2]
+Elohim一词源自圣经希伯来文ʾélôhím（אֱלֹהִים / אֱלוֹהִים），它是ʾélôah（אֱלוֹהַּ）的复数形式。这个词是ʾēl（אֵל）的扩展形式，它的闪族根源是ʾlh或ʾl。[^1] 在它的复数形式ʾilhm中，它表示"力量"，或者如果应用于一个主体，则表示"强大者"。[^2]
 
-The oldest known Semitic language is Akkadian, and its cognate of ʾēl (אֵל) is ilum. Ilum, in turn, is derived from the Proto-Semitic *ʔil-.[^3] The Sumerian cuneiform script was used to write Akkadian, and ilum can be represented in cuneiform as a logogram (𒀭), syllables (𒄿𒈝), or a combination of both (𒀭𒈝).[^4]
+已知的最古老的闪族语言是阿卡德语，ʾēl（אֵל）在阿卡德语中的对应词是ilum。而ilum又源自原始闪族语的*ʔil-。[^3] 用于书写阿卡德语的是苏美尔楔形文字，ilum可以用作一个表意符号（𒀭），音节符号（𒄿𒈝），或者两者的结合（𒀭𒈝）[^4]。
 
-The logogram 𒀭 (DINGIR) represents an individual god,[^5] while as an ideogram, it represents "sky" or "heaven".[^6] The Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki) contains 𒀭 as ān, which means "sky".[^7]
+表意符号𒀭（DINGIR）代表一个单独的神，而作为一个指示符号，它代表"天空"或"天堂"。[^5][^6]苏美尔语中的𒀭𒀀𒉣𒈾（发音为Annunaki）包含了𒀭作为ān，意思是"天空"。[^7]
 
-In summary, Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as "power." The Sumerogram 𒀭, meaning "sky," provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
+总之，Elohim是更古老的阿卡德语词汇ilum的同源词，用苏美尔语的𒀭表示，意思是"天空"。希伯来文ʾēl或阿卡德语ilum的闪族根源通常被理解为"力量"。苏美尔语的𒀭，表示"天空"，更好地指示了它在与这些来自天空的神的强大性相关联之前的原始根源意义。
 
-## According to Jean Sendy
+## 论述照本宣科的读经方式
 
-Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
+让·桑迪（Jean Sendy）是一位法国作家，专著古代宇航员领域，他将Elohim译为"来自天空的神"或"天上的神"。他认为，希伯来圣经中的Elohim一词指的是一群不严格意义上的神灵，而是来自天上的强大、先进的存在类别，与人类互动。
 
-In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the following about the plurality of the word Elohim:
+在他的书《创造天地的神》的早期章节中，他对Elohim一词的复数形式提出了如下论述：
 
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann.
+> 以海因里希·施利曼读荷马史诗的方式阅读圣经意味着忽视了几个世纪以来积累的诠释，并以其最具体的意义来处理文本。他们公开宣称在圣经中寻求上帝存在的证据。对于那些像施利曼一样阅读圣经的人来说，他们假定文本应该按其最具体的意义来理解，上帝就像希腊人和特洛伊人的宗教信仰与施利曼无关一样。
 >
-> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God", is a plural. If we read "Those who came from the sky", or "the Celestials", each time the plural Elohim occurs we find ourselves reading a narrative that needs no exeges, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
+> 当我们以这种方式阅读圣经时，我们首先必须注意到，希伯来语中的Elohim一词通常被翻译为"上帝"，它是一个复数形式。如果我们将其阅读为"那些来自天空的人"或"天上的神"，每当复数形式Elohim出现时，我们发现自己阅读的叙述完全连贯，不需要诠释，不需要指引，不需要任何宗教信仰。
 >
-> Voltaire knew that a Hebrew word meaning "gods" had been translated as "God", but people who now claim intellectual kinship with Voltaire have forgotten it.
+> 伏尔泰知道希伯来语中的一个意思是"诸神"的词被翻译为"上帝"，但现在声称与伏尔泰有知识上关联的人已经忘记了这一点。
 >
-> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
+> 以这种方式阅读，创世记似乎是对完全具体的天上的神来到地球的记述，他们的形象与我们相似，在地球上的行为就像我们可以想象我们自己的宇航员在另一个行星上行为一样，虽然这个未来还远，但已不再属于科幻的领域。
 >
-> — Those Gods Who Made Heaven & Earth, p. 13
+> — 《创造天地的神々》，第13页（翻译）
 
-The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
+该段落认为，以海因里希·施利曼读荷马史诗的方式阅读圣经意味着忽视了几个世纪以来积累的诠释，并以其最具体的意义来处理文本。希伯来语中的Elohim一词通常被翻译为"上帝"，它是一个复数词。通过将其阅读为"天上的神"或"那些来自天空的人"而不是"上帝"，叙述变得连贯，不需要任何宗教信仰。
 
-### A Gentleman's Joyous Esotericism
+### 绅士的欢乐秘教主义
 
-In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of the alleged existence of so-called _Theosites_ is a central key aspect of Sendy's thought, in the seminal paper, these Theosites are introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+在一篇题为《绅士的欢乐秘教主义》的重要论文中 (A Gentleman's Joyous Esotericism)，斯特凡诺·比利亚尔迪详细描绘了让·桑迪（Jean Sendy）的精确肖像。由于所谓的「神宗教者（Theosites）」的假设存在是桑迪思想的一个核心关键，该重要论文通过引用让·桑迪的著作《莫西课程笔记》（法语为Les cahiers de cours de Moïse）介绍了这些神宗教者的概念，具体如下：
 
-> The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201).
+> 故事是关于外星宇航员抵达地球，桑迪称其为「神宗教者」（他们的家园行星名为Theos，第201页）。
 
-In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
+在同一篇论文中，比利亚尔迪还指出，桑迪还展示了对不同派别的神宗教者可能使用不同名称的可能性有一个细腻的理解：
 
-> “Elohim”  designates a specific faction of the Theosites, not all of them (p. 203).
+> 「Elohim」指的是神宗教者中的特定派别，而不是所有派别（第203页）。
 
-## According to Mauro Biglino
+## 马乌罗·比利尼诺的观点
 
-Mauro Biglino is an Italian author, translator, and researcher who is known for his controversial work on the Bible. He worked for over a decade as a translator for the Catholic Church at the Vatican, where he translated ancient Hebrew and Greek texts. According to Biglino, his work as a translator has given him access to ancient, uncensored versions of the Bible, which he claims have been altered over time.
+马乌罗·比利尼诺是意大利的一位作家、翻译家和研究人员，以其对圣经的引人注目的研究工作而闻名。他曾在梵蒂冈担任天主教教会的翻译员长达十年以上的时间，翻译古希伯来语和古希腊语的文本。根据比利尼诺的说法，作为翻译员的工作使他接触到了古老、未经审查的圣经版本，而他声称这些版本随着时间的推移发生了变化。
 
-In his book _The Book That Will Forever Change Our Ideas About The Bible_, he says the following about how the name of the Biblical God is a plural and can be translated as the "being from above":
+在他的书《将永远改变我们对圣经的看法的书》中，他对圣经上帝的名字是复数形式并可以翻译为“来自上方的存在”作了如下描述：
 
-> The concept of “space” must be considered as the foundation of everything that has to do with the divine: the Sumerian term for deities is DINGIR, which actually refers to the meaning of “celestial apparition” highlighting its brightness and shine and then recalling the lords' flying machines, which were bright and glittering. Their ideogram symbolized a star and represented a “being from above”.
+> “空间”的概念必须被视为与神圣有关的一切的基础：苏美尔文明中表示神的术语是DINGIR，实际上是指“天上的出现”，强调它的明亮和闪耀，并提到了主的飞行器，那些明亮而闪闪发光的机器。它们的象形符号代表星星，代表“来自上方的存在”。
 >
-> We immediately note that this is exactly the same meaning as the biblical term ELOHÌM, “the lords from above”: term that is usually – but wrongly! – translated using the singular form to keep the concept of God's oneness.
+> 我们立即注意到，这与圣经中的ELOHÌM一词的意义完全相同，即“来自上方的主”：这个词通常被错误地以单数形式翻译，以维持上帝的唯一性的概念。
 
-Later on, in the same book, he diligently translates the early Genesis passages as follows:
+在同一本书中，他仔细翻译了《创世纪》早期的经文，如下所示：
 
->> And the Elohìm said: let us make man with image of us and in our liking
+>> 上帝说：“我们要照着我们的形象，按着我们的样式造人。”
 >
-> But the editor of the story seems to feel the need to emphasize something that the reader must absolutely understand: there must be no doubt whatsoever because certainly this is an extraordinary event, and soon you'll understand why.
+> 但是，故事的编辑似乎感到有必要强调读者绝对必须理解的一点：绝对不能有任何疑问，因为这肯定是一件非凡的事件，不久你将明白为什么。
 >
-> In the next verse (1:27), indeed, it seems he wants to make it clear:
+> 在接下来的经文（1:27）中，似乎他想要明确：
 >
->> And the Elohìm made man with his image. With image of Elohìm he made. [He] made them male and female
+>> 上帝造了人，乃是照着自己的形象，照着上帝的样式造的。他们是男的和女的。
 >
-> In short, the author wants to tell us that the Elohìm (Semitic plural term for the “lords from above”) made man by using their “tselèm” ( צֶלֶם). But what is tselèm (צֶלֶם)? And was this particular so important to point it out twice?
+> 简而言之，作者想要告诉我们，Elohìm（来自上方的主的塞米特复数形式）通过使用他们的“tselèm”（צֶלֶם）创造了人。但是，什么是tselèm（צֶלֶם）？为什么这么重要以至于要强调两次呢？
 >
-> Before seeing the deeper meaning of this Semitic root, we note that the Bible tells us how the Elohìms took this decision and said “let's do”, using a Hebrew verbal form that is called “cohortative mood”: a form that contains the value of an exhortation, an invitation to do, a solicitation.
+> 在看到这个塞米特语根的更深层含义之前，我们注意到圣经告诉我们，Elohìms做出了这个决定，并说“让我们来”，使用了一种希伯来语的动词形式，称为“命令式语气”：一种包含着鼓励、邀请、促请意义的形式。
 >
-> In this “cohortative mood” we can see a kind of summary of several discussions, hypothesis and suggestions that Enki must have given to his team in order to find a solution to the problems we have listed in the previous chapter.
+> 在这种“命令式语气”中，我们可以看到一种多次讨论、假设和建议的总结，这些讨论、假设和建议恩奇必须给他的团队，以解决我们在前一章中列举的问题。
 >
-> Thus, using the “coortative mood” Genesis says: «Come on, let's work, let's proceed...».
-> Moreover, the issue of the term Elohìm - plural - cannot be dismissed too easily. We who try to practice freedom of thought and do not have any monotheistic dogma to defend, can proceed with confidence to consider “The Elohìm” as a real plurality of persons.
+> 因此，使用“命令式语气”，《创世纪》说：“来吧，让我们工作，让我们继续...”。另外，Elohìm这个词的复数形式的问题也不容忽视。我们试图实践思想自由，并没有任何一神教义要捍卫，所以我们可以有信心将“Elohìm”看作是真实的多个个体。
 >
-> Ancient exegetes believed that the matter cannot be underestimated, [...]
+> 古代解释学家认为，这个问题不能轻视，[...]
 
-Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above."
+比利尼诺明确鼓励读者将Elohìm视为真正的多个个体，而不是一个单一的实体，并认为圣经上帝的名字Elohim是一个复数形式，可以翻译为“上方的主们”。
 
 ## According to Paul Anthony Wallis
 

@@ -1,8 +1,8 @@
 ---
 title: "Elohim"
-alternatives: ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods","The Powerful Ones", "The Ones from the Skies", "Theosites"]
-description: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civlization capable of interstellar travel, terraforming planets and life synthetization."
-lead: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civilization capable of interstellar travel, terraforming planets and life synthetization."
+alternatives: ["Annunaki", "Célestes", "Créateurs", "Dei", "El", "Dieux", "Les Puissants", "Ceux du Ciel", "Les Théosites"]
+description: "Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement les Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné aux dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée, capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser la vie."
+lead: "Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement les Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné aux dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée, capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser la vie."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,132 +14,130 @@ weight: 200
 toc: true
 ---
 
-The term Elohim (Hebrew: אֱלֹהִים, 'ēlohîm) is a Hebrew word used in the Old Testament of the Bible and is typically translated as God. It is a plural noun, and its use has led to much debate among biblical scholars regarding its significance.
+Le terme Elohim (hébreu : אֱלֹהִים, 'ēlohîm) est un mot hébreu utilisé dans l'Ancien Testament de la Bible et est généralement traduit par Dieu. C'est un nom pluriel, et son utilisation a suscité de nombreux débats parmi les chercheurs bibliques quant à sa signification.
 
-In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
+Dans le judaïsme traditionnel et le christianisme, l'utilisation d'un nom pluriel pour décrire Dieu est interprétée comme un pluriel de majesté, de manière similaire à la façon dont un roi peut se référer à lui-même en utilisant le "nous" royal. Cependant, certains chercheurs bibliques et traditions religieuses adoptent une approche différente de l'utilisation du nom pluriel "Elohim". Certains soutiennent qu'il est la preuve d'une croyance polythéiste dans l'ancien Proche-Orient, où le terme désignait un conseil de dieux responsables de différents aspects du monde. Selon cette interprétation, le concept de monothéisme, la croyance en un seul Dieu, a évolué progressivement au fil du temps dans l'ancien Israël.
 
-## Plural form
+## Forme plurielle
 
-The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
+La pluralité d'Elohim, si elle est acceptée, remettrait en question la compréhension traditionnelle de Dieu en tant qu'entité singulière dans la Bible. Cela aurait d'énormes implications sur la manière dont nous comprenons la nature et le caractère de Dieu, ainsi que les récits et les événements décrits dans la Bible. Cela soulèverait également des questions sur la relation entre les différentes factions des Elohim, les autres êtres puissants et les êtres humains. De plus, la nature même de ces êtres puissants pourrait avoir un impact potentiel sur les croyances religieuses, en particulier si ces êtres étaient d'origine extraterrestre. L'interprétation d'Elohim en tant qu'entité plurielle soulèverait également des questions sur les origines de l'humanité et notre place dans l'univers. Cela pourrait potentiellement conduire à un changement de paradigme significatif dans notre compréhension de la Bible et de ses enseignements.
 
-## Etymology
+## Étymologie
 
-The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl.[^1] In its plural form ʾilhm, it denotes "powers" or, if applied to a subject, "powerful ones."[^2]
+Le mot Elohim provient de l'hébreu biblique ʾélôhím (אֱלֹהִים / אֱלוֹהִים), qui est la forme plurielle de ʾélôah (אֱלוֹהַּ). Ce terme est une forme étendue de ʾēl (אֵל), dont la racine sémitique est ʾlh ou ʾl.[^1] Dans sa forme plurielle ʾilhm, il désigne les "puissances" ou, lorsqu'il est appliqué à un sujet, les "puissants".[^2]
 
-The oldest known Semitic language is Akkadian, and its cognate of ʾēl (אֵל) is ilum. Ilum, in turn, is derived from the Proto-Semitic *ʔil-.[^3] The Sumerian cuneiform script was used to write Akkadian, and ilum can be represented in cuneiform as a logogram (𒀭), syllables (𒄿𒈝), or a combination of both (𒀭𒈝).[^4]
+La plus ancienne langue sémitique connue est l'akkadien, et son équivalent de ʾēl (אֵל) est ilum. Ilum, à son tour, est dérivé du proto-sémitique *ʔil-.[^3] L'écriture cunéiforme sumérienne était utilisée pour écrire l'akkadien, et ilum peut être représenté en cunéiforme sous forme de logogramme (𒀭), de syllabes (𒄿𒈝) ou d'une combinaison des deux (𒀭𒈝).[^4]
 
-The logogram 𒀭 (DINGIR) represents an individual god,[^5] while as an ideogram, it represents "sky" or "heaven".[^6] The Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki) contains 𒀭 as ān, which means "sky".[^7]
+Le logogramme 𒀭 (DINGIR) représente un dieu individuel,[^5] tandis que sous forme d'idéogramme, il représente "ciel" ou "paradis".[^6] Le mot sumérien 𒀭𒀀𒉣𒈾 (prononcé Annunaki) contient 𒀭 comme ān, ce qui signifie "ciel".[^7]
 
-In summary, Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as "power." The Sumerogram 𒀭, meaning "sky," provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
+En résumé, Elohim est une cognate du terme akkadien plus ancien ilum, qui est écrit avec le sumérien 𒀭, signifiant "ciel". La racine sémitique de l'hébreu ʾēl ou de l'akkadien ilum est ʾl, qui est généralement compris comme "puissance". Le sumérien 𒀭, signifiant "ciel", donne une meilleure indication de la signification racine originale avant qu'elle ne soit associée à la puissance de ces dieux venus du ciel.
 
-## According to Jean Sendy
+## Selon Jean Sendy
 
-Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
+Jean Sendy, un auteur français qui a écrit sur le sujet des anciens astronautes, traduit Elohim par "les dieux venus du ciel" ou les Célestes. Il soutient que le terme Elohim dans la Bible hébraïque fait référence à un groupe d'êtres qui n'étaient pas strictement divins, mais plutôt une classe d'êtres puissants et avancés venant du ciel céleste et interagissant avec l'humanité.
 
-In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the following about the plurality of the word Elohim:
+Dans les premières pages de son livre _Ces dieux qui firent le ciel et la terre_, il dit ce qui suit à propos de la pluralité du mot Elohim :
 
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann.
+> Lire la Bible comme Schliemann a lu Homère signifie ignorer toutes les exégèses qui se sont accumulées autour d'elle au cours des deux mille dernières années. Leur but avoué est de chercher la preuve de l'existence de Dieu dans la Bible. Pour quelqu'un qui lit la Bible "à la Schliemann", en supposant que le texte doit être pris dans son sens le plus concret, Dieu est aussi éloigné du sujet que les croyances religieuses des Grecs et des Troyens l'étaient pour Schliemann.
 >
-> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God", is a plural. If we read "Those who came from the sky", or "the Celestials", each time the plural Elohim occurs we find ourselves reading a narrative that needs no exeges, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
+> Lorsque nous lisons la Bible de cette manière, nous devons d'abord noter que le mot hébreu Elohim, généralement traduit par "Dieu", est au pluriel. Si nous lisons "Ceux qui vinrent du ciel" ou "les Célestes", chaque fois que le pluriel Elohim apparaît, nous nous trouvons en train de lire un récit qui n'a besoin d'aucune exégèse, d'aucun encouragement utile, d'aucune conviction religieuse pour être parfaitement cohérent.
 >
-> Voltaire knew that a Hebrew word meaning "gods" had been translated as "God", but people who now claim intellectual kinship with Voltaire have forgotten it.
+> Voltaire savait qu'un mot hébreu signifiant "dieux" avait été traduit par "Dieu", mais ceux qui revendiquent aujourd'hui une parenté intellectuelle avec Voltaire l'ont oublié.
 >
-> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
+> Lu de cette manière, la Genèse apparaît comme un récit de l'arrivée de Célestes parfaitement concrets, physiquement à notre image, qui se comportaient sur terre comme nous pouvons imaginer que nos propres astronautes se comporteraient sur une autre planète dans un avenir lointain mais qui n'appartient plus à la science-fiction.
 >
-> — Those Gods Who Made Heaven & Earth, p. 13
+> — Ces dieux qui firent le ciel et la terre, p. 13
 
-The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
+Le passage soutient que lire la Bible de la même manière que Heinrich Schliemann a lu Homère signifie ignorer des siècles d'exégèse accumulée et aborder le texte dans son sens le plus concret. Le mot hébreu Elohim, généralement traduit par "Dieu", est un mot pluriel. En le lisant comme "les Célestes" ou "ceux qui viennent du ciel" au lieu de "Dieu", le récit devient cohérent et ne nécessite aucune conviction religieuse.
 
-### A Gentleman's Joyous Esotericism
+### L'ésotérisme joyeux d'un gentleman
 
-In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of the alleged existence of so-called _Theosites_ is a central key aspect of Sendy's thought, in the seminal paper, these Theosites are introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+Dans un article fondateur portant le même titre (A Gentleman's Joyous Esotericism), Stefano Bigliardi développe un portrait précis de Jean Sendy. Comme l'idée de l'existence présumée des prétendus _Théosites_ est un aspect clé de la pensée de Sendy, ces Théosites sont introduits dans l'article fondateur par le biais des références au livre de Jean Sendy, _Les cahiers de cours de Moïse_, comme suit :
 
-> The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201).
+> L'histoire raconte l'arrivée sur Terre de cosmonautes extraterrestres, que Sendy appelle les Théosites (leur planète d'origine étant Theos, p. 201).
 
-In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
+Dans le même travail, Bigliardi souligne également que Sendy a également montré une compréhension nuancée de la possibilité que différentes factions parmi les Théosites puissent être désignées par différents noms :
 
-> “Elohim”  designates a specific faction of the Theosites, not all of them (p. 203).
+> "Élohim" désigne une faction spécifique des Théosites, pas tous (p. 203).
 
-## According to Mauro Biglino
+## Selon Mauro Biglino
 
-Mauro Biglino is an Italian author, translator, and researcher who is known for his controversial work on the Bible. He worked for over a decade as a translator for the Catholic Church at the Vatican, where he translated ancient Hebrew and Greek texts. According to Biglino, his work as a translator has given him access to ancient, uncensored versions of the Bible, which he claims have been altered over time.
+Mauro Biglino est un auteur, traducteur et chercheur italien connu pour son travail controversé sur la Bible. Il a travaillé pendant plus d'une décennie comme traducteur pour l'Église catholique au Vatican, où il a traduit des textes anciens en hébreu et en grec. Selon Biglino, son travail de traducteur lui a donné accès à des versions anciennes et non censurées de la Bible, qui auraient été modifiées au fil du temps.
 
-In his book _The Book That Will Forever Change Our Ideas About The Bible_, he says the following about how the name of the Biblical God is a plural and can be translated as the "being from above":
+Dans son livre _Le livre qui changera à jamais notre perception de la Bible_, il dit ce qui suit sur le fait que le nom du Dieu biblique est un pluriel et peut être traduit par "les seigneurs d'en haut" :
 
-> The concept of “space” must be considered as the foundation of everything that has to do with the divine: the Sumerian term for deities is DINGIR, which actually refers to the meaning of “celestial apparition” highlighting its brightness and shine and then recalling the lords' flying machines, which were bright and glittering. Their ideogram symbolized a star and represented a “being from above”.
+> Le concept d'"espace" doit être considéré comme le fondement de tout ce qui a trait au divin : le terme sumérien pour désigner les divinités est DINGIR, qui se réfère en réalité à la signification de "apparition céleste" en mettant en évidence sa luminosité et son éclat, rappelant ensuite les machines volantes des seigneurs, qui étaient lumineuses et étincelantes. Leur idéogramme symbolisait une étoile et représentait un "être d'en haut".
 >
-> We immediately note that this is exactly the same meaning as the biblical term ELOHÌM, “the lords from above”: term that is usually – but wrongly! – translated using the singular form to keep the concept of God's oneness.
+> Nous constatons immédiatement que cela a exactement la même signification que le terme biblique ELOHÌM, "les seigneurs d'en haut" : un terme qui est généralement - mais à tort ! - traduit au singulier pour maintenir le concept de l'unicité de Dieu.
 
-Later on, in the same book, he diligently translates the early Genesis passages as follows:
+Plus tard dans le même livre, il traduit avec diligence les premiers passages de la Genèse de la manière suivante :
 
->> And the Elohìm said: let us make man with image of us and in our liking
+>> Et les Elohìm dirent : Faisons l'homme à notre image, selon notre ressemblance.
 >
-> But the editor of the story seems to feel the need to emphasize something that the reader must absolutely understand: there must be no doubt whatsoever because certainly this is an extraordinary event, and soon you'll understand why.
+> Mais l'auteur de l'histoire semble ressentir le besoin de souligner quelque chose que le lecteur doit absolument comprendre : il ne doit y avoir aucun doute, car il s'agit certainement d'un événement extraordinaire, et bientôt vous comprendrez pourquoi.
 >
-> In the next verse (1:27), indeed, it seems he wants to make it clear:
+> Au verset suivant (1:27), il semble vouloir le préciser :
 >
->> And the Elohìm made man with his image. With image of Elohìm he made. [He] made them male and female
+>> Et les Elohìm créèrent l'homme à leur image. À l'image des Elohìm, ils le créèrent. Il les créa mâle et femelle.
 >
-> In short, the author wants to tell us that the Elohìm (Semitic plural term for the “lords from above”) made man by using their “tselèm” ( צֶלֶם). But what is tselèm (צֶלֶם)? And was this particular so important to point it out twice?
+> En bref, l'auteur veut nous dire que les Elohìm (terme sémitique au pluriel pour les "seigneurs d'en haut") ont créé l'homme en utilisant leur "tselèm" (צֶלֶם). Mais qu'est-ce que le tselèm (צֶלֶם) ? Et pourquoi est-ce si important que cela soit souligné deux fois ?
 >
-> Before seeing the deeper meaning of this Semitic root, we note that the Bible tells us how the Elohìms took this decision and said “let's do”, using a Hebrew verbal form that is called “cohortative mood”: a form that contains the value of an exhortation, an invitation to do, a solicitation.
+> Avant d'approfondir le sens de cette racine sémitique, nous constatons que la Bible nous dit comment les Elohìms ont pris cette décision et ont dit "faisons", en utilisant une forme verbale hébraïque appelée "mode cohortatif" : une forme qui contient la valeur d'une exhortation, d'une invitation à agir, d'une sollicitation.
 >
-> In this “cohortative mood” we can see a kind of summary of several discussions, hypothesis and suggestions that Enki must have given to his team in order to find a solution to the problems we have listed in the previous chapter.
+> Dans ce "mode cohortatif", nous pouvons voir une sorte de résumé de plusieurs discussions, hypothèses et suggestions que Enki a dû donner à son équipe pour trouver une solution aux problèmes que nous avons énumérés dans le chapitre précédent.
 >
-> Thus, using the “coortative mood” Genesis says: «Come on, let's work, let's proceed...».
-> Moreover, the issue of the term Elohìm - plural - cannot be dismissed too easily. We who try to practice freedom of thought and do not have any monotheistic dogma to defend, can proceed with confidence to consider “The Elohìm” as a real plurality of persons.
+> Ainsi, en utilisant le "mode cohortatif", la Genèse dit : « Allons-y, travaillons, avançons... ».
+> De plus, la question du terme Elohìm - pluriel - ne peut pas être facilement écartée. Nous qui essayons de pratiquer la liberté de pensée et n'avons aucun dogme monothéiste à défendre, pouvons avancer en toute confiance pour considérer "Les Elohìm" comme une véritable pluralité de personnes.
 >
-> Ancient exegetes believed that the matter cannot be underestimated, [...]
+> Les anciens exégètes estimaient que cette question ne pouvait pas être sous-estimée, [...]
 
-Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above."
+Biglino encourage clairement les lecteurs à considérer les Elohìm comme une pluralité réelle de personnes, plutôt qu'une entité singulière, et soutient que le nom du Dieu biblique, Elohim, est un pluriel qui peut être traduit par "les seigneurs d'en haut".
 
-## According to Paul Anthony Wallis
+Selon Paul Anthony Wallis
 
-Paul Anthony Wallis, an Australian author on the subject of re-interpreting the Biblical scriptures with a plural Elohim, translates Elohim as the "Powerful Ones". This translation for instance explained in his first book on the topic, called _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, how he uses the Semitic root of the word Elohim:
+Paul Anthony Wallis, un auteur australien spécialisé dans la réinterprétation des écritures bibliques avec un Elohim au pluriel, traduit Elohim par les "Puissants". Cette traduction est expliquée, par exemple, dans son premier livre sur le sujet intitulé *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs*, où il explique comment il utilise la racine sémitique du mot Elohim :
 
-> In whichever we may conceive of them, the story invites us to recognize a power well beyond anything we are familiar with. To understate it, they are clearly different to us! For simplicity, I will stick to the root meaning of the word “elohim” and refer to these entities as the “Powerful Ones”.
+> Quelle que soit notre conception d'eux, l'histoire nous invite à reconnaître un pouvoir bien au-delà de tout ce que nous connaissons. Pour le dire sobrement, ils sont clairement différents de nous ! Pour simplifier, je m'en tiendrai à la signification racine du mot "elohim" et je désignerai ces entités comme les "Puissants".
 
-Wallis, an educated Biblical scholar, started his journey of translating the Bible in a different way by recognizing and aknowledging the anomalies in the Bible, something he calls the _red flags_:
+Wallis, un érudit biblique instruit, a commencé son voyage de traduction de la Bible d'une manière différente en reconnaissant et en prenant en compte les anomalies de la Bible, ce qu'il appelle les "drapeaux rouges" :
 
-> When I read this verse in English there’s no problem. With my interlinear Bible open, the Hebrew text on one side and the Greek of the Septuagint on the other, I can’t escape a rather big question: Why is this word, elohim, which is translated as God, shaped like a plural noun? How come it’s a plural if there’s only one God?
+> Quand je lis ce verset en anglais, il n'y a pas de problème. Avec ma Bible interlinéaire ouverte, le texte hébreu d'un côté et le grec de la Septante de l'autre, je ne peux échapper à une question plutôt importante : pourquoi ce mot, Elohim, qui est traduit par Dieu, est-il pluriel ? Comment se fait-il que ce soit un pluriel s'il n'y a qu'un seul Dieu ?
 
-In the same book mentioned before, further on, he emphasizes the importance of reading the Bible with a plurality of Gods:
+Dans le même livre mentionné précédemment, il souligne également l'importance de lire la Bible en considérant une pluralité de dieux :
 
-> Now that you’ve eavesdropped on my notes, you’ll understand the wrestle I found myself wrestling. Everything hinged on this enigmatic
-and anomalous word – elohim.
+> Maintenant que vous avez jeté un coup d'œil à mes notes, vous comprendrez la bataille à laquelle je me suis trouvé confronté. Tout reposait sur ce mot énigmatique et anormal - Elohim.
 >
-> As I continued to walk through the pages of Genesis, I could see that every time elohim and Yahweh are equated there is a kind of moral distortion that takes place and the devout reader is forced to excuse ways that appear lower than ours – not higher. I began to wonder if the apparent morality of God would lift consistently if we were to re- pluralize our understanding of elohim?
+> En continuant à parcourir les pages de la Genèse, j'ai pu voir que chaque fois qu'Elohim et Yahweh sont équivalents, il se produit une sorte de distorsion morale et le lecteur dévot est obligé de trouver des excuses pour des comportements qui semblent inférieurs aux nôtres - et non supérieurs. Je me suis demandé si la moralité apparente de Dieu s'élèverait de manière cohérente si nous pluralisions à nouveau notre compréhension d'Elohim.
 
-In another passage of the same book, he suggest to have been able to settle the argument wether or not Yahweh and Elohim can be equated, a common argument put forward against the plurality of the word Elohim, he writes the following:
+Dans un autre passage du même livre, il suggère avoir pu résoudre le débat sur l'équivalence ou non entre Yahweh et Elohim, un argument couramment avancé contre la pluralité du mot Elohim. Il écrit ce qui suit :
 
-> To settle the matter beyond doubt you just need to locate the car’s unique fingerprint, the vehicle identification number, etched into the metal. That’s the smoking gun you would need to find.
+> Pour régler définitivement la question, il vous suffit de trouver l'empreinte unique de la voiture, le numéro d'identification du véhicule gravé dans le métal. C'est la preuve irréfutable que vous auriez besoin de trouver.
 >
-> If the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, and not similar by coincidence, then presumably Yahweh is a separate entity whose self-revelation has been interwoven with the stories of the Powerful Ones. For our smoking gun we need look no further than the book of Joshua 24:14.
+> Si les Puissants de la Bible et les Gens du Ciel des tablettes cunéiformes sont les mêmes, et non similaires par coïncidence, alors Yahweh est vraisemblablement une entité distincte dont la révélation de soi a été entrelacée avec les histoires des Puissants. Pour notre preuve irréfutable, nous n'avons pas besoin de chercher plus loin que le livre de Josué 24:14.
 >
-> In this passage Joshua gives a speech to persuade the people of Israel to entrust themselves to the entity who revealed himself to Moses in the desert as Yahweh. Joshua has succeeded Moses as leader following Moses’ death. He addresses the people in these words:
+> Dans ce passage, Josué prononce un discours pour persuader le peuple d'Israël de se confier à l'entité qui s'est révélée à Moïse dans le désert en tant que Yahweh. Josué a succédé à Moïse en tant que chef après la mort de Moïse. Il s'adresse au peuple en ces termes :
 >
->> “Now, therefore, follow Yahweh and serve him in sincerity and truth. Put away the elohim (the Powerful Ones) whom your ancestors served on the other side of the river and in Egypt, and serve Yahweh... Today make up your minds whom you mean to serve; the Powerful Ones whom your ancestors served beyond the river, or the Powerful Ones of the Amorites in whose country you now live. But as for me and my house we will serve Yahweh.”
+>> "Maintenant donc, suivez Yahweh et servez-le avec sincérité et vérité. Mettez de côté les Elohim (les Puissants) que vos ancêtres ont servis de l'autre côté du fleuve et en Égypte, et servez Yahweh... Aujourd'hui, décidez-vous à qui vous voulez servir : les Puissants que vos ancêtres ont servis de l'autre côté du fleuve, ou les Puissants des Amorites dans le pays où vous habitez maintenant. Quant à moi et à ma maison, nous servirons Yahweh".
 >
-> The time in Egypt speaks of the Israelites’ time enslaved within a foreign religious culture before Yahweh revealed himself to Moses.
+> La période en Égypte fait référence au temps où les Israélites étaient esclaves au sein d'une culture religieuse étrangère avant que Yahweh ne se révèle à Moïse.
 >
-> “On the other side of the river,” refers to the religious culture of Abraham and Sarah’s roots in Sumerian Mesopotamia. Joshua 24:2 clarifies this:
+> "De l'autre côté du fleuve" fait référence à la culture religieuse des racines d'Abraham et de Sarah en Mésopotamie sumérienne. Josué 24:2 clarifie cela :
 >
->> “Since a time before memory your ancestors, right up until Terah, the father of Abraham and Nahor, lived on the other side of the river and served Powerful Ones (i.e. other (plural) elohim.)
+>> "Depuis une époque antérieure à la mémoire, vos ancêtres, jusqu'à Terah, le père d'Abraham et de Nahor, vivaient de l'autre côté du fleuve et servaient des Puissants (c'est-à-dire d'autres Elohim au pluriel)".
 >
-> Joshua calls his people to reject the Egyptian and Sumerian elohim – “tear them off” is his phrase – and give all their allegiance to Yahweh.
+> Josué appelle son peuple à rejeter les Elohim égyptiens et sumériens - "les arracher", selon ses termes - et à donner tout leur allégeance à Yahweh.
 >
-> Here is an instance when elohim and Yahweh clearly cannot be equated. Here elohim is a plurality of Powerful Ones whom we are not to worship. They are the Sky People of Abraham’s Sumerian heritage, whose stories are told in the cuneiform tablets. Joshua calls the people in God’s name to disregard them, reject them and cut them off!
+> Voici un exemple où Elohim et Yahweh ne peuvent clairement pas être équivalents. Ici, Elohim est une pluralité de Puissants que nous ne devons pas adorer. Ils sont les Gens du Ciel de l'héritage sumérien d'Abraham, dont les histoires sont racontées dans les tablettes cunéiformes. Josué appelle le peuple au nom de Dieu à les ignorer, à les rejeter et à les couper !
 >
->For me this is the smoking gun. Every point of correlation between the Sky People and the Powerful Ones in their respective storylines constitutes another digit in that vehicle identification number. Joshua’s speech unambiguously connects the two mythologies.
+> Pour moi, c'est la preuve irréfutable. Chaque point de corrélation entre les Gens du Ciel et les Puissants dans leurs récits respectifs constitue un autre chiffre dans ce numéro d'identification du véhicule. Le discours de Josué relie de manière univoque les deux mythologies.
 
-Wallis argues that in order to prove that the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, therefore implying that the God of the Bible is a plural and represent an extraterrestrial civilization, one must locate a smoking gun in the form of evidence, which he finds in the book of Joshua 24:14.
+Wallis affirme que pour prouver que les Puissants de la Bible et les Gens du Ciel des tablettes cunéiformes sont les mêmes, ce qui implique que le Dieu de la Bible est pluriel et représente une civilisation extraterrestre, il faut trouver une preuve irréfutable sous la forme de témoignages, qu'il trouve dans le livre de Josué 24:14.
 
-While taking the Sumerian account as a blueprint, Wallis makes the meticulous observation that the Powerful Ones can also be called the Sky People:
+En prenant le compte sumérien comme modèle, Wallis fait l'observation minutieuse que les Puissants peuvent également être appelés les Gens du Ciel :
 
-> The Sumerian word for “god” or “gods” is a glyph that indicates the sky. To get as near to the original associations as we can I will be
-referencing them as Sky People.
+> Le mot sumérien pour "dieu" ou "dieux" est un glyphe qui indique le ciel. Pour nous approcher le plus possible des associations d'origine, je les désignerai comme les Gens du Ciel.
 
-Basically, Wallis re-interprets the Biblical scriptures with a plural Elohim, which he translates as the “Powerful Ones.” He emphasizes the importance of reading the Bible with a plurality of Gods and argues that the plurality of the word Elohim can be settled by locating a smoking gun in the form of evidence. Wallis suggests that the evidence can be found in the book of Joshua 24:14, which unambiguously connects the two mythologies and clarifies that the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, and the God of the Bible is a plural and represents an extraterrestrial civilization.
+En résumé, Wallis réinterprète les écritures bibliques avec un Elohim pluriel, qu'il traduit par les "Puissants". Il insiste sur l'importance de lire la Bible en considérant une pluralité de dieux et argumente que la pluralité du mot Elohim peut être établie en trouvant une preuve irréfutable sous la forme de témoignages. Wallis suggère que cette preuve peut être trouvée dans le livre de Josué 24:14, qui relie de manière univoque les deux mythologies et clarifie que les Puissants de la Bible et les Gens du Ciel des tablettes cunéiformes sont les mêmes, et que le Dieu de la Bible est pluriel et représente une civilisation extraterrestre.
 
 ## In Raëlism 🔯
 

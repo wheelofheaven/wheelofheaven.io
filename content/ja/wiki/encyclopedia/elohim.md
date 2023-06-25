@@ -1,8 +1,8 @@
 ---
-title: "Elohim"
-alternatives: ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods","The Powerful Ones", "The Ones from the Skies", "Theosites"]
-description: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civlization capable of interstellar travel, terraforming planets and life synthetization."
-lead: "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civilization capable of interstellar travel, terraforming planets and life synthetization."
+title: "エロヒム"
+alternatives: ["アヌナキ", "天界の者たち", "創造者", "デイ", "エル", "神々", "強大な存在", "天上の者たち", "テオサイテス"]
+description: "エロヒム（ヘブライ語: אֱלֹהִים, 'ēlohîm）は、エロハ（ヘブライ語: אֱלוֹהַּ）の複数形であり、文字通り「強大な存在」または比喩的には「上からの者」「天上の者」という意味です。これは聖書の神々に与えられた名前であり、彼ら自身が星間旅行、惑星のテラフォーミング、生命合成が可能な科学的に高度に発達した文明です。"
+lead: "エロヒム（ヘブライ語: אֱלֹהִים, 'ēlohîm）は、エロハ（ヘブライ語: אֱלוֹהַּ）の複数形であり、文字通り「強大な存在」または比喩的には「上からの者」「天上の者」という意味です。これは聖書の神々に与えられた名前であり、彼ら自身が星間旅行、惑星のテラフォーミング、生命合成が可能な科学的に高度に発達した文明です。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
@@ -14,51 +14,84 @@ weight: 200
 toc: true
 ---
 
-The term Elohim (Hebrew: אֱלֹהִים, 'ēlohîm) is a Hebrew word used in the Old Testament of the Bible and is typically translated as God. It is a plural noun, and its use has led to much debate among biblical scholars regarding its significance.
+「エロヒム」という語（ヘブライ語: אֱלֹהִים, 'ēlohîm）は、聖書の旧約で使用されるヘブライ語の単語であり、一般的に神と翻訳されます。これは複数形の名詞であり、その使用は聖書学者の間でその重要性について多くの議論を引き起こしています。
 
-In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
+従来のユダヤ教やキリスト教では、神を表す複数形の名詞の使用は、王が王族の「私たち」という形で自己を指すのと同様に、威厳の複数形として理解されています。しかし、一部の聖書学者や宗教的伝統は、複数形の名詞「エロヒム」の使用に対して異なるアプローチを取っています。古代近東における多神教的な信仰を示す証拠と主張する者もいます。この解釈では、一神教、すなわち一神への信仰は、古代イスラエルで徐々に時間をかけて発展したとされています。
 
-## Plural form
+## 複数形
 
-The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
+もしElohimの複数性が受け入れられるなら、これは聖書における神の単一性に対する伝統的な理解に挑戦を与えることになるでしょう。これは、神の性質や特徴、および聖書に記述されている物語や出来事の理解に対して非常に重大な影響をもたらすでしょう。また、Elohimのさまざまな派閥、他の強力な存在、そして人間との関係についても疑問が生じます。さらに、これらの強力な存在の性質自体が、宗教的な信念に潜在的な影響を与える可能性があります。特に、これらの存在が異星人の起源である場合、さらに興味深いです。Elohimの複数の存在としての解釈は、人類の起源と宇宙における私たちの位置についても疑問を投げかけるでしょう。それは、聖書とその教えに対する私たちの理解において、重要なパラダイムシフトをもたらす可能性があります。
 
-## Etymology
+## 語源
 
-The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl.[^1] In its plural form ʾilhm, it denotes "powers" or, if applied to a subject, "powerful ones."[^2]
+Elohimという言葉は、聖書のヘブライ語であるʾélôhím (אֱלֹהִים / אֱלוֹהִים)から来ています。これはʾélôah (אֱלוֹהַּ)の複数形であり、ʾēl (אֵל)の拡張形です。この語はʾlhまたはʾlというセム系のルートを持っています。[^1] ʾilhmという複数形では、「力」を意味する「力強い者」として解釈されます。[^2]
 
-The oldest known Semitic language is Akkadian, and its cognate of ʾēl (אֵל) is ilum. Ilum, in turn, is derived from the Proto-Semitic *ʔil-.[^3] The Sumerian cuneiform script was used to write Akkadian, and ilum can be represented in cuneiform as a logogram (𒀭), syllables (𒄿𒈝), or a combination of both (𒀭𒈝).[^4]
+最古の知られているセム語はアッカド語であり、ʾēl (אֵル)の相当する語はilumです。ilumはプロトセム語の*ʔil-から派生しています。[^3] アッカド語の表記には、シュメール語の楔形文字が使用されており、ilumはロググラム（𒀭）、音節（𒄿𒈝）、またはその組み合わせ（𒀭𒈝）で表されることがあります。[^4]
 
-The logogram 𒀭 (DINGIR) represents an individual god,[^5] while as an ideogram, it represents "sky" or "heaven".[^6] The Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki) contains 𒀭 as ān, which means "sky".[^7]
+ロググラム𒀭 (DINGIR)は個々の神を表し、イデオグラムとしては「空」または「天国」を表します。[^5][^6] シュメール語の𒀭𒀀𒉣𒈾（アンヌナキと発音）は、𒀭を含むānという言葉で「空」を意味します。[^7]
 
-In summary, Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as "power." The Sumerogram 𒀭, meaning "sky," provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
+要約すると、Elohimはより古いアッカド語の用語ilumと関連があり、これは「空」を意味するシュメール語の𒀭で表されます。ヘブライ語のʾēlまたはアッカド語のilumのセム系のルートは通常「力」と理解されています。シュメール語の𒀭は、これらの空から来た神々の力強さと関連付けられる前の、元のルートの意味をより良く示しています。
 
-## According to Jean Sendy
+## ジャン・サンディの説
 
-Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
+ジャン・サンディは、古代宇宙飛行士について書いたフランスの著者で、Elohimを「空から来た神々」またはCelestialsと訳しています。彼は、ヘブライ語の聖書におけるElohimという用語が厳密には神ではなく、むしろ地上と交流する天界から来た強力で高度な存在の一群を指していると主張しています。
 
-In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the following about the plurality of the word Elohim:
+彼の著書「天地を創った神々」の初めのページで、彼は次のようにElohimという単語の複数形について述べています：
 
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann.
+> シュリーマンがホメロスを読んだように、聖書を読むことは、過去2000年間に蓄積された解釈をすべて無視することを意味します。それらの解釈は、聖書の中で神の存在の証拠を探し求めるという明確な目的を持っています。聖書を「シュリーマンのように」読む人にとって、テキストが最も具体的な意味で受け取られるべきであると仮定すると、神はギリシャ人やトロイ人の宗教的信念と同様に、対象からはるかに遠くに位置しています。
 >
-> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God", is a plural. If we read "Those who came from the sky", or "the Celestials", each time the plural Elohim occurs we find ourselves reading a narrative that needs no exeges, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
+> このように聖書を読む場合、最初に注意すべきは、通常「神」と訳されるヘブライ語のElohimが複数形であることです。Elohimの複数形が現れるたびに、「空から来た者たち」または「Celestials」と読むことで、助けや宗教的信念なしに完全に一貫性のある物語を読んでいることに気付くでしょう。
 >
-> Voltaire knew that a Hebrew word meaning "gods" had been translated as "God", but people who now claim intellectual kinship with Voltaire have forgotten it.
+> ヴォルテールは、ヘブライ語の「神々」を意味する単語が「神」と訳されていたことを知っていましたが、現在ヴォルテールと知的なつながりを主張している人々はそれを忘れています。
 >
-> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
+> このように読むと、創世記は、私たちのイメージに合った物理的に完全に具体的なCelestialsの到来の記述として現れ、彼らはまさに私たちの宇宙飛行士が遠い将来の別の惑星で振る舞う様子を想像することができますが、それはもはやSFの領域ではありません。
 >
-> — Those Gods Who Made Heaven & Earth, p. 13
+> — 天地を創った神々, p. 13（訳）
 
-The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
+この箇所では、ホーマーを読んだハインリッヒ・シュリーマンと同じように聖書を読むことは、何世紀にもわたる蓄積された解釈を無視し、テキストを最も具体的な意味で取り組むことを意味すると主張しています。通常「神」と訳されるヘブライ語のElohimは複数形の単語です。それを「天上の者たち」または「天から来た者たち」として「神」としてではなく読むことで、物語は一貫性を持ち、宗教的な信念を必要としません。
 
-### A Gentleman's Joyous Esotericism
+### 紳士の喜ばしい秘教思想
 
-In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of the alleged existence of so-called _Theosites_ is a central key aspect of Sendy's thought, in the seminal paper, these Theosites are introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+同じタイトルの画期的な論文において (A Gentleman's Joyous Esotericism)、ステファノ・ビリアルディはジャン・センディの正確な描写を詳述しています。センディの思想において、いわゆる「テオサイト」と呼ばれる存在の仮定が中心的な鍵となっているため、この画期的な論文では、ジャン・センディの著書『Les cahiers de cours de Moïse』（モーセの授業ノート）を参照してこれらのテオサイトが以下のように紹介されています：
 
-> The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201).
+> その歴史は、センディが「テオサイト」と呼ぶ地球外宇宙飛行士の到来の物語です（彼らの故郷はテオスと呼ばれる惑星、p. 201）。
 
-In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
+同じ論文で、ビリアルディはセンディがテオサイトの中には異なる名前で参照される可能性のある異なる派閥の存在をも微妙に理解していたことも指摘しています：
 
-> “Elohim”  designates a specific faction of the Theosites, not all of them (p. 203).
+> 「エロヒム」は、テオサイトの特定の派閥を指し示しており、全てを指しているわけではありません（p. 203）。
+
+## マウロ・ビグリーノによれば
+
+マウロ・ビグリーノは、物議を醸す聖書に関する研究で知られるイタリアの著者、翻訳家、研究者です。彼は10年以上にわたり、バチカンのカトリック教会で古代ヘブライ語やギリシャ語のテキストの翻訳者として働いてきました。ビグリーノによれば、翻訳者としての彼の仕事が彼に聖書の古い、検閲されていないバージョンへのアクセスを与え、時間の経過とともに変更されてきたと主張しています。
+
+彼の著書『聖書について私たちの考えを永遠に変える本』では、彼は聖書の神の名前が複数形であり、「上からの存在」と訳すことができることについて次のように述べています。
+
+> 「宇宙」という概念は、神聖なものすべての基盤として考えられなければならない。シュメール語での神々の用語はDINGIRであり、実際には「天上の現れ」という意味を指し、輝きと輝きを強調し、また、光り輝く主たちの飛行機を思い出させます。彼らの表意文字は星を象徴し、「上からの存在」を表していました。
+>
+> 私たちはすぐに気づきますが、これはまさに聖書の用語ELOHÌM、「上からの主」の意味とまったく同じです。この用語は通常、しかし間違って！、神の一体性の概念を維持するために単数形で翻訳されています。
+
+同じ本の後半では、彼は旧約聖書の創世記の文章を念入りに次のように翻訳しています：
+
+>> エロヒムは言った、「われわれのかたちにわれわれのように人を造ろう」。
+>
+> しかし、物語の編集者は、読者が絶対に理解しなければならないことを強調する必要性を感じているようです。確かに、これは非常に特別な出来事であり、すぐになぜなのかを理解するでしょう。
+>
+> 次の節（1:27）では、それを明確にするための意図があるようです：
+>
+>> エロヒムは自分たちのかたちに人を造った。エロヒムのかたちにした。男と女を造った。
+>
+> 要するに、著者は、エロヒム（「上からの主」というセム語の複数形）が「ツェレム」（צֶלֶם）を使って人間を作ったことを私たちに伝えたいのです。しかし、「ツェレム」（צֶלֶם）とは何であり、なぜそれが2回も強調されるほど重要なのでしょうか？
+>
+> 以前の章で挙げた問題の解決策を見つけるために、エンキが彼のチームに与えたであろう複数の議論、仮説、提案の要約のようなものが、「命令法のムード」というヘブライ語の動詞形で使用されていることにも注目しています。
+>
+> この「命令法のムード」には、何度かの議論や仮説、提案が組み合わさっており、エンキが前の章で挙げた問題に対する解決策を見つけるためにチームに与えたであろう内容が要約されています。
+>
+> したがって、『創世記』は「さあ、働こう、進めよう」と言っているのです。
+> さらに、Elohìmという語の複数形の問題も簡単には片付けられません。私たちは思考の自由を実践し、一神教の教義を守る必要がないので、私たちは「上からの主たち」を実際の複数の存在として考えることができます。
+>
+> 古代の解釈学者たちは、この問題を軽視してはならないと考えていました、[...]
+
+ビグリーノは明確に読者に対して、エロヒムを単一の存在ではなく実際の複数の人物と考えるよう促し、聖書の神の名前であるエロヒムは複数形であり、「上からの主たち」として翻訳できると主張しています。
 
 ## According to Mauro Biglino
 

@@ -129,7 +129,7 @@
 
             {{ if .IsTranslated -}}
               {{ range .Translations }}
-                <li><a class="dropdown-item" rel="alternate" href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+              <li><a class="dropdown-item" rel="alternate" href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .Language.LanguageName }} </a></li>
               {{ end -}}
             {{ else -}}
               {{ range .Site.Languages -}}

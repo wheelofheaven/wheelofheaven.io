@@ -1,7 +1,7 @@
 ---
 title: "tl;dr"
-description: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
-lead: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
+description: "tl;dr は too long; didn't read の略です。長い記事、投稿、または議論を要約するためによく使われます。当ウィキでは、各記事の最初の段落に tl;dr とラベルを付け、それが続く内容の簡潔な要約であることを示しています。tl;dr セクションは、独自のセリフ体フォントでわずかに装飾されており、他の記事とは明確に区別されます。tl;dr セクションを含めることで、読者に主要なポイントのクイックな概要を提供し、記事全体を読まずにキーポイントの情報を把握することができます。"
+lead: "tl;dr は too long; didn't read の略です。長い記事、投稿、または議論を要約するためによく使われます。当ウィキでは、各記事の最初の段落に tl;dr とラベルを付け、それが続く内容の簡潔な要約であることを示しています。tl;dr セクションは、独自のセリフ体フォントでわずかに装飾されており、他の記事とは明確に区別されます。tl;dr セクションを含めることで、読者に主要なポイントのクイックな概要を提供し、記事全体を読まずにキーポイントの情報を把握することができます。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -9,17 +9,17 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-The term "tl;dr" originated from internet culture and gained popularity in online communities, particularly on forums, social media, and discussion boards. It emerged as a response to long posts or articles that some users found tedious or time-consuming to read.
+「tl;dr」はインターネット文化から生まれ、特にフォーラム、ソーシャルメディア、ディスカッションボードなどのオンラインコミュニティで人気を得ました。これは、一部のユーザーが煩雑で時間のかかると感じる長い投稿や記事に対する応答として生まれました。
 
-The abbreviation "tl;dr" stands for "too long; didn't read." It serves as a concise way to express disinterest in lengthy content or as a request for a condensed summary. When someone includes "tl;dr" in a message, they are essentially saying, "This text is too long for me to read, so please provide a shorter version."
+「tl;dr」という略語は、「too long; didn't read」（長すぎるので読まなかった）を意味します。長いコンテンツへの関心の欠如を簡潔に表現する方法であり、また要約のリクエストとしても使用されます。誰かがメッセージに「tl;dr」を含めるとき、基本的には「このテキストは私にとって長すぎるので、短いバージョンを提供してください」と言っていることになります。
 
-While the exact origins of "tl;dr" are not definitively known, it is believed to have emerged in the early 2000s within online communities. Its usage has since become widespread, evolving beyond its initial purpose to also include humorous or sarcastic connotations. It has become a common abbreviation used to succinctly summarize or dismiss lengthy information.
+「tl;dr」の正確な起源は明確には分かっていませんが、それは2000年代初頭にオンラインコミュニティ内で生まれたと考えられています。その使用法は広まり、最初の目的を超えてユーモラスなものや皮肉な意味合いも含むようになりました。長い情報を簡潔に要約したり無視したりするためによく使われる一般的な略語となっています。
 
-## External links
+## 外部リンク
 
-- [TL;DR | Wikipedia](https://en.wikipedia.org/wiki/TL;DR)
+- [TL;DR | Wikipedia](https://ja.wikipedia.org/wiki/TL;DR)

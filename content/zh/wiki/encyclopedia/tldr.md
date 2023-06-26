@@ -1,7 +1,7 @@
 ---
 title: "tl;dr"
-description: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
-lead: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
+description: "tl;dr 是 too long; didn't read 的缩写。它通常用于总结冗长的文章、帖子或讨论。在我们的维基中，我们将每篇文章的第一段标记为 tl;dr，以表明它作为随后内容的简洁摘要。tl;dr 部分稍微以自己的衬线字体进行了样式化，使其与文章的其余部分容易区分。通过包含 tl;dr 部分，我们为读者提供了主要观点的快速概述，使他们能够抓住关键信息，而无需深入阅读整篇文章。"
+lead: "tl;dr 是 too long; didn't read 的缩写。它通常用于总结冗长的文章、帖子或讨论。在我们的维基中，我们将每篇文章的第一段标记为 tl;dr，以表明它作为随后内容的简洁摘要。tl;dr 部分稍微以自己的衬线字体进行了样式化，使其与文章的其余部分容易区分。通过包含 tl;dr 部分，我们为读者提供了主要观点的快速概述，使他们能够抓住关键信息，而无需深入阅读整篇文章。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -9,17 +9,17 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-The term "tl;dr" originated from internet culture and gained popularity in online communities, particularly on forums, social media, and discussion boards. It emerged as a response to long posts or articles that some users found tedious or time-consuming to read.
+术语 "tl;dr" 源自互联网文化，在在线社区中特别是论坛、社交媒体和讨论板上获得了广泛流行。它作为对一些用户发现冗长帖子或文章乏味或耗时的回应而出现。
 
-The abbreviation "tl;dr" stands for "too long; didn't read." It serves as a concise way to express disinterest in lengthy content or as a request for a condensed summary. When someone includes "tl;dr" in a message, they are essentially saying, "This text is too long for me to read, so please provide a shorter version."
+缩写 "tl;dr" 代表 "too long; didn't read"，它是一种简洁的表达方式，表示对冗长内容的不感兴趣，或者请求一个简化的摘要。当有人在消息中使用 "tl;dr" 时，他们实际上是在说："这段文字对我来说太长了，所以请提供一个更短的版本。"
 
-While the exact origins of "tl;dr" are not definitively known, it is believed to have emerged in the early 2000s within online communities. Its usage has since become widespread, evolving beyond its initial purpose to also include humorous or sarcastic connotations. It has become a common abbreviation used to succinctly summarize or dismiss lengthy information.
+尽管 "tl;dr" 的确切起源尚不确定，但人们认为它在2000年代初期在在线社区中出现。它的使用已经广泛传播，超越了最初的目的，还包括幽默或讽刺的内涵。它已经成为一种常见的缩写，用于简洁地总结或忽略冗长的信息。
 
-## External links
+## 外部链接
 
-- [TL;DR | Wikipedia](https://en.wikipedia.org/wiki/TL;DR)
+- [TL;DR | 维基百科](https://en.wikipedia.org/wiki/TL;DR)

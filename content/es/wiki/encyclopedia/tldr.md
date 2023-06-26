@@ -1,7 +1,7 @@
 ---
 title: "tl;dr"
-description: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
-lead: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
+description: "tl;dr es una abreviatura de too long; didn't read. Se utiliza comúnmente para resumir artículos extensos, publicaciones o discusiones. En nuestra wiki, etiquetamos el primer párrafo de cada artículo como tl;dr para indicar que sirve como un resumen conciso del contenido que sigue. La sección tl;dr tiene un ligero estilo con su propia fuente serif, lo que la hace fácilmente distinguible del resto del artículo. Al incluir una sección tl;dr, proporcionamos a nuestros lectores una descripción general rápida de los puntos principales, permitiéndoles comprender la información clave sin adentrarse en el artículo completo."
+lead: "tl;dr es una abreviatura de too long; didn't read. Se utiliza comúnmente para resumir artículos extensos, publicaciones o discusiones. En nuestra wiki, etiquetamos el primer párrafo de cada artículo como tl;dr para indicar que sirve como un resumen conciso del contenido que sigue. La sección tl;dr tiene un ligero estilo con su propia fuente serif, lo que la hace fácilmente distinguible del resto del artículo. Al incluir una sección tl;dr, proporcionamos a nuestros lectores una descripción general rápida de los puntos principales, permitiéndoles comprender la información clave sin adentrarse en el artículo completo."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -9,17 +9,17 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-The term "tl;dr" originated from internet culture and gained popularity in online communities, particularly on forums, social media, and discussion boards. It emerged as a response to long posts or articles that some users found tedious or time-consuming to read.
+El término "tl;dr" se originó en la cultura de internet y ganó popularidad en comunidades en línea, especialmente en foros, redes sociales y tablones de discusión. Surgió como respuesta a publicaciones o artículos largos que algunos usuarios encontraban tediosos o que requerían mucho tiempo para leer.
 
-The abbreviation "tl;dr" stands for "too long; didn't read." It serves as a concise way to express disinterest in lengthy content or as a request for a condensed summary. When someone includes "tl;dr" in a message, they are essentially saying, "This text is too long for me to read, so please provide a shorter version."
+La abreviatura "tl;dr" significa "too long; didn't read" (demasiado largo; no lo leí). Sirve como una forma concisa de expresar desinterés en un contenido extenso o como una solicitud de un resumen condensado. Cuando alguien incluye "tl;dr" en un mensaje, está diciendo básicamente: "Este texto es demasiado largo para que lo lea, así que por favor proporciona una versión más corta".
 
-While the exact origins of "tl;dr" are not definitively known, it is believed to have emerged in the early 2000s within online communities. Its usage has since become widespread, evolving beyond its initial purpose to also include humorous or sarcastic connotations. It has become a common abbreviation used to succinctly summarize or dismiss lengthy information.
+Si bien no se conocen con certeza los orígenes exactos de "tl;dr", se cree que surgió a principios de los años 2000 en comunidades en línea. Su uso se ha vuelto amplio, evolucionando más allá de su propósito inicial para incluir connotaciones humorísticas o sarcásticas. Se ha convertido en una abreviatura comúnmente utilizada para resumir de manera concisa o descartar información extensa.
 
-## External links
+## Enlaces externos
 
-- [TL;DR | Wikipedia](https://en.wikipedia.org/wiki/TL;DR)
+- [TL;DR | Wikipedia](https://es.wikipedia.org/wiki/TL;DR)

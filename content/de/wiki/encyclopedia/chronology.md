@@ -1,7 +1,7 @@
 ---
-title: "Chronology"
-description: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
-lead: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
+title: "Chronologie"
+description: "In der weiten Geschichte des Kosmos bieten die 12 astrologischen Zeitalter, beginnend mit dem Zeitalter des Steinbocks im Jahr 21.810 v. Chr. und endend mit dem Zeitalter des Wassermanns im Jahr 4110 n. Chr., eine faszinierende Perspektive auf die menschliche Zivilisation. Die Zeitalter spiegeln einen vollständigen Präzessionszyklus wider, der oft als Großes Jahr bezeichnet wird und die Entwicklung von Ereignissen und das Bewusstsein auf der Erde lenkt. Jedes Zeitalter kennzeichnet eine bestimmte Ära mit eigenen Themen und Lektionen. Das Zeitalter des Steinbocks markierte die Entdeckung und Erforschung der Erde. Schütze trieb Studien und Analysen voran, während Skorpion die Umgestaltung der Erde und die Vermehrung von Pflanzenleben mit sich brachte. Im Zeitalter der Waage konzentrierte sich die Menschheit auf Astronomie und Unterkünfte, gefolgt vom Zeitalter der Jungfrau, das eine Vielfalt des Lebens sah. Das Zeitalter des Löwen war Zeuge des Aufkommens der Menschen neben Elohim, gefolgt vom Zeitalter des Krebses, das das Zeitalter des Garten Eden und die Geschichte von Adam & Eva markierte. Die folgenden Zeitalter trugen jeweils bedeutende religiöse und historische Meilensteine, vom Sintflut im Zeitalter der Zwillinge bis hin zu Ereignissen wie Babel, Sodom & Gomorrha im Stier und Abraham und Exodus im Widder. Das Zeitalter der Fische beobachtete das Auftreten von Jesus mit Wundern wie der Vermehrung, was zum gegenwärtigen Zeitalter des Wassermanns führte, das Offenbarung und den Beginn eines Goldenen Zeitalters symbolisiert. Diese Zeitalter repräsentieren nicht nur Zeiträume, sondern auch eine große kosmische Reise, die die Menschheit in ihrem Streben nach spirituellem Wachstum und Erleuchtung unternimmt."
+lead: "In der weiten Geschichte des Kosmos bieten die 12 astrologischen Zeitalter, beginnend mit dem Zeitalter des Steinbocks im Jahr 21.810 v. Chr. und endend mit dem Zeitalter des Wassermanns im Jahr 4110 n. Chr., eine faszinierende Perspektive auf die menschliche Zivilisation. Die Zeitalter spiegeln einen vollständigen Präzessionszyklus wider, der oft als Großes Jahr bezeichnet wird und die Entwicklung von Ereignissen und das Bewusstsein auf der Erde lenkt. Jedes Zeitalter kennzeichnet eine bestimmte Ära mit eigenen Themen und Lektionen. Das Zeitalter des Steinbocks markierte die Entdeckung und Erforschung der Erde. Schütze trieb Studien und Analysen voran, während Skorpion die Umgestaltung der Erde und die Vermehrung von Pflanzenleben mit sich brachte. Im Zeitalter der Waage konzentrierte sich die Menschheit auf Astronomie und Unterkünfte, gefolgt vom Zeitalter der Jungfrau, das eine Vielfalt des Lebens sah. Das Zeitalter des Löwen war Zeuge des Aufkommens der Menschen neben Elohim, gefolgt vom Zeitalter des Krebses, das das Zeitalter des Garten Eden und die Geschichte von Adam & Eva markierte. Die folgenden Zeitalter trugen jeweils bedeutende religiöse und historische Meilensteine, vom Sintflut im Zeitalter der Zwillinge bis hin zu Ereignissen wie Babel, Sodom & Gomorrha im Stier und Abraham und Exodus im Widder. Das Zeitalter der Fische beobachtete das Auftreten von Jesus mit Wundern wie der Vermehrung, was zum gegenwärtigen Zeitalter des Wassermanns führte, das Offenbarung und den Beginn eines Goldenen Zeitalters symbolisiert. Diese Zeitalter repräsentieren nicht nur Zeiträume, sondern auch eine große kosmische Reise, die die Menschheit in ihrem Streben nach spirituellem Wachstum und Erleuchtung unternimmt."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -9,76 +9,76 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-## The Great Year
+## Das Große Jahr
 
-Within the intricate tapestry of human history, the concept of astrological ages provides an enlightening perspective, knitting together celestial movements with the saga of life on Earth. This narrative spans from the Age of Capricorn in 21,810 BC, all the way to the Age of Aquarius in 4110 CE, representing a complete precessional cycle, often referred to as the 'Great Year'.
+Im komplexen Geflecht der menschlichen Geschichte bieten die astrologischen Zeitalter eine aufschlussreiche Perspektive, indem sie himmlische Bewegungen mit der Saga des Lebens auf der Erde verbinden. Diese Erzählung erstreckt sich vom Zeitalter des Steinbocks im Jahr 21.810 v. Chr. bis zum Zeitalter des Wassermanns im Jahr 4110 n. Chr. und repräsentiert einen vollständigen Präzessionszyklus, der oft als "Großes Jahr" bezeichnet wird.
 
-The chronology is being referenced in many places on Wheel of Heaven. {{< svg "greatyear.svg" >}}
+Die Chronologie wird an vielen Stellen auf Wheel of Heaven referenziert. {{< svg "greatyear.svg" >}}
 
-## Each World Age
+## Jedes Weltzeitalter
 
-The journey begins with the Age of Capricorn, where the Earth was discovered and exploration began in earnest. The pioneering spirit of humankind was sparked as they ventured across the vast expanses of this new world, setting the stage for future developments.
+Die Reise beginnt mit dem Zeitalter des Steinbocks, in dem die Erde entdeckt wurde und die Erkundung ernsthaft begann. Der Pioniergeist der Menschheit wurde entfacht, als sie sich in den weiten Weiten dieser neuen Welt wagten und damit die Bühne für zukünftige Entwicklungen bereiteten.
 
-Then arrived the Age of Sagittarius, a time that ignited our inherent desire to study and analyze, to understand our surroundings and the fundamental laws that governed our existence. This was a time of inquiry, knowledge, and the beginnings of wisdom.
+Dann kam das Zeitalter des Schützen, eine Zeit, die unseren angeborenen Wunsch nach Studium und Analyse entfachte, um unsere Umgebung und die grundlegenden Gesetze, die unser Dasein regierten, zu verstehen. Dies war eine Zeit der Untersuchung, des Wissens und des Beginns der Weisheit.
 
-The Age of Scorpio heralded an epoch of terraforming, where the raw, primal lands were sculpted and shaped. The introduction of plant life marked the start of a lush, green world, one that was ready to support the complex web of life.
+Das Zeitalter des Skorpions läutete eine Epoche der Terraformung ein, in der die ursprünglichen, wilden Länder geformt und geformt wurden. Die Einführung von Pflanzenleben markierte den Beginn einer üppigen, grünen Welt, die bereit war, das komplexe Netz des Lebens zu unterstützen.
 
-In the Age of Libra, our gaze shifted skyward. Astronomy came into focus, alongside the development of accommodations that catered to the growing complexity of societal structures. This period was characterized by balance, symbolized by the scales of Libra, between our terrestrial lives and celestial curiosity.
+Im Zeitalter der Waage richteten sich unsere Blicke nach oben. Die Astronomie rückte in den Fokus, neben der Entwicklung von Unterkünften, die der wachsenden Komplexität gesellschaftlicher Strukturen gerecht wurden. Diese Zeit war durch ein Gleichgewicht gekennzeichnet, symbolisiert durch die Waage, zwischen unserem irdischen Leben und der himmlischen Neugierde.
 
-Next, the Age of Virgo ushered in a diversity of life, an explosion of different species, filling every niche in the new ecosystems. Virgo, often associated with the Earth goddess, signifies fertility and abundance, which was manifested in the proliferation of life forms during this era.
+Darauf folgte das Zeitalter der Jungfrau, das eine Vielfalt des Lebens, eine Explosion verschiedener Arten, brachte und damit jede Nische in den neuen Ökosystemen füllte. Jungfrau, oft mit der Erdgöttin assoziiert, steht für Fruchtbarkeit und Überfluss, was sich in der Verbreitung von Lebensformen während dieser Ära manifestierte.
 
-The Age of Leo marked the advent of humans along with Elohim. This was a significant turning point in the annals of Earth's history, the moment when humans began their unique journey, armed with cognition and the ability to influence their surroundings.
+Das Zeitalter des Löwen markierte das Aufkommen der Menschen neben Elohim. Dies war ein bedeutender Wendepunkt in den Annalen der Geschichte der Erde, der Moment, in dem die Menschen ihre einzigartige Reise begannen, bewaffnet mit Erkenntnis und der Fähigkeit, ihre Umgebung zu beeinflussen.
 
-The Age of Cancer introduced the narrative of the Garden of Eden, along with the seminal characters of Adam & Eve. This era delved into the origins of humankind, grappling with existential questions and themes of innocence and temptation.
+Das Zeitalter des Krebses brachte die Erzählung vom Garten Eden und den wichtigen Figuren von Adam & Eva mit sich. Diese Ära beschäftigte sich mit den Ursprüngen der Menschheit und ringt mit existenziellen Fragen und Themen der Unschuld und Versuchung.
 
-Following this, the Age of Gemini brought about monumental events like the Great Flood and the story of Noah. This age signified duality and change, showcasing the adaptability and resilience of humanity in the face of catastrophic changes.
+Anschließend brachte das Zeitalter der Zwillinge monumentale Ereignisse wie die Große Flut und die Geschichte von Noah mit sich. Dieses Zeitalter symbolisierte Dualität und Wandel und zeigte die Anpassungsfähigkeit und Widerstandsfähigkeit der Menschheit angesichts katastrophaler Veränderungen.
 
-In the Age of Taurus, events such as the Tower of Babel and the tale of Sodom & Gomorrah unfolded. This period, symbolized by the grounded and unyielding Bull, tested the resolve of humanity and forced a reevaluation of values and ethics.
+Im Zeitalter des Stiers entfalteten sich Ereignisse wie der Turm von Babel und die Geschichte von Sodom & Gomorrha. Diese Periode, symbolisiert durch den bodenständigen und unnachgiebigen Stier, testete den Willen der Menschheit und zwang zu einer Neubewertung von Werten und Ethik.
 
-The Age of Aries was marked by the tales of Abraham and the Exodus, significant religious narratives that have shaped the course of human morality and spirituality. The fiery Aries brought about revolutions in religious thought, shifting paradigms and altering the path of human spiritual evolution.
+Das Zeitalter des Widders wurde geprägt von den Geschichten von Abraham und dem Exodus, bedeutenden religiösen Erzählungen, die den Verlauf der menschlichen Moral und Spiritualität geprägt haben. Das feurige Widderzeichen brachte Revolutionen im religiösen Denken mit sich, veränderte Paradigmen und beeinflusste den Weg der spirituellen Entwicklung des Menschen.
 
-The Age of Pisces, the current astrological age, brought forth Jesus and miracles such as multiplication. The age was marked by the birth of new religions, shaping centuries of spiritual, philosophical, and cultural growth.
+Das Zeitalter der Fische, das gegenwärtige astrologische Zeitalter, brachte Jesus und Wunder wie die Vermehrung hervor. Das Zeitalter war geprägt von der Entstehung neuer Religionen, die Jahrhunderte des spirituellen, philosophischen und kulturellen Wachstums prägten.
 
-We are now transitioning into the Age of Aquarius, an era of revelation and the dawn of a Golden Age. This is a time for rebirth, for embracing new ideas and technology, and for humanity to take the next step in its collective spiritual evolution.
+Wir befinden uns jetzt im Übergang zum Zeitalter des Wassermanns, einer Ära der Offenbarung und des Beginns eines Goldenen Zeitalters. Dies ist eine Zeit der Wiedergeburt, des Umarmens neuer Ideen und Technologien und des nächsten Schritts in der kollektiven spirituellen Entwicklung der Menschheit.
 
-Each of these astrological ages is much more than just a time period. They represent stages in humanity's ongoing quest for understanding, growth, and enlightenment. Each age comes with its own lessons, themes, and opportunities for growth, influencing the course of human civilization in profound and lasting ways. The understanding of these astrological ages offers a panoramic view of our journey
+Jedes dieser astrologischen Zeitalter ist weit mehr als nur ein Zeitraum. Sie repräsentieren Stufen in der fortwährenden Suche der Menschheit nach Verständnis, Wachstum und Erleuchtung. Jedes Zeitalter birgt seine eigenen Lektionen, Themen und Wachstumsmöglichkeiten und beeinflusst den Verlauf der menschlichen Zivilisation auf tiefgreifende und nachhaltige Weise. Das Verständnis dieser astrologischen Zeitalter bietet einen Panoramablick auf unsere Reise.
 
-## Timeline of the World Ages
+## Zeitlinie der Weltzeitalter
 
-The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.
+Die folgende Tabelle zeigt den letzten Präzessionszyklus, der mit dem Zeitalter des Wassermanns (heute) beginnt und 25.920 Jahre zurückreicht.
 
-| Begins in | Ends in   | Zodiacal house     | Events                        |
-|-----------|-----------|--------------------|-------------------------------|
-| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus, multiplication         |
-| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
-| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
-| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve    |
-| 11'010 BC | 8'850 BC  | Age of Leo         | First humans along Elohim     |
-| 13'170 BC | 11'010 BC | Age of Virgo       | Diversity of life             |
-| 15'330 BC | 13'170 BC | Age of Libra       | Astronomy, accomodation       |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | Terraforming and plant life   |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | Study and analysis            |
-| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
-| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
+| Beginnt in | Endet in   | Sternzeichen       | Ereignisse                             |
+|------------|------------|--------------------|----------------------------------------|
+| 1.950      | 4.110      | Zeitalter des Wassermanns | Offenbarung, Goldenes Zeitalter         |
+| 210 v. Chr. | 1.950      | Zeitalter der Fische | Jesus, Vermehrung                      |
+| 2.370 v. Chr. | 210 v. Chr. | Zeitalter des Widders | Abraham, Exodus                         |
+| 4.530 v. Chr. | 2.370 v. Chr. | Zeitalter des Stiers | Babel, Sodom & Gomorrha                 |
+| 6.690 v. Chr. | 4.530 v. Chr. | Zeitalter der Zwillinge | Sintflut, Noah                        |
+| 8.850 v. Chr. | 6.690 v. Chr. | Zeitalter des Krebses | Garten Eden, Adam & Eva                 |
+| 11.010 v. Chr. | 8.850 v. Chr. | Zeitalter des Löwen | Erste Menschen zusammen mit Elohim       |
+| 13.170 v. Chr. | 11.010 v. Chr. | Zeitalter der Jungfrau | Vielfalt des Lebens                   |
+| 15.330 v. Chr. | 13.170 v. Chr. | Zeitalter der Waage | Astronomie, Unterkünfte                 |
+| 17.490 v. Chr. | 15.330 v. Chr. | Zeitalter des Skorpions | Terraforming und Pflanzenleben         |
+| 19.650 v. Chr. | 17.490 v. Chr. | Zeitalter des Schützen | Studium und Analyse                    |
+| 21.810 v. Chr. | 19.650 v. Chr. | Zeitalter des Steinbocks | Entdeckung und Erforschung der Erde |
+| ... v. Chr. | 21.810 v. Chr. | Zeitalter des Wassermanns | Erde öde und leer                      |
 
-## See also
+## Siehe auch
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [Wiki › Großer Monat]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › Großes Jahr]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › Präzession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › Weltzeitalter]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-## Read more
+## Weiterlesen
 
-- [Intro › Timeline]({{< relref "intro/timeline/preamble.md" >}})
+- [Einführung › Zeitlinie]({{< relref "intro/timeline/preamble.md" >}})
 
-## External links
+## Externe Links
 
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
+- [Astrologisches Zeitalter | Wikipedia](https://de.wikipedia.org/wiki/Astrologisches_Zeitalter)

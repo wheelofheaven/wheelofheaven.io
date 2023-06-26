@@ -10,7 +10,7 @@
 
 {{ with $backlinks }}
     <section class="backlinks">
-        {{ printf "%s" ($.heading | default "<h2>Backlinks</h2>") | safeHTML }}
+        <h2>{{ i18n "backlinks" }}</h2>
         <nav>
             <ul>
                 {{ range . }}

@@ -27,3 +27,6 @@
 
 - id: alternative-names
   translation: "替代名称："
+
+- id: backlinks
+  translation: "反向链接："

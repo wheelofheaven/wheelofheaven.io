@@ -27,3 +27,6 @@
 
 - id: alternative-names
   translation: "Noms alternatifs:"
+
+- id: backlinks
+  translation: "Backlinks:"

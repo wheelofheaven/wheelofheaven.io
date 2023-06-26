@@ -27,3 +27,6 @@
 
 - id: alternative-names
   translation: "別名:"
+
+- id: backlinks
+  translation: "バックリンク:"

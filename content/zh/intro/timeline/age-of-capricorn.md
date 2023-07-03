@@ -13,119 +13,118 @@ weight: 205
 toc: true
 ---
 
-We start off with the Age of Capricorn first. The Age of Capricorn is the first precessional Month in the Great Year cycle. With the nominal period of 25'920 years for the [precessional Year]({{< relref "wiki/encyclopedia/great-year.md" >}}), the duration of one [precessional Month]({{< relref "wiki/encyclopedia/great-month.md" >}}) is 2'190 years. During this period, the rising Sun on the Vernal Equinox is aligned with the Capricorn constellation in the ecliptic.
+我们首先从摩羯座时代开始。摩羯座时代是大年周期中的第一个岁差月份。以25,920年为[岁差年]({{< relref "wiki/encyclopedia/great-year.md" >}})的标准周期，一个[岁差月]({{< relref "wiki/encyclopedia/great-month.md" >}})的持续时间是2,190年。在这段时间里，春分日出太阳与黄道上的摩羯座星座对齐。
 
-Just as the orbital year, defined by the Earth's revolution around the Sun, is divided into 12 monthly segments, the precessional Year, also known as the Great Year, is divided into 12 precessional Months, or Great Months. These Great Months are based on a longer cycle called [precession]({{< relref "wiki/encyclopedia/precession.md" >}}), which is the steady change in the orientation of the Earth's rotational axis.
+正如地球围绕太阳公转定义的公历年被划分为12个月份，岁差年（也称为大年）被划分为12个岁差月份或大月份。这些大月份基于一个较长的周期，叫做[岁差]({{< relref "wiki/encyclopedia/precession.md" >}})，它是地球自转轴方向稳定改变的现象。
 
-To put it simply, the 25,920-year cycle is divided into 12 segments, each with a corresponding star constellation on the vernal Equinox. This makes the zodiacal houses an appropriate way to date events that span thousands of years, as they are astronomically defined and universally understandable. This is what we call an actual [World Age]({{< relref "wiki/encyclopedia/world-age.md" >}}).
+简单地说，25,920年周期被划分为12个部分，每个部分在春分时都对应一个星座。这使得黄道宫成为一个适合记录跨越数千年的事件的方法，因为它们是由天文定义的，并且被普遍理解。这就是我们所说的实际的[世界年代]({{< relref "wiki/encyclopedia/world-age.md" >}})。
 
-While the choice of starting the Timeline with the Age of Capricorn may seem arbitrary, the reasons behind this decision are elaborated in the previous chapter, [Preamble # Once upon a time]({{< relref "intro/timeline/preamble.md#once-upon-a-time" >}}). In the previous chapter, we also learned that right at the onset of the Capricornian Age, the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}), an extraterrestrial civilization, arrived on Earth. Motivated by a tragic incident involving the escape of one of their genetic experiments, which resulted in the loss of Elohimian lifes and the cessation of that branch of research on their home planet, the Elohim sought new interstellar frontiers. Pursuing interplanetary and interstellar exploration, the researchers eventually chose Earth, an exoplanet, as their frontier for genetic research.
+尽管选择摩羯座时代作为时间线的起点可能看起来是随意的，但是这个决定背后的原因在上一章[序言 # 很久以前]({{< relref "intro/timeline/preamble.md#once-upon-a-time" >}})中已经详细阐述了。在上一章中，我们还了解到在摩羯座时代刚刚开始的时候，[Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})，一个外星文明，来到了地球。由于他们的一项基因实验出逃造成的悲剧性事件，导致了Elohim的生命丧失和他们在母星上那项研究的终止，Elohim开始寻找新的星际前沿。在追求行星间和星际探索的过程中，这些研究者最终选择了地球，一个系外行星，作为他们的基因研究前沿。
 
-{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Vernal equinox in 21'810 BC as seen from Earth's surface" >}}
+{{< figure src="images/equinox_bc21810.png" caption="图 1 - 从地球表面看到的公元前21810年的春分" >}}
 
-## Traces of truth
+## 真理的痕迹
 
-The first book out of the three foundational works of [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}}), [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, starts out with [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}) giving an extensive exegetical interpretation of various passages of the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}). He introduces the Bible as a collection of sacred texts containing accounts of events that are considered to be truthful.
+三部[拉尔教]({{< relref "wiki/encyclopedia/raelism.md" >}})的基础作品之一，《[说出真理的书]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>》,以[耶和华]({{< relref "wiki/encyclopedia/yahweh.md" >}})对[圣经]({{< relref "wiki/encyclopedia/bible.md" >}})中各种段落进行深入的解释性解读开始。他将圣经介绍为一部包含被视为真实的事件记载的神圣文本。
 
-> Now I would like you to refer to the Bible where you will find traces of the truth about your past. These traces, of course, have been somewhat distorted by successive transcribers who could not conceive of such high technology and could therefore only explain what was described
-as being a mystical and supernatural force.
+> 现在我希望你们参考圣经，那里面有关于你们过去真相的线索。当然，这些线索已经被后来的抄写者稍微扭曲了，他们无法想象如此高级的技术，因此只能将所描述的解释为神秘和超自然的力量。
 
-Yahweh provides an interpretation of various Bible passages that reveal [the truth]({{< relref "wiki/encyclopedia/the-truth.md" >}}) about humanity's past, which has been distorted over time due to the lack of understanding of high technology by transcribers.
+耶和华提供了对圣经各个段落的解读，揭示了关于人类过去[真相]({{< relref "wiki/encyclopedia/the-truth.md" >}})，这种真相由于抄写者对高科技的理解不足而在时间的推移中被扭曲。
 
-> Only the parts of the Bible that I will translate are important. Other parts are merely poetic babblings of which I will say nothing. I am sure you can appreciate that, thanks to the law, which said that the Bible had always to be re-copied without changing even the smallest detail, the deepest meaning has remained intact throughout the ages, even if the text has been larded with mystical and futile sentences.
+> 只有我将翻译的圣经部分才重要。其他部分只是诗意的胡言乱语，我对此一无所知。我相信你们能够欣赏到，由于法律规定，圣经必须一字不差地被重新复制，最深的含义始终穿越时代保持完整，即使文本已经充满了神秘和无用的句子。
 
-Yahweh explains that only the portions of the Bible that he has translated are significant.
+耶和华解释说，只有他翻译的圣经部分才是重要的。
 
-The law of exact reproduction that Yahweh is referring to is likely the practice of preserving the accuracy of the biblical text through copying. In ancient times, before the advent of printing, scribes were responsible for making copies of sacred texts such as the Bible. It was a common practice to copy these texts with the utmost accuracy and attention to detail, without altering even the smallest detail. This was done to preserve the integrity of the text and to prevent errors or changes from being introduced over time. This practice was enforced by religious authorities to ensure that the Bible's message remained unchanged over time.
+耶和华所指的精确复制法律可能是通过复制来保持圣经文本准确性的实践。在古代，打印术出现之前，抄写员负责复制如圣经之类的神圣文本。这些文本的复制通常需要极其精确并注意细节，即使最小的细节也不得更改。这是为了保护文本的完整性，并防止随着时间推移产生错误或变化。这种做法由宗教权威强制执行，以确保圣经的信息随着时间的推移保持不变。
 
-Yahweh suggests that some parts of the Bible are "mystical and futile sentences" that have been added over time by successive transcribers who could not comprehend the advanced technology described in the text. It is possible that errors or additions were introduced unintentionally due to the limitations of ancient transcription methods, such as errors in copying, mistranslation, or misinterpretation of the original text on one hand. On the other hand however, certain sentences and texts were most likely added to the Bible for political or religious reasons, or to promote specific beliefs or agendas. Nevertheless, the fundamental message of the Bible has remained intact.
+耶和华提出，圣经的一些部分是“神秘和无用的句子”，这些句子是随着时间推移由连续的抄写者添加的，他们无法理解文本中描述的先进技术。可能由于古代抄写方法的局限性，比如复制错误、误译或对原文的误解，无意间引入了错误或添加。另一方面，某些句子和文本很可能出于政治或宗教原因，或者为了推广特定的信仰或议程，被添加到圣经中。然而，圣经的基本信息仍然完整无损。
 
-The Bible is therefore considered to be a valuable tool for contextualization, as it has been preserved over thousands of years through a meticulous process of transcription and serves as a testimony to historical events.
+因此，圣经被认为是一种有价值的情境化工具，因为它经过了几千年的精心抄写过程得以保存，并作为历史事件的证词。
 
-## Genesis
+## 创世纪
 
-The Book of Genesis is the first book of the Hebrew Bible and the Christian Old Testament. It is a part of the Torah, which is the foundational text of Judaism, and it contains stories and accounts of the creation of the world, the first human beings, the history of early humanity. With Genesis does start the Bible, as well as the first exegetical reading proposed by Yahweh:
+创世纪是希伯来圣经和基督教旧约的第一本书。它是犹太教的基础文本，即《律法》的一部分，包含了关于世界创造、第一个人类、早期人类历史的故事和记载。创世纪是圣经的开端，也是耶和华提出的第一次解释性阅读：
 
-> So let us start with the first chapter of the Book of Genesis:
+> 让我们从创世纪的第一章开始：
 >
->> In the beginning Elohim<sup>1</sup> created the heaven and the earth.
->> Genesis 1: 1.
+>> 起初，Elohim<sup>1</sup>创造了天地。
+>> 创世纪 1:1。
 >
-> Elohim, translated without justification in some Bibles by the word God means in Hebrew “those who came from the sky”, and furthermore the word is a plural. It means that the scientists from our world searched for a planet that was suitable to carry out their projects. [...]
+> Elohim在某些圣经中被无理由地翻译为God，而在希伯来语中，它意为“那些从天空来的”，而且这个词是复数。这意味着我们世界上的科学家们寻找了一颗适合他们进行项目的行星。[...]
 
-Yahweh focuses on the first chapter of Genesis and explains that the Hebrew word [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}), which is usually translated as God[^1], actually means "those who came from the sky"[^2] and is clearly written in a plural tense[^3]. This strongly suggests that Elohim refers to the plurality of a people[^4]. More specifically, the people that came from the sky, from another planet, who searched for a suitable planet to carry out their scientific projects.
+耶和华专注于创世纪的第一章，并解释希伯来词[Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})，通常被翻译为上帝[^1]，实际上意为"那些从天空来的"[^2]，并明确地以复数形式写成[^3]。这强烈暗示Elohim是指一个人民的复数[^4]。更具体地说，那些从天空，从另一个星球来的人们，他们寻找适合进行科学项目的星球。
 
-> [...] They “created”, or in reality discovered the Earth, and realized it contained all the necessary elements for the creation of artificial life, even if its atmosphere was not quite the same as our own.
+> [...]他们“创造”了，或者实际上发现了地球，并意识到它含有所有创造人造生命所必需的元素，即使其大气与我们的并不完全相同。
 
-These extraterrestrial people who discovered the Earth recognized that it contained all the necessary elements to create artificial life. These elements likely included the basic building blocks of life, perhaps referring to elements necessary to build molecules such as amino acids, nucleotides, and other organic compounds. The implication is that these scientists intentionally selected the Earth as a site for their experiments due to its unique chemical makeup and potential for supporting life.
+这些发现地球的外星人认识到，地球包含了所有创造人造生命所必需的元素。这些元素可能包括生命的基本构造模块，也许是指构建氨基酸、核苷酸和其他有机化合物所必需的元素。这暗示这些科学家因为其独特的化学构成和支持生命的潜力而有意选择地球作为他们实验的地点。
 
-The fact that the Earth had a different atmosphere[^5] than the home planet of these scientists is significant because it suggests that these extraterrestrial beings were unable to adapt themselves biologically to different environments and had to consider to create life that was compatible with Earth's atmospheric conditions. The fact that the Earth had a different atmosphere than the scientists' home planet adds to the idea that the creation of life on Earth was a deliberate and highly planned process.
+地球拥有与这些科学家的母星不同的大气[^5]是重要的，因为这暗示这些外星生物无法生物学地适应不同的环境，并不得不考虑创造适应地球大气条件的生命。地球和科学家的母星拥有不同的大气增加了地球上生命创造是一个深思熟虑且高度计划的过程的想法。
 
 {{< figure src="images/interstellar-space-travel.png" caption="Ill. 1 - Interstellar space travel" >}}
 
-[^1]: The word "God" has its roots in Germanic paganism and Old English, where the term "god" referred to a deity or supreme being. The Germanic word "gudan" meant "to invoke," and the Old English word "god" likely developed from this root. The word "God" is also related to the Latin word "Deus," which means "god" or "deity." This Latin word has its roots in the Proto-Indo-European word "dyeus". The divine name Dyēus derives from the stem dyeu-, denoting the "diurnal sky" or the "brightness of the day" (in contrast to the darkness of the night), ultimately from the root *di or dei- ("to shine, be bright").
-[^2]: The word Elohim comes from the Biblical Hebrew ʾélôhím (אֱלֹהִים / אֱלוֹהִים), which is the plural form of ʾélôah (אֱלוֹהַּ). This term is an expanded form of ʾēl (אֵל), whose Semitic root is ʾlh or ʾl. Elohim itself is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning “sky.” The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as “power.” The Sumerogram 𒀭, meaning “sky,” provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
-[^3]: In Hebrew, the suffix "-im" is often used to form the plural tense of masculine nouns. For example, the word "sefer" (סֵפֶר), which means "book" in the singular form, becomes "sfarim" (סְפָרִים) in the plural form. Similarly, the word "chatul" (חָתוּל), which means "cat" in the singular form, becomes "chatulim" (חֲתוּלִים) in the plural form. The word Elohim is usually translated as God in English, but it is important to note that it is clearly plural noun in Hebrew. While some scholars like to argue that the plural form of Elohim is a plural of majesty or honor, the undoubtedly clear plural form reflects the ancient Hebrew belief in a pantheon of higher beings.
-[^4]: It is a common characteristic of ancient religions to have pantheons of gods or goddesses. In many ancient cultures, including Greek, Roman, Egyptian, Mesopotamian, and Norse, there were elaborate pantheons of higher beings that were believed to govern different aspects of the natural world, human affairs, and spiritual life. For example, the Greek pantheon included Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, Dionysus, and Hestia, among others. Each god or goddess had specific roles and attributes and was associated with different aspects of life, such as love, war, wisdom, or agriculture. Similarly, the ancient Egyptian pantheon included gods and goddesses such as Ra, Osiris, Isis, Horus, Anubis, and Thoth. Each deity had a specific function or aspect of life that they governed, such as the sun, the underworld, or writing and knowledge. The Mesopotamian pantheon included deities such as Anu, Enlil, and Marduk, who were associated with creation, fertility, and kingship, respectively. The Norse pantheon included gods and goddesses such as Odin, Thor, Loki, Freya, and Hel among others.
-[^5]: The Earth's atmosphere is made up of a mixture of gases, including nitrogen, oxygen, carbon dioxide, and other trace gases such as argon and neon. Nitrogen makes up about 78% of the atmosphere, while oxygen makes up about 21%. Carbon dioxide and other trace gases make up the remaining 1%.
+[^1]: "God"这个词源于日耳曼异教和古英语，其中"god"一词指的是神或至高无上的存在。日耳曼词"gudan"的意思是"唤醒"，古英语的词"god"很可能由此词根发展而来。"God"一词也与拉丁词"Deus"有关，意为"神"或"神性"。这个拉丁词源于原始印欧语的词"dyeus"。神名Dyēus源于词干dyeu-，指的是"白天的天空"或"白天的亮度"（与夜晚的黑暗形成对比），最终源于词根*di或dei-（"闪耀，明亮"）。
+[^2]: Elohim一词来自圣经希伯来语ʾélôhím（אֱלֹהִים / אֱלוֹהִים），这是ʾélôah（אֱלוֹהַּ）的复数形式。这个词是ʾēl（אֵל）的扩展形式，其闪族词根为ʾlh或ʾl。Elohim本身与较早的阿卡德语词ilum同源，该词以苏美罗文𒀭书写，意为“天空”。希伯来语ʾēl或阿卡德语ilum的闪族词根是ʾl，通常被理解为“力量”。以苏美罗文𒀭书写的词，意为“天空”，在与这些来自天空的神的强大力量相联系之前，提供了原始词根含义的更好指示。
+[^3]: 在希伯来语中，后缀"-im"通常用于形成男性名词的复数时态。例如，"sefer"（סֵפֶר），意为"书"的单数形式，变为复数形式"sfarim"（סְפָרִים）。同样，"chatul"（חָתוּל），意为"猫"的单数形式，变为复数形式"chatulim"（חֲתוּלִים）。Elohim一词在英语中通常被翻译为God，但值得注意的是，在希伯来语中，它明显是复数名词。虽然一些学者喜欢争辩说Elohim的复数形式是尊称或荣誉的复数，但不可否认的清晰的复数形式反映了古代希伯来人对高等存在群体的信仰。
+[^4]: 古代宗教具有神或女神群体的共同特性。在许多古代文化中，包括希腊、罗马、埃及、美索不达米亚和北欧，都有复杂的高级存在群体，他们被认为是管理自然界、人类事务和精神生活的。例如，希腊神群包括宙斯、赫拉、波塞冬、得墨忒尔、雅典娜、阿波罗、阿尔忒弥斯、阿瑞斯、阿芙洛狄特、赫淮斯托斯、赫密斯、狄俄尼修斯和赫斯提亚等。每一个神或女神都有特定的角色和属性，并与生活的不同方面关联，如爱情、战争、智慧或农业。同样，古埃及的神群包括了拉、奥西里斯、伊西斯、荷鲁斯、阿努比斯和托特等神和女神。每一个神都有他们管理的特定功能或生活方面，如太阳、冥界或写作和知识。美索不达米亚神群包括了阿努、恩利尔和马尔杜克等，他们分别与创造、生育和王权相关。北欧神群包括了奥丁、托尔、洛基、芙蕾雅和赫尔等神和女神。
+[^5]: 地球的大气是由包括氮、氧、二氧化碳和其他微量气体如氩和氖的气体混合物构成的。氮约占大气的78%，氧约占21%。二氧化碳和其他微量气体占剩余的1%。
 
-## Blue planet
+## 蓝色星球
 
-Earth is the third planet from the Sun and is the largest of the terrestrial planets. One of the most prominent features of Earth that can be seen from outer space is the fact that it features water, lots of it.
+地球是太阳系中离太阳第三远的星球，也是四大陆地行星中最大的一个。从外太空看，地球最显著的特征之一就是其拥有大量的水。
 
->> And the Spirit of Elohim moved upon the face of the waters.
->> Genesis 1: 2.
+>> 天神的灵在水面上运动。
+>> 《创世记》1:2.
 >
-> This means the scientists made reconnaissance flights, and what you might call artificial satellites were placed around the Earth to study its constitution and atmosphere. The Earth was, at that time, completely covered with water and thick mist.
+> 这意味着科学家们进行了侦查飞行，而你可能称之为人造卫星的设备被放置在地球周围，以研究其构造和大气。当时的地球完全被水和浓雾覆盖。
 
-Yahweh explains that this means that the extraterrestrial scientists made reconnaissance flights and placed artificial satellites around the Earth to study its constitution and atmosphere. The technology that may have been involved in this description does sound familiar to us.
+耶和华解释说，这意味着外星科学家进行了侦查飞行，并在地球周围布置了人造卫星以研究其构造和大气。这个描述中可能涉及到的技术对我们来说确实是熟悉的。
 
-First, these so-called reconnaissance flights could have taken the form of manned or unmanned spacecraft, such as probes or drones, that were sent to survey the Earth's surface and atmosphere.
+首先，这些所谓的侦查飞行可能采取有人驾驶或无人驾驶的宇宙飞船的形式，如探测器或无人机，被派往地球表面和大气进行测绘。
 
-Second, the artificial satellites that were placed around the Earth were likely advanced technological devices that would have been capable of gathering data and transmitting it back to their central space hub. These devices could have taken the form of orbiting satellites or other types of spacecraft that were capable of conducting surveillance and scientific experiments on the Earth's atmosphere and composition. It's also likely that these artificial satellites were used to gather information about the planet's geological processes, climate patterns, and other environmental factors. These data would have been critical for the extraterrestrial scientists to understand and be able to adapt the Earth's unique environment.
+其次，被布置在地球周围的人造卫星很可能是先进的技术设备，能够收集数据并将其传回他们的太空中心。这些设备可能采取轨道卫星或其他能够对地球大气和构成进行监测和科学实验的太空船的形式。很可能，这些人造卫星被用来收集关于地球的地质过程、气候模式和其他环境因素的信息。这些数据对于外星科学家了解和适应地球独特的环境至关重要。
 
-Another interesting hint here is what is being said about the state of planet Earth at that moment in time: completely covered in water and thick mist. Planet Earth was indeed a blue planet through and through. The presence of water would have been critical for creating the necessary conditions for life to thrive.
+这里的另一个有趣的线索是关于当时地球的状态：完全被水和浓雾覆盖。地球确实是一个彻头彻尾的蓝色星球。水的存在对于创造生命繁荣所需的条件至关重要。
 
-{{< figure src="images/blue-planet-afar.png" caption="Ill. 2 - Blue planet surface" >}}
+{{< figure src="images/blue-planet-afar.png" caption="插图 2 - 蓝色星球表面" >}}
 
-## Solar radiation
+## 太阳辐射
 
-Not only the Earth, but also another important neighbouring celestial body had to be investigated properly: the Sun. The sun is the star at the center of the solar system and is the primary source of energy for the Earth. The Earth orbits the sun, which means it travels around the sun in a regular and predictable path. The sun's gravitational pull keeps the Earth in orbit and also causes the tides on Earth's oceans.
+不仅地球，还有另一个重要的邻近天体也需要被适当地研究：太阳。太阳是太阳系中心的恒星，是地球的主要能源。地球绕太阳旋转，这意味着它沿着一个规则和可预测的路径围绕太阳运行。太阳的引力使地球保持轨道，并引起地球海洋的潮汐。
 
-The sun also plays a critical role in the Earth's climate and weather patterns, as its energy drives the Earth's atmospheric and oceanic circulation systems. The sun's energy is absorbed by the Earth's atmosphere, land, and oceans, and this energy is then transferred and redistributed around the planet through various physical and chemical processes. Earth has a magnetic field that protects the planet from the solar wind. Solar wind is a stream of charged particles that is constantly emitted by the sun. When the solar wind encounters the Earth's magnetic field, it interacts with the charged particles in the field, causing them to become trapped and redirected around the planet. This forms a protective barrier around the Earth known as the magnetosphere, which shields the planet from the most harmful effects of the solar wind.
+太阳在地球的气候和天气模式中也起着关键作用，因为其能量驱动了地球的大气和海洋循环系统。太阳的能量被地球的大气、陆地和海洋吸收，然后通过各种物理和化学过程将这种能量转移并在地球上重新分配。地球有一个磁场，保护着地球免受太阳风的侵害。太阳风是由太阳不断发出的带电粒子流。当太阳风遇到地球的磁场时，它会与场中的带电粒子相互作用，导致它们被捕获并绕地球重定向。这在地球周围形成了一个称为磁层的保护屏障，保护地球免受太阳风最有害的影响。
 
->> And Elohim saw the light, that it was good.
->> Genesis 1: 4.
+>> 天神看到光是好的，
+>> 《创世记》1:4.
 >
-> To create life on Earth it was important to know whether the sun was sending harmful rays to the Earth’s surface, and this question was fully researched. It turned out that the sun was heating the Earth correctly without sending out harmful rays. In other words the “light was good”.
+> 在地球上创造生命，重要的是要知道太阳是否向地球表面发送有害的光线，这个问题得到了充分的研究。结果发现，太阳在正确地给地球加热，而没有发出有害的光线。换句话说，“光是好的”。
 
-Yahweh explains that this means that in order to create life on Earth, it was important for the extraterrestrial scientists to research whether the sun was sending harmful rays to the Earth's surface. If the sun were sending harmful rays to the Earth's surface, it would have made it much more difficult for the extraterrestrial scientists to create and seed life on the planet. Therefore, researching the sun's effect on the Earth's surface was critical in determining whether the planet was suitable for life.
+耶和华解释说，这意味着为了在地球上创造生命，对外星科学家来说，研究太阳是否向地球表面发送有害光线是非常重要的。如果太阳向地球表面发送有害光线，这将使外星科学家在地球上创造和播种生命变得更加困难。因此，研究太阳对地球表面的影响对于确定地球是否适合生命是至关重要的。
 
-The sun emits various types of electromagnetic radiation, including ultraviolet (UV) rays, X-rays, and gamma rays, that can be harmful to living organisms. These types of radiation can cause damage to DNA and other molecules, which can lead to mutations or cell death. This would involve studying the effects of different types of radiation emitted by the sun on living organisms. Scientists would use various instruments and methods to measure the intensity and wavelength of radiation reaching the Earth's surface, as well as how it interacts with the Earth's atmosphere and other environmental factors.
+太阳会发出各种类型的电磁辐射，包括可能对生物有害的紫外线、X射线和伽马射线。这些类型的辐射可能对DNA和其他分子造成损害，从而导致突变或细胞死亡。这将涉及到研究太阳发出的不同类型的辐射对生物的影响。科学家们会使用各种仪器和方法来测量到达地球表面的辐射的强度和波长，以及它如何与地球的大气和其他环境因素相互作用。
 
-Eventually, the sun's output was considered to be acceptable, "the light was good", and the investigations continued.
+最终，太阳的输出被认为是可接受的，“光是好的”，并且调查继续进行。
 
-{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="Ill. 3 - Orbital outpost" >}}
+{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="插图 3 - 轨道哨站" >}}
 
-## First day of creation
+## 创世的第一天
 
-The amount of time it took for the extraterrestrial scientists to research the Earth's environment and determine whether it was suitable for the creation of life took a long while. That period of time is commonly referred to as a day. This day however, as explained in the beginning of this chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time of another,  much longer cycle: the precession.
+外星科学家研究地球环境并确定是否适合创造生命所花费的时间很长。这段时间通常被称为一天。然而，正如本章开头所解释的，这一天并不是以24小时的日夜循环来代替，而是一个指代另一个更长周期的时间流逝的天体日：岁差。
 
->> And the evening and the morning were the first day.
->> Genesis 1: 5.
+>> 天一的晚上和早晨。
+>> 《创世记》1:5.
 >
-> This research took quite some time. The “day” mentioned here corresponds to the period in which your sun rises under the same sign on the day of the vernal equinox, in other words, about 2,000 years on Earth.
+> 这个研究花费了相当长的时间。这里提到的“一天”对应于你们的太阳在春分日升起的同一星座下的周期，换句话说，大约是地球上的2000年。
 
-According to Yahweh, this research took quite some time and the "day" mentioned in Genesis 1:5 corresponds to the period in which the sun rises under the same sign on the day of the vernal equinox, which is roughly 2,000 years on Earth. This suggests that the extraterrestrial scientists spent a significant amount of time studying and analyzing the Earth's environment before seeding it with life.
+据耶和华解释，这个研究花费了相当长的时间，创世记1:5中提到的"一天"对应于太阳在春分日升起的同一星座下的周期，这大约是地球上的2000年。这表明外星科学家在将生命播种到地球之前，花费了大量的时间研究和分析地球的环境。
 
-The precession of the equinoxes is a natural phenomenon in which the Earth's rotational axis slowly traces out a circle over a period of approximately 26'000 years. A precessional cycle is divided into twelve equal parts, each of which corresponds to a world age that is associated with a different astrological sign. In the case of the first day that passes during which some significant preliminary investigations were undertaken by the space visitors, the Age of Capricorn that lasted from –21'810 to –19'650 is the age that is implicitly referred to.
+春分点的岁差是一种自然现象，其中地球的自转轴在大约26000年的时间内慢慢地描绘出一个圆圈。一个岁差周期被分为十二个相等的部分，每个部分对应一个与不同星座相关的世界年龄。在第一天过去的时候，太空访问者进行了一些重要的初步调查，隐含指的是从-21810年到-19650年持续的摩羯座时代。
 
-## A quick recap
+## 快速回顾
 
-The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and took as, each World Age, 2'160 years to complete. It is considered the first World Age out of the twelve World Ages and therefore marks the beginning of the whole cycle of World Ages, as would the month of January mark the beginning of the yearly cycle. It was during the Age of Capricorn that a non-terrestrial civilization arrived to Earth and started investigating it for scientific purposes as it featured all elements necessary for live, above all lots of water.
+摩羯座时代是十二个世界时代之一，从-21810年持续到-19650年，和每一个世界时代一样，需要2160年才能完成。它被认为是十二个世界时代中的第一个世界时代，因此标志着整个世界时代周期的开始，就像一月份标志着一年周期的开始一样。在摩羯座时代，一种非地球文明来到地球，开始出于科学目的对其进行研究，因为它拥有所有必要的生命元素，尤其是大量的水。
 
-These investigations were considerable in their scope and included extensive probings and examinations of geology, oceonography, and atmospheric sciences, as well an in-depth study of the Sun's impact on Earth. Besides for their purely scientific value, the outcome of these investigations constituted an important data set for the final verdict. The final verdict of whether not the planet could be used as an experimental laboratory for life creational purposes. As we know today, Earth is teeming with life, so we're safe to conclude that the verdict ended up in favour of keeping the outpost and its research endeavours going.
+这些调查的范围相当广泛，包括对地质、海洋学和大气科学的广泛探测和检查，以及对太阳对地球影响的深入研究。除了其纯粹的科学价值外，这些调查的结果构成了最终裁决的重要数据集。最后的裁决是关于这个行星是否可以用作生命创造目的的实验室。如今我们知道，地球上充满了生命，所以我们可以放心地得出结论，裁决最后是继续保留这个前哨基地和其研究努力。
 
-The arrival of this space-faring civilization and their subsequent extensive review of the planet is remembered as the First Day of Creation in Genesis. "Let there be light" doesn't refer to the creation of the cosmos or celestial objects, but the planet got discovered and investigated by a number of curious and adventurous cosmonauts.
+这个太空文明的到来及其随后对这个行星的大规模审查在创世记中被记住为创世的第一天。"要有光"并不是指宇宙或天体的创造，而是这个行星被一群好奇而冒险的宇航员发现并进行调查。
 
-After the Age of Capricorn (from –21'810 to –19'650) comes the Age of Sagittarius (from –19'650 to –17'490). The Age of Capcricorn equates to the First Day of Creation, the following Age of Sagittarius evidently equates to the Second Day of Creation.
+摩羯座时代（从-21810年到-19650年）之后是射手座时代（从-19650年到-17490年）。摩羯座时代等同于创世的第一天，显然，接下来的射手座时代等同于创世的第二天。

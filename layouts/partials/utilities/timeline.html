@@ -1,7 +1,8 @@
 <div class="timeline">
   {{ range .context.Site.Data.worldages }}
     {{ $current := .identifier }}
-    <a class="zodiac-link" href="{{ .link }}">
+    {{ $link := .link }}
+    <a class="zodiac-link" href="{{ $link }}">
       <div class="age
         {{ if in $.context.Params.timeline $current }}current{{ end }}
         {{ if eq $current "chronology" }}chronology{{ end }}">

@@ -1,7 +1,7 @@
 ---
 title: "Chronologie"
-description: "Dans l'immensité de l'histoire cosmique, les 12 âges astrologiques, commençant par l'Âge du Capricorne en 21'810 av. J.-C. et se terminant par l'Âge du Verseau en 4110 de notre ère, offrent une perspective fascinante pour observer la civilisation humaine. Ces âges reflètent un cycle complet de précession, souvent appelé Grande Année, un cycle qui guide le déroulement des événements et l'évolution de la conscience sur Terre. Chaque âge représente une ère distincte, apportant ses propres thèmes et enseignements. L'Âge du Capricorne a marqué la découverte et l'exploration de la Terre. Le Sagittaire a propulsé les études et les analyses, tandis que le Scorpion a permis la terraformation et la prolifération de la vie végétale. Dans l'Âge de la Balance, l'humanité s'est concentrée sur l'astronomie et les aménagements, suivi par l'Âge de la Vierge qui a vu une diversité de vie. L'Âge du Lion a été témoin de l'avènement des êtres humains aux côtés des Elohim, suivi par l'Âge du Cancer, marquant l'ère du Jardin d'Eden et du récit d'Adam et Ève. Les âges suivants ont chacun marqué des étapes religieuses et historiques significatives, du déluge dans l'Âge des Gémeaux, aux événements tels que Babel, Sodome et Gomorrhe dans le Taureau, et Abraham et l'Exode dans le Bélier. L'Âge des Poissons a marqué l'avènement de Jésus, avec des miracles tels que la multiplication, conduisant à notre présent Âge du Verseau, symbolisant la révélation et le début d'un Âge d'Or. Ces âges représentent non seulement des périodes de temps, mais un grand voyage cosmique que l'humanité entreprend dans sa quête de croissance spirituelle et d'illumination."
-lead: "Dans l'immensité de l'histoire cosmique, les 12 âges astrologiques, commençant par l'Âge du Capricorne en 21'810 av. J.-C. et se terminant par l'Âge du Verseau en 4110 de notre ère, offrent une perspective fascinante pour observer la civilisation humaine. Ces âges reflètent un cycle complet de précession, souvent appelé Grande Année, un cycle qui guide le déroulement des événements et l'évolution de la conscience sur Terre. Chaque âge représente une ère distincte, apportant ses propres thèmes et enseignements. L'Âge du Capricorne a marqué la découverte et l'exploration de la Terre. Le Sagittaire a propulsé les études et les analyses, tandis que le Scorpion a permis la terraformation et la prolifération de la vie végétale. Dans l'Âge de la Balance, l'humanité s'est concentrée sur l'astronomie et les aménagements, suivi par l'Âge de la Vierge qui a vu une diversité de vie. L'Âge du Lion a été témoin de l'avènement des êtres humains aux côtés des Elohim, suivi par l'Âge du Cancer, marquant l'ère du Jardin d'Eden et du récit d'Adam et Ève. Les âges suivants ont chacun marqué des étapes religieuses et historiques significatives, du déluge dans l'Âge des Gémeaux, aux événements tels que Babel, Sodome et Gomorrhe dans le Taureau, et Abraham et l'Exode dans le Bélier. L'Âge des Poissons a marqué l'avènement de Jésus, avec des miracles tels que la multiplication, conduisant à notre présent Âge du Verseau, symbolisant la révélation et le début d'un Âge d'Or. Ces âges représentent non seulement des périodes de temps, mais un grand voyage cosmique que l'humanité entreprend dans sa quête de croissance spirituelle et d'illumination."
+description: "Dans l'immensité de l'histoire cosmique, les 12 ères astrologiques, commençant par l'Ère du Capricorne en 21 810 av. J.-C. et se terminant par l'Ère du Verseau en 4110 ap. J.-C., offrent une perspective fascinante pour observer la civilisation humaine. Ces ères reflètent un cycle complet de précession, souvent appelé Grande Année, un cycle qui guide le déroulement des événements et l'évolution de la conscience sur Terre. Chaque ère symbolise une époque distincte, apportant ses propres thèmes et leçons. L'Ère du Capricorne marque la découverte et l'exploration de la Terre. Le Sagittaire propulse les études et l'analyse, tandis que le Scorpion engendre la terraformation et la prolifération de la vie végétale. Dans l'Ère de la Balance, l'humanité se concentre sur l'astronomie et les aménagements, suivie de l'Ère de la Vierge qui voit une diversité de vie. L'Ère du Lion marque l'avènement des humains aux côtés des Elohim, suivi de l'Ère du Cancer, marquant l'époque du Jardin d'Eden et du récit d'Adam et Ève. Les ères suivantes portent chacune des jalons religieux et historiques significatifs, du déluge dans l'Ère des Gémeaux, aux événements tels que Babel, Sodome et Gomorrhe dans le Taureau, ainsi qu'Abraham et l'Exode dans le Bélier. L'Ère des Poissons observe l'avènement de Jésus, avec des miracles tels que la multiplication, conduisant à notre Ère du Verseau actuelle, symbolisant la révélation et le début d'un Âge d'Or. Ces ères représentent non seulement des périodes de temps, mais aussi un grand voyage cosmique que l'humanité entreprend dans sa quête de croissance spirituelle et d'illumination."
+lead: "Dans l'immensité de l'histoire cosmique, les 12 ères astrologiques, commençant par l'Ère du Capricorne en 21 810 av. J.-C. et se terminant par l'Ère du Verseau en 4110 ap. J.-C., offrent une perspective fascinante pour observer la civilisation humaine. Ces ères reflètent un cycle complet de précession, souvent appelé Grande Année, un cycle qui guide le déroulement des événements et l'évolution de la conscience sur Terre. Chaque ère symbolise une époque distincte, apportant ses propres thèmes et leçons. L'Ère du Capricorne marque la découverte et l'exploration de la Terre. Le Sagittaire propulse les études et l'analyse, tandis que le Scorpion engendre la terraformation et la prolifération de la vie végétale. Dans l'Ère de la Balance, l'humanité se concentre sur l'astronomie et les aménagements, suivie de l'Ère de la Vierge qui voit une diversité de vie. L'Ère du Lion marque l'avènement des humains aux côtés des Elohim, suivi de l'Ère du Cancer, marquant l'époque du Jardin d'Eden et du récit d'Adam et Ève. Les ères suivantes portent chacune des jalons religieux et historiques significatifs, du déluge dans l'Ère des Gémeaux, aux événements tels que Babel, Sodome et Gomorrhe dans le Taureau, ainsi qu'Abraham et l'Exode dans le Bélier. L'Ère des Poissons observe l'avènement de Jésus, avec des miracles tels que la multiplication, conduisant à notre Ère du Verseau actuelle, symbolisant la révélation et le début d'un Âge d'Or. Ces ères représentent non seulement des périodes de temps, mais aussi un grand voyage cosmique que l'humanité entreprend dans sa quête de croissance spirituelle et d'illumination."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -9,76 +9,76 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
 ## La Grande Année
 
-Dans l'intricate tapisserie de l'histoire humaine, le concept des âges astrologiques offre une perspective éclairante, reliant les mouvements célestes à la saga de la vie sur Terre. Ce récit s'étend de l'Âge du Capricorne en 21'810 av. J.-C., jusqu'à l'Âge du Verseau en 4110 de notre ère, représentant un cycle complet de précession, souvent appelé la "Grande Année".
+Dans la trame complexe de l'histoire humaine, le concept des ères astrologiques offre une perspective éclairante, reliant les mouvements célestes à la saga de la vie sur Terre. Ce récit s'étend de l'Ère du Capricorne en 21 810 av. J.-C. jusqu'à l'Ère du Verseau en 4110 ap. J.-C., représentant un cycle complet de précession, souvent appelé "Grande Année".
 
-La chronologie est référencée à plusieurs endroits sur Wheel of Heaven. {{< svg "greatyear.svg" >}}
+La chronologie est référencée à de nombreux endroits sur Ère astrologique. {{< svg "greatyear.svg" >}}
 
-## Each World Age
+## Chaque Ère Astrologique
 
-The journey begins with the Age of Capricorn, where the Earth was discovered and exploration began in earnest. The pioneering spirit of humankind was sparked as they ventured across the vast expanses of this new world, setting the stage for future developments.
+Le voyage commence avec l'Ère du Capricorne, où la Terre a été découverte et l'exploration a commencé avec sérieux. L'esprit pionnier de l'humanité s'est enflammé alors qu'elle s'aventurait à travers les vastes étendues de ce nouveau monde, posant les bases pour les développements futurs.
 
-Then arrived the Age of Sagittarius, a time that ignited our inherent desire to study and analyze, to understand our surroundings and the fundamental laws that governed our existence. This was a time of inquiry, knowledge, and the beginnings of wisdom.
+Ensuite arrive l'Ère du Sagittaire, un temps qui a allumé notre désir inhérent d'étudier et d'analyser, de comprendre notre environnement et les lois fondamentales qui gouvernaient notre existence. C'était un moment d'interrogation, de connaissance et les débuts de la sagesse.
 
-The Age of Scorpio heralded an epoch of terraforming, where the raw, primal lands were sculpted and shaped. The introduction of plant life marked the start of a lush, green world, one that was ready to support the complex web of life.
+L'Ère du Scorpion a annoncé une époque de terraformation, où les terres brutes et primitives étaient sculptées et façonnées. L'introduction de la vie végétale marqua le début d'un monde luxuriant et verdoyant, prêt à soutenir le réseau complexe de la vie.
 
-In the Age of Libra, our gaze shifted skyward. Astronomy came into focus, alongside the development of accommodations that catered to the growing complexity of societal structures. This period was characterized by balance, symbolized by the scales of Libra, between our terrestrial lives and celestial curiosity.
+Dans l'Ère de la Balance, notre regard s'est tourné vers le ciel. L'astronomie est devenue un sujet d'intérêt, aux côtés du développement d'hébergements adaptés à la complexité croissante des structures sociétales. Cette période était caractérisée par l'équilibre, symbolisé par les balances de la Balance, entre notre vie terrestre et notre curiosité céleste.
 
-Next, the Age of Virgo ushered in a diversity of life, an explosion of different species, filling every niche in the new ecosystems. Virgo, often associated with the Earth goddess, signifies fertility and abundance, which was manifested in the proliferation of life forms during this era.
+Ensuite, l'Ère de la Vierge a ouvert la voie à une diversité de vie, une explosion d'espèces différentes, remplissant chaque niche des nouveaux écosystèmes. La Vierge, souvent associée à la déesse de la Terre, symbolise la fertilité et l'abondance, qui se sont manifestées par la prolifération des formes de vie au cours de cette ère.
 
-The Age of Leo marked the advent of humans along with Elohim. This was a significant turning point in the annals of Earth's history, the moment when humans began their unique journey, armed with cognition and the ability to influence their surroundings.
+L'Ère du Lion a marqué l'avènement des humains aux côtés des Elohim. C'était un tournant significatif dans l'histoire de la Terre, le moment où les humains ont commencé leur voyage unique, armés de cognition et de la capacité d'influencer leur environnement.
 
-The Age of Cancer introduced the narrative of the Garden of Eden, along with the seminal characters of Adam & Eve. This era delved into the origins of humankind, grappling with existential questions and themes of innocence and temptation.
+L'Ère du Cancer a introduit le récit du Jardin d'Eden, ainsi que les personnages emblématiques d'Adam et Ève. Cette ère s'est penchée sur les origines de l'humanité, abordant des questions existentielles et des thèmes d'innocence et de tentation.
 
-Following this, the Age of Gemini brought about monumental events like the Great Flood and the story of Noah. This age signified duality and change, showcasing the adaptability and resilience of humanity in the face of catastrophic changes.
+Ensuite, l'Ère des Gémeaux a engendré des événements monumentaux tels que le Grand Déluge et l'histoire de Noé. Cette ère signifiait la dualité et le changement, mettant en valeur l'adaptabilité et la résilience de l'humanité face à des changements catastrophiques.
 
-In the Age of Taurus, events such as the Tower of Babel and the tale of Sodom & Gomorrah unfolded. This period, symbolized by the grounded and unyielding Bull, tested the resolve of humanity and forced a reevaluation of values and ethics.
+Dans l'Ère du Taureau, des événements tels que la Tour de Babel et le récit de Sodome et Gomorrhe se sont déroulés. Cette période, symbolisée par le Taureau solide et inflexible, a testé la détermination de l'humanité et a forcé une réévaluation des valeurs et de l'éthique.
 
-The Age of Aries was marked by the tales of Abraham and the Exodus, significant religious narratives that have shaped the course of human morality and spirituality. The fiery Aries brought about revolutions in religious thought, shifting paradigms and altering the path of human spiritual evolution.
+L'Ère du Bélier a été marquée par les récits d'Abraham et de l'Exode, des récits religieux importants qui ont façonné le cours de la morale et de la spiritualité humaine. Le Bélier ardent a entraîné des révolutions dans la pensée religieuse, changeant de paradigme et modifiant la voie de l'évolution spirituelle humaine.
 
-The Age of Pisces, the current astrological age, brought forth Jesus and miracles such as multiplication. The age was marked by the birth of new religions, shaping centuries of spiritual, philosophical, and cultural growth.
+L'Ère des Poissons, l'ère astrologique actuelle, a vu émerger Jésus et des miracles tels que la multiplication. Cette époque a été marquée par la naissance de nouvelles religions, façonnant des siècles de croissance spirituelle, philosophique et culturelle.
 
-We are now transitioning into the Age of Aquarius, an era of revelation and the dawn of a Golden Age. This is a time for rebirth, for embracing new ideas and technology, and for humanity to take the next step in its collective spiritual evolution.
+Nous sommes maintenant en transition vers l'Ère du Verseau, une ère de révélation et l'aube d'un âge d'or. C'est un temps de renaissance, d'adoption de nouvelles idées et technologies, et l'occasion pour l'humanité de franchir une nouvelle étape dans son évolution spirituelle collective.
 
-Each of these astrological ages is much more than just a time period. They represent stages in humanity's ongoing quest for understanding, growth, and enlightenment. Each age comes with its own lessons, themes, and opportunities for growth, influencing the course of human civilization in profound and lasting ways. The understanding of these astrological ages offers a panoramic view of our journey
+Chacune de ces ères astrologiques est bien plus qu'une simple période de temps. Elles représentent des étapes dans la quête continue de l'humanité pour la compréhension, la croissance et l'illumination. Chaque ère apporte ses propres leçons, thèmes et opportunités de croissance, influençant le cours de la civilisation humaine de manière profonde et durable. La compréhension de ces ères astrologiques offre une vue panoramique de notre voyage.
 
-## Timeline of the World Ages
+## Chronologie des Ères Astrologiques
 
-The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.
+Le tableau suivant présente le dernier cycle précessionnel commençant par l'Ère du Verseau (aujourd'hui) remontant de 25'920 ans.
 
-| Begins in | Ends in   | Zodiacal house     | Events                        |
-|-----------|-----------|--------------------|-------------------------------|
-| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus, multiplication         |
-| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
-| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
-| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve    |
-| 11'010 BC | 8'850 BC  | Age of Leo         | First humans along Elohim     |
-| 13'170 BC | 11'010 BC | Age of Virgo       | Diversity of life             |
-| 15'330 BC | 13'170 BC | Age of Libra       | Astronomy, accomodation       |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | Terraforming and plant life   |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | Study and analysis            |
-| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
-| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
+| Début      | Fin        | Maison zodiacale    | Événements                    |
+|------------|------------|---------------------|-------------------------------|
+| 1'950      | 4'110      | Ère du Verseau      | Révélation, Âge d'Or          |
+| 210 av. J.-C. | 1'950      | Ère des Poissons   | Jésus, multiplication         |
+| 2'370 av. J.-C. | 210 av. J.-C. | Ère du Bélier    | Abraham, Exode                |
+| 4'530 av. J.-C. | 2'370 av. J.-C. | Ère du Taureau   | Tour de Babel, Sodome & Gomorrhe |
+| 6'690 av. J.-C. | 4'530 av. J.-C. | Ère des Gémeaux  | Déluge, Noé                   |
+| 8'850 av. J.-C. | 6'690 av. J.-C. | Ère du Cancer     | Jardin d'Eden, Adam & Ève    |
+| 11'010 av. J.-C. | 8'850 av. J.-C. | Ère du Lion      | Premiers humains avec les Elohim |
+| 13'170 av. J.-C. | 11'010 av. J.-C. | Ère de la Vierge | Diversité de la vie           |
+| 15'330 av. J.-C. | 13'170 av. J.-C. | Ère de la Balance | Astronomie, accommodations    |
+| 17'490 av. J.-C. | 15'330 av. J.-C. | Ère du Scorpion   | Terraformation et vie végétale |
+| 19'650 av. J.-C. | 17'490 av. J.-C. | Ère du Sagittaire | Études et analyses            |
+| 21'810 av. J.-C. | 19'650 av. J.-C. | Ère du Capricorne | Découverte de la Terre, exploration |
+| ... av. J.-C. | 21'810 av. J.-C. | Ère du Verseau   | Terre stérile et vide         |
 
-## See also
+## Voir aussi
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [Wiki › Grand Mois]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › Grand Année]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › Précession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › Ère Astrologique]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-## Read more
+## Pour en savoir plus
 
-- [Intro › Timeline]({{< relref "intro/timeline/preamble.md" >}})
+- [Intro › Chronologie]({{< relref "intro/timeline/preamble.md" >}})
 
-## External links
+## Liens externes
 
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
+- [Ère astrologique | Wikipedia](https://fr.wikipedia.org/wiki/%C3%88re_astrologique)

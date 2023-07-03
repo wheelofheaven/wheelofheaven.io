@@ -1,7 +1,7 @@
 ---
-title: "Chronology"
-description: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
-lead: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
+title: "Хронология"
+description: "В обширной вселенской истории 12 астрологических эпох, начиная с Эпохи Козерога в 21 810 г. до н.э. и заканчивая Эпохой Водолея в 4110 г. н.э., предоставляют увлекательную перспективу на человеческую цивилизацию. Эпохи отражают полный прецессионный цикл, часто называемый Великим Годом, циклом, который определяет развитие событий и эволюцию сознания на Земле. Каждая эпоха означает определенную эру, принося свои собственные темы и уроки. Эпоха Козерога отметила открытие и исследование Земли. Стрелец стимулировал исследования и анализ, в то время как Скорпион привел к терраформированию и размножению растительной жизни. В эпоху Весов человечество сосредоточилось на астрономии и размещении, а за ней последовала эпоха Девы, которая увидела разнообразие жизни. Эпоха Льва свидетельствовала о появлении людей рядом с Элохимами, а за ней последовала эпоха Рака, отмечающая эру Рая и историю Адама и Евы. Последующие эпохи несли в себе значительные религиозные и исторические вехи, от потопа в эпохе Близнецов до событий, таких как Вавилонская башня, Содом и Гоморра в Тельце и Авраам и Исход в Овне. Эпоха Рыбы наблюдала появление Иисуса с чудесами, такими как умножение, что привело к настоящей Эпохе Водолея, символизирующей откровение и наступление Золотого Века. Эти эпохи представляют собой не только периоды времени, но и величественное космическое путешествие, которое человечество предпринимает в своем стремлении к духовному росту и просветлению."
+lead: "В обширной вселенской истории 12 астрологических эпох, начиная с Эпохи Козерога в 21 810 г. до н.э. и заканчивая Эпохой Водолея в 4110 г. н.э., предоставляют увлекательную перспективу на человеческую цивилизацию. Эпохи отражают полный прецессионный цикл, часто называемый Великим Годом, циклом, который определяет развитие событий и эволюцию сознания на Земле. Каждая эпоха означает определенную эру, принося свои собственные темы и уроки. Эпоха Козерога отметила открытие и исследование Земли. Стрелец стимулировал исследования и анализ, в то время как Скорпион привел к терраформированию и размножению растительной жизни. В эпоху Весов человечество сосредоточилось на астрономии и размещении, а за ней последовала эпоха Девы, которая увидела разнообразие жизни. Эпоха Льва свидетельствовала о появлении людей рядом с Элохимами, а за ней последовала эпоха Рака, отмечающая эру Рая и историю Адама и Евы. Последующие эпохи несли в себе значительные религиозные и исторические вехи, от потопа в эпохе Близнецов до событий, таких как Вавилонская башня, Содом и Гоморра в Тельце и Авраам и Исход в Овне. Эпоха Рыбы наблюдала появление Иисуса с чудесами, такими как умножение, что привело к настоящей Эпохе Водолея, символизирующей откровение и наступление Золотого Века. Эти эпохи представляют собой не только периоды времени, но и величественное космическое путешествие, которое человечество предпринимает в своем стремлении к духовному росту и просветлению."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -14,71 +14,71 @@ weight: 200
 toc: true
 ---
 
-## The Great Year
+## Великий Год
 
-Within the intricate tapestry of human history, the concept of astrological ages provides an enlightening perspective, knitting together celestial movements with the saga of life on Earth. This narrative spans from the Age of Capricorn in 21,810 BC, all the way to the Age of Aquarius in 4110 CE, representing a complete precessional cycle, often referred to as the 'Great Year'.
+В ткани запутанной истории человечества понятие астрологических эпох предоставляет просветительную перспективу, сплетая вместе движение небесных тел с сагой о жизни на Земле. Эта хронология простирается от Эпохи Козерога в 21 810 г. до н.э. до Эпохи Водолея в 4110 г. н.э., представляя полный прецессионный цикл, часто называемый "Великим Годом".
 
-The chronology is being referenced in many places on Wheel of Heaven. {{< svg "greatyear.svg" >}}
+Хронология упоминается во многих местах на Wheel of Heaven. {{< svg "greatyear.svg" >}}
 
-## Each World Age
+## Каждая Эпоха
 
-The journey begins with the Age of Capricorn, where the Earth was discovered and exploration began in earnest. The pioneering spirit of humankind was sparked as they ventured across the vast expanses of this new world, setting the stage for future developments.
+Путешествие начинается с Эпохи Козерога, где Земля была открыта, и исследования начались всерьез. Пионерский дух человечества вспыхнул, когда они рисковали исследовать обширные пространства этого нового мира, заложив основу для будущих разработок.
 
-Then arrived the Age of Sagittarius, a time that ignited our inherent desire to study and analyze, to understand our surroundings and the fundamental laws that governed our existence. This was a time of inquiry, knowledge, and the beginnings of wisdom.
+Затем наступила Эпоха Стрельца, время, которое разожгло наше врожденное желание изучать и анализировать, понимать наше окружение и фундаментальные законы, определяющие наше существование. Это было время поиска, знаний и начал мудрости.
 
-The Age of Scorpio heralded an epoch of terraforming, where the raw, primal lands were sculpted and shaped. The introduction of plant life marked the start of a lush, green world, one that was ready to support the complex web of life.
+Эпоха Скорпиона возвестила эпоху терраформинга, когда сырые, первобытные земли были обработаны и приданы форму. Введение растительной жизни стало началом пышного, зеленого мира, способного поддерживать сложную сеть жизни.
 
-In the Age of Libra, our gaze shifted skyward. Astronomy came into focus, alongside the development of accommodations that catered to the growing complexity of societal structures. This period was characterized by balance, symbolized by the scales of Libra, between our terrestrial lives and celestial curiosity.
+В Эпоху Весов наше внимание сместилось вверх, к небу. Астрономия стала в центре внимания, наряду с развитием условий проживания, которые отвечали возрастающей сложности социальных структур. Этот период характеризовался балансом, символизируемым весами Весов, между нашей земной жизнью и небесным любопытством.
 
-Next, the Age of Virgo ushered in a diversity of life, an explosion of different species, filling every niche in the new ecosystems. Virgo, often associated with the Earth goddess, signifies fertility and abundance, which was manifested in the proliferation of life forms during this era.
+Затем наступила Эпоха Девы, которая принесла разнообразие жизни, всплеск различных видов, заполнивших каждую нишу в новых экосистемах. Дева, часто ассоциируемая с богиней Земли, символизирует плодородие и изобилие, которое проявилось в размножении форм жизни во время этой эпохи.
 
-The Age of Leo marked the advent of humans along with Elohim. This was a significant turning point in the annals of Earth's history, the moment when humans began their unique journey, armed with cognition and the ability to influence their surroundings.
+Эпоха Льва отметила появление людей рядом с Элохимами. Это был значимый поворотный момент в анналах истории Земли, момент, когда люди начали свое уникальное путешествие, вооруженные познанием и способностью влиять на окружающую среду.
 
-The Age of Cancer introduced the narrative of the Garden of Eden, along with the seminal characters of Adam & Eve. This era delved into the origins of humankind, grappling with existential questions and themes of innocence and temptation.
+Эпоха Рака внесла повествование о Раю и семейной паре Адама и Евы. Эта эпоха углубилась в истоки человечества, борясь с экзистенциальными вопросами и темами невинности и искушения.
 
-Following this, the Age of Gemini brought about monumental events like the Great Flood and the story of Noah. This age signified duality and change, showcasing the adaptability and resilience of humanity in the face of catastrophic changes.
+После этого наступила Эпоха Близнецов, которая принесла монументальные события, такие как Великий потоп и историю Ноя. Эта эпоха символизировала двойственность и перемены, демонстрируя приспособляемость и устойчивость человечества перед катастрофическими изменениями.
 
-In the Age of Taurus, events such as the Tower of Babel and the tale of Sodom & Gomorrah unfolded. This period, symbolized by the grounded and unyielding Bull, tested the resolve of humanity and forced a reevaluation of values and ethics.
+В Эпоху Тельца произошли события, такие как Вавилонская башня и история Содома и Гоморры. Этот период, символизируемый устойчивым и непоколебимым Быком, испытал настойчивость человечества и вынудил пересмотреть ценности и этику.
 
-The Age of Aries was marked by the tales of Abraham and the Exodus, significant religious narratives that have shaped the course of human morality and spirituality. The fiery Aries brought about revolutions in religious thought, shifting paradigms and altering the path of human spiritual evolution.
+Эпоха Овна была отмечена рассказами о Аврааме и Исходе, значимыми религиозными повествованиями, которые повлияли на курс человеческой морали и духовной эволюции. Огненный Овен принес революции в религиозное мышление, меняя парадигмы и изменяя путь духовного развития человека.
 
-The Age of Pisces, the current astrological age, brought forth Jesus and miracles such as multiplication. The age was marked by the birth of new religions, shaping centuries of spiritual, philosophical, and cultural growth.
+Эпоха Рыбы, текущая астрологическая эпоха, принесла Иисуса и чудеса, такие как умножение. В это время появились новые религии, формирующие столетия духовного, философского и культурного роста.
 
-We are now transitioning into the Age of Aquarius, an era of revelation and the dawn of a Golden Age. This is a time for rebirth, for embracing new ideas and technology, and for humanity to take the next step in its collective spiritual evolution.
+Сейчас мы переходим в Эпоху Водолея, эпоху откровения и наступления Золотого Века. Это время возрождения, принятия новых идей и технологий, и шага человечества в его коллективном духовном развитии.
 
-Each of these astrological ages is much more than just a time period. They represent stages in humanity's ongoing quest for understanding, growth, and enlightenment. Each age comes with its own lessons, themes, and opportunities for growth, influencing the course of human civilization in profound and lasting ways. The understanding of these astrological ages offers a panoramic view of our journey
+Каждая из этих астрологических эпох гораздо больше, чем просто период времени. Они представляют собой этапы в непрерывном поиске человечества понимания, роста и просветления. Каждая эпоха имеет свои уроки, темы и возможности для роста, оказывая глубокое и долговременное влияние на ход человеческой цивилизации. Понимание этих астрологических эпох предлагает панорамный взгляд на наше путешествие.
 
-## Timeline of the World Ages
+## Хронология Веков Мира
 
-The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.
+В следующей таблице показан последний прецессионный цикл, начиная с Эпохи Водолея (сегодня) и простирающийся назад на 25 920 лет.
 
-| Begins in | Ends in   | Zodiacal house     | Events                        |
-|-----------|-----------|--------------------|-------------------------------|
-| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus, multiplication         |
-| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
-| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
-| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve    |
-| 11'010 BC | 8'850 BC  | Age of Leo         | First humans along Elohim     |
-| 13'170 BC | 11'010 BC | Age of Virgo       | Diversity of life             |
-| 15'330 BC | 13'170 BC | Age of Libra       | Astronomy, accomodation       |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | Terraforming and plant life   |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | Study and analysis            |
-| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
-| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
+| Начало    | Конец     | Зодиакальный дом  | События                         |
+|-----------|-----------|-------------------|-------------------------------|
+| 1'950 год | 4'110 год | Эпоха Водолея     | Откровение, Золотой Век        |
+| 210 г. до н.э. | 1'950 год  | Эпоха Рыбы     | Иисус, умножение чудес         |
+| 2'370 г. до н.э. | 210 г. до н.э. | Эпоха Овна | Авраам, Исход                  |
+| 4'530 г. до н.э. | 2'370 г. до н.э. | Эпоха Тельца | Вавилонская башня, Содом и Гоморра       |
+| 6'690 г. до н.э. | 4'530 г. до н.э. | Эпоха Близнецов | Потоп, Ной                    |
+| 8'850 г. до н.э. | 6'690 г. до н.э. | Эпоха Рака | Сад Эдема, Адам и Ева    |
+| 11'010 г. до н.э. | 8'850 г. до н.э. | Эпоха Льва | Первые люди вместе с Элохим     |
+| 13'170 г. до н.э. | 11'010 г. до н.э. | Эпоха Девы | Разнообразие жизни             |
+| 15'330 г. до н.э. | 13'170 г. до н.э. | Эпоха Весов | Астрономия, приспособление       |
+| 17'490 г. до н.э. | 15'330 г. до н.э. | Эпоха Скорпиона | Терраформирование и растительная жизнь   |
+| 19'650 г. до н.э. | 17'490 г. до н.э. | Эпоха Стрельца | Изучение и анализ            |
+| 21'810 г. до н.э. | 19'650 г. до н.э. | Эпоха Козерога | Обнаружение Земли, исследование |
+| ... г. до н.э. | 21'810 г. до н.э. | Эпоха Водолея | Земля бесплодна и пуста         |
 
-## See also
+## См. также
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [Вики › Великий Месяц]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Вики › Великий Год]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Вики › Прецессия]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Вики › Эпоха Мира]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-## Read more
+## Узнайте больше
 
-- [Intro › Timeline]({{< relref "intro/timeline/preamble.md" >}})
+- [Введение › Хронология]({{< relref "intro/timeline/preamble.md" >}})
 
-## External links
+## Внешние ссылки
 
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
+- [Астрологическая эпоха | Википедия](https://ru.wikipedia.org/wiki/Астрологическая_эпоха)

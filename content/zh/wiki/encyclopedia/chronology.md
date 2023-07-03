@@ -1,7 +1,7 @@
 ---
-title: "Chronology"
-description: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
-lead: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
+title: "年代记"
+description: "在广袤的宇宙历史中，从公元前21,810年的摩羯座时代开始，到公元4110年的水瓶座时代结束，共有12个星座时代为观察人类文明提供了一个迷人的视角。这些时代反映了一个完整的岁差周期，通常称为“大年”，这个周期引导着地球上事件的展开和意识的演变。每个时代都代表着一个独特的时期，带来了自己的主题和教训。摩羯座时代标志着地球的发现和探索。射手座推动了研究和分析，而天蝎座则带来了地质改造和植物生命的繁衍。天秤座时代中，人类专注于天文学和适应性，而处女座时代则见证了多样化的生命。狮子座时代见证了人类与埃洛希米亚同时出现，而巨蟹座时代则标志着伊甸园时代和亚当夏娃的故事。随后的时代都带来了重大的宗教和历史里程碑，从双子座时代的洪水，到金牛座的巴别塔、所多玛和蛾摩拉事件，再到白羊座的亚伯拉罕和出埃及记。双鱼座时代见证了耶稣的降临，带来了诸如翻倍等奇迹，导致我们现在的水瓶座时代，象征着启示和黄金时代的开始。这些时代不仅代表了时间的段落，而且代表了人类在寻求精神成长和启蒙的伟大宇宙之旅。"
+lead: "在广袤的宇宙历史中，从公元前21,810年的摩羯座时代开始，到公元4110年的水瓶座时代结束，共有12个星座时代为观察人类文明提供了一个迷人的视角。这些时代反映了一个完整的岁差周期，通常称为“大年”，这个周期引导着地球上事件的展开和意识的演变。每个时代都代表着一个独特的时期，带来了自己的主题和教训。摩羯座时代标志着地球的发现和探索。射手座推动了研究和分析，而天蝎座则带来了地质改造和植物生命的繁衍。天秤座时代中，人类专注于天文学和适应性，而处女座时代则见证了多样化的生命。狮子座时代见证了人类与埃洛希米亚同时出现，而巨蟹座时代则标志着伊甸园时代和亚当夏娃的故事。随后的时代都带来了重大的宗教和历史里程碑，从双子座时代的洪水，到金牛座的巴别塔、所多玛和蛾摩拉事件，再到白羊座的亚伯拉罕和出埃及记。双鱼座时代见证了耶稣的降临，带来了诸如翻倍等奇迹，导致我们现在的水瓶座时代，象征着启示和黄金时代的开始。这些时代不仅代表了时间的段落，而且代表了人类在寻求精神成长和启蒙的伟大宇宙之旅。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
@@ -14,71 +14,71 @@ weight: 200
 toc: true
 ---
 
-## The Great Year
+## 大年
 
-Within the intricate tapestry of human history, the concept of astrological ages provides an enlightening perspective, knitting together celestial movements with the saga of life on Earth. This narrative spans from the Age of Capricorn in 21,810 BC, all the way to the Age of Aquarius in 4110 CE, representing a complete precessional cycle, often referred to as the 'Great Year'.
+在人类历史的错综复杂中，星座时代的概念提供了一种启发性的视角，将天体运动与地球上的生命之歌紧密相连。这个叙事从公元前21,810年的摩羯座时代开始，一直延续到公元4110年的水瓶座时代，代表了一个完整的岁差周期，通常称为“大年”。
 
-The chronology is being referenced in many places on Wheel of Heaven. {{< svg "greatyear.svg" >}}
+这个年表在Wheel of Heaven的许多地方都有引用。 {{< svg "greatyear.svg" >}}
 
-## Each World Age
+## 每个世界时代
 
-The journey begins with the Age of Capricorn, where the Earth was discovered and exploration began in earnest. The pioneering spirit of humankind was sparked as they ventured across the vast expanses of this new world, setting the stage for future developments.
+旅程始于摩羯座时代，在这个时代，地球被发现，探索工作正式展开。人类的开拓精神在他们穿越这个新世界的广袤空间时被点燃，为未来的发展奠定了基础。
 
-Then arrived the Age of Sagittarius, a time that ignited our inherent desire to study and analyze, to understand our surroundings and the fundamental laws that governed our existence. This was a time of inquiry, knowledge, and the beginnings of wisdom.
+接下来是射手座时代，这个时期点燃了我们内在的研究和分析的渴望，去理解我们的环境和支配我们存在的基本规律。这是一个探询、知识和智慧开始的时代。
 
-The Age of Scorpio heralded an epoch of terraforming, where the raw, primal lands were sculpted and shaped. The introduction of plant life marked the start of a lush, green world, one that was ready to support the complex web of life.
+天蝎座时代宣告了一段地质改造的时期，原始而野性的土地被雕塑和塑造。植物的引入标志着一个郁郁葱葱的世界的开始，这个世界准备好支持复杂的生命之网。
 
-In the Age of Libra, our gaze shifted skyward. Astronomy came into focus, alongside the development of accommodations that catered to the growing complexity of societal structures. This period was characterized by balance, symbolized by the scales of Libra, between our terrestrial lives and celestial curiosity.
+在天秤座时代，我们的目光转向了天空。天文学成为焦点，伴随着适应不断复杂化的社会结构的住宿设施的发展。这个时期的特点是天秤座天平的平衡，平衡着我们的地球生活和对天体的好奇心。
 
-Next, the Age of Virgo ushered in a diversity of life, an explosion of different species, filling every niche in the new ecosystems. Virgo, often associated with the Earth goddess, signifies fertility and abundance, which was manifested in the proliferation of life forms during this era.
+接下来，处女座时代带来了生命的多样性，各种物种的爆炸性增长，填满了新生态系统的每个生态位。处女座经常与地球女神联系在一起，象征着生育力和丰饶，这在这个时代的生命形式的增殖中得到了体现。
 
-The Age of Leo marked the advent of humans along with Elohim. This was a significant turning point in the annals of Earth's history, the moment when humans began their unique journey, armed with cognition and the ability to influence their surroundings.
+狮子座时代标志着人类与埃洛希米亚同时出现。这是地球历史上一个重要的转折点，人类开始了他们独特的旅程，拥有认知能力和影响周围环境的能力。
 
-The Age of Cancer introduced the narrative of the Garden of Eden, along with the seminal characters of Adam & Eve. This era delved into the origins of humankind, grappling with existential questions and themes of innocence and temptation.
+巨蟹座时代引入了伊甸园的叙事，以及亚当和夏娃这些重要角色。这个时代深入探讨了人类的起源，探讨了存在的问题以及纯真和诱惑的主题。
 
-Following this, the Age of Gemini brought about monumental events like the Great Flood and the story of Noah. This age signified duality and change, showcasing the adaptability and resilience of humanity in the face of catastrophic changes.
+随后是双子座时代，带来了伟大洪水和挪亚的故事等重大事件。这个时代象征着二元性和变化，在灾难性变化面前，展示了人类的适应能力和韧性。
 
-In the Age of Taurus, events such as the Tower of Babel and the tale of Sodom & Gomorrah unfolded. This period, symbolized by the grounded and unyielding Bull, tested the resolve of humanity and forced a reevaluation of values and ethics.
+金牛座时代的事件包括巴别塔和所多玛与蛾摩拉的故事。这个时期以脚踏实地、不动摇的公牛象征，考验了人类的意志，并迫使重新评估价值观和伦理道德。
 
-The Age of Aries was marked by the tales of Abraham and the Exodus, significant religious narratives that have shaped the course of human morality and spirituality. The fiery Aries brought about revolutions in religious thought, shifting paradigms and altering the path of human spiritual evolution.
+白羊座时代以亚伯拉罕和出埃及记的故事为标志，这些宗教叙事塑造了人类道德和灵性发展的进程。火热的白羊座带来了宗教思想的革命，改变了人类灵性进化的道路。
 
-The Age of Pisces, the current astrological age, brought forth Jesus and miracles such as multiplication. The age was marked by the birth of new religions, shaping centuries of spiritual, philosophical, and cultural growth.
+双鱼座时代，即当前的星座时代，诞生了耶稣和诸如翻倍等奇迹。这个时代标志着新宗教的诞生，塑造了几个世纪的灵性、哲学和文化的增长。
 
-We are now transitioning into the Age of Aquarius, an era of revelation and the dawn of a Golden Age. This is a time for rebirth, for embracing new ideas and technology, and for humanity to take the next step in its collective spiritual evolution.
+我们正在过渡到水瓶座时代，这是一个揭示和黄金时代的时代。这是一个重生的时刻，拥抱新的思想和技术，人类在集体精神进化中迈出下一步的时刻。
 
-Each of these astrological ages is much more than just a time period. They represent stages in humanity's ongoing quest for understanding, growth, and enlightenment. Each age comes with its own lessons, themes, and opportunities for growth, influencing the course of human civilization in profound and lasting ways. The understanding of these astrological ages offers a panoramic view of our journey
+每个星座时代都不仅仅是一个时间段。它们代表着人类对理解、成长和启蒙的持续追求的阶段。每个时代都有自己的教训、主题和成长机会，对人类文明的发展产生深远而持久的影响。对这些星座时代的理解提供了我们旅程的全景视图。
 
-## Timeline of the World Ages
+## 世界时代时间线
 
-The following table shows the last precessional cycle starting with the Age of Aquarius (today) going back 25'920 years.
+下表显示了最近一个进动周期，从水瓶座时代（今天）回溯到 25,920 年前。
 
-| Begins in | Ends in   | Zodiacal house     | Events                        |
-|-----------|-----------|--------------------|-------------------------------|
-| 1'950     | 4'110     | Age of Aquarius    | Revelation, Golden Age        |
-| 210 BC    | 1'950     | Age of Pisces      | Jesus, multiplication         |
-| 2'370 BC  | 210 BC    | Age of Aries       | Abraham, Exodus               |
-| 4'530 BC  | 2'370 BC  | Age of Taurus      | Babel, Sodom & Gomorrah       |
-| 6'690 BC  | 4'530 BC  | Age of Gemini      | Flood, Noah                   |
-| 8'850 BC  | 6'690 BC  | Age of Cancer      | Garden of Eden, Adam & Eve    |
-| 11'010 BC | 8'850 BC  | Age of Leo         | First humans along Elohim     |
-| 13'170 BC | 11'010 BC | Age of Virgo       | Diversity of life             |
-| 15'330 BC | 13'170 BC | Age of Libra       | Astronomy, accomodation       |
-| 17'490 BC | 15'330 BC | Age of Scorpio     | Terraforming and plant life   |
-| 19'650 BC | 17'490 BC | Age of Sagittarius | Study and analysis            |
-| 21'810 BC | 19'650 BC | Age of Capricorn   | Earth discovered, exploration |
-| ... BC    | 21'810 BC | Age of Aquarius    | Earth barren and void         |
+| 起始年份 | 结束年份 | 黄道十二宫        | 重要事件                     |
+|-----------|-----------|-------------------|-------------------------------|
+| 1,950前  | 4,110后  | 水瓶座时代        | 启示、黄金时代              |
+| 前 210   | 1,950前  | 双鱼座时代        | 耶稣、翻倍                  |
+| 前 2,370 | 前 210   | 白羊座时代        | 亚伯拉罕、出埃及记          |
+| 前 4,530 | 前 2,370 | 金牛座时代        | 巴别塔、所多玛与蛾摩拉      |
+| 前 6,690 | 前 4,530 | 双子座时代        | 大洪水、挪亚                |
+| 前 8,850 | 前 6,690 | 巨蟹座时代        | 伊甸园、亚当和夏娃          |
+| 前 11,010 | 前 8,850 | 狮子座时代        | 人类首次与埃洛希米亚同时出现 |
+| 前 13,170 | 前 11,010 | 处女座时代        | 生命的多样性                |
+| 前 15,330 | 前 13,170 | 天秤座时代        | 天文学、住宿设施            |
+| 前 17,490 | 前 15,330 | 天蝎座时代        | 地质改造和植物生命          |
+| 前 19,650 | 前 17,490 | 射手座时代        | 研究和分析                  |
+| 前 21,810 | 前 19,650 | 摩羯座时代        | 发现地球、探索工作          |
+| ...前    | 前 21,810 | 水瓶座时代        | 地球贫瘠无生                |
 
-## See also
+## 另请参阅
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [维基 › 大月](wiki/encyclopedia/great-month.md)
+- [维基 › 大年](wiki/encyclopedia/great-year.md)
+- [维基 › 进动](wiki/encyclopedia/precession.md)
+- [维基 › 世界时代](wiki/encyclopedia/world-age.md)
 
-## Read more
+## 阅读更多
 
-- [Intro › Timeline]({{< relref "intro/timeline/preamble.md" >}})
+- [简介 › 时间线](intro/timeline/preamble.md)
 
-## External links
+## 外部链接
 
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
+- [Astrological age | 维基百科](https://en.wikipedia.org/wiki/Astrological_age)

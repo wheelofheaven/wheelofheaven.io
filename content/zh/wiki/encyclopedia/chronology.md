@@ -81,4 +81,4 @@ toc: true
 
 ## 外部链接
 
-- [Astrological age | 维基百科](https://en.wikipedia.org/wiki/Astrological_age)
+- [星座年代 | 维基百科](https://zh.wikipedia.org/wiki/%E6%98%9F%E5%BA%A7%E5%B9%B4%E4%BB%A3)

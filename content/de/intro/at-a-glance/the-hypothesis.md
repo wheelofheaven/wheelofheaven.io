@@ -1,7 +1,7 @@
 ---
 title: "Die Hypothese"
-description: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
-excerpt: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
+description: "Die Wheel of Heaven-Hypothese fordert unser Verständnis der menschlichen Ursprünge heraus und lädt uns ein, die tiefgreifenden Auswirkungen unserer potenziellen außerirdischen Verbindungen zu betrachten. Indem wir die Rolle der Elohim bei der Erschaffung des Lebens auf der Erde und ihren Einfluss auf die menschliche Evolution erforschen, tauchen wir in die Schnittstelle von Wissenschaft, Spiritualität und unserer Stellung im Kosmos ein. Diese Hypothese eröffnet auch neue Fragestellungen, wie die Überprüfung antiker Texte auf verschlüsselte Botschaften und die Betrachtung der Möglichkeiten zukünftiger Kontakte und Zusammenarbeit mit fortschrittlichen außerirdischen Zivilisationen."
+excerpt: "Die Wheel of Heaven-Hypothese fordert unser Verständnis der menschlichen Ursprünge heraus und lädt uns ein, die tiefgreifenden Auswirkungen unserer potenziellen außerirdischen Verbindungen zu betrachten. Indem wir die Rolle der Elohim bei der Erschaffung des Lebens auf der Erde und ihren Einfluss auf die menschliche Evolution erforschen, tauchen wir in die Schnittstelle von Wissenschaft, Spiritualität und unserer Stellung im Kosmos ein. Diese Hypothese eröffnet auch neue Fragestellungen, wie die Überprüfung antiker Texte auf verschlüsselte Botschaften und die Betrachtung der Möglichkeiten zukünftiger Kontakte und Zusammenarbeit mit fortschrittlichen außerirdischen Zivilisationen."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "The Hypothesis"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "The Wheel of Heaven hypothesis challenges our understanding of human origins and invites us to consider the profound implications of our potential extraterrestrial connections. By exploring the role of the Elohim in the creation of life on Earth and their influence on human evolution, we delve into the intersection of science, spirituality, and our place in the cosmos. This hypothesis also opens up new avenues for inquiry, such as reexamining ancient texts for encoded messages and contemplating the possibilities of future contact and collaboration with advanced extraterrestrial civilizations. "
+excerpt: "The Wheel of Heaven hypothesis challenges our understanding of human origins and invites us to consider the profound implications of our potential extraterrestrial connections. By exploring the role of the Elohim in the creation of life on Earth and their influence on human evolution, we delve into the intersection of science, spirituality, and our place in the cosmos. This hypothesis also opens up new avenues for inquiry, such as reexamining ancient texts for encoded messages and contemplating the possibilities of future contact and collaboration with advanced extraterrestrial civilizations. "
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

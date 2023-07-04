@@ -1,5 +1,6 @@
 ---
-title: "Preamble (before 21'810BC)"
+title: "Preamble"
+period: "before 21'810BC"
 description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
 date: 2022-09-20T00:00:00+00:00

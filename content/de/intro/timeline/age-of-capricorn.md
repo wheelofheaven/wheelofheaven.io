@@ -1,5 +1,6 @@
 ---
-title: "Zeitalter des Steinbocks (21'810—19'650 v. Chr.)"
+title: "Zeitalter des Steinbocks"
+period: "21'810—19'650 v. Chr."
 description: "Wheel of Heaven ist eine Wissensdatenbank, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 excerpt: "Wheel of Heaven ist eine Wissensdatenbank, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 date: 2022-09-20T00:00:00+00:00

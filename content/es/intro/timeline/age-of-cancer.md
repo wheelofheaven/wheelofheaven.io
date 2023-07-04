@@ -1,5 +1,6 @@
 ---
-title: "Edad de Cáncer (8'850—6'690BC)"
+title: "Edad de Cáncer"
+period: "8'850—6'690BC"
 description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 date: 2022-09-20T00:00:00+00:00

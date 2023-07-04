@@ -1,5 +1,6 @@
 ---
-title: "Zeitalter der Waage (15'330—13'170 v. Chr.)"
+title: "Zeitalter der Waage"
+period: "15'330—13'170 v. Chr."
 description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 excerpt: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 date: 2022-09-20T00:00:00+00:00

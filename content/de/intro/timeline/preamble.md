@@ -1,5 +1,6 @@
 ---
-title: "Einleitung (vor 21'810 v. Chr.)"
+title: "Einleitung"
+period: "vor 21'810 v. Chr."
 description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 excerpt: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 date: 2022-09-20T00:00:00+00:00

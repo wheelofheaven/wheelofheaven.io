@@ -1,5 +1,6 @@
 ---
-title: "Âge de la Balance (15'330—13'170BC)"
+title: "Âge de la Balance"
+period: "15'330—13'170BC"
 description: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
 excerpt: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,6 @@
 ---
-title: "Era de Libra (15'330—13'170BC)"
+title: "Era de Libra"
+period: "15'330—13'170BC"
 description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 date: 2022-09-20T00:00:00+00:00

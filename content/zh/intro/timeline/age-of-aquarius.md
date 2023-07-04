@@ -1,5 +1,6 @@
 ---
-title: "水瓶座时代 (1945—...)"
+title: "水瓶座时代"
+period: "1945—..."
 description: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
 excerpt: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
 date: 2022-09-20T00:00:00+00:00

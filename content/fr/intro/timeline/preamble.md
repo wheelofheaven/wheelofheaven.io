@@ -1,5 +1,6 @@
 ---
-title: "Préambule (avant 21'810 av. J.-C.)"
+title: "Préambule"
+period: "avant 21'810 av. J.-C."
 description: "Wheel of Heaven est une base de connaissances qui explore l'hypothèse de travail selon laquelle la vie sur Terre a été conçue intelligemment par une civilisation extraterrestre, les soi-disant Elohim."
 excerpt: "Wheel of Heaven est une base de connaissances qui explore l'hypothèse de travail selon laquelle la vie sur Terre a été conçue intelligemment par une civilisation extraterrestre, les soi-disant Elohim."
 date: 2022-09-20T00:00:00+00:00

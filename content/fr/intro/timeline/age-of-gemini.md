@@ -1,5 +1,6 @@
 ---
-title: "Âge des Gémeaux (6'690—4'530BC)"
+title: "Âge des Gémeaux"
+period: "6'690—4'530BC"
 description: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
 excerpt: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
 date: 2022-09-20T00:00:00+00:00

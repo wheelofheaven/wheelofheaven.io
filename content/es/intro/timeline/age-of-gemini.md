@@ -1,5 +1,6 @@
 ---
-title: "Edad de Géminis (6'690—4'530BC)"
+title: "Edad de Géminis"
+period: "6'690—4'530BC"
 description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
 date: 2022-09-20T00:00:00+00:00

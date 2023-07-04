@@ -1,5 +1,6 @@
 ---
-title: "序言 (在公元前21810年之前)"
+title: "序言"
+period: "在公元前21810年之前"
 description: "Wheel of Heaven是一个知识库，探讨了地球上的生命是由所谓的Elohim这个外星文明智能设计的假设。"
 excerpt: "Wheel of Heaven是一个知识库，探讨了地球上的生命是由所谓的Elohim这个外星文明智能设计的假设。"
 date: 2022-09-20T00:00:00+00:00

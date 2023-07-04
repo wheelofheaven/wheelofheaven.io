@@ -6,7 +6,7 @@ excerpt: "Wheel of Heaven est une base de connaissances qui explore l'hypothèse
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["saurian-experiments.png"]
 menu:
   intro:
     parent: "timeline"

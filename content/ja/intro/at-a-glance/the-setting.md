@@ -5,7 +5,7 @@ excerpt: "Wheel of Heavenは、地球上の生命が所謂エロヒムという�
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: ["ancient-monuments-sunset.png"]
+images: ["images/ancient-monuments-sunset.png"]
 menu:
   intro:
     parent: "at-a-glance"

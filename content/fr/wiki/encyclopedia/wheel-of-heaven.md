@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
@@ -17,7 +17,7 @@ toc: true
 
 A working hypothesis is a specific type of hypothesis, namely one that is provisionally accepted as a basis for further research in the hope that a tenable theory will be produced, even if the hypothesis ultimately fails. In this way, a working hypothesis is an accepted starting point for further research. A hypothesis in turn is simply put a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.
 
-The working hypothesis that is being considered here is that the integrality of life on planet Earth present and past has been genetically engineered by a highly advanced, highly sophisticated humanoid civilization of interstellar travellers. This extraterrestrial civilization we collectively remember as the Celestials arrived on Earth some 25'000 years ago, subsequently terraformed the shallow oceans into barren land masses and started genetically engineering new life forms ex nihilo, ultimately leading to the creation of a new humanoid species in their own image. What followed this genesis of what is essentially the creation of mankind has been preserved in several religious and esoteric traditions culminating in the preservation and propagation of the Biblical scriptures throughout the world commemorating the origins of life on Earth. Besides religious scriptures, a wide body of remnants in folklore, archeology, paleontology and geology bear witness to this testimony.  
+The working hypothesis that is being considered here is that the integrality of life on planet Earth present and past has been genetically engineered by a highly advanced, highly sophisticated humanoid civilization of interstellar travellers. This extraterrestrial civilization we collectively remember as the Celestials arrived on Earth some 25'000 years ago, subsequently terraformed the shallow oceans into barren land masses and started genetically engineering new life forms ex nihilo, ultimately leading to the creation of a new humanoid species in their own image. What followed this genesis of what is essentially the creation of mankind has been preserved in several religious and esoteric traditions culminating in the preservation and propagation of the Biblical scriptures throughout the world commemorating the origins of life on Earth. Besides religious scriptures, a wide body of remnants in folklore, archeology, paleontology and geology bear witness to this testimony.
 
 Throughout human history, various people have been contacted directly or indirectly to act as ambassadors and messengers on behalf of the Celestials to guide progress of humanity on one hand and to safeguard the memory of whom created life on Earth on the other hand. The ultimate goal is to determine whether or not humanity can independently overcome self-destruction once reaching the scientific and technological capababilities which serves as an evulation if humanity deserves to inherit the technological legacy of the Celestials, hence taking over the torch as the next chain link of this interstellar species.
 

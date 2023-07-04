@@ -5,7 +5,7 @@ excerpt: "Wheel of Heaven 是一个知识库，探索地球上的生命是否被
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["spacecraft-in-orbit.png"]
 menu:
   intro:
     parent: "at-a-glance"

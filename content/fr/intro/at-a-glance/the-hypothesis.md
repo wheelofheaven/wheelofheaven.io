@@ -5,7 +5,7 @@ excerpt: "Wheel of Heaven est une base de connaissances explorant l'hypothèse d
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["spacecraft-in-orbit.png"]
 menu:
   intro:
     parent: "at-a-glance"

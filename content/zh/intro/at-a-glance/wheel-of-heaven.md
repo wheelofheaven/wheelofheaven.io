@@ -5,7 +5,7 @@ excerpt: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓�
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["sunset-man-on-hill.png"]
 menu:
   intro:
     parent: "at-a-glance"

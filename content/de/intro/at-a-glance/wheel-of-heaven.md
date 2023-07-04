@@ -5,7 +5,7 @@ excerpt: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese unte
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["sunset-man-on-hill.png"]
 menu:
   intro:
     parent: "at-a-glance"

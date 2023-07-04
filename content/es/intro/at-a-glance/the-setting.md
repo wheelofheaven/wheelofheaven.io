@@ -5,7 +5,7 @@ excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
-images: []
+images: ["ancient-monuments-sunset.png"]
 menu:
   intro:
     parent: "at-a-glance"

@@ -1,8 +1,7 @@
 ---
 title: "Das Szenario"
-description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
-description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
-excerpt: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
+description: "Begib dich auf eine nachdenkliche Reise und erkunde die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen. Dieser fesselnde Artikel führt uns durch die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung und lädt uns ein, über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachzudenken. Entdecke die beeindruckende Erzählung, die unser kosmisches Erbe enthüllt und unsere Fantasie inmitten der Weite des Universums entfacht."
+excerpt: "Begib dich auf eine nachdenkliche Reise und erkunde die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen. Dieser fesselnde Artikel führt uns durch die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung und lädt uns ein, über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachzudenken. Entdecke die beeindruckende Erzählung, die unser kosmisches Erbe enthüllt und unsere Fantasie inmitten der Weite des Universums entfacht."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

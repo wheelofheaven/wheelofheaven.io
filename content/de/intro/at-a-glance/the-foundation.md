@@ -1,7 +1,7 @@
 ---
 title: "Das Fundament"
-description: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
-excerpt: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
+description: "Entdecken Sie eine fesselnde Erzählung, die die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen aufdeckt. Tauchen Sie ein in die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung, während wir über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachdenken."
+excerpt: "Entdecken Sie eine fesselnde Erzählung, die die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen aufdeckt. Tauchen Sie ein in die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung, während wir über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachdenken."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

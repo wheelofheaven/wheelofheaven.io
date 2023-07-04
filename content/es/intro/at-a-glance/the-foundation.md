@@ -1,7 +1,7 @@
 ---
 title: "La Fundación"
-description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, conocida como los Elohim."
-excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, conocida como los Elohim."
+description: "Explora una narrativa fascinante que revela los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Adéntrate en los conceptos de pluralismo cósmico, sabiduría ancestral, seres celestiales y procreación interestelar, mientras contemplamos el futuro potencial de la humanidad como una civilización capaz de viajar por el espacio."
+excerpt: "Explora una narrativa fascinante que revela los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Adéntrate en los conceptos de pluralismo cósmico, sabiduría ancestral, seres celestiales y procreación interestelar, mientras contemplamos el futuro potencial de la humanidad como una civilización capaz de viajar por el espacio."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

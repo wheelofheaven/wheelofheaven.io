@@ -1,8 +1,8 @@
 ---
 title: "Age of Capricorn"
-period: "21'810—19'650BC"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+period: "22'810—19'650BC"
+description: "The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and took as, each World Age, 2'160 years to complete. It is considered the first World Age out of the twelve World Ages and therefore marks the beginning of the whole cycle of World Ages, as would the month of January mark the beginning of the yearly cycle. It was during the Age of Capricorn that a non-terrestrial civilization arrived to Earth and started investigating it for scientific purposes as it featured all elements necessary for live, above all lots of water."
+excerpt: "The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and took as, each World Age, 2'160 years to complete. It is considered the first World Age out of the twelve World Ages and therefore marks the beginning of the whole cycle of World Ages, as would the month of January mark the beginning of the yearly cycle. It was during the Age of Capricorn that a non-terrestrial civilization arrived to Earth and started investigating it for scientific purposes as it featured all elements necessary for live, above all lots of water."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

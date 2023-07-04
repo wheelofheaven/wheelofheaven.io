@@ -1,8 +1,8 @@
 ---
 title: "Zeitalter des Steinbocks"
 period: "21'810—19'650 v. Chr."
-description: "Wheel of Heaven ist eine Wissensdatenbank, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
-excerpt: "Wheel of Heaven ist eine Wissensdatenbank, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
+description: "Das Zeitalter des Steinbocks ist eines der zwölf Weltzeitalter und dauerte von -21'810 bis -19'650 und brauchte wie jedes Weltzeitalter 2'160 Jahre, um abgeschlossen zu werden. Es gilt als das erste Weltzeitalter der zwölf Weltzeitalter und markiert daher den Beginn des gesamten Zyklus der Weltzeitalter, so wie der Monat Januar den Beginn des jährlichen Zyklus markiert. Während des Zeitalters des Steinbocks kam eine nicht-terrestrische Zivilisation zur Erde und begann, sie aus wissenschaftlichen Gründen zu untersuchen, da sie alle für das Leben notwendigen Elemente aufwies, vor allem viel Wasser."
+excerpt: "Das Zeitalter des Steinbocks ist eines der zwölf Weltzeitalter und dauerte von -21'810 bis -19'650 und brauchte wie jedes Weltzeitalter 2'160 Jahre, um abgeschlossen zu werden. Es gilt als das erste Weltzeitalter der zwölf Weltzeitalter und markiert daher den Beginn des gesamten Zyklus der Weltzeitalter, so wie der Monat Januar den Beginn des jährlichen Zyklus markiert. Während des Zeitalters des Steinbocks kam eine nicht-terrestrische Zivilisation zur Erde und begann, sie aus wissenschaftlichen Gründen zu untersuchen, da sie alle für das Leben notwendigen Elemente aufwies, vor allem viel Wasser."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false

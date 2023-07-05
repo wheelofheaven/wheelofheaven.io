@@ -1,5 +1,5 @@
 ---
-title: "Alter des Löwen"
+title: "Zeitalter des Löwen"
 period: "11'010–8'850 v. Chr."
 description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
 excerpt: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."

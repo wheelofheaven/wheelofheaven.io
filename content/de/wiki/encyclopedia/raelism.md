@@ -1,48 +1,48 @@
 ---
-title: "Raëlism"
-description: "Raëlism, a new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
-lead: "A new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
+title: "Raëlismus"
+description: "Raëlismus ist eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhilon zurückgeht, der sich angeblich 1973 und in den folgenden Jahren mit dem Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm nach und nach den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen stattfanden, in einer Reihe von Büchern nieder, die heute von jedem gelesen werden können. Die Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten Religionen das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation bezeugen, die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen beschrieben wird."
+lead: "Eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhilon zurückgeht, der sich angeblich 1973 und in den folgenden Jahren mit dem Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm nach und nach den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen stattfanden, in einer Reihe von Büchern nieder, die heute von jedem gelesen werden können. Die Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten Religionen das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation bezeugen, die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen beschrieben wird."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.
+Raëlismus ist eine religiöse und philosophische Bewegung, die in den 1970er Jahren in Frankreich entstanden ist. Sie basiert auf der Überzeugung, dass außerirdische Wesen namens Elohim das Leben auf der Erde erschaffen haben und weiterhin mit der Menschheit interagieren. Der Gründer des Raëlismus, Claude Vorilhon, auch bekannt als Raël, behauptet, dass er eine Reihe von Begegnungen mit einem Wesen von einem anderen Planeten hatte, das ihm Botschaften gab, um sie mit der Welt zu teilen.
 
-According to Raëlian beliefs, the Elohim are highly advanced beings who used their genetic engineering skills to create humans and other species. Raelians believe that all major religions, including Christianity, Judaism, and Islam, have their origins in ancient extraterrestrial visitations, and that the Elohim are the gods described in various mythologies.
+Nach den raëlianischen Überzeugungen sind die Elohim hochentwickelte Wesen, die ihre genetischen Fähigkeiten nutzten, um Menschen und andere Spezies zu erschaffen. Die Raelianer glauben, dass alle großen Religionen, einschließlich des Christentums, des Judentums und des Islam, ihren Ursprung in alten außerirdischen Besuchen haben und dass die Elohim die Götter sind, von denen in verschiedenen Mythologien die Rede ist.
 
-The Raëlian movement emphasizes individual freedom and tolerance, and seeks to promote peace and understanding among people of all cultures and religions. They also advocate for scientific and technological advancements, such as cloning, as a means of improving human life and creating a better future for all.
+Die raëlianische Bewegg legt Wert auf individuelle Freiheit und Toleranz und strebt danach, Frieden und Verständnis zwischen Menschen verschiedener Kulturen und Religionen zu fördern. Sie setzen sich auch für wissenschaftliche und technologische Fortschritte wie das Klonen ein, um das menschliche Leben zu verbessern und eine bessere Zukunft für alle zu schaffen.
 
-While Raëlism has gained a significant following in some countries, it is considered a controversial and non-mainstream movement by many. Critics argue that the beliefs and claims of Raëlism are unsupported by scientific evidence, and that it represents a form of new age spirituality or pseudoscience.
+Obwohl der Raëlismus in einigen Ländern eine bedeutende Anhängerschaft gewonnen hat, wird er von vielen als kontroverse und nicht-mainstreamige Bewegung angesehen. Kritiker argumentieren, dass die Überzeugungen und Behauptungen des Raëlismus durch wissenschaftliche Beweise nicht unterstützt werden und dass er eine Form von spiritueller Esoterik oder Pseudowissenschaft darstellt.
 
-## Etymology
+## Etymologie
 
-As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+Wie in seinem Buch [Das Buch, das die Wahrheit sagt]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup> erklärt, führt Claude Vorhilon ein Gespräch mit Yahweh, und Yahweh sagt Folgendes über die Bedeutung von Raël:
 
-> You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
+> Du, Claude Vorhilon, wirst die Wahrheit unter deinem jetzigen Namen verbreiten, den du nach und nach durch RAEL ersetzen wirst, was wörtlich "Licht Gottes" bedeutet und genauer übersetzt "Licht der Elohim" oder "Botschafter der Elohim", weil du unser Botschafter auf der Erde sein wirst, und wir werden nur offiziell in deine Botschaft kommen. RAEL kann einfach als "Bote" übersetzt werden.
 
-In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
+In dieser Passage bittet Yahweh, als Vertreter der Elohim-Zivilisation, Claude Vorhilon, ihr Bote zu sein. _RAEL_, in den Schriften groß geschrieben, ist eine Bezeichnung, die aus zwei separaten Wörtern besteht: Ra und El. Ra als erster Bestandteil bedeutet "Licht". Diese Bedeutung kann vom afro-asiatischen ägyptischen rꜥ, Sonne, abgeleitet werden.[^1] El als zweiter Bestandteil steht für die Elohim, wobei Elohim die Wesen bezeichnet, die vom Himmel kommen, diejenigen von oben, die Himmel.[^2] Die Kombination dieser beiden Bestandteile, wie von Yahweh selbst vorgeschlagen, würde auf die Bedeutung "das Licht derer, die vom Himmel kommen" hindeuten, den Botschafter oder Boten der Ursprungszivilisation, die das Leben auf der Erde erschaffen und immer noch Kontakt zu den Entwicklungen auf dem Planeten haben.
 
-[^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
-[^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^1]: Ägyptisch für Sonne ("Ra"). Weitere Informationen: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: Sumerisches Zeichen ilum, als sternförmige Glyphe, die "Himmel" oder "Himmel" bedeutet. Weitere Informationen: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
-## See also
+## Siehe auch
 
-- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+- [Wiki › Neo-Euhemerismus]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-## Read more
+## Weiterlesen
 
-- [Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
-- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
-- [Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [Ressourcen › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
+- [Ressourcen › Das Buch, das die Wahrheit sagt]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [Ressourcen › Außerirdische haben mich auf ihren Planeten mitgenommen]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
 
-## External links
+## Externe Links
 
-- [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
-- [Raëlism | Wikipedia](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
+- [Offizielle Website der Raëlianischen Bewegung](https://rael.org/)
+- [Raëlismus | Wikipedia](https://de.wikipedia.org/wiki/Ra%C3%ABlismus)

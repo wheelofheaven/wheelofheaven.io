@@ -1,48 +1,49 @@
 ---
-title: "Raëlism"
-description: "Raëlism, a new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
-lead: "A new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
+title: "ラエリズム"
+alternatives: ["Raëlism","ラエリアン・ムーブメント"]
+description: "Raëlism（ラエリズム）は、フランス人のクロード・ヴォリロンにさかのぼる新興宗教運動であり、彼が1973年およびその後の年に、地球外文明であるヤハウェの代表者と出会ったと公言しています。彼は徐々にラエルという名前を受け入れ、それらの出会いで起こった対話を、誰でも今日読むことができる多くの本に書き記しました。ラエリアン信仰の前提は、ほとんどの宗教が、約25,000年前に地球をテラフォームし、その後創造神話で説明されるように、地球上で生命を合成的に創造した、神のような高度な地球外文明の行動を目撃しているということです。"
+lead: "フランス人のクロード・ヴォリロンにさかのぼる新興宗教運動であり、彼が1973年およびその後の年に、地球外文明であるヤハウェの代表者と出会ったと公言しています。彼は徐々にラエルという名前を受け入れ、それらの出会いで起こった対話を、誰でも今日読むことができる多くの本に書き記しました。ラエリアン信仰の前提は、ほとんどの宗教が、約25,000年前に地球をテラフォームし、その後創造神話で説明されるように、地球上で生命を合成的に創造した、神のような高度な地球外文明の行動を目撃しているということです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.
+Raëlism（ラエリズム）は、1970年代にフランスで発生した宗教的および哲学的な運動です。この運動は、エロヒムとして知られる地球外の存在が地球上で生命を創造し、人類との関わりを続けているという信念に基づいています。Raëlismの創設者であるクロード・ヴォリロン（またはラエルとも称される）は、別の惑星の存在からメッセージを受け取った一連の出会いを経験したと主張しています。
 
-According to Raëlian beliefs, the Elohim are highly advanced beings who used their genetic engineering skills to create humans and other species. Raelians believe that all major religions, including Christianity, Judaism, and Islam, have their origins in ancient extraterrestrial visitations, and that the Elohim are the gods described in various mythologies.
+ラエリアンの信念によれば、エロヒムは高度に進化した存在であり、遺伝子工学の技術を用いて人類や他の種を創造したとされています。ラエリアンは、キリスト教やユダヤ教、イスラム教を含むすべての主要な宗教が、古代の地球外訪問に起源を持ち、エロヒムがさまざまな神話で描かれている神々であると信じています。
 
-The Raëlian movement emphasizes individual freedom and tolerance, and seeks to promote peace and understanding among people of all cultures and religions. They also advocate for scientific and technological advancements, such as cloning, as a means of improving human life and creating a better future for all.
+ラエリアン運動は個々の自由と寛容さを重視し、異なる文化や宗教を持つ人々の間の平和と理解を促進することを目指しています。彼らはまた、クローニングなどの科学技術の進歩を提唱し、人類の生活の改善とより良い未来の創造を目指しています。
 
-While Raëlism has gained a significant following in some countries, it is considered a controversial and non-mainstream movement by many. Critics argue that the beliefs and claims of Raëlism are unsupported by scientific evidence, and that it represents a form of new age spirituality or pseudoscience.
+ラエリズムは一部の国で多くの信者を獲得していますが、多くの人々からは物議をかもす非主流な運動と見なされています。批評家は、ラエリズムの信念や主張が科学的な根拠に基づいていないと主張し、新時代のスピリチュアリティや疑似科学の形態を代表していると指摘しています。
 
-## Etymology
+## 語源
 
-As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+彼の著書[真実を語る書]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>に記載されているように、クロード・ヴォリロンはヤハウェと対話しており、ヤハウェは次のようにラエルの意味について語っています:
 
-> You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
+> クロード・ヴォリロンよ、現在の名前で真実を広めるであろう。次第にそれをRAELに置き換える。RAELは文字通り「神の光」を意味し、より正確には「エロヒムの光」または「エロヒムの大使」と翻訳できる。なぜなら、あなたは私たちの地球の大使であり、私たちは公式にあなたの大使館にのみ来るからだ。RAELは単純に「使者」と訳される。
 
-In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
+この一節では、エロヒム文明の代表であるヤハウェがクロード・ヴォリロンに自分たちの使者となるよう求めています。ラエル（RAEL）は、文章中では大文字で書かれており、RaとElの2つの別々の言葉で構成されています。最初の部分のRaは「光」を意味すると説明されています。この意味はアフロ・アジア系のエジプト語のrꜥ、つまり「太陽」から派生しています。[^1] 2つ目の部分のElはエロヒムを表しており、エロヒムは空からやって来る存在、上から来る存在、天界の存在を指します。[^2] ヤハウェ自身が提案するように、これらの2つの部分を組み合わせることで、「空から来る者たちの光」という意味になります。地球上の生命を創造し、今も地球の進展に関わっている親元文明の大使または使者を指します。
 
-[^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
-[^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^1]: 「太陽」のエジプト語（"Ra"）です。詳細はこちら: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: 「空」または「天界」を意味する星形のグリフとしてのシュメログラム「ilum」です。詳細はこちら: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
-## See also
+## 関連項目
 
-- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+- [Wiki › ネオ・ユーヘメリズム]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-## Read more
+## もっと読む
 
-- [Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
-- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
-- [Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [リソース › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
+- [リソース › 真実を語る書]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [リソース › 宇宙人が私を彼らの惑星に連れて行った]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
 
-## External links
+## 外部リンク
 
-- [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
-- [Raëlism | Wikipedia](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
+- [ラエリアンムーブメント公式ウェブサイト | 無神論者のためのインテリジェントデザイン](https://rael.org/)
+- [ラエリズム | Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A8%E3%83%AA%E3%82%BA%E3%83%A0)

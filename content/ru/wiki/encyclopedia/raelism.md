@@ -1,48 +1,48 @@
 ---
-title: "Raëlism"
-description: "Raëlism, a new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
-lead: "A new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
+title: "Раэлизм"
+description: "Раэлизм - новое религиозное движение, которое восходит к французу Клоду Ворилону, который, по его словам, встретился с представителем внеземной цивилизации по имени Яхве в 1973 году и последующие годы. Он постепенно принял имя Раэль и записал диалоги, происходившие во время всех встреч, в ряде книг, которые сегодня может прочитать каждый. Предпосылкой веры раэлиан является то, что большинство религий свидетельствуют о деятельности богоподобной высокоразвитой внеземной цивилизации, которая трансформировала Землю примерно 25 000 лет назад и последовательно синтетически создала жизнь на Земле, как описано в Библейском Бытии и других мифах о творении."
+lead: "Раэлизм - новое религиозное движение, которое восходит к французу Клоду Ворилону, который, по его словам, встретился с представителем внеземной цивилизации по имени Яхве в 1973 году и последующие годы. Он постепенно принял имя Раэль и записал диалоги, происходившие во время всех встреч, в ряде книг, которые сегодня может прочитать каждый. Предпосылкой веры раэлиан является то, что большинство религий свидетельствуют о деятельности богоподобной высокоразвитой внеземной цивилизации, которая трансформировала Землю примерно 25 000 лет назад и последовательно синтетически создала жизнь на Земле, как описано в Библейском Бытии и других мифах о творении."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.
+Раэлизм - это религиозное и философское движение, возникшее во Франции в 1970-х годах. Оно основано на верев том, что внеземные существа, известные как Элохимы, создали жизнь на Земле и продолжают взаимодействовать с человечеством. Основатель Раэлизма, Клод Ворилон, также известный как Раэль, утверждает, что у него была серия встреч с существом с другой планеты, которое передало ему сообщения для распространения среди людей.
 
-According to Raëlian beliefs, the Elohim are highly advanced beings who used their genetic engineering skills to create humans and other species. Raelians believe that all major religions, including Christianity, Judaism, and Islam, have their origins in ancient extraterrestrial visitations, and that the Elohim are the gods described in various mythologies.
+Согласно верованиям раэлиан, Элохимы - это высокоразвитые существа, которые использовали свои навыки генной инженерии для создания людей и других видов. Раэлиане считают, что все основные религии, включая христианство, иудаизм и ислам, имеют свои истоки в древних визитах внеземных цивилизаций, и Элохимы - это боги, описанные в различных мифологиях.
 
-The Raëlian movement emphasizes individual freedom and tolerance, and seeks to promote peace and understanding among people of all cultures and religions. They also advocate for scientific and technological advancements, such as cloning, as a means of improving human life and creating a better future for all.
+Движение раэлиан придерживается принципов индивидуальной свободы и толерантности, и стремится к продвижению мира и понимания между людьми всех культур и религий. Они также выступают за научные и технологические достижения, такие как клонирование, как средство улучшения человеческой жизни и создания лучшего будущего для всех.
 
-While Raëlism has gained a significant following in some countries, it is considered a controversial and non-mainstream movement by many. Critics argue that the beliefs and claims of Raëlism are unsupported by scientific evidence, and that it represents a form of new age spirituality or pseudoscience.
+Хотя раэлизм набрал значительное количество последователей в некоторых странах, его рассматривают как контроверзиальное и непопулярное движение. Критики утверждают, что верования и утверждения раэлизма не подтверждаются научными доказательствами и представляют собой форму духовности нового времени или псевдонауки.
 
-## Etymology
+## Этимология
 
-As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+Как указано в его книге [Книга, которая говорит правду]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Клод Ворилон ведет разговор с Яхве, и Яхве говорит следующее о том, что означает Раэль:
 
-> You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
+> Ты, Клод Ворилон, будешь распространять истину под своим нынешним именем, которое постепенно заменишь на РАЭЛЬ, что буквально означает "свет Бога", и если перевести более точно, "свет Элохимов" или "Посол Элохимов", потому что ты будешь нашим послом на Земле, и мы будем приходить только официально в твоё Посольство. РАЭЛЬ может быть просто переведен как "вестник".
 
-In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
+В этом отрывке Яхве, как представитель цивилизации Элохимов, просит Клода Ворилона стать их вестником. РАЭЛЬ, написанный с заглавной буквы, представляет собой обозначение, состоящее из двух отдельных слов: Ра и Эль. Ра как первый компонент объясняется как "свет". Это значение можно извлечь из афро-азиатского египетского rꜥ, Солнце.[^1] Эль как второй компонент объясняется как Элохимы, где Элохимы обозначают существ, которые приходят с небес, из Вышнего, из Небес.[^2] Сочетание этих двух компонентов, как предложил сам Яхве, приводит к значению "света тех, кто приходит с небес", посланника или вестника родительской цивилизации, которая создала жизнь на Земле и до сих пор находится в контакте с развитием на планете Земля.
 
-[^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
-[^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^1]: Египетское слово для Солнца ("Ра"). Подробнее: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: Сумерограмма ilum, звездообразный глиф, означающий "небо" или "небеса". Подробнее: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
-## See also
+## См. также
 
-- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+- [Вики › Нео-эухемеризм]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-## Read more
+## Читать далее
 
-- [Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
-- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
-- [Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [Ресурсы › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
+- [Ресурсы › Книга, которая говорит правду]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [Ресурсы › Инопланетяне отвели меня на их планету]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
 
-## External links
+## Внешние ссылки
 
-- [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
-- [Raëlism | Wikipedia](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
+- [Официальный сайт Раэльского движения | Интеллектуальный Дизайн для Атеистов](https://rael.org/)
+- [Раэлизм | Википедия](https://ru.wikipedia.org/wiki/Раэлизм)

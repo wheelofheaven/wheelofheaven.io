@@ -1,48 +1,49 @@
 ---
-title: "Raëlism"
-description: "Raëlism, a new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
-lead: "A new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
+title: "拉埃利主义"
+alternatives: ["Raëlism"]
+description: "Raëlism（拉埃利主义）是一个源自法国的新宗教运动，起源于法国人克劳德·沃利龙（Claude Vorhilon）声称于1973年及其后几年与外星文明代表雅威（Yahweh）相遇。他逐渐采用了名字Raël，并将所有相遇期间发生的对话记录在今天任何人都可以阅读的多本书中。拉埃利信仰的前提是，大多数宗教目睹了类似神一样的高度先进的外星文明在约2.5万年前改造了地球，并按照《圣经创世纪》和其他创世神话中所描述的方式，在地球上合成了生命。"
+lead: "Raëlism（拉埃利主义）是一个源自法国的新宗教运动，起源于法国人克劳德·沃利龙（Claude Vorhilon）声称于1973年及其后几年与外星文明代表雅威（Yahweh）相遇。他逐渐采用了名字Raël，并将所有相遇期间发生的对话记录在今天任何人都可以阅读的多本书中。拉埃利信仰的前提是，大多数宗教目睹了类似神一样的高度先进的外星文明在约2.5万年前改造了地球，并按照《圣经创世纪》和其他创世神话中所描述的方式，在地球上合成了生命。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.
+Raëlism（拉埃利主义）是20世纪70年代起源于法国的宗教和哲学运动。它基于一个信念，即被称为Elohim的外星人创造了地球上的生命，并继续与人类互动。拉埃利主义的创始人克劳德·沃利龙（Claude Vorilhon），也被称为Raël，声称他曾与来自另一个星球的存在进行了一系列的接触，并收到了他们要与世界分享的信息。
 
-According to Raëlian beliefs, the Elohim are highly advanced beings who used their genetic engineering skills to create humans and other species. Raelians believe that all major religions, including Christianity, Judaism, and Islam, have their origins in ancient extraterrestrial visitations, and that the Elohim are the gods described in various mythologies.
+根据拉埃利信仰，Elohim是高度先进的存在，他们利用基因工程技术创造了人类和其他物种。拉埃利主义者相信，包括基督教、犹太教和伊斯兰教在内的所有主要宗教都源于古代外星人的访问，而Elohim则是各种神话中所描述的神灵。
 
-The Raëlian movement emphasizes individual freedom and tolerance, and seeks to promote peace and understanding among people of all cultures and religions. They also advocate for scientific and technological advancements, such as cloning, as a means of improving human life and creating a better future for all.
+拉埃利运动强调个人自由和宽容，并致力于促进不同文化和宗教之间的和平与理解。他们还主张科学和技术的进步，如克隆，作为改善人类生活和创造更美好未来的手段。
 
-While Raëlism has gained a significant following in some countries, it is considered a controversial and non-mainstream movement by many. Critics argue that the beliefs and claims of Raëlism are unsupported by scientific evidence, and that it represents a form of new age spirituality or pseudoscience.
+尽管拉埃利主义在一些国家拥有大量追随者，但它在许多人看来仍然是一个具有争议性和非主流的运动。批评者认为拉埃利主义的信仰和主张缺乏科学证据，并代表了一种新时代的精神信仰或伪科学。
 
-## Etymology
+## 词源
 
-As stated in his book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>, Claude Vorhilon is making converstation with Yahweh and Yahweh says the following about what Raël means:
+正如在他的书籍[The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}})<sup>📖</sup>中所述，克劳德·沃利龙与雅威交谈，雅威对Raël的意义如下所示：
 
-> You, Claude Vorilhon, you will spread the truth under your present name, which you will replace progressively with RAEL, which means literally “light of God” and if we translate it more accurately, “light of the Elohim” or “Ambassador of the Elohim”, because you will be our ambassador on Earth, and we will come only officially to your Embassy. RAEL can be simply translated as “messenger”.
+> 克劳德·沃利龙，你将以你目前的名字传播真理，然后逐渐将其替换为RAEL，它字面意思是“上帝之光”，更准确地翻译为“Elohim之光”或“Elohim的大使”，因为你将成为我们在地球上的大使，我们只会正式到你的大使馆。 RAEL可以简单地翻译为“使者”。
 
-In this passage, Yahweh, as the representative of the Elohimian civilization, asks Claude Vorhilon to be their messenger. _RAEL_, capitalized in the writings, is a denomination composed of two separate words: Ra and El. Ra as the first compound is explained to mean "light". This meaning can be derived from the Afro-Asiatic Egyptian rꜥ, Sun.[^1] El as the second compound is explained to stand for the Elohim, where Elohim designate the beings that come from the Sky, the ones from Above, the Heavens.[^2] Combining these two compounds, as suggested by Yahweh himself, would lead to the meaning of "the light of those who come from the sky", the ambassador or messenger of the parent civilization that created life on Earth and are still in touch with the developments on planet Earth.
+在这段话中，作为Elohim文明的代表，雅威要求克劳德·沃利龙成为他们的使者。在文献中，RAEL的首字母大写，它由Ra和El两个分开的词组成。 Ra作为第一个部分被解释为“光”。这个意义可以从亚非的埃及语rꜥ（太阳）中得出。[^1] El作为第二个部分，代表着Elohim，Elohim是来自天空、从上方来的存在的称谓。[^2] 按照雅威本人的建议，将这两个部分组合起来，就得到了“来自天空之光”的意义，即来自父文明的大使或使者，他们在地球上创造了生命并与地球的发展保持联系。
 
-[^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
-[^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
+[^1]: 埃及语中的太阳（"Ra"）一词。更多详情请参阅：[rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
+[^2]: 以星形字形表示“天空”或“天堂”的苏美尔楔形文字ilum。更多详情请参阅：[𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
-## See also
+## 另请参阅
 
-- [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
+- [Wiki › 新欧希默主义]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})
 
-## Read more
+## 了解更多
 
-- [Resources › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
-- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
-- [Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [资源 › Rael.org]({{< relref "resources/rael-dot-org/index.md" >}})
+- [资源 › 告诉你真相的书]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [资源 › 外星人带我去他们的星球]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
 
-## External links
+## 外部链接
 
-- [Official website of the Raëlian Movement | Intelligent Design for Atheists](https://rael.org/)
-- [Raëlism | Wikipedia](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
+- [拉埃利运动官方网站 | 无神论者的智能设计](https://rael.org/)
+- [雷爾運動 | 维基百科](https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%88%BE%E9%81%8B%E5%8B%95)

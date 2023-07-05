@@ -92,10 +92,20 @@ Source:
    });
 
   function show_results(){
-    const maxResult = 5;
+    const maxResult = 7;
     var searchQuery = this.value;
     var lang = window.location.pathname.split('/')[1];
     var results = index.search(searchQuery, {limit: maxResult, enrich: true});
+
+    var translations = {
+      en: 'No results for "<strong>${searchQuery}</strong>"',
+      de: 'Keine Ergebnisse für "<strong>${searchQuery}</strong>"',
+      fr: 'Aucun résultat pour "<strong>${searchQuery}</strong>"',
+      es: 'Sin resultados para "<strong>${searchQuery}</strong>"',
+      ru: 'Нет результатов для "<strong>${searchQuery}</strong>"',
+      ja: '"<strong>${searchQuery}</strong>" の検索結果はありません',
+      zh: '没有找到"<strong>${searchQuery}</strong>"的结果'
+    };
 
     const flatResults = new Map();
     for (const result of results.flatMap(r => r.result)) {
@@ -107,8 +117,9 @@ Source:
     suggestions.classList.remove('d-none');
 
     if (flatResults.size === 0 && searchQuery) {
-      const noResultsMessage = document.createElement('div')
-      noResultsMessage.innerHTML = `No results for "<strong>${searchQuery}</strong>"`
+      const noResultsMessage = document.createElement('div');
+      const translation = translations[lang] || translations['en'];
+      noResultsMessage.innerHTML = translation.replace('${searchQuery}', searchQuery);
       noResultsMessage.classList.add("suggestion__no-results");
       suggestions.appendChild(noResultsMessage);
       return;

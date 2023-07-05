@@ -24,10 +24,10 @@ suffixes = [""]
 delimiter = ""
 
 [outputFormats.JSON]
-  mediaType = "application/json"
-  baseName = "searchindex"
-  isPlainText = true
-  notAlternative = true
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
 
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]

@@ -1,0 +1,15 @@
+[
+{{ range $index, $element := .Site.RegularPages }}
+    {
+        "id": "{{ $index }}",
+        "href": "{{ .RelPermalink }}",
+        "title": {{ .Title | jsonify }},
+        {{ with .Description }}
+        "description": {{ . | jsonify }},
+        {{ else }}
+        "description": {{ .Summary | plainify | jsonify }},
+        {{ end }}
+        "content": {{ .Plain | jsonify }}
+    }{{ if not (eq $index (sub (len $.Site.RegularPages) 1)) }},{{ end }}
+{{ end }}
+]

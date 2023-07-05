@@ -15,13 +15,19 @@ defaultContentLanguageInSubdir = false
 
 # add redirects/headers
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+home = ["HTML", "RSS", "JSON", "REDIRECTS", "HEADERS"]
 section = ["HTML", "RSS", "SITEMAP"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]
 suffixes = [""]
 delimiter = ""
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
 
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]

@@ -62,79 +62,42 @@ Source:
 */
 
 (function(){
+  var languages = ['en', 'de', 'fr', 'es', 'ru', 'ja', 'zh'];
+  var lang = window.location.pathname.split('/')[1];
+  if (!languages.includes(lang)) {
+    lang = 'en';
+  }
+  var searchIndexURL = '/' + (lang === 'en' ? '' : lang + '/') + 'searchindex.json';
 
   var index = new FlexSearch.Document({
-    tokenize: "forward",
-    cache: 100,
-    document: {
-      id: 'id',
-      store: [
-        "href", "title", "description"
-      ],
-      index: ["title", "description", "content"]
-    }
+        tokenize: "forward",
+        cache: 100,
+        document: {
+            id: 'id',
+            store: [
+                "href", "title", "description"
+            ],
+            index: ["title", "description", "content"]
+        }
   });
 
+  fetch(searchIndexURL)
+        .then(response => response.json())
+        .then(data => {
+            data.forEach(function(doc) {
+                index.add(doc);
+            });
 
-  // Not yet supported: https://github.com/nextapps-de/flexsearch#complex-documents
-
-  /*
-  var docs = [
-    {{ range $index, $page := (where .Site.Pages "Section" "docs") -}}
-      {
-        id: {{ $index }},
-        href: "{{ .Permalink }}",
-        title: {{ .Title | jsonify }},
-        description: {{ .Params.description | jsonify }},
-        content: {{ .Content | jsonify }}
-      },
-    {{ end -}}
-  ];
-  */
-
-  // https://discourse.gohugo.io/t/range-length-or-last-element/3803/2
-
-  {{ $list := slice }}
-  {{- if and (isset .Site.Params.options "searchsectionsindex") (not (eq (len .Site.Params.options.searchSectionsIndex) 0)) }}
-  {{- if eq .Site.Params.options.searchSectionsIndex "ALL" }}
-  {{- $list = .Site.Pages }}
-  {{- else }}
-  {{- $list = (where .Site.Pages "Type" "in" .Site.Params.options.searchSectionsIndex) }}
-  {{- if (in .Site.Params.options.searchSectionsIndex "HomePage") }}
-  {{ $list = $list | append .Site.Home }}
-  {{- end }}
-  {{- end }}
-  {{- else }}
-  {{- $list = (where .Site.Pages "Section" "docs") }}
-  {{- end }}
-
-  {{ $len := (len $list) -}}
-
-  {{ range $index, $element := $list -}}
-    index.add(
-      {
-        id: {{ $index }},
-        href: "{{ .RelPermalink }}",
-        title: {{ .Title | jsonify }},
-        {{ with .Description -}}
-          description: {{ . | jsonify }},
-        {{ else -}}
-          description: {{ .Summary | plainify | jsonify }},
-        {{ end -}}
-        content: {{ .Plain | jsonify }}
-      }
-    );
-  {{ end -}}
-
-  search.addEventListener('input', show_results, true);
+            search.addEventListener('input', show_results, true);
+   });
 
   function show_results(){
     const maxResult = 5;
     var searchQuery = this.value;
+    var lang = window.location.pathname.split('/')[1];
     var results = index.search(searchQuery, {limit: maxResult, enrich: true});
 
-    // flatten results since index.search() returns results for each indexed field
-    const flatResults = new Map(); // keyed by href to dedupe results
+    const flatResults = new Map();
     for (const result of results.flatMap(r => r.result)) {
       if (flatResults.has(result.doc.href)) continue;
       flatResults.set(result.doc.href, result.doc);
@@ -143,7 +106,6 @@ Source:
     suggestions.innerHTML = "";
     suggestions.classList.remove('d-none');
 
-    // inform user that no results were found
     if (flatResults.size === 0 && searchQuery) {
       const noResultsMessage = document.createElement('div')
       noResultsMessage.innerHTML = `No results for "<strong>${searchQuery}</strong>"`
@@ -152,7 +114,6 @@ Source:
       return;
     }
 
-    // construct a list of suggestions
     for(const [href, doc] of flatResults) {
         const entry = document.createElement('div');
         suggestions.appendChild(entry);

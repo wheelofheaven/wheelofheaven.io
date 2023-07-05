@@ -1,5 +1,5 @@
 ---
-title: "Comparative mythology"
+title: "Komparative Mythologie"
 description: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
 lead: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
 date: 2022-09-20T00:00:00+00:00

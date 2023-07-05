@@ -1,5 +1,5 @@
 ---
-title: "Adam and Eve"
+title: "Adam und Eva"
 description: "Adam and Eve, two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
 lead: "Two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
 date: 2022-09-20T00:00:00+00:00

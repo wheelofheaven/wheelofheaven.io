@@ -1,5 +1,5 @@
 ---
-title: "Bible"
+title: "Bibel"
 alternatives: ["Tanakh"]
 description: "Bible, a set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."
 lead: "A set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."

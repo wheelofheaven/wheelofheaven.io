@@ -1,6 +1,6 @@
 ---
-title: "World Age"
-alternatives: ["Astrological age"]
+title: "Weltzeitalter"
+alternatives: ["Astrologisches Zeitalter", "Welten-Ära"]
 description: "World Age, also known known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
 lead: "Also known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
 date: 2022-09-20T00:00:00+00:00

@@ -11,7 +11,7 @@ rssLimit = 10
 # Multilingual
 defaultContentLanguage = "en"
 # disableLanguages = ["de", "es", "fr", "ja", "zh"]
-# defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = true
 
 # add redirects/headers
 [outputs]
@@ -69,6 +69,36 @@ rel  = "sitemap"
   articles = "/articles/:title/"
   types = "/resources/types/:title/"
   topics = "/resources/topics/:title/"
+
+[[redirects]]
+from = "/privacy-policy/*"
+to = "/en/privacy-policy/:splat"
+status = 301
+
+[[redirects]]
+from = "/wiki/*"
+to = "/en/wiki/:splat"
+status = 301
+
+[[redirects]]
+from = "/articles/*"
+to = "/en/articles/:splat"
+status = 301
+
+[[redirects]]
+from = "/intro/*"
+to = "/en/intro/:splat"
+status = 301
+
+[[redirects]]
+from = "/resources/*"
+to = "/en/resources/:splat"
+status = 301
+
+[[redirects]]
+from = "/tags/*"
+to = "/en/tags/:splat"
+status = 301
 
 [minify.tdewolff.html]
   keepWhitespace = false

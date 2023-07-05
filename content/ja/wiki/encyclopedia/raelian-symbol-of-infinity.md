@@ -1,27 +1,27 @@
 ---
-title: "Raëlian Symbol of Infinity"
-description: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
-lead: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
+title: "ラエリアンの無限のシンボル"
+description: "ラエリアンは、フランス人の創設者が1973年以降、異星文明の代表であるヤハウェと出会ったと主張し、スワスティカとダビデの星を組み合わせたシンボルを特徴とする新興宗教運動です。スワスティカとダビデの星は、それぞれ長い歴史を持つ2つの古代の象徴であり、無限の2つの核とされています。無限自体が現実の物理的な特性を最も正確に表現したものです。スワスティカは時間の無限性を象徴し、ダビデの星は空間の無限性を象徴しています。"
+lead: "ラエリアンは、フランス人の創設者が1973年以降、異星文明の代表であるヤハウェと出会ったと主張し、スワスティカとダビデの星を組み合わせたシンボルを特徴とする新興宗教運動です。スワスティカとダビデの星は、それぞれ長い歴史を持つ2つの古代の象徴であり、無限の2つの核とされています。無限自体が現実の物理的な特性を最も正確に表現したものです。スワスティカは時間の無限性を象徴し、ダビデの星は空間の無限性を象徴しています。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "ウィキ"
 weight: 200
 toc: true
 ---
 
-## Rendering
+## レンダリング
 
-![Image](images/renderings-raelian-symbol-of-infinity.jpg "rendering-raelian-symbol-of-infinity")
+![画像](images/renderings-raelian-symbol-of-infinity.jpg "レンダリング-raelian-symbol-of-infinity")
 
-Various rendering of the Raelian Symbol of Infinity.
+ラエリアンの無限のシンボルのさまざまなレンダリング。
 
-## See also
+## 関連項目
 
-- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
-- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+- [ウィキ › 無限]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [ウィキ › ラエリアン]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [ウィキ › ダビデの星]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [ウィキ › スワスティカ]({{< relref "wiki/encyclopedia/swastika.md" >}})

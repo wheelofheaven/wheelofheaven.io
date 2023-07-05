@@ -1,27 +1,27 @@
 ---
-title: "Raëlian Symbol of Infinity"
-description: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
-lead: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
+title: "Raëlisches Symbol der Unendlichkeit"
+description: "Raëlismus, eine neue religiöse Bewegung, die auf einen Franzosen zurückgeht, der angeblich den Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat, zeigt ein Symbol, das das Hakenkreuz in einem Davidstern miteinander verwebt. Es handelt sich um zwei alte Symbole mit einer langen historischen Tradition, die zwei Kernaspekte der Unendlichkeit darstellen sollen. Die Unendlichkeit selbst ist die genaueste Beschreibung der Physikalität der Realität. Diese beiden Kernaspekte sind die Unendlichkeit der Zeit, die durch das Hakenkreuz symbolisiert wird, und die Unendlichkeit des Raumes, die durch den Davidstern symbolisiert wird."
+lead: "Raëlismus, eine neue religiöse Bewegung, die auf einen Franzosen zurückgeht, der angeblich den Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat, zeigt ein Symbol, das das Hakenkreuz in einem Davidstern miteinander verwebt. Es handelt sich um zwei alte Symbole mit einer langen historischen Tradition, die zwei Kernaspekte der Unendlichkeit darstellen sollen. Die Unendlichkeit selbst ist die genaueste Beschreibung der Physikalität der Realität. Diese beiden Kernaspekte sind die Unendlichkeit der Zeit, die durch das Hakenkreuz symbolisiert wird, und die Unendlichkeit des Raumes, die durch den Davidstern symbolisiert wird."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-## Rendering
+## Darstellung
 
-![Image](images/renderings-raelian-symbol-of-infinity.jpg "rendering-raelian-symbol-of-infinity")
+![Bild](images/renderings-raelian-symbol-of-infinity.jpg "Darstellung-raelian-symbol-of-infinity")
 
-Various rendering of the Raelian Symbol of Infinity.
+Verschiedene Darstellungen des Raëlianischen Symbols der Unendlichkeit.
 
-## See also
+## Siehe auch
 
-- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
-- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+- [Wiki › Unendlichkeit]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Raëlismus]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Davidstern]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [Wiki › Hakenkreuz]({{< relref "wiki/encyclopedia/swastika.md" >}})

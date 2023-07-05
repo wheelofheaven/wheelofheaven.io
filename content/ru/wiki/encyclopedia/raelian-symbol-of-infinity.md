@@ -1,27 +1,27 @@
 ---
-title: "Raëlian Symbol of Infinity"
-description: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
-lead: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
+title: "Символ Бесконечности Раэлизма"
+description: "Раэлизм, новое религиозное движение, которое восходит к французскому человеку, который явно встретил представителя внеземной цивилизации, Яхве, представляет собой символ, в котором переплетается Свастика и Звезда Давида - два древних символа с богатой исторической традицией, которые считаются представляющими два основных аспекта Бесконечности. Сама Бесконечность является наиболее точным описанием физической реальности. Эти два основных аспекта - бесконечность времени, символизируемая Свастикой, и бесконечность пространства, символизируемая Звездой Давида."
+lead: "Раэлизм, новое религиозное движение, которое восходит к французскому человеку, который явно встретил представителя внеземной цивилизации, Яхве, представляет собой символ, в котором переплетается Свастика и Звезда Давида - два древних символа с богатой исторической традицией, которые считаются представляющими два основных аспекта Бесконечности. Сама Бесконечность является наиболее точным описанием физической реальности. Эти два основных аспекта - бесконечность времени, символизируемая Свастикой, и бесконечность пространства, символизируемая Звездой Давида."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "Вики"
 weight: 200
 toc: true
 ---
 
-## Rendering
+## Визуализация
 
-![Image](images/renderings-raelian-symbol-of-infinity.jpg "rendering-raelian-symbol-of-infinity")
+![Изображение](images/renderings-raelian-symbol-of-infinity.jpg "визуализация-символа-раэлизма-бесконечности")
 
-Various rendering of the Raelian Symbol of Infinity.
+Различные варианты визуализации Символа Бесконечности Раэлизма.
 
-## See also
+## См. также
 
-- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
-- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+- [Вики › Бесконечность]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Вики › Раэлизм]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Вики › Звезда Давида]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [Вики › Свастика]({{< relref "wiki/encyclopedia/swastika.md" >}})

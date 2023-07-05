@@ -1,27 +1,27 @@
 ---
-title: "Raëlian Symbol of Infinity"
-description: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
-lead: "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
+title: "Símbolo Raeliano del Infinito"
+description: "El Raëlismo, un nuevo movimiento religioso que se remonta a un francés que afirmó haberse reunido con el representante de una civilización extraterrestre llamado Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella de David, dos antiguos símbolos con un largo historial, que se cree que representan dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado por la Estrella de David."
+lead: "El Raëlismo, un nuevo movimiento religioso que se remonta a un francés que afirmó haberse reunido con el representante de una civilización extraterrestre llamado Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella de David, dos antiguos símbolos con un largo historial, que se cree que representan dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado por la Estrella de David."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: "wiki"
 weight: 200
 toc: true
 ---
 
-## Rendering
+## Representación
 
-![Image](images/renderings-raelian-symbol-of-infinity.jpg "rendering-raelian-symbol-of-infinity")
+![Imagen](images/renderings-raelian-symbol-of-infinity.jpg "representación-símbolo-raeliano-del-infinito")
 
-Various rendering of the Raelian Symbol of Infinity.
+Varias representaciones del Símbolo Raeliano del Infinito.
 
-## See also
+## Ver también
 
-- [Wiki › Infinity]({{< relref "wiki/encyclopedia/infinity.md" >}})
-- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
-- [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
-- [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})
+- [Wiki › Infinito]({{< relref "wiki/encyclopedia/infinity.md" >}})
+- [Wiki › Raëlismo]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Wiki › Estrella de David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [Wiki › Esvástica]({{< relref "wiki/encyclopedia/swastika.md" >}})

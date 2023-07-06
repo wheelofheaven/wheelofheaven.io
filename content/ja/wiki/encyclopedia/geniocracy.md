@@ -1,14 +1,14 @@
 ---
-title: "ジニオクラシー"
-description: "Geniocracy, a proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-lead: "A proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ジニオクラシー
+description: ジェニオクラシーは、新戒律の一部としてヤハウェが提案した提案された政治制度で、人類全体から集められた知的な個人を政治的地位に選出し、したがって富、階級、強さ、権力ではなく知性のみを適格性の属性として認めるものである。
+lead: 新しい戒めの一部としてヤハウェによって提唱された提案された政治制度。人類全体から集められた知的な個人を政治的地位に選出するため、富、階級、強さ、権力ではなく知性のみを適格性の属性として認める。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

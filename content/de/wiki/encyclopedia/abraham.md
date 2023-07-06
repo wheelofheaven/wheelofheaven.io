@@ -1,17 +1,24 @@
 ---
-title: "Abraham"
-description: "Abraham, originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
-lead: "Originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Abraham
+description: Abraham, ursprünglich Abram oder auf Hebräisch Avram genannt. Er ist
+  ein biblischer Patriarch aus der Zeit nach der Zerstörung von Sodom und Gomorra.
+  Er ist der erste Botschafter oder Prophet, der von der Zivilisation der Elohim ernannt
+  wurde und mit ihnen eine nicht feindselige diplomatische Beziehung unterhielt.
+lead: Ursprünglich Abram oder auf Hebräisch Avram genannt. Er ist ein biblischer Patriarch
+  aus der Zeit nach der Zerstörung von Sodom und Gomorra. Er ist der erste Botschafter
+  oder Prophet, der von der Zivilisation der Elohim ernannt wurde und mit ihnen eine
+  nicht feindselige diplomatische Beziehung unterhielt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus"]
+timeline:
+- taurus
 ---
 
 Abraham is a central figure in Judaism, Christianity, and Islam and is considered the father of these three monotheistic religions. In the Bible, he is described as the father of Isaac and a patriarch of the Israelites. In the Tanakh, he is considered the first Hebrew and the founder of the Jewish nation. In the Quran, Abraham is considered a prophet of Allah and a friend of God.

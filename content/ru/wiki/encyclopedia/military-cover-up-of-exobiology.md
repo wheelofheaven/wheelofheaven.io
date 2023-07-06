@@ -1,14 +1,34 @@
 ---
-title: "Военное засекречивание экзобиологии"
-description: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-lead: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Военное засекречивание экзобиологии
+description: Военное сокрытие экзобиологии относится к идее, что военные организации
+  или правительства скрывают информацию об изучении внеземной жизни или встречах с
+  инопланетянами. Это предполагает, что существуют скрытые знания или доказательства,
+  связанные с существованием жизни за пределами Земли, и что военные организации активно
+  подавляют или контролируют раскрытие этой информации для общественности. Сторонники
+  этой теории утверждают, что военные участвуют в захвате или расследовании наблюдений
+  НЛО, проведении секретных исследований внеземных форм жизни или даже сокрытии доказательств
+  прямого контакта с инопланетянами. Понятие военного сокрытия экзобиологии подразумевает
+  преднамеренные усилия по сокрытию или манипулированию информацией о потенциальных
+  внеземных явлениях по разным причинам, таким как национальная безопасность или социальная
+  стабильность.
+lead: Военное сокрытие экзобиологии относится к идее, что военные организации или
+  правительства скрывают информацию об изучении внеземной жизни или встречах с инопланетянами.
+  Это предполагает, что существуют скрытые знания или доказательства, связанные с
+  существованием жизни за пределами Земли, и что военные организации активно подавляют
+  или контролируют раскрытие этой информации для общественности. Сторонники этой теории
+  утверждают, что военные участвуют в захвате или расследовании наблюдений НЛО, проведении
+  секретных исследований внеземных форм жизни или даже сокрытии доказательств прямого
+  контакта с инопланетянами. Понятие военного сокрытия экзобиологии подразумевает
+  преднамеренные усилия по сокрытию или манипулированию информацией о потенциальных
+  внеземных явлениях по разным причинам, таким как национальная безопасность или социальная
+  стабильность.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

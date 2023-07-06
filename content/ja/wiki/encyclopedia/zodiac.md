@@ -1,14 +1,16 @@
 ---
-title: "黄道帯"
-description: "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-lead: "A band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 黄道帯
+description: 黄道帯は、黄道として知られる、太陽が通過する空の帯です。その帯の中には 12 個の星座があり、それぞれに動物の名前が付けられています。したがって、黄道帯は、空における太陽の位置を適切に表すための動物学的シンボルを提供します。長年にわたり、歳差運動により、黄道帯の相対的な位置は黄道に沿って東に移動します。このように理解すると、黄道十二宮は、それぞれが与えられた世界の年齢を示す長期サイクル内の
+  12 ハウスの命名基準として理解できます。
+lead: 黄道として知られる、太陽が通過する空の帯。その帯の中には 12 個の星座があり、それぞれに動物の名前が付けられています。したがって、黄道帯は、空における太陽の位置を適切に表すための動物学的シンボルを提供します。長年にわたり、歳差運動により、黄道帯の相対的な位置は黄道に沿って東に移動します。このように理解すると、黄道十二宮は、それぞれが与えられた世界の年齢を表す長期サイクル内の
+  12 ハウスの命名基準として理解できます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

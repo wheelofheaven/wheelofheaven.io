@@ -1,15 +1,40 @@
 ---
-title: "Yahweh"
-alternatives: ["Alpha and Omega", "ʿElyōn", "ʾĒl ʿElyōn", "עֶלְיוֹן","The Eternal", "The First and the Last", "YHWH", "יהוה", "𐤉𐤄𐤅𐤄"]
-description: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-lead: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Yahweh
+alternatives:
+- Alpha and Omega
+- ʿElyōn
+- ʾĒl ʿElyōn
+- עֶלְיוֹן
+- The Eternal
+- The First and the Last
+- YHWH
+- יהוה
+- 𐤉𐤄𐤅𐤄
+description: Yahweh (יהוה), également connu sous le nom de Premier et Dernier (Alpha
+  et Oméga) est un Eloha (אֱלוֹהַּ) et le principal représentant des Elohim (אֱלֹהִים)
+  dans son ensemble. Il est un Éternel dans le sens où il a déjà habité plusieurs
+  corps (une technique Elohimienne pour vivre éternellement) et donc membre du Conseil
+  des Éternels agissant comme leur chef de Conseil. Dans les écritures bibliques,
+  Yahweh est identifié comme la Divinité et est également assimilé de manière interchangeable
+  à la civilisation qu'il représente, les Elohim. Yahweh était aussi l'Eloha que Raël
+  a rencontré à plusieurs reprises, comme l'ont fait tous les prophètes qui l'ont
+  précédé.
+lead: Yahweh (יהוה), également connu sous le nom de Premier et Dernier (Alpha et Oméga)
+  est un Eloha (אֱלוֹהַּ) et le principal représentant des Elohim (אֱלֹהִים) dans
+  son ensemble. Il est un Éternel dans le sens où il a déjà habité plusieurs corps
+  (une technique Elohimienne pour vivre éternellement) et donc membre du Conseil des
+  Éternels agissant comme leur chef de Conseil. Dans les écritures bibliques, Yahweh
+  est identifié comme la Divinité et est également assimilé de manière interchangeable
+  à la civilisation qu'il représente, les Elohim. Yahweh était aussi l'Eloha que Raël
+  a rencontré à plusieurs reprises, comme l'ont fait tous les prophètes qui l'ont
+  précédé.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

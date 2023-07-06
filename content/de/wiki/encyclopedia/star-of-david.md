@@ -1,15 +1,32 @@
 ---
-title: "Davidstern"
-alternatives: ["Hexagram", "Magen David", "Shield of David"]
-description: "Star of David, an ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-lead: "An ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Davidstern
+alternatives:
+- Hexagram
+- Magen David
+- Shield of David
+description: Davidstern, ein altes Symbol, das unter vielen Namen bekannt ist, beispielsweise
+  als Schild Davids (Magen David) oder als Siegel Salomos. Obwohl es im Allgemeinen
+  mit der jüdischen Kultur und dem jüdischen Glauben in Verbindung gebracht wird,
+  wird es in vielen Kulturen zu verschiedenen Zeiten der Menschheitsgeschichte als
+  Symbol dargestellt. Im Raëlismus wird seine Bedeutung so interpretiert, dass sie
+  sowohl die Gleichwertigkeit aller Ebenen der Existenz (gemeinhin mit dem berüchtigten
+  hermetischen Sprichwort „Wie oben, so unten“ bezeichnet) als auch die endlose Weite
+  des Raums (Unendlichkeit) darstellt.
+lead: Ein altes Symbol, das unter vielen Namen bekannt ist, beispielsweise als Schild
+  Davids (Magen David) oder als Siegel Salomos. Obwohl es im Allgemeinen mit der jüdischen
+  Kultur und dem jüdischen Glauben in Verbindung gebracht wird, wird es in vielen
+  Kulturen zu verschiedenen Zeiten der Menschheitsgeschichte als Symbol dargestellt.
+  Im Raëlismus wird seine Bedeutung so interpretiert, dass sie sowohl die Gleichwertigkeit
+  aller Ebenen der Existenz (gemeinhin mit dem berüchtigten hermetischen Sprichwort
+  „Wie oben, so unten“ bezeichnet) als auch die endlose Weite des Raums (Unendlichkeit)
+  darstellt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

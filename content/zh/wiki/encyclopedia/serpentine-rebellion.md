@@ -1,17 +1,19 @@
 ---
-title: "蛇的叛乱"
-description: "Serpentine rebellion, the faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. After the Great Flood, an armed confrontation occurred both on Earth and in the surrounding space."
-lead: "The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. After the Great Flood, an armed confrontation occurred both on Earth and in the surrounding space."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 蛇的叛乱
+description: 蛇形叛乱是由被放逐到地球并协助诺亚保存生命的被流放的造物主组成的派系，也产生了亚当派的混合群体。这个派系在他们的家乡反抗由永恒委员会主席耶和华领导的执政政府。大洪水之后，地球和周边太空都发生了武装对抗。
+lead: 由被放逐到地球并协助诺亚保存生命的被流放的造物主组成的派系也产生了亚当派的混合群体。这个派系在他们的家乡反抗由永恒委员会主席耶和华领导的执政政府。大洪水之后，地球和周边太空都发生了武装对抗。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini"]
+timeline:
+- cancer
+- gemini
 ---
 
 ## Sequence of events

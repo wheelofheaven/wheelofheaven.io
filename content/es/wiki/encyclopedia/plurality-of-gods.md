@@ -1,15 +1,24 @@
 ---
-title: "Pluralidad de Dioses"
-alternatives: ["Polytheism"]
-description: "The Plurality of Gods represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-lead: "Represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pluralidad de Dioses
+alternatives:
+- Polytheism
+description: La Pluralidad de Dioses representa la interpretación distintiva que la
+  tradición bíblica testifica de la existencia de múltiples seres divinos. Este concepto
+  también abarca la creencia de que estos seres divinos alguna vez fueron similares
+  a los humanos y, en consecuencia, que los humanos poseen el potencial de evolucionar
+  hacia entidades divinas en el futuro.
+lead: Representa la interpretación distintiva que la tradición bíblica testifica de
+  la existencia de múltiples seres divinos. Este concepto también abarca la creencia
+  de que estos seres divinos alguna vez fueron similares a los humanos y, en consecuencia,
+  que los humanos poseen el potencial de evolucionar hacia entidades divinas en el
+  futuro.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

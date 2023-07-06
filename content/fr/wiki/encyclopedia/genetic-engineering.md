@@ -1,14 +1,31 @@
 ---
-title: "Génie génétique"
-description: "Genetic engineering is a scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-lead: "A scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Génie génétique
+description: Le génie génétique est une discipline scientifique qui implique la modification
+  délibérée du matériel génétique d'un organisme, généralement son ADN, pour introduire
+  de nouveaux traits ou caractéristiques. Il englobe les techniques utilisées pour
+  manipuler les gènes et les éléments génétiques, tels que l'insertion, la suppression
+  ou la modification de gènes, afin de modifier la constitution génétique d'un organisme.
+  Le génie génétique permet aux scientifiques de transférer des gènes spécifiques
+  entre différentes espèces, de créer des organismes génétiquement modifiés (OGM)
+  ou d'introduire des traits souhaités dans des organismes à diverses fins, notamment
+  l'amélioration des rendements des cultures, le développement de traitements médicaux
+  ou la production de produits utiles.
+lead: Discipline scientifique qui implique la modification délibérée du matériel génétique
+  d'un organisme, généralement son ADN, pour introduire de nouveaux traits ou caractéristiques.
+  Il englobe les techniques utilisées pour manipuler les gènes et les éléments génétiques,
+  tels que l'insertion, la suppression ou la modification de gènes, afin de modifier
+  la constitution génétique d'un organisme. Le génie génétique permet aux scientifiques
+  de transférer des gènes spécifiques entre différentes espèces, de créer des organismes
+  génétiquement modifiés (OGM) ou d'introduire des caractéristiques souhaitées dans
+  des organismes à diverses fins, notamment l'amélioration des rendements des cultures,
+  le développement de traitements médicaux ou la production de produits utiles.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

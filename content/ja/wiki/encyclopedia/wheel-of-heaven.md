@@ -1,14 +1,16 @@
 ---
-title: "Wheel of Heaven"
-description: "Wheel of Heaven, a web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-lead: "A web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Wheel of Heaven
+description: Wheel of Heaven は、地球上の生命は、エロヒムとして集合的に記憶されている地球外文明によって知的に設計され、操作されたという作業仮説を探求する
+  Web 知識ベースです。 Wheel of Heaven 自体は、着実に回転し続ける星座の天の輪として、春分点の歳差運動を比喩的に表現したものです。また、これは、円盤状の宇宙船が天国の車輪のように見えると表現した古代エジプトのファラオ、アクエンアトンへの少しあいまいな言及でもあります。
+lead: 地球上の生命は、私たちが総称してエロヒムとして記憶している地球外文明によって知的に設計され、操作されたという作業仮説を探求するウェブ知識ベース。 Wheel
+  of Heaven 自体は、着実に回転し続ける星座の天の輪として、春分点の歳差運動を比喩的に表現したものです。また、これは、円盤状の宇宙船が天国の車輪のように見えると表現した古代エジプトのファラオ、アクエンアトンへの少しあいまいな言及でもあります。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

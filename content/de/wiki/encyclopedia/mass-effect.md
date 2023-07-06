@@ -1,15 +1,23 @@
 ---
-title: "Masseneffekt"
-alternatives: ["Law of masstime"]
-description: "Mass effect, or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-lead: "Or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Masseneffekt
+alternatives:
+- Law of masstime
+description: Der Masseneffekt, oder alternativ das Gesetz der Massenzeit, ist ein
+  hypothetisches Gesetz der Physik, bei dem sich die Zeit für größere und komplexere
+  Systeme langsamer zu bewegen scheint als für kleinere und einfachere. Das Gesetz
+  wurde noch nicht mathematisch formalisiert, sondern bezieht seine gesamte Vorhersagbarkeit
+  aus empirischen Beobachtungen.
+lead: 'Oder alternativ: Das Gesetz der Massenzeit ist ein hypothetisches Gesetz der
+  Physik, bei dem sich die Zeit für größere und komplexere Systeme langsamer zu bewegen
+  scheint als für kleinere und einfachere. Das Gesetz wurde noch nicht mathematisch
+  formalisiert, sondern bezieht seine gesamte Vorhersagbarkeit aus empirischen Beobachtungen.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

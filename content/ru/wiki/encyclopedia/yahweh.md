@@ -1,15 +1,38 @@
 ---
-title: "Яхве"
-alternatives: ["Alpha and Omega", "ʿElyōn", "ʾĒl ʿElyōn", "עֶלְיוֹן","The Eternal", "The First and the Last", "YHWH", "יהוה", "𐤉𐤄𐤅𐤄"]
-description: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-lead: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Яхве
+alternatives:
+- Alpha and Omega
+- ʿElyōn
+- ʾĒl ʿElyōn
+- עֶלְיוֹן
+- The Eternal
+- The First and the Last
+- YHWH
+- יהוה
+- 𐤉𐤄𐤅𐤄
+description: Яхве (יהוה), также известный как Первый и Последний (Альфа и Омега),
+  является Элоха (אֱלוֹהַּ) и главным представителем Элохим (אֱלֹהִים) в целом. Он
+  Вечный в том смысле, что он уже обитал в нескольких телах (элохимианская техника
+  вечной жизни) и, следовательно, является членом Совета Вечных, выступающим в качестве
+  их главы Совета. В библейских писаниях Яхве определяется как Божество, а также взаимозаменяемо
+  приравнивается к цивилизации, которую он представляет, к Элохимам. Яхве также был
+  Элохой, которого Раэль встречал неоднократно, как и все пророки, которые были до
+  него.
+lead: Яхве (יהוה), также известный как Первый и Последний (Альфа и Омега), является
+  Элоха (אֱלוֹהַּ) и главным представителем Элохим (אֱלֹהִים) в целом. Он Вечный в
+  том смысле, что он уже обитал в нескольких телах (элохимианская техника вечной жизни)
+  и, следовательно, является членом Совета Вечных, выступающим в качестве их главы
+  Совета. В библейских писаниях Яхве определяется как Божество, а также взаимозаменяемо
+  приравнивается к цивилизации, которую он представляет, к Элохимам. Яхве также был
+  Элохой, которого Раэль встречал неоднократно, как и все пророки, которые были до
+  него.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

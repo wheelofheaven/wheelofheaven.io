@@ -1,15 +1,30 @@
 ---
-title: "Luzifer"
-alternatives: ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
-description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Luzifer
+alternatives:
+- Fallen angel of light
+- Hêlêl ben Šāḥar
+- הֵילֵל בֶּן-שָׁחַר
+description: 'Luzifer (lateinisch für Lichtbringer oder hêlēl, hebräisch: הֵילֵל,
+  was dasselbe bedeutet), nicht zu verwechseln mit Satan, ist ein Eloha (אֱלוֹהַּ)
+  und der Vertreter einer Fraktion innerhalb der Elohim (אֱלֹהִים), die ein Gedeihen
+  unterstützt menschliche Zivilisation auf der Erde. Es ist kein Eigenname, sondern
+  ein metaphorischer Begriff für die Rolle, Licht zu bringen. Der Name Luzifer und
+  sein semitisches Gegenstück hêlēl beziehen sich beide auf den Morgenstern Venus,
+  der bei Sonnenaufgang vor der Sonne aufgeht'
+lead: 'Luzifer (lateinisch für Lichtbringer oder hêlēl, hebräisch: הֵילֵל, was dasselbe
+  bedeutet), nicht zu verwechseln mit Satan, ist ein Eloha (אֱלוֹהַּ) und der Vertreter
+  einer Fraktion innerhalb der Elohim (אֱלֹהִים), die ein Gedeihen unterstützt menschliche
+  Zivilisation auf der Erde. Es ist kein Eigenname, sondern ein metaphorischer Begriff
+  für die Rolle, Licht zu bringen. Der Name Luzifer und sein semitisches Gegenstück
+  hêlēl beziehen sich beide auf den Morgenstern Venus, der bei Sonnenaufgang vor der
+  Sonne aufgeht'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

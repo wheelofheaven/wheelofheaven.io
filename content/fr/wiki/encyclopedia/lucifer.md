@@ -1,15 +1,30 @@
 ---
-title: "Lucifer"
-alternatives: ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
-description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lucifer
+alternatives:
+- Fallen angel of light
+- Hêlêl ben Šāḥar
+- הֵילֵל בֶּן-שָׁחַר
+description: 'Lucifer (latin pour Light-Bringer, ou hêlēl, hébreu : הֵילֵל, qui signifie
+  la même chose), à ne pas confondre avec Satan, est un Eloha (אֱלוֹהַּ) et le représentant
+  d''une faction au sein des Elohim (אֱלֹהִים) qui soutient une civilisation humaine
+  sur Terre. Ce n''est pas un nom propre, mais un terme métaphorique pour le rôle
+  d''apporter de la lumière. Le nom Lucifer et son homologue sémitique hêlēl font
+  tous deux référence à l''étoile du matin, Vénus, qui se lève avant le soleil au
+  lever du soleil'
+lead: 'Lucifer (latin pour Light-Bringer, ou hêlēl, hébreu : הֵילֵל, qui signifie
+  la même chose), à ne pas confondre avec Satan, est un Eloha (אֱלוֹהַּ) et le représentant
+  d''une faction au sein des Elohim (אֱלֹהִים) qui soutient une civilisation humaine
+  sur Terre. Ce n''est pas un nom propre, mais un terme métaphorique pour le rôle
+  d''apporter de la lumière. Le nom Lucifer et son homologue sémitique hêlēl font
+  tous deux référence à l''étoile du matin, Vénus, qui se lève avant le soleil au
+  lever du soleil'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

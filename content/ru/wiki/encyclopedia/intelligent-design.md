@@ -1,14 +1,19 @@
 ---
-title: "Теория интеллектуального замысла"
-description: "Intelligent Design, a competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-lead: "A competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Теория интеллектуального замысла
+description: Разумный замысел, конкурирующая научная парадигма происхождения жизни
+  на Земле. Это было бы наиболее точным представлением того, что произошло, если бы
+  Элохимы синтетически спроектировали жизнь на Земле с помощью средств генной инженерии
+  ex-nihilo.
+lead: Конкурирующая научная парадигма о том, как возникла жизнь на Земле. Это было
+  бы наиболее точным представлением того, что произошло, если бы Элохимы синтетически
+  спроектировали жизнь на Земле с помощью средств генной инженерии ex-nihilo.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

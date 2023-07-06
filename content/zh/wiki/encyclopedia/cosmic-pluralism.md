@@ -1,14 +1,14 @@
 ---
-title: "宇宙多元论"
-description: "Cosmic pluralism, also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-lead: "Also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 宇宙多元论
+description: 宇宙多元论，也简称为多元世界，是指除了必须存在智慧生命的地球之外，还必须存在多个未知的世界。浩瀚的太空有力地支持了这个想法。
+lead: 也简称为“多元世界”，即除了地球之外，还必须存在多个未知的世界，那里必须存在智慧生命。浩瀚的太空有力地支持了这个想法。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

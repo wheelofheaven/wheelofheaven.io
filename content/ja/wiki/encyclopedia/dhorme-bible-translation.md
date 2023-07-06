@@ -1,14 +1,14 @@
 ---
-title: "ドルメ聖書翻訳"
-description: "Dhorme Bible, a French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966) known for its literal translation style that kept the original meanings intact in the French language."
-lead: "A French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881-1966) known for its literal translation style that kept the original meanings intact in the French language."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ドルメ聖書翻訳
+description: ドルム聖書は、フランスのアッシリア学者で半生物学者のエドゥアール・ドルム（1881–1966）によって行われたフランス語聖書翻訳で、フランス語の元の意味をそのままに保った直訳スタイルで知られています。
+lead: フランス語の原文の意味をそのままに保った直訳スタイルで知られる、フランスのアッシリア学者で半生物学者のエドゥアール・ドルム（1881-1966）によって行われたフランス語聖書翻訳。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

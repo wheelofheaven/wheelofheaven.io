@@ -1,18 +1,23 @@
 ---
-title: "古代建造者"
-alternatives: ["Builder race", "Megalithic builders"]
-description: "Ancient Builders, sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-lead: "Sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 古代建造者
+alternatives:
+- Builder race
+- Megalithic builders
+description: 古代建造者，有时也简称为建造者种族，这一主张认为，未知数量的共存或连续的建造者文明负责建造至少持续了数千年的持久、超弹性的建筑结构。虽然这些建筑可能是或不是由同一文明建造的，但它们可以被认为是由古代建筑者建造的，具有许多独特的特征，例如巨石建筑元素、这些元素的多边形连锁和天文排列。
+lead: 有时也简称为建造者种族，这一主张认为，未知数量的共存或连续的建造者文明负责建造至少持续了数千年的持久、超弹性的建筑结构。虽然这些建筑可能是也可能不是由同一文明建造的，但它们可以被认为是由古代建筑者建造的，具有许多独特的特征，例如巨石建筑元素、这些元素的多边形连锁和天文排列。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo", "cancer", "gemini"]
+timeline:
+- leo
+- cancer
+- gemini
 ---
 
 Ancient Builders typically refers to the architects, engineers, and skilled workers who created structures, such as buildings, temples, pyramids, and other monumental structures, in ancient civilizations. These ancient builders used a variety of materials and techniques, depending on the resources and technological abilities available to them. They often incorporated elements of sacred geometry, religious beliefs, and cultural symbols into their structures, which were sometimes used for religious or political purposes.

@@ -1,14 +1,26 @@
 ---
-title: "Предшественники"
-description: "The Forerunners were an extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-lead: "An extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Предшественники
+description: Предтечи были чрезвычайно развитой внеземной цивилизацией, которая, как
+  считается, создала Элохимов, гуманоидную расу, которые сами стали творцами и в конечном
+  итоге создали жизнь на Земле с помощью генной инженерии. Истинная природа и личность
+  Предтеч остаются в значительной степени загадкой, поскольку они, по-видимому, исчезли
+  до того, как Элохимы смогли физически столкнуться с ними или напрямую узнать от
+  них. Однако их наследие сохранилось в виде обширных научных знаний, которые были
+  сохранены и однажды могут быть переданы человечеству.
+lead: Чрезвычайно развитая внеземная цивилизация, которая, как полагают, создала Элохимов,
+  гуманоидную расу, которые сами стали творцами и в конечном итоге создали жизнь на
+  Земле с помощью генной инженерии. Истинная природа и личность Предтеч остаются в
+  значительной степени загадкой, поскольку они, по-видимому, исчезли до того, как
+  Элохимы смогли физически столкнуться с ними или напрямую узнать от них. Однако их
+  наследие сохранилось в виде обширных научных знаний, которые были сохранены и однажды
+  могут быть переданы человечеству.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

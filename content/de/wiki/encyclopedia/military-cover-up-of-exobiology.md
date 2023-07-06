@@ -1,14 +1,38 @@
 ---
-title: "Militärische Vertuschung der Exobiologie"
-description: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-lead: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Militärische Vertuschung der Exobiologie
+description: Unter militärischer Vertuschung der Exobiologie versteht man die Idee,
+  dass militärische Organisationen oder Regierungen Informationen über die Erforschung
+  außerirdischen Lebens oder Begegnungen mit Außerirdischen verheimlichen. Dies deutet
+  darauf hin, dass es verborgenes Wissen oder Beweise im Zusammenhang mit der Existenz
+  von Leben außerhalb der Erde gibt und dass militärische Einheiten die Veröffentlichung
+  dieser Informationen an die Öffentlichkeit aktiv unterdrücken oder kontrollieren.
+  Befürworter dieser Theorie argumentieren, dass das Militär an der Erfassung oder
+  Untersuchung von UFO-Sichtungen beteiligt ist, geheime Forschungen zu außerirdischen
+  Lebensformen durchführt oder sogar Beweise für direkten Kontakt mit Außerirdischen
+  verbirgt. Die Vorstellung einer militärischen Vertuschung der Exobiologie impliziert
+  einen bewussten Versuch, Informationen über potenzielle außerirdische Phänomene
+  aus verschiedenen Gründen zurückzuhalten oder zu manipulieren, beispielsweise aus
+  Gründen der nationalen Sicherheit oder der gesellschaftlichen Stabilität.
+lead: Unter militärischer Vertuschung der Exobiologie versteht man die Idee, dass
+  militärische Organisationen oder Regierungen Informationen über die Erforschung
+  außerirdischen Lebens oder Begegnungen mit Außerirdischen verheimlichen. Dies deutet
+  darauf hin, dass es verborgenes Wissen oder Beweise im Zusammenhang mit der Existenz
+  von Leben außerhalb der Erde gibt und dass militärische Einheiten die Veröffentlichung
+  dieser Informationen an die Öffentlichkeit aktiv unterdrücken oder kontrollieren.
+  Befürworter dieser Theorie argumentieren, dass das Militär an der Erfassung oder
+  Untersuchung von UFO-Sichtungen beteiligt ist, geheime Forschungen zu außerirdischen
+  Lebensformen durchführt oder sogar Beweise für direkten Kontakt mit Außerirdischen
+  verbirgt. Die Vorstellung einer militärischen Vertuschung der Exobiologie impliziert
+  einen bewussten Versuch, Informationen über potenzielle außerirdische Phänomene
+  aus verschiedenen Gründen zurückzuhalten oder zu manipulieren, beispielsweise aus
+  Gründen der nationalen Sicherheit oder der gesellschaftlichen Stabilität.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

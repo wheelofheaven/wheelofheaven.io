@@ -1,14 +1,24 @@
 ---
-title: "Life Engineering"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Life Engineering
+description: Unter Life Engineering versteht man die Anwendung wissenschaftlicher
+  und technologischer Ansätze zur gezielten Gestaltung und Konstruktion künstlicher
+  lebender Organismen oder biologischer Systeme mit neuartigen Funktionen, Eigenschaften
+  oder Fähigkeiten. Dabei handelt es sich um die bewusste Manipulation von genetischem
+  Material und den Zusammenbau biologischer Komponenten, um die Entstehung völlig
+  neuer Lebensformen herbeizuführen, die es in der Natur nicht gibt.
+lead: Bezieht sich auf die Anwendung wissenschaftlicher und technologischer Ansätze
+  zur gezielten Gestaltung und Konstruktion künstlicher lebender Organismen oder biologischer
+  Systeme mit neuartigen Funktionen, Eigenschaften oder Fähigkeiten. Dabei handelt
+  es sich um die bewusste Manipulation von genetischem Material und den Zusammenbau
+  biologischer Komponenten, um die Entstehung völlig neuer Lebensformen herbeizuführen,
+  die es in der Natur nicht gibt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

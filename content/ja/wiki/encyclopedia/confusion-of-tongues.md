@@ -1,18 +1,20 @@
 ---
-title: "言語の混乱"
-alternatives: ["Confusio linguarum"]
-description: "Confusion of tongues, the follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."
-lead: "The follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 言語の混乱
+alternatives:
+- Confusio linguarum
+description: 言語の混乱。地球上の技術進歩に対抗し、これらの努力を無害にするために、大洪水の後に宇宙飛行技術を構築していた時代のエロヒミア文明のその後の反応。計画された混乱は、もはや知識を理解できない部族の間で、世界中の知識伝達者を地理的に解散させることで構成されていました。
+lead: 地球上の技術進歩に対抗し、これらの努力を無害にするために、大洪水の後に宇宙飛行技術を構築していた時代のエロヒミア文明のその後の反応。計画された混乱は、もはや知識を理解できない部族の間で、世界中の知識伝達者を地理的に解散させることで構成されていました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Confusion of Tongues is an event described in the Book of Genesis in the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}). According to the story, the people referred to in the Bible were initially of one language and lived together in harmony. However, they decided to build a great tower that would reach the heavens, which is called the [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}). The [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) saw this as a challenge to their authority and decided to confuse their language, making it impossible for them to understand each other. This caused the people to be scattered across the known world, unable to work together on their tower.

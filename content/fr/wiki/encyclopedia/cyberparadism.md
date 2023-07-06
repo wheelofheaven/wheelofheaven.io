@@ -1,15 +1,22 @@
 ---
-title: "Cyberparadisme"
-alternatives: ["Cyberparadis", "Cybergenèse", "Néogenèse"]
-description: "Cyberparadism est une esthétique qui fusionne la technologie avancée avec la nature paradisiaque, envisageant un avenir où le progrès humain et l'harmonie environnementale coexistent de manière durable."
-lead: "Cyberparadism est une esthétique qui fusionne la technologie avancée avec la nature paradisiaque, envisageant un avenir où le progrès humain et l'harmonie environnementale coexistent de manière durable."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Cyberparadisme
+alternatives:
+- Cyberparadis
+- Cybergenèse
+- Néogenèse
+description: Cyberparadism est une esthétique qui fusionne la technologie avancée
+  avec la nature paradisiaque, envisageant un avenir où le progrès humain et l'harmonie
+  environnementale coexistent de manière durable.
+lead: Cyberparadism est une esthétique qui fusionne la technologie avancée avec la
+  nature paradisiaque, envisageant un avenir où le progrès humain et l'harmonie environnementale
+  coexistent de manière durable.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,22 @@
 ---
-title: "Biglino-Methode"
-description: "The Biglino method is an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-lead: "An alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Biglino-Methode
+description: Die Biglino-Methode ist ein alternativer Ansatz zur Interpretation der
+  Bibel und plädiert für ein wörtliches Verständnis ihres Inhalts, anstatt sich auf
+  bildliche Sprache oder etablierte Exegese zu verlassen. Ziel ist es, eine andere
+  Erzählung aufzuzeigen, indem der Text ohne metaphorische Interpretationen untersucht
+  und der historische und kulturelle Kontext betont wird.
+lead: Ein alternativer Ansatz zur Interpretation der Bibel, der sich für ein wörtliches
+  Verständnis ihres Inhalts einsetzt, anstatt sich auf bildliche Sprache oder etablierte
+  Exegese zu verlassen. Ziel ist es, eine andere Erzählung aufzuzeigen, indem der
+  Text ohne metaphorische Interpretationen untersucht und der historische und kulturelle
+  Kontext betont wird.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

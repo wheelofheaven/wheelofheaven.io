@@ -1,15 +1,18 @@
 ---
-title: "蛇"
-alternatives: ["Serpentine faction", "Sons of God", "Watchers"]
-description: "Serpent, a metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-lead: "A metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 蛇
+alternatives:
+- Serpentine faction
+- Sons of God
+- Watchers
+description: 蛇，隐喻耶洛因 (אֱלֹהִם) 中不守规矩的派系。在地球上第一批人类被合成工程之后，耶洛因工程的一个子集认为有必要平等地教育这些新的人类生物。这种教育是给予第一批人类的，而负责教育的耶洛因（被称为“蛇”）因非法侵入而被定罪并被流放，留在地球上。该派系的主角之一被称为光明使者路西法。
+lead: 比喻耶洛因 (Elohim) 中不守规矩的派系 (אֱלֹהִם)。在地球上第一批人类被合成工程之后，耶洛因工程的一个子集认为有必要平等地教育这些新的人类生物。教育是给予第一批人类的，而负责教育的耶洛因（被称为蛇）因非法侵入而被定罪并被流放，留在地球上。该派系的主角之一被称为光明使者路西法。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

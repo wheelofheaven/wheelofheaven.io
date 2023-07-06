@@ -1,15 +1,20 @@
 ---
-title: "Biblia"
-alternatives: ["Tanakh"]
-description: "Bible, a set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."
-lead: "A set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Biblia
+alternatives:
+- Tanakh
+description: Biblia, un conjunto de escrituras religiosas antiguas que atestiguan
+  lo que ha sucedido para que la humanidad tenga pruebas cuando la Verdad se revele
+  nuevamente durante los tiempos del Apocalipsis.
+lead: Un conjunto de escrituras religiosas antiguas que atestiguan lo que ha sucedido
+  para que la humanidad tenga pruebas cuando la Verdad se revele nuevamente durante
+  los tiempos del Apocalipsis.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "パントロピー"
-description: "Pantropy, the notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-lead: "The notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: パントロピー
+description: パントロピーとは、現在の体質や種の生物学的能力にとって敵対的な別の惑星に住むことができるように、人類を遺伝子的に改変し、適応させるという概念です。エロヒムが地球上の人類を自分たちのイメージに合わせて遺伝子操作することで確立した継続性は、パントロピーの一例として理解できます。
+lead: 現在の体質や種の生物学的能力にとって敵対的な別の惑星で生活できるように、人類を遺伝子的に改変し、適応させるという概念。エロヒムが地球上の人類を自分たちのイメージに合わせて遺伝子操作することで確立した継続性は、パントロピーの一例として理解できます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

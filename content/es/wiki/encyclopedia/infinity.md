@@ -1,14 +1,28 @@
 ---
-title: "Infinito"
-description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Infinito
+description: Infinito, una visión científica del orden más alto, ya que postula la
+  extensión perpetua del tiempo y del espacio. No hay centro como no hay principio
+  ni fin. Dos símbolos antiguos conocidos en todo el mundo y las edades dan testimonio
+  de esta sabiduría de antaño dada a nosotros por los Elohim, a saber, la esvástica
+  que representa la naturaleza cíclica del tiempo y la atemporalidad, y Magen David
+  que representa a su vez que lo que está arriba está abajo, es decir, el camino.
+  el espacio se expande a niveles macroscópicos mayores es igual a la forma en que
+  se pliega el espacio dentro de los niveles microscópicos.
+lead: Una visión científica del orden más alto, ya que postula la extensión perpetua
+  del tiempo y del espacio. No hay centro como no hay principio ni fin. Dos símbolos
+  antiguos conocidos en todo el mundo y las edades dan testimonio de esta sabiduría
+  de antaño dada a nosotros por los Elohim, a saber, la esvástica que representa la
+  naturaleza cíclica del tiempo y la atemporalidad, y Magen David que representa a
+  su vez que lo que está arriba está abajo, es decir, el camino. el espacio se expande
+  a niveles macroscópicos mayores es igual a la forma en que se pliega el espacio
+  dentro de los niveles microscópicos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

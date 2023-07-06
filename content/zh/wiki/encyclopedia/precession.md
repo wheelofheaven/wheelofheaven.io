@@ -1,15 +1,17 @@
 ---
-title: "岁差"
-alternatives: ["Precession of the equinoxes"]
-description: "Precession, the steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-lead: "The steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 岁差
+alternatives:
+- Precession of the equinoxes
+description: 进动，地球自转轴方向的稳定变化。进动是地球继绕地轴自转（日周期）和绕太阳公转（年）之后的第三个关键运动。一个完整的岁差周期需要 25'920
+  年才能完成。
+lead: 地球自转轴方向的稳定变化。进动是地球继绕地轴自转（日周期）和绕太阳公转（年）之后的第三个关键运动。一个完整的岁差周期需要 25'920 年才能完成。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

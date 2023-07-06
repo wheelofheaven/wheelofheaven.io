@@ -1,17 +1,18 @@
 ---
-title: "ノア"
-description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ノア
+description: ノア、アンテディルヴィア時代に生まれた聖書の族長。彼は、地球上に誕生した生命体を差し迫った大災害から守ることを目的とした巨大な保存プロジェクトに参加するよう指名された。
+lead: アンテディルヴィア時代に生まれた聖書の族長。彼は、地球上に誕生した生命体を差し迫った大災害から守ることを目的とした巨大な保存プロジェクトに参加するよう指名された。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## In Raëlism 🔯

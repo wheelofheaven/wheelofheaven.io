@@ -1,14 +1,27 @@
 ---
-title: "Уфология"
-description: "Ufology is a field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-lead: "A field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Уфология
+description: Уфология — это область изучения и исследований, которая фокусируется
+  на феномене неопознанных летающих объектов (НЛО), отсюда и название, и возможности
+  внеземной жизни, посещающей Землю или взаимодействующей с ней. Уфологи исследуют
+  наблюдения, фотографии, видео и другие свидетельства, связанные с НЛО, анализируя
+  их, чтобы определить их природу и происхождение. Уфология исследует различные теории,
+  от инопланетных космических кораблей до правительственных сокрытий, и стремится
+  понять феномен НЛО с помощью научных исследований, свидетельств очевидцев и документальных
+  свидетельств.
+lead: Область изучения и исследований, которая фокусируется на феномене неопознанных
+  летающих объектов (НЛО), отсюда и название, и возможности внеземной жизни, посещающей
+  Землю или взаимодействующей с ней. Уфологи исследуют наблюдения, фотографии, видео
+  и другие свидетельства, связанные с НЛО, анализируя их, чтобы определить их природу
+  и происхождение. Уфология исследует различные теории, от инопланетных космических
+  кораблей до правительственных сокрытий, и стремится понять феномен НЛО с помощью
+  научных исследований, свидетельств очевидцев и документальных свидетельств.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

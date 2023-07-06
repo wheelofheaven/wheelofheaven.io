@@ -1,14 +1,14 @@
 ---
-title: "サンサラ"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: サンサラ
+description: サンサーラ、仏教、ジャイナ教、ヒンズー教の死と再生のサイクルの概念。この言葉自体は標準的なものではありませんが、輪廻とは、科学的および技術的手段の進歩的洗練が戦争挑発と抑止のために使用された場合に繰り返される自己破壊のサイクルを指します。死と再生のサイクルを克服することは、豊かさと繁栄の黄金時代を迎えるための究極の条件です。
+lead: 死と再生のサイクルに関する仏教、ジャイナ教、ヒンズー教の概念。この言葉自体は標準的なものではありませんが、輪廻とは、科学的および技術的手段の進歩的洗練が戦争挑発と抑止のために使用された場合に繰り返される自己破壊のサイクルを指します。死と再生のサイクルを克服することは、豊かさと繁栄の黄金時代を迎えるための究極の条件です。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

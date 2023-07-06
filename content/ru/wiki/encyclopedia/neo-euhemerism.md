@@ -1,14 +1,26 @@
 ---
-title: "Нео-эвхемеризм"
-description: "Neo-Euhemerism is a philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-lead: "A philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Нео-эвхемеризм
+description: Неоэвгемеризм - это философская попытка рационализировать мифологию,
+  в частности природу богов и божественных существ, в исторических терминах, интерпретируя
+  кажущиеся сверхъестественными характеристики, приписываемые богам, как следствие
+  их технологической и научной сложности. Неоэвгемеризм можно понимать как философскую
+  парадигму, приравнивающую древних богов к космической цивилизации, возможно, внеземного
+  происхождения. Следовательно, гипотеза, выдвинутая здесь, в «Колесе небес», действительно
+  имеет сходную ДНК с неоэвгемеристическими предпосылками.
+lead: Философская попытка рационализировать мифологию, в частности природу богов и
+  божественных существ, в исторических терминах, интерпретируя кажущиеся сверхъестественными
+  характеристики, приписываемые богам, как следствие их технологической и научной
+  сложности. Неоэвгемеризм можно понимать как философскую парадигму, приравнивающую
+  древних богов к космической цивилизации, возможно, внеземного происхождения. Следовательно,
+  гипотеза, выдвинутая здесь, в «Колесе небес», действительно имеет сходную ДНК с
+  неоэвгемеристическими предпосылками.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

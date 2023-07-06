@@ -1,14 +1,26 @@
 ---
-title: "Samsara"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Samsara
+description: Saṃsāra, eine buddhistische, jainistische und hinduistische Vorstellung
+  vom Kreislauf von Tod und Wiedergeburt. Während das Wort selbst nicht kanonisch
+  ist, bezieht sich Samsara auf den Kreislauf der wiederkehrenden Selbstzerstörung,
+  wenn die fortschreitende Verfeinerung wissenschaftlicher und technologischer Mittel
+  zur Kriegstreiberei und Abschreckung eingesetzt wird. Die Überwindung des Kreislaufs
+  von Tod und Wiedergeburt ist die ultimative Voraussetzung für den Eintritt in das
+  Goldene Zeitalter des Überflusses und des Wohlstands.
+lead: Eine buddhistische, jainistische und hinduistische Vorstellung vom Kreislauf
+  von Tod und Wiedergeburt. Während das Wort selbst nicht kanonisch ist, bezieht sich
+  Samsara auf den Kreislauf der wiederkehrenden Selbstzerstörung, wenn die fortschreitende
+  Verfeinerung wissenschaftlicher und technologischer Mittel zur Kriegstreiberei und
+  Abschreckung eingesetzt wird. Die Überwindung des Kreislaufs von Tod und Wiedergeburt
+  ist die ultimative Voraussetzung für den Eintritt in das Goldene Zeitalter des Überflusses
+  und des Wohlstands.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

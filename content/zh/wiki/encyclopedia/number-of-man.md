@@ -1,14 +1,14 @@
 ---
-title: "人的数量"
-description: "Number of Man, also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo.."
-lead: "Also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 人的数量
+description: 人类数，也称为兽数，或者简单地用它所代表的值来表示，666 (χxiϛ)，是自创世记中第一批人类被创造以来，地球上存在的人类世代数。如果一代人定义为20年，那么人口数量的乘积就是13'320年。如果我们刚刚进入水瓶座时代，并且我们假设这与人类的数量一致，那么第一个人类一定是在半个岁差周期前被创造出来的，这将是在狮子座时代的开始。
+lead: 也称为野兽数，或简称为它所代表的值，666 (χxiϛ)，是自创世记中第一批人类被创造以来地球上存在的人类世代数。如果一代人定义为20年，那么人口数量的乘积就是13'320年。如果我们刚刚进入水瓶座时代，并且假设这与人类数量一致，那么第一个人类一定是在半个岁差周期前被创造出来的，这将是在狮子座时代的开始。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

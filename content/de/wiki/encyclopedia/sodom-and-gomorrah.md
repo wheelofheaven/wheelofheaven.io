@@ -1,18 +1,28 @@
 ---
-title: "Sodom und Gomorrha"
-alternatives: ["Cities of the Plain"]
-description: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-lead: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Sodom und Gomorrha
+alternatives:
+- Cities of the Plain
+description: Sodom und Gomorra, zwei levantinische Städte, die durch Atomwaffen zerstört
+  wurden, als Präventivschlag der elohimischen Zivilisation gegen eine rachsüchtige
+  irdische Fraktion, die selbst organisiert und mächtig wurde. Das Tote Meer ist höchstwahrscheinlich
+  ein Artefakt dieser Atomexplosionen und zeugt bis heute von den Folgen, die darauf
+  folgten.
+lead: Sodom und Gomorra, zwei levantinische Städte, die durch Atomwaffen zerstört
+  wurden, als Präventivschlag der elohimischen Zivilisation gegen eine rachsüchtige
+  irdische Fraktion, die selbst organisiert und mächtig wurde. Das Tote Meer ist höchstwahrscheinlich
+  ein Artefakt dieser Atomexplosionen und zeugt bis heute von den Folgen, die darauf
+  folgten.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus"]
+timeline:
+- taurus
 ---
 
 The biblical story of Sodom and Gomorrah is a story from the Book of Genesis in the Old Testament. It is about two cities, Sodom and Gomorrah, that were said to have been located in the region of the Dead Sea.

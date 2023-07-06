@@ -1,14 +1,20 @@
 ---
-title: "Метод Биглино"
-description: "The Biglino method is an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-lead: "An alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Метод Биглино
+description: Метод Биглино представляет собой альтернативный подход к толкованию Библии,
+  выступающий за буквальное понимание ее содержания, а не за образный язык или устоявшуюся
+  экзегезу. Он стремится раскрыть другой нарратив, исследуя текст без метафорических
+  интерпретаций и подчеркивая исторический и культурный контекст.
+lead: Альтернативный подход к толкованию Библии, выступающий за буквальное понимание
+  ее содержания вместо того, чтобы полагаться на образный язык или устоявшуюся экзегезу.
+  Он стремится раскрыть другой нарратив, исследуя текст без метафорических интерпретаций
+  и подчеркивая исторический и культурный контекст.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,15 +1,23 @@
 ---
-title: "卐"
-alternatives: ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
-description: "Swastika, a religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-lead: "A religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 卐
+alternatives:
+- Arevakhach
+- Borjgali
+- Eternity sign
+- Fylfot
+- Lauburu
+- Mursunsydän
+- Sun cross
+- Ugunskrusts
+description: 卍字是一种宗教和文化符号，至今仍为许多古代文化所展示。虽然它通常与幸福、好运和类似积极含义的概念联系在一起，但在雷利主义中，它被认为同时代表时间的循环性，以及时间的永恒连续性（无限）。
+lead: 直到今天，许多古代文化都展现出一种宗教和文化符号。虽然通常与幸福、好运和类似积极含义的概念联系在一起，但在雷利主义中，它被认为同时代表时间的循环性，以及时间的永恒连续性（无限）。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

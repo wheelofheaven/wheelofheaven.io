@@ -1,14 +1,24 @@
 ---
-title: "Ingénierie de la vie"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ingénierie de la vie
+description: L'ingénierie de la vie fait référence à l'application d'approches scientifiques
+  et technologiques pour concevoir et construire intentionnellement des organismes
+  vivants artificiels ou des systèmes biologiques avec de nouvelles fonctions, caractéristiques
+  ou capacités. Cela implique la manipulation délibérée du matériel génétique et l'assemblage
+  de composants biologiques pour provoquer l'émergence de formes de vie entièrement
+  nouvelles qui n'existent pas dans la nature.
+lead: Fait référence à l'application d'approches scientifiques et technologiques pour
+  concevoir et construire intentionnellement des organismes vivants artificiels ou
+  des systèmes biologiques avec de nouvelles fonctions, caractéristiques ou capacités.
+  Cela implique la manipulation délibérée du matériel génétique et l'assemblage de
+  composants biologiques pour provoquer l'émergence de formes de vie entièrement nouvelles
+  qui n'existent pas dans la nature.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

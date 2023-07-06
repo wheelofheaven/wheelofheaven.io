@@ -1,15 +1,29 @@
 ---
-title: "Estrella de David"
-alternatives: ["Hexagram", "Magen David", "Shield of David"]
-description: "Star of David, an ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-lead: "An ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Estrella de David
+alternatives:
+- Hexagram
+- Magen David
+- Shield of David
+description: Estrella de David, un símbolo antiguo conocido por muchos nombres como
+  el Escudo de David (Maguen David) o el Sello de Salomón. Si bien generalmente se
+  asocia con la cultura judía y la fe judía, muchas culturas lo representan en varios
+  momentos de la historia humana. En el raelismo, se interpreta que su significado
+  representa tanto la equivalencia de todas las escalas de existencia (comúnmente
+  referidas por el infame dicho hermético "Como es arriba, es abajo"), así como la
+  inmensidad infinita del espacio (infinito).
+lead: Un símbolo antiguo conocido por muchos nombres como el Escudo de David (Magen
+  David) o el Sello de Salomón. Si bien generalmente se asocia con la cultura judía
+  y la fe judía, muchas culturas lo representan en varios momentos de la historia
+  humana. En el raelismo, se interpreta que su significado representa tanto la equivalencia
+  de todas las escalas de existencia (comúnmente referidas por el infame dicho hermético
+  "Como es arriba, es abajo"), así como la inmensidad infinita del espacio (infinito).
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

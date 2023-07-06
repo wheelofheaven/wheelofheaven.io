@@ -1,14 +1,32 @@
 ---
-title: "Synthetische Genomik"
-description: "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-lead: "A branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Synthetische Genomik
+description: Die synthetische Genomik ist ein Zweig der Gentechnik, der sich auf das
+  Design, den Zusammenbau und die Synthese vollständiger Genome oder großer Genomabschnitte
+  konzentriert. Dabei handelt es sich um die Erstellung künstlicher DNA-Sequenzen,
+  die vorhandene natürliche Genome nachahmen oder sich von ihnen unterscheiden. Die
+  synthetische Genomik zielt darauf ab, genetisches Material wie synthetische Chromosomen
+  oder ganze synthetische Genome zu konstruieren, um grundlegende biologische Prozesse
+  zu untersuchen, den minimalen Satz lebensnotwendiger Gene zu verstehen und möglicherweise
+  Organismen mit veränderten oder neuartigen Eigenschaften zu schaffen. Dabei handelt
+  es sich um die Konstruktion künstlichen genetischen Materials, um die genetischen
+  Grundlagen des Lebens zu erforschen und zu manipulieren.
+lead: Ein Zweig der Gentechnik, der sich auf das Design, den Zusammenbau und die Synthese
+  vollständiger Genome oder großer Genomabschnitte konzentriert. Dabei handelt es
+  sich um die Erstellung künstlicher DNA-Sequenzen, die vorhandene natürliche Genome
+  nachahmen oder sich von ihnen unterscheiden. Die synthetische Genomik zielt darauf
+  ab, genetisches Material wie synthetische Chromosomen oder ganze synthetische Genome
+  zu konstruieren, um grundlegende biologische Prozesse zu untersuchen, den minimalen
+  Satz lebensnotwendiger Gene zu verstehen und möglicherweise Organismen mit veränderten
+  oder neuartigen Eigenschaften zu schaffen. Dabei handelt es sich um die Konstruktion
+  künstlichen genetischen Materials, um die genetischen Grundlagen des Lebens zu erforschen
+  und zu manipulieren.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,18 +1,23 @@
 ---
-title: "エロヒムの戦争"
-alternatives: ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
-description: "Elohimian Space Wars, an armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-lead: "An armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: エロヒムの戦争
+alternatives:
+- Æsir–Vanir War
+- Theomachy
+- Titanomachy
+- War in Heaven
+description: エロヒミアン宇宙戦争、対立するエロヒムの2つの派閥の間で起こった重大な規模の武力紛争。その時期はまだ明らかにされていないが、大洪水の後に起こったと理解されている。地球に追放され、ノアの生命維持を支援した追放された創造者で構成された派閥は、アダマイトの混成グループも生み出しました。この派閥は、永遠評議会の議長であるヤハウェが率いる故郷の惑星の支配政府に対して反乱を起こしていました。武力衝突は地球と周囲の宇宙の両方で発生した。緊張と対立にもかかわらず、ヤハウェとその配偶者は最終的に勝利を収めました。しかし、ヤハウェはある程度の寛大さを示して、追放された創造者たちを許し、彼らが故郷の惑星に戻ることを許可しました。
+lead: 2つの対立するエロヒム派の間で重大な規模の武力紛争が発生し、その時期は不明のままですが、大洪水の後に起こったと理解されています。地球に追放され、ノアの生命維持を支援した追放された創造者で構成された派閥は、アダマイトの混成グループも生み出しました。この派閥は、永遠評議会の議長であるヤハウェが率いる故郷の惑星の支配政府に対して反乱を起こしていました。武力衝突は地球と周囲の宇宙の両方で発生した。緊張と対立にもかかわらず、ヤハウェとその同胞たちは最終的に勝利を収めました。しかし、ヤハウェはある程度の寛大さを示して、追放された創造者たちを許し、故郷の惑星に戻ることを許可されました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## See also

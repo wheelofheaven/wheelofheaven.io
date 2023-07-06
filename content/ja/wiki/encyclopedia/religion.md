@@ -1,14 +1,14 @@
 ---
-title: "宗教"
-description: "Religion, a set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-lead: "A set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 宗教
+description: 宗教。地球上の人間と、地球上の生命の祖先であり創造者であるエロヒムとの間のつながり（「再びつながる」を意味するラテン語のレリガーレに由来）を育み、教える一連の実践と信念。親と子の関係が修養と敬意を必要とする絆であるのと同じように、宗教は創造者と被造物の間のつながりを維持することを目的としています。私たちを創造してくれた人たちに対する感謝の絆を育み、合理化しようと努めていない宗教は、まったく異なる社会文化システムです。
+lead: 地球上の人類と、私たちの祖先であり地球上の生命の創造者であるエロヒムとの間のつながり（「再びつながる」を意味するラテン語の宗教に由来）を育み、教える一連の実践と信念。親と子の関係が修養と敬意を必要とする絆であるのと同じように、宗教は創造者と被造物の間のつながりを維持することを目的としています。私たちを創造してくれた人たちに対する感謝の絆を育み、合理化しようと努めていない宗教は、まったく異なる社会文化システムです。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

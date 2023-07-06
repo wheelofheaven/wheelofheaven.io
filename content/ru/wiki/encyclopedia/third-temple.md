@@ -1,14 +1,15 @@
 ---
-title: "Третий храм"
-description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Третий храм
+description: Третий Храм, резиденция Элохимов, которая должна быть восстановлена во
+  времена Апокалипсиса.
+lead: Резиденция для Элохимов, которая должна быть восстановлена во времена Апокалипсиса.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

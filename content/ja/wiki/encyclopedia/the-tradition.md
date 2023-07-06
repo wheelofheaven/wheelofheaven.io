@@ -1,14 +1,14 @@
 ---
-title: "伝統"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 伝統
+description: 伝統とは、口頭および書面で永続的に伝えられる一連の真理であり、多くの世代を超え、さまざまな文明を通じて受け継がれ、遠い過去に起源をもつ知識の宝庫を無傷で保ち続けています。伝統は必ずしも特定の一連の経典や書籍を指すわけではありませんが、最も崇高な真理を体系化された、そして腐敗しないとされる方法で形式化したすべての個々の人々の文化的および神話的遺産として理解できます。
+lead: 口頭および書面で永続的に伝わる一連の真実は、多くの世代を超え、さまざまな文明を通じて受け継がれ、遠い過去に起源をもつ知識の宝庫を無傷で保ち続けています。伝統は必ずしも特定の一連の経典や書籍を指すわけではありませんが、最も崇高な真理を体系化された、そして腐敗しないとされる方法で形式化したすべての個々の人々の文化的および神話的遺産として理解できます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,22 @@
 ---
-title: "Équation de Drake"
-description: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-lead: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Équation de Drake
+description: Équation de Drake , une équation exprimant la probabilité d'une vie extraterrestre
+  intelligente comme le produit de divers facteurs tels que la fraction de planètes
+  qui pourraient être habitables ou la fraction de planètes sur lesquelles la vie
+  pourrait survenir. L'équation porte le nom de Franke Drake et sert d'expérience
+  de pensée probabiliste pour envisager l'existence possible d'une vie extraterrestre.
+lead: Équation de Drake , une équation exprimant la probabilité d'une vie extraterrestre
+  intelligente comme le produit de divers facteurs tels que la fraction de planètes
+  qui pourraient être habitables ou la fraction de planètes sur lesquelles la vie
+  pourrait survenir. L'équation porte le nom de Franke Drake et sert d'expérience
+  de pensée probabiliste pour envisager l'existence possible d'une vie extraterrestre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,28 @@
 ---
-title: "Ufología"
-description: "Ufology is a field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-lead: "A field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ufología
+description: La ufología es un campo de estudio e investigación que se centra en el
+  fenómeno de los objetos voladores no identificados (OVNI), de ahí el nombre, y la
+  posibilidad de que vida extraterrestre visite o interactúe con la Tierra. Los ufólogos
+  investigan avistamientos, fotografías, videos y otras evidencias reportadas relacionadas
+  con los ovnis, analizándolos para determinar su naturaleza y origen. La ufología
+  explora varias teorías, que van desde naves extraterrestres hasta encubrimientos
+  gubernamentales, y tiene como objetivo comprender el fenómeno de los ovnis a través
+  de investigaciones científicas, testimonios de testigos presenciales y pruebas documentales.
+lead: Un campo de estudio e investigación que se centra en el fenómeno de los objetos
+  voladores no identificados (OVNI), de ahí el nombre, y la posibilidad de que vida
+  extraterrestre visite o interactúe con la Tierra. Los ufólogos investigan avistamientos,
+  fotografías, videos y otras evidencias reportadas relacionadas con los ovnis, analizándolos
+  para determinar su naturaleza y origen. La ufología explora varias teorías, que
+  van desde naves extraterrestres hasta encubrimientos gubernamentales, y tiene como
+  objetivo comprender el fenómeno de los ovnis a través de investigaciones científicas,
+  testimonios de testigos presenciales y pruebas documentales.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

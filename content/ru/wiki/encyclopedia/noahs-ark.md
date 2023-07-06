@@ -1,17 +1,24 @@
 ---
-title: "Ковчег Ноя"
-description: "Noah's Ark, a world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-lead: "A world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ковчег Ноя
+description: Ноев Ковчег, мир, охватывающий проект по сохранению жизни, возглавляемый
+  Ноем и изгнанными Элохимами, оставленными на Земле, в конечном итоге воплощенный
+  в космическом корабле, вращающемся вокруг Земли во время катастрофического события,
+  известного как Великий Потоп, который защитил почти все Элохимианские творения.
+lead: Мир, охватывающий проект по сохранению жизни, возглавляемый Ноем и изгнанными
+  Элохимами, оставленными на Земле, в конечном итоге воплощенный в космическом корабле,
+  вращающемся вокруг Земли во время катастрофического события, известного как Великий
+  потоп, защищающего почти все Элохимские творения.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The story of Noah's Ark is a well-known biblical account from the book of Genesis in the Old Testament. According to the story, God saw that the world had become corrupt and wicked, and decided to cleanse it with a great flood. He chose Noah, a righteous man, to build an ark and gather two of every kind of animal and bird, as well as his family, to survive the flood.

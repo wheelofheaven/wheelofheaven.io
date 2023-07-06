@@ -1,14 +1,19 @@
 ---
-title: "Diseño inteligente"
-description: "Intelligent Design, a competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-lead: "A competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Diseño inteligente
+description: Diseño inteligente, un paradigma científico competitivo sobre cómo se
+  originó la vida en la Tierra. Sería la representación más precisa de lo que sucedió
+  si los Elohim diseñaron sintéticamente la vida en la Tierra a través de la ingeniería
+  genética ex-nihilo.
+lead: Un paradigma científico competitivo sobre cómo se originó la vida en la Tierra.
+  Sería la representación más precisa de lo que sucedió si los Elohim diseñaron sintéticamente
+  la vida en la Tierra a través de la ingeniería genética ex-nihilo.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

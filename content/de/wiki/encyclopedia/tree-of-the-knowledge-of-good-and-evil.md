@@ -1,14 +1,22 @@
 ---
-title: "Baum der Erkenntnis von Gut und Böse"
-description: "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-lead: "A Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Baum der Erkenntnis von Gut und Böse
+description: Baum der Erkenntnis von Gut und Böse, eine biblische Metapher für wissenschaftliche
+  Wissensaufzeichnungen. Den ersten gentechnisch veränderten Menschen wurden einige,
+  aber nicht alle wissenschaftlichen Bücher gezeigt, insbesondere Bücher mit großen
+  wissenschaftlichen Erkenntnissen wurden geheim gehalten. Das Gute und das Böse stehen
+  für die bewusste Unkenntnis dieser Aufzeichnungen und der darin enthaltenen Auswirkungen.
+lead: Eine biblische Metapher für wissenschaftliche Wissensaufzeichnungen. Den ersten
+  gentechnisch veränderten Menschen wurden einige, aber nicht alle wissenschaftlichen
+  Bücher gezeigt, insbesondere Bücher mit großen wissenschaftlichen Erkenntnissen
+  wurden geheim gehalten. Das Gute und das Böse stehen für die bewusste Unkenntnis
+  dieser Aufzeichnungen und der darin enthaltenen Auswirkungen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "天体生物学"
-description: "Astrobiology, a scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-lead: "A scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 天体生物学
+description: 天体生物学，研究宇宙生命的科学研究领域。由于宇宙中的生命尚未被最终观察到，因此天体生物学最感兴趣的是在什么条件下外星生命可能存在。
+lead: 研究宇宙生命的科学研究领域。由于宇宙中的生命尚未被最终观察到，因此天体生物学最感兴趣的是在什么条件下外星生命可能存在。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

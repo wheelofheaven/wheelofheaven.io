@@ -1,15 +1,29 @@
 ---
-title: "tl;dr"
-description: "tl;dr ist eine Abkürzung für too long; didn't read. Es wird häufig verwendet, um ausführliche Artikel, Beiträge oder Diskussionen zusammenzufassen. In unserem Wiki kennzeichnen wir den ersten Absatz jedes Artikels als tl;dr, um anzugeben, dass er als prägnante Zusammenfassung des folgenden Inhalts dient. Der tl;dr-Abschnitt ist leicht stilisiert und verwendet eine serifenartige Schrift, sodass er sich deutlich vom Rest des Artikels abhebt. Durch die Einbeziehung eines tl;dr-Abschnitts bieten wir unseren Lesern einen schnellen Überblick über die Hauptpunkte und ermöglichen es ihnen, die wichtigsten Informationen zu erfassen, ohne den gesamten Artikel durchzugehen."
-lead: "tl;dr ist eine Abkürzung für too long; didn't read. Es wird häufig verwendet, um ausführliche Artikel, Beiträge oder Diskussionen zusammenzufassen. In unserem Wiki kennzeichnen wir den ersten Absatz jedes Artikels als tl;dr, um anzugeben, dass er als prägnante Zusammenfassung des folgenden Inhalts dient. Der tl;dr-Abschnitt ist leicht stilisiert und verwendet eine serifenartige Schrift, sodass er sich deutlich vom Rest des Artikels abhebt. Durch die Einbeziehung eines tl;dr-Abschnitts bieten wir unseren Lesern einen schnellen Überblick über die Hauptpunkte und ermöglichen es ihnen, die wichtigsten Informationen zu erfassen, ohne den gesamten Artikel durchzugehen."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: tl;dr
+description: tl;dr ist eine Abkürzung für too long; didn't read. Es wird häufig verwendet,
+  um ausführliche Artikel, Beiträge oder Diskussionen zusammenzufassen. In unserem
+  Wiki kennzeichnen wir den ersten Absatz jedes Artikels als tl;dr, um anzugeben,
+  dass er als prägnante Zusammenfassung des folgenden Inhalts dient. Der tl;dr-Abschnitt
+  ist leicht stilisiert und verwendet eine serifenartige Schrift, sodass er sich deutlich
+  vom Rest des Artikels abhebt. Durch die Einbeziehung eines tl;dr-Abschnitts bieten
+  wir unseren Lesern einen schnellen Überblick über die Hauptpunkte und ermöglichen
+  es ihnen, die wichtigsten Informationen zu erfassen, ohne den gesamten Artikel durchzugehen.
+lead: tl;dr ist eine Abkürzung für too long; didn't read. Es wird häufig verwendet,
+  um ausführliche Artikel, Beiträge oder Diskussionen zusammenzufassen. In unserem
+  Wiki kennzeichnen wir den ersten Absatz jedes Artikels als tl;dr, um anzugeben,
+  dass er als prägnante Zusammenfassung des folgenden Inhalts dient. Der tl;dr-Abschnitt
+  ist leicht stilisiert und verwendet eine serifenartige Schrift, sodass er sich deutlich
+  vom Rest des Artikels abhebt. Durch die Einbeziehung eines tl;dr-Abschnitts bieten
+  wir unseren Lesern einen schnellen Überblick über die Hauptpunkte und ermöglichen
+  es ihnen, die wichtigsten Informationen zu erfassen, ohne den gesamten Artikel durchzugehen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 hidden: true
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

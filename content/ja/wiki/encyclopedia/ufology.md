@@ -1,14 +1,17 @@
 ---
-title: "UFO学"
-description: "Ufology is a field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-lead: "A field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: UFO学
+description: UFO 学は、その名前の由来である未確認飛行物体 (UFO) の現象と、地球外生命体が地球を訪れたり、地球と相互作用したりする可能性に焦点を当てた研究および研究分野です。
+  UFO研究家は、UFOに関する目撃情報、写真、ビデオ、その他報告された証拠を調査し、それらを分析してその性質と起源を特定します。 UFO 学では、異星人の宇宙船から政府の隠蔽工作に至るまで、さまざまな理論を探求し、科学的調査、目撃証言、証拠書類を通じて
+  UFO の現象を理解することを目指しています。
+lead: 未確認飛行物体 (UFO) の名前の由来である現象と、地球外生命体が地球を訪れたり、地球と対話したりする可能性に焦点を当てた研究と研究分野。 UFO研究家は、UFOに関する目撃情報、写真、ビデオ、その他報告された証拠を調査し、それらを分析してその性質と起源を特定します。
+  UFO 学では、異星人の宇宙船から政府の隠蔽工作に至るまで、さまざまな理論を探求し、科学的調査、目撃証言、証拠書類を通じて UFO の現象を理解することを目指しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

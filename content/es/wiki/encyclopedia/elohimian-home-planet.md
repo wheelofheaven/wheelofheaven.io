@@ -1,14 +1,20 @@
 ---
-title: "Planeta natal Elohimiano"
-description: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-lead: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Planeta natal Elohimiano
+description: El planeta habitable extrasolar donde se origina el género Elohimiano
+  o al menos su civilización. Este planeta supuestamente está a aproximadamente 1
+  año luz de distancia de la Tierra y, por lo tanto, se ubicará dentro de la galaxia
+  de la Vía Láctea.
+lead: El planeta habitable extrasolar donde se origina el género Elohimiano o al menos
+  su civilización. Este planeta supuestamente está a aproximadamente 1 año luz de
+  distancia de la Tierra y, por lo tanto, se ubicará dentro de la galaxia de la Vía
+  Láctea.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

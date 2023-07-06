@@ -1,15 +1,22 @@
 ---
-title: "Précession"
-alternatives: ["Precession of the equinoxes"]
-description: "Precession, the steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-lead: "The steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Précession
+alternatives:
+- Precession of the equinoxes
+description: Précession, le changement constant d'orientation de l'axe de rotation
+  de la Terre. La précession est le troisième mouvement clé de la Terre après la rotation
+  autour de son axe (cycle du jour) et sa révolution autour du Soleil (année). Un
+  cycle précessionnel complet prend 25'920 ans.
+lead: Le changement constant d'orientation de l'axe de rotation de la Terre. La précession
+  est le troisième mouvement clé de la Terre après la rotation autour de son axe (cycle
+  du jour) et sa révolution autour du Soleil (année). Un cycle précessionnel complet
+  prend 25'920 ans.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

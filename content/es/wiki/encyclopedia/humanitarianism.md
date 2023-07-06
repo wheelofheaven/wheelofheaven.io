@@ -1,14 +1,26 @@
 ---
-title: "Humanitarismo"
-description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Humanitarismo
+description: El humanitarismo, una doctrina socioeconómica propuesta presentada por
+  Yahweh como parte de los Nuevos Mandamientos que se centra en la preservación del
+  futuro de la humanidad mediante la implementación de un tipo particular de igualdad
+  de oportunidades. Beneficiando en última instancia el talento y la destreza, la
+  abolición de la herencia y el establecimiento de contratos jubilares de propiedad
+  limitados en el tiempo. En términos más generales, el humanitarismo es la doctrina
+  de que el deber de las personas es promover el bienestar humano.
+lead: Una doctrina socioeconómica propuesta presentada por Yahweh como parte de los
+  Nuevos Mandamientos que se enfoca en la preservación del futuro de la humanidad
+  al implementar un tipo particular de igualdad de oportunidades. Beneficiando en
+  última instancia el talento y la destreza, la abolición de la herencia y el establecimiento
+  de contratos jubilares de propiedad limitados en el tiempo. En términos más generales,
+  el humanitarismo es la doctrina de que el deber de las personas es promover el bienestar
+  humano.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

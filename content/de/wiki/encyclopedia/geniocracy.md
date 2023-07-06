@@ -1,14 +1,20 @@
 ---
-title: "Geniokratie"
-description: "Geniocracy, a proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-lead: "A proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Geniokratie
+description: Geniokratie, ein von Jahwe als Teil der Neuen Gebote vorgeschlagenes
+  politisches System, das intelligente Individuen aus der gesamten Menschheit in politische
+  Positionen wählt und daher Intelligenz nur als Attribut der Eignung anerkennt und
+  nicht Reichtum, Klasse, Stärke oder Macht.
+lead: Ein von Jahwe als Teil der Neuen Gebote vorgeschlagenes politisches System,
+  das intelligente Individuen aus der gesamten Menschheit in politische Positionen
+  wählt und daher Intelligenz nur als Attribut der Eignung und nicht als Reichtum,
+  Klasse, Stärke oder Macht anerkennt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

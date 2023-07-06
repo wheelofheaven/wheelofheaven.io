@@ -1,18 +1,20 @@
 ---
-title: "启示录"
-alternatives: ["Revelation"]
-description: "Apocalypse, Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-lead: "Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 启示录
+alternatives:
+- Revelation
+description: Apocalypse，希腊语的启示录，指的是进入黄金时代之前的启示时代。天启时代所揭示的启示是宗教经典，特别是《圣经》所保存的间接事实，即古代的诸神是来自另一个星球的人，并且由于其高度先进的技术能力而被误认为是超自然存在。
+lead: 希腊语“启示录”，指的是进入黄金时代之前的启示时代。天启时代所揭示的启示是宗教经典，特别是《圣经》所保存的间接事实，即古代的诸神是来自另一个星球的人，并且由于其高度先进的技术能力而被误认为是超自然的存在。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The Apocalypse, as described in the biblical Book of Revelation, is a series of events that marks the end of the world as it is known. According to the text, the Apocalypse involves a series of cataclysmic events, including wars, plagues, natural disasters, and the rise of the Antichrist. At the climax of these events, there will be a final battle between good and evil, and Jesus Christ will return to Earth to defeat Satan and establish a new heaven and a new earth.

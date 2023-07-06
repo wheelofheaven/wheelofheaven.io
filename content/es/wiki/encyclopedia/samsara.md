@@ -1,14 +1,24 @@
 ---
-title: "Samsara"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Samsara
+description: Saṃsāra, una noción budista, jainista e hinduista del ciclo de muerte
+  y renacimiento. Si bien la palabra en sí no es canónica, Samsara se refiere al ciclo
+  de autodestrucción recurrente si se utiliza la sofisticación progresiva de los medios
+  científicos y tecnológicos para el belicismo y la disuasión. Superar el ciclo de
+  la muerte y el renacimiento es la condición máxima para iniciar la Edad de Oro de
+  la abundancia y la prosperidad.
+lead: Una noción budista, jainista e hinduista del ciclo de muerte y renacimiento.
+  Si bien la palabra en sí no es canónica, Samsara se refiere al ciclo de autodestrucción
+  recurrente si se utiliza la sofisticación progresiva de los medios científicos y
+  tecnológicos para el belicismo y la disuasión. Superar el ciclo de la muerte y el
+  renacimiento es la condición máxima para iniciar la Edad de Oro de la abundancia
+  y la prosperidad.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

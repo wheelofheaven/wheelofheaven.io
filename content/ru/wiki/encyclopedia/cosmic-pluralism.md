@@ -1,14 +1,20 @@
 ---
-title: "Космический плюрализм"
-description: "Cosmic pluralism, also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-lead: "Also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Космический плюрализм
+description: Космический плюрализм, также известный как множественность миров, представляет
+  собой идею о том, что в дополнение к Земле, на которой должна присутствовать разумная
+  жизнь, должны существовать множественные, но неизвестные миры. Явная необъятность
+  космоса в значительной степени поддерживает эту идею.
+lead: Также известная просто как множество миров, это идея о том, что в дополнение
+  к Земле, где должна присутствовать разумная жизнь, должны существовать несколько,
+  но неизвестных миров. Явная необъятность космоса в значительной степени поддерживает
+  эту идею.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

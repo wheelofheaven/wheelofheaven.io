@@ -1,15 +1,26 @@
 ---
-title: "Grand Mois"
-alternatives: ["Astrological age", "Precessional month", "World Age"]
-description: "Great Month, also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-lead: "Also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Grand Mois
+alternatives:
+- Astrological age
+- Precessional month
+- World Age
+description: Grand Mois, également connu sous le nom d'âge astrologique ou âge du
+  monde, une période de temps d'environ 2'160 ans, le temps qu'il faut aux phénomènes
+  de précession pour déplacer la bande zodiacale sur l'écliptique vers l'ouest de
+  30 degrés, soit un douzième de la circonférence complète de 360 degrés. 12 Grands
+  Mois équivalent à une Grande Année.
+lead: Aussi connu sous le nom d'âge astrologique ou âge du monde, une période de temps
+  d'environ 2'160 ans, le temps qu'il faut au phénomène de précession pour déplacer
+  la bande zodiacale sur l'écliptique vers l'ouest de 30 degrés, soit un douzième
+  de la circonférence complète de 360 degrés. 12 Grands Mois équivalent à une Grande
+  Année.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,20 @@
 ---
-title: "Liste de mythemes et de motifs mythologiques"
-description: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-lead: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Liste de mythemes et de motifs mythologiques
+description: Liste des mythèmes et motifs mythologiques. Par l'agence d'exploration
+  des prémisses avancées par Wheel of Heaven, il existe un certain nombre de mythèmes
+  et de motifs mythologiques qui peuvent être lus via l'interprétation de l'hypothèse
+  de travail. Cette liste va cataloguer la majorité de ces motifs.
+lead: Liste des mythèmes et motifs mythologiques. Par l'agence d'exploration des prémisses
+  avancées par Wheel of Heaven, il existe un certain nombre de mythèmes et de motifs
+  mythologiques qui peuvent être lus via l'interprétation de l'hypothèse de travail.
+  Cette liste va cataloguer la majorité de ces motifs.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

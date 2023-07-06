@@ -1,18 +1,33 @@
 ---
-title: "Tour de Babel"
-alternatives: ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
-description: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-lead: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Tour de Babel
+alternatives:
+- Mīgdal Bāḇel
+- מִגְדַּל בָּבֶל
+description: 'Tour de Babel ( hébreu : מִגְדַּל בָּבֶל, Mīgdal Bāḇel ), pendant les
+  premiers jours après le Grand Déluge , un vaisseau spatial interstellaire (peut-être
+  de forme allongée comme une fusée) qui a été construit dans un effort de collaboration
+  entre le peuple d''Israël et l''exilé Elohimian créateurs. Le but du vaisseau spatial
+  était d''améliorer les relations diplomatiques avec la planète d''origine Elohimienne
+  qui était hostile à la préservation de la vie sur Terre en assurant l''aménité de
+  ses habitants.'
+lead: 'Tour de Babel ( hébreu : מִגְדַּל בָּבֶל, Mīgdal Bāḇel ), pendant les premiers
+  jours après le Grand Déluge , un vaisseau spatial interstellaire (peut-être de forme
+  allongée comme une fusée) qui a été construit dans un effort de collaboration entre
+  le peuple d''Israël et l''exilé Elohimian créateurs. Le but du vaisseau spatial
+  était d''améliorer les relations diplomatiques avec la planète d''origine Elohimienne
+  qui était hostile à la préservation de la vie sur Terre en assurant l''aménité de
+  ses habitants.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.

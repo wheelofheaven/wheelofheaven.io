@@ -1,14 +1,14 @@
 ---
-title: "先知"
-description: "Prophet, a human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-lead: "A human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 先知
+description: 先知，一位人类大使，作为耶洛因（Elohim）的使者和代表，耶洛因是在地球上基因改造生命的造物主文明。纵观历史，许多人被选为先知。他们每个人要么完全激发了一场新的宗教运动，要么至少留下了书面或口头传统。无论哪种情况，最终都会为地球上埃洛希米亚遗产的保存和塑造做出贡献。
+lead: 人类大使，作为耶洛因（Elohim）的使者和代表，耶洛因是在地球上基因改造生命的造物主文明。纵观历史，许多人被选为先知。他们每个人要么完全激发了一场新的宗教运动，要么至少留下了书面或口头传统。无论哪种情况，最终都会为地球上埃洛希米亚遗产的保存和塑造做出贡献。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

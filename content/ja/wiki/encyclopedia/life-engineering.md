@@ -1,14 +1,14 @@
 ---
-title: "生命工学"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 生命工学
+description: ライフエンジニアリングとは、科学的および技術的アプローチを適用して、新しい機能、特性、または能力を備えた人工生命体または生物学的システムを意図的に設計および構築することを指します。これには、自然界に存在しないまったく新しい生命体の出現をもたらす、遺伝物質の意図的な操作と生物学的構成要素の集合が含まれます。
+lead: 新しい機能、特性、または能力を備えた人工生命体または生物学的システムを意図的に設計および構築するための科学技術的アプローチの適用を指します。これには、自然界に存在しないまったく新しい生命体の出現をもたらす、遺伝物質の意図的な操作と生物学的構成要素の集合が含まれます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

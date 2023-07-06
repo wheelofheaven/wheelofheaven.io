@@ -1,15 +1,18 @@
 ---
-title: "歳差"
-alternatives: ["Precession of the equinoxes"]
-description: "Precession, the steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-lead: "The steady change of orientation of the axis of rotation of Earth. Precession is the third key motion of the Earth next to the rotation around its axis (day cycle) and its revolution around the Sun (year). A full precessional cycle takes 25'920 years to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 歳差
+alternatives:
+- Precession of the equinoxes
+description: 歳差運動、地球の回転軸の方向の着実な変化。歳差運動は、地軸の周りの自転（日周期）と太陽の周りの公転（年）に次ぐ、地球の 3 番目の重要な運動です。完全な歳差運動サイクルが完了するには
+  25,920 年かかります。
+lead: 地球の回転軸の向きが着実に変化すること。歳差運動は、地軸の周りの自転（日周期）と太陽の周りの公転（年）に次ぐ、地球の 3 番目の重要な運動です。完全な歳差運動サイクルが完了するには
+  25,920 年かかります。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

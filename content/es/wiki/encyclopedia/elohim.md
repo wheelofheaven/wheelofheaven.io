@@ -1,15 +1,32 @@
 ---
-title: "Elohim"
-alternatives: ["Annunaki", "Celestiales", "Creadores", "Dei", "El", "Dioses", "Los Poderosos", "Los que están en el Cielo", "Los Teositas"]
-description: "Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), significa literalmente los Poderosos o más figurativamente, los que están arriba, los Celestiales. El nombre dado a los dioses bíblicos que a su vez son una civilización científicamente muy avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar vida."
-lead: "Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), significa literalmente los Poderosos o más figurativamente, los que están arriba, los Celestiales. El nombre dado a los dioses bíblicos que a su vez son una civilización científicamente muy avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar vida."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Elohim
+alternatives:
+- Annunaki
+- Celestiales
+- Creadores
+- Dei
+- El
+- Dioses
+- Los Poderosos
+- Los que están en el Cielo
+- Los Teositas
+description: Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), significa literalmente
+  los Poderosos o más figurativamente, los que están arriba, los Celestiales. El nombre
+  dado a los dioses bíblicos que a su vez son una civilización científicamente muy
+  avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar
+  vida.
+lead: Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), significa literalmente los
+  Poderosos o más figurativamente, los que están arriba, los Celestiales. El nombre
+  dado a los dioses bíblicos que a su vez son una civilización científicamente muy
+  avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar
+  vida.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

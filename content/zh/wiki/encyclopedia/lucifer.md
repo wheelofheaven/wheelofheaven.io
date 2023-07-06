@@ -1,15 +1,20 @@
 ---
-title: "路西法"
-alternatives: ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
-description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 路西法
+alternatives:
+- Fallen angel of light
+- Hêlêl ben Šāḥar
+- הֵילֵל בֶּן-שָׁחַר
+description: 路西法（拉丁语为光明使者，或hêlēl，希伯来语：הֵלֵל，意思相同），不要与撒旦混淆，他是一个伊罗哈（אֱלוֹהַּ），也是耶洛因（אֱלֹהִם）中一个支持蓬勃发展的派系的代表。地球上的人类文明。它不是一个专有名词，而是一个隐喻术语，用来形容带来光明的作用。路西法（Lucifer）这个名字和它的闪米特对应词
+  hêlēl 都指晨星金星，它在日出时在太阳之前升起
+lead: 路西法（拉丁语为光明使者，或hêlēl，希伯来语：הֵלֵל，意思相同），不要与撒旦混淆，他是一个伊罗哈（אֱלוֹהַּ），也是耶洛因（אֱלֹהִם）中一个支持蓬勃发展的派系的代表。地球上的人类文明。它不是一个专有名词，而是一个隐喻术语，用来形容带来光明的作用。路西法（Lucifer）这个名字和它的闪米特对应词
+  hêlēl 都指晨星金星，它在日出时在太阳之前升起
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

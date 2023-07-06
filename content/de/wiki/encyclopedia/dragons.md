@@ -1,15 +1,26 @@
 ---
-title: "Drachen"
-alternatives: ["Dinosaurs"]
-description: "Dragons, an extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-lead: "An extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Drachen
+alternatives:
+- Dinosaurs
+description: Drachen, eine ausgestorbene Klasse biologischer Lebensformen, die ursprünglich
+  auf dem elohimischen Heimatplaneten entwickelt wurden und sich durch besonders schreckliche
+  und monströse Eigenschaften auszeichneten. Aufgrund der Schwere eines Vorfalls wurden
+  Forschung und Technik auf den nahegelegenen Exoplaneten Erde verlagert und dort
+  das Leben auf seiner Oberfläche angekurbelt. Diese Drachen sind uns aus der Paläontologie
+  als Dinosaurier bekannt.
+lead: Eine ausgestorbene Klasse biologischer Lebensformen, die ursprünglich auf dem
+  elohimischen Heimatplaneten entwickelt wurden und sich durch besonders schreckliche
+  und monströse Eigenschaften auszeichneten. Aufgrund der Schwere eines Vorfalls wurden
+  die Forschung und Technik auf den nahegelegenen Exoplaneten Erde verlagert und dort
+  das Leben auf seiner Oberfläche angekurbelt. Diese Drachen sind uns aus der Paläontologie
+  als Dinosaurier bekannt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

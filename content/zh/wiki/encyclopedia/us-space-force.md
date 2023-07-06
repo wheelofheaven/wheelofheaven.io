@@ -1,18 +1,20 @@
 ---
-title: "美国太空部队"
-alternatives: ["Space Force"]
-description: "The United States Space Force (USSF), established in December 2019, is the sixth branch of the U.S. Armed Forces. Conceptualized during the Trump administration, it was created due to the increasing strategic importance of space. Trump saw the creation of the USSF as necessary due to the evolving nature of warfare, the reliance of modern military systems on space-based assets, and the growing international competition in space. The USSF, under the Department of the Air Force, is tasked with protecting U.S. interests in space, deterring aggression in or from space, and conducting space operations."
-lead: "The United States Space Force (USSF), established in December 2019, is the sixth branch of the U.S. Armed Forces. Conceptualized during the Trump administration, it was created due to the increasing strategic importance of space. Trump saw the creation of the USSF as necessary due to the evolving nature of warfare, the reliance of modern military systems on space-based assets, and the growing international competition in space. The USSF, under the Department of the Air Force, is tasked with protecting U.S. interests in space, deterring aggression in or from space, and conducting space operations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 美国太空部队
+alternatives:
+- Space Force
+description: 美国太空军（USSF）成立于2019年12月，是美国武装部队的第六个军种。它是在特朗普政府期间提出的，是由于太空的战略重要性日益增加而创建的。由于战争性质的演变、现代军事系统对天基资产的依赖以及日益激烈的国际太空竞争，特朗普认为成立美国空军是必要的。美国空军隶属于空军部，其任务是保护美国在太空的利益、威慑太空中或来自太空的侵略以及开展太空行动。
+lead: 美国太空军（USSF）成立于2019年12月，是美国武装部队的第六个军种。它是在特朗普政府期间提出的，是由于太空的战略重要性日益增加而创建的。由于战争性质的演变、现代军事系统对天基资产的依赖以及日益激烈的国际太空竞争，特朗普认为成立美国空军是必要的。美国空军隶属于空军部，其任务是保护美国在太空的利益、威慑太空中或来自太空的侵略以及开展太空行动。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The United States Space Force (USSF), established on December 20, 2019, represents the sixth branch of the U.S. Armed Forces. Originally proposed by the Trump administration, the Space Force is a distinct and independent military service under the Department of the Air Force, alongside the U.S. Air Force. This article explores the origins, development, and strategic importance of the USSF, highlighting how President Trump perceived the necessity of military capabilities in space.

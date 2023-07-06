@@ -1,14 +1,26 @@
 ---
-title: "Число человека"
-description: "Number of Man, also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo.."
-lead: "Also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Число человека
+description: Число Человека, также известное как Число Зверя или просто по значению,
+  которое оно представляет, 666 (χξϛ), — это число человеческих поколений, которые
+  будут существовать на Земле с момента сотворения первых людей во времена Бытия.
+  Если определено, что поколение продлится 20 лет, произведение Числа Человека составит
+  13 320 лет. Если мы только что вступили в Эпоху Водолея и предположим, что это совпадает
+  с Числом Человека, первое человеческое существо должно было быть создано половину
+  прецессионного цикла назад, то есть в начале Эпохи Льва.
+lead: Также известное как Число Зверя или просто по значению, которое оно представляет,
+  666 (χξϛ) — это число человеческих поколений, которые будут существовать на Земле
+  с момента сотворения первых людей во времена Бытия. Если определено, что поколение
+  продлится 20 лет, произведение Числа Человека составит 13 320 лет. Если мы только
+  что вступили в Эпоху Водолея и предположим, что это совпадает с Числом Человека,
+  первое человеческое существо должно было быть создано половину прецессионного цикла
+  назад, то есть в начале Эпохи Льва.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

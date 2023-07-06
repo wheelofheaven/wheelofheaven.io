@@ -1,15 +1,29 @@
 ---
-title: "Satan"
-alternatives: ["Accuser", "hasSāṭān","Prosecutor", "שָׂטָן"]
-description: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-lead: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Satan
+alternatives:
+- Accuser
+- hasSāṭān
+- Prosecutor
+- שָׂטָן
+description: 'Satan (śāṭān, hebräisch: שָׂטָן), nicht zu verwechseln mit Luzifer,
+  ist ein Eloha (אֱלוֹהַּ) und der Vertreter einer Fraktion innerhalb der Elohim (אֱלֹהִים),
+  die sich der Existenz einer prosperierenden Nachkommenzivilisation auf der Erde
+  widersetzt, die als angesehen wird Bedrohung für ihr entferntes Wohlergehen. Daher
+  ist Satan kein Eigenname, sondern eine bezeichnende Form der Rolle, die Satan ausfüllt,
+  nämlich die eines Behinderten, eines Anklägers oder sogar eines Anklägers.'
+lead: 'Satan (śāṭān, hebräisch: שָׂטָן), nicht zu verwechseln mit Luzifer, ist ein
+  Eloha (אֱלוֹהַּ) und der Vertreter einer Fraktion innerhalb der Elohim (אֱלֹהִים),
+  die sich der Existenz einer prosperierenden Nachkommenzivilisation auf der Erde
+  widersetzt, die als angesehen wird Bedrohung für ihr entferntes Wohlergehen. Daher
+  ist Satan kein Eigenname, sondern eine bezeichnende Form der Rolle, die Satan ausfüllt,
+  nämlich die eines Behinderten, eines Anklägers oder sogar eines Anklägers.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

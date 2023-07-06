@@ -1,18 +1,26 @@
 ---
-title: "Grand Déluge"
-alternatives: ["Great Deluge"]
-description: "Great Flood, also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-lead: "Also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Grand Déluge
+alternatives:
+- Great Deluge
+description: Grande Inondation, également connue sous le nom de Grand Déluge, un événement
+  cataclysmique causé par une mesure militaire préventive qui a été délibérément initiée
+  par le gouvernement en détresse de la lointaine planète d'origine des Elohim qui
+  souhaitait mettre un terme au progrès scientifique indépendant sur Terre.
+lead: Aussi connu sous le nom de Grand Déluge, un événement cataclysmique causé par
+  une mesure militaire préventive qui a été délibérément initiée par le gouvernement
+  en détresse de la lointaine planète d'origine des Elohim qui souhaitait mettre un
+  terme au progrès scientifique indépendant sur Terre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Great Flood is a story that appears in several different religious traditions, including the Bible, and describes a massive flood that covers the entire Earth and destroys all life except for a select few. In the biblical account, the Great Flood is described in the book of Genesis as a punishment from God for the wickedness and corruption of humanity.

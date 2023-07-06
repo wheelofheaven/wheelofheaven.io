@@ -1,14 +1,20 @@
 ---
-title: "Baum des Lebens"
-description: "Tree of Life, a Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-lead: "A Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Baum des Lebens
+description: Baum des Lebens, eine biblische Metapher, die für den wissenschaftlichen
+  Wissensbestand darüber steht, wie die technischen Mittel bereitgestellt werden können,
+  um ewiges Leben zu erlangen. Genauer gesagt, um die Lebenserwartung des Menschen
+  um bis zu 1.000 Jahre zu verlängern, wie es im Zeitalter des Löwen der Fall war.
+lead: Eine biblische Metapher, die für den wissenschaftlichen Wissensbestand darüber
+  steht, wie die technischen Mittel zur Erlangung des ewigen Lebens bereitgestellt
+  werden können. Genauer gesagt, um die Lebenserwartung des Menschen um bis zu 1.000
+  Jahre zu verlängern, wie es im Zeitalter des Löwen der Fall war.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,27 @@
 ---
-title: "Wheel of Heaven"
-description: "Wheel of Heaven, a web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-lead: "A web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Wheel of Heaven
+description: Wheel of Heaven, une base de connaissances en ligne explorant l'hypothèse
+  de travail selon laquelle la vie sur Terre a été intelligemment conçue et conçue
+  par la civilisation extraterrestre dont nous nous souvenons collectivement comme
+  les Elohim. La roue du ciel elle-même est une référence métaphorique à la précession
+  des équinoxes comme étant une roue céleste de constellations qui continue de tourner
+  régulièrement. C'est aussi une référence un peu plus obscure à Akhenaton, un ancien
+  pharaon égyptien qui a décrit un vaisseau spatial en forme de disque comme ressemblant
+  à une roue dans le ciel.
+lead: Une base de connaissances en ligne explorant l'hypothèse de travail selon laquelle
+  la vie sur Terre a été intelligemment conçue et conçue par la civilisation extraterrestre
+  dont nous nous souvenons collectivement sous le nom d'Elohim. La roue du ciel elle-même
+  est une référence métaphorique à la précession des équinoxes comme étant une roue
+  céleste de constellations qui continue de tourner régulièrement. C'est aussi une
+  référence un peu plus obscure à Akhenaton, un ancien pharaon égyptien qui a décrit
+  un vaisseau spatial en forme de disque comme ressemblant à une roue dans le ciel.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

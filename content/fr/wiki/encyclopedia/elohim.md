@@ -1,15 +1,32 @@
 ---
-title: "Élohim"
-alternatives: ["Annunaki", "Célestes", "Créateurs", "Dei", "El", "Dieux", "Les Puissants", "Ceux du Ciel", "Les Théosites"]
-description: "Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement les Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné aux dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée, capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser la vie."
-lead: "Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement les Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné aux dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée, capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser la vie."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Élohim
+alternatives:
+- Annunaki
+- Célestes
+- Créateurs
+- Dei
+- El
+- Dieux
+- Les Puissants
+- Ceux du Ciel
+- Les Théosites
+description: Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement
+  les Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné
+  aux dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée,
+  capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser
+  la vie.
+lead: Elohim (אֱלֹהִים), le pluriel de Eloha (אֱלוֹהַּ), signifie littéralement les
+  Puissants ou plus figurativement, ceux d'en haut, les Célestes. Le nom donné aux
+  dieux bibliques qui sont eux-mêmes une civilisation scientifiquement très avancée,
+  capable de voyager entre les étoiles, de terraformer des planètes et de synthétiser
+  la vie.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

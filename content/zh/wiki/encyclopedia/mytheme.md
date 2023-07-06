@@ -1,14 +1,14 @@
 ---
-title: "神话主题"
-description: "Mytheme, a fundamental unit of mythological narrative structure."
-lead: "A fundamental unit of mythological narrative structure."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 神话主题
+description: 神话主题，神话叙事结构的基本单位。
+lead: 神话叙事结构的基本单位。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

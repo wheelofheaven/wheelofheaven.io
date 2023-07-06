@@ -1,15 +1,16 @@
 ---
-title: "聖書"
-alternatives: ["Tanakh"]
-description: "Bible, a set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."
-lead: "A set of ancient religious scriptures witnessing what has happened so that humanity has proof when the Truth is revealed again during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 聖書
+alternatives:
+- Tanakh
+description: 聖書、黙示録の時代に真実が再び明らかになったときに人類が証拠を得るために何が起こったかを証言する一連の古代の宗教経典。
+lead: 黙示録の時代に真実が再び明らかになったときに人類が証拠を得られるように、何が起こったかを証言する一連の古代の宗教経典。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

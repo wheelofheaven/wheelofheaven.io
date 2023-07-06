@@ -1,15 +1,20 @@
 ---
-title: "Âge du monde"
-alternatives: ["Astrological age"]
-description: "World Age, also known known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-lead: "Also known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Âge du monde
+alternatives:
+- Astrological age
+description: Âge du monde, également connu sous le nom d'âge astrologique, un terme
+  familier pour désigner un grand mois par son nom zodiacal. Par exemple, en ce moment,
+  nous passons de l'ère des Poissons à l'ère du Verseau.
+lead: Aussi connu sous le nom d'âge astrologique, terme familier pour désigner un
+  grand mois par son nom zodiacal. Par exemple, en ce moment, nous passons de l'ère
+  des Poissons à l'ère du Verseau.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

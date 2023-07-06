@@ -1,14 +1,14 @@
 ---
-title: "宗教"
-description: "Religion, a set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-lead: "A set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 宗教
+description: 宗教，一套实践和信仰，培养和教导地球上的人类与耶洛因（我们的祖先和地球上生命的创造者）之间的联系（来自拉丁语 religare，意为“再次联系”）。就像父母和孩子之间的关系是需要培养和尊重的纽带一样，宗教的目的是维持创造者和被创造者之间的联系。一个不努力培养和合理化对创造我们的人的感激纽带的宗教是完全不同的社会文化体系。
+lead: 一套实践和信仰，培养和教导地球上的人类与耶洛因（我们的祖先和地球生命的创造者）之间的联系（来自拉丁语 religare，“再次联系”）。就像父母和孩子之间的关系是需要培养和尊重的纽带一样，宗教的目的是维持创造者和被创造者之间的联系。一个不努力培养和合理化对创造我们的人的感激纽带的宗教是完全不同的社会文化体系。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

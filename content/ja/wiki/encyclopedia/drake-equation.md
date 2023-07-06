@@ -1,14 +1,14 @@
 ---
-title: "ドレイクの方程式"
-description: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-lead: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ドレイクの方程式
+description: ドレイク方程式。居住可能な惑星の割合や生命が誕生する可能性のある惑星の割合など、さまざまな要因の積として地球外知的生命体の確率を表す方程式。この方程式はフランケ・ドレイクにちなんで名付けられ、地球外生命体の存在の可能性を考察するための確率論的思考実験として機能します。
+lead: ドレイク方程式。居住可能な惑星の割合や生命が誕生する可能性のある惑星の割合など、さまざまな要因の積として地球外知的生命体の確率を表す方程式。この方程式はフランケ・ドレイクにちなんで名付けられ、地球外生命体の存在の可能性を考察するための確率論的思考実験として機能します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

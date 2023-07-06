@@ -1,14 +1,18 @@
 ---
-title: "Перевод Библии Дорме"
-description: "Dhorme Bible, a French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966) known for its literal translation style that kept the original meanings intact in the French language."
-lead: "A French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881-1966) known for its literal translation style that kept the original meanings intact in the French language."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Перевод Библии Дорме
+description: Библия Дорме , перевод Библии на французский язык, выполненный французским
+  ассирологом и семитологом Эдуардом Дорме (1881–1966), известным своим буквальным
+  стилем перевода, который сохранил исходные значения во французском языке.
+lead: Французский перевод Библии, выполненный французским ассирологом и семитологом
+  Эдуаром Дормом (1881–1966), известным своим буквальным стилем перевода, который
+  сохранил исходные значения во французском языке.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

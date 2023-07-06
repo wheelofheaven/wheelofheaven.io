@@ -1,17 +1,18 @@
 ---
-title: "黄金时代"
-description: "Golden Age, the moment in time when humanity has reached a level of scientific sophistication and technological prowess to overcome self-destruction, enabling us to usher into an age of abundance and wealth where we learn the Truth about our own past and receive the inheritance promised by our Fathers, the Elohim. This Golden Age may coincide with the entering into the Age of Aquarius and a global Great Awakening of unknown heights."
-lead: "The moment in time when humanity has reached a level of scientific sophistication and technological prowess to overcome self-destruction, enabling us to usher into an age of abundance and wealth where we learn the Truth about our own past and receive the inheritance promised by our Fathers, the Elohim. This Golden Age may coincide with the entering into the Age of Aquarius and a global Great Awakening of unknown heights."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 黄金时代
+description: 黄金时代，人类已经达到科学先进水平和技术实力以克服自我毁灭的时刻，使我们能够进入一个富裕和财富的时代，在那里我们了解我们自己过去的真相并获得承诺的遗产由我们的祖先，耶洛因。这个黄金时代可能与进入水瓶座时代和未知高度的全球大觉醒同时发生。
+lead: 人类达到了克服自我毁灭的科学先进水平和技术实力的时刻，使我们能够进入一个富裕和财富的时代，在那里我们了解我们自己过去的真相，并接受我们的父辈所承诺的遗产，耶洛因。这个黄金时代可能与进入水瓶座时代和未知高度的全球大觉醒同时发生。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The awaited Golden Age is a concept that refers to a future time of peace, prosperity, and happiness, often viewed as a utopian state in which humanity will live in harmony and fulfillment. The idea of a future Golden Age is found in many spiritual and religious traditions, including astrology, where it is sometimes linked to the arrival of the Age of Aquarius.

@@ -1,14 +1,24 @@
 ---
-title: "La Verdad"
-description: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-lead: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: La Verdad
+description: La verdad, la noción especulativa de que cuando suficientes muestras
+  de verdades parciales se desmitifican y compilan adecuadamente, surge una narrativa
+  cohesiva que lo abarca todo y que cuenta las crónicas de cómo la vida en la Tierra
+  fue diseñada por una civilización extraterrestre y de lo que siguió a partir de
+  entonces hasta este mismo día en que esta Verdad será revelada y recontada durante
+  los tiempos del Apocalipsis.
+lead: La verdad, la noción especulativa de que cuando suficientes muestras de verdades
+  parciales se desmitifican y compilan adecuadamente, surge una narrativa cohesiva
+  que lo abarca todo y que cuenta las crónicas de cómo la vida en la Tierra fue diseñada
+  por una civilización extraterrestre y de lo que siguió a partir de entonces hasta
+  este mismo día en que esta Verdad será revelada y recontada durante los tiempos
+  del Apocalipsis.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

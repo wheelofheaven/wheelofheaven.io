@@ -1,14 +1,16 @@
 ---
-title: "ネオ・エウヘメリズム"
-description: "Neo-Euhemerism is a philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-lead: "A philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ネオ・エウヘメリズム
+description: 新ユーヘメリズムは、神々に帰せられる一見超自然的な特徴をその技術的および科学的洗練の結果として解釈することによって、神話、特に神と神聖な存在の性質を歴史的観点から合理化する哲学的試みです。新ユーヘメリズムは、古代の神々を、おそらく地球外起源の宇宙文明と同一視する哲学的パラダイムとして理解できます。したがって、ここで
+  Wheel of Heaven に関して提案された仮説は、確かに新ユーメリズム的前提と同様の DNA を共有しています。
+lead: 神々に帰せられる一見超自然的な特徴をその技術的および科学的洗練の結果として解釈することによって、神話、特に神と神聖な存在の性質を歴史的な観点から合理化する哲学的試み。新ユーヘメリズムは、古代の神々を、おそらく地球外起源の宇宙文明と同一視する哲学的パラダイムとして理解できます。したがって、ここで
+  Wheel of Heaven に関して提案された仮説は、確かに新ユーメリズム的前提と同様の DNA を共有しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

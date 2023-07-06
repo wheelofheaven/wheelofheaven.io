@@ -1,17 +1,18 @@
 ---
-title: "イエス"
-description: "Jesus Christ, a Jewish prophet who existed at the end of the Second Temple period and is the main protagonist of the Gospels. He was tasked with the mission to spread the Biblibal scriptures as far and wide as possible, so that the writings could serve as proof for all of humanity when the Age of Aquarius, the Golden Age would ultimately explain everything as we start to repeat what the Elohim did started themselves in the beginning of Genesis."
-lead: "Jesus Christ, a Jewish prophet who existed at the end of the Second Temple period and is the main protagonist of the Gospels. He was tasked with the mission to spread the Biblibal scriptures as far and wide as possible, so that the writings could serve as proof for all of humanity when the Age of Aquarius, the Golden Age would ultimately explain everything as we start to repeat what the Elohim did started themselves in the beginning of Genesis."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: イエス
+description: イエス・キリストは、第二神殿時代の終わりに存在したユダヤ人の預言者であり、福音書の主人公です。彼は、聖書の経典を可能な限り広く広め、水瓶座の時代、黄金時代が最終的にすべてを説明し、私たちが聖書の経典を繰り返し始めたときに、その書物が全人類の証拠となるようにする使命を負っていました。エロヒムは創世記の初めに自らを始めました。
+lead: イエス・キリストは、第二神殿時代の終わりに存在したユダヤ人の預言者であり、福音書の主人公です。彼は、聖書の経典を可能な限り広く広め、水瓶座の時代、黄金時代が最終的にすべてを説明し、私たちが聖書の経典を繰り返し始めたときに、その文書が全人類の証拠として役立つようにするという使命を与えられました。エロヒムは創世記の初めに自らを始めました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["pisces"]
+timeline:
+- pisces
 ---
 
 Jesus, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity and one of the most important figures in world history. According to Christian belief, Jesus was born in Bethlehem in Judea in the 1st century BC and was crucified in Jerusalem by the Romans around 30 AD.

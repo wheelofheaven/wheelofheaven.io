@@ -1,14 +1,14 @@
 ---
-title: "合成生物学"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 合成生物学
+description: 合成生物学は、生物学、遺伝学、工学の原理を組み合わせて、新しい機能や特性を持つ人工生物学的システム、遺伝子回路、生物を設計および構築する学際的な分野です。これには、遺伝物質の意図的な改変または作成と、生きた細胞が特定のタスクを実行したり、望ましい形質を示したりするようにプログラムするための生物学的コンポーネントの操作が含まれます。合成生物学は、生物学的システムを理解し、再設計することを目的としています。
+lead: 生物学、遺伝学、工学の原理を組み合わせて、新しい機能や特性を持つ人工生物学的システム、遺伝子回路、生物体を設計および構築する学際的な分野。これには、遺伝物質の意図的な改変または作成と、生きた細胞が特定のタスクを実行したり、望ましい形質を示したりするようにプログラムするための生物学的コンポーネントの操作が含まれます。合成生物学は、生物学的システムを理解し、再設計することを目的としています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,17 +1,27 @@
 ---
-title: "Змеиное восстание"
-description: "Serpentine rebellion, the faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. After the Great Flood, an armed confrontation occurred both on Earth and in the surrounding space."
-lead: "The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. After the Great Flood, an armed confrontation occurred both on Earth and in the surrounding space."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Змеиное восстание
+description: Змеиное восстание, фракция, состоящая из изгнанных создателей, которые
+  были изгнаны на Землю и помогли Ною сохранить жизнь, также породила гибридную группу
+  адамитов. Эта фракция восстала против правящего правительства на их родной планете
+  во главе с президентом Совета Вечных Яхве. После Великого потопа как на Земле, так
+  и в окружающем космосе произошло вооруженное противостояние.
+lead: Фракция, состоящая из изгнанных творцов, которые были сосланы на Землю и помогали
+  Ною в сохранении жизни, также породила гибридную группу адамитов. Эта фракция восстала
+  против правящего правительства на их родной планете во главе с президентом Совета
+  Вечных Яхве. После Великого потопа как на Земле, так и в окружающем космосе произошло
+  вооруженное противостояние.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini"]
+timeline:
+- cancer
+- gemini
 ---
 
 ## Sequence of events

@@ -1,14 +1,18 @@
 ---
-title: "Lista de sitios megalíticos"
-description: "List of megalithic sites. An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities." 
-lead: "An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lista de sitios megalíticos
+description: Lista de sitios megalíticos. Una extensa enumeración de sitios megalíticos
+  conocidos que presentan más o menos claramente las huellas dactilares de calidades
+  de construcción arquitectónica avanzada.
+lead: Una extensa enumeración de sitios megalíticos conocidos que presentan más o
+  menos claramente las huellas dactilares de calidades de construcción arquitectónica
+  avanzada.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

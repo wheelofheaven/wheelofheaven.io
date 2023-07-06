@@ -1,14 +1,28 @@
 ---
-title: "Hébreu"
-description: "Hebrew, specifically an ancient predecessor of the Hebrew language, is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-lead: "Specifically an ancient predecessor of the Hebrew language is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Hébreu
+description: L'hébreu, en particulier un ancien prédécesseur de la langue hébraïque,
+  se révèle être la langue officielle parlée de la civilisation élohimienne. En tant
+  que tel, l'hébreu ancien tire ses origines les plus lointaines non pas d'une source
+  anthropique terrestre mais a été héritée directement de nos créateurs, les Elohim
+  comme ils parlaient une ancienne version de l'hébreu que les êtres humains ont adoptée
+  depuis leur création. Alors que l'hébreu moderne ne peut être considéré comme équivalent
+  à la langue élohimienne, la famille des langues sémitiques, en revanche, peut être
+  comprise comme préservant l'héritage.
+lead: Plus précisément, un ancien prédécesseur de la langue hébraïque se révèle être
+  la langue officielle parlée de la civilisation élohimienne. En tant que tel, l'hébreu
+  ancien tire ses origines les plus lointaines non pas d'une source anthropique terrestre
+  mais a été héritée directement de nos créateurs, les Elohim comme ils parlaient
+  une ancienne version de l'hébreu que les êtres humains ont adoptée depuis leur création.
+  Alors que l'hébreu moderne ne peut être considéré comme équivalent à la langue élohimienne,
+  la famille des langues sémitiques, en revanche, peut être comprise comme préservant
+  l'héritage.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,28 @@
 ---
-title: "Tierkreis"
-description: "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-lead: "A band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Tierkreis
+description: Der Tierkreis ist ein Band am Himmel, das von der Sonne durchquert wird
+  und als Ekliptik bezeichnet wird. Innerhalb dieses Bandes gibt es 12 Sternkonstellationen,
+  die jeweils nach einem Tier benannt sind. Der Tierkreis liefert daher die zoologischen
+  Symbole, um den Stand der Sonne am Himmel richtig zu benennen. Im Laufe der Jahre
+  verschiebt sich die relative Position des Tierkreises aufgrund des Phänomens der
+  Präzession entlang der Ekliptik nach Osten. Mit diesem Verständnis kann der Tierkreis
+  als Grundlage für die Benennung von 12 Häusern innerhalb eines langfristigen Zyklus
+  verstanden werden, die jeweils ein bestimmtes Weltzeitalter bezeichnen.
+lead: Ein Band am Himmel, durch das die Sonne hindurchgeht, bekannt als Ekliptik.
+  Innerhalb dieses Bandes gibt es 12 Sternkonstellationen, die jeweils nach einem
+  Tier benannt sind. Der Tierkreis liefert daher die zoologischen Symbole, um den
+  Stand der Sonne am Himmel richtig zu benennen. Im Laufe der Jahre verschiebt sich
+  die relative Position des Tierkreises aufgrund des Phänomens der Präzession entlang
+  der Ekliptik nach Osten. Mit diesem Verständnis kann der Tierkreis als Grundlage
+  für die Benennung von 12 Häusern innerhalb eines langfristigen Zyklus verstanden
+  werden, die jeweils ein bestimmtes Weltzeitalter bezeichnen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

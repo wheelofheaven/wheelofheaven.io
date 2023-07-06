@@ -1,15 +1,16 @@
 ---
-title: "ドラゴン"
-alternatives: ["Dinosaurs"]
-description: "Dragons, an extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-lead: "An extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ドラゴン
+alternatives:
+- Dinosaurs
+description: ドラゴンは、もともとエロヒミアの故郷の惑星で設計された生物生命体の絶滅したクラスであり、特に恐ろしく怪物的な特徴を持っています。事故の重大さの結果として、研究と工学は、近くにある系外惑星である地球に移され、その表面で生命が動き始めました。これらのドラゴンは、古生物学を通じて恐竜として私たちに知られています。
+lead: もともとエロヒミアの故郷の惑星で設計された、特に恐ろしく怪物的な特徴を持つ絶滅した種類の生物生命体。事故の重大さの結果として、研究と工学は、近くにある系外惑星である地球に移され、その表面で生命が動き始めました。これらのドラゴンは、古生物学を通じて恐竜として私たちに知られています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

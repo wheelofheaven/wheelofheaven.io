@@ -1,14 +1,28 @@
 ---
-title: "Infini"
-description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Infini
+description: L'infini, une idée scientifique de premier ordre car elle postule l'étendue
+  très perpétuelle du temps ainsi que de l'espace. Il n'y a pas de centre comme il
+  n'y a ni début ni fin. Deux symboles anciens connus à travers le monde et les âges
+  témoignent de cette sagesse ancienne que nous ont donnée les Elohim, à savoir la
+  Croix gammée représentant la nature cyclique du temps et de l'intemporalité, et
+  le Magen David représentant à son tour que ce qui est en haut est en bas, signifiant
+  le chemin l'espace s'étend à des niveaux macroscopiques plus grands est le même
+  que la façon dont l'espace à l'intérieur des niveaux microscopiques se replie.
+lead: Une perspicacité scientifique de premier ordre car elle postule l'étendue très
+  perpétuelle du temps aussi bien que de l'espace. Il n'y a pas de centre comme il
+  n'y a ni début ni fin. Deux symboles anciens connus à travers le monde et les âges
+  témoignent de cette sagesse ancienne que nous ont donnée les Elohim, à savoir la
+  Croix gammée représentant la nature cyclique du temps et de l'intemporalité, et
+  le Magen David représentant à son tour que ce qui est en haut est en bas, signifiant
+  le chemin l'espace s'étend à des niveaux macroscopiques plus grands est le même
+  que la façon dont l'espace à l'intérieur des niveaux microscopiques se replie.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

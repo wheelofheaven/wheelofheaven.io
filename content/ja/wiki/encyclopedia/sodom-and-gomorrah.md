@@ -1,18 +1,20 @@
 ---
-title: "ソドムとゴモラ"
-alternatives: ["Cities of the Plain"]
-description: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-lead: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ソドムとゴモラ
+alternatives:
+- Cities of the Plain
+description: ソドムとゴモラ、レバントの 2 つの都市は、組織化され強力になった執念深い地球の派閥に対してエロヒミア文明が始めた先制攻撃として核兵器によって破壊されました。死海はおそらくこれらの核爆発の産物であり、その後に起こった余波を今も証言しています。
+lead: ソドムとゴモラ、レバントの 2 つの都市は、組織化され強力になった執念深い地球の派閥に対してエロヒミア文明が始めた先制攻撃として核兵器によって破壊されました。死海はおそらくこれらの核爆発の産物であり、その後に起こった余波を今も証言しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus"]
+timeline:
+- taurus
 ---
 
 The biblical story of Sodom and Gomorrah is a story from the Book of Genesis in the Old Testament. It is about two cities, Sodom and Gomorrah, that were said to have been located in the region of the Dead Sea.

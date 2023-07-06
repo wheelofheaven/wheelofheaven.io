@@ -1,14 +1,23 @@
 ---
-title: "Ingeniería de la vida"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ingeniería de la vida
+description: La ingeniería de la vida se refiere a la aplicación de enfoques científicos
+  y tecnológicos para diseñar y construir intencionalmente organismos vivos artificiales
+  o sistemas biológicos con funciones, características o capacidades novedosas. Implica
+  la manipulación deliberada de material genético y el ensamblaje de componentes biológicos
+  para provocar la aparición de formas de vida completamente nuevas que no existen
+  en la naturaleza.
+lead: Se refiere a la aplicación de enfoques científicos y tecnológicos para diseñar
+  y construir intencionalmente organismos vivos artificiales o sistemas biológicos
+  con funciones, características o capacidades novedosas. Implica la manipulación
+  deliberada de material genético y el ensamblaje de componentes biológicos para provocar
+  la aparición de formas de vida completamente nuevas que no existen en la naturaleza.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,15 +1,22 @@
 ---
-title: "Ciberparadismo"
-alternatives: ["Ciber Paraíso", "Ciber Génesis", "Neogénesis"]
-description: "El Ciberparadismo es una estética que fusiona la tecnología avanzada con la naturaleza paradisíaca, visualizando un futuro donde el progreso humano y la armonía ambiental coexisten de manera sostenible."
-lead: "El Ciberparadismo es una estética que fusiona la tecnología avanzada con la naturaleza paradisíaca, visualizando un futuro donde el progreso humano y la armonía ambiental coexisten de manera sostenible."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ciberparadismo
+alternatives:
+- Ciber Paraíso
+- Ciber Génesis
+- Neogénesis
+description: El Ciberparadismo es una estética que fusiona la tecnología avanzada
+  con la naturaleza paradisíaca, visualizando un futuro donde el progreso humano y
+  la armonía ambiental coexisten de manera sostenible.
+lead: El Ciberparadismo es una estética que fusiona la tecnología avanzada con la
+  naturaleza paradisíaca, visualizando un futuro donde el progreso humano y la armonía
+  ambiental coexisten de manera sostenible.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

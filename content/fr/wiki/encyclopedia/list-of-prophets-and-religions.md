@@ -1,14 +1,25 @@
 ---
-title: "Liste de prophètes et de religions"
-description: "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-lead: "A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Liste de prophètes et de religions
+description: Liste des prophètes et des religions. Beaucoup de religions, mais pas
+  tout à fait, sont considérées comme des témoignages établis d'interactions authentiques
+  entre les Elohim (אֱלֹהִים) et les humains sur Terre. Ces interactions conduisent
+  à des écrits religieux et à des traditions orales qui témoignent des faits et gestes
+  élohimiens. Cette liste va cataloguer de manière exhaustive dans une large mesure
+  la majorité des traditions religieuses notables ainsi que les prophètes qui conduisent
+  à de telles traditions.
+lead: Beaucoup de religions, mais pas tout à fait, sont considérées comme des témoignages
+  établis d'interactions authentiques entre les Elohim (אֱלֹהִים) et les humains sur
+  Terre. Ces interactions conduisent à des écrits religieux et à des traditions orales
+  qui témoignent des faits et gestes élohimiens. Cette liste va cataloguer de manière
+  exhaustive dans une large mesure la majorité des traditions religieuses notables
+  ainsi que les prophètes qui conduisent à de telles traditions.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

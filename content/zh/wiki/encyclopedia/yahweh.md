@@ -1,15 +1,24 @@
 ---
-title: "耶和华"
-alternatives: ["Alpha and Omega", "ʿElyōn", "ʾĒl ʿElyōn", "עֶלְיוֹן","The Eternal", "The First and the Last", "YHWH", "יהוה", "𐤉𐤄𐤅𐤄"]
-description: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-lead: "Yahweh (יהוה), also known as the First and the Last (Alpha and Omega) is an Eloha (אֱלוֹהַּ) and the lead representative of the Elohim (אֱלֹהִים) as a whole. He is an Eternal in the sense that he has already inhabited multiple bodies (a Elohimian technique to live forever) and therefore member of the Council of Eternals acting as their head of Council. In Biblical scriptures, Yahweh is identifed as the Godhead and is also interchangeably equated with the civilization he's representing, the Elohim. Yahweh was also the Eloha that Raël met on multiple occassions, as did all the prophets that came before him."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 耶和华
+alternatives:
+- Alpha and Omega
+- ʿElyōn
+- ʾĒl ʿElyōn
+- עֶלְיוֹן
+- The Eternal
+- The First and the Last
+- YHWH
+- יהוה
+- 𐤉𐤄𐤅𐤄
+description: 雅威（Yahweh），也被称为最初的和最后的（阿拉法和欧米伽），是一个伊罗哈（אֱלוֹהַּ），也是整个伊罗兴（אֱלֹהִם）的主要代表。他是一个永恒者，因为他已经居住在多个身体中（一种埃洛希米亚的永生技术），因此他是永恒者委员会的成员，担任他们的委员会主席。在圣经经文中，耶和华被认为是神，也可以与他所代表的文明埃洛希姆互换使用。耶和华也是雷尔多次见到的伊罗哈，就像他之前的所有先知一样。
+lead: 雅威（Yahweh），也被称为最初的和最后的（阿拉法和欧米伽），是一个伊罗哈（אֱלוֹהַּ），也是整个伊罗兴（אֱלֹהִם）的主要代表。他是一个永恒者，因为他已经居住在多个身体中（一种埃洛希米亚的永生技术），因此他是永恒者委员会的成员，担任他们的委员会主席。在圣经经文中，耶和华被认为是神，也可以与他所代表的文明埃洛希姆互换使用。耶和华也是雷尔多次见到的伊罗哈，就像他之前的所有先知一样。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

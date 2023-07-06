@@ -1,18 +1,39 @@
 ---
-title: "Anciens Bâtisseurs"
-alternatives: ["Builder race", "Megalithic builders"]
-description: "Ancient Builders, sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-lead: "Sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Anciens Bâtisseurs
+alternatives:
+- Builder race
+- Megalithic builders
+description: Les anciens constructeurs, parfois aussi simplement appelés la race des
+  constructeurs, la proposition selon laquelle un nombre inconnu de civilisations
+  de constructeurs coexistantes ou successives sont responsables d'avoir construit
+  des structures architecturales durables et hyper-résilientes qui ont duré au moins
+  des milliers d'années . Bien que ces structures puissent ou non avoir été construites
+  par la même civilisation, elles peuvent être caractérisées comme ayant été construites
+  par d'anciens constructeurs par un certain nombre d'empreintes digitales particulières
+  telles que des éléments de construction mégalithiques, l'imbrication polygonale
+  de ces éléments et des alignements astronomiques.
+lead: Parfois également appelée simplement la race des constructeurs, la proposition
+  selon laquelle un nombre inconnu de civilisations de constructeurs coexistantes
+  ou successives sont responsables d'avoir construit des structures architecturales
+  durables et hyper-résilientes qui ont duré au moins des milliers d'années. Bien
+  que ces structures puissent ou non avoir été construites par la même civilisation,
+  elles peuvent être caractérisées comme ayant été construites par d'anciens constructeurs
+  par un certain nombre d'empreintes digitales particulières telles que des éléments
+  de construction mégalithiques, l'imbrication polygonale de ces éléments et des alignements
+  astronomiques.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo", "cancer", "gemini"]
+timeline:
+- leo
+- cancer
+- gemini
 ---
 
 Ancient Builders typically refers to the architects, engineers, and skilled workers who created structures, such as buildings, temples, pyramids, and other monumental structures, in ancient civilizations. These ancient builders used a variety of materials and techniques, depending on the resources and technological abilities available to them. They often incorporated elements of sacred geometry, religious beliefs, and cultural symbols into their structures, which were sometimes used for religious or political purposes.

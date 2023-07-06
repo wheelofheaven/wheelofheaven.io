@@ -1,14 +1,23 @@
 ---
-title: "Archéoastronomie"
-description: "Archaeoastronomy, a scientific displine of understanding the anthropological past through the lense of astronomy and how the heritage of past cultures had been codified with astronomical observations. More specifically, the discipline is representative of an important body of research that is unveiling the extends to which knowledge and transmission thereof has been ever since the beginning of civilization making."
-lead: "A scientific displine of understanding the anthropological past through the lense of astronomy and how the heritage of past cultures had been codified with astronomical observations. More specifically, the discipline is representative of an important body of research that is unveiling the extends to which knowledge and transmission thereof has been ever since the beginning of civilization making."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Archéoastronomie
+description: L'archéoastronomie, une discipline scientifique pour comprendre le passé
+  anthropologique à travers le prisme de l'astronomie et comment l'héritage des cultures
+  passées a été codifié avec des observations astronomiques. Plus précisément, la
+  discipline est représentative d'un important corpus de recherches qui dévoile l'étendue
+  des connaissances et de leur transmission depuis le début de la fabrication de la
+  civilisation.
+lead: Une discipline scientifique pour comprendre le passé anthropologique à travers
+  le prisme de l'astronomie et comment l'héritage des cultures passées a été codifié
+  avec des observations astronomiques. Plus précisément, la discipline est représentative
+  d'un ensemble important de recherches qui dévoilent l'étendue des connaissances
+  et de leur transmission depuis le début de la fabrication de la civilisation.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

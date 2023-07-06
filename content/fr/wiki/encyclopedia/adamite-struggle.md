@@ -1,17 +1,38 @@
 ---
-title: "Lutte adamite"
-description: "The Adamite Struggle pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-lead: "Pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lutte adamite
+description: La lutte adamite se rapporte au récit plus large du voyage de l'humanité
+  vers l'autonomie, mais se concentre spécifiquement sur les expériences des Adamites,
+  une communauté humaine unique qui a pris naissance dans le jardin d'Eden. Cette
+  communauté, grâce à des liaisons avec une faction rebelle Elohim connue sous le
+  nom de Serpent, a produit une progéniture hybride. Ces descendants se sont intégrés
+  à la communauté adamite, créant un groupe unifié mais distinct composé d'Adamites
+  hybrides et non hybrides, qui luttaient collectivement pour l'émancipation intellectuelle
+  et politique de leurs créateurs, les Elohim, naviguant à travers les étapes de l'illumination,
+  de la rébellion et de la rétribution tout en persévérant dans leur quête de reconnaissance
+  et d'indépendance.
+lead: Se rapporte au récit plus large du voyage de l'humanité vers l'autonomie, mais
+  se concentre spécifiquement sur les expériences des Adamites, une communauté humaine
+  unique qui a pris naissance dans le jardin d'Eden. Cette communauté, grâce à des
+  liaisons avec une faction rebelle Elohim connue sous le nom de Serpent, a produit
+  une progéniture hybride. Ces descendants se sont intégrés à la communauté adamite,
+  créant un groupe unifié mais distinct composé d'Adamites hybrides et non hybrides,
+  qui luttaient collectivement pour l'émancipation intellectuelle et politique de
+  leurs créateurs, les Elohim, naviguant à travers les étapes de l'illumination, de
+  la rébellion et de la rétribution tout en persévérant dans leur quête de reconnaissance
+  et d'indépendance.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini", "taurus"]
+timeline:
+- cancer
+- gemini
+- taurus
 ---
 
 ## Sequence of events

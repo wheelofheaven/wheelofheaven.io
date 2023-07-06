@@ -1,17 +1,18 @@
 ---
-title: "诺亚契约"
-description: "Noahic covenant is a promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-lead: "A promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 诺亚契约
+description: 诺亚之约是耶洛因在大洪水之后做出的承诺，大洪水几乎消灭了地球上所有的生命，并且永远不会让这种情况再次发生。大洪水是由反对耶洛因政府发起的一项预防措施所造成的影响，该措施旨在终止地球人类所采取的所有科学进步，该措施被认为过于危险。在被放逐的耶洛因派的帮助下，诺亚和其他人设法通过存储所有陆地物种的遗传源材料来保护生命，这些遗传源材料被保存在绕轨道飞行器方舟上。
+lead: 耶洛因在大洪水消灭了地球上几乎所有生命之后做出的承诺，永远不会让这种情况再次发生。大洪水是由反对耶洛因政府发起的一项预防措施所造成的影响，该措施旨在结束地球人类所采取的所有科学进步，该措施被认为过于危险。在被放逐的耶洛因派的帮助下，诺亚和其他人设法通过存储所有陆地物种的遗传源材料来保护生命，这些遗传源材料在轨道航天器方舟上受到保护。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## Etymology

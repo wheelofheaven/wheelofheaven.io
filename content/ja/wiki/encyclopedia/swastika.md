@@ -1,15 +1,25 @@
 ---
-title: "スワスティカ"
-alternatives: ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
-description: "Swastika, a religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-lead: "A religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: スワスティカ
+alternatives:
+- Arevakhach
+- Borjgali
+- Eternity sign
+- Fylfot
+- Lauburu
+- Mursunsydän
+- Sun cross
+- Ugunskrusts
+description: 卍は、今日に至るまで多くの古代文化で示されている宗教的および文化的シンボルです。通常、幸福、幸運、および同様の前向きな意味合いの概念と関連付けられていますが、ラエリ主義では、時間の周期的な自然と時間の永遠の連続性
+  (無限) を同時に表すと考えられています。
+lead: まさに今日に至るまで、多くの古代文化で示されている宗教的および文化的シンボル。通常、幸福、幸運、および同様の前向きな意味合いの概念と関連付けられていますが、ラエリ主義では、時間の周期的な自然と時間の永遠の連続性
+  (無限) を同時に表すと考えられています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

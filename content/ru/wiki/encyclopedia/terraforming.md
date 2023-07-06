@@ -1,14 +1,20 @@
 ---
-title: "Терраформирование"
-description: "Terraforming, the notion of altering constitutional features of an exoplanet such as the atmosphere or the surface of said planet in order to make it possible for a humanoid species to live on it. Terraforming is the technique that has been applied by the Elohim in tje beginning of their Genesis project of making the planet Earth habitable."
-lead: "The notion of altering constitutional features of an exoplanet such as the atmosphere or the surface of said planet in order to make it possible for a humanoid species to live on it. Terraforming is the technique that has been applied by the Elohim in tje beginning of their Genesis project of making the planet Earth habitable."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Терраформирование
+description: Терраформирование , понятие изменения конституционных характеристик экзопланеты,
+  таких как атмосфера или поверхность указанной планеты, чтобы сделать возможным проживание
+  на ней гуманоидных видов. Терраформирование — это метод, который был применен Элохимами
+  в начале их проекта Бытия по превращению планеты Земля в обитаемую.
+lead: Понятие изменения конституционных особенностей экзопланеты, таких как атмосфера
+  или поверхность указанной планеты, чтобы сделать возможным проживание на ней гуманоидных
+  видов. Терраформирование — это метод, который был применен Элохимами в начале их
+  проекта Бытия по превращению планеты Земля в обитаемую.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

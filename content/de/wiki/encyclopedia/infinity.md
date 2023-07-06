@@ -1,14 +1,30 @@
 ---
-title: "Unendlichkeit"
-description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Unendlichkeit
+description: Unendlichkeit, eine wissenschaftliche Erkenntnis auf höchstem Niveau,
+  da sie die ewige Ausdehnung von Zeit und Raum postuliert. Es gibt kein Zentrum,
+  da es weder Anfang noch Ende gibt. Zwei alte Symbole, die in der ganzen Welt und
+  seit Jahrhunderten bekannt sind, zeugen von dieser alten Weisheit, die uns die Elohim
+  gegeben haben, nämlich das Hakenkreuz, das die zyklische Natur von Zeit und Zeitlosigkeit
+  darstellt, und Magen David, der seinerseits dafür steht, dass das, was oben ist,
+  unten ist, was den Weg bedeutet Die Ausdehnung des Raums auf größere makroskopische
+  Ebenen erfolgt auf die gleiche Art und Weise, wie sich der Raum innerhalb der mikroskopischen
+  Ebenen verkleinert.
+lead: Eine wissenschaftliche Erkenntnis auf höchstem Niveau, da sie die ewige Ausdehnung
+  von Zeit und Raum postuliert. Es gibt kein Zentrum, da es weder Anfang noch Ende
+  gibt. Zwei alte Symbole, die in der ganzen Welt und seit Jahrhunderten bekannt sind,
+  zeugen von dieser alten Weisheit, die uns die Elohim gegeben haben, nämlich das
+  Hakenkreuz, das die zyklische Natur von Zeit und Zeitlosigkeit darstellt, und Magen
+  David, der seinerseits dafür steht, dass das, was oben ist, unten ist, was den Weg
+  bedeutet Die Ausdehnung des Raums auf größere makroskopische Ebenen erfolgt auf
+  die gleiche Art und Weise, wie sich der Raum innerhalb der mikroskopischen Ebenen
+  verkleinert.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

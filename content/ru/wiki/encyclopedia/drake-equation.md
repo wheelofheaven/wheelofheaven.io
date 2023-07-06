@@ -1,14 +1,22 @@
 ---
-title: "Уравнение Дрейка"
-description: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-lead: "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Уравнение Дрейка
+description: Уравнение Дрейка , уравнение, выражающее вероятность разумной внеземной
+  жизни как произведение различных факторов, таких как доля планет, которые могут
+  быть пригодны для жизни, или доля планет, на которых может возникнуть жизнь. Уравнение
+  названо в честь Франке Дрейка и служит вероятностным мысленным экспериментом для
+  рассмотрения возможного существования внеземной жизни.
+lead: Уравнение Дрейка , уравнение, выражающее вероятность разумной внеземной жизни
+  как произведение различных факторов, таких как доля планет, которые могут быть пригодны
+  для жизни, или доля планет, на которых может возникнуть жизнь. Уравнение названо
+  в честь Франке Дрейка и служит вероятностным мысленным экспериментом для рассмотрения
+  возможного существования внеземной жизни.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

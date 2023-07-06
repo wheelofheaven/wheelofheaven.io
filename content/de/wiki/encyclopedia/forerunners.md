@@ -1,15 +1,30 @@
 ---
-title: "Vorläufer"
-alternatives: ["Forerunners"]
-description: "The Forerunners were an extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-lead: "An extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Vorläufer
+alternatives:
+- Forerunners
+description: Die Vorläufer waren eine außerordentlich fortschrittliche außerirdische
+  Zivilisation, von der angenommen wurde, dass sie die Elohim erschaffen haben, eine
+  humanoide Rasse, die selbst zu Schöpfern wurde und schließlich das Leben auf der
+  Erde gentechnisch veränderte. Die wahre Natur und Identität der Vorläufer bleiben
+  größtenteils ein Rätsel, da sie scheinbar verschwanden, bevor die Elohim ihnen physisch
+  begegnen oder direkt von ihnen lernen konnten. Ihr Vermächtnis bleibt jedoch in
+  Form ihres umfangreichen wissenschaftlichen Wissens bestehen, das erhalten blieb
+  und eines Tages an die Menschheit weitergegeben werden könnte.
+lead: Es wird angenommen, dass eine außergewöhnlich fortschrittliche außerirdische
+  Zivilisation die Elohim erschaffen hat, eine humanoide Rasse, die selbst zu Schöpfern
+  wurde und schließlich das Leben auf der Erde gentechnisch veränderte. Die wahre
+  Natur und Identität der Vorläufer bleiben größtenteils ein Rätsel, da sie scheinbar
+  verschwanden, bevor die Elohim ihnen physisch begegnen oder direkt von ihnen lernen
+  konnten. Ihr Vermächtnis bleibt jedoch in Form ihres umfangreichen wissenschaftlichen
+  Wissens bestehen, das erhalten blieb und eines Tages an die Menschheit weitergegeben
+  werden könnte.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

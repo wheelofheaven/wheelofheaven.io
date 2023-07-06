@@ -1,14 +1,20 @@
 ---
-title: "Lista de mitos y motivos mitológicos"
-description: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-lead: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lista de mitos y motivos mitológicos
+description: Relación de mitemas y motivos mitológicos. Mediante la exploración de
+  las premisas presentadas por Wheel of Heaven, hay una serie de mitemas y motivos
+  mitológicos que se pueden leer a través de la interpretación de la hipótesis de
+  trabajo. Esta lista va a catalogar la mayoría de estos motivos.
+lead: Relación de mitemas y motivos mitológicos. Mediante la exploración de las premisas
+  presentadas por Wheel of Heaven, hay una serie de mitemas y motivos mitológicos
+  que se pueden leer a través de la interpretación de la hipótesis de trabajo. Esta
+  lista va a catalogar la mayoría de estos motivos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

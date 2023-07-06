@@ -1,17 +1,39 @@
 ---
-title: "Adamitischer Existenzkampf"
-description: "The Adamite Struggle pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-lead: "Pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Adamitischer Existenzkampf
+description: Der Kampf der Adamiten bezieht sich auf die umfassendere Erzählung der
+  Reise der Menschheit zur Autonomie, konzentriert sich jedoch insbesondere auf die
+  Erfahrungen der Adamiten, einer einzigartigen menschlichen Gemeinschaft, die ihren
+  Ursprung im Garten Eden hat. Diese Gemeinschaft brachte durch Verbindungen mit einer
+  rebellischen Elohim-Fraktion, bekannt als die Schlange, hybride Nachkommen hervor.
+  Diese Nachkommen integrierten sich in die Gemeinschaft der Adamiten und bildeten
+  eine einheitliche, aber eigenständige Gruppe bestehend aus hybriden und nicht-hybriden
+  Adamiten, die gemeinsam nach intellektueller und politischer Emanzipation von ihren
+  Schöpfern, den Elohim, strebten und dabei Phasen der Erleuchtung, Rebellion und
+  Vergeltung durchliefen Sie setzen ihr Streben nach Anerkennung und Unabhängigkeit
+  fort.
+lead: Bezieht sich auf die umfassendere Erzählung der Reise der Menschheit zur Autonomie,
+  konzentriert sich jedoch insbesondere auf die Erfahrungen der Adamiten, einer einzigartigen
+  menschlichen Gemeinschaft, die ihren Ursprung im Garten Eden hat. Diese Gemeinschaft
+  brachte durch Verbindungen mit einer rebellischen Elohim-Fraktion, bekannt als die
+  Schlange, hybride Nachkommen hervor. Diese Nachkommen integrierten sich in die Gemeinschaft
+  der Adamiten und bildeten eine einheitliche, aber eigenständige Gruppe bestehend
+  aus hybriden und nicht-hybriden Adamiten, die gemeinsam nach intellektueller und
+  politischer Emanzipation von ihren Schöpfern, den Elohim, strebten und dabei Phasen
+  der Erleuchtung, Rebellion und Vergeltung durchliefen Sie setzen ihr Streben nach
+  Anerkennung und Unabhängigkeit fort.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini", "taurus"]
+timeline:
+- cancer
+- gemini
+- taurus
 ---
 
 ## Sequence of events

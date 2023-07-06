@@ -1,18 +1,20 @@
 ---
-title: "大洪水"
-alternatives: ["Great Deluge"]
-description: "Great Flood, also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-lead: "Also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 大洪水
+alternatives:
+- Great Deluge
+description: 大洪水，也称为大洪水，是由预防性军事措施引起的灾难性事件，该措施是由耶洛因遥远的家乡星球上陷入困境的政府故意发起的，他们希望结束地球上独立的科学进步。
+lead: 也被称为大洪水，这是由预防性军事措施引起的灾难性事件，该措施是由耶洛因遥远的家乡星球上陷入困境的政府故意发起的，他们希望结束地球上独立的科学进步。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Great Flood is a story that appears in several different religious traditions, including the Bible, and describes a massive flood that covers the entire Earth and destroys all life except for a select few. In the biblical account, the Great Flood is described in the book of Genesis as a punishment from God for the wickedness and corruption of humanity.

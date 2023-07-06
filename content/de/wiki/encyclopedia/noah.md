@@ -1,17 +1,22 @@
 ---
-title: "Noah"
-description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Noah
+description: Noah, ein biblischer Patriarch, der in vorsintflutlicher Zeit geboren
+  wurde. Er wurde für die Teilnahme an einem gigantischen Naturschutzprojekt nominiert,
+  das das Leben auf der Erde vor der drohenden Katastrophe schützen soll.
+lead: Ein biblischer Patriarch, der in vorsintflutlicher Zeit geboren wurde. Er wurde
+  für die Teilnahme an einem gigantischen Naturschutzprojekt nominiert, das das Leben
+  auf der Erde vor der drohenden Katastrophe schützen soll.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## In Raëlism 🔯

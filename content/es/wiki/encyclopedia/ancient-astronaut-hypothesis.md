@@ -1,15 +1,30 @@
 ---
-title: "Hipótesis del astronauta antiguo"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Hipótesis del astronauta antiguo
+alernatives:
+- Ancient aliens
+description: Hipótesis de los antiguos astronautas, también conocidos como alienígenas
+  ancestrales, la idea de que seres extraterrestres visitaron la Tierra en el pasado
+  e influyeron en las culturas y civilizaciones antiguas. Esta hipótesis sugiere que
+  muchas estructuras y artefactos antiguos, como pirámides y objetos sagrados como
+  el Arca del Pacto, fueron creados con la ayuda de seres extraterrestres y tenían
+  la intención de transmitir mensajes sobre la naturaleza del universo y nuestro lugar
+  dentro de él. Los defensores de la hipótesis también apuntan a leyendas, mitos y
+  textos religiosos de varias culturas que describen encuentros con seres de las estrellas.
+lead: También conocidos como alienígenas antiguos, la idea de que los seres extraterrestres
+  visitaron la Tierra en el pasado e influyeron en las culturas y civilizaciones antiguas.
+  Esta hipótesis sugiere que muchas estructuras y artefactos antiguos, como pirámides
+  y objetos sagrados como el Arca del Pacto, fueron creados con la ayuda de seres
+  extraterrestres y tenían la intención de transmitir mensajes sobre la naturaleza
+  del universo y nuestro lugar dentro de él. Los defensores de la hipótesis también
+  apuntan a leyendas, mitos y textos religiosos de varias culturas que describen encuentros
+  con seres de las estrellas.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

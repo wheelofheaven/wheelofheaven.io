@@ -1,14 +1,23 @@
 ---
-title: "Rat der Ewigen"
-description: "Council of Eternals, also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-lead: "Also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members, all Elohim individuals, who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Rat der Ewigen
+description: Der Rat der Ewigen, auch Großer Rat der Ewigen, ist ein Leitungsgremium
+  der elohimischen Zivilisation. Sie besteht aus 700 Mitgliedern, die alle für immer
+  auf einem eigenen, von ihrem Heimatplaneten getrennten Planeten leben. Auf genau
+  dieses Leitungsgremium wird in mehreren Religionen Bezug genommen, insbesondere
+  in den biblischen Schriften, und es greift immer noch in irdische Angelegenheiten
+  ein.
+lead: Auch der Große Rat der Ewigen ist ein Leitungsgremium der elohimischen Zivilisation.
+  Sie besteht aus 700 Mitgliedern, allesamt Elohim-Individuen, die alle ewig auf einem
+  eigenen, von ihrem Heimatplaneten getrennten Planeten leben. Auf genau dieses Leitungsgremium
+  wird in mehreren Religionen Bezug genommen, insbesondere in den biblischen Schriften,
+  und es greift immer noch in irdische Angelegenheiten ein.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

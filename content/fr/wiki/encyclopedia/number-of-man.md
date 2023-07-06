@@ -1,14 +1,26 @@
 ---
-title: "Nombre de l'Homme"
-description: "Number of Man, also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo.."
-lead: "Also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Nombre de l'Homme
+description: Le Nombre d'Homme, aussi appelé Nombre de la Bête ou simplement par la
+  valeur qu'il représente, 666 (χξϛ), est le nombre de générations humaines qui auront
+  existé sur Terre depuis la création des premiers hommes lors de la Genèse. Si une
+  génération est définie pour durer 20 ans, le produit du Nombre d'Hommes s'élève
+  à 13'320 ans. Si nous venons d'entrer dans l'ère du Verseau et que nous supposons
+  que cela coïncide avec le nombre d'hommes, le premier être humain doit avoir été
+  créé il y a un demi-cycle précessionnel, ce qui serait au début de l'ère du Lion.
+lead: Aussi connu sous le nom de Nombre de la Bête ou simplement par la valeur qu'il
+  représente, 666 (χξϛ), est le nombre de générations humaines qui auront existé sur
+  Terre depuis la création des premiers hommes lors de la Genèse. Si une génération
+  est définie pour durer 20 ans, le produit du Nombre d'Hommes s'élève à 13'320 ans.
+  Si nous venons d'entrer dans l'ère du Verseau et que nous supposons que cela coïncide
+  avec le nombre d'hommes, le premier être humain doit avoir été créé il y a un demi-cycle
+  précessionnel, ce qui serait au début de l'ère du Lion.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

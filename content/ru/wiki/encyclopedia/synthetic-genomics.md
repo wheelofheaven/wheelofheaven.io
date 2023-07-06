@@ -1,14 +1,30 @@
 ---
-title: "Синтетическая геномика"
-description: "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-lead: "A branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Синтетическая геномика
+description: Синтетическая геномика — это отрасль генной инженерии, которая фокусируется
+  на дизайне, сборке и синтезе полных геномов или больших сегментов геномов. Он включает
+  в себя создание искусственных последовательностей ДНК, которые имитируют существующие
+  природные геномы или отличаются от них. Синтетическая геномика направлена на создание
+  генетического материала, такого как синтетические хромосомы или целые синтетические
+  геномы, для изучения фундаментальных биологических процессов, понимания минимального
+  набора генов, необходимого для жизни, и потенциального создания организмов с измененными
+  или новыми характеристиками. Он включает в себя создание искусственного генетического
+  материала для изучения генетической основы жизни и управления ею.
+lead: Раздел генной инженерии, занимающийся проектированием, сборкой и синтезом полных
+  геномов или больших сегментов геномов. Он включает в себя создание искусственных
+  последовательностей ДНК, которые имитируют существующие природные геномы или отличаются
+  от них. Синтетическая геномика направлена на создание генетического материала, такого
+  как синтетические хромосомы или целые синтетические геномы, для изучения фундаментальных
+  биологических процессов, понимания минимального набора генов, необходимого для жизни,
+  и потенциального создания организмов с измененными или новыми характеристиками.
+  Он включает в себя создание искусственного генетического материала для изучения
+  генетической основы жизни и управления ею.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

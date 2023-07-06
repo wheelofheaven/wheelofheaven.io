@@ -1,17 +1,18 @@
 ---
-title: "ノアの契約"
-description: "Noahic covenant is a promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-lead: "A promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ノアの契約
+description: ノアヒの契約は、地球上のほぼすべての生命を絶滅させた大洪水の直後にエロヒムが交わした、二度と同じことを起こさないという約束です。大洪水は、危険すぎると考えられた地上人類による科学の進歩をすべて終わらせるために、敵対するエロヒム政府が始めた予防策によって引き起こされた影響でした。エロヒムの追放された一派の助けを借りて、ノアと他の人々は、軌道を周回する宇宙船である箱舟に安全に保管されたすべての地球上の種の遺伝的起源物質を保管することで生命を維持することができました。
+lead: 地球上のほぼすべての生命を絶滅させた大洪水の直後にエロヒムが交わした、二度と同じことを起こさないという約束。大洪水は、危険すぎると考えられた地上人類による科学の進歩をすべて終わらせるために、敵対するエロヒム政府が始めた予防策によって引き起こされた影響でした。エロヒムの追放された一派の助けを借りて、ノアと他の人々は、軌道を周回する宇宙船である箱舟に安全に保管されたすべての地球上の種の遺伝的起源物質を保管することで生命を維持することができました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## Etymology

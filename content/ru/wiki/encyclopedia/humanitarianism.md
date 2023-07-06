@@ -1,14 +1,24 @@
 ---
-title: "Гуманизм"
-description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Гуманизм
+description: Гуманитаризм , предлагаемая социально-экономическая доктрина, выдвинутая
+  Яхве как часть Новых Заповедей, которая фокусируется на сохранении будущего человечества
+  путем реализации определенного вида равенства возможностей. В конечном счете, приносящие
+  пользу таланту и доблести, отмена наследования и заключение ограниченных по времени
+  договоров о праве собственности Юбилеев. Гуманитаризм в более общем смысле — это
+  учение о том, что долг людей — способствовать человеческому благосостоянию.
+lead: Предлагаемая социально-экономическая доктрина, выдвинутая Яхве как часть Новых
+  Заповедей, направлена на сохранение будущего человечества путем реализации определенного
+  вида равенства возможностей. В конечном счете, приносящие пользу таланту и доблести,
+  отмена наследования и заключение ограниченных по времени договоров о праве собственности
+  Юбилеев. Гуманитаризм в более общем смысле — это учение о том, что долг людей —
+  способствовать человеческому благосостоянию.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

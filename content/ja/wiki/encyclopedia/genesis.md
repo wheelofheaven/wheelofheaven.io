@@ -1,14 +1,14 @@
 ---
-title: "創世記"
-description: "Genesis, etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-lead: "Etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 創世記
+description: 創世記は、語源的には聖書の最初の本であり、ヘブライ語で創世記または B'reshit (בְּרֵאשִׁית) としても知られています。より比喩的に言えば、エロヒムが地球上で7大月にわたって実施したすべての創造プロジェクトの合計で、およそ15,000年に相当します。
+lead: 語源的には、聖書の最初の本であり、ヘブライ語では創世記または B'reshit (בְּרֵאשִׁית) としても知られています。より比喩的に言えば、エロヒムが地球上で7大月にわたって実施したすべての創造プロジェクトの合計で、およそ15,000年に相当します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

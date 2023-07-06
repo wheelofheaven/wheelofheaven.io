@@ -1,14 +1,14 @@
 ---
-title: "預言者"
-description: "Prophet, a human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-lead: "A human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 預言者
+description: 預言者は、地球上の生命を遺伝子操作した創造者文明であるエロヒムを代表してメッセンジャーおよび代表として機能する人間の大使です。歴史を通じて、多くの人が預言者として選ばれてきました。彼らはそれぞれ、新しい宗教運動を完全に刺激したか、少なくとも文書または口頭での伝統を残しました。どちらの場合でも、最終的には地球上のエロヒミアンの遺産の保存と形成に貢献します。
+lead: 地球上の生命を遺伝子操作した創造者文明であるエロヒムを代表してメッセンジャーおよび代表として機能する人間の大使。歴史を通じて、多くの人が預言者として選ばれてきました。彼らはそれぞれ、新しい宗教運動を完全に刺激したか、少なくとも文書または口頭での伝統を残しました。どちらの場合でも、最終的には地球上のエロヒミアンの遺産の保存と形成に貢献します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

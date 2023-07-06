@@ -1,15 +1,17 @@
 ---
-title: "大年"
-alternatives: ["Platonic Year", "Precessional year"]
-description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-lead: "Also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 大年
+alternatives:
+- Platonic Year
+- Precessional year
+description: プラトン年としても知られる偉大な年。約 25,920 年の期間であり、完全な歳差運動サイクルが完了するまでにかかる時間です。
+lead: プラトン年とも呼ばれる約 25,920 年の期間で、完全な歳差運動サイクルが完了するまでにかかる時間です。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

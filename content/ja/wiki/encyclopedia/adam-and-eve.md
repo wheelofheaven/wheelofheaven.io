@@ -1,17 +1,18 @@
 ---
-title: "アダムとイヴ"
-description: "Adam and Eve, two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-lead: "Two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: アダムとイヴ
+description: アダムとイブ、エンジニアリングに成功した最初期の人類プロトタイプの重要な人物である 2 人。彼らは、もともとエデンの園の時代にエデンに住んでいた人間属の異なるコミュニティの一部でした。追放された創造者たち、サーペントとして知られる反逆的なエロヒミアの一派と結びついて、アダマイトは混血の子孫を生み出しました。これらの子孫はアダマイトのコミュニティに同化し、ハイブリッドおよび非ハイブリッドのアダマイトという単一の異なるグループに統合されました。
+lead: 工学的に成功した最初期の人類プロトタイプの重要な人物 2 人。彼らは、もともとエデンの園の時代にエデンに住んでいた人間属の異なるコミュニティの一部でした。追放された創造者たち、サーペントとして知られる反逆的なエロヒミアの一派と結びついて、アダマイトは混血の子孫を生み出しました。これらの子孫はアダマイトのコミュニティに同化し、ハイブリッドおよび非ハイブリッドのアダマイトという単一の異なるグループに統合されました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo"]
+timeline:
+- leo
 ---
 
 Adam and Eve are the first man and woman according to the creation story in the Bible's book of Genesis. They are considered the first human beings created by God, and are believed to have lived in the Garden of Eden before disobeying God's command and being expelled from the garden (Genesis 3). Adam is described as the first man created by God from the dust of the ground, while Eve is described as the first woman, created from one of Adam's ribs (Genesis 2:7, 2:22). Adam and Eve's story is often seen as an allegory for the origin of sin and the fall of humanity.

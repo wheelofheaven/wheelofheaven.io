@@ -1,14 +1,20 @@
 ---
-title: "Liste de lectures exégétiques"
-description: "List of exegetic readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read with a neo-euhemeristic exegesis. This list is going to catalogue to the majority of these notions." 
-lead: "By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read with a neo-euhemeristic exegesis. This list is going to catalogue to the majority of these notions." 
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Liste de lectures exégétiques
+description: Liste des lectures exégétiques. Par l'intermédiaire de l'exploration
+  des prémisses mises en avant par Wheel of Heaven, il existe un certain nombre de
+  notions religieuses, mythologiques ou traditionnelles qui peuvent être lues avec
+  une exégèse néo-euhémérisante. Cette liste va cataloguer la plupart de ces notions.
+lead: Par l'intermédiaire de l'exploration des prémisses mises en avant par Wheel
+  of Heaven, il existe un certain nombre de notions religieuses, mythologiques ou
+  traditionnelles qui peuvent être lues avec une exégèse néo-euhémérisante. Cette
+  liste va cataloguer la plupart de ces notions.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

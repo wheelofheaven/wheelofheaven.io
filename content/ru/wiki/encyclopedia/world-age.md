@@ -1,15 +1,20 @@
 ---
-title: "Всемирная эпоха"
-alternatives: ["Astrological age"]
-description: "World Age, also known known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-lead: "Also known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Всемирная эпоха
+alternatives:
+- Astrological age
+description: Мировой век, также известный как Астрологический век, разговорный термин,
+  обозначающий Великий месяц его зодиакальным именем. Например, прямо сейчас мы переходим
+  из эпохи Рыб в эпоху Водолея.
+lead: Также известный как Астрологический век, разговорный термин для обозначения
+  Великого Месяца по его зодиакальному имени. Например, прямо сейчас мы переходим
+  из эпохи Рыб в эпоху Водолея.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

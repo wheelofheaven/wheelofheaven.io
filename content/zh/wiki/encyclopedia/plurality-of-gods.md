@@ -1,15 +1,16 @@
 ---
-title: "众神"
-alternatives: ["Polytheism"]
-description: "The Plurality of Gods represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-lead: "Represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 众神
+alternatives:
+- Polytheism
+description: 众神论代表了圣经传统证明多个神灵存在的独特解释。这个概念还包含这样的信念：这些神灵曾经与人类相似，相应地，人类拥有在未来进化成神一样的实体的潜力。
+lead: 代表了圣经传统证明多个神圣存在存在的独特解释。这个概念还包含这样的信念：这些神灵曾经与人类相似，相应地，人类拥有在未来进化成神一样的实体的潜力。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

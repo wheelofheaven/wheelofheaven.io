@@ -1,14 +1,24 @@
 ---
-title: "Традиция"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Традиция
+description: Традиция, набор устных и письменных вечных истин, которые передавались
+  из поколения в поколение и в разных цивилизациях и поэтому сохранили в неприкосновенности
+  хранилище знаний, зародившееся в далеком прошлом. Традиция не обязательно относится
+  к определенному набору писаний или книг, но может пониматься как культурное и мифологическое
+  наследие всех отдельных людей, которые формализовали высшие истины кодифицированным
+  и якобы неподкупным образом.
+lead: Набор устных и письменных вечных истин, которые передавались из поколения в
+  поколение и в различных цивилизациях и поэтому сохранили в неприкосновенности хранилище
+  знаний, зародившееся в далеком прошлом. Традиция не обязательно относится к определенному
+  набору писаний или книг, но может пониматься как культурное и мифологическое наследие
+  всех отдельных людей, которые формализовали высшие истины кодифицированным и якобы
+  неподкупным образом.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

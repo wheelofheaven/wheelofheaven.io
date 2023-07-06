@@ -1,14 +1,28 @@
 ---
-title: "Hebräisch"
-description: "Hebrew, specifically an ancient predecessor of the Hebrew language, is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-lead: "Specifically an ancient predecessor of the Hebrew language is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Hebräisch
+description: Hebräisch, insbesondere ein alter Vorläufer der hebräischen Sprache,
+  erweist sich als die offizielle gesprochene Sprache der elohimischen Zivilisation.
+  Daher hat das alte Hebräisch seinen entferntesten Ursprung nicht in einer anthropogenen
+  Quelle auf der Erde, sondern wurde direkt von unseren Schöpfern, den Elohim, geerbt,
+  da sie eine alte Version des Hebräischen sprachen, die die Menschen seit ihrer Entstehung
+  übernommen haben. Während das moderne Hebräisch nicht als gleichwertig mit der elohimischen
+  Sprache angesehen werden kann, kann man andererseits davon ausgehen, dass die semitische
+  Sprachfamilie das Erbe bewahrt.
+lead: Insbesondere wird offenbart, dass ein alter Vorläufer der hebräischen Sprache
+  die offizielle gesprochene Sprache der elohimischen Zivilisation ist. Daher hat
+  das alte Hebräisch seinen entferntesten Ursprung nicht in einer anthropogenen Quelle
+  auf der Erde, sondern wurde direkt von unseren Schöpfern, den Elohim, geerbt, da
+  sie eine alte Version des Hebräischen sprachen, die die Menschen seit ihrer Entstehung
+  übernommen haben. Während das moderne Hebräisch nicht als gleichwertig mit der elohimischen
+  Sprache angesehen werden kann, kann man andererseits davon ausgehen, dass die semitische
+  Sprachfamilie das Erbe bewahrt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

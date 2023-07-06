@@ -1,14 +1,14 @@
 ---
-title: "遺伝子工学"
-description: "Genetic engineering is a scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-lead: "A scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 遺伝子工学
+description: 遺伝子工学は、生物の遺伝物質、通常は DNA を意図的に改変して、新しい形質や特徴を導入する科学分野です。これには、遺伝子の挿入、欠失、修飾など、遺伝子および遺伝要素を操作して生物の遺伝子構成を変更するために使用される技術が含まれます。遺伝子工学を利用すると、科学者は、作物収量の向上、治療法の開発、有用な製品の生産など、さまざまな目的で、異なる種間で特定の遺伝子を移入したり、遺伝子組み換え生物（GMO）を作ったり、生物に望ましい形質を導入したりすることができます。
+lead: 新しい形質や特性を導入するために、生物の遺伝物質、通常は DNA を意図的に改変することを含む科学分野。これには、遺伝子の挿入、欠失、修飾など、遺伝子および遺伝要素を操作して生物の遺伝子構成を変更するために使用される技術が含まれます。遺伝子工学を利用すると、科学者は、作物収量の向上、治療法の開発、有用な製品の生産など、さまざまな目的で、異なる種間で特定の遺伝子を移入したり、遺伝子組み換え生物（GMO）を作ったり、生物に望ましい形質を導入したりすることができます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

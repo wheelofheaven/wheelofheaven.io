@@ -1,14 +1,14 @@
 ---
-title: "先知和宗教列表"
-description: "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-lead: "A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 先知和宗教列表
+description: 先知和宗教列表。许多宗教（但不是全部）都被认为是耶洛因 (אֱלֹהִם) 与地球上人类之间真实互动的既定见证。这些互动导致了宗教著作和口头传统的出现，见证了埃洛希米亚人的作为。这份清单将在很大程度上详尽地列出大多数著名的宗教传统以及导致这些传统的先知。
+lead: 许多宗教（但不是全部）都被认为是耶洛因 (אֱלֹהִם) 与地球上人类之间真实互动的既定见证。这些互动导致了宗教著作和口头传统的出现，见证了埃洛希米亚人的作为。这份清单将在很大程度上详尽地列出大多数著名的宗教传统以及导致这些传统的先知。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

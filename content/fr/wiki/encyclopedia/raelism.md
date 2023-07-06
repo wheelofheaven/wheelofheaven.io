@@ -1,14 +1,30 @@
 ---
-title: "Raëlisme"
-description: "Le raëlisme, un nouveau mouvement religieux qui remonte à un Français, Claude Vorhilon, qui a avoué avoir rencontré le représentant d'une civilisation extraterrestre, Yahweh, en 1973 et les années suivantes. Il a progressivement adopté le nom Raël et a consigné les dialogues qui ont eu lieu lors de toutes les rencontres dans plusieurs livres que chacun peut lire aujourd'hui. Le postulat de la foi raëlienne est que la plupart des religions sont le témoignage des actions d'une civilisation extraterrestre avancée de type divin qui a terraformé la Terre il y a environ 25'000 ans et a ensuite créé synthétiquement la vie sur Terre comme décrit dans la Genèse biblique et d'autres mythes de la création."
-lead: "Un nouveau mouvement religieux qui remonte à un Français, Claude Vorhilon, qui a avoué avoir rencontré le représentant d'une civilisation extraterrestre, Yahweh, en 1973 et les années suivantes. Il a progressivement adopté le nom Raël et a consigné les dialogues qui ont eu lieu lors de toutes les rencontres dans plusieurs livres que chacun peut lire aujourd'hui. Le postulat de la foi raëlienne est que la plupart des religions sont le témoignage des actions d'une civilisation extraterrestre avancée de type divin qui a terraformé la Terre il y a environ 25'000 ans et a ensuite créé synthétiquement la vie sur Terre comme décrit dans la Genèse biblique et d'autres mythes de la création."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Raëlisme
+description: Le raëlisme, un nouveau mouvement religieux qui remonte à un Français,
+  Claude Vorhilon, qui a avoué avoir rencontré le représentant d'une civilisation
+  extraterrestre, Yahweh, en 1973 et les années suivantes. Il a progressivement adopté
+  le nom Raël et a consigné les dialogues qui ont eu lieu lors de toutes les rencontres
+  dans plusieurs livres que chacun peut lire aujourd'hui. Le postulat de la foi raëlienne
+  est que la plupart des religions sont le témoignage des actions d'une civilisation
+  extraterrestre avancée de type divin qui a terraformé la Terre il y a environ 25'000
+  ans et a ensuite créé synthétiquement la vie sur Terre comme décrit dans la Genèse
+  biblique et d'autres mythes de la création.
+lead: Un nouveau mouvement religieux qui remonte à un Français, Claude Vorhilon, qui
+  a avoué avoir rencontré le représentant d'une civilisation extraterrestre, Yahweh,
+  en 1973 et les années suivantes. Il a progressivement adopté le nom Raël et a consigné
+  les dialogues qui ont eu lieu lors de toutes les rencontres dans plusieurs livres
+  que chacun peut lire aujourd'hui. Le postulat de la foi raëlienne est que la plupart
+  des religions sont le témoignage des actions d'une civilisation extraterrestre avancée
+  de type divin qui a terraformé la Terre il y a environ 25'000 ans et a ensuite créé
+  synthétiquement la vie sur Terre comme décrit dans la Genèse biblique et d'autres
+  mythes de la création.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

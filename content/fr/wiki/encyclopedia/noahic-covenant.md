@@ -1,17 +1,32 @@
 ---
-title: "Alliance noachique"
-description: "Noahic covenant is a promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-lead: "A promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Alliance noachique
+description: L'alliance noéique est une promesse faite par les Elohim juste après
+  le Grand Déluge qui a anéanti presque toute vie sur la planète Terre pour que cela
+  ne se reproduise plus jamais. Le Déluge a été les effets causés par une mesure préventive
+  initiée par le gouvernement Elohim adverse pour mettre fin à tout progrès scientifique
+  entrepris par les êtres humains terrestres qui était jugé trop dangereux. Avec l'aide
+  d'une faction bannie d'Elohim, Noahs et d'autres ont réussi à préserver la vie en
+  stockant le matériel source génétique de toutes les espèces terrestres qui a été
+  sauvegardé à bord de l'Arche, un vaisseau spatial en orbite.
+lead: Une promesse faite par les Elohim juste après le Grand Déluge qui a anéanti
+  presque toute vie sur la planète Terre de ne plus jamais laisser cela se reproduire.
+  Le Déluge a été les effets causés par une mesure préventive initiée par le gouvernement
+  Elohim adverse pour mettre fin à tout progrès scientifique entrepris par les êtres
+  humains terrestres qui était jugé trop dangereux. Avec l'aide d'une faction bannie
+  d'Elohim, Noahs et d'autres ont réussi à préserver la vie en stockant le matériel
+  source génétique de toutes les espèces terrestres qui a été sauvegardé à bord de
+  l'Arche, un vaisseau spatial en orbite.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## Etymology

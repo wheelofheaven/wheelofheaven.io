@@ -1,14 +1,25 @@
 ---
-title: "Évolution cosmique"
-description: "Cosmic evolution refers to a purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-lead: "A purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Évolution cosmique
+description: L'évolution cosmique fait référence à une création délibérée et itérative
+  de la vie à travers l'univers par des civilisations avancées. Il transcende l'évolution
+  biologique, mettant l'accent sur la conception délibérée et le raffinement continu
+  des formes de vie humanoïdes. Chaque création successive représente un pas en avant
+  évolutif, bien que potentiellement une menace pour leurs créateurs. Ce concept représente
+  un mélange de processus naturels et de conception consciente dans la grande progression
+  de la vie à travers le cosmos.
+lead: Une création délibérée et itérative de la vie à travers l'univers par des civilisations
+  avancées. Il transcende l'évolution biologique, mettant l'accent sur la conception
+  délibérée et le raffinement continu des formes de vie humanoïdes. Chaque création
+  successive représente un pas en avant évolutif, bien que potentiellement une menace
+  pour leurs créateurs. Ce concept représente un mélange de processus naturels et
+  de conception consciente dans la grande progression de la vie à travers le cosmos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

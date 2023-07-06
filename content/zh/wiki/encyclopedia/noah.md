@@ -1,17 +1,18 @@
 ---
-title: "诺亚"
-description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 诺亚
+description: 诺亚，出生于上古时代的圣经族长。他被提名参加一个巨大的保护项目，旨在保护地球上创造的生命免受即将发生的灾难的影响。
+lead: 出生于上古时代的圣经族长。他被提名参加一个巨大的保护项目，旨在保护地球上创造的生命免受即将发生的灾难的影响。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## In Raëlism 🔯

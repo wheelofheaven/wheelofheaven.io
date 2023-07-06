@@ -1,14 +1,23 @@
 ---
-title: "Самсара"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Самсара
+description: Сансара , буддийское, джайнистское и индуистское представление о цикле
+  смерти и возрождения. Хотя само это слово не является каноническим, Самсара относится
+  к циклу повторяющегося саморазрушения, если для разжигания войны и сдерживания используется
+  прогрессивное совершенствование научных и технологических средств. Преодоление цикла
+  смерти и возрождения является высшим условием для вступления в Золотой век изобилия
+  и процветания.
+lead: Буддийское, джайнистское и индуистское представление о цикле смерти и возрождения.
+  Хотя само это слово не является каноническим, Самсара относится к циклу повторяющегося
+  саморазрушения, если для разжигания войны и сдерживания используется прогрессивное
+  совершенствование научных и технологических средств. Преодоление цикла смерти и
+  возрождения является высшим условием для вступления в Золотой век изобилия и процветания.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

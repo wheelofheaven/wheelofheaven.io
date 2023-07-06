@@ -1,14 +1,27 @@
 ---
-title: "Synthetische Biologie"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Synthetische Biologie
+description: Synthetische Biologie ist ein interdisziplinäres Gebiet, das Prinzipien
+  aus Biologie, Genetik und Technik kombiniert, um künstliche biologische Systeme,
+  genetische Schaltkreise und Organismen mit neuartigen Funktionen oder Eigenschaften
+  zu entwerfen und zu konstruieren. Dabei handelt es sich um die bewusste Veränderung
+  oder Schaffung von genetischem Material und die Konstruktion biologischer Komponenten,
+  um lebende Zellen so zu programmieren, dass sie bestimmte Aufgaben ausführen oder
+  gewünschte Eigenschaften aufweisen. Die synthetische Biologie zielt darauf ab, biologische
+  Systeme zu verstehen und umzugestalten.
+lead: Ein interdisziplinäres Gebiet, das Prinzipien aus Biologie, Genetik und Technik
+  kombiniert, um künstliche biologische Systeme, genetische Schaltkreise und Organismen
+  mit neuartigen Funktionen oder Eigenschaften zu entwerfen und zu konstruieren. Dabei
+  handelt es sich um die bewusste Veränderung oder Schaffung von genetischem Material
+  und die Konstruktion biologischer Komponenten, um lebende Zellen so zu programmieren,
+  dass sie bestimmte Aufgaben ausführen oder gewünschte Eigenschaften aufweisen. Die
+  synthetische Biologie zielt darauf ab, biologische Systeme zu verstehen und umzugestalten.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,18 +1,27 @@
 ---
-title: "洪水前"
-alternatives: ["pre-diluvian", "pre-flood"]
-description: "Antediluvian, the time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
-lead: "The time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 洪水前
+alternatives:
+- pre-diluvian
+- pre-flood
+description: アンテディルヴィアン、大洪水に先立つ地球上の生命の期間。より具体的には、古代時代とは、人類の文明が大きな技術的進歩を遂げ、地球に留まるために追放されたエロヒムのグループとの子孫を生み出した世界の状態を指します。
+lead: 大洪水に先立つ地球上の生命の期間。より具体的には、古代時代とは、人類の文明が大きな技術的進歩を遂げ、地球に留まるために追放されたエロヒムのグループとの子孫を生み出した世界の状態を指します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer"]
+timeline:
+- capricorn
+- sagittarius
+- scorpio
+- libra
+- virgo
+- leo
+- cancer
 ---
 
 Antediluvian refers to a time before the Biblical Great Flood. The exact appearance of the antediluvian world is not described in detail in the Bible or any other historical record. Some religious texts suggest that the antediluvian world was a time of great prosperity, peace, and advanced civilization. However, this colloquially considered largely a matter of speculation and interpretation.

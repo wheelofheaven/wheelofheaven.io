@@ -1,17 +1,24 @@
 ---
-title: "Arche de Noé"
-description: "Noah's Ark, a world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-lead: "A world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Arche de Noé
+description: L'Arche de Noé, un projet mondial de préservation de la vie mené par
+  Noé et les Elohim exilés laissés sur Terre, incarné finalement par un vaisseau spatial
+  en orbite autour de la Terre lors de l'événement cataclysmique connu sous le nom
+  de Grand Déluge, protégeant presque toutes les créations élohimiennes.
+lead: Un projet mondial de préservation de la vie mené par Noé et les Elohim exilés
+  laissés sur Terre, incarné par un vaisseau spatial en orbite autour de la Terre
+  lors de l'événement cataclysmique connu sous le nom de Grand Déluge, protégeant
+  presque toutes les créations élohimiennes.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The story of Noah's Ark is a well-known biblical account from the book of Genesis in the Old Testament. According to the story, God saw that the world had become corrupt and wicked, and decided to cleanse it with a great flood. He chose Noah, a righteous man, to build an ark and gather two of every kind of animal and bird, as well as his family, to survive the flood.

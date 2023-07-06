@@ -1,14 +1,27 @@
 ---
-title: "Hebreo"
-description: "Hebrew, specifically an ancient predecessor of the Hebrew language, is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-lead: "Specifically an ancient predecessor of the Hebrew language is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Hebreo
+description: Se revela que el hebreo, específicamente un antiguo predecesor del idioma
+  hebreo, es el idioma hablado oficial de la civilización elohimiana. Como tal, el
+  hebreo antiguo extrae sus orígenes más lejanos no de una fuente antrogénica terrenal,
+  sino que fue heredado directamente de nuestros creadores, los Elohim, ya que hablaban
+  una versión antigua del hebreo que los seres humanos adoptaron desde sus inicios.
+  Si bien el hebreo moderno no puede considerarse equivalente al idioma elohimiano,
+  por otro lado, se puede entender que la familia de idiomas semíticos preserva el
+  legado.
+lead: Específicamente, se revela que un antiguo predecesor del idioma hebreo es el
+  idioma hablado oficial de la civilización elohimiana. Como tal, el hebreo antiguo
+  extrae sus orígenes más lejanos no de una fuente antrogénica terrenal, sino que
+  fue heredado directamente de nuestros creadores, los Elohim, ya que hablaban una
+  versión antigua del hebreo que los seres humanos adoptaron desde sus inicios. Si
+  bien el hebreo moderno no puede considerarse equivalente al idioma elohimiano, por
+  otro lado, se puede entender que la familia de idiomas semíticos preserva el legado.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

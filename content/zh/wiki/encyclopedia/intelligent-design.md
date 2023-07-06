@@ -1,14 +1,14 @@
 ---
-title: "智能设计"
-description: "Intelligent Design, a competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-lead: "A competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 智能设计
+description: 智能设计，关于地球生命如何起源的一个相互竞争的科学范式。如果耶洛因真的通过前无古人的基因工程手段在地球上合成了生命，这将是对所发生事件的最准确的描述。
+lead: 关于地球生命如何起源的相互竞争的科学范式。如果耶洛因真的通过前无古人的基因工程手段在地球上合成了生命，这将是对所发生事件的最准确的描述。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

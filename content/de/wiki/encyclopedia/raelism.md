@@ -1,14 +1,32 @@
 ---
-title: "Raëlismus"
-description: "Raëlismus ist eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhilon zurückgeht, der sich angeblich 1973 und in den folgenden Jahren mit dem Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm nach und nach den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen stattfanden, in einer Reihe von Büchern nieder, die heute von jedem gelesen werden können. Die Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten Religionen das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation bezeugen, die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen beschrieben wird."
-lead: "Eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhilon zurückgeht, der sich angeblich 1973 und in den folgenden Jahren mit dem Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm nach und nach den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen stattfanden, in einer Reihe von Büchern nieder, die heute von jedem gelesen werden können. Die Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten Religionen das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation bezeugen, die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen beschrieben wird."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Raëlismus
+description: Raëlismus ist eine neue religiöse Bewegung, die auf einem Franzosen namens
+  Claude Vorhilon zurückgeht, der sich angeblich 1973 und in den folgenden Jahren
+  mit dem Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm
+  nach und nach den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen
+  stattfanden, in einer Reihe von Büchern nieder, die heute von jedem gelesen werden
+  können. Die Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten
+  Religionen das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation
+  bezeugen, die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch
+  Leben auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen
+  Schöpfungsmythen beschrieben wird.
+lead: Eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhilon
+  zurückgeht, der sich angeblich 1973 und in den folgenden Jahren mit dem Vertreter
+  einer außerirdischen Zivilisation, Yahweh, getroffen hat. Er übernahm nach und nach
+  den Namen Raël und schrieb die Dialoge, die während all dieser Begegnungen stattfanden,
+  in einer Reihe von Büchern nieder, die heute von jedem gelesen werden können. Die
+  Grundlage des raëlianischen Glaubens ist die Annahme, dass die meisten Religionen
+  das Wirken einer gottähnlichen, fortschrittlichen außerirdischen Zivilisation bezeugen,
+  die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben
+  auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen
+  beschrieben wird.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

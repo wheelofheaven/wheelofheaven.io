@@ -1,17 +1,31 @@
 ---
-title: "Menora"
-description: "The Menorah serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-lead: "Serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Menora
+description: Die Menora dient als Erinnerung an die Schalttafel eines zentralen Stützpunkts
+  der Elohim in der antiken Levante. Diese Schalttafel war durch sieben beleuchtete
+  Schalter gekennzeichnet, von denen man annahm, dass sie die Verbindung mit sechs
+  weiteren Stützpunkten und einem interplanetaren Schiff im Orbit aufrechterhielten.
+  Diese Interpretation legt nahe, dass die sieben Zweige der Menora metaphorisch die
+  sieben elohimischen Stützpunkte symbolisieren, die in dieser Zeit auf der Erde errichtet
+  wurden.
+lead: Dient als Erinnerung an die Telefonzentrale einer elohimitischen Zentralbasis
+  in der antiken Levante. Diese Schalttafel war durch sieben beleuchtete Schalter
+  gekennzeichnet, von denen man annahm, dass sie die Verbindung mit sechs weiteren
+  Stützpunkten und einem interplanetaren Schiff im Orbit aufrechterhielten. Diese
+  Interpretation legt nahe, dass die sieben Zweige der Menora metaphorisch die sieben
+  elohimischen Stützpunkte symbolisieren, die in dieser Zeit auf der Erde errichtet
+  wurden.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus", "aries"]
+timeline:
+- taurus
+- aries
 ---
 
 The Menorah has long been a central symbol in Jewish tradition, representing enlightenment, wisdom, and divine inspiration. Its seven branches are often interpreted symbolically, with various interpretations existing within different Jewish traditions.

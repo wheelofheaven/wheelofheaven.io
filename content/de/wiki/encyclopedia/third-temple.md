@@ -1,14 +1,16 @@
 ---
-title: "Dritter Tempel"
-description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Dritter Tempel
+description: Dritter Tempel, eine Residenz der Elohim, die während der Apokalypse
+  wieder aufgebaut werden sollte.
+lead: Eine Residenz für die Elohim, die während der Apokalypse wieder aufgebaut werden
+  sollte.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

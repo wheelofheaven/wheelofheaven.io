@@ -1,14 +1,24 @@
 ---
-title: "Geometría Sagrada"
-description: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-lead: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Geometría Sagrada
+description: Geometría sagrada, la proposición de que se han utilizado nociones geométricas
+  de un orden superior en una serie de estructuras, edificios y artefactos históricos,
+  lo que sugiere que sus constructores agregaron deliberadamente una dimensión adicional
+  de significado a su trabajo, codificando efectivamente su legado con proporciones
+  significativas y, por lo tanto, dejando huellas dactilares aludiendo a una tradición
+  compartida de conocimiento y sabiduría.
+lead: Geometría sagrada, la proposición de que se han utilizado nociones geométricas
+  de un orden superior en una serie de estructuras, edificios y artefactos históricos,
+  lo que sugiere que sus constructores agregaron deliberadamente una dimensión adicional
+  de significado a su trabajo, codificando efectivamente su legado con proporciones
+  significativas y, por lo tanto, dejando huellas dactilares aludiendo a una tradición
+  compartida de conocimiento y sabiduría.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

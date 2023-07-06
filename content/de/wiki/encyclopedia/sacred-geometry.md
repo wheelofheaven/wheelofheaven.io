@@ -1,14 +1,24 @@
 ---
-title: "Heilige Geometrie"
-description: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-lead: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Heilige Geometrie
+description: Heilige Geometrie, die These, dass geometrische Vorstellungen höherer
+  Ordnung in einer Reihe historischer Strukturen, Gebäude und Artefakte verwendet
+  wurden, was darauf hindeutet, dass ihre Erbauer ihrer Arbeit bewusst eine zusätzliche
+  Bedeutungsdimension hinzugefügt haben, indem sie ihr Erbe effektiv mit bedeutungsvollen
+  Proportionen kodifizierten und sie daher verließen Fingerabdrücke, die auf eine
+  gemeinsame Tradition des Wissens und der Weisheit verweisen.
+lead: Heilige Geometrie, die These, dass geometrische Vorstellungen höherer Ordnung
+  in einer Reihe historischer Strukturen, Gebäude und Artefakte verwendet wurden,
+  was darauf hindeutet, dass ihre Erbauer ihrer Arbeit bewusst eine zusätzliche Bedeutungsdimension
+  hinzugefügt haben, indem sie ihr Erbe effektiv mit bedeutungsvollen Proportionen
+  kodifizierten und sie daher verließen Fingerabdrücke, die auf eine gemeinsame Tradition
+  des Wissens und der Weisheit verweisen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,18 +1,33 @@
 ---
-title: "Turm zu Babel"
-alternatives: ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
-description: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-lead: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Turm zu Babel
+alternatives:
+- Mīgdal Bāḇel
+- מִגְדַּל בָּבֶל
+description: 'Turmbau zu Babel (hebräisch: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), in den
+  ersten Tagen nach der Großen Sintflut, ein interstellares Raumschiff (vielleicht
+  in der Form einer Rakete länglich), das in einer gemeinsamen Anstrengung zwischen
+  dem Volk Israel und den im Exil lebenden Elohimern gebaut wurde Schöpfer. Der Zweck
+  des Raumschiffs bestand darin, die diplomatischen Beziehungen mit dem elohimischen
+  Heimatplaneten zu verbessern, der der Erhaltung des Lebens auf der Erde feindlich
+  gegenüberstand, indem es seinen Bewohnern Wohlergehen sicherte.'
+lead: 'Turmbau zu Babel (hebräisch: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), in den ersten
+  Tagen nach der Großen Sintflut, ein interstellares Raumschiff (vielleicht in der
+  Form einer Rakete länglich), das in einer gemeinsamen Anstrengung zwischen dem Volk
+  Israel und den im Exil lebenden Elohimern gebaut wurde Schöpfer. Der Zweck des Raumschiffs
+  bestand darin, die diplomatischen Beziehungen mit dem elohimischen Heimatplaneten
+  zu verbessern, der der Erhaltung des Lebens auf der Erde feindlich gegenüberstand,
+  indem es seinen Bewohnern Wohlergehen sicherte.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.

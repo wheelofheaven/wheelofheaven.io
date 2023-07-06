@@ -1,17 +1,18 @@
 ---
-title: "诺亚方舟"
-description: "Noah's Ark, a world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-lead: "A world encompassing life preservation project lead by the Noah and the exiled Elohim left back on Earth ultimately embodied by a space craft orbiting Earth during the cataclysmic event known as the Great Flood safeguarding almost all of Elohimian creations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 诺亚方舟
+description: 诺亚方舟是一个由诺亚和被流放的埃洛希姆留在地球上领导的世界生命保护项目，最终体现为在被称为大洪水的灾难性事件期间绕地球运行的宇宙飞船，保护了几乎所有埃洛希姆造物。
+lead: 由诺亚和被流放的耶洛因留在地球上领导的一个包含世界的生命保护项目，最终体现为在被称为大洪水的灾难性事件期间绕地球运行的宇宙飞船，保护了几乎所有耶洛因造物。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The story of Noah's Ark is a well-known biblical account from the book of Genesis in the Old Testament. According to the story, God saw that the world had become corrupt and wicked, and decided to cleanse it with a great flood. He chose Noah, a righteous man, to build an ark and gather two of every kind of animal and bird, as well as his family, to survive the flood.

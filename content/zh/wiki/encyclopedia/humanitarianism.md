@@ -1,14 +1,14 @@
 ---
-title: "人道主义"
-description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 人道主义
+description: 人道主义主义是耶和华提出的一项社会经济学说，作为新诫命的一部分，其重点是通过实施特定类型的机会平等来维护人类的未来。最终有利于人才和能力，废除继承并建立有时间限制的禧年所有权合同。更普遍地说，人道主义是人们的责任是促进人类福祉的学说。
+lead: 耶和华提出的一项社会经济学说，作为新诫命的一部分，重点是通过实施一种特殊的机会平等来保护人类的未来。最终有利于人才和能力，废除继承并建立有时间限制的禧年所有权合同。更普遍地说，人道主义是人们的责任是促进人类福祉的学说。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

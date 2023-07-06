@@ -1,14 +1,19 @@
 ---
-title: "Condiciones de coherencia de Sendy"
-description: "Sendy's conditions of coherence, a set of conditions that need to be met in order to allow for a coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
-lead: "A set of conditions that need to be met in order to allow for an coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Condiciones de coherencia de Sendy
+description: Las condiciones de coherencia de Sendy, un conjunto de condiciones que
+  deben cumplirse para permitir una lectura coherente y exacta de la Biblia donde
+  los Elohim son entendidos como individuos de una civilización interestelar confundida
+  con Dios.
+lead: Un conjunto de condiciones que deben cumplirse para permitir una lectura coherente
+  y exacta de la Biblia donde los Elohim son entendidos como individuos de una civilización
+  interestelar confundida con Dios.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

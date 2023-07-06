@@ -1,17 +1,20 @@
 ---
-title: "アダマイト"
-description: "Adamites, a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-lead: "A distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: アダマイト
+description: アダマイトは、もともとエデンの園の時代にエデンに住んでいた人間属の別個のコミュニティです。追放された創造者たち、サーペントとして知られる反逆的なエロヒミアの一派と結びついて、アダマイトは混血の子孫を生み出しました。これらの子孫はアダマイトのコミュニティに同化し、ハイブリッドおよび非ハイブリッドのアダマイトという単一の異なるグループに統合されました。
+lead: エデンの園の時代にエデンに住んでいた、もともと人間の属に属する別個のコミュニティ。追放された創造者たち、サーペントとして知られる反逆的なエロヒミアの一派と結びついて、アダマイトは混血の子孫を生み出しました。これらの子孫はアダマイトのコミュニティに同化し、ハイブリッドおよび非ハイブリッドのアダマイトという単一の異なるグループに統合されました。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo", "cancer", "gemini"]
+timeline:
+- leo
+- cancer
+- gemini
 ---
 
 This article explores the history and mythology of the Adamites, a unique group believed to have existed during the time of the Garden of Eden. They should not be confused with the sect of early Christian Adamites who were active during the 2nd to 4th centuries CE. Despite sharing the same name, the two groups are entirely unrelated. The Adamites discussed in this article are described in certain interpretations of ancient scriptures as having participated in a union with a rebellious faction of the Elohim known as the Serpent, resulting in a hybrid offspring. This distinct population then merged into a singular group, collectively known as the Adamites.

@@ -1,14 +1,16 @@
 ---
-title: "合成ゲノミクス"
-description: "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-lead: "A branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 合成ゲノミクス
+description: 合成ゲノミクスは、完全なゲノムまたはゲノムの大きなセグメントの設計、アセンブリ、および合成に焦点を当てた遺伝子工学の一分野です。これには、既存の天然ゲノムを模倣する、または既存の天然ゲノムとは異なる人工
+  DNA 配列を作成することが含まれます。合成ゲノミクスは、合成染色体や合成ゲノム全体などの遺伝物質を構築して、基本的な生物学的プロセスを研究し、生命に必要な最小限の遺伝子セットを理解し、改変された特性または新しい特性を備えた生物を潜在的に作り出すことを目的としています。これには、生命の遺伝的基盤を探索および操作するための人工遺伝物質の構築が含まれます。
+lead: 完全なゲノムまたはゲノムの大きなセグメントの設計、アセンブリ、合成に焦点を当てた遺伝子工学の一分野。これには、既存の天然ゲノムを模倣する、または既存の天然ゲノムとは異なる人工
+  DNA 配列を作成することが含まれます。合成ゲノミクスは、合成染色体や合成ゲノム全体などの遺伝物質を構築して、基本的な生物学的プロセスを研究し、生命に必要な最小限の遺伝子セットを理解し、改変された特性または新しい特性を備えた生物を潜在的に作り出すことを目的としています。これには、生命の遺伝的基盤を探索および操作するための人工遺伝物質の構築が含まれます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

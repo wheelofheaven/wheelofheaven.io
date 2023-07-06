@@ -1,17 +1,30 @@
 ---
-title: "Kornkreise"
-description: "Crop circles are intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
-lead: "Intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Kornkreise
+description: Kornkreise sind komplizierte Muster, die auf Feldern mit Feldfrüchten
+  erscheinen. Sie wurden mit der Ufologie in Verbindung gebracht, da man glaubte,
+  dass einige von ihnen von außerirdischen Wesen oder fortgeschrittenen Intelligenzen
+  erschaffen wurden. Diese Formationen werden als potenzieller Beweis für außerirdische
+  Besuche oder Kommunikation angesehen. Während es sich bei einigen Kornkreisen nachweislich
+  um von Menschenhand geschaffene Fälschungen handelt, wird die Debatte über ihren
+  Ursprung im Bereich der Ufologie fortgesetzt.
+lead: Komplizierte Muster, die in Feldfrüchten erscheinen. Sie wurden mit der Ufologie
+  in Verbindung gebracht, da man glaubte, dass einige von ihnen von außerirdischen
+  Wesen oder fortgeschrittenen Intelligenzen erschaffen wurden. Diese Formationen
+  werden als potenzieller Beweis für außerirdische Besuche oder Kommunikation angesehen.
+  Während es sich bei einigen Kornkreisen nachweislich um von Menschenhand geschaffene
+  Fälschungen handelt, wird die Debatte über ihren Ursprung im Bereich der Ufologie
+  fortgesetzt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 Crop circles, or crop formations, refer to sizable patterns created by the flattening of crops such as wheat, barley, rapeseed (canola), rye, corn, linseed, and soy. The phenomenon is global but is most prevalent in the United Kingdom, where the majority of formations have been reported since the 1970s. While some attribute crop circles to various unexplained phenomena, others believe they are man-made. This article explores the history, characteristics, proposed explanations, and cultural impact of crop circles.

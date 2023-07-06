@@ -1,14 +1,14 @@
 ---
-title: "近距离接触列表"
-description: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-lead: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 近距离接触列表
+description: 近距离接触清单，广泛列举了从古代一直到现代的所有与不明飞行物近距离接触的事件。
+lead: 近距离接触清单，广泛列举了从古代一直到现代的所有与不明飞行物近距离接触的事件。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

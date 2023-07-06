@@ -1,14 +1,14 @@
 ---
-title: "轮回"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 轮回
+description: 轮回（Samsara），佛教、耆那教和印度教关于死亡和重生循环的概念。虽然这个词本身并不符合规范，但“轮回”指的是如果将日益复杂的科学技术手段用于战争贩子和威慑，就会反复出现自我毁灭的循环。克服死亡和重生的循环是进入富足和繁荣的黄金时代的最终条件。
+lead: 佛教、耆那教和印度教关于死亡和重生循环的概念。虽然这个词本身并不符合规范，但“轮回”指的是如果将日益复杂的科学技术手段用于战争贩子和威慑，就会反复出现自我毁灭的循环。克服死亡和重生的循环是进入富足和繁荣的黄金时代的最终条件。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

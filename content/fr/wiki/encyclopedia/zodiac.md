@@ -1,14 +1,28 @@
 ---
-title: "Zodiaque"
-description: "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-lead: "A band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Zodiaque
+description: Le zodiaque est une bande dans le ciel traversée par le soleil, connue
+  sous le nom d'écliptique. Dans cette bande, il y a 12 constellations stellaires
+  à trouver, chacune portant le nom d'un animal. Le Zodiaque fournit donc les symboles
+  zoologiques pour bien nommer la position du soleil dans le ciel. Au fil des ans,
+  la position relative du zodiaque se déplace vers l'est le long de l'écliptique en
+  raison du phénomène de précession. Avec cette compréhension, le zodiaque peut être
+  compris comme la base de la dénomination de 12 maisons dans un cycle de longue durée,
+  chacune désignant un âge mondial donné.
+lead: Bande dans le ciel traversée par le soleil, connue sous le nom d'écliptique.
+  Dans cette bande, il y a 12 constellations stellaires à trouver, chacune portant
+  le nom d'un animal. Le Zodiaque fournit donc les symboles zoologiques pour bien
+  nommer la position du soleil dans le ciel. Au fil des ans, la position relative
+  du zodiaque se déplace vers l'est le long de l'écliptique en raison du phénomène
+  de précession. Avec cette compréhension, le zodiaque peut être compris comme la
+  base de la dénomination de 12 maisons dans un cycle de longue durée, chacune désignant
+  un âge mondial donné.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

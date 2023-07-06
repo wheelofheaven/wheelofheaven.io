@@ -1,15 +1,16 @@
 ---
-title: "古代宇航员假说"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 古代宇航员假说
+alernatives:
+- Ancient aliens
+description: 古代宇航员假说，也称为古代外星人，认为外星人过去曾访问过地球并影响了古代文化和文明。这一假设表明，许多古代建筑和文物，例如金字塔和约柜等圣物，都是在外星人的帮助下创造的，旨在传达有关宇宙本质以及我们在宇宙中的位置的信息。该假设的支持者还指出了来自不同文化的传说、神话和宗教文本，这些文本描述了与来自星星的生物的遭遇。
+lead: 也被称为古代外星人，认为外星人在过去访问过地球并影响了古代文化和文明。这一假设表明，许多古代建筑和文物，例如金字塔和约柜等圣物，都是在外星人的帮助下创造的，旨在传达有关宇宙本质以及我们在宇宙中的位置的信息。该假设的支持者还指出了来自不同文化的传说、神话和宗教文本，这些文本描述了与来自星星的生物的遭遇。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

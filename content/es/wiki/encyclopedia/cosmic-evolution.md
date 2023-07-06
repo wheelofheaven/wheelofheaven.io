@@ -1,14 +1,25 @@
 ---
-title: "Evolución cósmica"
-description: "Cosmic evolution refers to a purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-lead: "A purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Evolución cósmica
+description: La evolución cósmica se refiere a una creación de vida iterativa y con
+  un propósito en todo el universo por parte de civilizaciones avanzadas. Trasciende
+  la evolución biológica, enfatizando el diseño deliberado y el refinamiento continuo
+  de las formas de vida humanoides. Cada creación sucesiva representa un paso evolutivo
+  hacia adelante, aunque potencialmente representa una amenaza para sus creadores.
+  Este concepto representa una mezcla de procesos naturales y diseño consciente en
+  la gran progresión de la vida a través del cosmos.
+lead: Una creación de vida útil e iterativa en todo el universo por parte de civilizaciones
+  avanzadas. Trasciende la evolución biológica, enfatizando el diseño deliberado y
+  el refinamiento continuo de las formas de vida humanoides. Cada creación sucesiva
+  representa un paso evolutivo hacia adelante, aunque potencialmente representa una
+  amenaza para sus creadores. Este concepto representa una mezcla de procesos naturales
+  y diseño consciente en la gran progresión de la vida a través del cosmos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

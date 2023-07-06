@@ -1,14 +1,14 @@
 ---
-title: "預言者と宗教のリスト"
-description: "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-lead: "A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 預言者と宗教のリスト
+description: 預言者と宗教のリスト。すべてではありませんが、多くの宗教は、エロヒム (אֱלֹהִים) と地球上の人間との間の本物の交流の確立された証拠であると考えられています。これらの相互作用は、エロヒミアの行為を証言する宗教的文書や口頭伝承につながります。このリストは、著名な宗教的伝統の大部分と、そのような伝統につながる預言者の大部分を網羅的にカタログ化するものです。
+lead: すべてではありませんが、多くの宗教は、エロヒム (אֱלֹהִים) と地球上の人間との間の本物の交流の確立された証拠であると考えられています。これらの相互作用は、エロヒミアの行為を証言する宗教的文書や口頭伝承につながります。このリストは、著名な宗教的伝統の大部分と、そのような伝統につながる預言者の大部分を網羅的にカタログ化するものです。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

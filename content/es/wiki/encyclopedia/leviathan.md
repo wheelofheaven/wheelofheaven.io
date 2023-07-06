@@ -1,17 +1,22 @@
 ---
-title: "Leviatán"
-description: "Leviathan, a metaphorical reference to the exiled Elohimian faction, also known as the Serpent, that had to hide beneath the oceans in order to shield themselves from their opponents."
-lead: "A metaphorical reference to the exiled Elohimian faction, also known as the Serpent, that had to hide beneath the oceans in order to shield themselves from their opponents."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Leviatán
+description: Leviatán, una referencia metafórica a la facción elohimiana exiliada,
+  también conocida como la Serpiente, que tuvo que esconderse bajo los océanos para
+  protegerse de sus oponentes.
+lead: Una referencia metafórica a la facción Elohimiana exiliada, también conocida
+  como la Serpiente, que tuvo que esconderse bajo los océanos para protegerse de sus
+  oponentes.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Leviathan is a mythical sea monster mentioned in the Bible, specifically in the book of Job and in the book of Psalms. In the Bible, the Leviathan is described as a powerful and fearsome creature that lives in the sea and is difficult to control.

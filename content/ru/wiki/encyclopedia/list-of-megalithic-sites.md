@@ -1,14 +1,17 @@
 ---
-title: "Список мегалитических памятников"
-description: "List of megalithic sites. An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities." 
-lead: "An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Список мегалитических памятников
+description: Список мегалитических памятников. Обширный перечень известных мегалитических
+  памятников, которые более или менее ясно демонстрируют отпечатки передовых архитектурных
+  качеств здания.
+lead: Обширный перечень известных мегалитических памятников, которые более или менее
+  ясно демонстрируют отпечатки передовых архитектурных качеств здания.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

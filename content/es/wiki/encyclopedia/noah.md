@@ -1,17 +1,22 @@
 ---
-title: "Noé"
-description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Noé
+description: Noé, un patriarca bíblico nacido en tiempos antediluvianos. Fue nominado
+  para participar en un gigantesco proyecto de preservación destinado a salvaguardar
+  la vida creada en la Tierra del cataclismo pendiente.
+lead: Un patriarca bíblico nacido en tiempos antediluvianos. Fue nominado para participar
+  en un gigantesco proyecto de preservación destinado a salvaguardar la vida creada
+  en la Tierra del cataclismo pendiente.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## In Raëlism 🔯

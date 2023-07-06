@@ -1,14 +1,14 @@
 ---
-title: "神圣几何"
-description: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-lead: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 神圣几何
+description: 神圣几何学，这一主张认为更高阶的几何概念已被用于许多历史结构、建筑和文物中，表明它们的建造者故意在他们的作品中添加了额外的意义维度，有效地以有意义的比例编纂了他们的遗产，因此留下了指纹暗示着知识和智慧的共同传统。
+lead: 神圣几何学，这一主张认为更高阶的几何概念已被用于许多历史结构、建筑和文物中，表明它们的建造者故意在他们的作品中添加了额外的意义维度，有效地以有意义的比例编纂了他们的遗产，因此留下了指纹暗示着知识和智慧的共同传统。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

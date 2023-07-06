@@ -1,14 +1,14 @@
 ---
-title: "ミームと神話モチーフのリスト"
-description: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-lead: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ミームと神話モチーフのリスト
+description: マイテーマと神話モチーフのリスト。 Wheel of Heaven によって提示された前提を探索するという行為によって、作業仮説の解釈を通じて読み取ることができる多くの神話的テーマや神話的モチーフが存在します。このリストは、これらのモチーフの大部分をカタログ化するものです。
+lead: マイテーマと神話モチーフのリスト。 Wheel of Heaven によって提示された前提を探索するという行為によって、作業仮説の解釈を通じて読み取ることができる多くの神話的テーマや神話的モチーフが存在します。このリストは、これらのモチーフの大部分をカタログ化するものです。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

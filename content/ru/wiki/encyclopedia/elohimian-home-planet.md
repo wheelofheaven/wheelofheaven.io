@@ -1,14 +1,18 @@
 ---
-title: "Родная планета элохимов"
-description: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-lead: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Родная планета элохимов
+description: Внесолнечная обитаемая планета, откуда происходит элогимский род или,
+  по крайней мере, его цивилизация. Эта планета предположительно находится примерно
+  в 1 световом году от Земли и, следовательно, находится в галактике Млечный Путь.
+lead: Внесолнечная обитаемая планета, откуда происходит элогимский род или, по крайней
+  мере, его цивилизация. Эта планета предположительно находится примерно в 1 световом
+  году от Земли и, следовательно, находится в галактике Млечный Путь.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

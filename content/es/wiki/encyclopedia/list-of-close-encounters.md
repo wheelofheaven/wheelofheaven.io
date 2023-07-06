@@ -1,14 +1,18 @@
 ---
-title: "Lista de encuentros cercanos"
-description: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-lead: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lista de encuentros cercanos
+description: Lista de encuentros cercanos, una enumeración extensa de todos los encuentros
+  cercanos con objetos voladores no identificados que se han informado desde la antigüedad
+  hasta la actualidad.
+lead: Lista de encuentros cercanos, una enumeración extensa de todos los encuentros
+  cercanos con objetos voladores no identificados que se han informado desde la antigüedad
+  hasta la actualidad.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

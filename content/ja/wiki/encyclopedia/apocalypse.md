@@ -1,18 +1,20 @@
 ---
-title: "黙示録"
-alternatives: ["Revelation"]
-description: "Apocalypse, Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-lead: "Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 黙示録
+alternatives:
+- Revelation
+description: ギリシャ語で黙示録を意味する黙示録は、黄金時代への到来に先立つ黙示録の時代を指します。黙示録の時代に明らかにされた啓示は、宗教経典、特に聖書によって保存されている状況的真実、すなわち、昔の神々は別の惑星から来た人々であり、その高度な技術能力のために超自然的な存在と誤解されてきたということである。
+lead: ギリシャ語で黙示録を意味し、黄金時代への到来に先立つ黙示録の時代を指します。黙示録の時代に明らかにされた啓示は、宗教経典、特に聖書によって保存されている状況的真実、すなわち、昔の神々は別の惑星から来た人々であり、その高度な技術能力のために超自然的な存在と誤解されてきたということである。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The Apocalypse, as described in the biblical Book of Revelation, is a series of events that marks the end of the world as it is known. According to the text, the Apocalypse involves a series of cataclysmic events, including wars, plagues, natural disasters, and the rise of the Antichrist. At the climax of these events, there will be a final battle between good and evil, and Jesus Christ will return to Earth to defeat Satan and establish a new heaven and a new earth.

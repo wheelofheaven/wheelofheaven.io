@@ -1,14 +1,26 @@
 ---
-title: "La Tradición"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: La Tradición
+description: La Tradición, un conjunto de verdades perennes orales y escritas que
+  han sido transmitidas a lo largo de muchas generaciones y a lo largo de varias civilizaciones
+  y por lo tanto han mantenido intacto el depósito de conocimiento que se originó
+  en un pasado remoto. La Tradición no se refiere necesariamente a un conjunto específico
+  de escrituras o libros, sino que puede entenderse como el legado cultural y mitológico
+  de todas las personas individuales que formalizaron las verdades supremas de manera
+  codificada y supuestamente incorruptible.
+lead: Un conjunto de verdades perennes orales y escritas que se han transmitido a
+  lo largo de muchas generaciones y a lo largo de varias civilizaciones y que, por
+  lo tanto, han mantenido intacto el depósito de conocimiento que se originó en un
+  pasado remoto. La Tradición no se refiere necesariamente a un conjunto específico
+  de escrituras o libros, sino que puede entenderse como el legado cultural y mitológico
+  de todas las personas individuales que formalizaron las verdades supremas de manera
+  codificada y supuestamente incorruptible.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

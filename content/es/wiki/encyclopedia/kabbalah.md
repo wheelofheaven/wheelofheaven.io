@@ -1,14 +1,18 @@
 ---
-title: "Cábala"
-description: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. Its major written work in known as the Zohar."
-lead: "Kabbalah (קַבָּלָה) literally meaning 'tradition' is a school of thought of Jewish mysticism. Its major written work in known as the Zohar."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Cábala
+description: La Cabalá (קַבָּלָה), que literalmente significa 'tradición', es una
+  escuela de pensamiento del misticismo judío. Su principal obra escrita es conocida
+  como el Zohar.
+lead: La Cabalá (קַבָּלָה), que literalmente significa 'tradición', es una escuela
+  de pensamiento del misticismo judío. Su principal obra escrita es conocida como
+  el Zohar.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

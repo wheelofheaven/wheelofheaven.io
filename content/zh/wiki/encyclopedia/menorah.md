@@ -1,17 +1,19 @@
 ---
-title: "摩诺拉"
-description: "The Menorah serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-lead: "Serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 摩诺拉
+description: 烛台是对古代黎凡特伊洛希姆中央基地总机的纪念。该配电盘的特点是有七个发光开关，据信可以与六个额外基地和轨道上的星际飞船保持连接。这种解释提出，烛台的七个分支隐喻地象征着那个时代在地球上建立的七个伊罗黑姆基地。
+lead: 用来纪念古代黎凡特的伊洛希姆中央基地的总机。该配电盘的特点是有七个发光开关，据信可以与六个额外基地和轨道上的星际飞船保持连接。这种解释提出，烛台的七个分支隐喻地象征着那个时代在地球上建立的七个伊罗黑姆基地。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus", "aries"]
+timeline:
+- taurus
+- aries
 ---
 
 The Menorah has long been a central symbol in Jewish tradition, representing enlightenment, wisdom, and divine inspiration. Its seven branches are often interpreted symbolically, with various interpretations existing within different Jewish traditions.

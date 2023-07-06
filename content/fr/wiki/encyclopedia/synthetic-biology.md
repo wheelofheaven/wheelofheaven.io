@@ -1,14 +1,27 @@
 ---
-title: "Biologie synthétique"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Biologie synthétique
+description: La biologie synthétique est un domaine interdisciplinaire qui combine
+  les principes de la biologie, de la génétique et de l'ingénierie pour concevoir
+  et construire des systèmes biologiques artificiels, des circuits génétiques et des
+  organismes dotés de nouvelles fonctions ou caractéristiques. Cela implique la modification
+  ou la création délibérée de matériel génétique et l'ingénierie de composants biologiques
+  pour programmer des cellules vivantes afin qu'elles effectuent des tâches spécifiques
+  ou présentent des traits souhaités. La biologie synthétique vise à comprendre et
+  à réorganiser les systèmes biologiques.
+lead: Domaine interdisciplinaire qui combine les principes de la biologie, de la génétique
+  et de l'ingénierie pour concevoir et construire des systèmes biologiques artificiels,
+  des circuits génétiques et des organismes dotés de nouvelles fonctions ou caractéristiques.
+  Cela implique la modification ou la création délibérée de matériel génétique et
+  l'ingénierie de composants biologiques pour programmer des cellules vivantes afin
+  qu'elles effectuent des tâches spécifiques ou présentent des traits souhaités. La
+  biologie synthétique vise à comprendre et à réorganiser les systèmes biologiques.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,21 @@
 ---
-title: "Paradismo"
-description: "Paradism, the establishement of a post-scarcity, fully automatized socio-economic system in the image of the Elohim's home planet. Through technological means of automatizing labour and alleviation of hardships, abundance, prosperity and personal fullfilment would become the new currency of social pursuit."
-lead: "The establishement of a post-scarcity, fully automatized socio-economic system in the image of the Elohim's home planet. Through technological means of automatizing labour and alleviation of hardships, abundance, prosperity and personal fullfilment would become the new currency of social pursuit."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Paradismo
+description: Paradismo, el establecimiento de un sistema socioeconómico totalmente
+  automatizado, posterior a la escasez, a imagen del planeta de origen de los Elohim.
+  A través de medios tecnológicos de automatización del trabajo y alivio de las dificultades,
+  la abundancia, la prosperidad y la realización personal se convertirían en la nueva
+  moneda de la búsqueda social.
+lead: El establecimiento de un sistema socioeconómico totalmente automatizado, posterior
+  a la escasez, a imagen del planeta de origen de los Elohim. A través de medios tecnológicos
+  de automatización del trabajo y alivio de las dificultades, la abundancia, la prosperidad
+  y la realización personal se convertirían en la nueva moneda de la búsqueda social.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

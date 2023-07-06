@@ -1,17 +1,29 @@
 ---
-title: "Adamites"
-description: "Adamites, a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-lead: "A distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Adamites
+description: Adamites , une communauté distincte à l'origine du genre humain qui a
+  vécu à l'époque du jardin d'Eden en Eden. En concubine avec des créateurs exilés,
+  une faction rebelle Elohimienne connue sous le nom de Serpent, les Adamites ont
+  donné naissance à une progéniture hybride. Ces descendants se sont assimilés à la
+  communauté Adamite, fusionnant ainsi en un groupe distinct singulier d'Adamites
+  hybrides et non hybrides.
+lead: Une communauté distincte à l'origine du genre humain qui a vécu à l'époque du
+  jardin d'Eden en Eden. En concubine avec des créateurs exilés, une faction rebelle
+  Elohimienne connue sous le nom de Serpent, les Adamites ont donné naissance à une
+  progéniture hybride. Ces descendants se sont assimilés à la communauté Adamite,
+  fusionnant ainsi en un groupe distinct singulier d'Adamites hybrides et non hybrides.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo", "cancer", "gemini"]
+timeline:
+- leo
+- cancer
+- gemini
 ---
 
 This article explores the history and mythology of the Adamites, a unique group believed to have existed during the time of the Garden of Eden. They should not be confused with the sect of early Christian Adamites who were active during the 2nd to 4th centuries CE. Despite sharing the same name, the two groups are entirely unrelated. The Adamites discussed in this article are described in certain interpretations of ancient scriptures as having participated in a union with a rebellious faction of the Elohim known as the Serpent, resulting in a hybrid offspring. This distinct population then merged into a singular group, collectively known as the Adamites.

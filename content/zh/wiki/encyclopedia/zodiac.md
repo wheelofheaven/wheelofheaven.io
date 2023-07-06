@@ -1,14 +1,16 @@
 ---
-title: "十二宫"
-description: "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-lead: "A band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 十二宫
+description: 黄道带是天空中太阳穿过的一条带，称为黄道。在该带内，有 12 个星座，每个星座都以一种动物命名。因此，黄道十二宫提供了动物学符号来正确命名太阳在天空中的位置。多年来，由于岁差现象，黄道带的相对位置沿着黄道向东移动。有了这样的理解，黄道十二宫就可以被理解为在一个持久的循环中命名
+  12 个宫位的基础，每个宫位都代表一个特定的世界时代。
+lead: 天空中太阳穿过的一条带，称为黄道。在该带内，有 12 个星座，每个星座都以一种动物命名。因此，黄道十二宫提供了动物学符号来正确命名太阳在天空中的位置。多年来，由于岁差现象，黄道带的相对位置沿着黄道向东移动。有了这样的理解，黄道十二宫就可以被理解为在一个持久的循环中命名
+  12 个宫位的基础，每个宫位都代表一个特定的世界时代。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

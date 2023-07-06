@@ -1,15 +1,31 @@
 ---
-title: "Esvástica"
-alternatives: ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
-description: "Swastika, a religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-lead: "A religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Esvástica
+alternatives:
+- Arevakhach
+- Borjgali
+- Eternity sign
+- Fylfot
+- Lauburu
+- Mursunsydän
+- Sun cross
+- Ugunskrusts
+description: La esvástica, un símbolo religioso y cultural exhibido por muchas culturas
+  antiguas hasta el día de hoy. Si bien generalmente se asocia con la noción de bienestar,
+  buena suerte y connotaciones positivas similares, en el raëlismo se considera que
+  representa simultáneamente el natore cíclico del tiempo, así como la eterna continuidad
+  del tiempo (infinito).
+lead: Un símbolo religioso y cultural exhibido por muchas culturas antiguas hasta
+  el día de hoy. Si bien generalmente se asocia con la noción de bienestar, buena
+  suerte y connotaciones positivas similares, en el raëlismo se considera que representa
+  simultáneamente el natore cíclico del tiempo, así como la eterna continuidad del
+  tiempo (infinito).
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

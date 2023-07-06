@@ -1,14 +1,14 @@
 ---
-title: "軍事的なエクソバイオロジーの隠蔽"
-description: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-lead: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 軍事的なエクソバイオロジーの隠蔽
+description: 地球外生物学の軍事隠蔽とは、軍事組織または政府が地球外生命体の研究や宇宙人との遭遇に関する情報を隠蔽しているという考えを指します。これは、地球外生命体の存在に関する隠された知識や証拠が存在し、軍事組織がこの情報の一般公開を積極的に抑制または管理していることを示唆しています。この理論の支持者らは、UFO目撃情報の捕獲や調査、地球外生命体の秘密研究の実施、さらには宇宙人との直接接触の証拠の隠蔽に軍が関与していると主張している。地球外生物学の軍事的隠蔽という概念は、国家安全保障や社会の安定などのさまざまな理由から、潜在的な地球外現象に関する情報を差し控えたり操作したりする意図的な取り組みを意味します。
+lead: 地球外生物学の軍事隠蔽とは、軍事組織または政府が地球外生命体の研究や宇宙人との遭遇に関する情報を隠蔽しているという考えを指します。これは、地球外生命体の存在に関する隠された知識や証拠が存在し、軍事組織がこの情報の一般公開を積極的に抑制または管理していることを示唆しています。この理論の支持者らは、UFO目撃情報の捕獲や調査、地球外生命体の秘密研究の実施、さらには宇宙人との直接接触の証拠の隠蔽に軍が関与していると主張している。地球外生物学の軍事的隠蔽という概念は、国家安全保障や社会の安定などのさまざまな理由から、潜在的な地球外現象に関する情報を差し控えたり操作したりする意図的な取り組みを意味します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

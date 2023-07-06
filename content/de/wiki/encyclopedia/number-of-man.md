@@ -1,14 +1,28 @@
 ---
-title: "Zahl des Menschen"
-description: "Number of Man, also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo.."
-lead: "Also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Zahl des Menschen
+description: Die Zahl der Menschen, auch bekannt als Zahl des Tieres oder einfach
+  aufgrund des Werts, den sie darstellt, 666 (χξϛ), ist die Zahl der menschlichen
+  Generationen, die seit der Erschaffung der ersten Menschen während der Genesis auf
+  der Erde existiert haben. Wenn eine Generation auf 20 Jahre festgelegt wird, beträgt
+  das Produkt aus der Anzahl der Menschen 13'320 Jahre. Wenn wir gerade in das Zeitalter
+  des Wassermanns eingetreten sind und davon ausgehen, dass dies mit der Zahl des
+  Menschen übereinstimmt, muss der erste Mensch vor einem halben Präzessionszyklus
+  erschaffen worden sein, also zu Beginn des Zeitalters des Löwen.
+lead: 666 (χξϛ), auch bekannt als die Zahl des Tieres oder einfach aufgrund des Werts,
+  den sie darstellt, ist die Anzahl der menschlichen Generationen, die seit der Erschaffung
+  der ersten Menschen während der Genesis auf der Erde existiert haben werden. Wenn
+  eine Generation auf 20 Jahre festgelegt wird, beträgt das Produkt aus der Anzahl
+  der Menschen 13'320 Jahre. Wenn wir gerade in das Zeitalter des Wassermanns eingetreten
+  sind und davon ausgehen, dass dies mit der Zahl des Menschen übereinstimmt, muss
+  der erste Mensch vor einem halben Präzessionszyklus erschaffen worden sein, also
+  zu Beginn des Zeitalters des Löwen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

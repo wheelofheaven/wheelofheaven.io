@@ -1,14 +1,25 @@
 ---
-title: "Biología sintética"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Biología sintética
+description: La biología sintética es un campo interdisciplinario que combina principios
+  de biología, genética e ingeniería para diseñar y construir sistemas biológicos
+  artificiales, circuitos genéticos y organismos con funciones o características novedosas.
+  Implica la modificación o creación deliberada de material genético y la ingeniería
+  de componentes biológicos para programar células vivas para realizar tareas específicas
+  o exhibir rasgos deseados. La biología sintética tiene como objetivo comprender
+  y rediseñar los sistemas biológicos.
+lead: Un campo interdisciplinario que combina principios de biología, genética e ingeniería
+  para diseñar y construir sistemas biológicos artificiales, circuitos genéticos y
+  organismos con funciones o características novedosas. Implica la modificación o
+  creación deliberada de material genético y la ingeniería de componentes biológicos
+  para programar células vivas para realizar tareas específicas o exhibir rasgos deseados.
+  La biología sintética tiene como objetivo comprender y rediseñar los sistemas biológicos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

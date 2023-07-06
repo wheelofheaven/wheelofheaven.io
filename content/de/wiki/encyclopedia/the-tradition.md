@@ -1,14 +1,26 @@
 ---
-title: "Die Tradition"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Die Tradition
+description: Die Tradition, eine Reihe mündlicher und schriftlicher ewiger Wahrheiten,
+  die über viele Generationen und in verschiedenen Zivilisationen weitergegeben wurden
+  und daher den Wissensspeicher, der in einer fernen Vergangenheit entstanden ist,
+  intakt gehalten haben. Die Tradition bezieht sich nicht unbedingt auf eine bestimmte
+  Reihe von Schriften oder Büchern, sondern kann als kulturelles und mythologisches
+  Erbe aller einzelnen Menschen verstanden werden, die die höchsten Wahrheiten auf
+  kodifizierte und angeblich unbestechliche Weise formalisiert haben.
+lead: Eine Reihe mündlicher und schriftlicher ewiger Wahrheiten, die über viele Generationen
+  und in verschiedenen Zivilisationen weitergegeben wurden und daher den Wissensspeicher,
+  der in einer fernen Vergangenheit entstanden ist, intakt gehalten haben. Die Tradition
+  bezieht sich nicht unbedingt auf eine bestimmte Reihe von Schriften oder Büchern,
+  sondern kann als kulturelles und mythologisches Erbe aller einzelnen Menschen verstanden
+  werden, die die höchsten Wahrheiten auf kodifizierte und angeblich unbestechliche
+  Weise formalisiert haben.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

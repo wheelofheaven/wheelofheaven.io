@@ -1,15 +1,18 @@
 ---
-title: "ダビデの星"
-alternatives: ["Hexagram", "Magen David", "Shield of David"]
-description: "Star of David, an ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-lead: "An ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ダビデの星
+alternatives:
+- Hexagram
+- Magen David
+- Shield of David
+description: ダビデの星、ダビデの盾 (マゲン ダビデ) やソロモンのシールなど、多くの名前で知られる古代のシンボル。一般にユダヤ文化やユダヤ教の信仰と関連付けられていますが、このシンボルは人類の歴史のさまざまな時期に多くの文化で描かれています。ラエリ主義では、その意味は、存在のすべてのスケールの等価性（一般に悪名高いヘルメスの格言「上にあるように、下にもある」で呼ばれる）と、果てしなく広大な空間（無限）の両方を表すものと解釈されています。
+lead: ダビデの盾 (マゲン ダビデ) やソロモンのシールなど、多くの名前で知られる古代のシンボル。一般にユダヤ文化やユダヤ教の信仰と関連付けられていますが、このシンボルは人類の歴史のさまざまな時期に多くの文化で描かれています。ラエリ主義では、その意味は、存在のすべてのスケールの等価性（一般に悪名高いヘルメスの格言「上にあるように、下にもある」で呼ばれる）と、果てしなく広大な空間（無限）の両方を表すものと解釈されています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

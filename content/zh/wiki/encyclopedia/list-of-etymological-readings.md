@@ -1,14 +1,14 @@
 ---
-title: "词源阅读列表"
-description: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
-lead: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 词源阅读列表
+description: 词源读物列表。通过探索天轮提出的前提，有许多宗教、神话或传统观念可以从词源上解读。该列表将列出其中的大多数概念。
+lead: 词源读物列表。通过探索天轮提出的前提，有许多宗教、神话或传统观念可以从词源上解读。该列表将列出其中的大多数概念。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

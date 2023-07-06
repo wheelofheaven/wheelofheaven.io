@@ -1,14 +1,14 @@
 ---
-title: "近接遭遇のリスト"
-description: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-lead: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 近接遭遇のリスト
+description: 接近遭遇のリスト。古代から現代に至るまで報告されている未確認飛行物体との接近遭遇をすべて網羅的に列挙したもの。
+lead: 接近遭遇のリスト。古代から現代に至るまで報告されている未確認飛行物体との接近遭遇をすべて網羅的に列挙したもの。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

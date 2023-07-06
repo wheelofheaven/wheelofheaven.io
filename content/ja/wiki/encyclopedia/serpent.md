@@ -1,15 +1,20 @@
 ---
-title: "蛇"
-alternatives: ["Serpentine faction", "Sons of God", "Watchers"]
-description: "Serpent, a metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-lead: "A metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 蛇
+alternatives:
+- Serpentine faction
+- Sons of God
+- Watchers
+description: 蛇、エロヒム（אֱלֹהִים）の中の手に負えない派閥を比喩的に表したもの。最初の人類が地球上で合成的に工学的に作られた後、工学者のエロヒムの一部は、これらの新しい人間の生き物を平等に教育することが不可欠であると考えました。この教育は最初の人類に与えられ、その責任者である蛇として知られるエロヒムは不法侵入の罪で有罪判決を受け追放され、地球に留まりました。この派閥の主要な主人公の
+  1 人は、光をもたらす者ルシファーとして知られています。
+lead: エロヒム (אֱלֹהִים) の中の手に負えない派閥への比喩的な言及。最初の人類が地球上で合成的に工学的に作られた後、工学者のエロヒムの一部は、これらの新しい人間の生き物を平等に教育することが不可欠であると考えました。この教育は最初の人類に与えられ、その責任者である蛇として知られるエロヒムは不法侵入の罪で有罪判決を受け追放され、地球に留まりました。この派閥の主要な主人公の
+  1 人は、光をもたらす者ルシファーとして知られています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

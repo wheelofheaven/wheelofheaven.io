@@ -1,14 +1,29 @@
 ---
-title: "Ufologie"
-description: "Ufology is a field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-lead: "A field of study and research that focuses on the phenomenon of unidentified flying objects (UFOs), hence the name, and the possibility of extraterrestrial life visiting or interacting with Earth. Ufologists investigate sightings, photographs, videos, and other reported evidence related to UFOs, analyzing them to determine their nature and origin. Ufology explores various theories, ranging from alien spacecraft to government cover-ups, and aims to understand the phenomenon of UFOs through scientific investigation, eyewitness testimonies, and documentary evidence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ufologie
+description: Ufologie ist ein Studien- und Forschungsgebiet, das sich auf das Phänomen
+  nicht identifizierter Flugobjekte (UFOs) konzentriert, daher der Name, und auf die
+  Möglichkeit, dass außerirdisches Leben die Erde besucht oder mit ihr interagiert.
+  Ufologen untersuchen Sichtungen, Fotos, Videos und andere gemeldete Beweise im Zusammenhang
+  mit UFOs und analysieren sie, um ihre Art und Herkunft zu bestimmen. Die Ufologie
+  erforscht verschiedene Theorien, die von außerirdischen Raumschiffen bis hin zu
+  Vertuschungen durch die Regierung reichen, und zielt darauf ab, das Phänomen der
+  UFOs durch wissenschaftliche Untersuchungen, Augenzeugenberichte und dokumentarische
+  Beweise zu verstehen.
+lead: Ein Studien- und Forschungsbereich, der sich auf das Phänomen nicht identifizierter
+  Flugobjekte (UFOs) konzentriert, daher der Name, und die Möglichkeit, dass außerirdisches
+  Leben die Erde besucht oder mit ihr interagiert. Ufologen untersuchen Sichtungen,
+  Fotos, Videos und andere gemeldete Beweise im Zusammenhang mit UFOs und analysieren
+  sie, um ihre Art und Herkunft zu bestimmen. Die Ufologie erforscht verschiedene
+  Theorien, die von außerirdischen Raumschiffen bis hin zu Vertuschungen durch die
+  Regierung reichen, und zielt darauf ab, das Phänomen der UFOs durch wissenschaftliche
+  Untersuchungen, Augenzeugenberichte und dokumentarische Beweise zu verstehen.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

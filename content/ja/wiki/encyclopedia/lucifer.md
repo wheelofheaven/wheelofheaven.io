@@ -1,15 +1,18 @@
 ---
-title: "ルシファー"
-alternatives: ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
-description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ルシファー
+alternatives:
+- Fallen angel of light
+- Hêlêl ben Šāḥar
+- הֵילֵל בֶּן-שָׁחַר
+description: 'ルシファー（ラテン語で光をもたらす者、またはヘレル、ヘブライ語: הֵילֵל、同じ意味）は、サタンと混同しないでください。エロハ（אֱלוֹהַּ）であり、エロヒム（אֱלֹהִים）の繁栄を支える派閥の代表です。地球上の人類の文明。固有名詞ではなく、光をもたらす役割を比喩した言葉です。ルシファーという名前と、それに対応するセム語のヘレルという名前はどちらも、日の出時に太陽の前に昇る明けの明星、金星を指します。'
+lead: 'ルシファー（ラテン語で光をもたらす者、またはヘレル、ヘブライ語: הֵילֵל、同じ意味）は、サタンと混同しないでください。エロハ（אֱלוֹהַּ）であり、エロヒム（אֱלֹהִים）の繁栄を支える派閥の代表です。地球上の人類の文明。固有名詞ではなく、光をもたらす役割を比喩した言葉です。ルシファーという名前と、それに対応するセム語のヘレルという名前はどちらも、日の出時に太陽の前に昇る明けの明星、金星を指します。'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

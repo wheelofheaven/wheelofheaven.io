@@ -1,15 +1,16 @@
 ---
-title: "多神教"
-alternatives: ["Polytheism"]
-description: "The Plurality of Gods represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-lead: "Represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 多神教
+alternatives:
+- Polytheism
+description: 神の複数性は、聖書の伝統が複数の神の存在を証明しているという独特の解釈を表しています。この概念には、これらの神聖な存在がかつては人間に似ていたという信念、そしてそれに応じて人間は将来的に神のような存在に進化する可能性があるという信念も含まれています。
+lead: 聖書の伝統が複数の神の存在を証明しているという独特の解釈を表します。この概念には、これらの神聖な存在がかつては人間に似ていたという信念、そしてそれに応じて人間は将来的に神のような存在に進化する可能性があるという信念も含まれています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,20 @@
 ---
-title: "Список мифем и мифологических мотивов"
-description: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-lead: "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Список мифем и мифологических мотивов
+description: Список мифем и мифологических мотивов. Благодаря исследованию предпосылок,
+  выдвинутых «Колесом небес», существует ряд мифологических тем и мифологических мотивов,
+  которые можно прочитать с помощью интерпретации рабочей гипотезы. Этот список будет
+  каталогизировать большинство этих мотивов.
+lead: Список мифем и мифологических мотивов. Благодаря исследованию предпосылок, выдвинутых
+  «Колесом небес», существует ряд мифологических тем и мифологических мотивов, которые
+  можно прочитать с помощью интерпретации рабочей гипотезы. Этот список будет каталогизировать
+  большинство этих мотивов.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

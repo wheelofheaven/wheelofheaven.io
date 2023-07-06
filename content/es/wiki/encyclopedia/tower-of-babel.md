@@ -1,18 +1,33 @@
 ---
-title: "Torre de Babel"
-alternatives: ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
-description: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-lead: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Torre de Babel
+alternatives:
+- Mīgdal Bāḇel
+- מִגְדַּל בָּבֶל
+description: 'Torre de Babel (en hebreo: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), durante los
+  primeros días después del Gran Diluvio, una nave espacial interestelar (quizás con
+  forma alargada como un cohete) que se construyó en un esfuerzo de colaboración entre
+  el pueblo de Israel y los elohimianos exiliados creadores El propósito de la nave
+  espacial era mejorar las relaciones diplomáticas con el planeta de origen elohimiano
+  que era hostil a la preservación de la vida en la Tierra asegurando amnistía para
+  sus habitantes.'
+lead: 'Torre de Babel (en hebreo: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), durante los primeros
+  días después del Gran Diluvio, una nave espacial interestelar (quizás con forma
+  alargada como un cohete) que se construyó en un esfuerzo de colaboración entre el
+  pueblo de Israel y los elohimianos exiliados creadores El propósito de la nave espacial
+  era mejorar las relaciones diplomáticas con el planeta de origen elohimiano que
+  era hostil a la preservación de la vida en la Tierra asegurando amnistía para sus
+  habitantes.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.

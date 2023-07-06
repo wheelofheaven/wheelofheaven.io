@@ -1,14 +1,14 @@
 ---
-title: "善悪の知識の木"
-description: "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-lead: "A Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 善悪の知識の木
+description: 善悪の知識の木、科学的知識の記録を表す聖書の比喩。最初の遺伝子操作された人類には、すべてではありませんが一部の科学本が見せられ、特に優れた科学知識を含む本は秘密にされました。善と悪は、これらの記録とそこに含まれる影響についての意図的な無知を表しています。
+lead: 科学知識の記録を表す聖書の比喩。最初の遺伝子操作された人類には、すべてではありませんが一部の科学本が見せられ、特に優れた科学知識を含む本は秘密にされました。善と悪は、これらの記録とそこに含まれる影響についての意図的な無知を表しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

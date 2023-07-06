@@ -1,14 +1,14 @@
 ---
-title: "ビグリノ法"
-description: "The Biglino method is an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-lead: "An alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ビグリノ法
+description: Biglino メソッドは聖書を解釈するための代替アプローチであり、比喩的な言葉や確立された釈義に頼るのではなく、その内容を文字通りに理解することを提唱しています。比喩的な解釈をせずにテキストを検証し、歴史的および文化的背景を強調することで、異なる物語を明らかにしようとしています。
+lead: 聖書を解釈するための代替アプローチ。比喩的な言葉や確立された釈義に頼るのではなく、その内容を文字通りに理解することを提唱します。比喩的な解釈をせずにテキストを検証し、歴史的および文化的背景を強調することで、異なる物語を明らかにしようとしています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

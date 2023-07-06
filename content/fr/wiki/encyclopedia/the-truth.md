@@ -1,14 +1,24 @@
 ---
-title: "La Vérité"
-description: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-lead: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: La Vérité
+description: La vérité, la notion spéculative selon laquelle lorsque suffisamment
+  de signes de vérités partielles sont convenablement démystifiés et compilés ensemble,
+  un récit cohérent et englobant émerge qui raconte les chroniques de la façon dont
+  la vie sur Terre a été conçue par une civilisation extraterrestre et de ce qui a
+  suivi par la suite jusqu'à ce jour même où cette Vérité sera révélée et redite aux
+  temps de l'Apocalypse.
+lead: La vérité, la notion spéculative selon laquelle lorsque suffisamment de signes
+  de vérités partielles sont convenablement démystifiés et compilés ensemble, un récit
+  cohérent et englobant émerge qui raconte les chroniques de la façon dont la vie
+  sur Terre a été conçue par une civilisation extraterrestre et de ce qui a suivi
+  par la suite jusqu'à ce jour même où cette Vérité sera révélée et redite aux temps
+  de l'Apocalypse.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

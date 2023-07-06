@@ -1,14 +1,18 @@
 ---
-title: "Elohimianischer Heimatplanet"
-description: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-lead: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Elohimianischer Heimatplanet
+description: Der extrasolare bewohnbare Planet, von dem die Gattung Elohimian oder
+  zumindest ihre Zivilisation stammt. Dieser Planet soll etwa 1 Lichtjahr von der
+  Erde entfernt sein und sich somit innerhalb der Milchstraße befinden.
+lead: Der extrasolare bewohnbare Planet, von dem die Gattung Elohimian oder zumindest
+  ihre Zivilisation stammt. Dieser Planet soll etwa 1 Lichtjahr von der Erde entfernt
+  sein und sich somit innerhalb der Milchstraße befinden.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

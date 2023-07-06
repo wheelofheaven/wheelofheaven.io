@@ -1,14 +1,25 @@
 ---
-title: "Космическая эволюция"
-description: "Cosmic evolution refers to a purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-lead: "A purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Космическая эволюция
+description: Космическая эволюция относится к целенаправленному, повторяющемуся созданию
+  жизни во Вселенной развитыми цивилизациями. Он выходит за рамки биологической эволюции,
+  подчеркивая преднамеренный дизайн и постоянное совершенствование гуманоидных форм
+  жизни. Каждое последующее творение представляет собой эволюционный шаг вперед, хотя
+  и потенциально представляет угрозу для их создателей. Эта концепция представляет
+  собой смесь естественных процессов и сознательного замысла в великом развитии жизни
+  в космосе.
+lead: Целенаправленное итеративное создание жизни по всей вселенной развитыми цивилизациями.
+  Он выходит за рамки биологической эволюции, подчеркивая преднамеренный дизайн и
+  постоянное совершенствование гуманоидных форм жизни. Каждое последующее творение
+  представляет собой эволюционный шаг вперед, хотя и потенциально представляет угрозу
+  для их создателей. Эта концепция представляет собой смесь естественных процессов
+  и сознательного замысла в великом развитии жизни в космосе.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

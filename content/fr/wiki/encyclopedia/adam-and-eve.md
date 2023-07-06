@@ -1,17 +1,30 @@
 ---
-title: "Adam et Ève"
-description: "Adam and Eve, two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-lead: "Two key individuals of the earliest human prototypes that were successfully engineered. They were part of a distinct community originally of the human genus that lived during the days of the Garden of Eden in Eden. In concubination withe exiled creators, a rebellious Elohimian faction known as the Serpent, the Adamites gave birth to hybrid offspring. These offspring assimilated into the Adamite community, thus merging into a singular distinct group of hybrid and non-hybrid Adamites."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Adam et Ève
+description: Adam et Eve, deux individus clés des premiers prototypes humains qui
+  ont été conçus avec succès. Ils faisaient partie d'une communauté distincte à l'origine
+  du genre humain qui vivait à l'époque du Jardin d'Eden en Eden. En concubine avec
+  des créateurs exilés, une faction rebelle Elohimienne connue sous le nom de Serpent,
+  les Adamites ont donné naissance à une progéniture hybride. Ces descendants se sont
+  assimilés à la communauté Adamite, fusionnant ainsi en un groupe distinct singulier
+  d'Adamites hybrides et non hybrides.
+lead: Deux personnes clés des premiers prototypes humains qui ont été conçus avec
+  succès. Ils faisaient partie d'une communauté distincte à l'origine du genre humain
+  qui vivait à l'époque du Jardin d'Eden en Eden. En concubine avec des créateurs
+  exilés, une faction rebelle Elohimienne connue sous le nom de Serpent, les Adamites
+  ont donné naissance à une progéniture hybride. Ces descendants se sont assimilés
+  à la communauté Adamite, fusionnant ainsi en un groupe distinct singulier d'Adamites
+  hybrides et non hybrides.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo"]
+timeline:
+- leo
 ---
 
 Adam and Eve are the first man and woman according to the creation story in the Bible's book of Genesis. They are considered the first human beings created by God, and are believed to have lived in the Garden of Eden before disobeying God's command and being expelled from the garden (Genesis 3). Adam is described as the first man created by God from the dust of the ground, while Eve is described as the first woman, created from one of Adam's ribs (Genesis 2:7, 2:22). Adam and Eve's story is often seen as an allegory for the origin of sin and the fall of humanity.

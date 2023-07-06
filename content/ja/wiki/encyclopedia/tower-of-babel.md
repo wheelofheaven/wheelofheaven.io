@@ -1,18 +1,21 @@
 ---
-title: "バベルの塔"
-alternatives: ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
-description: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-lead: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: バベルの塔
+alternatives:
+- Mīgdal Bāḇel
+- מִגְדַּל בָּבֶל
+description: 'バベルの塔（ヘブライ語: מִגְדַּל בָּבֶל、Mīgdal Bāḇel）は、大洪水後の初期に、イスラエルの人々と亡命エロヒミア人との共同作業で建造された星間宇宙船（おそらくロケットのように細長い形状）。クリエイターたち。この宇宙船の目的は、地球上の生命の保存に敵対的なエロヒミアの故郷の惑星との外交関係を、住民への恩赦を確保することで改善することであった。'
+lead: 'バベルの塔（ヘブライ語: מִגְדַּל בָּבֶל、Mīgdal Bāḇel）は、大洪水後の初期に、イスラエルの人々と亡命エロヒミア人との共同作業で建造された星間宇宙船（おそらくロケットのように細長い形状）。クリエイターたち。この宇宙船の目的は、地球上の生命の保存に敵対的なエロヒミアの故郷の惑星との外交関係を、住民への恩赦を確保することで改善することであった。'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Tower of Babel is a story from the book of Genesis in the Bible that tells of the building of a tower by the descendants of Noah to reach heaven. According to the story, the people of the world were once united and spoke a single language, but after the tower was built, God confused their language and scattered them across the earth.

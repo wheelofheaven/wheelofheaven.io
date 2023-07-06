@@ -1,14 +1,14 @@
 ---
-title: "传统"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 传统
+description: 传统是一套口头和书面的永恒真理，在不同的文明中代代相传，因此完好地保存了起源于遥远过去的知识库。该传统不一定是指一套特定的经文或书籍，而是可以被理解为所有个体的文化和神话遗产，这些遗产以编纂和据称廉洁的方式形式化了最高真理。
+lead: 一套口头和书面的永恒真理，已经在不同的文明中代代相传，因此完好地保存了起源于遥远过去的知识库。该传统不一定指一组特定的经文或书籍，而是可以被理解为所有个体的文化和神话遗产，这些遗产以编纂的、据说是廉洁的方式形式化了最高真理。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

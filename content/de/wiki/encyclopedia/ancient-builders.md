@@ -1,18 +1,37 @@
 ---
-title: "Antike Baumeister"
-alternatives: ["Builder race", "Megalithic builders"]
-description: "Ancient Builders, sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-lead: "Sometimes also referred to simply as the Builder Race, the proposition that an unknown number of co-existing or successive builder civilizations are reponsible for having built long-lasting, hyper-resilient architectural structures that have lasted for at least thousand of years. While these structures may or may not have been built by the same civilization, they can be characterized as having been built by ancient builders by a number of peculiar fingerprints such as megalithic building elements, the polygonial interlocking of these elements and astronomical alignements."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Antike Baumeister
+alternatives:
+- Builder race
+- Megalithic builders
+description: Antike Baumeister, manchmal auch einfach als „Baumeisterrasse“ bezeichnet,
+  sind die These, dass eine unbekannte Anzahl nebeneinander existierender oder aufeinanderfolgender
+  Baumeisterzivilisationen dafür verantwortlich sind, langlebige, äußerst widerstandsfähige
+  architektonische Strukturen gebaut zu haben, die mindestens tausend Jahre überdauert
+  haben . Obwohl diese Bauwerke möglicherweise von derselben Zivilisation erbaut wurden
+  oder auch nicht, können sie durch eine Reihe besonderer Merkmale wie megalithische
+  Bauelemente, die polygonale Verzahnung dieser Elemente und astronomische Ausrichtungen
+  als von antiken Baumeistern erbaut charakterisiert werden.
+lead: Manchmal auch einfach als „Builder Race“ bezeichnet, die Behauptung, dass eine
+  unbekannte Anzahl nebeneinander existierender oder aufeinanderfolgender Builder-Zivilisationen
+  dafür verantwortlich sind, langlebige, äußerst widerstandsfähige architektonische
+  Strukturen gebaut zu haben, die mindestens tausende von Jahren überdauert haben.
+  Obwohl diese Bauwerke möglicherweise von derselben Zivilisation erbaut wurden oder
+  auch nicht, können sie durch eine Reihe eigenartiger Merkmale wie megalithische
+  Bauelemente, die polygonale Verzahnung dieser Elemente und astronomische Ausrichtungen
+  als von antiken Baumeistern erbaut charakterisiert werden.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["leo", "cancer", "gemini"]
+timeline:
+- leo
+- cancer
+- gemini
 ---
 
 Ancient Builders typically refers to the architects, engineers, and skilled workers who created structures, such as buildings, temples, pyramids, and other monumental structures, in ancient civilizations. These ancient builders used a variety of materials and techniques, depending on the resources and technological abilities available to them. They often incorporated elements of sacred geometry, religious beliefs, and cultural symbols into their structures, which were sometimes used for religious or political purposes.

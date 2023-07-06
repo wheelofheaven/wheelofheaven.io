@@ -1,15 +1,23 @@
 ---
-title: "Pluralität der Götter"
-alternatives: ["Polytheism"]
-description: "The Plurality of Gods represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-lead: "Represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pluralität der Götter
+alternatives:
+- Polytheism
+description: Die Pluralität der Götter stellt die besondere Interpretation dar, dass
+  die biblische Tradition die Existenz mehrerer göttlicher Wesen bezeugt. Dieses Konzept
+  umfasst auch den Glauben, dass diese göttlichen Wesen einst mit Menschen verwandt
+  waren und dass Menschen dementsprechend das Potenzial besitzen, sich in Zukunft
+  zu gottähnlichen Wesen zu entwickeln.
+lead: Stellt die besondere Interpretation dar, dass die biblische Tradition die Existenz
+  mehrerer göttlicher Wesen bezeugt. Dieses Konzept umfasst auch den Glauben, dass
+  diese göttlichen Wesen einst mit Menschen verwandt waren und dass Menschen dementsprechend
+  das Potenzial besitzen, sich in Zukunft zu gottähnlichen Wesen zu entwickeln.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

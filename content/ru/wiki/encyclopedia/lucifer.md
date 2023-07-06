@@ -1,15 +1,28 @@
 ---
-title: "Люцифер"
-alternatives: ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
-description: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-lead: "Lucifer (Latin for Light-Bringer, or hêlēl, Hebrew: הֵילֵל, which means the same), not to be confused with Satan, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that supports a thriving human civilization on Earth. It is not a proper name, but a metaphorical term for the role of bringing light. The name Lucifer and its Semitic counterpart hêlēl both refer to the morning star, Venus, which rises before the sun at sunrise"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Люцифер
+alternatives:
+- Fallen angel of light
+- Hêlêl ben Šāḥar
+- הֵילֵל בֶּן-שָׁחַר
+description: 'Люцифер (лат. Несущий Свет или hêlēl, иврит: הֵילֵל, что означает то
+  же самое), не путать с Сатаной, является Элоха (אֱלוֹהַּ) и представителем фракции
+  внутри Элохима (אֱלֹהִים), которая поддерживает процветающую человеческой цивилизации
+  на Земле. Это не имя собственное, а метафорический термин, обозначающий роль нести
+  свет. Имя Люцифер и его семитский аналог hêlēl относятся к утренней звезде Венере,
+  которая восходит перед солнцем на восходе.'
+lead: 'Люцифер (лат. Светоносный или hêlēl, иврит: הֵילֵל, что означает то же самое),
+  не путать с Сатаной, является Элоха (אֱלוֹהַּ) и представителем фракции внутри Элохима
+  (אֱלֹהִים), которая поддерживает процветающую человеческой цивилизации на Земле.
+  Это не имя собственное, а метафорический термин, обозначающий роль нести свет. Имя
+  Люцифер и его семитский аналог hêlēl относятся к утренней звезде Венере, которая
+  восходит перед солнцем на восходе.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

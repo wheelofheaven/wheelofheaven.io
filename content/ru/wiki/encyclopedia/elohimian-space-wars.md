@@ -1,18 +1,40 @@
 ---
-title: "Война элохимов"
-alternatives: ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
-description: "Elohimian Space Wars, an armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-lead: "An armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Война элохимов
+alternatives:
+- Æsir–Vanir War
+- Theomachy
+- Titanomachy
+- War in Heaven
+description: Элохимианские космические войны , вооруженный конфликт значительного
+  масштаба произошел между двумя противоборствующими фракциями Элохимов, время которого
+  остается нераскрытым, но считается, что он произошел после Великого потопа. Фракция,
+  состоящая из изгнанных творцов, которые были сосланы на Землю и помогали Ною в сохранении
+  жизни, также породила гибридную группу адамитов. Эта фракция восстала против правящего
+  правительства на их родной планете во главе с президентом Совета Вечных Яхве. Вооруженное
+  противостояние происходило как на Земле, так и в окружающем космосе. Несмотря на
+  напряжение и конфликт, Яхве и его супруги в конечном итоге вышли победителями. Однако,
+  проявив меру милосердия, Яхве простил изгнанных творцов, позволив им вернуться на
+  родную планету.
+lead: Между двумя противостоящими фракциями Элохимов произошел вооруженный конфликт
+  значительного масштаба, время которого остается нераскрытым, но считается, что он
+  произошел после Великого потопа. Фракция, состоящая из изгнанных творцов, которые
+  были сосланы на Землю и помогали Ною в сохранении жизни, также породила гибридную
+  группу адамитов. Эта фракция восстала против правящего правительства на их родной
+  планете во главе с президентом Совета Вечных Яхве. Вооруженное противостояние происходило
+  как на Земле, так и в окружающем космосе. Несмотря на напряжение и конфликт, Яхве
+  и его супруги в конечном итоге вышли победителями. Однако, проявив меру милосердия,
+  Яхве простил изгнанных творцов, позволив им вернуться на родную планету.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## See also

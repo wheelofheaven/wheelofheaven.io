@@ -1,14 +1,24 @@
 ---
-title: "Géométrie sacrée"
-description: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-lead: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Géométrie sacrée
+description: Géométrie sacrée, la proposition selon laquelle des notions géométriques
+  d'un ordre supérieur ont été utilisées dans un certain nombre de structures, de
+  bâtiments et d'artefacts historiques suggérant que leurs constructeurs ont délibérément
+  ajouté une dimension supplémentaire de sens à leur travail, codifiant efficacement
+  leur héritage avec des proportions significatives et laissant ainsi empreintes digitales
+  faisant allusion à une tradition partagée de savoir et de sagesse.
+lead: Géométrie sacrée, la proposition selon laquelle des notions géométriques d'un
+  ordre supérieur ont été utilisées dans un certain nombre de structures, de bâtiments
+  et d'artefacts historiques suggérant que leurs constructeurs ont délibérément ajouté
+  une dimension supplémentaire de sens à leur travail, codifiant efficacement leur
+  héritage avec des proportions significatives et laissant ainsi empreintes digitales
+  faisant allusion à une tradition partagée de savoir et de sagesse.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

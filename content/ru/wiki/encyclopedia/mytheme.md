@@ -1,14 +1,14 @@
 ---
-title: "Мифема"
-description: "Mytheme, a fundamental unit of mythological narrative structure."
-lead: "A fundamental unit of mythological narrative structure."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Мифема
+description: Мифема, фундаментальная единица мифологической нарративной структуры.
+lead: Фундаментальная единица мифологической нарративной структуры.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

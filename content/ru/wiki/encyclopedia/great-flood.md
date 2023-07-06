@@ -1,18 +1,25 @@
 ---
-title: "Великий потоп"
-alternatives: ["Great Deluge"]
-description: "Great Flood, also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-lead: "Also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Великий потоп
+alternatives:
+- Great Deluge
+description: Великий потоп, также известный как Великий потоп, катастрофическое событие,
+  вызванное превентивной военной мерой, преднамеренно инициированной бедствующим правительством
+  далекой родной планеты Элохим, пожелавшим положить конец независимому научному прогрессу
+  на Земле.
+lead: Также известное как Великий Потоп, катастрофическое событие, вызванное превентивной
+  военной мерой, преднамеренно инициированной бедствующим правительством далекой родной
+  планеты Элохим, пожелавшим положить конец независимому научному прогрессу на Земле.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Great Flood is a story that appears in several different religious traditions, including the Bible, and describes a massive flood that covers the entire Earth and destroys all life except for a select few. In the biblical account, the Great Flood is described in the book of Genesis as a punishment from God for the wickedness and corruption of humanity.

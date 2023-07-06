@@ -1,14 +1,26 @@
 ---
-title: "La Tradition"
-description: "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-lead: "A set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: La Tradition
+description: La Tradition, un ensemble de vérités pérennes orales et écrites qui se
+  sont transmises sur de nombreuses générations et à travers diverses civilisations
+  et ont donc conservé intact le référentiel de connaissances qui trouve son origine
+  dans un passé lointain. La Tradition ne se réfère pas nécessairement à un ensemble
+  spécifique d'écritures ou de livres, mais peut être comprise comme l'héritage culturel
+  et mythologique de tous les individus qui ont formalisé les vérités les plus élevées
+  d'une manière codifiée et prétendument incorruptible.
+lead: Un ensemble de vérités pérennes orales et écrites qui ont été transmises sur
+  de nombreuses générations et à travers diverses civilisations et ont donc conservé
+  intact le référentiel de connaissances qui a pris naissance dans un passé lointain.
+  La Tradition ne se réfère pas nécessairement à un ensemble spécifique d'écritures
+  ou de livres, mais peut être comprise comme l'héritage culturel et mythologique
+  de tous les individus qui ont formalisé les vérités les plus élevées d'une manière
+  codifiée et prétendument incorruptible.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

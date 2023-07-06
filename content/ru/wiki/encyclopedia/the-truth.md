@@ -1,14 +1,24 @@
 ---
-title: "Правда"
-description: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-lead: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Правда
+description: Истина, спекулятивное представление о том, что, когда достаточное количество
+  признаков частичных истин надлежащим образом демистифицировано и собрано воедино,
+  возникает связное всеобъемлющее повествование, которое рассказывает хроники о том,
+  как жизнь на Земле была спроектирована внеземной цивилизацией, и о том, что последовало
+  за этим до этого. Тот самый день, когда эта Истина будет раскрыта и пересказана
+  во времена Апокалипсиса.
+lead: Истина, спекулятивное представление о том, что, когда достаточное количество
+  признаков частичных истин надлежащим образом демистифицировано и собрано воедино,
+  возникает связное всеобъемлющее повествование, которое рассказывает хроники о том,
+  как жизнь на Земле была спроектирована внеземной цивилизацией, и о том, что последовало
+  за этим до этого. Тот самый день, когда эта Истина будет раскрыта и пересказана
+  во времена Апокалипсиса.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

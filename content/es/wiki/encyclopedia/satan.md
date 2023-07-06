@@ -1,15 +1,29 @@
 ---
-title: "Satanás"
-alternatives: ["Accuser", "hasSāṭān","Prosecutor", "שָׂטָן"]
-description: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-lead: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Satanás
+alternatives:
+- Accuser
+- hasSāṭān
+- Prosecutor
+- שָׂטָן
+description: 'Satán (śāṭān, hebreo: שָׂטָן), que no debe confundirse con Lucifer,
+  es un Eloha (אֱלוֹהַּ) y el representante de una facción dentro de los Elohim (אֱלֹהִים)
+  que se opone a la existencia de una civilización descendiente próspera en la Tierra
+  que es vista como un amenaza para su bienestar remoto. Como tal, Satán no es un
+  nombre propio, sino una forma indicativa del papel que desempeña Satán, a saber,
+  el de un obstructor, de un acusador o incluso de un acusador.'
+lead: 'Satán (śāṭān, hebreo: שָׂטָן), que no debe confundirse con Lucifer, es un Eloha
+  (אֱלוֹהַּ) y el representante de una facción dentro de los Elohim (אֱלֹהִים) que
+  se opone a la existencia de una civilización descendiente próspera en la Tierra
+  que es vista como un amenaza para su bienestar remoto. Como tal, Satán no es un
+  nombre propio, sino una forma indicativa del papel que desempeña Satán, a saber,
+  el de un obstructor, de un acusador o incluso de un acusador.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

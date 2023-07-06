@@ -1,14 +1,14 @@
 ---
-title: "第三の神殿"
-description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 第三の神殿
+description: 第三神殿、黙示録の時代に再建されるべきエロヒムの住居。
+lead: 黙示録の時代に再建されるべきエロヒムの住居。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

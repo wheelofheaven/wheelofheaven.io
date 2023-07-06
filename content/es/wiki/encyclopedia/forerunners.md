@@ -1,14 +1,28 @@
 ---
-title: "Precursores"
-description: "The Forerunners were an extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-lead: "An extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Precursores
+description: Los Forerunners eran una civilización extraterrestre extraordinariamente
+  avanzada que se creía que había creado a los Elohim, una raza humanoide que se convirtió
+  en creadores y eventualmente diseñó genéticamente la vida en la Tierra. La verdadera
+  naturaleza e identidad de los Forerunner sigue siendo en gran medida un misterio,
+  ya que aparentemente desaparecieron antes de que los Elohim pudieran encontrarlos
+  físicamente o aprender directamente de ellos. Su legado, sin embargo, sobrevive
+  en la forma de su vasto conocimiento científico, que fue preservado y algún día
+  podría transmitirse a la humanidad.
+lead: Una civilización extraterrestre extraordinariamente avanzada que se cree que
+  creó a los Elohim, una raza humanoide que ellos mismos se convirtieron en creadores,
+  eventualmente modificando genéticamente la vida en la Tierra. La verdadera naturaleza
+  e identidad de los Forerunner sigue siendo en gran medida un misterio, ya que aparentemente
+  desaparecieron antes de que los Elohim pudieran encontrarlos físicamente o aprender
+  directamente de ellos. Su legado, sin embargo, sobrevive en la forma de su vasto
+  conocimiento científico, que fue preservado y algún día podría transmitirse a la
+  humanidad.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

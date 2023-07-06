@@ -1,14 +1,14 @@
 ---
-title: "ヘブライ語"
-description: "Hebrew, specifically an ancient predecessor of the Hebrew language, is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-lead: "Specifically an ancient predecessor of the Hebrew language is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: ヘブライ語
+description: ヘブライ語、特にヘブライ語の古代の前身であるヘブライ語は、エロヒミア文明の公式の話し言葉であることが明らかになりました。そのため、古代ヘブライ語の最も遠い起源は、地球人類起源ではなく、私たちの創造者であるエロヒムから直接受け継がれたものであり、彼らは人類がその誕生以来採用してきた古代バージョンのヘブライ語を話していました。現代ヘブライ語がエロヒミア語と同等であるとは考えられませんが、一方でセム語族はその遺産を保存していると理解できます。
+lead: 具体的には、ヘブライ語の古代の前身がエロヒミア文明の公式の話し言葉であることが明らかになりました。そのため、古代ヘブライ語の最も遠い起源は、地球人類起源ではなく、私たちの創造者であるエロヒムから直接受け継がれたものであり、彼らは人類がその誕生以来採用してきた古代バージョンのヘブライ語を話していました。現代ヘブライ語がエロヒミア語と同等であるとは考えられませんが、一方でセム語族はその遺産を保存していると理解できます。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

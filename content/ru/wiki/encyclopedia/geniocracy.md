@@ -1,14 +1,20 @@
 ---
-title: "Гениократия"
-description: "Geniocracy, a proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-lead: "A proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Гениократия
+description: Гениократия , предложенная Яхве политическая система, предложенная Яхве
+  как часть Новых Заповедей, которая избирает разумных людей на политические должности,
+  объединенные из всего человечества, поэтому признает только интеллект как атрибут
+  приемлемости, а не богатство, класс, силу или власть.
+lead: Предлагаемая политическая система, предложенная Яхве как часть Новых Заповедей,
+  которая избирает разумных людей на политические должности, объединенные из всего
+  человечества, поэтому признает только интеллект как атрибут приемлемости, а не богатство,
+  класс, силу или власть.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

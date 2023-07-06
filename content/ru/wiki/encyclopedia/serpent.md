@@ -1,15 +1,28 @@
 ---
-title: "Змей"
-alternatives: ["Serpentine faction", "Sons of God", "Watchers"]
-description: "Serpent, a metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-lead: "A metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Змей
+alternatives:
+- Serpentine faction
+- Sons of God
+- Watchers
+description: Змей, метафорическая ссылка на непокорную фракцию среди Элохимов (אֱלֹהִים).
+  После того, как первые человеческие существа были искусственно созданы на Земле,
+  подгруппа инженерных Элохимов сочла необходимым обучать этих новых человеческих
+  существ наравне. Образование было дано первым людям, и ответственные за него Элохимы,
+  известные как Змей, были осуждены и сосланы, чтобы остаться на Земле за свое вторжение.
+  Один из главных героев этой фракции известен как Люцифер, несущий свет.
+lead: Метафорическая ссылка на непокорную фракцию среди Элохимов (אֱלֹהִים). После
+  того, как первые человеческие существа были искусственно созданы на Земле, подгруппа
+  инженерных Элохимов сочла необходимым обучать этих новых человеческих существ наравне.
+  Образование было дано первым людям, и ответственные за него Элохимы, известные как
+  Змей, были осуждены и сосланы, чтобы остаться на Земле за свое вторжение. Один из
+  главных героев этой фракции известен как Люцифер, несущий свет.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

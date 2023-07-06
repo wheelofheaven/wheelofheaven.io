@@ -1,14 +1,21 @@
 ---
-title: "Древо познания добра и зла"
-description: "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-lead: "A Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Древо познания добра и зла
+description: Древо познания добра и зла, библейская метафора записей научных знаний.
+  Первым генетически модифицированным людям показывали некоторые, но не все научные
+  книги, особенно книги, содержащие большие научные знания, держались в секрете. Добро
+  и зло представляют преднамеренное игнорирование этих записей и содержащихся в них
+  ответвлений.
+lead: Библейская метафора записи научных знаний. Первым генетически модифицированным
+  людям показывали некоторые, но не все научные книги, особенно книги, содержащие
+  большие научные знания, держались в секрете. Добро и зло представляют преднамеренное
+  игнорирование этих записей и содержащихся в них ответвлений.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

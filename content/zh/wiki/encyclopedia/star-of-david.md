@@ -1,15 +1,18 @@
 ---
-title: "大卫之星"
-alternatives: ["Hexagram", "Magen David", "Shield of David"]
-description: "Star of David, an ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-lead: "An ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 大卫之星
+alternatives:
+- Hexagram
+- Magen David
+- Shield of David
+description: 大卫之星，一种古老的符号，有许多名称，例如大卫之盾（红大卫）或所罗门印记。虽然它通常与犹太文化和犹太信仰联系在一起，但它的象征在人类历史的不同时期被许多文化所描绘。在雷利主义中，它的含义被解释为代表所有存在尺度的等价性（通常由臭名昭著的赫尔墨斯语“上如其上，下亦如此”所指）以及无限广阔的空间（无限）。
+lead: 一种古老的符号，有许多名称，例如大卫之盾（红大卫）或所罗门印记。虽然它通常与犹太文化和犹太信仰联系在一起，但它的象征在人类历史的不同时期被许多文化所描绘。在雷利主义中，它的含义被解释为代表所有存在尺度的等价性（通常由臭名昭著的赫尔墨斯语“上如其上，下亦如此”所指）以及无限广阔的空间（无限）。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

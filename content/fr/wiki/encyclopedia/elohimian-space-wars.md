@@ -1,18 +1,42 @@
 ---
-title: "Guerre Élohim"
-alternatives: ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
-description: "Elohimian Space Wars, an armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-lead: "An armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Guerre Élohim
+alternatives:
+- Æsir–Vanir War
+- Theomachy
+- Titanomachy
+- War in Heaven
+description: Elohimian Space Wars , un conflit armé d'une ampleur significative s'est
+  produit entre deux factions Elohim opposées, dont le moment reste inconnu mais qui
+  aurait eu lieu après le Grand Déluge. La faction composée de créateurs exilés, qui
+  avaient été bannis sur Terre et avait aidé Noé à préserver la vie, a également donné
+  naissance à un groupe hybride d'Adamites. Cette faction était en rébellion contre
+  le gouvernement au pouvoir sur leur planète natale, dirigée par le président du
+  Conseil des Éternels, Yahweh. La confrontation armée s'est produite à la fois sur
+  Terre et dans l'espace environnant. Malgré la tension et le conflit, Yahweh et ses
+  épouses sont finalement sortis victorieux. Cependant, faisant preuve d'une mesure
+  de clémence, Yahweh a pardonné aux créateurs exilés, leur permettant de retourner
+  sur leur planète natale.
+lead: Un conflit armé d'une ampleur significative s'est produit entre deux factions
+  Elohim opposées, dont le moment reste inconnu mais qui aurait eu lieu après le Grand
+  Déluge. La faction composée de créateurs exilés, qui avaient été bannis sur Terre
+  et avait aidé Noé à préserver la vie, a également donné naissance à un groupe hybride
+  d'Adamites. Cette faction était en rébellion contre le gouvernement au pouvoir sur
+  leur planète natale, dirigée par le président du Conseil des Éternels, Yahweh. La
+  confrontation armée s'est produite à la fois sur Terre et dans l'espace environnant.
+  Malgré la tension et le conflit, Yahweh et ses épouses sont finalement sortis victorieux.
+  Cependant, faisant preuve d'une mesure de clémence, Yahweh a pardonné aux créateurs
+  exilés, leur permettant de retourner sur leur planète natale.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## See also

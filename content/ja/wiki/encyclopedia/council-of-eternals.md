@@ -1,14 +1,14 @@
 ---
-title: "永遠の評議会"
-description: "Council of Eternals, also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-lead: "Also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members, all Elohim individuals, who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 永遠の評議会
+description: 永遠評議会、永遠大評議会とも呼ばれる、エロヒミア文明を承認する統治機関です。それは 700 人のメンバーで構成されており、全員が故郷の惑星から離れた専用の惑星に永遠に住んでいます。このまさに同じ統治体が複数の宗教、特に聖書で言及されており、地球の出来事に介入しており、現在も介入しています。
+lead: また、永遠の大評議会は、エロヒミア文明を承認する統治機関です。それは700人のメンバーで構成されており、全員がエロヒム個人であり、全員が故郷の惑星から離れた専用の惑星に永遠に住んでいます。このまさに同じ統治体が複数の宗教、特に聖書で言及されており、地球の出来事に介入しており、現在も介入しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

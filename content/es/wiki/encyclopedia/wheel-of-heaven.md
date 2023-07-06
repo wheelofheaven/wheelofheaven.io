@@ -1,14 +1,18 @@
 ---
-title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
-excerpt: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Wheel of Heaven 🌌
+description: Wheel of Heaven es una base de conocimientos que explora la hipótesis
+  de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización
+  extraterrestre, los llamados Elohim.
+excerpt: Wheel of Heaven es una base de conocimientos que explora la hipótesis de
+  trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización
+  extraterrestre, los llamados Elohim.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "at-a-glance"
+    parent: at-a-glance
 weight: 110
 toc: true
 ---

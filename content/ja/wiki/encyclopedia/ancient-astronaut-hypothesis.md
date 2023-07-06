@@ -1,15 +1,16 @@
 ---
-title: "古代宇宙飛行士仮説"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 古代宇宙飛行士仮説
+alernatives:
+- Ancient aliens
+description: 古代宇宙飛行士仮説は、古代エイリアンとしても知られ、地球外生命体が過去に地球を訪れ、古代の文化や文明に影響を与えたという考えです。この仮説は、ピラミッドや契約の箱のような神聖な品物など、多くの古代の建造物や人工物が地球外生命体の助けを借りて創造され、宇宙の性質とその中での私たちの位置についてのメッセージを伝えることを目的としていたことを示唆しています。この仮説の支持者たちは、星から来た存在との遭遇について記述したさまざまな文化の伝説、神話、宗教文書にも言及しています。
+lead: 古代エイリアンとしても知られ、地球外生命体が過去に地球を訪れ、古代の文化や文明に影響を与えたという考えです。この仮説は、ピラミッドや契約の箱のような神聖な品物など、多くの古代の建造物や人工物が地球外生命体の助けを借りて創造され、宇宙の性質とその中での私たちの位置についてのメッセージを伝えることを目的としていたことを示唆しています。この仮説の支持者たちは、星から来た存在との遭遇について記述したさまざまな文化の伝説、神話、宗教文書にも言及しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

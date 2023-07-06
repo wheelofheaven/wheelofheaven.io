@@ -1,17 +1,28 @@
 ---
-title: "Круги на полях"
-description: "Crop circles are intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
-lead: "Intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Круги на полях
+description: Круги на полях — это замысловатые узоры, которые появляются на полях
+  с посевами. Они были связаны с уфологией из-за веры в то, что некоторые из них созданы
+  внеземными существами или развитым разумом. Эти образования рассматриваются как
+  потенциальное свидетельство внеземного посещения или связи. Хотя было доказано,
+  что некоторые круги на полях являются рукотворными мистификацией, споры об их происхождении
+  продолжаются в области уфологии.
+lead: Замысловатые узоры, которые появляются на полях сельскохозяйственных культур.
+  Они были связаны с уфологией из-за веры в то, что некоторые из них созданы внеземными
+  существами или развитым разумом. Эти образования рассматриваются как потенциальное
+  свидетельство внеземного посещения или связи. Хотя было доказано, что некоторые
+  круги на полях являются рукотворными мистификацией, споры об их происхождении продолжаются
+  в области уфологии.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 Crop circles, or crop formations, refer to sizable patterns created by the flattening of crops such as wheat, barley, rapeseed (canola), rye, corn, linseed, and soy. The phenomenon is global but is most prevalent in the United Kingdom, where the majority of formations have been reported since the 1970s. While some attribute crop circles to various unexplained phenomena, others believe they are man-made. This article explores the history, characteristics, proposed explanations, and cultural impact of crop circles.

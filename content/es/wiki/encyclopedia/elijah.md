@@ -1,17 +1,18 @@
 ---
-title: "Elías"
-description: "Elijah, a Biblical patriarch and prophet from the First Temple period."
-lead: "A Biblical patriarch and prophet from the First Temple period."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Elías
+description: Elijah, un patriarca y profeta bíblico del período del Primer Templo.
+lead: Un patriarca y profeta bíblico del período del Primer Templo.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aries"]
+timeline:
+- aries
 ---
 
 Elijah was a prophet in the Hebrew Bible and is considered one of the greatest prophets of Israel. He is known for his powerful miracles, strong faith, and unwavering commitment to the Lord.

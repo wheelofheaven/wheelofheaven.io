@@ -1,14 +1,14 @@
 ---
-title: "センディの一貫性の条件"
-description: "Sendy's conditions of coherence, a set of conditions that need to be met in order to allow for a coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
-lead: "A set of conditions that need to be met in order to allow for an coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: センディの一貫性の条件
+description: センディの一貫性の条件。エロヒムが神と誤認された星間文明の個人として理解される聖書の一貫性と正確な読み方を可能にするために満たされる必要がある一連の条件。
+lead: エロヒムが神と誤認された星間文明の個人として理解される聖書の首尾一貫した正確な読み方を可能にするために満たされる必要のある一連の条件。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

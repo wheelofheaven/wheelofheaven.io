@@ -1,17 +1,18 @@
 ---
-title: "亚伯拉罕"
-description: "Abraham, originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
-lead: "Originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 亚伯拉罕
+description: 亚伯拉罕，最初被称为亚伯兰，或者希伯来语中的阿夫兰。他是所多玛和蛾摩拉毁灭后时代的圣经族长。他是耶洛因文明任命的第一位大使或先知，并与耶洛因文明保持非敌对外交关系。
+lead: 最初被称为亚伯兰（Abram），或者希伯来语中的阿夫兰（Avram）。他是所多玛和蛾摩拉毁灭后时代的圣经族长。他是耶洛因文明任命的第一位大使或先知，并与耶洛因文明保持非敌对外交关系。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus"]
+timeline:
+- taurus
 ---
 
 Abraham is a central figure in Judaism, Christianity, and Islam and is considered the father of these three monotheistic religions. In the Bible, he is described as the father of Isaac and a patriarch of the Israelites. In the Tanakh, he is considered the first Hebrew and the founder of the Jewish nation. In the Quran, Abraham is considered a prophet of Allah and a friend of God.

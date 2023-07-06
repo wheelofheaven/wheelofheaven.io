@@ -1,18 +1,34 @@
 ---
-title: "Antédiluvien"
-alternatives: ["pre-diluvian", "pre-flood"]
-description: "Antediluvian, the time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
-lead: "The time period of life on Earth that preceeded the Great Flood. More specifically, the antediluvian period refers to a state of the world where human civilization had made great technological progress and have produced offsprings with a group of Elohims that had been banished to remain on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Antédiluvien
+alternatives:
+- pre-diluvian
+- pre-flood
+description: Antédiluvien, la période de la vie sur Terre qui a précédé le Grand Déluge.
+  Plus précisément, la période antédiluvienne fait référence à un état du monde où
+  la civilisation humaine avait fait de grands progrès technologiques et avait produit
+  des descendants avec un groupe d'Elohims qui avaient été bannis pour rester sur
+  Terre.
+lead: La période de la vie sur Terre qui a précédé le Déluge. Plus précisément, la
+  période antédiluvienne fait référence à un état du monde où la civilisation humaine
+  avait fait de grands progrès technologiques et avait produit des descendants avec
+  un groupe d'Elohims qui avaient été bannis pour rester sur Terre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer"]
+timeline:
+- capricorn
+- sagittarius
+- scorpio
+- libra
+- virgo
+- leo
+- cancer
 ---
 
 Antediluvian refers to a time before the Biblical Great Flood. The exact appearance of the antediluvian world is not described in detail in the Bible or any other historical record. Some religious texts suggest that the antediluvian world was a time of great prosperity, peace, and advanced civilization. However, this colloquially considered largely a matter of speculation and interpretation.

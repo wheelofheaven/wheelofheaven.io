@@ -1,14 +1,14 @@
 ---
-title: "先駆者たち"
-description: "The Forerunners were an extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-lead: "An extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 先駆者たち
+description: フォアランナーは、エロヒムという人型種族を創造したと信じられている非常に高度な地球外文明であり、エロヒム自身も創造者となり、最終的には地球上の生命を遺伝子操作することになりました。フォアランナーの本当の性質と正体は、エロヒムが物理的に遭遇したり、フォアランナーから直接学ぶ前に姿を消したように見えるため、ほとんどが謎のままです。しかし、彼らの遺産は膨大な科学知識の形で残り、保存され、いつか人類に受け継がれる可能性があります。
+lead: 非常に高度な地球外文明は、エロヒムという人型種族を創造したと考えられており、エロヒム自身も創造者となり、最終的には地球上の生命を遺伝子操作することになりました。フォアランナーの本当の性質と正体は、エロヒムが物理的に遭遇したり、フォアランナーから直接学ぶ前に姿を消したように見えるため、ほとんどが謎のままです。しかし、彼らの遺産は膨大な科学知識の形で残り、保存され、いつか人類に受け継がれる可能性があります。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "命の木"
-description: "Tree of Life, a Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-lead: "A Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 命の木
+description: 生命の木、永遠の命を達成するための技術的手段を提供する方法に関する科学的知識体系を表す聖書の比喩。より具体的には、獅子座の時代のように人間の寿命を1,000年まで伸ばすことです。
+lead: 永遠の命を達成するための技術的手段を提供する方法に関する科学的知識体系を表す聖書の比喩。より具体的には、獅子座の時代のように人間の寿命を1,000年まで伸ばすことです。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

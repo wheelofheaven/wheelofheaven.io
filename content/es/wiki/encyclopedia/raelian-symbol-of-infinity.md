@@ -1,14 +1,28 @@
 ---
-title: "Símbolo Raeliano del Infinito"
-description: "El Raëlismo, un nuevo movimiento religioso que se remonta a un francés que afirmó haberse reunido con el representante de una civilización extraterrestre llamado Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella de David, dos antiguos símbolos con un largo historial, que se cree que representan dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado por la Estrella de David."
-lead: "El Raëlismo, un nuevo movimiento religioso que se remonta a un francés que afirmó haberse reunido con el representante de una civilización extraterrestre llamado Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella de David, dos antiguos símbolos con un largo historial, que se cree que representan dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado por la Estrella de David."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Símbolo Raeliano del Infinito
+description: El Raëlismo, un nuevo movimiento religioso que se remonta a un francés
+  que afirmó haberse reunido con el representante de una civilización extraterrestre
+  llamado Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella
+  de David, dos antiguos símbolos con un largo historial, que se cree que representan
+  dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa
+  para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son
+  el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado
+  por la Estrella de David.
+lead: El Raëlismo, un nuevo movimiento religioso que se remonta a un francés que afirmó
+  haberse reunido con el representante de una civilización extraterrestre llamado
+  Yahweh, presenta un símbolo que entrelaza la esvástica dentro de una Estrella de
+  David, dos antiguos símbolos con un largo historial, que se cree que representan
+  dos aspectos fundamentales del Infinito. El Infinito mismo es la idea más precisa
+  para describir la fisicalidad de la realidad. Estos dos aspectos fundamentales son
+  el infinito del tiempo simbolizado por la esvástica y el infinito del espacio simbolizado
+  por la Estrella de David.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

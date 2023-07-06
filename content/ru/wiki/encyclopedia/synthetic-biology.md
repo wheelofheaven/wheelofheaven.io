@@ -1,14 +1,26 @@
 ---
-title: "Синтетическая биология"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Синтетическая биология
+description: Синтетическая биология — это междисциплинарная область, объединяющая
+  принципы биологии, генетики и инженерии для проектирования и создания искусственных
+  биологических систем, генетических цепей и организмов с новыми функциями или характеристиками.
+  Он включает преднамеренную модификацию или создание генетического материала и разработку
+  биологических компонентов для программирования живых клеток для выполнения определенных
+  задач или проявления желаемых признаков. Синтетическая биология стремится понять
+  и перестроить биологические системы.
+lead: Междисциплинарная область, объединяющая принципы биологии, генетики и инженерии
+  для проектирования и создания искусственных биологических систем, генетических цепей
+  и организмов с новыми функциями или характеристиками. Он включает преднамеренную
+  модификацию или создание генетического материала и разработку биологических компонентов
+  для программирования живых клеток для выполнения определенных задач или проявления
+  желаемых признаков. Синтетическая биология стремится понять и перестроить биологические
+  системы.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,20 @@
 ---
-title: "Список этимологических чтений"
-description: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
-lead: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Список этимологических чтений
+description: Список этимологических чтений. Благодаря исследованию предпосылок, выдвинутых
+  Колесом Небес, существует ряд религиозных, мифологических или традиционных понятий,
+  которые можно истолковать этимологически. Этот список будет каталогизировать большинство
+  этих понятий.
+lead: Список этимологических чтений. Благодаря исследованию предпосылок, выдвинутых
+  Колесом Небес, существует ряд религиозных, мифологических или традиционных понятий,
+  которые можно истолковать этимологически. Этот список будет каталогизировать большинство
+  этих понятий.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,17 +1,37 @@
 ---
-title: "Lucha adamita"
-description: "The Adamite Struggle pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-lead: "Pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Lucha adamita
+description: La Lucha Adamita pertenece a la narrativa más amplia del viaje de la
+  humanidad hacia la autonomía, pero se enfoca específicamente en las experiencias
+  de los Adamitas, una comunidad humana única que se originó en el Jardín del Edén.
+  Esta comunidad, a través de enlaces con una facción rebelde de Elohim conocida como
+  la Serpiente, produjo descendencia híbrida. Estos descendientes se integraron en
+  la comunidad Adamita, creando un grupo unificado pero distinto compuesto por Adamitas
+  híbridos y no híbridos, quienes colectivamente lucharon por la emancipación intelectual
+  y política de sus creadores, los Elohim, navegando a través de etapas de iluminación,
+  rebelión y retribución mientras persistiendo en su búsqueda de reconocimiento e
+  independencia.
+lead: Pertenece a la narrativa más amplia del viaje de la humanidad hacia la autonomía,
+  pero se centra específicamente en las experiencias de los adamitas, una comunidad
+  humana única que se originó en el Jardín del Edén. Esta comunidad, a través de enlaces
+  con una facción rebelde de Elohim conocida como la Serpiente, produjo descendencia
+  híbrida. Estos descendientes se integraron en la comunidad Adamita, creando un grupo
+  unificado pero distinto compuesto por Adamitas híbridos y no híbridos, quienes colectivamente
+  lucharon por la emancipación intelectual y política de sus creadores, los Elohim,
+  navegando a través de etapas de iluminación, rebelión y retribución mientras persisten
+  en su búsqueda de reconocimiento e independencia.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini", "taurus"]
+timeline:
+- cancer
+- gemini
+- taurus
 ---
 
 ## Sequence of events

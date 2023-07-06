@@ -1,18 +1,29 @@
 ---
-title: "Апокалипсис"
-alternatives: ["Revelation"]
-description: "Apocalypse, Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-lead: "Greek for Revelation, refers to the Age of Revelation which preceeds the ushering into the Golden Age. The revelation being revealed during the days of the Apoclypse is the circumstantial truth preserved by religious scriptures, in particular the Bible, namely that the Gods of old are people from another planet and have been mistaken for supernatural beings due to their highly advanced technological capabilities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Апокалипсис
+alternatives:
+- Revelation
+description: Апокалипсис, что по-гречески означает Откровение, относится к Эпохе Откровения,
+  которая предшествует вступлению в Золотой Век. Откровение, открытое в дни Апокалипсиса,
+  представляет собой косвенную истину, сохраненную религиозными писаниями, в частности
+  Библией, а именно, что Боги древности — это люди с другой планеты, которых ошибочно
+  принимают за сверхъестественных существ из-за их высокоразвитых технологических
+  возможностей.
+lead: Греческий для Откровения относится к Эпохе Откровения, которая предшествует
+  вступлению в Золотой Век. Откровение, открытое в дни Апокалипсиса, — это косвенная
+  истина, сохраненная религиозными писаниями, в частности Библией, а именно, что Боги
+  древности — это люди с другой планеты, которых ошибочно принимают за сверхъестественных
+  существ из-за их высокоразвитых технологических возможностей.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The Apocalypse, as described in the biblical Book of Revelation, is a series of events that marks the end of the world as it is known. According to the text, the Apocalypse involves a series of cataclysmic events, including wars, plagues, natural disasters, and the rise of the Antichrist. At the climax of these events, there will be a final battle between good and evil, and Jesus Christ will return to Earth to defeat Satan and establish a new heaven and a new earth.

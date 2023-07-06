@@ -1,14 +1,29 @@
 ---
-title: "Генная инженерия"
-description: "Genetic engineering is a scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-lead: "A scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Генная инженерия
+description: Генная инженерия — это научная дисциплина, которая включает в себя преднамеренную
+  модификацию генетического материала организма, обычно его ДНК, для введения новых
+  признаков или характеристик. Он включает в себя методы, используемые для манипулирования
+  генами и генетическими элементами, такие как вставка, удаление или модификация генов
+  для изменения генетического состава организма. Генная инженерия позволяет ученым
+  переносить определенные гены между разными видами, создавать генетически модифицированные
+  организмы (ГМО) или привносить желаемые черты в организмы для различных целей, включая
+  повышение урожайности, разработку медицинских препаратов или производство полезных
+  продуктов.
+lead: Научная дисциплина, связанная с преднамеренной модификацией генетического материала
+  организма, обычно его ДНК, для введения новых признаков или характеристик. Он включает
+  в себя методы, используемые для манипулирования генами и генетическими элементами,
+  такие как вставка, удаление или модификация генов для изменения генетического состава
+  организма. Генная инженерия позволяет ученым переносить определенные гены между
+  разными видами, создавать генетически модифицированные организмы (ГМО) или привносить
+  желаемые черты в организмы для различных целей, включая повышение урожайности, разработку
+  медицинских препаратов или производство полезных продуктов.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

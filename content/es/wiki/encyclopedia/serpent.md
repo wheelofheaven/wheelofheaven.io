@@ -1,15 +1,30 @@
 ---
-title: "Serpiente"
-alternatives: ["Serpentine faction", "Sons of God", "Watchers"]
-description: "Serpent, a metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-lead: "A metaphorical reference to an unruly faction among the Elohim (אֱלֹהִים). After the first human beings got synthetically engineered on Earth, a subset of the engineering Elohim deemed it essential to educate these new humanly creatures coequally. The education was given to the first human beings and the Elohim responsible for it, known as the Serpent, got convicted and exiled to remain on Earth for their trespassing. One of the lead protagonists of this faction is known as Lucifer, the light-bringer."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Serpiente
+alternatives:
+- Serpentine faction
+- Sons of God
+- Watchers
+description: Serpiente, una referencia metafórica a una facción rebelde entre los
+  Elohim (אֱלֹהִים). Después de que los primeros seres humanos fueran diseñados sintéticamente
+  en la Tierra, un subconjunto de los Elohim de la ingeniería consideró esencial educar
+  a estas nuevas criaturas humanas por igual. La educación se le dio a los primeros
+  seres humanos y el Elohim responsable de ella, conocido como la Serpiente, fue condenado
+  y exiliado para permanecer en la Tierra por su transgresión. Uno de los protagonistas
+  principales de esta facción es conocido como Lucifer, el portador de la luz.
+lead: Una referencia metafórica a una facción rebelde entre los Elohim (אֱלֹהִים).
+  Después de que los primeros seres humanos fueran diseñados sintéticamente en la
+  Tierra, un subconjunto de los Elohim de la ingeniería consideró esencial educar
+  a estas nuevas criaturas humanas por igual. La educación se le dio a los primeros
+  seres humanos y el Elohim responsable de ella, conocido como la Serpiente, fue condenado
+  y exiliado para permanecer en la Tierra por su transgresión. Uno de los protagonistas
+  principales de esta facción es conocido como Lucifer, el portador de la luz.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

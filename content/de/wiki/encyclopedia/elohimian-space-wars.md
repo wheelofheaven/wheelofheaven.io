@@ -1,18 +1,44 @@
 ---
-title: "Elohimianischer Krieg"
-alternatives: ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
-description: "Elohimian Space Wars, an armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-lead: "An armed conflict of significant magnitude occurred between two opposing Elohim factions, the timing of which remains undisclosed but is understood to have taken place after the Great Flood. The faction composed of exiled creators, who had been banished to Earth and assisted Noah in preserving life, also gave rise to a hybrid group of Adamites. This faction was in rebellion against the ruling government on their home planet, led by the president of the Council of Eternals, Yahweh. The armed confrontation occurred both on Earth and in the surrounding space. Despite the tension and conflict, Yahweh and his consorts ultimately emerged victorious. However, demonstrating a measure of clemency, Yahweh forgave the exiled creators, allowing them to return to their home planet."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Elohimianischer Krieg
+alternatives:
+- Æsir–Vanir War
+- Theomachy
+- Titanomachy
+- War in Heaven
+description: Elohimische Weltraumkriege, ein bewaffneter Konflikt von erheblichem
+  Ausmaß, der zwischen zwei gegnerischen Elohim-Fraktionen stattfand, dessen Zeitpunkt
+  noch nicht bekannt gegeben wurde, aber vermutlich nach der Großen Sintflut stattgefunden
+  hat. Die Fraktion bestehend aus verbannten Schöpfern, die auf die Erde verbannt
+  worden waren und Noah bei der Bewahrung des Lebens unterstützten, brachte auch eine
+  hybride Gruppe von Adamiten hervor. Diese Fraktion rebellierte gegen die herrschende
+  Regierung auf ihrem Heimatplaneten, angeführt vom Präsidenten des Rates der Ewigen,
+  Yahweh. Die bewaffnete Konfrontation fand sowohl auf der Erde als auch im umgebenden
+  Weltraum statt. Trotz der Spannungen und Konflikte gingen Jahwe und seine Gefährten
+  letztendlich als Sieger hervor. Doch Jahwe zeigte ein gewisses Maß an Gnade und
+  vergab den verbannten Schöpfern, so dass sie auf ihren Heimatplaneten zurückkehren
+  konnten.
+lead: Zwischen zwei verfeindeten Elohim-Fraktionen kam es zu einem bewaffneten Konflikt
+  von erheblichem Ausmaß, dessen Zeitpunkt noch nicht bekannt gegeben wurde, der jedoch
+  vermutlich nach der Großen Sintflut stattfand. Die Fraktion bestehend aus verbannten
+  Schöpfern, die auf die Erde verbannt worden waren und Noah bei der Bewahrung des
+  Lebens unterstützten, brachte auch eine hybride Gruppe von Adamiten hervor. Diese
+  Fraktion rebellierte gegen die herrschende Regierung auf ihrem Heimatplaneten, angeführt
+  vom Präsidenten des Rates der Ewigen, Yahweh. Die bewaffnete Konfrontation fand
+  sowohl auf der Erde als auch im umgebenden Weltraum statt. Trotz der Spannungen
+  und Konflikte gingen Jahwe und seine Gefährten letztendlich als Sieger hervor. Doch
+  Jahwe zeigte ein gewisses Maß an Gnade und vergab den verbannten Schöpfern, so dass
+  sie auf ihren Heimatplaneten zurückkehren konnten.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## See also

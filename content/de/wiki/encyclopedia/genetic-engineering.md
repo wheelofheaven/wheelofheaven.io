@@ -1,14 +1,31 @@
 ---
-title: "Gentechnik"
-description: "Genetic engineering is a scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-lead: "A scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Gentechnik
+description: Gentechnik ist eine wissenschaftliche Disziplin, bei der das genetische
+  Material eines Organismus, typischerweise seine DNA, gezielt verändert wird, um
+  neue Merkmale oder Merkmale einzuführen. Es umfasst Techniken zur Manipulation von
+  Genen und genetischen Elementen, wie z. B. das Einfügen, Löschen oder Modifizieren
+  von Genen, um die genetische Ausstattung eines Organismus zu verändern. Die Gentechnik
+  ermöglicht es Wissenschaftlern, spezifische Gene zwischen verschiedenen Arten zu
+  übertragen, genetisch veränderte Organismen (GVO) zu erzeugen oder gewünschte Eigenschaften
+  in Organismen für verschiedene Zwecke einzuführen, darunter die Verbesserung der
+  Ernteerträge, die Entwicklung medizinischer Behandlungen oder die Herstellung nützlicher
+  Produkte.
+lead: Eine wissenschaftliche Disziplin, bei der das genetische Material eines Organismus,
+  typischerweise seine DNA, absichtlich verändert wird, um neue Merkmale oder Merkmale
+  einzuführen. Es umfasst Techniken zur Manipulation von Genen und genetischen Elementen,
+  wie z. B. das Einfügen, Löschen oder Modifizieren von Genen, um die genetische Ausstattung
+  eines Organismus zu verändern. Die Gentechnik ermöglicht es Wissenschaftlern, spezifische
+  Gene zwischen verschiedenen Arten zu übertragen, genetisch veränderte Organismen
+  (GVO) zu erzeugen oder gewünschte Eigenschaften in Organismen für verschiedene Zwecke
+  einzuführen, darunter die Verbesserung der Ernteerträge, die Entwicklung medizinischer
+  Behandlungen oder die Herstellung nützlicher Produkte.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,25 @@
 ---
-title: "Wheel of Heaven"
-description: "Wheel of Heaven, a web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-lead: "A web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Wheel of Heaven
+description: Wheel of Heaven, веб-база знаний, исследующая рабочую гипотезу о том,
+  что жизнь на Земле была разумно спроектирована и спроектирована внеземной цивилизацией,
+  которую мы все вместе помним как Элохим. Само Небесное Колесо является метафорической
+  ссылкой на прецессию равноденствий как на небесное колесо созвездий, которое постоянно
+  продолжает вращаться. Это также немного более неясная ссылка на Эхнатона, египетского
+  фараона древности, который описал космический корабль в форме диска, похожий на
+  колесо в небесах.
+lead: Веб-база знаний, исследующая рабочую гипотезу о том, что жизнь на Земле была
+  разумно спроектирована и спроектирована внеземной цивилизацией, которую мы все вместе
+  помним как Элохим. Само Небесное Колесо является метафорической ссылкой на прецессию
+  равноденствий как на небесное колесо созвездий, которое постоянно продолжает вращаться.
+  Это также немного более неясная ссылка на Эхнатона, египетского фараона древности,
+  который описал космический корабль в форме диска, похожий на колесо в небесах.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

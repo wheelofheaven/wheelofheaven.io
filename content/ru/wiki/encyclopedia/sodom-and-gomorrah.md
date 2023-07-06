@@ -1,18 +1,28 @@
 ---
-title: "Содом и Гоморра"
-alternatives: ["Cities of the Plain"]
-description: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-lead: "Sodom and Gomorrah, two Levantine cities that got destroyed by nuclear weaponry as a preemptive strike initiated by the Elohimian civilization against a vindictive Earthly faction that themselves got organized and potent. The Dead Sea is most likely an artifact of these nuclear explosions testimonying to this very day the aftermath that ensued."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Содом и Гоморра
+alternatives:
+- Cities of the Plain
+description: Содом и Гоморра, два левантийских города, которые были разрушены ядерным
+  оружием в результате превентивного удара, инициированного элогимианской цивилизацией
+  против мстительной земной фракции, которая сама стала организованной и могущественной.
+  Мертвое море, скорее всего, является артефактом этих ядерных взрывов, до сих пор
+  свидетельствующим о том, что за этим последовало.
+lead: Содом и Гоморра, два левантийских города, которые были разрушены ядерным оружием
+  в результате превентивного удара, инициированного элогимианской цивилизацией против
+  мстительной земной группировки, которая сама стала организованной и могущественной.
+  Мертвое море, скорее всего, является артефактом этих ядерных взрывов, до сих пор
+  свидетельствующим о том, что за этим последовало.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus"]
+timeline:
+- taurus
 ---
 
 The biblical story of Sodom and Gomorrah is a story from the Book of Genesis in the Old Testament. It is about two cities, Sodom and Gomorrah, that were said to have been located in the region of the Dead Sea.

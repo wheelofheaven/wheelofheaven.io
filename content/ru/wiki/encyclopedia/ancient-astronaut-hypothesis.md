@@ -1,15 +1,29 @@
 ---
-title: "Гипотеза древних астронавтов"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Гипотеза древних астронавтов
+alernatives:
+- Ancient aliens
+description: Гипотеза древних астронавтов, также известная как древние пришельцы,
+  идея о том, что внеземные существа посещали Землю в прошлом и оказывали влияние
+  на древние культуры и цивилизации. Эта гипотеза предполагает, что многие древние
+  сооружения и артефакты, такие как пирамиды и священные объекты, такие как Ковчег
+  Завета, были созданы с помощью внеземных существ и предназначались для передачи
+  сообщений о природе вселенной и нашем месте в ней. Сторонники гипотезы также указывают
+  на легенды, мифы и религиозные тексты различных культур, описывающие встречи с существами
+  со звезд.
+lead: Также известный как древние инопланетяне, идея о том, что внеземные существа
+  посещали Землю в прошлом и повлияли на древние культуры и цивилизации. Эта гипотеза
+  предполагает, что многие древние сооружения и артефакты, такие как пирамиды и священные
+  объекты, такие как Ковчег Завета, были созданы с помощью внеземных существ и предназначались
+  для передачи сообщений о природе вселенной и нашем месте в ней. Сторонники гипотезы
+  также указывают на легенды, мифы и религиозные тексты различных культур, описывающие
+  встречи с существами со звезд.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

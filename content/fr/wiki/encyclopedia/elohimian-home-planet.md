@@ -1,14 +1,18 @@
 ---
-title: "Planète d'origine des Élohim"
-description: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-lead: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Planète d'origine des Élohim
+description: La planète habitable extrasolaire d'où est originaire le genre Elohimien
+  ou du moins sa civilisation. Cette planète serait à environ 1 année-lumière de la
+  Terre et serait donc située dans la galaxie de la Voie lactée.
+lead: La planète habitable extrasolaire d'où est originaire le genre Elohimien ou
+  du moins sa civilisation. Cette planète serait à environ 1 année-lumière de la Terre
+  et serait donc située dans la galaxie de la Voie lactée.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

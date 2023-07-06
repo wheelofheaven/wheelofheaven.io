@@ -1,14 +1,18 @@
 ---
-title: "Nouveaux Commandements"
-description: "The New Commandments, a series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
-lead: "A series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Nouveaux Commandements
+description: Les Nouveaux Commandements, une série de doctrines avancées par Yahweh
+  qui précisent ce que l'humanité pourrait prendre en compte pour progresser et entrer
+  dans l'Age d'Or, maintenant au début de l'Age du Verseau.
+lead: Une série de doctrines avancées par Yahweh qui élaborent ce que l'humanité pourrait
+  prendre en compte pour progresser et entrer dans l'Age d'Or, maintenant au début
+  de l'Age du Verseau.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

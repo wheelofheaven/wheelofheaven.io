@@ -1,17 +1,34 @@
 ---
-title: "Борьба адамитов"
-description: "The Adamite Struggle pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-lead: "Pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Борьба адамитов
+description: Адамитская борьба относится к более широкому повествованию о пути человечества
+  к автономии, но конкретно фокусируется на опыте адамитов, уникального человеческого
+  сообщества, возникшего в Эдемском саду. Это сообщество, благодаря связям с мятежной
+  фракцией Элохимов, известной как Змей, произвело гибридное потомство. Эти потомки
+  интегрировались в сообщество адамитов, создав единую, но обособленную группу, состоящую
+  как из гибридных, так и негибридных адамитов, которые коллективно стремились к интеллектуальной
+  и политической эмансипации от своих создателей, Элохимов, проходя этапы просветления,
+  восстания и возмездия, одновременно настойчиво добиваются признания и независимости.
+lead: Относится к более широкому повествованию о пути человечества к автономии, но
+  конкретно фокусируется на опыте адамитов, уникального человеческого сообщества,
+  возникшего в Эдемском саду. Это сообщество, благодаря связям с мятежной фракцией
+  Элохимов, известной как Змей, произвело гибридное потомство. Эти потомки интегрировались
+  в адамитское сообщество, создав единую, но обособленную группу, состоящую как из
+  гибридных, так и негибридных адамитов, которые коллективно стремились к интеллектуальной
+  и политической эмансипации от своих создателей, Элохимов, проходя этапы просветления,
+  восстания и возмездия, одновременно настойчиво добиваются признания и независимости.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["cancer", "gemini", "taurus"]
+timeline:
+- cancer
+- gemini
+- taurus
 ---
 
 ## Sequence of events

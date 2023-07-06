@@ -1,14 +1,26 @@
 ---
-title: "Symbole de l'Infini Raëlien"
-description: "Le Raëlisme, un nouveau mouvement religieux qui remonte à un Français qui a rencontré le représentant d'une civilisation extraterrestre, Yahweh, présente un symbole qui entrelace le Svastika et l'Étoile de David, deux anciens symboles dotés d'une longue histoire, qui sont censés représenter deux aspects fondamentaux de l'Infini. L'Infini lui-même étant l'idée la plus précise pour décrire la réalité physique. Ces deux aspects fondamentaux sont l'infini du temps symbolisé par le Svastika et l'infini de l'espace symbolisé par l'Étoile de David."
-lead: "Le Raëlisme, un nouveau mouvement religieux qui remonte à un Français qui a rencontré le représentant d'une civilisation extraterrestre, Yahweh, présente un symbole qui entrelace le Svastika et l'Étoile de David, deux anciens symboles dotés d'une longue histoire, qui sont censés représenter deux aspects fondamentaux de l'Infini. L'Infini lui-même étant l'idée la plus précise pour décrire la réalité physique. Ces deux aspects fondamentaux sont l'infini du temps symbolisé par le Svastika et l'infini de l'espace symbolisé par l'Étoile de David."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Symbole de l'Infini Raëlien
+description: Le Raëlisme, un nouveau mouvement religieux qui remonte à un Français
+  qui a rencontré le représentant d'une civilisation extraterrestre, Yahweh, présente
+  un symbole qui entrelace le Svastika et l'Étoile de David, deux anciens symboles
+  dotés d'une longue histoire, qui sont censés représenter deux aspects fondamentaux
+  de l'Infini. L'Infini lui-même étant l'idée la plus précise pour décrire la réalité
+  physique. Ces deux aspects fondamentaux sont l'infini du temps symbolisé par le
+  Svastika et l'infini de l'espace symbolisé par l'Étoile de David.
+lead: Le Raëlisme, un nouveau mouvement religieux qui remonte à un Français qui a
+  rencontré le représentant d'une civilisation extraterrestre, Yahweh, présente un
+  symbole qui entrelace le Svastika et l'Étoile de David, deux anciens symboles dotés
+  d'une longue histoire, qui sont censés représenter deux aspects fondamentaux de
+  l'Infini. L'Infini lui-même étant l'idée la plus précise pour décrire la réalité
+  physique. Ces deux aspects fondamentaux sont l'infini du temps symbolisé par le
+  Svastika et l'infini de l'espace symbolisé par l'Étoile de David.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
-menu:
-wiki:
-parent: "Wiki"
+menu: null
+wiki: null
+parent: Wiki
 weight: 200
 toc: true
 ---

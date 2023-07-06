@@ -1,14 +1,14 @@
 ---
-title: "生命工程"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 生命工程
+description: 生命工程是指应用科学技术方法有意识地设计和构建具有新功能、特性或能力的人工生命体或生物系统。它涉及对遗传物质的故意操纵和生物成分的组装，以带来自然界中不存在的全新生命形式的出现。
+lead: 是指应用科学技术手段，有意识地设计、构建具有新功能、特性或能力的人工生命体或生物系统。它涉及对遗传物质的故意操纵和生物成分的组装，以带来自然界中不存在的全新生命形式的出现。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,15 +1,31 @@
 ---
-title: "Hypothèse des anciens astronautes"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Hypothèse des anciens astronautes
+alernatives:
+- Ancient aliens
+description: Hypothèse des anciens astronautes, également connue sous le nom d'anciens
+  extraterrestres, l'idée que des êtres extraterrestres ont visité la Terre dans le
+  passé et ont influencé les cultures et les civilisations anciennes. Cette hypothèse
+  suggère que de nombreuses structures et artefacts anciens, tels que des pyramides
+  et des objets sacrés comme l'Arche de l'Alliance, ont été créés avec l'aide d'êtres
+  extraterrestres et étaient destinés à transmettre des messages sur la nature de
+  l'univers et notre place en son sein. Les partisans de l'hypothèse évoquent également
+  des légendes, des mythes et des textes religieux de diverses cultures qui décrivent
+  des rencontres avec des êtres des étoiles.
+lead: Aussi connu sous le nom d'anciens extraterrestres, l'idée que des êtres extraterrestres
+  ont visité la Terre dans le passé et influencé les cultures et les civilisations
+  anciennes. Cette hypothèse suggère que de nombreuses structures et artefacts anciens,
+  tels que des pyramides et des objets sacrés comme l'Arche de l'Alliance, ont été
+  créés avec l'aide d'êtres extraterrestres et étaient destinés à transmettre des
+  messages sur la nature de l'univers et notre place en son sein. Les partisans de
+  l'hypothèse évoquent également des légendes, des mythes et des textes religieux
+  de diverses cultures qui décrivent des rencontres avec des êtres des étoiles.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

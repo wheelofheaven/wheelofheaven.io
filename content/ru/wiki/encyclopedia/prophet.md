@@ -1,14 +1,24 @@
 ---
-title: "Пророк"
-description: "Prophet, a human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-lead: "A human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Пророк
+description: Пророк, человеческий посол, который служит посланником и представителем
+  от имени Элохимов, цивилизации-создателя, создавшей жизнь на Земле с помощью генной
+  инженерии. На протяжении всей истории многие люди были избраны служить пророками.
+  Каждый из них либо вообще вдохновил новое религиозное движение, либо, по крайней
+  мере, оставил письменную или устную традицию. В любом случае, в конечном итоге способствуя
+  сохранению и формированию элогимианского наследия на Земле.
+lead: Человеческий посол, который служит посланником и представителем от имени Элохимов,
+  цивилизации-создателя, создавшей жизнь на Земле с помощью генной инженерии. На протяжении
+  всей истории многие люди были избраны служить пророками. Каждый из них либо вообще
+  вдохновил новое религиозное движение, либо, по крайней мере, оставил письменную
+  или устную традицию. В любом случае, в конечном итоге способствуя сохранению и формированию
+  элогимианского наследия на Земле.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

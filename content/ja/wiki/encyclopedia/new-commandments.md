@@ -1,14 +1,14 @@
 ---
-title: "新しい戒め"
-description: "The New Commandments, a series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
-lead: "A series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 新しい戒め
+description: 新しい戒めはヤハウェによって提唱された一連の教義であり、水瓶座の時代の始まりにある黄金時代を前進させ、その到来をもたらすために人類が何を考慮に入れることができるかを詳述しています。
+lead: ヤハウェによって提唱された一連の教義。現在、水瓶座の時代の始まりにある黄金時代を前進させ、その到来をもたらすために人類が何を考慮に入れることができるかを詳述しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,17 +1,28 @@
 ---
-title: "Âge d'Or"
-description: "Golden Age, the moment in time when humanity has reached a level of scientific sophistication and technological prowess to overcome self-destruction, enabling us to usher into an age of abundance and wealth where we learn the Truth about our own past and receive the inheritance promised by our Fathers, the Elohim. This Golden Age may coincide with the entering into the Age of Aquarius and a global Great Awakening of unknown heights."
-lead: "The moment in time when humanity has reached a level of scientific sophistication and technological prowess to overcome self-destruction, enabling us to usher into an age of abundance and wealth where we learn the Truth about our own past and receive the inheritance promised by our Fathers, the Elohim. This Golden Age may coincide with the entering into the Age of Aquarius and a global Great Awakening of unknown heights."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Âge d'Or
+description: L'âge d'or, le moment où l'humanité a atteint un niveau de sophistication
+  scientifique et de prouesses technologiques pour surmonter l'autodestruction, nous
+  permettant d'entrer dans une ère d'abondance et de richesse où nous apprenons la
+  vérité sur notre propre passé et recevons l'héritage promis par nos Pères, les Elohim.
+  Cet âge d'or peut coïncider avec l'entrée dans l'ère du Verseau et un grand réveil
+  mondial d'une hauteur inconnue.
+lead: Le moment où l'humanité a atteint un niveau de sophistication scientifique et
+  de prouesses technologiques pour surmonter l'autodestruction, nous permettant d'entrer
+  dans une ère d'abondance et de richesse où nous apprenons la Vérité sur notre propre
+  passé et recevons l'héritage promis par nos Pères , les Elohim. Cet âge d'or peut
+  coïncider avec l'entrée dans l'ère du Verseau et un grand réveil mondial d'une hauteur
+  inconnue.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aquarius"]
+timeline:
+- aquarius
 ---
 
 The awaited Golden Age is a concept that refers to a future time of peace, prosperity, and happiness, often viewed as a utopian state in which humanity will live in harmony and fulfillment. The idea of a future Golden Age is found in many spiritual and religious traditions, including astrology, where it is sometimes linked to the arrival of the Age of Aquarius.

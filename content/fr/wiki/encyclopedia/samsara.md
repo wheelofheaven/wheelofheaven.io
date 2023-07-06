@@ -1,14 +1,24 @@
 ---
-title: "Saṃsāra"
-description: "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-lead: "A Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Saṃsāra
+description: Saṃsāra , une notion bouddhiste, jaïniste et hindouiste du cycle de la
+  mort et de la renaissance. Bien que le mot lui-même ne soit pas canonique, Samsara
+  fait référence au cycle d'autodestruction récurrente si la sophistication progressive
+  des moyens scientifiques et technologiques est utilisée pour le bellicisme et la
+  dissuasion. Surmonter le cycle de la mort et de la renaissance est la condition
+  ultime pour entrer dans l'âge d'or de l'abondance et de la prospérité.
+lead: Une notion bouddhiste, jaïniste et hindouiste du cycle de la mort et de la renaissance.
+  Bien que le mot lui-même ne soit pas canonique, Samsara fait référence au cycle
+  d'autodestruction récurrente si la sophistication progressive des moyens scientifiques
+  et technologiques est utilisée pour le bellicisme et la dissuasion. Surmonter le
+  cycle de la mort et de la renaissance est la condition ultime pour entrer dans l'âge
+  d'or de l'abondance et de la prospérité.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

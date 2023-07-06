@@ -1,14 +1,20 @@
 ---
-title: "Astrobiología"
-description: "Astrobiology, a scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-lead: "A scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Astrobiología
+description: Astrobiología, un campo científico de investigación que estudia la vida
+  en el universo. Como la vida en el Universo no se ha observado de manera concluyente,
+  la astrobiología está principalmente interesada en las condiciones en las que es
+  posible la vida extraterrestre.
+lead: Un campo científico de investigación que estudia la vida en el universo. Como
+  la vida en el Universo no se ha observado de manera concluyente, la astrobiología
+  está principalmente interesada en las condiciones en las que es posible la vida
+  extraterrestre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

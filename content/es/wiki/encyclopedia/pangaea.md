@@ -1,15 +1,20 @@
 ---
-title: "Pangea"
-alternatives: ["Antediluvian landmass"]
-description: "Pangaea, an antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."
-lead: "An antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pangea
+alternatives:
+- Antediluvian landmass
+description: Pangea, un supercontinente antediluviano que fue terraformado a partir
+  de un lecho marino poco profundo en toda la Tierra por los Elohim poco después de
+  que llegaron al planeta Tierra y comenzaron a investigar su constitución.
+lead: Un supercontinente antediluviano que fue terraformado a partir de un lecho marino
+  poco profundo en toda la Tierra por los Elohim poco después de que llegaron al planeta
+  Tierra y comenzaron a investigar su constitución.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,15 +1,24 @@
 ---
-title: "Великий месяц"
-alternatives: ["Astrological age", "Precessional month", "World Age"]
-description: "Great Month, also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-lead: "Also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Великий месяц
+alternatives:
+- Astrological age
+- Precessional month
+- World Age
+description: Великий Месяц, также известный как Астрологический век или Мировой век,
+  период времени около 2160 лет, количество времени, которое требуется феномену прецессии,
+  чтобы сдвинуть зодиакальную полосу на эклиптике на запад на 30 градусов, или двенадцатую.
+  полной окружности 360 градусов. 12 Великих Месяцев составляют один Великий Год.
+lead: Также известный как Астрологический век или Мировой век, период времени около
+  2160 лет, количество времени, которое требуется феномену прецессии, чтобы сдвинуть
+  Зодиакальную полосу на эклиптике на запад на 30 градусов, или двенадцатую часть
+  полная окружность 360 градусов. 12 Великих Месяцев составляют один Великий Год.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

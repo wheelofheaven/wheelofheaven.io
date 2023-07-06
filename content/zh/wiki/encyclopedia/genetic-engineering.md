@@ -1,14 +1,14 @@
 ---
-title: "基因工程"
-description: "Genetic engineering is a scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-lead: "A scientific discipline that involves the deliberate modification of an organism's genetic material, typically its DNA, to introduce new traits or characteristics. It encompasses techniques used to manipulate genes and genetic elements, such as gene insertion, deletion, or modification, to alter the genetic makeup of an organism. Genetic engineering enables scientists to transfer specific genes between different species, create genetically modified organisms (GMOs), or introduce desired traits into organisms for various purposes, including improving crop yields, developing medical treatments, or producing useful products."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 基因工程
+description: 基因工程是一门科学学科，涉及对生物体遗传物质（通常是 DNA）进行有意修改，以引入新的性状或特征。它包括用于操纵基因和遗传元件的技术，例如基因插入、删除或修饰，以改变生物体的遗传组成。基因工程使科学家能够在不同物种之间转移特定基因，创造转基因生物（GMO），或将所需的性状引入生物体以达到各种目的，包括提高作物产量、开发医疗方法或生产有用的产品。
+lead: 一门科学学科，涉及对生物体遗传物质（通常是 DNA）进行有意修改，以引入新的性状或特征。它包括用于操纵基因和遗传元件的技术，例如基因插入、删除或修饰，以改变生物体的遗传组成。基因工程使科学家能够在不同物种之间转移特定基因，创造转基因生物（GMO），或将所需的性状引入生物体以达到各种目的，包括提高作物产量、开发医疗方法或生产有用的产品。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

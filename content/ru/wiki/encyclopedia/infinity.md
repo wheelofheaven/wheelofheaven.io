@@ -1,14 +1,27 @@
 ---
-title: "Бесконечность"
-description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Бесконечность
+description: Бесконечность, научное понимание высшего порядка, поскольку оно постулирует
+  очень вечную протяженность времени, а также пространства. Центра нет, как нет ни
+  начала, ни конца. Два древних символа, известные во всем мире и веках, свидетельствуют
+  об этой древней мудрости, данной нам Элохимами, а именно свастика, представляющая
+  циклическую природу времени и безвременья, и Маген Давид, представляющий, в свою
+  очередь, что то, что вверху, находится внизу, что означает путь. пространство расширяется
+  до более высоких макроскопических уровней так же, как пространство внутри микроскопических
+  уровней сворачивается.
+lead: Научное понимание высшего порядка, поскольку оно постулирует очень вечную протяженность
+  времени, а также пространства. Центра нет, как нет ни начала, ни конца. Два древних
+  символа, известные во всем мире и веках, свидетельствуют об этой древней мудрости,
+  данной нам Элохимами, а именно свастика, представляющая циклическую природу времени
+  и безвременья, и Маген Давид, представляющий, в свою очередь, что то, что вверху,
+  находится внизу, что означает путь. пространство расширяется до более высоких макроскопических
+  уровней точно так же, как складывается пространство внутри микроскопических уровней.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

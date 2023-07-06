@@ -1,14 +1,24 @@
 ---
-title: "Prophète"
-description: "Prophet, a human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-lead: "A human ambassador that serves as the messenger and representative on behalf of the Elohim, the creator civilization that genetically engineered life on Earth. Throughout history many people have been chosen to serve as prophets. Each of whom had either inspired a new religious movement altogether or at least left a written or oral tradition. In either case, ultimately contributing to the the preservation and shaping of a Elohimian legacy on Earth."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Prophète
+description: Prophète, un ambassadeur humain qui sert de messager et de représentant
+  au nom des Elohim, la civilisation créatrice qui a génétiquement modifié la vie
+  sur Terre. Tout au long de l'histoire, de nombreuses personnes ont été choisies
+  pour servir de prophètes. Chacun d'eux avait soit inspiré un nouveau mouvement religieux,
+  soit au moins laissé une tradition écrite ou orale. Dans les deux cas, contribuer
+  finalement à la préservation et à la mise en forme d'un héritage élohimien sur Terre.
+lead: Un ambassadeur humain qui sert de messager et de représentant au nom des Elohim,
+  la civilisation créatrice qui a génétiquement modifié la vie sur Terre. Tout au
+  long de l'histoire, de nombreuses personnes ont été choisies pour servir de prophètes.
+  Chacun d'eux avait soit inspiré un nouveau mouvement religieux, soit au moins laissé
+  une tradition écrite ou orale. Dans les deux cas, contribuer finalement à la préservation
+  et à la mise en forme d'un héritage élohimien sur Terre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

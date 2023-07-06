@@ -1,14 +1,14 @@
 ---
-title: "Wheel of Heaven"
-description: "Wheel of Heaven, a web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-lead: "A web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Wheel of Heaven
+description: Wheel of Heaven，一个网络知识库，探索了这样一个工作假设：地球上的生命是由我们统称为耶洛因的外星文明智能设计和制造的。天轮本身是对岁差的隐喻，它是一个持续不断转动的星座天轮。这也是对古埃及法老阿肯那顿（Akhenaton）的稍微晦涩的提及，他将圆盘状的太空飞船描述为看起来像天堂中的轮子。
+lead: 一个网络知识库，探索这样一个工作假设：地球上的生命是由我们统称为耶洛因的外星文明智能设计和制造的。天轮本身是对岁差的隐喻，它是一个持续不断转动的星座天轮。这也是对古埃及法老阿肯那顿（Akhenaton）的稍微晦涩的提及，他将圆盘形的太空飞船描述为看起来像天堂中的轮子。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

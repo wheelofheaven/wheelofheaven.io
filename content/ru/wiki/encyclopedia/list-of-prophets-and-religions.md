@@ -1,14 +1,23 @@
 ---
-title: "Список пророков и религий"
-description: "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-lead: "A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Список пророков и религий
+description: Список пророков и религий. Многие религии, но не совсем все, считаются
+  установленными свидетельствами подлинного взаимодействия между Элохимами (אֱלֹהִים)
+  и людьми на Земле. Эти взаимодействия приводят к религиозным писаниям и устным традициям,
+  свидетельствующим о делах Элохима. Этот список будет в значительной степени исчерпывающим
+  каталогом большинства известных религиозных традиций, а также пророков, которые
+  ведут к таким традициям.
+lead: Многие религии, но не совсем все, считаются установленными свидетельствами подлинного
+  взаимодействия между Элохимами (אֱלֹהִים) и людьми на Земле. Эти взаимодействия
+  приводят к религиозным писаниям и устным традициям, свидетельствующим о делах Элохима.
+  Этот список будет в значительной степени исчерпывающим каталогом большинства известных
+  религиозных традиций, а также пророков, которые ведут к таким традициям.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

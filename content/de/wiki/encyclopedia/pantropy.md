@@ -1,14 +1,24 @@
 ---
-title: "Pantropie"
-description: "Pantropy, the notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-lead: "The notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pantropie
+description: Pantropie, die Idee, die menschliche Spezies genetisch zu verändern und
+  anzupassen, um auf einem anderen Planeten leben zu können, der ansonsten der aktuellen
+  Konstitution und den biologischen Fähigkeiten der Spezies feindlich gegenübersteht.
+  Die von den Elohim hergestellte Kontinuität, die menschliche Spezies auf dem Planeten
+  Erde nach ihrem eigenen Bild gentechnisch verändert zu haben, kann als Beispiel
+  für Pantropie verstanden werden.
+lead: Die Idee, die menschliche Spezies genetisch zu verändern und anzupassen, um
+  auf einem anderen Planeten leben zu können, der ansonsten der aktuellen Konstitution
+  und den biologischen Fähigkeiten der Spezies feindlich gegenübersteht. Die von den
+  Elohim hergestellte Kontinuität, die menschliche Spezies auf dem Planeten Erde nach
+  ihrem eigenen Bild gentechnisch verändert zu haben, kann als Beispiel für Pantropie
+  verstanden werden.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

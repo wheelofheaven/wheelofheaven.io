@@ -1,14 +1,22 @@
 ---
-title: "Пантропия"
-description: "Pantropy, the notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-lead: "The notion to genetically modify and adapt the human species to be able to live on another planet otherwise hostile to the current constitution and biological abilities of the species. The continuity established by the Elohim to have genetically engineered the human species on planet Earth in their own image can be understood as an instance of pantropy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Пантропия
+description: Пантропия , идея генетически модифицировать и адаптировать человеческий
+  вид, чтобы он мог жить на другой планете, в противном случае враждебной текущей
+  конституции и биологическим способностям вида. Преемственность, установленная Элохимами
+  для генной инженерии человеческого вида на планете Земля по их собственному подобию,
+  может быть понята как пример пантропии.
+lead: Идея генетически модифицировать и адаптировать человеческий вид, чтобы он мог
+  жить на другой планете, в противном случае враждебной нынешней конституции и биологическим
+  способностям вида. Преемственность, установленная Элохимами для генной инженерии
+  человеческого вида на планете Земля по их собственному подобию, может быть понята
+  как пример пантропии.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "アストロバイオロジー"
-description: "Astrobiology, a scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-lead: "A scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: アストロバイオロジー
+description: 宇宙生物学、宇宙の生命を研究する科学研究分野。宇宙の生命は決定的に観察されていないため、宇宙生物学は、どのような条件下で地球外生命が可能になるのかに最も関心を持っています。
+lead: 宇宙の生命を研究する科学研究分野。宇宙の生命は決定的に観察されていないため、宇宙生物学は、どのような条件下で地球外生命が可能になるのかに最も関心を持っています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

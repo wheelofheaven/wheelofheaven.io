@@ -1,14 +1,14 @@
 ---
-title: "テラフォーミング"
-description: "Terraforming, the notion of altering constitutional features of an exoplanet such as the atmosphere or the surface of said planet in order to make it possible for a humanoid species to live on it. Terraforming is the technique that has been applied by the Elohim in tje beginning of their Genesis project of making the planet Earth habitable."
-lead: "The notion of altering constitutional features of an exoplanet such as the atmosphere or the surface of said planet in order to make it possible for a humanoid species to live on it. Terraforming is the technique that has been applied by the Elohim in tje beginning of their Genesis project of making the planet Earth habitable."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: テラフォーミング
+description: テラフォーミングとは、人型の種がそこに住むことを可能にするために、大気や惑星の表面などの系外惑星の構成的特徴を変更するという概念です。テラフォーミングは、地球を居住可能にするという創世記プロジェクトの開始時にエロヒムによって適用された技術です。
+lead: 人型種がそこに住むことを可能にするために、系外惑星の大気や表面などの構成的特徴を変更するという概念。テラフォーミングは、地球を居住可能にするという創世記プロジェクトの開始時にエロヒムによって適用された技術です。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

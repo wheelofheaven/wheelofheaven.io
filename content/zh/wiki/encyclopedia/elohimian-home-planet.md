@@ -1,14 +1,14 @@
 ---
-title: "以罗欣家乡行星"
-description: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-lead: "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 以罗欣家乡行星
+description: 太阳系外的宜居行星，是埃罗希米亚属或至少是其文明的发源地。据称这颗行星距离地球大约 1 光年，因此位于银河系内。
+lead: 太阳系外的宜居行星，是埃罗希米亚属或至少是其文明的发源地。据称这颗行星距离地球大约 1 光年，因此位于银河系内。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

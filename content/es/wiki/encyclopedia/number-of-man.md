@@ -1,14 +1,26 @@
 ---
-title: "Número del Hombre"
-description: "Number of Man, also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo.."
-lead: "Also known as the Number of the Beast or simply by the value it represents, 666 (χξϛ), is the number of human generations that will have existed on Earth since the creation of the first men during Genesis. If a generation is defined to last 20 years, the product of the Number of Man amounts to 13'320 years. If we have just entered the Age of Aquarius and we assume this coincides with the Number of Man, the first human being must have been created half a precessional cycle ago, which would be at the beginning of the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Número del Hombre
+description: Número del Hombre, también conocido como Número de la Bestia o simplemente
+  por el valor que representa, 666 (χξϛ), es el número de generaciones humanas que
+  habrán existido en la Tierra desde la creación de los primeros hombres durante el
+  Génesis. Si se define que una generación dura 20 años, el producto del Número de
+  Hombre asciende a 13'320 años. Si acabamos de entrar en la Era de Acuario y suponemos
+  que coincide con el Número del Hombre, el primer ser humano debió haber sido creado
+  hace medio ciclo precesional, que sería al comienzo de la Era de Leo.
+lead: También conocido como Número de la Bestia o simplemente por el valor que representa,
+  666 (χξϛ), es el número de generaciones humanas que habrán existido en la Tierra
+  desde la creación de los primeros hombres durante el Génesis. Si se define que una
+  generación dura 20 años, el producto del Número de Hombre asciende a 13'320 años.
+  Si acabamos de entrar en la Era de Acuario y suponemos que coincide con el Número
+  del Hombre, el primer ser humano debió haber sido creado hace medio ciclo precesional,
+  que sería al comienzo de la Era de Leo.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

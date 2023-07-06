@@ -1,18 +1,24 @@
 ---
-title: "伊甸园"
-alternatives: ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
-description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
-lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 伊甸园
+alternatives:
+- Garden of Eden
+- gan-ʿĒḏen
+- גַּן־עֵדֶן
+description: 伊甸园，上古泛古超级大陆的一个特定区域，七个埃洛希米亚创造者团队之一非常有才华，被认为创造了地球上的天堂。伊甸园是指伊甸园地区由埃洛希米亚研究人员运营的一个封闭的研究场所。
+lead: 上古泛古超级大陆的一个特定区域，七个埃洛希米亚创造者团队之一非常有才华，被认为创造了地球上的天堂。伊甸园是指伊甸园地区由埃洛希米亚研究人员运营的一个封闭的研究场所。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["virgo", "leo", "cancer"]
+timeline:
+- virgo
+- leo
+- cancer
 ---
 
 The Garden of Eden is a significant locale featured prominently in the [Biblical]({{< relref "wiki/encyclopedia/bible.md" >}}) narrative of the creation and early history of humanity. Considered a paradise by many, this garden is described in the Book of Genesis, the first book of the Jewish Torah and the Christian Bible. The Garden of Eden symbolizes a primordial utopia, filled with lush vegetation, all forms of life, and the presence of the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}).

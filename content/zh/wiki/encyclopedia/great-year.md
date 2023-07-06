@@ -1,15 +1,17 @@
 ---
-title: "大年"
-alternatives: ["Platonic Year", "Precessional year"]
-description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-lead: "Also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 大年
+alternatives:
+- Platonic Year
+- Precessional year
+description: 大年，也称为柏拉图年，一段大约 25,920 年的时间，是完成一个完整岁差周期所需的时间。
+lead: 也称为柏拉图年，一段大约 25,920 年的时间，是完成一个完整岁差周期所需的时间。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

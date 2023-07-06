@@ -1,14 +1,22 @@
 ---
-title: "Совет Вечных"
-description: "Council of Eternals, also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-lead: "Also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members, all Elohim individuals, who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Совет Вечных
+description: Совет Вечных, также Великий Совет Вечных, является руководящим органом
+  элогимианской цивилизации. Он состоит из 700 членов, которые живут вечно на выделенной
+  планете, отдельной от их родной планеты. Этот же самый руководящий орган упоминается
+  во многих религиях, особенно в библейских писаниях, и до сих пор вмешивается в земные
+  дела.
+lead: Также Великий Совет Вечных является руководящим органом элогимианской цивилизации.
+  Он состоит из 700 членов, все индивидуумы Элохим, которые живут вечно на выделенной
+  планете, отдельной от их родной планеты. Этот же самый руководящий орган упоминается
+  во многих религиях, особенно в библейских писаниях, и до сих пор вмешивается в земные
+  дела.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,24 @@
 ---
-title: "Consejo de Eternos"
-description: "Council of Eternals, also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-lead: "Also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members, all Elohim individuals, who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Consejo de Eternos
+description: El Consejo de los Eternos, también Gran Consejo de los Eternos, es un
+  órgano de gobierno que administra la civilización Elohimiana. Está constituido por
+  700 miembros que viven eternamente en un planeta dedicado separado de su planeta
+  de origen. Se hace referencia a este mismo cuerpo gobernante en múltiples religiones,
+  especialmente en las escrituras bíblicas, y ha intervenido y todavía está interviniendo
+  en los asuntos terrenales.
+lead: También el Gran Consejo de los Eternos, es un órgano de gobierno que administra
+  la civilización Elohimiana. Está constituido por 700 miembros, todos individuos
+  Elohim, quienes viven eternamente en un planeta dedicado separado de su planeta
+  de origen. Se hace referencia a este mismo cuerpo gobernante en múltiples religiones,
+  especialmente en las escrituras bíblicas, y ha intervenido y todavía está interviniendo
+  en los asuntos terrenales.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

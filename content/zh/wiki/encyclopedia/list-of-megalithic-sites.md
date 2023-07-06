@@ -1,14 +1,14 @@
 ---
-title: "巨石遗址列表"
-description: "List of megalithic sites. An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities." 
-lead: "An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 巨石遗址列表
+description: 巨石遗址列表。对已知巨石遗址的广泛列举，或多或少清晰地体现了先进建筑质量的指纹。
+lead: 对已知巨石遗址的广泛列举，或多或少清晰地体现了先进建筑质量的指纹。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

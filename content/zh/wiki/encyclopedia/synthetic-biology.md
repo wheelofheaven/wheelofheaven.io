@@ -1,14 +1,14 @@
 ---
-title: "合成生物学"
-description: "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-lead: "An interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 合成生物学
+description: 合成生物学是一个跨学科领域，结合生物学、遗传学和工程学原理，设计和构建具有新功能或特性的人工生物系统、遗传电路和生物体。它涉及对遗传物质的有意修改或创造以及生物成分的工程设计，以对活细胞进行编程以执行特定任务或表现出所需的特征。合成生物学旨在理解和重新设计生物系统。
+lead: 一个跨学科领域，结合生物学、遗传学和工程学原理，设计和构建具有新功能或特性的人工生物系统、遗传电路和生物体。它涉及对遗传物质的有意修改或创造以及生物成分的工程设计，以对活细胞进行编程以执行特定任务或表现出所需的特征。合成生物学旨在理解和重新设计生物系统。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

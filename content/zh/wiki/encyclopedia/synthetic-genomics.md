@@ -1,14 +1,14 @@
 ---
-title: "合成基因组学"
-description: "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-lead: "A branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 合成基因组学
+description: 合成基因组学是基因工程的一个分支，专注于完整基因组或基因组大片段的设计、组装和合成。它涉及创建模仿或不同于现有自然基因组的人工 DNA 序列。合成基因组学旨在构建遗传物质，例如合成染色体或整个合成基因组，以研究基本生物过程，了解生命所需的最小基因组，并有可能创造具有改良或新颖特征的生物体。它涉及构建人工遗传物质来探索和操纵生命的遗传基础。
+lead: 基因工程的一个分支，专注于完整基因组或基因组大片段的设计、组装和合成。它涉及创建模仿或不同于现有自然基因组的人工 DNA 序列。合成基因组学旨在构建遗传物质，例如合成染色体或整个合成基因组，以研究基本生物过程，了解生命所需的最小基因组，并有可能创造具有改良或新颖特征的生物体。它涉及构建人工遗传物质来探索和操纵生命的遗传基础。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

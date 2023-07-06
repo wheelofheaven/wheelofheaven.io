@@ -1,17 +1,21 @@
 ---
-title: "メノラー"
-description: "The Menorah serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-lead: "Serves as a remembrance of an Elohimite central base's switchboard in the Ancient Levant. This switchboard was characterized by seven illuminated switches, believed to maintain connectivity with six additional bases and an interplanetary vessel in orbit. This interpretation proposes that the Menorah's seven branches metaphorically signify the seven Elohimite bases established on Earth during that era."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: メノラー
+description: 本枝の燭台は、古代レバントのエロヒミテ中央基地の配電盤の記念として機能します。この配電盤は 7 つの照光式スイッチを特徴とし、追加の 6
+  つの基地および軌道上の惑星間船との接続を維持すると考えられていました。この解釈は、本枝の燭台の 7 つの枝が、その時代に地球上に確立された 7 つのエロヒマイトの拠点を比喩的に意味していることを提案しています。
+lead: 古代レバントのエロヒミテ中央基地の配電盤の記念として機能します。この配電盤は 7 つの照光式スイッチを特徴とし、追加の 6 つの基地および軌道上の惑星間船との接続を維持すると考えられていました。この解釈は、本枝の燭台の
+  7 つの枝が、その時代に地球上に確立された 7 つのエロヒマイトの拠点を比喩的に意味していることを提案しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["taurus", "aries"]
+timeline:
+- taurus
+- aries
 ---
 
 The Menorah has long been a central symbol in Jewish tradition, representing enlightenment, wisdom, and divine inspiration. Its seven branches are often interpreted symbolically, with various interpretations existing within different Jewish traditions.

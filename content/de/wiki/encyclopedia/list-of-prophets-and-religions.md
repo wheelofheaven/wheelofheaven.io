@@ -1,14 +1,24 @@
 ---
-title: "Liste von Propheten und Religionen"
-description: "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-lead: "A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Liste von Propheten und Religionen
+description: Liste der Propheten und Religionen. Viele Religionen, aber nicht alle,
+  gelten als etablierte Zeugnisse authentischer Interaktionen zwischen den Elohim
+  (אֱלֹהִים) und den Menschen auf der Erde. Diese Interaktionen führen zu religiösen
+  Schriften und mündlichen Überlieferungen, die von den Taten der Elohim zeugen. In
+  dieser Liste werden die meisten bedeutenden religiösen Traditionen sowie die Propheten,
+  die zu solchen Traditionen geführt haben, umfassend katalogisiert.
+lead: Viele Religionen, aber nicht alle, gelten als etablierte Zeugnisse authentischer
+  Interaktionen zwischen den Elohim (אֱלֹהִים) und den Menschen auf der Erde. Diese
+  Interaktionen führen zu religiösen Schriften und mündlichen Überlieferungen, die
+  von den Taten der Elohim zeugen. In dieser Liste werden die meisten bedeutenden
+  religiösen Traditionen sowie die Propheten, die zu solchen Traditionen geführt haben,
+  umfassend katalogisiert.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

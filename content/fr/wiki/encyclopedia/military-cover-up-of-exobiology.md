@@ -1,14 +1,36 @@
 ---
-title: "Dissimulation militaire de l'exobiologie"
-description: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-lead: "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Dissimulation militaire de l'exobiologie
+description: La dissimulation militaire de l'exobiologie fait référence à l'idée que
+  les organisations militaires ou les gouvernements dissimulent des informations sur
+  l'étude de la vie extraterrestre ou des rencontres extraterrestres. Cela suggère
+  qu'il existe des connaissances ou des preuves cachées liées à l'existence de la
+  vie au-delà de la Terre, et que des entités militaires suppriment ou contrôlent
+  activement la diffusion de ces informations au public. Les partisans de cette théorie
+  soutiennent que l'armée est impliquée dans la capture ou l'enquête sur les observations
+  d'OVNI, la conduite de recherches secrètes sur les formes de vie extraterrestres
+  ou même la dissimulation de preuves de contact direct avec des extraterrestres.
+  La notion de dissimulation militaire de l'exobiologie implique un effort délibéré
+  pour retenir ou manipuler des informations sur des phénomènes extraterrestres potentiels
+  pour diverses raisons, telles que la sécurité nationale ou la stabilité sociétale.
+lead: La dissimulation militaire de l'exobiologie fait référence à l'idée que les
+  organisations militaires ou les gouvernements dissimulent des informations sur l'étude
+  de la vie extraterrestre ou des rencontres extraterrestres. Cela suggère qu'il existe
+  des connaissances ou des preuves cachées liées à l'existence de la vie au-delà de
+  la Terre, et que des entités militaires suppriment ou contrôlent activement la diffusion
+  de ces informations au public. Les partisans de cette théorie soutiennent que l'armée
+  est impliquée dans la capture ou l'enquête sur les observations d'OVNI, la conduite
+  de recherches secrètes sur les formes de vie extraterrestres ou même la dissimulation
+  de preuves de contact direct avec des extraterrestres. La notion de dissimulation
+  militaire de l'exobiologie implique un effort délibéré pour retenir ou manipuler
+  des informations sur des phénomènes extraterrestres potentiels pour diverses raisons,
+  telles que la sécurité nationale ou la stabilité sociétale.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

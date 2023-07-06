@@ -1,14 +1,14 @@
 ---
-title: "真理"
-description: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-lead: "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 真理
+description: 真相，一种推测性的概念，即当足够多的部分真相的标志被适当地揭开神秘面纱并汇编在一起时，就会出现一个有凝聚力的包罗万象的叙述，讲述地球上的生命是如何被外星文明设计的，以及此后发生的事情的编年史有一天，这一真理将在天启时期被揭示和重述。
+lead: 真相，一种推测性的概念，当足够多的部分真相的象征被适当地揭秘并汇编在一起时，就会出现一个有凝聚力的包罗万象的叙述，讲述地球上的生命是如何被外星文明设计的，以及此后发生的事情的编年史有一天，这一真理将在天启时期被揭示和重述。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

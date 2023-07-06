@@ -1,17 +1,22 @@
 ---
-title: "Ной"
-description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ной
+description: Ной, библейский патриарх, родившийся в допотопные времена. Он был номинирован
+  для участия в гигантском проекте по сохранению жизни, созданной на Земле, от надвигающегося
+  катаклизма.
+lead: Библейский патриарх, родившийся в допотопные времена. Он был номинирован для
+  участия в гигантском проекте по сохранению жизни, созданной на Земле, от надвигающегося
+  катаклизма.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## In Raëlism 🔯

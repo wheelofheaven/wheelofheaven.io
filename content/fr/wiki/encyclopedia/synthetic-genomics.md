@@ -1,14 +1,30 @@
 ---
-title: "Génomique synthétique"
-description: "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-lead: "A branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Génomique synthétique
+description: La génomique synthétique est une branche du génie génétique qui se concentre
+  sur la conception, l'assemblage et la synthèse de génomes complets ou de grands
+  segments de génomes. Il s'agit de créer des séquences d'ADN artificielles qui imitent
+  ou diffèrent des génomes naturels existants. La génomique synthétique vise à construire
+  du matériel génétique, tel que des chromosomes synthétiques ou des génomes synthétiques
+  entiers, pour étudier les processus biologiques fondamentaux, comprendre l'ensemble
+  minimal de gènes nécessaires à la vie et créer potentiellement des organismes avec
+  des caractéristiques modifiées ou nouvelles. Cela implique la construction de matériel
+  génétique artificiel pour explorer et manipuler la base génétique de la vie.
+lead: Branche du génie génétique qui se concentre sur la conception, l'assemblage
+  et la synthèse de génomes complets ou de grands segments de génomes. Il s'agit de
+  créer des séquences d'ADN artificielles qui imitent ou diffèrent des génomes naturels
+  existants. La génomique synthétique vise à construire du matériel génétique, tel
+  que des chromosomes synthétiques ou des génomes synthétiques entiers, pour étudier
+  les processus biologiques fondamentaux, comprendre l'ensemble minimal de gènes nécessaires
+  à la vie et créer potentiellement des organismes avec des caractéristiques modifiées
+  ou nouvelles. Cela implique la construction de matériel génétique artificiel pour
+  explorer et manipuler la base génétique de la vie.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

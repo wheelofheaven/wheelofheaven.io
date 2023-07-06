@@ -1,15 +1,29 @@
 ---
-title: "Ancient Astronauts-Hypothese"
-alernatives: ["Ancient aliens"]
-description: "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-lead: "Also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Ancient Astronauts-Hypothese
+alernatives:
+- Ancient aliens
+description: Die antike Astronautenhypothese, auch bekannt als „alte Außerirdische“,
+  basiert auf der Idee, dass außerirdische Wesen in der Vergangenheit die Erde besuchten
+  und alte Kulturen und Zivilisationen beeinflussten. Diese Hypothese legt nahe, dass
+  viele antike Bauwerke und Artefakte, wie Pyramiden und heilige Objekte wie die Bundeslade,
+  mit Hilfe außerirdischer Wesen geschaffen wurden und Botschaften über die Natur
+  des Universums und unseren Platz darin vermitteln sollten. Befürworter der Hypothese
+  verweisen auch auf Legenden, Mythen und religiöse Texte aus verschiedenen Kulturen,
+  die Begegnungen mit Wesen von den Sternen beschreiben.
+lead: Auch bekannt als „alte Außerirdische“, die Idee, dass außerirdische Wesen in
+  der Vergangenheit die Erde besuchten und alte Kulturen und Zivilisationen beeinflussten.
+  Diese Hypothese legt nahe, dass viele antike Bauwerke und Artefakte, wie Pyramiden
+  und heilige Objekte wie die Bundeslade, mit Hilfe außerirdischer Wesen geschaffen
+  wurden und Botschaften über die Natur des Universums und unseren Platz darin vermitteln
+  sollten. Befürworter der Hypothese verweisen auch auf Legenden, Mythen und religiöse
+  Texte aus verschiedenen Kulturen, die Begegnungen mit Wesen von den Sternen beschreiben.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

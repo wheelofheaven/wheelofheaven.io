@@ -1,15 +1,20 @@
 ---
-title: "Пангея"
-alternatives: ["Antediluvian landmass"]
-description: "Pangaea, an antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."
-lead: "An antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Пангея
+alternatives:
+- Antediluvian landmass
+description: Пангея, допотопный суперконтинент, который был терраформирован из мелководного
+  морского дна всей Земли Элохимами вскоре после того, как они прибыли на планету
+  Земля и начали исследовать ее строение.
+lead: Допотопный суперконтинент, который был терраформирован Элохимами из мелководного
+  морского дна всей Земли вскоре после того, как они прибыли на планету Земля и начали
+  исследовать его строение.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,15 +1,31 @@
 ---
-title: "Swastika"
-alternatives: ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
-description: "Swastika, a religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-lead: "A religious and cultural symbol exhibited by many ancient cultures up to this very day. While usually associated with the notion of well-being, good luck and similar positive connocations, in Raëlism, it is considered to simultaneously representing the cyclical natore of time, as well as the eternal continuity of time (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Swastika
+alternatives:
+- Arevakhach
+- Borjgali
+- Eternity sign
+- Fylfot
+- Lauburu
+- Mursunsydän
+- Sun cross
+- Ugunskrusts
+description: Croix gammée, un symbole religieux et culturel exposé par de nombreuses
+  cultures anciennes jusqu'à ce jour. Bien que généralement associé à la notion de
+  bien-être, de bonne chance et de connocations positives similaires, dans le raëlisme,
+  il est considéré comme représentant simultanément le natore cyclique du temps, ainsi
+  que la continuité éternelle du temps (infini).
+lead: Un symbole religieux et culturel exposé par de nombreuses cultures anciennes
+  jusqu'à ce jour. Bien que généralement associé à la notion de bien-être, de bonne
+  chance et de connocations positives similaires, dans le raëlisme, il est considéré
+  comme représentant simultanément le natore cyclique du temps, ainsi que la continuité
+  éternelle du temps (infini).
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

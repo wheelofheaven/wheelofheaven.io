@@ -1,14 +1,14 @@
 ---
-title: "考古天文学"
-description: "Archaeoastronomy, a scientific displine of understanding the anthropological past through the lense of astronomy and how the heritage of past cultures had been codified with astronomical observations. More specifically, the discipline is representative of an important body of research that is unveiling the extends to which knowledge and transmission thereof has been ever since the beginning of civilization making."
-lead: "A scientific displine of understanding the anthropological past through the lense of astronomy and how the heritage of past cultures had been codified with astronomical observations. More specifically, the discipline is representative of an important body of research that is unveiling the extends to which knowledge and transmission thereof has been ever since the beginning of civilization making."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 考古天文学
+description: 考古天文学是一门通过天文学的视角了解人类学过去以及如何通过天文观测来编纂过去文化遗产的科学学科。更具体地说，该学科代表了一个重要的研究机构，该机构正在揭示自文明形成以来知识及其传播的范围。
+lead: 通过天文学的视角理解人类学过去以及如何通过天文观测来编纂过去文化的遗产的科学学科。更具体地说，该学科代表了一个重要的研究机构，该机构正在揭示自文明形成以来知识及其传播的范围。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

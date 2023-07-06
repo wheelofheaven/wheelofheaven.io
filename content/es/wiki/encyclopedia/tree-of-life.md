@@ -1,14 +1,20 @@
 ---
-title: "Árbol de la Vida"
-description: "Tree of Life, a Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-lead: "A Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Árbol de la Vida
+description: Tree of Life, una metáfora bíblica que representa el cuerpo científico
+  de conocimiento sobre cómo proporcionar los medios tecnológicos para lograr la vida
+  eterna. Más concretamente para alargar la esperanza de vida humana hasta 1'000 años
+  como fue el caso durante la Era de Leo.
+lead: Una metáfora bíblica que representa el cuerpo científico de conocimiento sobre
+  cómo proporcionar los medios tecnológicos para lograr la vida eterna. Más concretamente
+  para alargar la esperanza de vida humana hasta 1'000 años como fue el caso durante
+  la Era de Leo.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

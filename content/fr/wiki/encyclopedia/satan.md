@@ -1,15 +1,29 @@
 ---
-title: "Satan"
-alternatives: ["Accuser", "hasSāṭān","Prosecutor", "שָׂטָן"]
-description: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-lead: "Satan (śāṭān, Hebrew: שָׂטָן), not to be confused with Lucifer, is an Eloha (אֱלוֹהַּ) and the representative of a faction within the Elohim (אֱלֹהִים) that opposes the existence of a prospering offspring civilization on Earth which is seen as a threat to their remote well-being. As such, Satan is not a proper name, but an indicative form of the role that Satan fills, namely that of an obstructor, of a prosecutor or even of an accuser."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Satan
+alternatives:
+- Accuser
+- hasSāṭān
+- Prosecutor
+- שָׂטָן
+description: 'Satan (śāṭān, hébreu : שָׂטָן), à ne pas confondre avec Lucifer, est
+  un Eloha (אֱלוֹהַּ) et le représentant d''une faction au sein des Elohim (אֱלֹהִים)
+  qui s''oppose à l''existence d''une progéniture prospère civilisation sur Terre
+  qui est considérée comme un menace pour leur bien-être à distance. En tant que tel,
+  Satan n''est pas un nom propre, mais une forme indicative du rôle que remplit Satan,
+  à savoir celui d''obstruction, de poursuivant ou encore d''accusateur.'
+lead: 'Satan (śāṭān, hébreu : שָׂטָן), à ne pas confondre avec Lucifer, est un Eloha
+  (אֱלוֹהַּ) et le représentant d''une faction au sein des Elohim (אֱלֹהִים) qui s''oppose
+  à l''existence d''une progéniture prospère civilisation sur Terre qui est considérée
+  comme un menace pour leur bien-être à distance. En tant que tel, Satan n''est pas
+  un nom propre, mais une forme indicative du rôle que remplit Satan, à savoir celui
+  d''obstruction, de poursuivant ou encore d''accusateur.'
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

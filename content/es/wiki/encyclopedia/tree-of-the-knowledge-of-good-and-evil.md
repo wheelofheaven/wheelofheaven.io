@@ -1,14 +1,23 @@
 ---
-title: "Árbol del Conocimiento del Bien y el Mal"
-description: "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-lead: "A Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Árbol del Conocimiento del Bien y el Mal
+description: Árbol del conocimiento del bien y del mal, una metáfora bíblica para
+  los registros del conocimiento científico. A los primeros seres humanos manipulados
+  genéticamente se les mostraron algunos pero no todos los libros científicos, especialmente
+  los libros que contenían grandes conocimientos científicos se mantuvieron en secreto.
+  El bien y el mal representa la ignorancia deliberada sobre estos registros y las
+  ramificaciones contenidas en ellos.
+lead: Una metáfora bíblica para los registros de conocimiento científico. A los primeros
+  seres humanos manipulados genéticamente se les mostraron algunos pero no todos los
+  libros científicos, especialmente los libros que contenían grandes conocimientos
+  científicos se mantuvieron en secreto. El bien y el mal representa la ignorancia
+  deliberada sobre estos registros y las ramificaciones contenidas en ellos.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

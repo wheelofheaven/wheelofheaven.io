@@ -1,14 +1,24 @@
 ---
-title: "Священная геометрия"
-description: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-lead: "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Священная геометрия
+description: Сакральная геометрия , предположение о том, что геометрические понятия
+  более высокого порядка использовались в ряде исторических структур, зданий и артефактов,
+  предполагая, что их строители намеренно добавили дополнительное измерение смысла
+  в свою работу, эффективно систематизировав свое наследие с помощью значимых пропорций
+  и, следовательно, оставив отпечатки пальцев, намекающие на общую традицию знаний
+  и мудрости.
+lead: Сакральная геометрия , предположение о том, что геометрические понятия более
+  высокого порядка использовались в ряде исторических структур, зданий и артефактов,
+  предполагая, что их строители намеренно добавили дополнительное измерение смысла
+  в свою работу, эффективно систематизировав свое наследие с помощью значимых пропорций
+  и, следовательно, оставив отпечатки пальцев, намекающие на общую традицию знаний
+  и мудрости.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

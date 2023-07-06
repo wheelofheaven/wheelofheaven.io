@@ -1,15 +1,25 @@
 ---
-title: "Großer Monat"
-alternatives: ["Astrological age", "Precessional month", "World Age"]
-description: "Great Month, also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-lead: "Also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Großer Monat
+alternatives:
+- Astrological age
+- Precessional month
+- World Age
+description: Großer Monat, auch bekannt als astrologisches Zeitalter oder Weltzeitalter,
+  ein Zeitraum von etwa 2.160 Jahren, die Zeitspanne, die das Präzessionsphänomen
+  benötigt, um das Tierkreisband auf der Ekliptik um 30 Grad oder ein Zwölftel nach
+  Westen zu verschieben des vollen Umfangs von 360 Grad. 12 großartige Monate ergeben
+  ein großartiges Jahr.
+lead: Auch bekannt als astrologisches Zeitalter oder Weltzeitalter, ein Zeitraum von
+  etwa 2.160 Jahren, die Zeitspanne, die das Präzessionsphänomen benötigt, um das
+  Tierkreisband auf der Ekliptik um 30 Grad nach Westen zu verschieben, oder ein Zwölftel
+  davon voller Umfang von 360 Grad. 12 großartige Monate ergeben ein großartiges Jahr.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "无限"
-description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. There is no center as there is no beginning nor end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 无限
+description: 无限，一种最高阶的科学见解，因为它假定时间和空间的永恒范围。没有中心，因为没有开始也没有结束。世界各地和各个时代都广为人知的两个古老符号证明了耶洛因赋予我们的古老智慧，即卍字代表时间和永恒的循环性质，而红大卫又代表上在下，意味着道路空间扩展到更大的宏观层次与微观层次内的空间折叠到的方式相同。
+lead: 这是最高阶的科学见解，因为它假设了时间和空间的永恒范围。没有中心，因为没有开始也没有结束。世界各地和各个时代都广为人知的两个古老符号证明了耶洛因赋予我们的古老智慧，即卍字代表时间和永恒的循环性质，而红大卫又代表上在下，意味着道路空间扩展到更大的宏观层次与微观层次内的空间折叠到的方式相同。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

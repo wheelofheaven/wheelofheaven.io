@@ -1,15 +1,16 @@
 ---
-title: "世界の年齢"
-alternatives: ["Astrological age"]
-description: "World Age, also known known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-lead: "Also known as an Astrological Age, a colloquial term to designate a Great Month by its Zodiacal name. For instance, right now, we are transitioning from the Age of Pisces to the Age of Aquarius."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 世界の年齢
+alternatives:
+- Astrological age
+description: 占星術時代としても知られる世界時代。偉大な月を黄道帯の名前で表す口語用語です。たとえば、今、私たちは魚座の時代から水瓶座の時代に移行しています。
+lead: 占星術の時代とも呼ばれ、偉大な月を黄道帯の名前で表す口語用語です。たとえば、今、私たちは魚座の時代から水瓶座の時代に移行しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

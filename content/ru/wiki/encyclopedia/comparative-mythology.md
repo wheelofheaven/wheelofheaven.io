@@ -1,14 +1,22 @@
 ---
-title: "Сравнительная мифология"
-description: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
-lead: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Сравнительная мифология
+description: Сравнительная мифология , область исследований, в которой сравниваются
+  мифы разных культур с целью выявления общих мотивов. Исследования показали, что
+  культуры изображают значительное совпадение в своих мифологических пересказах. Это
+  совпадение убедительно свидетельствует о том, что эти общие мотивы в разных культурах
+  отражают универсальные события, которые, скорее всего, имели место.
+lead: Сравнительная мифология , область исследований, в которой сравниваются мифы
+  разных культур с целью выявления общих мотивов. Исследования показали, что культуры
+  изображают значительное совпадение в своих мифологических пересказах. Это совпадение
+  убедительно свидетельствует о том, что эти общие мотивы в разных культурах отражают
+  универсальные события, которые, скорее всего, имели место.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

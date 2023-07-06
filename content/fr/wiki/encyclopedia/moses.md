@@ -1,17 +1,18 @@
 ---
-title: "Moïse"
-description: "Moses, a Biblical patriarch from the times of Exodus."
-lead: "A Biblical patriarch from the times of Exodus."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Moïse
+description: Moïse, un patriarche biblique de l'époque de l'Exode.
+lead: Un patriarche biblique de l'époque de l'Exode.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["aries"]
+timeline:
+- aries
 ---
 
 Moses was a prophet, lawgiver, and leader in the Abrahamic religion of Judaism. According to the biblical account, Moses was born in Egypt to Jewish parents and was rescued as a baby and raised by Pharaoh's daughter. As an adult, he received a divine call from God to lead the Israelites out of slavery in Egypt and to receive the Ten Commandments and other laws on Mount Sinai. Moses is considered one of the greatest prophets in Judaism, and his story is an important part of the Hebrew Bible (Old Testament) and the Islamic Qur'an.

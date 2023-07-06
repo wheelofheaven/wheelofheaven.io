@@ -1,14 +1,16 @@
 ---
-title: "创世纪"
-description: "Genesis, etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-lead: "Etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 创世纪
+description: 创世记，从词源学上来说，是圣经的第一本书，希伯来语也称为 Book of Genesis 或 B'reshit (בְּרֵאשִׁת)。更形象地说，耶洛因在地球上进行的所有创造项目的总和，持续了
+  7 个伟大的月份，相当于大约 15,000 年。
+lead: 从词源学上讲，圣经的第一本书，希伯来语也称为 Book of Genesis 或 B'reshit (בְּרֵאשִׁת)。更形象地说，耶洛因在地球上进行的所有创造项目的总和，持续了
+  7 个伟大的月份，相当于大约 15,000 年。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

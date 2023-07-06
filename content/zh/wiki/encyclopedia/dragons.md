@@ -1,15 +1,16 @@
 ---
-title: "龙"
-alternatives: ["Dinosaurs"]
-description: "Dragons, an extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-lead: "An extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 龙
+alternatives:
+- Dinosaurs
+description: 龙，一种已经灭绝的生物生命形式，最初是在埃洛希米亚母星上设计的，其特点是特别可怕和可怕。由于事件的严重性，研究和工程转移到了近在咫尺的系外行星地球，并在其表面启动了生命。通过古生物学，我们将这些龙称为恐龙。
+lead: 一类已灭绝的生物生命形式，最初是在埃洛希米亚母星上设计的，其特点是特别可怕和可怕。由于事件的严重性，研究和工程转移到了近在咫尺的系外行星地球，并在其表面启动了生命。通过古生物学，我们将这些龙称为恐龙。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

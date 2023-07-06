@@ -1,15 +1,20 @@
 ---
-title: "大月"
-alternatives: ["Astrological age", "Precessional month", "World Age"]
-description: "Great Month, also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-lead: "Also known as Astrological age or World Age, a period of time of around 2'160 years, the amount of time it takes for the phenomonen of precession to shift the Zodiacal band on the ecliptic westwards by 30 degrees, or a twelth of of the full circonference of 360 degrees. 12 Great Months amount to one Great Year."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 大月
+alternatives:
+- Astrological age
+- Precessional month
+- World Age
+description: 偉大な月、占星術時代または世界時代としても知られる、約 2,160 年の期間、歳差運動現象が黄道上の黄道帯を西に 30 度、つまり 12
+  度移動するのにかかる時間360度全周の。 12 の偉大な月は 1 つの偉大な年に相当します。
+lead: 占星術時代または世界時代としても知られる約 2'160 年の期間で、歳差運動現象が黄道上の黄道帯を西に 30 度、つまり 12 分の 1 だけ移動させるのにかかる時間です。
+  360度全周。 12 の偉大な月は 1 つの偉大な年に相当します。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

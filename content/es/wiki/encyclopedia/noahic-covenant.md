@@ -1,17 +1,32 @@
 ---
-title: "Pacto Noájida"
-description: "Noahic covenant is a promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-lead: "A promise made by the Elohim right after the Great Flood which wiped out almost all life on planet Earth to never let that happen again. The Great Flood was the effects caused by a preventive measure initiated by the opposing Elohim government to end all scientific progress undertaken by the terrestrial human beings which was deemed too dangerous. With the help of a banished faction of Elohim, Noahs and others managed to preserve life by storing genetic source material of all terrestrial species which was safeguarded aboard the Ark, an orbiting spacecraft."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pacto Noájida
+description: El pacto de Noé es una promesa hecha por los Elohim justo después del
+  Gran Diluvio que arrasó con casi toda la vida en el planeta Tierra para que nunca
+  más vuelva a suceder. El Gran Diluvio fue los efectos causados por una medida preventiva
+  iniciada por el gobierno opositor de Elohim para acabar con todo progreso científico
+  emprendido por los seres humanos terrestres que se consideró demasiado peligroso.
+  Con la ayuda de una facción desterrada de Elohim, Noahs y otros lograron preservar
+  la vida almacenando material de origen genético de todas las especies terrestres
+  que se salvaguardó a bordo del Arca, una nave espacial en órbita.
+lead: Una promesa hecha por los Elohim justo después del Gran Diluvio que arrasó con
+  casi toda la vida en el planeta Tierra para que nunca más vuelva a suceder. El Gran
+  Diluvio fue los efectos causados por una medida preventiva iniciada por el gobierno
+  opositor de Elohim para acabar con todo progreso científico emprendido por los seres
+  humanos terrestres que se consideró demasiado peligroso. Con la ayuda de una facción
+  desterrada de Elohim, Noahs y otros lograron preservar la vida almacenando material
+  de origen genético de todas las especies terrestres que se salvaguardó a bordo del
+  Arca, una nave espacial en órbita.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 ## Etymology

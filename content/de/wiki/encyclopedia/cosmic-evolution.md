@@ -1,14 +1,25 @@
 ---
-title: "Kosmische Evolution"
-description: "Cosmic evolution refers to a purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-lead: "A purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Kosmische Evolution
+description: Unter kosmischer Evolution versteht man die gezielte, schrittweise Schaffung
+  von Leben im gesamten Universum durch fortgeschrittene Zivilisationen. Es geht über
+  die biologische Evolution hinaus und betont die bewusste Gestaltung und kontinuierliche
+  Verfeinerung humanoider Lebensformen. Jede nachfolgende Schöpfung stellt einen evolutionären
+  Schritt nach vorne dar, stellt jedoch möglicherweise eine Bedrohung für ihre Schöpfer
+  dar. Dieses Konzept stellt eine Mischung aus natürlichen Prozessen und bewusster
+  Gestaltung der großen Entwicklung des Lebens im Kosmos dar.
+lead: Eine gezielte, iterative Schaffung von Leben im gesamten Universum durch fortgeschrittene
+  Zivilisationen. Es geht über die biologische Evolution hinaus und betont die bewusste
+  Gestaltung und kontinuierliche Verfeinerung humanoider Lebensformen. Jede nachfolgende
+  Schöpfung stellt einen evolutionären Schritt nach vorne dar, stellt jedoch möglicherweise
+  eine Bedrohung für ihre Schöpfer dar. Dieses Konzept stellt eine Mischung aus natürlichen
+  Prozessen und bewusster Gestaltung der großen Entwicklung des Lebens im Kosmos dar.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

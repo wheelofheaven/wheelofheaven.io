@@ -1,15 +1,32 @@
 ---
-title: "Elohim"
-alternatives: ["Annunaki", "Himmlischen", "Schöpfer", "Dei", "El", "Götter", "Die Mächtigen", "Diejenigen vom Himmel", "Theositen"]
-description: "Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich die Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der den biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung von Leben."
-lead: "Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich die Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der den biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung von Leben."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Elohim
+alternatives:
+- Annunaki
+- Himmlischen
+- Schöpfer
+- Dei
+- El
+- Götter
+- Die Mächtigen
+- Diejenigen vom Himmel
+- Theositen
+description: Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich
+  die Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der
+  den biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte
+  Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung
+  von Leben.
+lead: Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich die
+  Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der den
+  biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte
+  Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung
+  von Leben.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "wiki"
+    parent: wiki
 weight: 200
 toc: true
 ---

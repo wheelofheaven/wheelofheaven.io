@@ -1,14 +1,14 @@
 ---
-title: "パラダイズム"
-description: "Paradism, the establishement of a post-scarcity, fully automatized socio-economic system in the image of the Elohim's home planet. Through technological means of automatizing labour and alleviation of hardships, abundance, prosperity and personal fullfilment would become the new currency of social pursuit."
-lead: "The establishement of a post-scarcity, fully automatized socio-economic system in the image of the Elohim's home planet. Through technological means of automatizing labour and alleviation of hardships, abundance, prosperity and personal fullfilment would become the new currency of social pursuit."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: パラダイズム
+description: 楽園主義、エロヒムの故郷の惑星をイメージした、欠乏後の完全に自動化された社会経済システムの確立。労働を自動化し、困難を軽減する技術的手段を通じて、豊かさ、繁栄、個人の充足が社会的追求の新たな通貨となるだろう。
+lead: エロヒムの故郷の惑星をイメージした、欠乏後の完全に自動化された社会経済システムの確立。労働を自動化し、困難を軽減する技術的手段を通じて、豊かさ、繁栄、個人の充足が社会的追求の新たな通貨となるだろう。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

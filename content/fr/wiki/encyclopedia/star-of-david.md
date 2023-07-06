@@ -1,15 +1,30 @@
 ---
-title: "Étoile de David"
-alternatives: ["Hexagram", "Magen David", "Shield of David"]
-description: "Star of David, an ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-lead: "An ancient symbol known by many names such as the Shield of David (Magen David) or the Seal of Solomon. While generally being associated with the Jewish culture and the Jewish faith, it symbol is depicted by many cultures at various times in human history. In Raëlism, it's meaning is interpreted to represent both equivalence of all scales of existence (commonly referred to by the infamous Hermetic saying \"As above, so below\") as well as the endless vastness of space (infinity)."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Étoile de David
+alternatives:
+- Hexagram
+- Magen David
+- Shield of David
+description: Étoile de David, un ancien symbole connu sous de nombreux noms tels que
+  le Bouclier de David (Magen David) ou le Sceau de Salomon. Bien qu'il soit généralement
+  associé à la culture juive et à la foi juive, ce symbole est représenté par de nombreuses
+  cultures à divers moments de l'histoire humaine. Dans le raëlisme, sa signification
+  est interprétée pour représenter à la fois l'équivalence de toutes les échelles
+  d'existence (communément désignée par le tristement célèbre dicton hermétique "Comme
+  ci-dessus, donc ci-dessous") ainsi que l'immensité sans fin de l'espace (infini).
+lead: Un ancien symbole connu sous de nombreux noms tels que le Bouclier de David
+  (Magen David) ou le Sceau de Salomon. Bien qu'il soit généralement associé à la
+  culture juive et à la foi juive, ce symbole est représenté par de nombreuses cultures
+  à divers moments de l'histoire humaine. Dans le raëlisme, sa signification est interprétée
+  pour représenter à la fois l'équivalence de toutes les échelles d'existence (communément
+  désignée par le tristement célèbre dicton hermétique "Comme ci-dessus, donc ci-dessous")
+  ainsi que l'immensité sans fin de l'espace (infini).
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

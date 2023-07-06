@@ -1,14 +1,14 @@
 ---
-title: "人道主義"
-description: "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-lead: "A proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 人道主義
+description: 人道主義。新しい戒めの一部としてヤハウェによって提唱された社会経済的教義で、特定の種類の機会平等を実現することによって人類の未来を守ることに焦点を当てています。最終的には才能と武勇に利益をもたらし、相続の廃止と期間限定のジュビリアン所有権契約の確立です。より一般的に言われる人道主義は、人々の義務は人類の福祉を促進することであるという教義です。
+lead: 新しい戒めの一部としてヤハウェによって提案された社会経済的教義で、特定の種類の機会平等を実現することによって人類の未来を守ることに焦点を当てています。最終的に才能と武勇に利益をもたらすものとして、相続の廃止と期間限定のジュビリアン所有権契約の確立が挙げられます。より一般的に言われる人道主義は、人々の義務は人類の福祉を促進することであるという教義です。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

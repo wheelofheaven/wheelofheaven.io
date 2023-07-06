@@ -1,14 +1,14 @@
 ---
-title: "比较神话学"
-description: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
-lead: "Comparative mythology, a field of research that compares myths from cultures in order to identify shared motifs. Research has shown that cultures depict significant overlapping in their mythological retellings. This overlapping strongly suggests that these shared motifs across cultures reflect universal occurrences that are highly likely to have taken place."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 比较神话学
+description: 比较神话学是比较不同文化中的神话以识别共同主题的研究领域。研究表明，不同文化在神话重述中存在显着的重叠。这种重叠强烈表明，这些跨文化的共同主题反映了极有可能发生的普遍事件。
+lead: 比较神话学是比较不同文化中的神话以识别共同主题的研究领域。研究表明，不同文化在神话重述中存在显着的重叠。这种重叠强烈表明，这些跨文化的共同主题反映了极有可能发生的普遍事件。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

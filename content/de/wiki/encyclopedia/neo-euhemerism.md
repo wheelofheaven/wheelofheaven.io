@@ -1,14 +1,28 @@
 ---
-title: "Neo-Euhemerismus"
-description: "Neo-Euhemerism is a philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-lead: "A philosophical attempt at rationalizing mythology, in particular the nature of Gods and Divine Beings, in historical terms by interpreting the seemingly supernatural characteristics attributed to Gods as the consequence of their technological and scientific sophistication. Neo-Euhemerism can be understood as the philosophical paradigm to equate ancient Gods with a spacefaring civilization, possibly of extraterrestrial origin. Hence the hypothesis put forward here on Wheel of Heaven is indeed sharing a similar DNA with neo-euhemeristic premises."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Neo-Euhemerismus
+description: Der Neo-Euhemerismus ist ein philosophischer Versuch, die Mythologie,
+  insbesondere die Natur der Götter und göttlichen Wesen, historisch zu rationalisieren,
+  indem die scheinbar übernatürlichen Eigenschaften, die den Göttern zugeschrieben
+  werden, als Folge ihrer technologischen und wissenschaftlichen Raffinesse interpretiert
+  werden. Der Neo-Euhemerismus kann als das philosophische Paradigma verstanden werden,
+  das alte Götter mit einer raumfahrenden Zivilisation, möglicherweise außerirdischen
+  Ursprungs, gleichsetzt. Daher weist die hier zu Wheel of Heaven aufgestellte Hypothese
+  tatsächlich eine ähnliche DNA mit neo-euhemeristischen Prämissen auf.
+lead: Ein philosophischer Versuch, die Mythologie, insbesondere die Natur der Götter
+  und göttlichen Wesen, in historischen Begriffen zu rationalisieren, indem die scheinbar
+  übernatürlichen Eigenschaften, die den Göttern zugeschrieben werden, als Folge ihrer
+  technologischen und wissenschaftlichen Raffinesse interpretiert werden. Der Neo-Euhemerismus
+  kann als das philosophische Paradigma verstanden werden, das alte Götter mit einer
+  raumfahrenden Zivilisation, möglicherweise außerirdischen Ursprungs, gleichsetzt.
+  Daher weist die hier zu Wheel of Heaven aufgestellte Hypothese tatsächlich eine
+  ähnliche DNA mit neo-euhemeristischen Prämissen auf.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

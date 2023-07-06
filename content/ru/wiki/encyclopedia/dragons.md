@@ -1,15 +1,24 @@
 ---
-title: "Драконы"
-alternatives: ["Dinosaurs"]
-description: "Dragons, an extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-lead: "An extinct class of biological life forms that originally got engineered on the Elohimian home planet that were characterized by being particularly dreadful and monstrous. As a consequence of the severity of an incident, the research and engineering got offshored to near-at-hand exoplanet, Earth, and kickstarted life upon its surface. These dragons are known to us through paleontology as dinosaurs."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Драконы
+alternatives:
+- Dinosaurs
+description: Драконы, вымерший класс биологических форм жизни, которые изначально
+  были созданы на родной планете Элохимиан, отличались особой ужасностью и чудовищностью.
+  Из-за серьезности инцидента исследования и разработки были перенесены на ближайшую
+  экзопланету, Землю, и положили начало жизни на ее поверхности. Эти драконы известны
+  нам по палеонтологии как динозавры.
+lead: Вымерший класс биологических форм жизни, которые изначально были созданы на
+  родной планете Элохимиан и отличались особой ужасностью и чудовищностью. Из-за серьезности
+  инцидента исследования и разработки были перенесены на ближайшую экзопланету, Землю,
+  и положили начало жизни на ее поверхности. Эти драконы известны нам по палеонтологии
+  как динозавры.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

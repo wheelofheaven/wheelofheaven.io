@@ -1,14 +1,20 @@
 ---
-title: "Pluralisme cosmique"
-description: "Cosmic pluralism, also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-lead: "Also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Pluralisme cosmique
+description: Le pluralisme cosmique, aussi simplement connu sous le nom de pluralité
+  des mondes, est l'idée que des mondes multiples, mais inconnus, doivent exister
+  en plus de la Terre où la vie intelligente doit être présente. L'immensité de l'espace
+  soutient fortement cette idée.
+lead: Aussi simplement connue sous le nom de pluralité des mondes, est l'idée que
+  des mondes multiples, mais inconnus, doivent exister en plus de la Terre où la vie
+  intelligente doit être présente. L'immensité de l'espace soutient fortement cette
+  idée.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

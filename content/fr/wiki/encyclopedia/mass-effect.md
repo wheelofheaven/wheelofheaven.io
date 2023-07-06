@@ -1,15 +1,24 @@
 ---
-title: "Effet de masse"
-alternatives: ["Law of masstime"]
-description: "Mass effect, or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-lead: "Or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Effet de masse
+alternatives:
+- Law of masstime
+description: L'effet de masse, ou encore la loi de masse-temps, est une loi hypothétique
+  de la physique où le temps semble se déplacer plus lentement pour les systèmes plus
+  grands et plus complexes que pour les systèmes plus petits et plus simples. La loi
+  n'a pas encore été formalisée mathématiquement, mais tire toute sa capacité prévisible
+  d'observations empiriques.
+lead: Ou bien la loi de la masse-temps est une loi hypothétique de la physique où
+  le temps semble se déplacer plus lentement pour les systèmes plus grands et plus
+  complexes que pour les systèmes plus petits et plus simples. La loi n'a pas encore
+  été formalisée mathématiquement, mais tire toute sa capacité prévisible d'observations
+  empiriques.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

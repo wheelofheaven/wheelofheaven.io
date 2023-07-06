@@ -1,14 +1,22 @@
 ---
-title: "Инженерия жизни"
-description: "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-lead: "Refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Инженерия жизни
+description: Инженерия жизни относится к применению научных и технологических подходов
+  к преднамеренному проектированию и созданию искусственных живых организмов или биологических
+  систем с новыми функциями, характеристиками или возможностями. Он включает преднамеренное
+  манипулирование генетическим материалом и сборку биологических компонентов, чтобы
+  вызвать появление совершенно новых форм жизни, не существующих в природе.
+lead: Относится к применению научных и технологических подходов к преднамеренному
+  проектированию и созданию искусственных живых организмов или биологических систем
+  с новыми функциями, характеристиками или возможностями. Он включает преднамеренное
+  манипулирование генетическим материалом и сборку биологических компонентов, чтобы
+  вызвать появление совершенно новых форм жизни, не существующих в природе.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

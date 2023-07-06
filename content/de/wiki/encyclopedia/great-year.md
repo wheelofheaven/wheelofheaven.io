@@ -1,15 +1,19 @@
 ---
-title: "Großes Jahr"
-alternatives: ["Platonic Year", "Precessional year"]
-description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-lead: "Also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Großes Jahr
+alternatives:
+- Platonic Year
+- Precessional year
+description: Großes Jahr, auch platonisches Jahr genannt, ein Zeitraum von etwa 25.920
+  Jahren, also die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt.
+lead: Auch als platonisches Jahr bekannt, ein Zeitraum von etwa 25.920 Jahren, also
+  die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

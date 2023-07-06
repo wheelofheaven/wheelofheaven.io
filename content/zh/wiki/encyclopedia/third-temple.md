@@ -1,14 +1,14 @@
 ---
-title: "第三圣殿"
-description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 第三圣殿
+description: 第三圣殿，耶洛因的住所，应该在天启时期重建。
+lead: 耶洛因的住所应该在天启时期重建。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

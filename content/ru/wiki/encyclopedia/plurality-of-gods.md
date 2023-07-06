@@ -1,15 +1,23 @@
 ---
-title: "Множество богов"
-alternatives: ["Polytheism"]
-description: "The Plurality of Gods represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-lead: "Represents the distinctive interpretation that the Biblical tradition testifies to the existence of multiple divine beings. This concept also encompasses the belief that these divine beings were once akin to humans, and correspondingly, that humans possess the potential to evolve into god-like entities in the future."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Множество богов
+alternatives:
+- Polytheism
+description: Множественность богов представляет собой отличительную интерпретацию
+  библейской традиции, свидетельствующей о существовании множества божественных существ.
+  Эта концепция также включает веру в то, что эти божественные существа когда-то были
+  похожи на людей, и, соответственно, что люди обладают потенциалом эволюционировать
+  в богоподобных существ в будущем.
+lead: Представляет отличительную интерпретацию того, что библейская традиция свидетельствует
+  о существовании множества божественных существ. Эта концепция также включает веру
+  в то, что эти божественные существа когда-то были похожи на людей, и, соответственно,
+  что люди обладают потенциалом эволюционировать в богоподобных существ в будущем.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

@@ -1,14 +1,14 @@
 ---
-title: "インテリジェントデザイン"
-description: "Intelligent Design, a competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-lead: "A competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: インテリジェントデザイン
+description: インテリジェント デザイン、地球上の生命の起源に関する競合する科学パラダイム。これは、エロヒムが元虚無の遺伝子工学の手段を通じて地球上の生命を人工的に操作した場合に何が起こったのかを最も正確に表現したものとなるでしょう。
+lead: 地球上の生命の起源に関する競合する科学パラダイム。これは、エロヒムが元虚無の遺伝子工学の手段を通じて地球上の生命を人工的に操作した場合に何が起こったのかを最も正確に表現したものとなるでしょう。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

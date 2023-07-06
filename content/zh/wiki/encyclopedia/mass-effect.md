@@ -1,15 +1,16 @@
 ---
-title: "质量效应"
-alternatives: ["Law of masstime"]
-description: "Mass effect, or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-lead: "Or alternatively the law of masstime, is a hypothetical law of physics where time appears to move more slowly for larger and more complex systems than for smaller and simpler ones. The law hasn't been mathematically formalized yet, but derives all of its predictable ability from empirical obversations."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 质量效应
+alternatives:
+- Law of masstime
+description: 质量效应，或者质量时间定律，是一种假设的物理定律，其中对于更大、更复杂的系统，时间似乎比更小、更简单的系统移动得更慢。该定律尚未在数学上形式化，但其所有可预测能力均来自经验观察。
+lead: 或者，质量时间定律是一种假设的物理定律，其中对于更大、更复杂的系统，时间似乎比更小、更简单的系统移动得更慢。该定律尚未在数学上形式化，但其所有可预测能力均来自经验观察。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

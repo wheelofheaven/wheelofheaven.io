@@ -1,14 +1,21 @@
 ---
-title: "Genesis"
-description: "Genesis, etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-lead: "Etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Genesis
+description: Genesis, etymologisch gesehen das erste Buch der Bibel, auf Hebräisch
+  auch als Buch Genesis oder B'reshit (בְּרֵאשִׁית) bekannt. Im übertragenen Sinne
+  handelt es sich um die Summe aller von den Elohim auf dem Planeten Erde durchgeführten
+  Schöpfungsprojekte, die sieben große Monate dauerten, was ungefähr 15.000 Jahren
+  entspricht.
+lead: Etymologisch gesehen das erste Buch der Bibel, auf Hebräisch auch als Buch Genesis
+  oder B'reshit (בְּרֵאשִׁית) bekannt. Im übertragenen Sinne handelt es sich um die
+  Summe aller von den Elohim auf dem Planeten Erde durchgeführten Schöpfungsprojekte,
+  die sieben große Monate dauerten, was ungefähr 15.000 Jahren entspricht.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

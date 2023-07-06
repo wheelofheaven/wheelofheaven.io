@@ -1,18 +1,28 @@
 ---
-title: "Confusion des langues"
-alternatives: ["Confusio linguarum"]
-description: "Confusion of tongues, the follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."
-lead: "The follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Confusion des langues
+alternatives:
+- Confusio linguarum
+description: Confusion des langues, la réaction de suivi de la civilisation Elohimienne
+  à l'époque de la construction de la technologie spatiale qui a succédé au Déluge
+  afin de contrer le progrès technologique sur Terre et de rendre ces efforts inoffensifs.
+  L'entreprise de confusion a consisté à dissoudre géographiquement les porteurs de
+  connaissances partout dans le monde parmi des tribus qui ne pouvaient plus les comprendre.
+lead: La réaction de suivi de la civilisation élohimienne à l'époque de la construction
+  de la technologie spatiale qui a succédé au Grand Déluge afin de contrecarrer le
+  progrès technologique sur Terre et de rendre ces efforts inoffensifs. L'entreprise
+  de confusion a consisté à dissoudre géographiquement les porteurs de connaissances
+  partout dans le monde parmi des tribus qui ne pouvaient plus les comprendre.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["gemini"]
+timeline:
+- gemini
 ---
 
 The Confusion of Tongues is an event described in the Book of Genesis in the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}). According to the story, the people referred to in the Bible were initially of one language and lived together in harmony. However, they decided to build a great tower that would reach the heavens, which is called the [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}). The [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) saw this as a challenge to their authority and decided to confuse their language, making it impossible for them to understand each other. This caused the people to be scattered across the known world, unable to work together on their tower.

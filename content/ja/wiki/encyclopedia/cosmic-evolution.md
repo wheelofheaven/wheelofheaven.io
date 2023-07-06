@@ -1,14 +1,14 @@
 ---
-title: "宇宙進化"
-description: "Cosmic evolution refers to a purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-lead: "A purposeful, iterative creation of life across the universe by advanced civilizations. It transcends biological evolution, emphasizing deliberate design and continual refinement of humanoid life forms. Each successive creation represents an evolutionary step forward, although potentially posing a threat to their creators. This concept represents a blend of natural processes and conscious design in the grand progression of life across the cosmos."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: 宇宙進化
+description: 宇宙の進化とは、先進文明による宇宙全体での目的を持った反復的な生命の創造を指します。それは生物学的進化を超え、人型生命体の意図的な設計と継続的な改良を強調しています。連続する創作物はそれぞれ進化の一歩を表していますが、潜在的に創作者に脅威をもたらす可能性があります。このコンセプトは、宇宙全体の生命の壮大な進行における自然のプロセスと意識的なデザインの融合を表しています。
+lead: 先進文明による宇宙全体への目的を持った反復的な生命の創造。それは生物学的進化を超え、人型生命体の意図的な設計と継続的な改良を強調しています。連続する創作物はそれぞれ進化の一歩を表していますが、潜在的に創作者に脅威をもたらす可能性があります。このコンセプトは、宇宙全体の生命の壮大な進行における自然のプロセスと意識的なデザインの融合を表しています。
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

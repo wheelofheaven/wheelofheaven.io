@@ -1,18 +1,30 @@
 ---
-title: "Эдем"
-alternatives: ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
-description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
-lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Эдем
+alternatives:
+- Garden of Eden
+- gan-ʿĒḏen
+- גַּן־עֵדֶן
+description: Эдем, особый регион допотопного пангейского суперконтинента, где одна
+  из семи команд Элохимианских создателей была весьма талантлива и, как считается,
+  создала рай на Земле. Эдемский сад относится к закрытому исследовательскому участку,
+  которым управляют элогимианские исследователи в районе Эдема.
+lead: Особый регион допотопного пангейского суперконтинента, где одна из семи команд
+  элогимианских создателей была весьма талантлива и, как считается, создала рай на
+  Земле. Эдемский сад относится к закрытому исследовательскому участку, которым управляют
+  элогимианские исследователи в районе Эдема.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
-timeline: ["virgo", "leo", "cancer"]
+timeline:
+- virgo
+- leo
+- cancer
 ---
 
 The Garden of Eden is a significant locale featured prominently in the [Biblical]({{< relref "wiki/encyclopedia/bible.md" >}}) narrative of the creation and early history of humanity. Considered a paradise by many, this garden is described in the Book of Genesis, the first book of the Jewish Torah and the Christian Bible. The Garden of Eden symbolizes a primordial utopia, filled with lush vegetation, all forms of life, and the presence of the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}).

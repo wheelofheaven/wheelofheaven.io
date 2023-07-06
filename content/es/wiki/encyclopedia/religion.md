@@ -1,14 +1,26 @@
 ---
-title: "Religión"
-description: "Religion, a set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-lead: "A set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
+title: Religión
+description: Religión, conjunto de prácticas y creencias que cultiva y enseña la conexión
+  (del latín religare, 'conectar de nuevo') entre el pueblo Humano en la Tierra y
+  los Elohim, nuestros progenitores y creadores de la vida en la Tierra. Al igual
+  que la relación entre los padres y sus hijos es un vínculo que necesita cultivo
+  y reverencia, una religión está destinada a mantener el vínculo entre los creadores
+  y lo creado. Una religión que no se esfuerza por cultivar y racionalizar ese vínculo
+  de gratitud hacia quienes nos crearon es un sistema sociocultural totalmente diferente.
+lead: Un conjunto de prácticas y creencias que cultiva y enseña la conexión (del latín
+  religare, 'conectar de nuevo') entre el pueblo Humano en la Tierra y los Elohim,
+  nuestros progenitores y creadores de la vida en la Tierra. Al igual que la relación
+  entre los padres y sus hijos es un vínculo que necesita cultivo y reverencia, una
+  religión está destinada a mantener el vínculo entre los creadores y lo creado. Una
+  religión que no se esfuerza por cultivar y racionalizar ese vínculo de gratitud
+  hacia quienes nos crearon es un sistema sociocultural totalmente diferente.
+date: 2022-09-20 00:00:00
+lastmod: 2022-09-20 00:00:00
 draft: false
 images: []
 menu:
   wiki:
-    parent: "Wiki"
+    parent: Wiki
 weight: 200
 toc: true
 ---

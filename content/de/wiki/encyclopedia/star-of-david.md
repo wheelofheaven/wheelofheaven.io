@@ -3,7 +3,7 @@ title: Davidstern
 alternatives:
 - Hexagram
 - Magen David
-- Shield of David
+- Davids Schild
 description: Davidstern, ein altes Symbol, das unter vielen Namen bekannt ist, beispielsweise
   als Schild Davids (Magen David) oder als Siegel Salomos. Obwohl es im Allgemeinen
   mit der jüdischen Kultur und dem jüdischen Glauben in Verbindung gebracht wird,

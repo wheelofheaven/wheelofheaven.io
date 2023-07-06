@@ -1,7 +1,7 @@
 ---
 title: Luzifer
 alternatives:
-- Fallen angel of light
+- Gefallener Lichtengel
 - Hêlêl ben Šāḥar
 - הֵילֵל בֶּן-שָׁחַר
 description: 'Luzifer (lateinisch für Lichtbringer oder hêlēl, hebräisch: הֵילֵל,

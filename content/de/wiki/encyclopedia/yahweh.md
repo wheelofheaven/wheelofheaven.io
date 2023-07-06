@@ -1,12 +1,12 @@
 ---
 title: Jahwe
 alternatives:
-- Alpha and Omega
+- Alpha und Omega
 - ʿElyōn
 - ʾĒl ʿElyōn
 - עֶלְיוֹן
-- The Eternal
-- The First and the Last
+- Der Ewige
+- Der Erste und der Letzte
 - YHWH
 - יהוה
 - 𐤉𐤄𐤅𐤄

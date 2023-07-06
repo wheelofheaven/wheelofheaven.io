@@ -1,7 +1,7 @@
 ---
 title: Drachen
 alternatives:
-- Dinosaurs
+- Dinosaurier
 description: Drachen, eine ausgestorbene Klasse biologischer Lebensformen, die ursprünglich
   auf dem elohimischen Heimatplaneten entwickelt wurden und sich durch besonders schreckliche
   und monströse Eigenschaften auszeichneten. Aufgrund der Schwere eines Vorfalls wurden

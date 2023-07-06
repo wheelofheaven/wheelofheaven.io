@@ -1,7 +1,7 @@
 ---
 title: Masseneffekt
 alternatives:
-- Law of masstime
+- Gesetz von Massenzeit
 description: Der Masseneffekt, oder alternativ das Gesetz der Massenzeit, ist ein
   hypothetisches Gesetz der Physik, bei dem sich die Zeit für größere und komplexere
   Systeme langsamer zu bewegen scheint als für kleinere und einfachere. Das Gesetz

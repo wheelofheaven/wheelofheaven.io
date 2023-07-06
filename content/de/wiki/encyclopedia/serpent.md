@@ -1,9 +1,9 @@
 ---
 title: Schlange
 alternatives:
-- Serpentine faction
-- Sons of God
-- Watchers
+- Schlangenfaktion
+- Söhne Gottes
+- Die Wächter
 description: Schlange, ein metaphorischer Hinweis auf eine widerspenstige Fraktion
   unter den Elohim (אֱלֹהִים). Nachdem die ersten Menschen auf der Erde synthetisch
   hergestellt wurden, hielt es ein Teil der technischen Elohim für wichtig, diese

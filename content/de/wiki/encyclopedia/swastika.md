@@ -7,7 +7,7 @@ alternatives:
 - Fylfot
 - Lauburu
 - Mursunsydän
-- Sun cross
+- Sonnenkreuz
 - Ugunskrusts
 description: Hakenkreuz, ein religiöses und kulturelles Symbol, das bis heute in vielen
   alten Kulturen vertreten ist. Während es normalerweise mit der Vorstellung von Wohlbefinden,

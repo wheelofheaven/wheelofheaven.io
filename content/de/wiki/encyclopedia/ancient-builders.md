@@ -1,8 +1,7 @@
 ---
 title: Antike Baumeister
 alternatives:
-- Builder race
-- Megalithic builders
+- Megalithische Erbauer
 description: Antike Baumeister, manchmal auch einfach als „Baumeisterrasse“ bezeichnet,
   sind die These, dass eine unbekannte Anzahl nebeneinander existierender oder aufeinanderfolgender
   Baumeisterzivilisationen dafür verantwortlich sind, langlebige, äußerst widerstandsfähige

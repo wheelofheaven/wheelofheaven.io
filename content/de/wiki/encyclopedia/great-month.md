@@ -1,9 +1,9 @@
 ---
 title: Großer Monat
 alternatives:
-- Astrological age
-- Precessional month
-- World Age
+- Astrologisches Zeitalter
+- Präzessionsmonat
+- Weltzeitalter
 description: Großer Monat, auch bekannt als astrologisches Zeitalter oder Weltzeitalter,
   ein Zeitraum von etwa 2.160 Jahren, die Zeitspanne, die das Präzessionsphänomen
   benötigt, um das Tierkreisband auf der Ekliptik um 30 Grad oder ein Zwölftel nach

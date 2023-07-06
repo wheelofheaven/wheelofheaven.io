@@ -1,7 +1,7 @@
 ---
 title: Eden
 alternatives:
-- Garden of Eden
+- Garten Edens
 - gan-ʿĒḏen
 - גַּן־עֵדֶן
 description: Eden, eine bestimmte Region des vorsintflutlichen pangäischen Superkontinents,

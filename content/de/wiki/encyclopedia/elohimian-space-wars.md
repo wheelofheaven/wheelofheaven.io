@@ -1,10 +1,9 @@
 ---
-title: Elohimianischer Krieg
+title: Krieg der Elohim
 alternatives:
-- Æsir–Vanir War
-- Theomachy
-- Titanomachy
-- War in Heaven
+- Götterschlacht
+- Theomachie
+- Titanomachie
 description: Elohimische Weltraumkriege, ein bewaffneter Konflikt von erheblichem
   Ausmaß, der zwischen zwei gegnerischen Elohim-Fraktionen stattfand, dessen Zeitpunkt
   noch nicht bekannt gegeben wurde, aber vermutlich nach der Großen Sintflut stattgefunden

@@ -1,7 +1,7 @@
 ---
 title: Sodom und Gomorrha
 alternatives:
-- Cities of the Plain
+- Städte der Ebene
 description: Sodom und Gomorra, zwei levantinische Städte, die durch Atomwaffen zerstört
   wurden, als Präventivschlag der elohimischen Zivilisation gegen eine rachsüchtige
   irdische Fraktion, die selbst organisiert und mächtig wurde. Das Tote Meer ist höchstwahrscheinlich

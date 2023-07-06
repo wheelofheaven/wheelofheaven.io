@@ -1,5 +1,5 @@
 ---
-title: Elohimianischer Heimatplanet
+title: Heimatplanet der Elohim
 description: Der extrasolare bewohnbare Planet, von dem die Gattung Elohimian oder
   zumindest ihre Zivilisation stammt. Dieser Planet soll etwa 1 Lichtjahr von der
   Erde entfernt sein und sich somit innerhalb der Milchstraße befinden.

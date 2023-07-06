@@ -1,7 +1,7 @@
 ---
 title: Pluralität der Götter
 alternatives:
-- Polytheism
+- Polytheismus
 description: Die Pluralität der Götter stellt die besondere Interpretation dar, dass
   die biblische Tradition die Existenz mehrerer göttlicher Wesen bezeugt. Dieses Konzept
   umfasst auch den Glauben, dass diese göttlichen Wesen einst mit Menschen verwandt

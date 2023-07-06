@@ -1,8 +1,8 @@
 ---
 title: Großes Jahr
 alternatives:
-- Platonic Year
-- Precessional year
+- Platonische Jahr
+- Präzessionsjahr
 description: Großes Jahr, auch platonisches Jahr genannt, ein Zeitraum von etwa 25.920
   Jahren, also die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt.
 lead: Auch als platonisches Jahr bekannt, ein Zeitraum von etwa 25.920 Jahren, also

@@ -1,9 +1,8 @@
 ---
 title: Satan
 alternatives:
-- Accuser
+- Verurteiler
 - hasSāṭān
-- Prosecutor
 - שָׂטָן
 description: 'Satan (śāṭān, hebräisch: שָׂטָן), nicht zu verwechseln mit Luzifer,
   ist ein Eloha (אֱלוֹהַּ) und der Vertreter einer Fraktion innerhalb der Elohim (אֱלֹהִים),

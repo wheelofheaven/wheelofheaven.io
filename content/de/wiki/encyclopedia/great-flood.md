@@ -1,7 +1,7 @@
 ---
 title: Sintflut
 alternatives:
-- Great Deluge
+- Die Große Flut
 description: Große Sintflut, auch bekannt als die Große Sintflut, ein katastrophales
   Ereignis, das durch eine vorbeugende militärische Maßnahme verursacht wurde, die
   absichtlich von der verzweifelten Regierung des fernen Heimatplaneten der Elohim

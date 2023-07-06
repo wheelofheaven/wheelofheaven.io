@@ -2,6 +2,7 @@
 title: Verwirrung der Sprachen
 alternatives:
 - Confusio linguarum
+- Sprachverwirrung
 description: Sprachverwirrung, die Folgereaktion der elohimischen Zivilisation in
   den Tagen des Aufbaus der Raumfahrttechnologie, die der Großen Sintflut folgte,
   um den technologischen Fortschritt auf der Erde auszugleichen und diese Bemühungen

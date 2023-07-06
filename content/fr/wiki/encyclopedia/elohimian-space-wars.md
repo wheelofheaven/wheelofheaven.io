@@ -1,10 +1,10 @@
 ---
-title: Guerre Élohim
+title: Guerre des Élohim
 alternatives:
-- Æsir–Vanir War
-- Theomachy
-- Titanomachy
-- War in Heaven
+- Guerre des anges
+- Guerre dans les cieux
+- Théomachie
+- Titanomachie
 description: Elohimian Space Wars , un conflit armé d'une ampleur significative s'est
   produit entre deux factions Elohim opposées, dont le moment reste inconnu mais qui
   aurait eu lieu après le Grand Déluge. La faction composée de créateurs exilés, qui

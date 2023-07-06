@@ -1,6 +1,8 @@
 var suggestions = document.getElementById('suggestions');
 var search = document.getElementById('search');
 
+const MAX_DESCRIPTION_LENGTH = 120;
+
 if (search !== null) {
   document.addEventListener('keydown', inputFocus);
 }
@@ -139,13 +141,21 @@ Source:
         a.appendChild(title);
 
         const description = document.createElement('span');
-        description.textContent = doc.description;
+        description.textContent = truncateDescription(doc.description);
         description.classList.add("suggestion__description");
         a.appendChild(description);
 
         suggestions.appendChild(entry);
 
         if(suggestions.childElementCount == maxResult) break;
+    }
+
+    function truncateDescription(text) {
+      if (text.length <= MAX_DESCRIPTION_LENGTH) {
+          return text;
+      } else {
+          return text.slice(0, MAX_DESCRIPTION_LENGTH) + '...';
+      }
     }
   }
 }());

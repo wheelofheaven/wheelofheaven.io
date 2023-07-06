@@ -29,7 +29,7 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] .link {
   color: $gray-300;
-  box-shadow: inset 0px -0.7em darken($link-color-dark, 55%);
+  box-shadow: inset 0 -0.7em darken($link-color-dark, 55%);
 }
 
 [data-dark-mode] .footnote-ref {

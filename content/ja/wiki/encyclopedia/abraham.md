@@ -1,5 +1,5 @@
 ---
-title: "Abraham"
+title: "アブラハム"
 description: "Abraham, originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
 lead: "Originally called Abram or, in Hebrew, Avram. He is a Biblical patriarch from the times after the destruction of Sodom and Gomorrah. He is the first ambassador or prophet appointed by the civilization of the Elohim and held a non-hostile diplomatic relationship with them."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: "Astrobiology"
+title: "天体生物学"
 description: "Astrobiology, a scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
 lead: "A scientific field of research that studies life in the universe. As life in the Universe hasn't conclusively been observed, astrobiology is foremost interested in under what conditions makes extraterrestrial life possible."
 date: 2022-09-20T00:00:00+00:00

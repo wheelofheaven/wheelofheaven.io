@@ -1,5 +1,5 @@
 ---
-title: "Elijah"
+title: "Élie"
 description: "Elijah, a Biblical patriarch and prophet from the First Temple period."
 lead: "A Biblical patriarch and prophet from the First Temple period."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: "Cyberparadism"
+title: "赛博天堂论"
 alternatives: ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
 description: "Cyberparadism是将先进技术与天堂般的自然相结合的审美，展望人类进步和环境和谐可持续共存的未来。"
 lead: "Cyberparadism是将先进技术与天堂般的自然相结合的审美，展望人类进步和环境和谐可持续共存的未来。"

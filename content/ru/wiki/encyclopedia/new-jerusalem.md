@@ -1,5 +1,5 @@
 ---
-title: "New Jerusalem"
+title: "Новый Иерусалим"
 description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
 lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
 date: 2022-09-20T00:00:00+00:00

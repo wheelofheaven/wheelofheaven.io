@@ -1,5 +1,5 @@
 ---
-title: "List of close encounters"
+title: "Lista de encuentros cercanos"
 description: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
 lead: "List of close encounters, an extensive enumeration of all close encounters with unidentified flying objects that have been reported beginning in antiquity up to modern day and age."
 date: 2022-09-20T00:00:00+00:00

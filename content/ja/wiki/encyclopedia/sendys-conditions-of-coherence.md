@@ -1,5 +1,5 @@
 ---
-title: "Sendy's conditions of coherence"
+title: "センディの一貫性の条件"
 description: "Sendy's conditions of coherence, a set of conditions that need to be met in order to allow for a coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
 lead: "A set of conditions that need to be met in order to allow for an coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
 date: 2022-09-20T00:00:00+00:00

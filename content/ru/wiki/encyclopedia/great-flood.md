@@ -1,5 +1,5 @@
 ---
-title: "Great Flood"
+title: "Великий потоп"
 alternatives: ["Great Deluge"]
 description: "Great Flood, also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."
 lead: "Also known as the Great Deluge, a cataclysmic event caused by a preventive military measure which got deliberately initiated by the distressed government of the distant home planet of the Elohim who wished to put an end to the independent scientific progress on Earth."

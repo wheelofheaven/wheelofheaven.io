@@ -1,5 +1,5 @@
 ---
-title: "US Space Force"
+title: "アメリカ宇宙軍"
 alternatives: ["Space Force"]
 description: "The United States Space Force (USSF), established in December 2019, is the sixth branch of the U.S. Armed Forces. Conceptualized during the Trump administration, it was created due to the increasing strategic importance of space. Trump saw the creation of the USSF as necessary due to the evolving nature of warfare, the reliance of modern military systems on space-based assets, and the growing international competition in space. The USSF, under the Department of the Air Force, is tasked with protecting U.S. interests in space, deterring aggression in or from space, and conducting space operations."
 lead: "The United States Space Force (USSF), established in December 2019, is the sixth branch of the U.S. Armed Forces. Conceptualized during the Trump administration, it was created due to the increasing strategic importance of space. Trump saw the creation of the USSF as necessary due to the evolving nature of warfare, the reliance of modern military systems on space-based assets, and the growing international competition in space. The USSF, under the Department of the Air Force, is tasked with protecting U.S. interests in space, deterring aggression in or from space, and conducting space operations."

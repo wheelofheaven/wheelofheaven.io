@@ -1,5 +1,5 @@
 ---
-title: "Confusion of tongues"
+title: "Confusión de lenguas"
 alternatives: ["Confusio linguarum"]
 description: "Confusion of tongues, the follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."
 lead: "The follow-up reaction of the Elohimian civilization during the days of the construction of spacefaring technology that succeded the Great Flood in order to countervail the technological progress on Earth and render these efforts harmless. The confusion undertaking consisted of geographically disbanding the knowledge carriers all over the globe among tribes that could not understand them anymore."

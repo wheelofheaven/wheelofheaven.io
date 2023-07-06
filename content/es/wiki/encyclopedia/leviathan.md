@@ -1,5 +1,5 @@
 ---
-title: "Leviathan"
+title: "Leviatán"
 description: "Leviathan, a metaphorical reference to the exiled Elohimian faction, also known as the Serpent, that had to hide beneath the oceans in order to shield themselves from their opponents."
 lead: "A metaphorical reference to the exiled Elohimian faction, also known as the Serpent, that had to hide beneath the oceans in order to shield themselves from their opponents."
 date: 2022-09-20T00:00:00+00:00

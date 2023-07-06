@@ -1,5 +1,5 @@
 ---
-title: "Noah"
+title: "Ной"
 description: "Noah, a Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
 lead: "A Biblical patriarch born in Antediluvian times. He was nominated to participate in a gigantic preservation project intended to safeguard life created on Earth from the pending cataclysm."
 date: 2022-09-20T00:00:00+00:00

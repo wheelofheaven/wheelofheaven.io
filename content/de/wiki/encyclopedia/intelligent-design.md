@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Design"
+title: "Intelligentes Design"
 description: "Intelligent Design, a competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
 lead: "A competing scientific paradigm on how life on Earth originated. It would be the single most accurate representation of what happened if the Elohim did synthetically engineer life on Earth through the means of ex-nihilo genetic engineering."
 date: 2022-09-20T00:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: "New Commandments"
+title: "新しい戒め"
 description: "The New Commandments, a series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
 lead: "A series of doctrines put forward by Yahweh that elaborate what humanity could take into account in order to progress and usher into the Golden Age, now at the beginning of the Age of Aquarius."
 date: 2022-09-20T00:00:00+00:00

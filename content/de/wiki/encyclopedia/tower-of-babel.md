@@ -1,5 +1,5 @@
 ---
-title: "Tower of Babel"
+title: "Turm zu Babel"
 alternatives: ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
 description: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."
 lead: "Tower of Babel (Hebrew: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), during the early days after the Great Flood, an interstellar spacecraft (perhaps elongated in shape like a rocket) that was built in a collaborative effort between the people of Israel and the exiled Elohimian creators. The purpose of the spacecraft was to improve the diplomatic relations with the Elohimian home planet who were hostile to the preservation of life on Earth by securing amensty for its inhabitants."

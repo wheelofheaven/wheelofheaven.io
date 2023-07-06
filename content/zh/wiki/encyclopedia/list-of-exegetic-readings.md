@@ -1,5 +1,5 @@
 ---
-title: "List of exegetic readings"
+title: "解释阅读列表"
 description: "List of exegetic readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read with a neo-euhemeristic exegesis. This list is going to catalogue to the majority of these notions." 
 lead: "By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read with a neo-euhemeristic exegesis. This list is going to catalogue to the majority of these notions." 
 date: 2022-09-20T00:00:00+00:00

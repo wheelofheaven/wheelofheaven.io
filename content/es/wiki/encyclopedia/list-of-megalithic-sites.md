@@ -1,5 +1,5 @@
 ---
-title: "List of megalithic sites"
+title: "Lista de sitios megalíticos"
 description: "List of megalithic sites. An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities." 
 lead: "An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities."
 date: 2022-09-20T00:00:00+00:00

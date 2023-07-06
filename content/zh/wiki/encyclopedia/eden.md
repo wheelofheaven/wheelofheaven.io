@@ -1,5 +1,5 @@
 ---
-title: "Eden"
+title: "伊甸园"
 alternatives: ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
 description: "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
 lead: "A specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."

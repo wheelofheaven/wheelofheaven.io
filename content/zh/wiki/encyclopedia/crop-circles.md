@@ -1,5 +1,5 @@
 ---
-title: "Crop circles"
+title: "麦田圈"
 description: "Crop circles are intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
 lead: "Intricate patterns that appear in fields of crops. They have been associated with ufology due to the belief that some of them are created by extraterrestrial beings or advanced intelligences. These formations are seen as potential evidence of extraterrestrial visitation or communication. While some crop circles have been proven to be human-made hoaxes, the debate surrounding their origins continues within the field of ufology."
 date: 2022-09-20T00:00:00+00:00

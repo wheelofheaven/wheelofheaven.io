@@ -1,5 +1,5 @@
 ---
-title: "Pangaea"
+title: "Пангея"
 alternatives: ["Antediluvian landmass"]
 description: "Pangaea, an antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."
 lead: "An antediluvian supercontinent that got terraformed out of a Earth-wide shallow sea bed by the Elohim soon after they arrived to planet Earth and started to investiagte its constitution."

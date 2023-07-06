@@ -1,5 +1,5 @@
 ---
-title: "Great Year"
+title: "Großes Jahr"
 alternatives: ["Platonic Year", "Precessional year"]
 description: "Great Year, also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."
 lead: "Also known as a Platonic Year, a period of time of around 25'920 years, the amount of time a full precessional cycle takes to complete."

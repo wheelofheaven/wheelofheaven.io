@@ -1,25 +1,25 @@
 ---
-title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+title: "プライバシーポリシー"
+description: "当サイトではクッキーを使用せず、個人データの収集も行いません。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__要約__: 当サイトではクッキーを使用せず、個人データの収集も行いません。
 
-## Website visitors
+## ウェブサイト訪問者
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- 個人情報は収集されません。
+- ブラウザに情報は保存されません。
+- 情報は第三者と共有、送信、販売されません。
+- 広告会社と情報は共有されません。
+- 個人や行動の傾向のために情報は採取されません。
+- 情報は収益化されません。
 
-## Contact us
+## お問い合わせ
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+ご質問がある場合は、[お問い合わせ]({{< relref "contact/index.md" >}}) ください。
 
-Effective Date: _20th September 2022_
+有効日: _2022年9月20日_

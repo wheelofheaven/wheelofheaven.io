@@ -1,25 +1,25 @@
 ---
-title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+title: "Политика конфиденциальности"
+description: "Мы не используем файлы cookie и не собираем никаких персональных данных."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__Кратко__: Мы не используем файлы cookie и не собираем никаких персональных данных.
 
-## Website visitors
+## Посетители веб-сайта
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- Никакая личная информация не собирается.
+- Никакая информация не хранится в браузере.
+- Никакая информация не передается, не отправляется и не продается третьим сторонам.
+- Никакая информация не передается рекламным компаниям.
+- Никакая информация не собирается и не используется для личных и поведенческих тенденций.
+- Никакая информация не монетизируется.
 
-## Contact us
+## Свяжитесь с нами
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+[Свяжитесь с нами]({{< relref "contact/index.md" >}}), если у вас есть вопросы.
 
-Effective Date: _20th September 2022_
+Действительно с: _20 сентября 2022 года_

@@ -1,25 +1,25 @@
 ---
-title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+title: "Datenschutzerklärung"
+description: "Wir verwenden keine Cookies und erheben keine personenbezogenen Daten."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__Zusammenfassung__: Wir verwenden keine Cookies und erheben keine personenbezogenen Daten.
 
-## Website visitors
+## Website-Besucher
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- Es werden keine personenbezogenen Informationen erfasst.
+- Es werden keine Informationen im Browser gespeichert.
+- Es werden keine Informationen an Dritte weitergegeben, versendet oder verkauft.
+- Es werden keine Informationen an Werbefirmen weitergegeben.
+- Es werden keine Informationen für persönliche und verhaltensbezogene Trends abgebaut und gesammelt.
+- Es werden keine Informationen monetarisiert.
 
-## Contact us
+## Kontakt
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+[Kontaktieren Sie uns]({{< relref "contact/index.md" >}}), wenn Sie Fragen haben.
 
-Effective Date: _20th September 2022_
+Wirksam ab: _20. September 2022_

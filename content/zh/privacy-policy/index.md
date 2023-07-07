@@ -1,25 +1,25 @@
 ---
-title: "Privacy Policy"
-description: "We do not use cookies and we do not collect any personal data."
+title: "隐私政策"
+description: "我们不使用Cookie，也不收集任何个人数据。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__简介__: 我们不使用Cookie，也不收集任何个人数据。
 
-## Website visitors
+## 网站访问者
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- 不收集个人信息。
+- 不在浏览器中存储信息。
+- 不与第三方共享、发送或出售信息。
+- 不与广告公司共享信息。
+- 不收集个人和行为趋势信息。
+- 不对信息进行商业化。
 
-## Contact us
+## 联系我们
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+如果您有任何问题，请[联系我们]({{< relref "contact/index.md" >}})。
 
-Effective Date: _20th September 2022_
+生效日期：2022年9月20日

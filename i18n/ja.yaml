@@ -20,7 +20,7 @@
   translation: "ブラウズ"
 
 - id: edit-page-on
-  translation: "次のサイトでこのページを編集します:"
+  translation: "このページをGitHubで編集する"
 
 - id: see-here
   translation: "ここを参照"

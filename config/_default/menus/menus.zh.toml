@@ -23,7 +23,7 @@
   url = "/intro/see-more/"
 
 [[main]]
-  name = "介绍"
+  name = "引言"
   weight = 10
   identifier = "intro"
   url = "zh/intro/wheel-of-heaven/"

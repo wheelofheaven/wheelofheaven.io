@@ -23,7 +23,7 @@
   url = "/intro/see-more/"
 
 [[main]]
-  name = "Einführung"
+  name = "Intro"
   weight = 10
   identifier = "intro"
   url = "de/intro/wheel-of-heaven/"

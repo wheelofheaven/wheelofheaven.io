@@ -23,7 +23,7 @@
   url = "/intro/see-more/"
 
 [[main]]
-  name = "はじめに"
+  name = "序文"
   weight = 10
   identifier = "intro"
   url = "ja/intro/wheel-of-heaven/"

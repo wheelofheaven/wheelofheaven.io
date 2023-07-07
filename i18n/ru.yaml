@@ -30,3 +30,15 @@
 
 - id: backlinks
   translation: "обратные ссылки::"
+
+- id: translated-by
+  translation: "Переведено"
+
+- id: not-translated
+  translation: "Не переведено"
+
+- id: translation-rate
+  translation: "Уровень перевода"
+
+- id: undefined
+  translation: "Не указано"

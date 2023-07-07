@@ -30,3 +30,15 @@
 
 - id: backlinks
   translation: "Backlinks:"
+
+- id: translated-by
+  translation: "Translated by"
+
+- id: not-translated
+  translation: "Not translated"
+
+- id: translation-rate
+  translation: "Translation rate"
+
+- id: undefined
+  translation: "Unspecified"

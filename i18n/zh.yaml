@@ -30,3 +30,15 @@
 
 - id: backlinks
   translation: "反向链接："
+
+- id: translated-by
+  translation: "翻译者"
+
+- id: not-translated
+  translation: "未翻译"
+
+- id: translation-rate
+  translation: "翻译率"
+
+- id: undefined
+  translation: "未指定"

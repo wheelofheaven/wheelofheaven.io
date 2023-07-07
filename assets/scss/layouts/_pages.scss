@@ -47,6 +47,12 @@ h4:hover a {
   margin-bottom: 0.25rem;
 }
 
+.translation-notification {
+  font-size: $font-size-sm;
+  margin-bottom: 0.25rem;
+  margin-right: 0.25rem;
+}
+
 @include media-breakpoint-up(md) {
   .edit-page,
   .last-modified {

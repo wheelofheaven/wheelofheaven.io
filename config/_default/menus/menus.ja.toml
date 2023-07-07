@@ -39,7 +39,7 @@
   weight = 20
 
 [[main]]
-  name = "資力"
+  name = "リソース"
   url = "ja/resources/"
   weight = 25
 

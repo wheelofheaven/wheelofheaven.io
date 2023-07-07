@@ -11,13 +11,13 @@
   url = "/intro/timeline/"
 
 [[intro]]
-  name = "Puntos clave"
+  name = "Take aways"
   weight = 130
   identifier = "take-aways"
   url = "/intro/take-aways/"
 
 [[intro]]
-  name = "Ver más"
+  name = "See more"
   weight = 140
   identifier = "see-more"
   url = "/intro/see-more/"

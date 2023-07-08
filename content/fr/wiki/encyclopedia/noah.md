@@ -18,7 +18,7 @@ toc: true
 timeline:
 - gemini
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 ## In Raëlism 🔯

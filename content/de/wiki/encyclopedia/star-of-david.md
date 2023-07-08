@@ -30,7 +30,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Star of David is a symbol associated with the Jewish people and is comprised of two overlapping triangles that form a six-pointed star. It is widely recognized as a symbol of Jewish identity and has been used by Jews for centuries.

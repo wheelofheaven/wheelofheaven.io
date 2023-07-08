@@ -16,7 +16,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Cyberparadism是Cyberprep和后赛博朋克的一个子流派，将网络主题与天堂般的要素结合在一起。可以将其描绘为乌托邦社会或象征性的天堂，如伊甸园。它与Cyberprep的不同之处不仅在于专注于技术进步的好处，还展示了技术如何显著改变经济原则和劳动力，鼓励在科学、技术、文明和精神方面追求更高目标。

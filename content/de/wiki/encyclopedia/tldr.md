@@ -27,7 +27,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Der Begriff "tl;dr" stammt aus der Internetkultur und erlangte in Online-Communitys, insbesondere in Foren, sozialen Medien und Diskussionsplattformen, an Popularität. Er entwickelte sich als Reaktion auf lange Beiträge oder Artikel, die von einigen Benutzern als langwierig oder zeitaufwendig empfunden wurden.

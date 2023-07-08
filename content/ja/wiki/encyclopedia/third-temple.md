@@ -12,7 +12,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Third Temple refers to a place of worship that is prophesied to be built in Jerusalem in Jewish eschatology. According to some interpretations of the Hebrew Bible and other ancient Jewish texts, the Third Temple will replace the Second Temple, which was destroyed by the Romans in 70 CE. The rebuilding of the Third Temple is seen as a significant event in the Messianic age and is eagerly awaited by some Jews. There is currently no Third Temple in existence, and the exact nature and purpose of the Third Temple remains a matter of debate and speculation among scholars and religious leaders.

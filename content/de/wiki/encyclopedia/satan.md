@@ -26,7 +26,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Satan, also commonly referred to as the Devil, is a figure in many religious traditions, including Judaism, Christianity, and Islam. In these traditions, Satan is often depicted as a powerful, malevolent spirit who opposes God and tempts humans to sin.

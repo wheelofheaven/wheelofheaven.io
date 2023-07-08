@@ -13,7 +13,7 @@ menu:
 weight: 235
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 5
 ---
 
 {{< figure src="images/equinox_bc8850.png" caption="Fig. 1 - Vernal equinox in 8850 BC" >}}

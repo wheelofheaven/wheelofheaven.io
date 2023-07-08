@@ -28,7 +28,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The swastika is a symbol that has been used for thousands of years in various cultures and traditions. It typically consists of a cross with arms that bend at a right angle in one or both directions. The symbol is most commonly associated with Hinduism, Buddhism, and Jainism, where it is considered to be a symbol of good luck, prosperity, and auspiciousness.

@@ -20,7 +20,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 El Ciberparadismo es un subgénero de Cyberprep y Post-Cyberpunk, que combina temas cibernéticos con aspectos de paraíso. Esto puede representarse como una sociedad utópica o un paraíso literal, como un Jardín del Edén. Se diferencia de Cyberprep al no enfocarse únicamente en los beneficios del avance tecnológico, sino también al mostrar cómo la tecnología ha alterado significativamente los principios económicos y el trabajo, fomentando la búsqueda de metas más altas en ciencia, tecnología, civilización y espiritualidad.

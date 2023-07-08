@@ -13,7 +13,7 @@ menu:
 weight: 250
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 5
 ---
 
 The Age of Aries lasts from –2'370 to –210 and follows the Age of Taurus which lasted up to –2'370.

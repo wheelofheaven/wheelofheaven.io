@@ -18,7 +18,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The precessional Great Year refers to the period of time it takes for the Earth's axis to complete one full cycle of precession, which is the slow, cyclical movement of the Earth's rotational axis in space. This cycle is caused by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge, and it takes approximately 25,800 years to complete.

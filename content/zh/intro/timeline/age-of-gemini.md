@@ -13,7 +13,7 @@ menu:
 weight: 240
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 5
 ---
 
 ![Image](images/equinox_bc6690.png "Vernal equinox in 6690 BC")

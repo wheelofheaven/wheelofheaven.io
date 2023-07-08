@@ -18,7 +18,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Astrobiology is a multidisciplinary field of study that investigates the origin, evolution, distribution, and future of life in the universe. It combines knowledge from astronomy, biology, geology, and other sciences to understand the conditions necessary for life to exist, both on Earth and elsewhere. To research the possibility of extraterrestrial life, astrobiologists use various techniques and tools such as searching for evidence of past or present life on other planets, moons, or asteroids in our solar system, looking for signs of life on exoplanets around other stars, and studying the chemical and physical conditions necessary for life to form and survive. This research helps us to better understand our place in the universe and answer one of the most fundamental questions in science: are we alone in the universe?

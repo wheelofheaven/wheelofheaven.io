@@ -22,7 +22,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 From a philosophical perspective, Truth can be understood as the state or quality of being in accordance with fact or reality. It is an objective reality that exists independently of human opinion or belief, and it can be discovered through reason, empirical observation, and critical thinking.

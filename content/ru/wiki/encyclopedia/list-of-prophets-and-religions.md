@@ -21,7 +21,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 There are several major world religions, each with their own unique beliefs and practices. Here is a brief overview of some of the most important religions:

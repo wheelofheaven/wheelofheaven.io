@@ -18,7 +18,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Pangea is a scientific theory that suggests that all of the Earth's continents were once joined together into a single supercontinent. This supercontinent is believed to have existed between about 300 million and 200 million years ago, before breaking apart and eventually forming the continents as they are known today.

@@ -8,5 +8,5 @@ draft: false
 images: []
 weight: 100
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---

@@ -27,7 +27,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 El término "tl;dr" se originó en la cultura de internet y ganó popularidad en comunidades en línea, especialmente en foros, redes sociales y tablones de discusión. Surgió como respuesta a publicaciones o artículos largos que algunos usuarios encontraban tediosos o que requerían mucho tiempo para leer.

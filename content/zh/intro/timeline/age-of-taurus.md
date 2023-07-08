@@ -13,7 +13,7 @@ menu:
 weight: 245
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 5
 ---
 
 The Age of Taurus lasts from –4'530 to –2'370 and follows the Age of Gemini which lasted up to –4'530.

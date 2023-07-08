@@ -18,7 +18,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Tree of Life is a concept that appears in many cultures and religious traditions, and is often associated with various symbolic and spiritual meanings.

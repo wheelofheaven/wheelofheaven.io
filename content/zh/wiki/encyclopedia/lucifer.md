@@ -18,7 +18,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Lucifer is a name that is often associated with the Devil or [Satan]({{< relref "wiki/encyclopedia/satan.md" >}}), although its original meaning and interpretation have changed over time. The name Lucifer comes from the Latin word "Lucifer," which means "light-bringer."

@@ -12,7 +12,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 A mytheme is a basic unit or component of a myth, folklore, or religious tradition. It refers to a recurring motif, symbol, story, or character that appears in multiple myths and legends across cultures and time periods. Mythemes often serve as building blocks for larger myths and stories and can convey important cultural values, beliefs, or moral lessons. In comparative mythology, the study of mythemes helps scholars identify common themes, symbols, and motifs across cultures and understand how they are transformed and evolve over time. The concept of mytheme was first introduced by French anthropologist Claude Lévi-Strauss and has since become an important tool in the study of comparative mythology and folklore.

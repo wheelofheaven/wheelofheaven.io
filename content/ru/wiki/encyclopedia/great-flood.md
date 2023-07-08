@@ -21,7 +21,7 @@ toc: true
 timeline:
 - gemini
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Great Flood is a story that appears in several different religious traditions, including the Bible, and describes a massive flood that covers the entire Earth and destroys all life except for a select few. In the biblical account, the Great Flood is described in the book of Genesis as a punishment from God for the wickedness and corruption of humanity.

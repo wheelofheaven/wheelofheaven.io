@@ -22,7 +22,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Yahweh is the English transliteration of the tetragrammaton YHWH, a four-letter Hebrew name of the Biblical Godhead that is considered too sacred to be pronounced. Yahweh is considered the personal name of God in Judaism and is the name used most often in the Hebrew Bible. In English, it is often written as "Yahweh" or "Jehovah."[^tetra]

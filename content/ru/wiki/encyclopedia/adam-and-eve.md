@@ -24,7 +24,7 @@ toc: true
 timeline:
 - leo
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Adam and Eve are the first man and woman according to the creation story in the Bible's book of Genesis. They are considered the first human beings created by God, and are believed to have lived in the Garden of Eden before disobeying God's command and being expelled from the garden (Genesis 3). Adam is described as the first man created by God from the dust of the ground, while Eve is described as the first woman, created from one of Adam's ribs (Genesis 2:7, 2:22). Adam and Eve's story is often seen as an allegory for the origin of sin and the fall of humanity.

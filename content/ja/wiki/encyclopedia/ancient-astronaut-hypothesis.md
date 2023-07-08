@@ -14,7 +14,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Ancient Astronaut Hypothesis proposes that in ancient times, extraterrestrial beings visited Earth and interacted with humans. Proponents of the theory suggest that evidence of these interactions can be seen in ancient art, legends, and architecture, which they claim cannot be fully explained by conventional historical and scientific explanations. They also argue that certain technological and cultural advancements in human history, such as the building of the pyramids in Egypt or the creation of the Nazca lines in Peru, could not have been achieved without outside influence.

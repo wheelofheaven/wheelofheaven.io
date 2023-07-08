@@ -13,7 +13,7 @@ menu:
 weight: 210
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 5
 ---
 
 The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.

@@ -22,7 +22,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Broadly spoken, Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.

@@ -19,7 +19,7 @@ toc: true
 timeline:
 - taurus
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 Abraham is a central figure in Judaism, Christianity, and Islam and is considered the father of these three monotheistic religions. In the Bible, he is described as the father of Isaac and a patriarch of the Israelites. In the Tanakh, he is considered the first Hebrew and the founder of the Jewish nation. In the Quran, Abraham is considered a prophet of Allah and a friend of God.

@@ -12,7 +12,7 @@ menu:
 weight: 200
 toc: true
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 The Kabbalah is a form of Jewish mysticism that aims to understand the nature of God and the universe. It teaches that there are ten divine emanations from God and the purpose of creation. It also includes meditative and magical practices to achieve union with God. The Kabbalah has roots in early Jewish mysticism that date back to the 1st and 2nd centuries CE, but its written form began to develop in the late 12th and early 13th centuries in Provence and Spain. The classic texts of Kabbalah, such as "The Book of Creation" and "The Zohar," were written in the late 12th to early 14th centuries.

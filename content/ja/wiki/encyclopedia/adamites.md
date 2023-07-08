@@ -16,7 +16,7 @@ timeline:
 - cancer
 - gemini
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 This article explores the history and mythology of the Adamites, a unique group believed to have existed during the time of the Garden of Eden. They should not be confused with the sect of early Christian Adamites who were active during the 2nd to 4th centuries CE. Despite sharing the same name, the two groups are entirely unrelated. The Adamites discussed in this article are described in certain interpretations of ancient scriptures as having participated in a union with a rebellious faction of the Elohim known as the Serpent, resulting in a hybrid offspring. This distinct population then merged into a singular group, collectively known as the Adamites.

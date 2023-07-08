@@ -34,7 +34,7 @@ timeline:
 - gemini
 - taurus
 translatedby: ["GPT"]
-translationrate: 100
+translationrate: 10
 ---
 
 ## Sequence of events

@@ -20,6 +20,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 In common terms, the Plurality of Gods refers to a belief system or theological concept that upholds the existence of more than one god or deity. This stands in contrast to monotheism, which asserts the existence of a single supreme deity.

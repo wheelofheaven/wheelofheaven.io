@@ -16,6 +16,8 @@ weight: 200
 toc: true
 timeline:
 - gemini
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Leviathan is a mythical sea monster mentioned in the Bible, specifically in the book of Job and in the book of Psalms. In the Bible, the Leviathan is described as a powerful and fearsome creature that lives in the sea and is difficult to control.

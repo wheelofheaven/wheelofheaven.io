@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 204
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 La línea de tiempo comienza un poco antes de alrededor de –22'000, justo en la puerta de la Era de Capricornio. Lo que precede a la Era de Capricornio es una Era de Acuario del Gran Año anterior. Antes de empezar con el primer Gran Mes precesional, la Era Mundial Capricorniana, vale la pena examinar lo que la precedió. Para ilustrar lo que ocurrió, podemos tomar inspiración de un clásico de la industria cinematográfica estadounidense, Jurassic Park.

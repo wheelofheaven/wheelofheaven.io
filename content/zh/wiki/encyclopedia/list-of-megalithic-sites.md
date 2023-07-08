@@ -11,6 +11,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Megalithic sites are large, ancient structures constructed from massive stone blocks that were often used for religious or ceremonial purposes. These structures date back to the Neolithic and Bronze Ages, and are found in various parts of the world.

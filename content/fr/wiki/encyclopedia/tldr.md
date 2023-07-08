@@ -26,6 +26,8 @@ menu:
     parent: wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Le terme "tl;dr" est issu de la culture internet et a gagné en popularité au sein des communautés en ligne, notamment sur les forums, les réseaux sociaux et les plateformes de discussion. Il est apparu en réponse à des messages ou articles longs que certains utilisateurs trouvaient fastidieux ou chronophages à lire.

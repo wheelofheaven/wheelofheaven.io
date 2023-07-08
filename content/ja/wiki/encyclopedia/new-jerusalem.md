@@ -13,6 +13,8 @@ weight: 200
 toc: true
 timeline:
 - aquarius
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 New Jerusalem is a concept in the Christian tradition that refers to a heavenly city or a renewed, perfected earthly city. It is described in the Book of Revelation, the last book of the New Testament, as a place where God will dwell with his people and there will be no more death, suffering, or tears. The description of New Jerusalem includes details such as its size, shape, and beauty, with streets of gold, gates made of pearl, and a river of life flowing through the middle. It is seen as a symbol of the ultimate fulfillment of God's promises to his people and the hope for a better future. The concept of New Jerusalem has also been interpreted metaphorically as a vision of a more just and peaceful society on earth.

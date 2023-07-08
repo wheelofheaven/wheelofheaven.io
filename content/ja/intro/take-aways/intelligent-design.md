@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 320
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 地球上の生命の起源に関する広く受け入れられている科学的な説明は、生命は自然の化学反応を通じて単純な有機化合物から生じたとする無機起源説です。

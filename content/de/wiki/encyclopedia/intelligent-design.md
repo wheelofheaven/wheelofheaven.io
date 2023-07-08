@@ -17,6 +17,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Intelligent Design (ID) is a theory that suggests that certain features of the natural world, particularly in biology and biochemistry, are best explained by an intelligent cause rather than by natural selection or other purely naturalistic processes. Proponents of Intelligent Design argue that the complexity and apparent design found in the natural world provide evidence of a supernatural designer, often referred to as a "intelligent agent," that is responsible for the creation and development of life.

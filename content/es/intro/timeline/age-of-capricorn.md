@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 205
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Comenzamos primero con la Era de Capricornio. La Era de Capricornio es el primer Mes precesional en el ciclo del Gran Año. Con el período nominal de 25'920 años para el [Año precesional]({{< relref "wiki/encyclopedia/great-year.md" >}}), la duración de un [Mes precesional]({{< relref "wiki/encyclopedia/great-month.md" >}}) es de 2'190 años. Durante este período, el Sol naciente en el Equinoccio Vernal está alineado con la constelación de Capricornio en la eclíptica.

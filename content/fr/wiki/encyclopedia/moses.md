@@ -13,6 +13,8 @@ weight: 200
 toc: true
 timeline:
 - aries
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Moses was a prophet, lawgiver, and leader in the Abrahamic religion of Judaism. According to the biblical account, Moses was born in Egypt to Jewish parents and was rescued as a baby and raised by Pharaoh's daughter. As an adult, he received a divine call from God to lead the Israelites out of slavery in Egypt and to receive the Ten Commandments and other laws on Mount Sinai. Moses is considered one of the greatest prophets in Judaism, and his story is an important part of the Hebrew Bible (Old Testament) and the Islamic Qur'an.

@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 225
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 

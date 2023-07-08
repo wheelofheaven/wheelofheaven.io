@@ -15,6 +15,8 @@ weight: 200
 toc: true
 timeline:
 - gemini
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Confusion of Tongues is an event described in the Book of Genesis in the [Bible]({{< relref "wiki/encyclopedia/bible.md" >}}). According to the story, the people referred to in the Bible were initially of one language and lived together in harmony. However, they decided to build a great tower that would reach the heavens, which is called the [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}). The [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) saw this as a challenge to their authority and decided to confuse their language, making it impossible for them to understand each other. This caused the people to be scattered across the known world, unable to work together on their tower.

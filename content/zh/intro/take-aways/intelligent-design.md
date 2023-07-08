@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 320
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 关于地球生命起源的广泛接受的科学解释是自然起源理论，该理论认为生命通过一系列自然化学过程从简单有机化合物中产生。

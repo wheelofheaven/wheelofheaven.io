@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 205
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Wir beginnen zuerst mit dem Zeitalter des Steinbocks. Das Zeitalter des Steinbocks ist der erste Präzessionsmonat im Großen Jahrzyklus. Mit der nominellen Periode von 25'920 Jahren für das [präzessionale Jahr]({{< relref "wiki/encyclopedia/great-year.md" >}}), beträgt die Dauer eines [präzessionalen Monats]({{< relref "wiki/encyclopedia/great-month.md" >}}) 2'160 Jahre. Während dieser Zeit ist die aufgehende Sonne zur Frühlings-Tagundnachtgleiche mit dem Steinbocksternbild in der Ekliptik ausgerichtet.

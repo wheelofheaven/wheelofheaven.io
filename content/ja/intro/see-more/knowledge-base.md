@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 410
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 イントロダクションを経て、興味深い旅はまだ終わっていません。Wheel of Heavenのウィキ、リソース、ブログセクションをチェックして、ここで提案されている大きな物語にさらに没頭してください。

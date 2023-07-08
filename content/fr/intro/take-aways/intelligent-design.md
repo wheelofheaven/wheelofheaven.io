@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 320
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 L'explication scientifique généralement acceptée pour l'origine de la vie sur Terre est la théorie de l'abiogenèse, qui suggère que la vie est apparue à partir de composés organiques simples grâce à une série de processus chimiques naturels.

@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 204
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Die Zeitleiste beginnt einige Zeit vor ungefähr –22'000, direkt vor der Schwelle zum Zeitalter des Steinbocks. Was dem Zeitalter des Steinbocks vorausgeht, ist ein Zeitalter des Wassermanns des vorherigen Großen Jahres. Bevor wir mit dem ersten präzessionellen Großen Monat, dem Steinbock Weltzeitalter, beginnen, lohnt es sich, zu untersuchen, was dazu geführt hat. Um zu veranschaulichen, was passiert ist, können wir uns von einem Klassiker der amerikanischen Filmindustrie, Jurassic Park, inspirieren lassen.

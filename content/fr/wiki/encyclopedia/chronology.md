@@ -50,6 +50,8 @@ menu:
     parent: wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ## La Grande Année

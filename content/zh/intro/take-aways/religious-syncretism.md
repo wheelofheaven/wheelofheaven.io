@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 330
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 宗教的同化是指将不同的宗教信仰、实践和文化元素融合为新的统一系统。在所有宗教都根植于同一源头 - Elohim的世界中，这可能会导致对同化的更大接受度，以及在世界多样化的宗教传统中寻找共同点的兴趣的重燃。

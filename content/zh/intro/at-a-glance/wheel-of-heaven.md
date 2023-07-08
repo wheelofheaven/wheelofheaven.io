@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 110
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 如果你刚好看到这个网站的“介绍”部分，你可能会想知道Wheel of Heaven到底是什么。从核心上来说，Wheel of Heaven是一个基于网络的知识库，探索地球生命是否被具有星际旅行能力的外星文明有意识地设计的假设。

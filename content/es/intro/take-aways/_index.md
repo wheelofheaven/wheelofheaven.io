@@ -7,5 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 images: []
 weight: 300
+translatedby: ["GPT"]
+translationrate: 100
 ---
 

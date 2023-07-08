@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 260
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Age of Aquarius lasts from 1950 CE to 4110 CE and followed the Age of Pisces which lasted up to 1950 CE. While you're reading this, chances are high that you're reading this during the time span of the Age of Aquarius. This World Age is now and is commonly referred to the New Age.

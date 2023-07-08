@@ -11,6 +11,8 @@ menu:
     parent: ウィキ
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ## レンダリング

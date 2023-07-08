@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 410
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 您已经通过了介绍部分，但是好奇心的旅程并没有在这里结束。务必查看Wheel of Heaven的维基、资源和博客部分，深入了解这里提出的大故事。

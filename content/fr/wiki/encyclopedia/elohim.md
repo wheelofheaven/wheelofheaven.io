@@ -29,6 +29,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Le terme Elohim (hébreu : אֱלֹהִים, 'ēlohîm) est un mot hébreu utilisé dans l'Ancien Testament de la Bible et est généralement traduit par Dieu. C'est un nom pluriel, et son utilisation a suscité de nombreux débats parmi les chercheurs bibliques quant à sa signification.

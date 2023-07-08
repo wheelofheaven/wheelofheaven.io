@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 340
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 {{< figure src="images/pyramid-red-glowing-star.png" caption="Abb. 1 - Pyramide unter glühendem roten Stern" >}}

@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 130
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 En considérant l'hypothèse énoncée dans le chapitre précédent, il devient évident qu'un cadre de pensée émerge qui nous permet de créer une représentation cohérente des origines possibles de la vie sur Terre. L'esthétique fournie par cette représentation forme la fondation du grand récit que nous avançons. Ce récit illustre comment la vie intelligente sur la planète Terre s'explique le mieux comme étant un autre maillon dans une chaîne interstellaire de civilisations planétaires. Cette idée peut être considérée comme une renaissance du concept de pluralisme cosmique, qui suppose que l'immensité de l'espace rend très probable l'abondance de la vie intelligente et que cette abondance rend plausible l'existence de la vie intelligente à proximité de la Terre depuis longtemps.

@@ -24,6 +24,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Religion is a complex and multifaceted concept that has been defined and interpreted in a variety of ways throughout human history. One way to interpret religion is as a relationship between humanity and its creator or divine force. This interpretation views religion as a means of establishing a connection between humans and the divine, and of understanding and communicating with the ultimate reality or power that governs the universe.

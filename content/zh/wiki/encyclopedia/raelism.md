@@ -13,6 +13,8 @@ menu:
     parent: wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Raëlism（拉埃利主义）是20世纪70年代起源于法国的宗教和哲学运动。它基于一个信念，即被称为Elohim的外星人创造了地球上的生命，并继续与人类互动。拉埃利主义的创始人克劳德·沃利龙（Claude Vorilhon），也被称为Raël，声称他曾与来自另一个星球的存在进行了一系列的接触，并收到了他们要与世界分享的信息。

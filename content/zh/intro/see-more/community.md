@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 420
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 如果Wheel of Heaven的前提让您更加好奇，您也可以参与其中，帮助我们添加缺失的信息或将不可用的内容翻译成其中一种支持的语言，使体验更加有价值。

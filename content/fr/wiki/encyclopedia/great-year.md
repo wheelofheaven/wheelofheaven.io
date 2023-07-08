@@ -17,6 +17,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Great Year is defined as the period of one complete cycle of the equinoxes around the ecliptic, which amounts to 25'920 years. This cycle is caused by the gravitational pull of the Sun and the Moon on the Earth's equatorial bulge. The number of 25'920 is close enough and slightly more convenient than the actual scientifically established number of 25'800 which is considered more accurate, even though it itself is as estimation derived by extrapolation. The former number, which we consider to be more convenient, is derived from the ancient observation of westward shift of 1 degree every 72 years. The cycle of the equinoxes around the ecliptic is therefore a full 360 degrees of that westward shift which gives us:

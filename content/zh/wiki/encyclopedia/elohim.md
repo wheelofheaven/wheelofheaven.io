@@ -21,6 +21,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的一个词，通常被翻译为神。这是一个复数名词，其使用在圣经学者之间引发了许多关于其重要性的辩论。

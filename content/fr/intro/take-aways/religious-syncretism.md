@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 330
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Le syncrétisme religieux fait référence à la fusion de différentes croyances, pratiques et éléments culturels religieux en un nouveau système unifié. Dans un monde où toutes les religions étaient enracinées dans la même source - les Elohim - cela pourrait conduire à une plus grande acceptation du syncrétisme et à un regain d'intérêt pour trouver un terrain commun parmi les diverses traditions religieuses du monde.

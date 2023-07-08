@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 220
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Age of Libra lasts from –15'330 to –13'170 and follows the Age of Scorpio which lasted up to –15'330.

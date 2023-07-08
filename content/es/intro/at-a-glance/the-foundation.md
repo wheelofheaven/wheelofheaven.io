@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 130
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Considerando la hipótesis delineada en el capítulo anterior, se vuelve evidente que surge un marco de pensamiento que nos permite crear una representación coherente de los posibles orígenes de la vida en la Tierra. La estética proporcionada por esta representación forma la base de la gran narrativa que presentamos. Esta narrativa representa cómo la vida consciente en el planeta Tierra se explica mejor como otro eslabón en una cadena interestelar de civilizaciones planetarias. Esta idea puede ser vista como un renacimiento del concepto de pluralismo cósmico, que postula que la inmensidad del espacio hace que sea muy probable que la vida consciente sea abundante y que esta abundancia haga posible que la vida consciente exista en estrecha proximidad a la Tierra durante mucho tiempo.

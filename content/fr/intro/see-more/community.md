@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 420
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Si les hypothèses de Wheel of Heaven ont suscité davantage de curiosité en vous, vous pouvez également participer à rendre l'expérience plus enrichissante en nous aidant à ajouter des informations manquantes ou à traduire le contenu indisponible dans l'une des langues prises en charge.

@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 420
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Si las premisas de Wheel of Heaven despertaron tu curiosidad, también puedes participar para que la experiencia sea más valiosa ayudándonos a agregar piezas de información faltantes o a traducir contenido no disponible a uno de los idiomas admitidos.

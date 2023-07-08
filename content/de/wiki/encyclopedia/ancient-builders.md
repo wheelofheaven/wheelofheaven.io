@@ -31,6 +31,8 @@ timeline:
 - leo
 - cancer
 - gemini
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Ancient Builders typically refers to the architects, engineers, and skilled workers who created structures, such as buildings, temples, pyramids, and other monumental structures, in ancient civilizations. These ancient builders used a variety of materials and techniques, depending on the resources and technological abilities available to them. They often incorporated elements of sacred geometry, religious beliefs, and cultural symbols into their structures, which were sometimes used for religious or political purposes.

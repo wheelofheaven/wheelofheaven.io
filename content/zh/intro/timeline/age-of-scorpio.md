@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 215
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.

@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 140
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 在 Wheel of Heaven 这里提出的假设深受 [Raëlian revelations]({{< relref "wiki/encyclopedia/raelism.md" >}}) 的影响，因为它接受了 Elohim 在创造地球生命的核心信息。通过认为 Raëlian 的信息是真实的，Wheel of Heaven 提出了对 Raëlian 信息以及它们在我们快速发展的世界背景下的含义的更为细致的理解。

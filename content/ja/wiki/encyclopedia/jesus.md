@@ -13,6 +13,8 @@ weight: 200
 toc: true
 timeline:
 - pisces
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Jesus, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity and one of the most important figures in world history. According to Christian belief, Jesus was born in Bethlehem in Judea in the 1st century BC and was crucified in Jerusalem by the Romans around 30 AD.

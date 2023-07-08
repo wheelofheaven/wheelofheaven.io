@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 110
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Si vous venez de tomber sur la section Introduction de ce site web, vous vous demandez peut-être de quoi parle exactement Wheel of Heaven. Au cœur de son propos, Wheel of Heaven est un référentiel de connaissances basé sur le web qui explore l'hypothèse que la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre capable de voyager entre les étoiles.

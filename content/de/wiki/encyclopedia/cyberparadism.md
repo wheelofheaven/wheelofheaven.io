@@ -19,6 +19,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Cyberparadism ist ein Subgenre des Cyberprep und Post-Cyberpunk, das kybernetische Themen mit Aspekten des Paradieses kombiniert. Dies kann als utopische Gesellschaft oder als buchstäbliches Paradies wie der Garten Eden dargestellt werden. Es unterscheidet sich vom Cyberprep, indem es sich nicht nur auf die Vorteile des technologischen Fortschritts konzentriert, sondern auch zeigt, wie die Technologie wirtschaftliche Prinzipien und Arbeit wesentlich verändert hat, was die Verfolgung höherer Ziele in Wissenschaft, Technologie, Zivilisation und Spiritualität fördert.

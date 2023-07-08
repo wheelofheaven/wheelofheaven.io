@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 120
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Si vous êtes arrivé jusqu'ici, il est évident que vous cherchez à comprendre la raison de l'existence de ce site web. Nous sommes ravis d'entamer avec vous ce voyage qui fait réfléchir, qui pourrait changer votre vie ou, à tout le moins, vous donner une nouvelle appréciation pour l'élargissement de votre esprit. Préparez-vous pour une aventure qui nous emmène des fondements de la civilisation, à travers le début de l'histoire jusqu'à nos jours, en mettant l'accent sur les événements les plus cruciaux qui ont façonné notre monde. Comme pour tous les grands récits, élargissons notre perspective et établissons certaines hypothèses et considérations sur lesquelles notre hypothèse est basée. Attachez votre ceinture, vous allez vivre une sacrée aventure !

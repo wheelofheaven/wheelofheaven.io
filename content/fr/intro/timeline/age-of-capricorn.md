@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 205
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Nous commençons par l'Ère du Capricorne. L'Ère du Capricorne est le premier Mois précessionnel dans le cycle de la Grande Année. Avec la période nominale de 25'920 ans pour l'[Année de précession]({{< relref "wiki/encyclopedia/great-year.md" >}}), la durée d'un [Mois de précession]({{< relref "wiki/encyclopedia/great-month.md" >}}) est de 2'160 ans. Pendant cette période, le Soleil levant à l'équinoxe vernal est aligné avec la constellation du Capricorne dans l'écliptique.

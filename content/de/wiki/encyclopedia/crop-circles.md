@@ -25,6 +25,8 @@ weight: 200
 toc: true
 timeline:
 - aquarius
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Crop circles, or crop formations, refer to sizable patterns created by the flattening of crops such as wheat, barley, rapeseed (canola), rye, corn, linseed, and soy. The phenomenon is global but is most prevalent in the United Kingdom, where the majority of formations have been reported since the 1970s. While some attribute crop circles to various unexplained phenomena, others believe they are man-made. This article explores the history, characteristics, proposed explanations, and cultural impact of crop circles.

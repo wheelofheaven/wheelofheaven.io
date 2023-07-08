@@ -29,6 +29,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 El término Elohim (hebreo: אֱלֹהִים, 'ēlohîm) es una palabra hebrea utilizada en el Antiguo Testamento de la Biblia y se traduce comúnmente como Dios. Es un sustantivo en plural y su uso ha generado mucho debate entre los estudiosos bíblicos en cuanto a su significado.

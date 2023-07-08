@@ -19,6 +19,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Tree of the Knowledge of Good and Evil is a tree mentioned in the book of Genesis in the Bible. According to the biblical story, the Tree of the Knowledge of Good and Evil was a tree in the Garden of Eden that God commanded Adam and Eve not to eat from. However, the serpent tempted Eve to eat from the tree, and she in turn convinced Adam to do the same. This act of disobedience is seen as the first sin, and is believed to have caused humanity to fall from a state of innocence and purity into a state of sin and mortality.

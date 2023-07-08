@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 205
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 私たちはまず山羊座の時代から始めます。山羊座の時代は大年周期の最初の歳差月です。[歳差年]({{< relref "wiki/encyclopedia/great-year.md" >}})の名目上の期間が25'920年であることから、一つの[歳差月]({{< relref "wiki/encyclopedia/great-month.md" >}})の期間は2'190年です。この期間中、春分の日の昇る太陽は黄道上の山羊座の星座と一致します。

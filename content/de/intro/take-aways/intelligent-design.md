@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 320
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Die allgemein anerkannte wissenschaftliche Erklärung für den Ursprung des Lebens auf der Erde ist die Theorie der Abiogenese, die vorschlägt, dass das Leben aus einfachen organischen Verbindungen durch eine Reihe natürlicher chemischer Prozesse entstanden ist.

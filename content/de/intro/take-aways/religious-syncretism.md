@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 330
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Religiöser Synkretismus bezieht sich auf die Vermischung verschiedener religiöser Überzeugungen, Praktiken und kultureller Elemente zu einem neuen, vereinten System. In einer Welt, in der alle Religionen auf derselben Quelle - den Elohim - verwurzelt waren, könnte es zu einer größeren Akzeptanz von Synkretismus und einem erneuten Interesse daran führen, Gemeinsamkeiten zwischen den vielfältigen religiösen Traditionen der Welt zu finden.

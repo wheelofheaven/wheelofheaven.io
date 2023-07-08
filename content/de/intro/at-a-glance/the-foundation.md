@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 130
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Unter Berücksichtigung der im vorherigen Kapitel skizzierten Hypothese wird deutlich, dass ein Denkrahmen entsteht, der es uns ermöglicht, ein konsistentes Bild der möglichen Ursprünge des Lebens auf der Erde zu erstellen. Die von diesem Bild bereitgestellte Ästhetik bildet die Grundlage für die große Erzählung, die wir vorbringen. Diese Erzählung zeigt, wie das bewusste Leben auf der Erde am besten als weiteres Glied in einer interstellaren Kette von planetaren Zivilisationen erklärt wird. Diese Idee kann als Wiederbelebung des Konzepts des kosmischen Pluralismus gesehen werden, das besagt, dass die Weite des Weltraums es sehr wahrscheinlich macht, dass bewusstes Leben reichlich vorhanden ist und dass diese Fülle es plausibel macht, dass bewusstes Leben für eine lange Zeit in der Nähe der Erde existiert.

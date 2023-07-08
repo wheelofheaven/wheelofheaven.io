@@ -11,6 +11,8 @@ menu:
     parent: "see-more"
 weight: 410
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Has llegado a la Introducción, pero el viaje inquisitivo no termina aquí. Asegúrate de revisar la Wiki, los Recursos y la sección de Blog de Wheel of Heaven para sumergirte más en la gran narrativa presentada aquí.

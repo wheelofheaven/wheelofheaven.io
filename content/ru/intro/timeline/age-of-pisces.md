@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 255
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Age of Pisces lasted from –210 BC to 1950 CE and followed the Age of Aries which lasted up to –210. This World Age just ended very recently and the transition from the Age of Pisces to the new Age of Aquarius is still being felt.

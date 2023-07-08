@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 320
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 La explicación científica ampliamente aceptada para los orígenes de la vida en la Tierra es la teoría de la abiogénesis, que sugiere que la vida emergió de compuestos orgánicos simples a través de una serie de procesos químicos naturales.

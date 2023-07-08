@@ -14,6 +14,8 @@ toc: true
 timeline:
 - cancer
 - gemini
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ## Sequence of events

@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 330
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 El sincretismo religioso se refiere a la fusión de diferentes creencias, prácticas y elementos culturales religiosos en un nuevo sistema unificado. En un mundo donde todas las religiones tuvieran su raíz en la misma fuente - los Elohim - podría llevar a una mayor aceptación del sincretismo y a un renovado interés en encontrar un terreno común entre las diversas tradiciones religiosas del mundo.

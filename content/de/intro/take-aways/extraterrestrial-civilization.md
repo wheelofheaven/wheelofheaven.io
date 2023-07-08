@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 310
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Das Leben auf der Erde in einen größeren kosmischen Zusammenhang zu stellen, inspiriert zu einem größeren Gefühl der Verbundenheit und weckt die Neugier auf die Möglichkeit anderer Lebensformen im Universum. Es wirft auch Fragen auf über die potenzielle Rolle der Menschen im Kosmos und unsere Verantwortung als Spezies und lädt uns ein, unseren Platz im großen Ganzen neu zu bewerten.

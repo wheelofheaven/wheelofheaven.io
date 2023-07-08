@@ -13,6 +13,8 @@ weight: 200
 toc: true
 timeline:
 - gemini
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ## In Raëlism 🔯

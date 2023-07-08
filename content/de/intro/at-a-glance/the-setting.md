@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 120
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Wenn Sie es bis hierher geschafft haben, ist klar, dass Sie den Grund für die Existenz dieser Website verstehen möchten. Wir sind begeistert, mit Ihnen diese zum Nachdenken anregende Reise zu beginnen, die lebensverändernd sein kann oder zumindest eine neu entdeckte Wertschätzung für das Erweitern Ihres Geistes bietet. Machen Sie sich bereit für ein Abenteuer, das uns von den Grundlagen der Zivilisation über den Anfang der Geschichte bis in die Gegenwart führt und sich auf die wichtigsten Ereignisse konzentriert, die unsere Welt geformt haben. Wie bei allen großen Erzählungen wollen wir unsere Perspektive erweitern und einige Annahmen und Überlegungen festlegen, auf denen unsere Hypothese basiert. Anschnallen, Sie sind auf einer Fahrt!

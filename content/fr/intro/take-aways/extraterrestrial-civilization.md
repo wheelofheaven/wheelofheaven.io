@@ -11,6 +11,8 @@ menu:
     parent: "take-aways"
 weight: 310
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Placer la vie terrestre dans un contexte cosmique plus large inspire un plus grand sens de l'interconnexion et suscite la curiosité quant à la possibilité d'autres formes de vie dans l'univers. Cela soulève également des questions sur le rôle potentiel des humains dans le cosmos et nos responsabilités en tant qu'espèce, nous invitant à réévaluer notre place dans le grand schéma des choses.

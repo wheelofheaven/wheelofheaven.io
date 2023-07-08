@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 140
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ここでWheel of Heavenで提示される仮説は、[ラエリアンの啓示]({{< relref "wiki/encyclopedia/raelism.md" >}})の影響を深く受けています。なぜなら、それは地球上の生命を創造したエロヒムの役割の核心的なメッセージを採用しているからです。ラエリアンのメッセージが本物であると考えることで、Wheel of Heavenは私たちの急速に進化する世界の文脈でのラエリアンのメッセージとその意味をより繊細に理解することを提案します。

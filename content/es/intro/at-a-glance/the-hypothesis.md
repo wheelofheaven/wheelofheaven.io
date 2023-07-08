@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 140
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 La hipótesis presentada aquí en Wheel of Heaven está profundamente influenciada por las [revelaciones Raëlianas]({{< relref "wiki/encyclopedia/raelism.md" >}}), ya que adopta el mensaje central del papel de los Elohim en la creación de la vida en la Tierra. Considerando los mensajes Raëlianos como auténticos, Wheel of Heaven propone una comprensión más matizada de los mensajes Raëlianos y sus implicaciones en el contexto de nuestro mundo en rápida evolución.

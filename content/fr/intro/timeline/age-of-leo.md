@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 230
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Age of Leo lasts from –11'010 to –8'850 and follows the Age of Virgo which lasted up to –11'010.

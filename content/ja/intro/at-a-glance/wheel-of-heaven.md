@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 110
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 このウェブサイトの「イントロダクション」セクションに偶然出会ったあなたは、Wheel of Heavenが一体何なのか、どんな内容なのか気になっているかもしれません。核心的には、Wheel of Heavenは地球上の生命が、星間旅行が可能な地球外文明によって知的に設計されたという仮説を探求するウェブベースの知識リポジトリです。

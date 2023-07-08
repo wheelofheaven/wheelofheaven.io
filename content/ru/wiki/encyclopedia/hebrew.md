@@ -23,6 +23,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Hebrew, a member of the Semitic language family, boasts a rich history that stretches back thousands of years. Rooted in the same linguistic branch as languages such as Arabic and Amharic, Hebrew has evolved considerably from its early iterations, known as Biblical or Classical Hebrew, into the Modern Hebrew spoken in Israel today.

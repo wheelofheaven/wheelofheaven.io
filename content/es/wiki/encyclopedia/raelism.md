@@ -27,6 +27,8 @@ menu:
     parent: wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 El Raëlismo es un movimiento religioso y filosófico que se originó en Francia en la década de 1970. Se basa en la creencia de que seres extraterrestres conocidos como Elohim crearon la vida en la Tierra y continúan interactuando con la humanidad. El fundador del Raëlismo, Claude Vorilhon, también conocido como Raël, afirma haber tenido una serie de encuentros con un ser de otro planeta que le dio mensajes para compartir con el mundo.

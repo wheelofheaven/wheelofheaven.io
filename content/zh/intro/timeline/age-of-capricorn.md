@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 205
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 我们首先从摩羯座时代开始。摩羯座时代是大年周期中的第一个岁差月份。以25,920年为[岁差年]({{< relref "wiki/encyclopedia/great-year.md" >}})的标准周期，一个[岁差月]({{< relref "wiki/encyclopedia/great-month.md" >}})的持续时间是2,190年。在这段时间里，春分日出太阳与黄道上的摩羯座星座对齐。

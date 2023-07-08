@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 120
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Si has llegado hasta aquí, está claro que estás buscando comprender la razón de ser de este sitio web. Estamos emocionados de embarcarnos en este viaje provocador de pensamientos contigo, uno que puede ser transformador o, al menos, brindar una nueva apreciación por expandir tu mente. Prepárate para una aventura que nos lleva desde los cimientos de la civilización, a través del comienzo de la historia y hasta el día de hoy, centrándonos en los eventos más cruciales que han dado forma a nuestro mundo. Como ocurre con todas las grandes narrativas, ampliemos nuestra perspectiva y establezcamos algunas premisas y consideraciones en las que se basa nuestra hipótesis. ¡Prepárate, te espera un viaje emocionante!

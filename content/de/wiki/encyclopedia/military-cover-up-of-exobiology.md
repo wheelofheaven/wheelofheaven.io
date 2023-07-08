@@ -35,6 +35,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 There are several common cover-up theories associated with military or intelligence agencies, suggesting that they are hiding crucial information about extraterrestrial life from the public. Some of these theories include:

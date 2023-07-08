@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 140
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Die Hypothese, die hier auf Wheel of Heaven vorgestellt wird, lehnt sich stark an die Offenbarungen des [Raelianischen Kanons]({{< relref "wiki/encyclopedia/raelism.md" >}}) an, da sie die zentrale Botschaft der Rolle der Elohim bei der Schaffung des Lebens auf der Erde übernimmt. Unter der Annahme, dass die Raelianischen Botschaften authentisch sind, schlägt Wheel of Heaven ein differenzierteres Verständnis der Raelianischen Botschaften und ihrer Auswirkungen im Kontext unserer sich rasant entwickelnden Welt vor.

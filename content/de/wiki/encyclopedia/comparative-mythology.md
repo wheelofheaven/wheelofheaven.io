@@ -21,6 +21,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Comparative mythology is the study of myths from different cultures and how they relate and compare to each other. It seeks to understand common themes, motifs, and elements across cultures and how they evolve over time. By comparing myths from different cultures, scholars can gain insights into the cultural, historical, and psychological aspects of those cultures. This approach has been used to shed light on the origin of myths, the spread of religious and cultural ideas, and the evolution of human thought and beliefs. Some of the most famous examples of comparative mythology include the similarities between the gods of ancient Egypt, Greece and Rome, tales and songs in European folklore, and the myths of creation found in many cultures.

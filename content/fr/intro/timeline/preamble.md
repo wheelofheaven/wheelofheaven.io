@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 204
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 La chronologie commence un peu avant environ –22'000, juste à la porte de l'Ère du Capricorne. Ce qui précède l'Ère du Capricorne est un Âge du Verseau de la Grande Année précédente. Avant de commencer avec le premier Grand Mois précessionnel, l'Âge mondial Capricornien, il vaut la peine d'examiner ce qui a conduit à celui-ci. Pour illustrer ce qui s'est passé, nous pouvons nous inspirer d'un classique de l'industrie cinématographique américaine, Jurassic Park.

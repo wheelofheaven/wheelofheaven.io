@@ -12,6 +12,8 @@ menu:
     parent: "timeline"
 weight: 240
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ![Image](images/equinox_bc6690.png "Vernal equinox in 6690 BC")

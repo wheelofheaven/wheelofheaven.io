@@ -11,6 +11,8 @@ menu:
     parent: "at-a-glance"
 weight: 110
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Wenn Sie gerade auf den Einführungsbereich dieser Website gestoßen sind, fragen Sie sich vielleicht, worum es bei Wheel of Heaven eigentlich geht. Im Kern ist Wheel of Heaven eine webbasierte _Knowledge Base_, die die Hypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation mit der Fähigkeit zur interstellaren Reise intelligent kreiiert wurde.

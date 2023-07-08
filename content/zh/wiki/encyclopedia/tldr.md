@@ -14,6 +14,8 @@ menu:
     parent: wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 术语 "tl;dr" 源自互联网文化，在在线社区中特别是论坛、社交媒体和讨论板上获得了广泛流行。它作为对一些用户发现冗长帖子或文章乏味或耗时的回应而出现。

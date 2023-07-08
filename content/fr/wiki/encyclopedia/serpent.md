@@ -29,6 +29,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Biblical Serpent refers to a serpent mentioned in the book of Genesis in the Bible. According to the biblical story, the serpent was a creature that appeared in the Garden of Eden and tempted Eve to eat the forbidden fruit from the Tree of Knowledge. This event is often seen as the first act of sin and disobedience, and is believed to have caused humanity to fall from a state of innocence and purity into a state of sin and mortality.

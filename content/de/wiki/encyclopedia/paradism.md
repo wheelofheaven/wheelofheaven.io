@@ -18,6 +18,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 Paradism is a concept that is often associated with a utopian vision of an ideal society, characterized by peace, equality, abundance, and harmony. In a paradisiacal society, it is believed that all individuals have their basic needs met and are free to pursue their passions and interests without the constraints of poverty, inequality, or oppression.

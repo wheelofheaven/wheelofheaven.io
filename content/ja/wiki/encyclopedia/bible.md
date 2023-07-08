@@ -13,6 +13,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Bible is an anthology of religious texts, written and assembled over many centuries, regarded as sacred in Jewish, Christian, and, to some extent, Islamic traditions. Its significance cannot be understated; it has shaped civilizations, informed legal systems, influenced literature and art, and guided the spiritual lives of billions of people worldwide. However, it isn't a single book authored by one individual. Instead, the Bible is a complex library of texts, encompassing a wide range of literary genres - histories, prophecies, poetry, wisdom literature, letters, and apocalyptic writings. Understanding the Bible, therefore, involves recognizing this diversity and appreciating the various religious traditions that interpret it.

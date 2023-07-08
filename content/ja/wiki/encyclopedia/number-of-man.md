@@ -13,6 +13,8 @@ menu:
     parent: Wiki
 weight: 200
 toc: true
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 The Number of the Beast is mentioned in the New Testament Book of Revelation, specifically in Chapter 13, Verses 16-18. According to these verses, the number of the beast is written as 666.

@@ -33,6 +33,8 @@ timeline:
 - cancer
 - gemini
 - taurus
+translatedby: ["GPT"]
+translationrate: 100
 ---
 
 ## Sequence of events

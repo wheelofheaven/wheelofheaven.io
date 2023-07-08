@@ -4,8 +4,9 @@ description: "The third key motion of the Earth next to the other two cycles res
 excerpt: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
 date: 2023-07-07T00:00:00+00:00
 lastmod: 2023-07-07T00:00:00+00:00
-draft: true
-images: ["content-log-03-23.jpg"]
+draft: false
+weight: 50
+images: ["the-great-year-and-its-twelve-houses.jpg"]
 categories: ["Context"]
 tags: ["age-of-aquarius", "the-great-awakening", "archeoastronomy"]
 contributors: ["Zara Zinsfuss"]

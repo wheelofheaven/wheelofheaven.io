@@ -1,23 +1,23 @@
 ---
-title: "Hello World! 👋"
-description: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+title: "こんにちは、世界！👋"
+description: "こんにちは、世界！Wheel of Heavenが正式に開始されました！Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる宇宙外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+excerpt: "こんにちは、世界！Wheel of Heavenが正式に開始されました！Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる宇宙外文明によって知的に設計されたという仮説を探求する知識ベースです。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["News"]
-tags: ["introduction", "get-started", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
+categories: ["ニュース"]
+tags: ["紹介", "wheel-of-heaven", "作業仮説", "古代宇宙人", "インテリジェントデザイン", "ラエリズム"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
+こんにちは、世界！Wheel of Heavenが正式に開始されました！Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる宇宙外文明によって知的に設計されたという仮説を探求する知識ベースです。
 
-While the working hypothesis is not necessarily something new and there are a certain number of forethinkers within the realm of ancient astronauts, creationism and/or an neo-euhemeristic reading of ancient mythology, the foundation upon which the premises are residing is an unapologetic re-interpretation Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, that left us with an important message of very deep philsophical implications if proven true. Fundamental questions of the nature of "Where Do We Come From? What Are We? Where Are We Going?" are going to be answered here on Wheel of Heaven.
+作業仮説は必ずしも新しいものではなく、古代の宇宙飛行士、創造論、および/または古代神話のネオ・ユメリスト的な解釈の範囲内には一定数の先見者が存在しますが、これらの前提が基づいているのは、ラエリズムと呼ばれる宗教運動の非謝罪の再解釈です。この運動は、フランス人が明言したという、エキストラテレストリアルな文明であるヤハウェの代表者に出会ったという体験に基づいており、真実とされれば非常に深い哲学的な意味を持つ重要なメッセージを私たちに残しました。 「私たちはどこから来たのか？私たちは何者か？私たちはどこに向かっているのか？」という本質的な問いについて、Wheel of Heavenでは答えが示されるでしょう。
 
-As with all big narratives, we at Wheel of Heaven, are well aware that this is only one of many. We don't claim to have the absolute definitive answers to everything, but we're eager to explore what can be deduced from these Raëlian premises and where that would leave us if they end up turning out to be true. This knowledge base therefore tries to canonize, to contextualize and to foster reasearch around the very premise of Raëlism, which can be summed up to notion of extraterrestrial or scientific intelligent design.
+大きな物語にはすべてそうであるように、私たちはWheel of Heavenでもこれが多くの物語のうちの一つにすぎないことをよく理解しています。私たちは全てに対する絶対的な決定的な答えを持っているわけではありませんが、これらのラエリアンの前提から何が推論できるかを探求し、それが真実であることが判明した場合に私たちがどこにいるのかを知りたいと思っています。したがって、この知識ベースは、ラエリズムの前提そのものを正当化し、文脈化し、研究を促進しようとします。これは、宇宙外または科学的な知的デザインの概念と要約できます。
 
-We hope that you stick around and help us to get to the bottom of this very fascinating working theory! Please note, that we're only so many that are keeping up with writing up the contents that you find over here, but be assured that we're very dedicated in delivering, slowly but surely, the most extensive body of research to you the curious reader. With that in mind, feel welcome to ask questions and make this endeavour even more worthwhile.
+私たちは、あなたがこの非常に魅力的な作業理論の真相を解明するために私たちとともにいてくれることを願っています！こちらで見つけるコンテンツの執筆に取り組んでいるのは私たちだけですが、好奇心旺盛な読者の皆さんに対して、着実に、徐々に最も包括的な研究成果を提供することに非常に献身的です。それを念頭に置いて、質問をお気軽にどうぞ。そして、この試みをさらに価値あるものにしてください。

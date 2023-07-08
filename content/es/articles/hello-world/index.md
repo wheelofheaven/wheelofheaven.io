@@ -1,23 +1,23 @@
 ---
-title: "Hello World! 👋"
-description: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+title: "¡Hola mundo! 👋"
+description: "¡Hola mundo! ¡Wheel of Heaven ha sido lanzado oficialmente! Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada de manera inteligente por una civilización extraterrestre, los llamados Elohim."
+excerpt: "¡Hola mundo! ¡Wheel of Heaven ha sido lanzado oficialmente! Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada de manera inteligente por una civilización extraterrestre, los llamados Elohim."
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
 categories: ["News"]
-tags: ["introduction", "get-started", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
+tags: ["intro", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raëlismo"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
+¡Hola mundo! ¡Wheel of Heaven ha sido lanzado oficialmente! Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada de manera inteligente por una civilización extraterrestre, los llamados Elohim.
 
-While the working hypothesis is not necessarily something new and there are a certain number of forethinkers within the realm of ancient astronauts, creationism and/or an neo-euhemeristic reading of ancient mythology, the foundation upon which the premises are residing is an unapologetic re-interpretation Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, that left us with an important message of very deep philsophical implications if proven true. Fundamental questions of the nature of "Where Do We Come From? What Are We? Where Are We Going?" are going to be answered here on Wheel of Heaven.
+Si bien la hipótesis de trabajo no es necesariamente algo nuevo y hay un cierto número de precursores en el ámbito de los antiguos astronautas, el creacionismo y/o una lectura neo-euhemerística de la mitología antigua, el fundamento en el que se basan las premisas es una reinterpretación sin remordimientos del raëlismo, un nuevo movimiento religioso que se remonta a un francés que supuestamente se encontró con el representante de una civilización extraterrestre, Yahweh, y que nos dejó un mensaje importante con profundas implicaciones filosóficas si se demuestra que es verdadero. Aquí, en Wheel of Heaven, se responderán preguntas fundamentales sobre la naturaleza de "¿De dónde venimos? ¿Quiénes somos? ¿Hacia dónde vamos?".
 
-As with all big narratives, we at Wheel of Heaven, are well aware that this is only one of many. We don't claim to have the absolute definitive answers to everything, but we're eager to explore what can be deduced from these Raëlian premises and where that would leave us if they end up turning out to be true. This knowledge base therefore tries to canonize, to contextualize and to foster reasearch around the very premise of Raëlism, which can be summed up to notion of extraterrestrial or scientific intelligent design.
+Como ocurre con todas las grandes narrativas, en Wheel of Heaven somos conscientes de que esta es solo una entre muchas. No afirmamos tener respuestas definitivas absolutas para todo, pero estamos ansiosos por explorar lo que se puede deducir de estas premisas raëlianas y dónde nos dejarían si resulta que son verdaderas. Por lo tanto, esta base de conocimientos intenta canonizar, contextualizar y fomentar la investigación en torno a la premisa misma del raëlismo, que se puede resumir en la noción de diseño inteligente extraterrestre o científico.
 
-We hope that you stick around and help us to get to the bottom of this very fascinating working theory! Please note, that we're only so many that are keeping up with writing up the contents that you find over here, but be assured that we're very dedicated in delivering, slowly but surely, the most extensive body of research to you the curious reader. With that in mind, feel welcome to ask questions and make this endeavour even more worthwhile.
+¡Esperamos que te quedes y nos ayudes a llegar al fondo de esta teoría de trabajo fascinante! Ten en cuenta que somos pocos los que nos ocupamos de escribir los contenidos que encuentras aquí, pero ten la seguridad de que estamos muy dedicados a ofrecerte, poco a poco, el cuerpo de investigación más completo. Con eso en mente, siéntete libre de hacer preguntas y hacer de esta empresa algo aún más valioso.

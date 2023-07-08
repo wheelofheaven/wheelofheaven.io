@@ -1,23 +1,23 @@
 ---
-title: "Hello World! 👋"
-description: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
-excerpt: "Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+title: "你好，世界！👋"
+description: "你好，世界！Wheel of Heaven已正式启动！Wheel of Heaven是一个知识库，探讨了地球上的生命是如何由一个名为Elohim的外星文明智能设计的工作假设。"
+excerpt: "你好，世界！Wheel of Heaven已正式启动！Wheel of Heaven是一个知识库，探讨了地球上的生命是如何由一个名为Elohim的外星文明智能设计的工作假设。"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["News"]
-tags: ["introduction", "get-started", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
+categories: ["新闻"]
+tags: ["介绍", "wheel-of-heaven", "工作假设", "古代外星人", "智能设计", "拉埃利主义"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-Hello World! Wheel of Heaven has been launched offically! Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
+你好，世界！Wheel of Heaven已正式启动！Wheel of Heaven是一个知识库，探讨了地球上的生命是如何由一个名为Elohim的外星文明智能设计的工作假设。
 
-While the working hypothesis is not necessarily something new and there are a certain number of forethinkers within the realm of ancient astronauts, creationism and/or an neo-euhemeristic reading of ancient mythology, the foundation upon which the premises are residing is an unapologetic re-interpretation Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, that left us with an important message of very deep philsophical implications if proven true. Fundamental questions of the nature of "Where Do We Come From? What Are We? Where Are We Going?" are going to be answered here on Wheel of Heaven.
+虽然这个工作假设并不一定是新的，古代宇航员、创造论以及/或对古代神话的新欧米里斯主义解读领域中有一定数量的先驱者，但这些前提所依据的基础是对拉埃利主义的无歉意重新解释，这是一个新的宗教运动，起源于一个法国人声称与一个外星文明的代表Yahweh见面，并给我们留下了一条重要信息，如果证明是真实的，将具有非常深刻的哲学意义。 "我们从哪里来？我们是什么？我们将去往何方？"这些关于人类本质的基本问题将在Wheel of Heaven上得到回答。
 
-As with all big narratives, we at Wheel of Heaven, are well aware that this is only one of many. We don't claim to have the absolute definitive answers to everything, but we're eager to explore what can be deduced from these Raëlian premises and where that would leave us if they end up turning out to be true. This knowledge base therefore tries to canonize, to contextualize and to foster reasearch around the very premise of Raëlism, which can be summed up to notion of extraterrestrial or scientific intelligent design.
+正如所有重大叙事一样，我们在Wheel of Heaven非常清楚，这只是众多叙事之一。我们并不声称对一切拥有绝对明确的答案，但我们渴望探索从这些拉埃利主义前提中可以推导出什么，以及如果这些前提最终被证明是真实的，我们将处于什么位置。因此，这个知识库试图将拉埃利主义的前提规范化、情境化并促进研究，其核心概念可以归结为外星或科学智能设计的概念。
 
-We hope that you stick around and help us to get to the bottom of this very fascinating working theory! Please note, that we're only so many that are keeping up with writing up the contents that you find over here, but be assured that we're very dedicated in delivering, slowly but surely, the most extensive body of research to you the curious reader. With that in mind, feel welcome to ask questions and make this endeavour even more worthwhile.
+我们希望你能陪伴我们一起深入探索这个非常迷人的工作理论！请注意，我们只有很少的人在撰写这里的内容，但请放心，我们致力于向好奇的读者逐渐提供最全面的研究成果。在此背景下，请随时提问，使这一努力更有价值。

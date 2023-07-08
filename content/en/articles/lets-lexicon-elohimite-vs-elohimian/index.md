@@ -14,17 +14,17 @@ pinned: false
 homepage: false
 ---
 
-In the broad tapestry of ancient astronaut narratives, from the works of Jean Sendy and Zechariah Sitchin, through to the modern trend of interpreting biblical scriptures literally, as undertaken by scholars such as Mauro Biglino and Paul Anthony Wallis, a unique perspective emerges. On our website, Wheel of Heaven, we delve into one such perspective by contextualizing a new religious movement known as Raëlism, where the term _'Elohim'_ assumes a pivotal role.
+In the broad tapestry of ancient astronaut narratives, from the works of Jean Sendy and Zechariah Sitchin, through to the modern trend of interpreting biblical scriptures [literally]({{< relref "wiki/encyclopedia/biglino-method.md" >}}), as undertaken by scholars such as Mauro Biglino and Paul Anthony Wallis, a unique perspective emerges. On our website, Wheel of Heaven, we delve into one such perspective by contextualizing a new religious movement known as [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}}), where the term _'Elohim'_ assumes a pivotal role.
 
 ## The Elohim
 
-Stemming from the ancient Hebrew language, where it has been often translated to simply mean "God," it carries a much more intricate interpretation within the framework of Wheel of Heaven. The literal translation from Hebrew gives us "those who came from the sky" – an inherently plural interpretation which contrasts with the monotheistic connotations often associated with the term. This multifaceted interpretation opens a gateway to understanding the rich narrative of the Elohim, a highly advanced civilization believed to have originated from the skies, or more precisely, from outer space.
+[Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}), a term stemming from the [ancient Hebrew language]({{< relref "wiki/encyclopedia/hebrew.md" >}}), where it has been often translated to simply mean "God," it carries a much more intricate interpretation within the framework of Wheel of Heaven. The literal translation from Hebrew gives us "those who came from the sky" – an inherently plural interpretation which contrasts with the monotheistic connotations often associated with the term. This multifaceted interpretation opens a gateway to understanding the rich narrative of the Elohim, a highly advanced civilization believed to have originated from the skies, or more precisely, from outer space.
 
-The Elohim, according to Raëlian beliefs, are a group of extraterrestrial scientists who, possessing advanced knowledge and technology, embarked on a cosmic expedition in search of suitable planets to implement their grand designs. Their journey led them to Earth, where they utilized their superior scientific acumen to manipulate genetic material and engineer life, including human beings.
+The Elohim, according to Raëlian beliefs, are a group of extraterrestrial scientists who, possessing advanced knowledge and technology, embarked on a cosmic expedition in search of suitable planets to implement their [grand designs]({{< relref "wiki/encyclopedia/genesis.md" >}}). Their journey led them to Earth, where they utilized their superior scientific acumen to manipulate genetic material and [engineer life]({{< relref "wiki/encyclopedia/life-engineering.md">}}), including human beings.
 
 In this context, the term "Elohim" is not a single, omnipotent deity but rather a collective of beings of extraordinary capabilities and intellect. Their history, culture, and technological advancements are fascinating, to say the least, and offer a unique perspective on the genesis of life on Earth. As we delve into their narrative, the terms "Elohimite" and "Elohimian" will frequently emerge. These terms have been adopted to describe anything related to or associated with the Elohim civilization.
 
-This article is part of a series aimed at establishing, defining, and standardizing these terms and others in relation to the Elohim narrative. Our goal is to create a consistent, easily understood lexicon for all readers interested in understanding the rich narrative surrounding the Elohim and their pivotal role in the Raëlian cosmology.
+This article is part of a series aimed at establishing, defining, and standardizing these terms and others in relation to the Elohim narrative. Our goal is to create a consistent, easily understood lexicon for all readers interested in understanding the rich narrative surrounding the Elohim and their pivotal role in the Raëlian narrative.
 
 ## Which descriptor is appropriate?
 
@@ -54,6 +54,13 @@ In this case, these two terms are designed to provide a clear and consistent lan
 
 ## What now?
 
-As we delve into the rich and complex narrative of Wheel of Heaven, Raëlism and the Elohim, it's vital that we establish a clear and consistent terminology. The terms "Elohimite" and "Elohimian" represent just the beginning of this journey into understanding the language of this fascinating interstellar narrative. These terms, among others, will help us paint a picture of a civilization that is an integral part of the Raëlian canon. For a comprehensive overview of this expansive narrative and to further immerse yourself in the world of Wheel of Heaven, please proceed to the [Intro]({{< ref "/intro/at-a-glance/wheel-of-heaven.md" >}}). Here, you'll find a detailed layout of the whole narrative, providing a solid grounding for your exploration of this intriguing perspective on extraterrestrial life and its impact on human civilization.
+As we delve into the rich and complex narrative of Wheel of Heaven, Raëlism and the Elohim, it's vital that we establish a clear and consistent terminology. The terms "Elohimite" and "Elohimian" represent just the beginning of this journey into understanding the language of this fascinating interstellar narrative. These terms, among others, will help us paint a picture of a civilization that is an integral part of the Raëlian canon. For a comprehensive overview of this expansive narrative and to further immerse yourself in the world of Wheel of Heaven, please proceed to the [Intro]({{< ref "/intro/at-a-glance/wheel-of-heaven.md" >}}). There, you'll find a detailed layout of the whole narrative, providing a solid grounding for your exploration of this intriguing perspective on extraterrestrial life and its impact on human civilization.
 
-Start with [our introduction into Wheel of Heaven and its premises!]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})</br>
+## See also
+
+- [Wiki › Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+
+## Read more
+
+- [Intro › Take Aways › Extraterrestrial civilization]({{< relref "intro/take-aways/extraterrestrial-civilization.md" >}})

@@ -1,41 +1,50 @@
 ---
-title: "Fact check: Ye did showcase a Raëlian symbol"
-description: "Fact check: Ye did showcase a Raëlian symbol. The emblematic symbol combining the Shield of David and the Swastika represents infinity in the Raëlian theology."
-excerpt: "\"Love everyone. #lovespeech\" was Ye's accompanying tweet saying. The emblematic symbol combining the Shield of David and the Swastika represents infinity in the Raëlian theology. Indeed a symbol that colloquially equated with love among Raëlians."
+title: "ファクトチェック：Yeはラエリアンのシンボルを披露しました"
+description: "\"Love everyone. #lovespeech\"はYeのツイートの伴った言葉です。ダビデの盾とスワスティカを組み合わせた象徴的なシンボルは、ラエリアンの神学において無限を表します。確かに、ラエリアンの間では愛と同等に扱われるシンボルです。ファクトチェック：Yeはラエリアンのシンボルを披露しました。ダビデの盾とスワスティカを組み合わせた象徴的なシンボルは、ラエリアンの神学において無限を表します。"
+excerpt: "\"Love everyone. #lovespeech\"はYeのツイートの伴った言葉です。ダビデの盾とスワスティカを組み合わせた象徴的なシンボルは、ラエリアンの神学において無限を表します。確かに、ラエリアンの間では愛と同等に扱われるシンボルです。ファクトチェック：Yeはラエリアンのシンボルを披露しました。ダビデの盾とスワスティカを組み合わせた象徴的なシンボルは、ラエリアンの神学において無限を表します。"
 date: 2022-12-03T00:00:00+00:00
 lastmod: 2022-12-03T00:00:00+00:00
 draft: false
 weight: 50
 images: ["fact-check.jpg"]
-categories: ["News"]
-tags: ["wheel-of-heaven", "religious", "ancient-alients", "kanye-west", "ye", "swastika", "magen-david", "star-of-david", "infinity", "lovespeech", "raëlism"]
+categories: ["現在の出来事"]
+tags: ["wheel-of-heaven", "ancient-alients", "swastika", "infinity", "raëlism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-Ye recently posted a tweet that got him banned (again) from Twitter. Superifically, it looks a lot like some sort of provocation, that is tweeting a picture featuring what appears to be combining two seemingly opposing symbols. Two symbols that carry heavy historical connotations. "Love everyone. #lovespeech" wrote Ye alongside his provoking tweet. What one may not know however (and what Ye himself may have not known either) is that this intertwined synthetization of two ostensibly unrelated, opposing symbols was not a new creation by Ye or someone affiliated. This symbol has already been in use for some time. The merging of the Shield of David and the Swastika represents infinity in the Raëlian theology. Indeed a symbol that colloquially equated with love among Raëlians. While Raëlian claim that symbol as their religious emblem, they are also very clear about its origin, namely that they haven't invented it either, but it is deeply entrenched in our historical past and has been used by multiple important civilizations a long time ago.
+Yeは最近、Twitterから（再び）禁止されたツイートを投稿しました。一見すると、これは何らかの挑発のように見えます。つまり、二つの相反するシンボルを組み合わせた画像をツイートすることです。これらのシンボルには重い歴史的な意味合いがあります。Yeは挑発的なツイートと共に「Love everyone. #lovespeech」と書きました。しかし、多くの人が知らないこと（そしてYe自身も知らなかったかもしれません）は、これらの二つの表面上関連のない相反するシンボルの絡み合いは、Yeや関係者による新しい創造物ではないということです。このシンボルはすでに長い間使用されてきました。[ダビデの盾]({{< relref "wiki/encyclopedia/star-of-david.md" >}})と[スワスティカ]({{< relref "wiki/encyclopedia/swastika.md" >}})の結合は、ラエリアンの神学において無限を表します。確かに、ラエリアンの間では愛と同等に扱われるシンボルです。ラエリアンはそのシンボルを宗教の象徴として主張していますが、彼らはその起源についても非常に明確であり、彼ら自身がそれを発明したわけではなく、それが私たちの歴史の過去に深く根ざしていて、かつて多くの重要な文明によって使用されていたことを明言しています。
 
-### Ye's Tweet
+### Yeのツイート
 
-Yesterday, on the 2nd of December 2022, Ye posted the following Tweet on Twitter:
+2022年12月2日、YeはTwitterで次のツイートを投稿しました：
 
-![Image](images/ye-tweet-raelian-symbol.jpg "ye-tweet-raelian-symbol.jpg")
+![画像](images/ye-tweet-raelian-symbol.jpg "ye-tweet-raelian-symbol.jpg")
 
-This is interesting as it may be the first time that a well-known celebrity showcases the Raëlian symbol so obviously so that one may ask what this may actually represent.  
+これは興味深いことであり、有名人がラエリアンのシンボルをこれほど明らかに披露するのはおそらく初めてであり、これが実際に何を表しているのかという疑問が生じるかもしれません。
 
-### Fact
+### 事実
 
-Yes, the screenshot portraying a computer screen showing an open Adobe Photoshop window which itself displays a weird looking symbol in black on white background. That symbol clearly has the shape of the infamous Star of David, also called Magen David (shield of David) featuring an interconnected Swastika in its center. Without going as far as to interpret what Ye, formlery Kanye West was trying to express, what he was showing is nothing else, but the emblematic symbol of the Raëlian religion. A new religious movement that got started in 1973 by a Frenchman. This religion and its premises is at the very underlying narrative that this very web site you'reading, Wheel of Heaven, tries to uncover.
+はい、コンピュータースクリーンを描いたスクリーンショットが、白い背景に黒い奇妙なシンボルを表示するAdobe Photoshopのウィンドウを示しています。そのシンボルは明らかに悪名高いダビデの星、またはマゲン・ダビデ（ダビデの盾）と呼ばれ、中央には互いに絡み合ったスワスティカがあります。YeことKanye Westが表現しようとしたことを解釈するまでには至りませんが、彼が示したのはまさにラエリアン宗教の象徴的なシンボルです。フランス人によって1973年に始まった新しい宗教運動です。この宗教とその前提は、あなたが読んでいるこのウェブサイトであるWheel of Heavenが明らかにしようとしている非常に根底にある物語です。
 
-### Explanation
+### 解説
 
-In the Raëlian theology, more specifically Raëlian cosmology, what we commonly refer as to the universe is considered infinite in size and in scale: infinite space without any relevant borders. Space doesn't end where we think it does, it keeps on being bigger and larger than any we can image. Infinity of space so to speak. Not only that, but space consitsts multiple levels of scale. If the entirey of our known universe is part of an even bigger being, then that scale of existence is higher up so to speak. If that is true for the highest scale, it would be conducive to consider the very same analogy to work for the smallest scales. And indeed, for Raëlians, we are these larger beings for much smaller worlds living in a scale even smaller than sub-atomic particles. As above so below goes the Hermetic saying which takes a new dimension within Raëlian theology. This relationship between smaller and larger scales of existence is the very meaning of the Star of David.
+[ラエリアンの神学]({{< relref "wiki/encyclopedia/raelism.md" >}})、より具体的にはラエリアンの宇宙論では、私たちが普通に言及ぶ宇宙は、無限の大きさとスケールで考えられています。境界のない無限の空間です。私たちが思う限りで宇宙は終わらず、私たちが想像する以上に大きく広がっています。無限の空間と言えます。それだけでなく、宇宙は複数のスケールで構成されています。私たちが知っている宇宙全体がさらに大きな存在の一部であるならば、その存在のスケールはより上位にあると言えます。最上位のスケールに対しても同じ類推が適用される可能性があります。実際、ラエリアンにとって、私たちはより小さな世界に住んでいるより大きな存在であり、それは亜原子粒子よりもさらに小さいスケールです。上と下は同じというヘルメスの言葉は、ラエリアンの神学の中で新たな次元を持ちます。より小さな存在とより大きな存在のスケールの関係こそがダビデの星の真の意味です。
 
-The interlaced Swastika within the Raëlian symbol of infinity represents cyclical nature of an infinite timeline. Combined together, Magen David representing the infinity of space, "as above, so below" and the Swastika representing the infinity of time are utlimately symbolizing the infity of time and space.
+[ラエリアンの無限の象徴]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})の中に絡み合うスワスティカは、無限の時間の周期性を表しています。空間の無限性を表すマゲン・ダビデ、「上と下は同じ」という考え方と、時間の無限性を表すスワスティカが組み合わさり、時間と空間の無限性を象徴しています。
 
-### Dive deeper
+### より深く掘り下げる
 
-If you want to learn more about what the Raëlian symbol of infinity means and what the Raëlian religion teaches, then you're in the right place as we at Wheel of Heaven research the very premises of Raëlism as the only existing embodiment of a system of thought that asserts that the Creation myth of Genesis AND the non-existence of an immaterial god as equally true.
+ラエリアンの無限の象徴が意味するものやラエリアンの宗教が教えることをもっと知りたい場合は、この場所がぴったりです。なぜなら、私たちの[Wheel of Heavenの研究]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})が、ジェネシスの創造神話と[非物質的な神の存在しないこと]({{< relref "wiki/encyclopedia/elohim.md" >}})を同じく真実と主張する思想体系であるラエリズムの根本を明らかにしているからです。[Wheel of Heavenとその前提についての私たちの紹介から始めましょう！]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})</br>この神秘的なシンボルの意味やその起源に触れるために。
 
-Start with [our introduction into Wheel of Heaven and its premises!]({{< relref "intro/at-a-glance/wheel-of-heaven.md" >}})</br>
+## 関連項目
+
+- [ウィキ › ラエリアンの無限の象徴]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})
+- [ウィキ › ラエリズム]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [ウィキ › ダビデの星]({{< relref "wiki/encyclopedia/star-of-david.md" >}})
+- [ウィキ › スワスティカ]({{< relref "wiki/encyclopedia/swastika.md" >}})
+
+## もっと読む
+
+- [序文 › 重要なポイント › 大いなる目覚め]({{< relref "intro/take-aways/the-great-awakening.md" >}})

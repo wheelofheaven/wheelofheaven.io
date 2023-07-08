@@ -1,34 +1,34 @@
 ---
-title: "Content log 03/23 🪵"
-description: "Content Log Entry 03/23: Six months since the launch of Wheel of Heaven knowledge repository website."
-excerpt: "Content Log Entry 03/23: Six months since the launch of Wheel of Heaven knowledge repository website."
+title: "内容日志 03/23 🪵"
+description: "内容日志记录 03/23：自从我们推出Wheel of Heaven知识库网站以来已经过去了六个月，这段时间一直都很辛苦。作为网站的主要内容创作者，我觉得开始一个内容日志来回顾发生的事情以及我在这段时间内的工作将会很有帮助。"
+excerpt: "内容日志记录 03/23：自从我们推出Wheel of Heaven知识库网站以来已经过去了六个月，这段时间一直都很辛苦。作为网站的主要内容创作者，我觉得开始一个内容日志来回顾发生的事情以及我在这段时间内的工作将会很有帮助。"
 date: 2023-03-20T00:00:00+00:00
 lastmod: 2023-03-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["content-log-03-23.jpg"]
-categories: ["Content log"]
-tags: ["knowledge-base", "dev-log", "wheel-of-heaven", "working-hypothesis", "ancient-aliens", "intelligent-design", "raëlism"]
+categories: ["内容日志"]
+tags: ["knowledge-base", "dev-log", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raëlism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-It has been six months since we launched the Wheel of Heaven Knowledge Base website, and it has been a lot of work ever since. As the primary content creator for the site, I thought it would be helpful to start a content log to recapitulate what has happened and what I have been working on during this time.
+自从我们推出Wheel of Heaven知识库网站以来已经过去了六个月，这段时间一直都很辛苦。作为网站的主要内容创作者，我觉得开始一个内容日志来回顾发生的事情以及我在这段时间内的工作将会很有帮助。
 
-In terms of website traffic, we have seen a steady increase since the launch, but the web site has been mostly off the radar for many as of yet. And rightfully so. I haven't focused a lot on increasing the reach of the web site, but rather building and writing up many of the skeleton content of the web site.
+在网站流量方面，自推出以来我们已经看到了稳定的增长，但是网站在很大程度上仍然处于人们尚未关注的状态。这是正常的。我没有花太多时间来扩大网站的影响力，而是更多地致力于构建和撰写网站的骨干内容。
 
-In terms of content, I have been working on and off on different key aspects of the web site. For the most part, it has been either extending and filling the Wiki or writing down the Introduction. Spending time on writing the Wiki really helps putting down all the ideas and circumstantial data that is always filling my head and keeps me up at night, whereas writing the Introduction is my actual priority, but the writing process there is much slower as I kept re-iterating the fundamental structure it should follow.
+就内容而言，我一直在不断地处理网站的不同关键方面。大部分时间要么是扩充和填充[维基]({{< relref "wiki/encyclopedia/_index.md" >}})，要么是撰写[介绍]({{< relref "intro/_index.md" >}})。花时间撰写维基真的有助于将我脑海中一直充斥的想法和细节数据都记录下来，这些想法常常使我夜不能寐，而编写介绍则是我实际的优先事项，但由于我不断重复介绍应该遵循的基本结构，因此写作过程更加缓慢。
 
-As of now, I settled for four high-level sections:
+目前，我将其分为四个高层次部分：
 
-- **At a glance**: That's where I want to put all the information needed for one to decide beforehand what the whole web site is all about wihtout. It is a sort of abstract or management summary for the web site and the hypothesis it is trying to explore. This section is perhaps finished up to 60% of what it should initially contain.
-- **Timeline**: This is the meat of the Introduction section. It presents a timeline based on the precessional World Ages where the first 6 World Ages represent the Biblical Days of Creation. The remaining 6 World Ages are supposed to explain the chronicles up to the present day culminating in the Age of Aquarius, the Golden Age of Heavenly Revelations. This part is still very alpha and the prose is only there for the first World Age, the Capricornian Age. The Age of Sagittarius is in the process of being written. So heads up there.
-- **Take aways**: This sectioContent Log Entry 1: Six Months Since the Launch of Wheel of Heaven Knowledge Base Websiten is supposed to explore the basic implications if the proposed narrative. This means that if the hypothesis would turn out to be more than a fanciful, quasi-fictional narration, what would the philosopical and cultural deductions look like. This section features a set of chapters, but their prose is still very placeholder-ish. The conclusions and its contents are still susceptible to change.
-- **See more**: See more is going to contain a variety of links and explanations on how to follow up. What to read up and where to go once the introduction has been read and digested. Where to go when one wants to look up primary resources for oneself. As a web knowledge repository, Wheel of Heaven strives to offer all of these resources. _See more_ therefore serves as a springboard to other parts of the web site such as the Wiki, the Resources section or even the blog (the one that you are reading right now).
+- [一瞥]({{<  relref "intro/at-a-glance/_index.md" >}})：这是我想要在网站正式开始之前放置所有必要信息的地方。它是网站的摘要或管理摘要，旨在解释网站的整体内容和探索的假设。这个部分可能已经完成了初始内容的60%左右。
+- [时间线]({{< relref "intro/timeline/_index.md" >}})：这是介绍部分的核心内容。它基于岁差世纪，呈现了前六个岁差时代，代表了《创世纪》中的创造之日。剩下的六个岁差时代解释了一直到现在的编年史，最终达到了宝瓶时代，天国启示的黄金时代。这部分目前还处于非常初级阶段，散文只有第一个岁差时代的内容，山羊座时代。射手座时代正在编写中。所以请拭目以待。
+- [要点]({{< relref "intro/take-aways/_index.md" >}})：这个部分将探讨所提出的故事背后的基本含义。这意味着如果这个假设不仅仅是一个幻想的、准虚构的叙述，那么哲学和文化推论会是什么样子。这个部分包括一系列章节，但它们的散文仍然非常临时。结论和内容仍然可能发生变化。
+- [了解更多]({{< relref "intro/see-more/_index.md" >}})：了解更多将包含各种链接和说明，以便在阅读和消化介绍之后继续学习。一旦基本内容已经构建和撰写完成，当有兴趣查找自己的一手资源时，应该去哪里。作为一个网络知识库，Wheel of Heaven力求提供所有这些资源。因此，“了解更多”可以作为跳板，进入网站的其他部分，如维基、资源部分甚至博客（你现在正在阅读的博客）。
 
-Aside from creating content, I have also been working on optimizing our website for search engines and improving our overall user experience. This has involved updating our meta descriptions and titles, improving our site speed, and adding new features like a search bar and related articles section. A lot of customization of the underlying basis has taken place. The web site is leveraging Hugo as a static site generator solution that builds all the static site resources at build time and are delivered onto a CDN that hosts the web site on the edge. This makes downtime less of a problem, and improves user experience by having more geo-aware load times.
+除了创建内容，我还在努力优化我们的网站，以便在搜索引擎中更好地展现，并改善整体用户体验。这包括更新我们的元描述和标题，改善网站速度，添加搜索栏和相关文章等新功能。对底层基础进行了很多定制。网站利用Hugo作为静态网站生成器解决方案，它在构建时生成所有静态网站资源，并交付到CDN（[Github Pages](https://pages.github.com/)）上，将网站托管在边缘节点上。这使得停机时间变得较少，并通过更多地域感知的加载时间提高用户体验。
 
-Looking ahead, I am excited to continue creating new and engaging content for our audience and exploring new ways to grow our community. I am also looking forward to seeing how our website evolves over time as I still have tons of ideas what could be potentially incorporated into the web site in a near future when the basic content has been laid out and written out.
+展望未来，我很兴奋地继续为我们的受众创作新的、引人入胜的内容，并探索新的增长方式，以发展[我们的社区](https://github.com/orgs/wheelofheaven/discussions)。我也期待着看到我们的网站随着时间的推移发展壮大，因为我还有很多想法，可能会在基本内容制定和撰写完成后不久加入到网站中。
 
-Overall, the past six months have been a learning experience and a time of growth for both myself and the Wheel of Heaven website. I am excited to see what the future holds and grateful for the opportunity to share our knowledge and insights with the world.
+总的来说，过去的六个月是一个学习的过程，也是我个人和Wheel of Heaven网站的成长时期。我对未来充满期待，并感谢有机会与世界分享我们的知识和见解。

@@ -41,16 +41,11 @@ h4:hover a {
 }
 
 .edit-page,
+.translation-notification,
 .last-modified {
   font-size: $font-size-sm;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
-}
-
-.translation-notification {
-  font-size: $font-size-sm;
-  margin-bottom: 0.25rem;
-  margin-right: 0.25rem;
 }
 
 @include media-breakpoint-up(md) {

@@ -37,8 +37,14 @@
 <div class="translation-notification">
   <a href="{{ $url }}" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-message-square"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    {{ .Params.translationcompletion }}
       {{ $translators := .Params.translatedby }}
-      {{ $completion := default .Params.translationcompletion (i18n "undefined") }}
+      {{ $completion := .Params.translationrate }}
+      {{ if $completion }}
+        {{ $completion = printf "%s%%" (printf "%v" $completion) }}
+      {{ else }}
+        {{ $completion = (i18n "undefined") }}
+      {{ end }}
       {{ $translatorText := "" }}
       {{ if $translators }}
         {{ range $index, $translator := $translators }}
@@ -49,7 +55,7 @@
         {{ end }}
       {{ end }}
       {{ if $translators }}
-        {{ i18n "translated-by" }} {{ $translatorText }}. {{ i18n "translation-rate" }}: {{ $completion }}%.
+        {{ i18n "translated-by" }} {{ $translatorText }}. {{ i18n "translation-rate" }}: {{ $completion }}.
       {{ else }}
         {{ if $completion }}
           {{ i18n "translation-rate" }}: {{ $completion }}.

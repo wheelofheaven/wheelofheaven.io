@@ -237,7 +237,7 @@ Una visión fascinante del diseño inusual de la Gran Pirámide proviene de la e
 
 La *Gran Pirámide* fue claramente diseñada y construida teniendo en cuenta el conocimiento astronómico, indicando los amaneceres y atardeceres equinocciales y marcando la progresión de la precesión[^3^]. Además, hay evidencia de simbolismo zodiacal dentro del *complejo de las pirámides de Giza*. La Esfinge, una figura leonina, mira directamente hacia el Este, directamente hacia el Sol naciente en los días equinocciales. Esta posición implica que la Esfinge mira hacia la constelación zodiacal que se esconde detrás del Sol en estos precisos momentos, ¿significa esto que es un guiño al signo del Zodiaco, Leo?
 
-{{< figura src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="Fig. 3 - Fotografía tomada en 1940 por P. Groves (no verificada)" >}}
+{{< figure src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="Fig. 3 - Fotografía tomada en 1940 por P. Groves (no verificada)" >}}
 
 Si bien esta interpretación puede parecer conjetural, cuanto más aprendemos sobre estascivilizaciones antiguas y su comprensión del cosmos, más plausible se vuelve. La ley de la *navaja de Occam* —que establece que no se deben multiplicar las entidades sin necesidad— sugiere que cuanto más factores congruentes encontremos en la construcción de estos edificios monumentales, más probable es que se haya aplicado este conocimiento astronómico altamente sofisticado universalmente.
 
@@ -296,5 +296,5 @@ La narrativa presentada aquí ha sido simplificada para facilitar su comprensió
 
 ## Leer más
 
-- [Intro › Línea de tiempo › Preambulo]({{< relref "intro/timeline/preamble.md" >}})
-- [Intro › Línea de tiempo › Era de Acuario]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+- [Intro › Cronología › Preambulo]({{< relref "intro/timeline/preamble.md" >}})
+- [Intro › Cronología › Era de Acuario]({{< relref "intro/timeline/age-of-aquarius.md" >}})

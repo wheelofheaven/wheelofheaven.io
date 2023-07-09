@@ -289,5 +289,5 @@ homepage: false
 
 ## Узнайте больше
 
-- [Введение › Хронология › Вступление]({{< relref "intro/timeline/preamble.md" >}})
+- [Введение › Хронология › Предисловие]({{< relref "intro/timeline/preamble.md" >}})
 - [Введение › Хронология › Эпоха Водолея]({{< relref "intro/timeline/age-of-aquarius.md" >}})

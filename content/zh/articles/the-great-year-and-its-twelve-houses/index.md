@@ -208,52 +208,52 @@ homepage: false
 
 这些古代文明及其深邃的宇宙理解的遗产继续向我们耳语其智慧，隐藏在神话的语言和古代建筑的石头中。当我们解码这些信息并理解其重要性时，我们可能会重新发现一个世界观，它描绘了一个更加联系、和谐和有节奏的宇宙，回响着岁差的复杂交响乐。这种理解可能会引导我们重新考虑自己在宇宙中的位置，不再是被剥离的观察者，而是参与者，在天体和宇宙时间的宏伟循环之中共舞。
 
-#### Zodiacal Constructions as Time Markers
+#### 十二宫建筑作为时间标志
 
-[Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}}), the study of how past civilizations understood phenomena in the sky and how they utilized this knowledge in their cultures, is a captivating blend of anthropology, astronomy, history, and archaeology. This discipline's foundation can be traced back to key figures like Joseph Norman Lockyer (1836–1920), who is renowned for his discovery of helium. As the founder and first editor of the influential journal *Nature*, he took an avid interest in astronomical alignments in ancient buildings, even penning *The Dawn of Astronomy - A Study of the Temple Worship and Mythology of the Ancient Egyptians (1894)*[^1^], one of the earliest archaeoastronomical works.
+考古天文学是研究古代文明如何理解天象以及他们如何将这些知识应用于他们的文化的一门引人入胜的学科，它涵盖了人类学、天文学、历史学和考古学的融合。这一学科的基础可以追溯到像约瑟夫·诺曼·洛奇耶（1836-1920）这样的重要人物，他以发现氦气而闻名。作为有影响力的期刊《自然》的创始人和首任编辑，他对古代建筑物中的天文对准线非常感兴趣，甚至还撰写了《黎明的天文学：古埃及庙宇崇拜和神话研究》（1894）[^1^]，这是早期考古天文学著作之一。
 
-When discussing archaeoastronomy, it is impossible to overlook the *Giza pyramid complex*—an iconic example of ancient constructions that reflect a deep understanding of celestial bodies. The pyramids mirror a non-zodiacal star constellation, and there's a statue known as the *Sphinx*, bearing a striking resemblance to Leo—the fifth astrological sign of the Zodiac, possibly denoting the [Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}}). The *Pyramid of Khufu* is of particular interest because of its ability to mark the day of an equinox. This feature is a testament to the extraordinary craftsmanship and scientific sophistication of the civilization that built it.
+在讨论考古天文学时，不得不提到吉萨金字塔群——它是古代建筑物的标志性例子，反映了对天体的深刻理解。这些金字塔呈现了一个非黄道十二宫星座的形象，而且有一尊名为“狮身人面像”的雕像，与黄道十二宫的第五个星座狮子座有着惊人的相似之处，可能标志着[狮子座时代]({{< relref "intro/timeline/age-of-leo.md" >}})。其中特别引人注目的是胡夫金字塔，它能够标记出一个黄道等昼夜的日子。这一特征证明了建造它的文明非凡的工艺和科学精湛程度。
 
-The *Pyramid of Khufu*, also known as the *Great Pyramid*, has a unique eight-sided structure, rather than the four sides typically associated with pyramids. This design enables the sun's light to *mark* the construction when the light comes from a direct, perpendicular direction towards a given side of the pyramid. Considering the *Pyramid of Khufu*'s precise alignment with the North, there are only two days in a year—the equinoctial days—when the pyramid can be *marked* as seemingly intended.
+胡夫金字塔，也被称为大金字塔，具有独特的八面结构，而不是通常与金字塔相关联的四面。这种设计使得太阳的光线能够在光线从金字塔的某一侧以直接、垂直的方式照射时“标记”建筑物。考虑到胡夫金字塔与北方的精确对齐，每年只有两天——等昼夜——金字塔可以被“标记”，看起来是按照既定意图。
 
-A fascinating insight into the unusual design of the Great Pyramid comes from J.P. Lepre's comprehensive work, *The Egyptian Pyramids: A Comprehensive, Illustrated Reference (1990)*[^2^]:
+对于胡夫金字塔设计的非凡之处，J.P. Lepre在他的著作《埃及金字塔：一本全面的图解参考书》（1990）中提供了有趣的见解[^2^]：
 
-> One very unusual feature of the Great Pyramid is a concavity of the core that makes the  monument  an  eight-sided  figure,  rather  than  four-sided  like  every  other Egyptian pyramid. That is to say, that its four  sides are hollowed in or indented along  their  central  lines, from  base  to  peak.  This  concavity  divides  each of  the apparent four sides in half, creating a very special and unusual eight-sided pyramid; and it is executed to such an extraordinary degree of precision as to enter the realm of the uncanny...
+> 胡夫金字塔非常特殊的一个特点是其核心具有凹面，使得整个纪念碑成为一个八面体，而不是其他埃及金字塔一般的四面体。也就是说，它的四个面从基座到顶端都中空或者凹陷。这个凹面将每个表面的四个边分为两半，创造了一个非常特殊和不寻常的八面体金字塔；而且其凹面的精确程度达到了不可思议的境地……
 
-The *Great Pyramid* was clearly designed and built with astronomical knowledge in mind, indicating equinoctial sunrises and sunsets and marking the progression of the precession[^3^]. Furthermore, there is evidence of Zodiac symbolism within the *Giza pyramid complex*. The Sphinx, a lion-like figure, faces due East, directly towards the rising Sun on equinoctial days. This position implies the Sphinx looks at the Zodiacal constellation hiding behind the Sun at these precise moments—does this mean it is a nod to the Zodiac sign Leo?
+胡夫金字塔显然是根据天文学知识进行设计和建造的，它标志着黄道等昼夜的日出和日落，标示岁差的进展[^3^]。此外，在吉萨金字塔群中存在着黄道十二宫的象征。人头狮身像这一狮子座的形象，面向东方，直接朝着等昼夜的日出方向。这个位置意味着人头狮身像在这些特定时刻背后隐藏着黄道星座——这是否意味着它是对狮子座的致意？
 
-{{< figure src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="Fig. 3 - Photograph taken in 1940 by P. Groves (unverified)" >}}
+{{< figure src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="图3 - 1940年P·格罗夫斯拍摄（未经证实）" >}}
 
-While this interpretation may seem conjectural, the more we learn about these ancient civilizations and their understanding of the cosmos, the more plausible it becomes. The law of *Occam's razor*—that entities should not be multiplied without necessity—suggests that the more congruent factors we find in the construction of these monumental buildings, the more likely it is that this highly sophisticated astronomical knowledge has been applied universally.
+虽然这种解释可能看似推测性的，但我们对这些古代文明及其对宇宙的理解了解得越多，它就变得越有可能。奥卡姆剃刀原理——不必要地增加实体的原则——表明，我们在构建这些巨大建筑物时发现的越多的一致因素，越有可能这种高度复杂的天文知识已经得到普遍应用。
 
-## Summing It Up
+## 总结
 
-The Great Year and its Twelve Houses have intriguing aspects that tie in closely with the Earth's three key motions, particularly the precession. This slow westward shift of the equinoxes along the plane of the ecliptic, resulting from the precession of the Earth's axis of rotation, causes the equinoxes to occur earlier each sidereal year. A complete precession cycle takes around `25,920 years`, marking the Great Year.
+巨大年和它的十二宫具有与地球的三个关键运动密切相关的引人入胜的特点，特别是岁差。这是由于地球自转轴的岁差而导致赤道点沿黄道平面向西缓慢移动，使得每个恒星年的等分点提前发生。一个完整的岁差周期约为`25,920年`，标志着巨大年的到来。
 
-This Great Year can be divided into twelve distinct months or World Ages, each lasting `2,160 years` and corresponding to one of the constellations on the ecliptic, specifically a Zodiac sign. From `1950 AD`, Earth and its inhabitants entered the Age of Aquarius, also referred to as the Aquarian Age or the [New Age]({{< relref "wiki/encyclopedia/golden-age.md" >}}). This understanding of World Ages seems to have persisted throughout history, encoded into folklore and monumental construction, which continues to inspire awe today.
+这个巨大年可以划分为十二个不同的月份或世界时代，每个时代持续`2,160年`，与黄道上的一个星座（具体是一个黄道十二宫的星座）相对应。从`公元1950年`开始，地球及其居民进入了水瓶座时代，也被称为水瓶时代或[新时代]({{< relref "wiki/encyclopedia/golden-age.md" >}})。这种对世界时代的理解似乎贯穿了整个历史，被编码到民间传说和宏伟建筑中，至今仍然令人敬畏。
 
-This understanding of the cosmos that's embedded in ancient structures such as the Giza pyramids implies a civilization far advanced for its time. This notion may not conform to the traditional narrative of human progress, but it increasingly aligns with the body of knowledge unearthed through archaeoastronomy. The advanced knowledge, as demonstrated by the construction techniques, and the remarkable understanding of celestial bodies, suggest the existence of a pre-flood civilization that had mastered the art of astronomical timekeeping.
+埃及吉萨金字塔等古代建筑所蕴含的宇宙理解意味着其所属文明在当时具有先进水平。这一观点可能与传统的人类进步叙事不符，但它与考古天文学揭示出的知识体系越来越一致。这种先进的知识，正如建筑技术所展示的，以及对天体的卓越理解，暗示着在洪水之前的文明已经掌握了天文时间测量的艺术。
 
-Astrological ages, as depicted in the Great Year and the Twelve Houses, provide a comprehensive chronology that has been utilized for millennia. These World Ages are not merely relics of the past, but they hold predictive power, serving as a celestial calendar of what's to come. The progression from one astrological age to the next signifies both an astronomical shift and a sociocultural transition. Each age carries its unique character, influencing the zeitgeist and the course of human development.
+在巨大年和十二宫中所描绘的占星时代提供了一个被应用了数千年的全面年表。这些世界时代不仅仅是过去的遗迹，它们具有预测力，作为未来的天体日历。从一个占星时代到另一个时代的转变意味着天文学上的转变和社会文化的转变。每个时代都具有其独特的特点，影响着时代精神和人类发展的进程。
 
-It's fascinating to consider that these civilizations, thousands of years in our past, possessed an understanding of time that we are only beginning to fully appreciate. They saw time not as linear but cyclical, marked by the celestial dance of stars and planets. It seems that they understood the inherent rhythms of the cosmos and our planet's place within it, a wisdom that they encoded into their greatest monuments.
+令人着迷的是，我们过去数千年的文明拥有了一种我们刚开始完全理解的时间观念。他们将时间看作是循环而不是线性的，由星体和行星的舞蹈所标记。似乎他们理解了宇宙的固有节奏以及我们的星球在其中的位置，这是一种智慧，他们将其编码到他们最伟大的纪念碑中。
 
-This glimpse into the past serves not only as a testament to the accomplishments of these ancient civilizations, but it also invites us to see the future in a new light. As we move further into the Age of Aquarius, we might find that the knowledge held by our ancestors can guide us in navigating the challenges and opportunities that lie ahead. After all, the ancients viewed the cosmos not as a vast, empty space, but as a grand celestial clock, a timeless guide inscribed with the wisdom of ages past, present, and future.
+这对过去的一瞥不仅证明了这些古代文明的成就，而且还邀请我们以新的视角看待未来。随着我们进一步进入水瓶座时代，我们可能会发现祖先所掌握的知识可以引导我们应对未来的挑战和机遇。毕竟，古人并不将宇宙视为一个广袤而空虚的空间，而是作为一个宏伟的天体时钟，一个刻有过去、现在和未来智慧的永恒指南。
 
-The narrative presented here has been simplified for ease of understanding, but each topic warrants deeper exploration. Future write-ups will delve more deeply into each aspect, shedding more light on our ancestors' relationship with the cosmos.
+这里所呈现的叙述为了易于理解已经简化，但每个主题都值得深入探索。未来的文章将更深入地探讨每个方面，进一步揭示我们祖先与宇宙的关系。
 
-[^1^]: [The Dawn of Astronomy - A Study of the Temple Worship and Mythology of the Ancient Egyptians (1894)](https://archive.org/details/in.ernet.dli.2015.216575)
-[^2^]: J.P. Lepre: The Egyptian Pyramids: A Comprehensive, Illustrated Reference (1990)
-[^3^]: [Progression of the Precession](#astronomical-watchmaking)
+[^1^]: [《黎明的天文学：古埃及庙宇崇拜和神话研究》（1894）](https://archive.org/details/in.ernet.dli.2015.216575)
+[^2^]: J.P. Lepre: 《埃及金字塔：一本全面的图解参考书》（1990）
+[^3^]: [岁差的进展](#astronomical-watchmaking)
 
-## See also
+## 参见
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [维基百科 › 大月](wiki/encyclopedia/great-month.md)
+- [维基百科 › 巨大年](wiki/encyclopedia/great-year.md)
+- [维基百科 › 岁差](wiki/encyclopedia/precession.md)
+- [维基百科 › 世界时代](wiki/encyclopedia/world-age.md)
 
-## Read more
+## 阅读更多
 
-- [Intro › Timeline › Preamble]({{< relref "intro/timeline/preamble.md" >}})
-- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+- [简介 › 时间线 › 序言](intro/timeline/preamble.md)
+- [简介 › 时间线 › 水瓶座时代](intro/timeline/age-of-aquarius.md)

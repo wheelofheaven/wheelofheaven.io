@@ -161,52 +161,78 @@ homepage: false
 
 Обращаясь к небесам, мы оказываемся на пороге космического сдвига, где созвездие Рыбы уступает место грядущему созвездию Водолея. Этот небесный переход молчаливо отмечает прошествие тысячелетий, величественные небесные часы вступают в новую эпоху. Это точный момент, где древнее и настоящее сходятся, предоставляя нам бесценный взгляд на космический сдвиг в новую эпоху. Новую эпоху, которая могла быть предсказана на протяжении тысячелетий, если бы существовало осознание и знание о прецессии оси.
 
-## The Cycle of Zodiacal Ages
+## Цикл Зодиакальных Эпох
 
-Our prior assumptions about celestial observations and their correlation with the slow progression of the precession of the equinoxes were not arbitrary. This understanding is deeply rooted in antiquity. This exploration propounds that the _Zodiac's genesis is intrinsically linked to precession_. The term [Zodiac]({{< relref "wiki/encyclopedia/zodiac.md" >}}) refers to a group of 12 constellations, whose mention transcends written history and cultural boundaries. Undeniably, the Zodiac and its derivative study, now known as astrology, have been of significance for thousands of years.
+Наши предыдущие предположения о наблюдениях за небесными явлениями и их связи с медленным прогрессом прецессии равноденствий не были произвольными. Это понимание имеет глубокие корни в древности. Это исследование утверждает, что _зарождение Зодиака тесно связано с прецессией_. Термин [Зодиак]({{< relref "wiki/encyclopedia/zodiac.md" >}}) относится к группе из 12 созвездий, упоминание о которых выходит за пределы письменной истории и культурных границ. Безусловно, Зодиак и его производная наука, известная теперь как астрология, имели значение на протяжении тысячелетий.
 
-The oldest known civilization, the Sumerians, had profound respect and knowledge of the Zodiac. Linking the precession to the Zodiac is controversial, as it implies comprehensive understanding of the former, requiring considerable scientific knowledge including the concept of Earth as a globe. To attribute such cosmological insights to the earliest known civilization would challenge the contemporary consensus on known history, casting doubt on the linear and gradual narrative of human progress. Such a perspective could provide a basis for alternative narratives.
+Самая древняя известная цивилизация, сумеры, обладала глубоким уважением и знаниями о Зодиаке. Связывание прецессии с Зодиаком является спорным, поскольку это предполагает всестороннее понимание первого, требующее значительных научных знаний, включая концепцию Земли как глобуса. Приписывать такие космологические идеи ранней известной цивилизации оказывает вызов современному согласию о известной истории, подвергает сомнению линейное и плавное повествование о прогрессе человечества. Такая перспектива может стать основой для альтернативных исторических представлений.
 
-Returning to the Zodiac, the term originates from Ancient Greek zōidiakòs kýklos (ζῳδιακός κύκλος) meaning _'cycle or circle of carved animals'[^zodiac]. However, in non-Indo-European languages, the Zodiac has different names. In Biblical Hebrew, the Zodiac is called **Mazzaroth** (מַזָּרוֹת), translating to *'garland of crowns'*[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations). The phrase *'mazel tov'* (מזל טוב‎), wishing *good luck* or more accurately *good fortune*, derives from *mazzaroth*. In Chinese logograms, the Zodiac is referred to as 獣帯, meaning *'animal belt'*.
+Вернувшись к Зодиаку, термин происходит от древнегреческого zōidiakòs kýklos (ζῳδιακός κύκλος), что означает _"цикл или круг вырезанных животных"[^zodiac]_. Однако на разных языках, не принадлежащих к индоевропейской группе, Зодиак имеет разные названия. Например, в библейском иврите Зодиак называется **Маззарот** (מַזָּרוֹת), что переводится как *'венок корон'*[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations). Фраза *'мазель тоф'* (מזל טוב‎), означающая *'удачу'* или точнее *'доброе счастье'*, происходит от слова *mazzaroth*. В китайской письменности Зодиак называется 獣帯, что означает *'ремень с животными'*.
 
-The Zodiac comprises `12 constellations`, twelve signs. These twelve constellations are part of the ecliptic. This is no mere coincidence, as it is precisely the ecliptic which aligns with the celestial equator on the equinoxes (refer [Cardinal days in a year and their importance](#cardinal-days-in-a-year-and-their-importance)).
+Зодиак включает `12 созвездий`, двенадцать знаков. Эти двенадцать созвездий являются частью эклиптики. И это не простое совпадение, так как именно эклиптика выравнивается с небесным экватором в равноденствиях (см. [Кардинальные дни в году и их значение](#cardinal-days-in-a-year-and-their-importance)).
 
-If following the ecliptic on the equinoxes is indeed the correct method to track the precession's progression, the Great Year, then the twelve constellations positioned along the ecliptic indeed represent the twelve houses or the twelve **Great Months** for a given **Great Year**. As we've established [earlier](#the-twelve-houses), dividing the Great Year into twelve houses makes each house last `2'160 years`.
+Если следовать эклиптике в равноденствиях, как правильному методу отслеживания прогресса прецессии, Великий год, то двенадцать созвездий, расположенных вдоль эклиптики, действительно представляют собой двенадцать домов или двенадцать **Великих Месяцев** в данном **Великом Году**. Как мы уже установили [ранее](#the-twelve-houses), разделение Великого Года на двенадцать домов делает каждый дом длительностью `2'160 лет`.
 
-One might wonder whether we have already transitioned into the [Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}}) or are still in the [Age of Pisces]({{< relref "intro/timeline/age-of-aquarius.md" >}}). To answer this, one must first understand when the precessional cycle initially began, or more specifically, when a given house precisely begins or ends. Unfortunately, this isn't easy to determine without significant assumptions. However, it is clear that as we progress through the early 21<sup>st</sup> century, the possibility of being in the new **Age of Aquarius** increases.
+Можно задаться вопросом, находимся ли мы уже в [Эпохе Водолея]({{< relref "intro/timeline/age-of-aquarius.md" >}}) или все еще в [Эпохе Рыб]({{< relref "intro/timeline/age-of-aquarius.md" >}}). Чтобы ответить на это, сначала нужно понять, когда начался прецессионный цикл, или более конкретно, когда точно начинается или заканчивается данный дом. К сожалению, это нелегко определить без существенных предположений. Однако очевидно, что по мере продвижения в начале XXI века возможность нахождения в новой **Эпохе Водолея** возрастает.
 
->  Aquarius is both a constellation and the twelfth of a circle known as a sign. Entering Aquarius means entering the period during which astronomers will see the sun rise in Aquarius on the day of the vernal equinox. The phenomenon of the precession of the equinoxes is involved in this fact. The equinoctial sun has been rising in the sign of Aquarius since 1950. In this interpretation, we are in the 'Golden Age' of prophecies. The equinoctial sun will not begin rising in the constellation of Aquarius until about the year 2700. In this interpretation, neither you nor I will see the prophesied 'Golden Age'.
+> Водолей является и созвездием, и двенадцатым сектором круга, известным как знак. Вступление в Водолея означает вступление в период, во время которого астрономы увидят восход Солнца в Водолее в день весеннего равноденствия. В этом факте участвала прецессия равноденствий. Солнце в равноденствие поднимается в знаке Водолея с 1950 года. В этой интерпретации мы находимся в "Золотом веке" пророчеств. Солнце в равноденствии не начнет восходить в созвездии Водолея примерно до 2700 года. В этой интерпретации ни вы, ни я не увидим пророчественного "Золотого века".
 >
-> -- Jean Sendy: Coming Of The Gods (1970), p. 69
+> -- Жан Сэнди: Пришествие Богов (1970), стр. 69
 
-The duration of a house could also be determined by the size of a given constellation in the sky. However, this would be a poorly defined assumption as the shapes of Zodiacal constellations vary greatly. Pisces, for instance, has a considerably large constellation, particularly in ecliptic length, whereas Aquarius is comparably short. There is a significant gap between these two constellations. It's important to note that the duration of a Great Month is 2'160 years, mimicking the twelfth section of its parent year cycle. For reasons that may be highlighted in future discussions, the year `1'950 AD` as the beginning of the Age of Aquarius appears to be our best assumption for now.
+Продолжительность дома также может быть определена размером данного созвездия на небе. Однако это будет плохо определенное предположение, так как формы зодиакальных созвездий сильно отличаются. Например, Рыбы имеют значительно большое созвездие, особенно по эклиптической длине, в то время как Водолей сравнительно короткий. Между этими двумя созвездиями существует значительный разрыв. Важно отметить, что продолжительность Великого Месяца составляет 2'160 лет, соответствуя двенадцатой части годового цикла. По причинам, которые могут быть подробно рассмотрены в дальнейших дискуссиях, год `1950 г.` в качестве начала Эпохи Водолея кажется наилучшим предположением на данный момент.
 
-Based on these assumptions, calculating the **Zodiacal Ages** backward by decrements of `2'160 years`, we arrive at the following table:
+Исходя из этих предположений, рассчитывая **Зодиакальные Эпохи** с отсчетом в обратном направлении на интервалы по `2'160 лет`, мы получаем следующую таблицу:
 
-| Zodiacal age              | Time span```
-| -                         | -                    | -                           |
-| :capricorn: Capricorn     | 21'810 -- 19'650 BC  | Sea goat, Mountain Goat     |
-| :sagittarius: Sagittarius | 19'650 -- 17'490 BC  | Archer, Centaur             |
-| :scorpius: Scorpio        | 17'490 -- 15'330 BC  | Eagle, Phoenix              |
-| :libra: Libra             | 15'330 -- 13'170 BC  | Scales, Balance             |
-| :virgo: Virgo             | 13'170 -- 11'010 BC  | Virgin, Grain Goddess       |
-| :leo: Leo                 | 11'010 -- 8'850 BC   | Lion, Nemean Lion           |
-| :cancer: Cancer           | 8'850 -- 6'690 BC    | Crab, Scarab, Turtle        |
-| :gemini: Gemini           | 6'690 -- 4'530 BC    | Twins, Dioscuri             |
-| :taurus: Taurus           | 4'530 -- 2'370 BC    | Bull, Calf, Bison           |
-| :aries: Aries             | 2'370 -- 210 BC      | Ram, Golden Fleece          |
-| :pisces: Pisces           | 210 BC -- 1'950 AD   | Fishes, Twin Fish           |
-| :aquarius: Aquarius       | 1'950 AD -- 4'110 AD | Water Bearer, Fountain      |
+| Зодиакальная эпоха     | Промежуток времени   |
+| -                      | -                    |
+| :capricorn: Козерог    | 21'810 -- 19'650 до н.э. |
+| :sagittarius: Стрелец | 19'650 -- 17'490 до н.э. |
+| :scorpius: Скорпион    | 17'490 -- 15'330 до н.э. |
+| :libra: Весы           | 15'330 -- 13'170 до н.э. |
+| :virgo: Дева           | 13'170 -- 11'010 до н.э. |
+| :leo: Лев              | 11'010 -- 8'850 до н.э.  |
+| :cancer: Рак           | 8'850 -- 6'690 до н.э.   |
+| :gemini: Близнецы      | 6'690 -- 4'530 до н.э.   |
+| :taurus: Телец         | 4'530 -- 2'370 до н.э.   |
+| :aries: Овен           | 2'370 -- 210 до н.э.     |
+| :pisces: Рыбы          | 210 до н.э. -- 1'950 г.  |
+| :aquarius: Водолей     | 1'950 -- 4'110 г. н.э.  |
 
-These denote the [World Ages]({{< relref "wiki/encyclopedia/world-age.md" >}}) of the past. Looking into the future, after Aquarius comes Capricorn, followed by Sagittarius, and so on. The relevance of these ages extends beyond simply knowing the hour of a day, the day of a year, or the age of ages. Understanding precession and tracking it through ecliptic constellations allows us to position ourselves within larger timescales. It is a conventional way of referring to vast time spans surpassing mere years. If there's anything worthy of measuring **World Ages**, employing the Earth's third key motion, enabling millennia-long time references, is surely the most intelligent approach.
+Это обозначает [Всемирные Эпохи]({{< relref "wiki/encyclopedia/world-age.md" >}}) в прошлом. Взглянув в будущее, после Водолея идет Козерог, затем Стрелец и так далее. Значение этих эпох превосходит просто знание часа дня, дня года или возраста веков. Понимание прецессии и отслеживание ее по зодиакальным созвездиям позволяет нам определить наше место в более широком временном масштабе. Это традиционный способ обозначать огромные временные промежутки, превышающие обычные годы. Если есть что-то достойное измерения **Всемирных Эпох**, использование третьего ключевого движения Земли, позволяющего ссылаться на тысячелетия, является наиболее разумным подходом.
 
-If our Earth's inhabitants employed this understanding in the past, could we now comprehend what they might have meant when referring to *world ages* or *aeons* of time?
+Если наши современники применяли такое понимание в прошлом, то можем ли мы сейчас понять, что имели в виду, когда говорили о *веках мира* или *эонах* времени?
 
-[^zodiac]: According to Merriam-Webster, the term zodiac has the following definitions: a) Zodiac refers to an imaginary band in the celestial sphere that is centered on the ecliptic, encompassing the apparent paths of all the planets. It is divided into 12 constellations or signs, with each sign considered to extend 30 degrees of longitude, and is commonly used in astrology. b) Zodiac can also refer to a figure that represents the signs of the zodiac and their corresponding symbols, often used in astrological charts or illustrations. See here for more: [zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
+[^zodiac]: Согласно Merriam-Webster, термин "зодиак" имеет следующие определения: a) Зодиак - это воображаемая полоса на небесной сфере, которая сосредоточена на эклиптике и охватывает видимые пути всех планет. Она делится на 12 созвездий или знаков, причем каждый знак считается простираяющимся на 30 градусов долготы, и широко используется в астрологии. b) Зодиак также может относиться к фигуре, представляющей знаки зодиака и их соответствующие символы, часто используемой в астрологических диаграммах или иллюстрациях. См. здесь для получения более подробной информации: [zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
 
-## Encoding
+## Кодирование
 
-Past civilizations have not only known about the **precession of the equinox**, but they have also endeavored to preserve this sacred knowledge. This preservation occurred in two notable forms: **language** and **constructions**. Both these forms served as mechanisms of encoding that have carried this ancient wisdom through ages, allowing it to transcend the ravages of time and cultural shifts.
+Прошлые цивилизации не только знали о **прецессии равноденствия**, но и стремились сохранить это святое знание. Это сохранение происходило в двух заметных формах: **язык** и **конструкции**. Обе эти формы служили механизмами кодирования, которые передавали это древнее мудрость сквозь века, позволяя ей преодолевать разрушительные последствия времени и культурных изменений.
+
+### Мельница Гамлета
+
+В 1969 году была опубликована революционная работа, которая предоставила сложное понимание закодированного представления о прецессии равноденствия. Авторы предположили, что это знание имеет свои корни в древней цивилизации, отличавшейся высоко развитым пониманием космоса. Эта цивилизация, по их утверждению, передала это знание последующим мировым цивилизациям, закодировав его в богатой мозаике мифических образов и повествований.
+
+Это замечательное исследование было проведено Джорджио де Сантиллана (1902–1974), профессором истории науки в престижном Массачусетском технологическом институте, и Хертой фон Дехенд (1915–2001), профессором истории науки, философии и этнологии в Университете Франкфурта. Вместе они написали книгу "Мельница Гамлета: Очерк, исследующий происхождение человеческого знания и его передачу через миф".
+
+Их книга предлагает революционную перспективу, подчеркивая целостную и взаимосвязанную природу архаической мысли и глубокую роль, которую играют небесные динамика в формировании их мировоззрения. Позвольте их словам прояснить:
+
+> "Прежде всего, нет такой системы, которую можно было бы представить в современных аналитических терминах. Нет ключа и нет принципов, из которых можно было бы вывести презентацию. Структура возникла в то время, когда не существовало никакой системы в нашем понимании, и было бы несправедливо искать ее. Вряд ли такая система могла существовать среди людей, которые запомнили все свои идеи. Ее можно рассматривать как чистую структуру чисел. С самого начала мы рассматривали это эссе как 'Искусство фуги'. Это исключает любую 'картину мира', что не может быть достаточно подчеркнуто. Любая попытка использовать диаграмму обязательно приведет к противоречиям. Это вопрос времени и ритма."
+>
+> "Тема имеет характер голограммы, то, что должно быть представлено в целом в разуме. Архаическая мысль является космологической прежде всего; она сталкивается с серьезными последствиями космоса, которые затрагивают позднюю классическую философию. Главное последствие - это глубокое осознание того, что структура космоса не только определена, но и сверхопределена таким образом, что не позволяет просто определить местоположение любого из ее агентов, будь то простая магия или астрология, силы, боги, числа, планетарные силы, платонические формы, аристотелевские сущности или стоические вещества. Физическая реальность здесь не может быть аналитической в декартовом смысле; она не может быть сведена к конкретности, даже если она не на своем месте. Бытие - это изменение, движение и ритм, неотразимый круг времени, момент "правильного момента", определенного небесами."
+>
+> -- Джорджио де Сантиллана, Херта фон Дехенд: Мельница Гамлета: Очерк, исследующий происхождение человеческого знанияи его передачу через миф (1969), с. 56, (свободный перевод с английского на русский)
+
+Сантиллана и фон Дехенд подвергают современное восприятие прецессии как тривиального небесного движения сомнению и вызывают великое видение, которое у наших предков было относительно этого цикла. Они утверждают, что прецессия для наших предков представляла собой величественное секулярное движение - опору, на которой они вешали свои глубокие мысли о космическом времени:
+
+> "Мы сегодня знаем Прецессию как плавное наклонение нашей планеты, причем незначительное. Как сказал солдат, потерянный в глубине джунглей, когда его друзья уткнулись в свои мечты: 'Когда я закрываю глаза, я вижу только заднюю часть мула. И даже когда не закрываю'. Это, так сказать, сегодняшнее видение реальности. Сегодня Прецессия хорошо установленный факт. Пространственно-временное континуум не влияет на нее. Теперь это только скучная сложность. Она потеряла значение для наших дел, в то время как раньше это было единственное величественное секулярное движение, которое наши предки могли иметь в виду, когда искали великий цикл, который мог повлиять на всю человечность. Но тогда наши предки были астрономами и астрологами. Они верили, что скольжение солнца по равноденственной точке влияет на структуру космоса и определяет последовательность мировых эпох под различными зодиакальными знаками. Они нашли большую опору, на которой развесили свои мысли о космическом времени, которое приводит все в судьбоносный порядок. Сегодня этот порядок исчез, подобно самой идее о космосе. Есть только история, которую счастливо определили как 'одна чертова вещь за другой'."
+
+> -- Джорджио де Сантиллана, Херта фон Дехенд: Мельница Гамлета: Очерк, исследующий происхождение человеческого знания и его передачу через миф (1969), с. 67-68, (свободный перевод с английского на русский)
+
+Авторы идут дальше и исследуют фундаментальное разделение между архаическим и современным способами интерпретации космоса. Они утверждают, что ключ к пониманию архаической мысли заключается в астрологии, космическом языке, который воплощал их глубокое чувство соответствий и детерминистских принципов:
+
+> "Наибольшая пропасть между архаическим мышлением и современным мышлением заключается в использовании астрологии. Под этим не понимается обычная или судебная астрология, которая снова стала модой и трендом среди невежественной публики, побегом от официальной науки, и для масс - еще одним видом черной магии с огромным престижем, но с принципами, также непонятными. Необходимо вернуться к архаическому времени, к мирозданию, полностью не подозревавшему о нашей науке и экспериментальном методе, на котором она основана, не осознававшему страшного искусства разделения, которое отличает верифицируемое от неверифицируемого. Это было время, богатое другими знаниями, которые позже были утеряны, которое искало другие принципы. Оно дало лингва франку прошлого. Его знание состояло из космических соответствий, которые находили свое доказательство и печать истины в определенном детерминизме, а точнее в сверхдетерминизме, подверженном силам, полностью не имеющим местоположения."
+
+> -- Джорджио де Сантиллана, Херта фон Дехенд: Мельница Гамлета: Очерк, исследующий происхождение человеческого знания и его передачу через миф (1969), с. 74, (свободный перевод с английского на русский)
 
 ### Hamlet's Mill
 

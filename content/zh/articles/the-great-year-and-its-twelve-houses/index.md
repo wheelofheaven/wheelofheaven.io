@@ -255,5 +255,5 @@ homepage: false
 
 ## 阅读更多
 
-- [简介 › 时间线 › 序言]({{< relref "intro/timeline/preamble.md" >}})
-- [简介 › 时间线 › 水瓶座时代]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+- [简介 › 年表 › 序言]({{< relref "intro/timeline/preamble.md" >}})
+- [简介 › 年表 › 水瓶座时代]({{< relref "intro/timeline/age-of-aquarius.md" >}})

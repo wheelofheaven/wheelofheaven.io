@@ -1,7 +1,7 @@
 ---
-title: "The Great Year and Its Twelve Houses"
-description: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
-excerpt: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
+title: "大年和十二宫"
+description: "除了地球的日循环和年循环，地球的第三个重要运动就是被称为大年的循环。它的周期，也被称为岁差，持续25,920年。将这个周期分为12个时代，每个时代持续2,160年，你将获得理解黄道作为时间标记的关键。这种知识是古老的，其残余如今被称为占星术。"
+excerpt: "除了地球的日循环和年循环，地球的第三个重要运动就是被称为大年的循环。它的周期，也被称为岁差，持续25,920年。将这个周期分为12个时代，每个时代持续2,160年，你将获得理解黄道作为时间标记的关键。这种知识是古老的，其残余如今被称为占星术。"
 date: 2023-07-07T00:00:00+00:00
 lastmod: 2023-07-07T00:00:00+00:00
 draft: false
@@ -14,79 +14,80 @@ pinned: false
 homepage: false
 ---
 
-{{< alert icon="👉" text="Disclaimer: This is a revisited and slightly reworked article taken from an unmaintained blog of Zara Zinsfuss, a main contributor of Wheel of Heaven. The original blog article can still be visited on his Gitlab Pages website: <a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>The Great Year and Its Twelve Houses | zara◇zinsfuss</a>" />}}
+{{< alert icon="👉" text="声明：本文是对Zara Zinsfuss的未维护博客的重新思考和略微改编。Zara Zinsfuss是Wheel of Heaven的主要贡献者之一。原始博客文章仍可在他的Gitlab Pages网站上访问：<a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>The Great Year and Its Twelve Houses | zara◇zinsfuss</a>" />}}
 
-## The Great Year
+## 大年
 
-Whenever we want to understand our place in the universe, we gaze into the deep night sky, losing ourselves in the myriad of stars within our sight. It seems that the cosmic activities unfolding above us make up a grand narrative, of which we, the inhabitants of planet Earth, are merely a subscene.
+每当我们想要理解我们在宇宙中的位置时，我们凝视深邃的夜空，在我们的视野中迷失在无数的星星中。似乎在我们上方展开的宇宙活动构成了一幅宏伟的叙事，我们地球居民仅是其中的一个场景。
 
-Thus, it's natural for any Earthly dweller to initiate inquiries about their location and significance in relation to the vast expanse of space and time.
+因此，对于任何地球居民来说，开始对他们在广袤的时空中的位置和意义进行探索是自然而然的。
 
-Our celestial understanding begins with acknowledging the **three key motions** of our planet Earth:
+我们对天体的理解始于承认地球的**三个重要运动**：
 
-1. Rotation around its axis
-2. Revolution around the Sun
-3. Precession of its axis
+1. 围绕自身轴的旋转
+2. 围绕太阳的公转
+3. 轴心的岁差
 
-The first two motions are intrinsically part of our daily life as we experience their effects in tangible ways. However, the third motion, which will be our primary focus, is less remembered despite its significance. All three motions exhibit recurrent patterns, repeating over time, forming cycles each with a specific duration or **period**.
+前两个运动在我们的日常生活中是固有的，我们通过切身体验它们的影响。然而，尽管其重要性，第三个运动却很容易被遗忘。这三个运动都表现出周期性的模式，随着时间的推移重复，形成具有特定持续时间或**周期**的循环。
 
-| Earthly Motion | Period (approx.) | Common name |
-| -              | -                | -           |
-| (1) Rotation   | 24 [h]           | Day / Night |
-| (2) Revolution | 365 [d]          | Year        |
-| (3) Precession | 26'000 [y]       | Great Year  |
+| 地球运动 | 周期（约）   | 常用名称   |
+| -        | -           | -         |
+| (1) 旋转 | 24小时     | 白天/黑夜 |
+| (2) 公转 | 365天      | 年         |
+| (3) 岁差 | 26,000年    | 大年       |
 
-The day-night cycle (1) is a result of the Earth's rotation and impacts life significantly. For practical purposes, we divide a day into two equal segments of `12 hours`, aligning with the [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm) that regulates wakefulness and sleep for many mammals, including humans.
+日夜循环（1）是地球自转的结果，对生命有着重大影响。为了实际目的，我们将一天分为两个相等的`12小时`段，与调节包括人类在内的许多哺乳动物的觉醒和睡眠的[昼夜节律](https://en.wikipedia.org/wiki/Circadian_rhythm)相一致。
 
-The second cycle, the year (2), is observable through the changing seasons of spring, summer, autumn, and winter, especially in higher and lower latitudes. We typically divide the solar year into twelve parts, or **months**, each approximately `30.5 days` long.
+第二个周期，一年（2），可以通过春夏秋冬的季节变化来观察，尤其是在高纬度和低纬度地区。我们通常将阳历年份分为十二个部分，或**月份**，每个月份约为`30.5天`。
 
-The lunar cycle, though not covered in detail here, is interesting to note. It occurs almost precisely 13 times in a year, with each **lunar month** lasting slightly over `28 days`. This divergence between lunar and solar years leads to interesting questions regarding our calendar system.
+虽然此处没有详细讨论月亮的循环，但需要注意的是，月亮几乎每年出现13次，每个**月相周期**略长于`28天`。这种农历年和阳历年之间的差异引发了关于我们的日历系统的有趣问题。
 
-The third cycle, lesser-known yet equally significant, is the Earth's **axial precession** or **precession of the equinoxes**. Known also as **the Great Year** (3), it takes between `25,772` and `25,920 years` to complete a full cycle.
+第三个循环，虽然不太为人所知，但同样重要，那就是地球的**岁差**或**黄道岁差**。它也被称为**大年**（3），一个完整的周期需要花费`25,772`到`25,920年`的时间。
 
-[Precession]({{< relref "wiki/encyclopedia/precession.md" >}}) is a complex motion, difficult to describe without visual aids. For context, to show that we're not making this up, let's look at [Merriam-Webster](https://www.merriam-webster.com/dictionary/precession) and how they define it the notion of precession:
+[岁差]({{< relref "wiki/encyclopedia/precession.md" >}})是一个复杂的运动，难以在没有视觉辅助的情况下描述。为了提供背景，让我们来看看[Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)对岁差的定义：
 
-> a comparatively slow gyration of the rotation axis of a spinning body about another line intersecting it so as to describe a cone[^merriam]
+> 某一旋转体的旋转轴相对于相交的另一条线进行相对较慢的回转，以描述一个圆锥[^merriam]
 
-In the case of planets such as Earth, one needs to specify that ones means the so-called precession of the equinoxes. Britannica defines the precession of the equinoxes as follows:
+对于像地球这样的行星，需要指明指的是所谓的黄道岁差。《大英百科全书》对黄道岁差的定义如下：
 
-> ... motion of the equinoxes along the ecliptic (the plane of Earth’s orbit) caused by the cyclic precession of Earth’s axis of rotation.[^britannica]
+> ... 平动是指地球的岁差沿着黄道（地球轨道的平面）的运动所引起的赤道点的运动。[^britannica]
 
-The following figure elucidates axial precession, depicting the Earth's rotation axis **gyrating** in a circular pattern:
+下图阐明了岁差，描绘了地球的旋转轴以循环方式**回转**的情况：
 
-{{< figure src="images/precession_schema.jpg" caption="Fig. 1 - Axial precession" >}}
+{{< figure src="images/precession_schema.jpg" caption="图1 - 岁差" >}}
 
-The direction of precession (circular arrow at the top) counteracts the Earth's rotational spin (circular arrows around the globe). These conflicting rotations produce a peculiar dance in our heavens. For an Earth-bound observer, this means the daily dance of the sky against the constellations counterpoints the slow waltz due to precession across its `25,920-year` cycle.
+岁差的方向（顶部的圆形箭头）与地球的自转（环绕地球的圆形箭头）相抵消。这些相互冲突的旋转在我们的天空中产生了独特的舞蹈。对于地球上的观察者来说，这意味着天空对星座的日常舞蹈与岁差引起的缓慢华尔兹相互交织，而岁差的周期为`25,920年`。
 
-The implications of this precession are immense and serve as the bedrock of our understanding of time and astrological ages. As we journey through the Great Year, the backdrop of the stars shifts gradually. This cosmic shift, though imperceptible within a human lifespan, has profound implications over thousands of years.
+岁差的影响是巨大的，并且它构成了我们对时间和占星时代的理解的基础。在我们度过大年的旅程中，星星的背景逐渐变化。这种宇宙的转变虽然在人类寿命内难以察觉，但在数千年的时间尺度上具有深远的影响。
 
-In the next section, we'll delve deeper into these ramifications, unravelling the astrological epochs that punctuate our celestial journey through the Great Year and their impact on our sociocultural evolution.
+在下一节中，我们将深入探讨这些影响，揭示穿插在我们通过大年的天体旅程中的占星时代及其对我们社会文化演变的影响。
 
-[^merriam]: Merriam-Webster is a reputable and widely recognized American publisher known for producing dictionaries and reference books. According to their definition, precession refers to the slow gyration of a spinning body's rotation axis around another intersecting line, creating a cone-like motion. It is characterized by a gradual rotation that forms a cone shape over time. See here for more: [precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
+[^merriam]: Merriam-Webster是一家知名的美国出版商，以出版词典和参考书籍而闻名。根据他们的定义，岁差指的是旋转体的旋转轴相对于相交的另一条线进行相对较慢的回转，创造出一个类似圆锥的运动。详情请参阅：[precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
 
-[^britannica]: The precession of the equinoxes refers to the cyclic motion of the equinox points along Earth's orbital plane caused by the gradual shift in Earth's axis of rotation, as explained by Britannica, a renowned and authoritative encyclopedia publisher that provides comprehensive and reliable information on a wide range of subjects. See here for more: [precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
+[^britannica]: 黄道岁差是指地球绕自身轴的渐进的旋转中，赤道点沿地球轨道平面的周期性移动。根据权威的百科全书《大英百科全书》的解释，岁差是由于地球自转轴逐渐移动而导致赤道点的周期性移动。详情请参阅：[precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
 
-## The Twelve Houses
+## 十二宫
 
-With the understanding of the [three key motions of the Earth](#the-great-year), we recognize that these celestial rhythms provide an intricate frame of reference that enables us to conceptualize and measure time. These cyclical motions share several intriguing characteristics:
+通过理解[地球的三个重要运动](#大年)，我们认识到这些天体律动提供了一个复杂的参照框架，使我们能够概念化和测量时间。这些周期性的运动具有几个引人入胜的特点：
 
-+ **Definitive periodicity**: These motions, untouched by human intervention, depict a recurrent cosmic choreography, repeating the same patterns in a rhythmic cycle that is bound to start again once completed.
-+ **Consistency of time elapse**: Because of this inherent periodicity, we can expect the exact same amount of time to elapse for a given cycle. This offers a degree of predictability and reliability unmatched by human-made systems.
-+ **Granularity**: The natural segmentation of a full cycle provides smaller, discrete units of time, enabling us to perceive time in digestible bites, rather than overwhelming, continuous stretches.
++ **明确的周期性**：这些运动未受人为干预，呈现出重复的宇宙编舞，以韵律循环的方式重复相同的模式，一旦完成就必然重新开始。
++ **时间流逝的一致性**：由于这种固有的周期性，我们可以期望在给定的周期中时间的流逝是完全相同的。这提供了一种预测性和可靠性，是人造系统所无法比拟的。
++ **时间的细粒度**：完整周期的自然分段提供了更小的离散时间单位，使我们能够以可消化的片段感知时间，而不是压倒性和连续的时间跨度。
 
-These harmonious cosmic rhythms hold a profound sense of mystery and grandeur that exceeds our typical human scale of perception. Thus, using these celestial motions as a time-keeping framework becomes intuitively appealing, particularly because all three motions exhibit intervals that complement each other extraordinarily well.
+这些和谐的宇宙律动蕴含着一种深刻的神秘感和宏伟感，超出了我们通常人类感知的尺度。因此，将这些天体运动作为一个时间测量框架具有直观吸引力，特别是因为这三个运动都具有相互补充的间隔。
 
-The day, a product of the Earth's rotation, becomes a manageable unit to count a year, which in turn, stemming from the Earth's revolution, offers a feasible measure to gauge the enormity of the Great Year, a result of precession.
+由地球的自转产生的一天成为一个可计数的单位，而由地球的公转产生的一年，则提供了一种切实可行的度量方法，用于衡量大年的巨大性。
 
-This interlocking of time scales gives rise to an intriguing pattern: the division of the rotation and revolution cycles into **12 units** each. This division, while seemingly arbitrary, has far-reaching implications when applied to the precession cycle or the **Great Year**.
+这种时间尺度的互锁引发了一个有趣的模式：将自转和公转周期分成**12个单位**。这种分割，虽然看似任意，但在应用于岁差周期或**大年**时具有深远的影响。
 
-Dividing the **Great Year** by twelve gives birth to a new time unit: the Great Month, each spanning a staggering `2,160 years`. This unit embodies a vast stretch of time, dwarfing our conventional year and providing a measure for time spans that cross the threshold of millennia.
+将**大年**分为十二等分，诞生了一个新的时间单位：大月，每个大月跨越惊人的`2,160年`。这个单位体现了一个巨大的时间跨度，使我们传统的年份相形见绌，并为跨越千年门槛的时间范围提供了一个度量。
 
-The concept of the [Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}}) offers a larger temporal framework that encompasses the rise and fall of civilizations, the evolution of cultures and ideas, and the progress of scientific understanding. It gives us a perspective on time that goes beyond our personal or even historical experience, reaching into a scale that we usually reserve for geological or astronomical events.
+[大月](#wiki/encyclopedia/great-month)的概念提供了一个更大的时间框架，涵盖了文明的兴衰、文化和思想的演进以及科学理解的进步。它让我们拥有了一个超越个人甚至历史经验的时间视角，进入到通常我们只用于地质或天文事件的尺度中。
 
-Just as the daily and annual cycles are integral to our understanding of time, the Great Month could prove to be an essential tool for understanding longer-term trends and cycles. As our knowledge of our own (ancient) history, the constitution of planet Earth, and astronomical patterns continues to grow, we may find that the concept of the Great Month helps us make sense of patterns and events that span thousands of years, providing a broader context for understanding our place in the cosmos.
+就像日常和年度周期对我们理解时间的重要性一样，大月可能成为理解长期趋势和周期的重要工具。随着我们对我们自己（古代的）历史、地球的构成和天文模式的认识不断增长，我们可能会发现大月的概念有助于我们理解跨越数千年的模式和事件，为我们在宇宙中的位置提供更广泛的背景。
 
-This broader framework of time, provided by the twelve houses of the Great Year, each a Great Month, enables us to comprehend vast stretches of time that would otherwise seem incomprehensible. It is a cosmic calendar that places our transient existence into a grand chronicle of the universe.
+由大年的十二个宫所提供的这种更广泛的时间框架，每个宫是一个大月，使我们能够理解那些本来似乎难以理解的广阔时间跨度。这是一个宇宙日历，将我们短暂的存在置于宇宙的宏伟编年史之中。
+
 
 ## Mapping the heavens into constellations
 

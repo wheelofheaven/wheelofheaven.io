@@ -88,60 +88,60 @@ homepage: false
 
 Эта более широкая система времени, предоставленная двенадцатью домами Великого Года, каждый из которых представляет Великий Месяц, позволяет нам охватить огромные временные промежутки, которые иначе кажутся непостижимыми. Это космический календарь, который помещает наше преходящее существование в великую хронику вселенной.
 
-## The Twelve Houses
+## Двенадцать Домов
 
-With the understanding of the [three key motions of the Earth](#the-great-year), we recognize that these celestial rhythms provide an intricate frame of reference that enables us to conceptualize and measure time. These cyclical motions share several intriguing characteristics:
+Понимая [три основных движения Земли](#the-great-year), мы признаем, что эти небесные ритмы создают сложную систему ориентировки, которая позволяет нам концептуализировать и измерять время. Эти циклические движения имеют несколько увлекательных характеристик:
 
-+ **Definitive periodicity**: These motions, untouched by human intervention, depict a recurrent cosmic choreography, repeating the same patterns in a rhythmic cycle that is bound to start again once completed.
-+ **Consistency of time elapse**: Because of this inherent periodicity, we can expect the exact same amount of time to elapse for a given cycle. This offers a degree of predictability and reliability unmatched by human-made systems.
-+ **Granularity**: The natural segmentation of a full cycle provides smaller, discrete units of time, enabling us to perceive time in digestible bites, rather than overwhelming, continuous stretches.
++ **Определенная периодичность**: Эти движения, не подверженные человеческому вмешательству, изображают повторяющуюся космическую хореографию, повторяющуюся в ритмическом цикле, который обязательно начинается заново после завершения.
++ **Постоянство временного отрезка**: Благодаря этой врожденной периодичности, мы можем ожидать, что точно такой же временной отрезок пройдет для данного цикла. Это предлагает степень предсказуемости и надежности, недостижимую для систем, созданных людьми.
++ **Мелкозернистость**: Естественное разделение полного цикла предоставляет более мелкие, дискретные единицы времени, позволяющие нам воспринимать время порциями, а не как непрерывные отрезки.
 
-These harmonious cosmic rhythms hold a profound sense of mystery and grandeur that exceeds our typical human scale of perception. Thus, using these celestial motions as a time-keeping framework becomes intuitively appealing, particularly because all three motions exhibit intervals that complement each other extraordinarily well.
+Эти гармоничные космические ритмы обладают глубоким чувством тайны и величия, превышающим нашу обычную человеческую перцепцию. Поэтому использование этих небесных движений в качестве системы отсчета времени становится интуитивно привлекательным, особенно потому, что все три движения обладают интервалами, идеально дополняющими друг друга.
 
-The day, a product of the Earth's rotation, becomes a manageable unit to count a year, which in turn, stemming from the Earth's revolution, offers a feasible measure to gauge the enormity of the Great Year, a result of precession.
+Сутки, являющиеся результатом вращения Земли, становятся управляемой единицей для подсчета года, который seinerseits, исходя из вращения Земли вокруг Солнца, предоставляет осуществимую меру для оценки грандиозности Великого Года, являющегося результатом прецессии.
 
-This interlocking of time scales gives rise to an intriguing pattern: the division of the rotation and revolution cycles into **12 units** each. This division, while seemingly arbitrary, has far-reaching implications when applied to the precession cycle or the **Great Year**.
+Это взаимосвязь временных масштабов приводит к интересному шаблону: деление циклов вращения и обращения на **12 единиц** каждый. Это деление, кажущееся произвольным, имеет далеко идущие последствия, когда оно применяется к циклу прецессии или **Великому Году**.
 
-Dividing the **Great Year** by twelve gives birth to a new time unit: the Great Month, each spanning a staggering `2,160 years`. This unit embodies a vast stretch of time, dwarfing our conventional year and providing a measure for time spans that cross the threshold of millennia.
+Разделение **Великого Года** на двенадцать дает возможность появления новой единицы времени: Великого Месяца, каждый из которых охватывает ошеломляющие `2 160 лет`. Эта единица воплощает огромный временной промежуток, превосходящий наш обычный год и предоставляющий меру для временных промежутков, превышающих тысячелетия.
 
-The concept of the [Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}}) offers a larger temporal framework that encompasses the rise and fall of civilizations, the evolution of cultures and ideas, and the progress of scientific understanding. It gives us a perspective on time that goes beyond our personal or even historical experience, reaching into a scale that we usually reserve for geological or astronomical events.
+Концепция [Великого Месяца]({{< relref "wiki/encyclopedia/great-month.md" >}}) предлагает более крупную временную рамку, охватывающую восхождение и падение цивилизаций, эволюцию культур и идей, а также прогресс научного понимания. Она дает нам перспективу времени, которая выходит за рамки нашего личного или даже исторического опыта, достигая масштабов, которые мы обычно ассоциируем с геологическими или астрономическими событиями.
 
-Just as the daily and annual cycles are integral to our understanding of time, the Great Month could prove to be an essential tool for understanding longer-term trends and cycles. As our knowledge of our own (ancient) history, the constitution of planet Earth, and astronomical patterns continues to grow, we may find that the concept of the Great Month helps us make sense of patterns and events that span thousands of years, providing a broader context for understanding our place in the cosmos.
+Точно так же, как ежедневные и ежегодные циклы являются неотъемлемой частью нашего понимания времени, Великий Месяц может оказаться важным инструментом для понимания долгосрочных тенденций и циклов. По мере роста наших знаний о нашей (древней) истории, устройстве планеты Земля и астрономических закономерностях, мы можем обнаружить, что концепция Великого Месяца помогает нам понять шаблоны и события, охватывающие тысячелетия, и предоставляет широкий контекст для понимания нашего места в космосе.
 
-This broader framework of time, provided by the twelve houses of the Great Year, each a Great Month, enables us to comprehend vast stretches of time that would otherwise seem incomprehensible. It is a cosmic calendar that places our transient existence into a grand chronicle of the universe.
+Эта более широкая система времени, предоставленная двенадцатью домами Великого Года, каждый из которых является Великим Месяцем, позволяет нам воспринимать огромные промежутки времени, которые иначе казались бы непостижимыми. Это космический календарь, который помещает наше преходящее существование в великую хронику вселенной.
 
-## Mapping the heavens into constellations
+## Отображение небес в созвездия
 
-As we continue our cosmic voyage, let's pause to consider the age-old human practice of Earthly stargazing and the crucial role it has played in our understanding of the universe. As highlighted in the introduction, humans across cultures and epochs have turned their gaze upwards to the celestial theater, seeking to comprehend their position amidst the glittering array of heavenly bodies. This shared fascination transcends cultures, continents, and millennia, connecting us with our ancestors in a shared quest to unravel the mysteries of the universe.
+Продолжая наше космическое путешествие, давайте на мгновение задумаемся о тысячелетней практике людей - земных наблюдений за звездами и о важной роли, которую она сыграла в нашем понимании вселенной. Как было отмечено во введении, люди разных культур и эпох обращали свой взор вверх к небесному театру, стремясь понять свое место среди блестящего множества небесных тел. Эта общая заинтересованность преодолевает культурные, континентальные и тысячелетние различия, связывая нас с нашими предками в общем поиске раскрытия тайн вселенной.
 
-Early humans not only marveled at the stars but came up with an ingenious solution to navigate this overwhelming cosmic map: grouping the multitude of visible stars into meaningful clusters known as **constellations**. This form of early science was not only practical but ingeniously symbolic, layering each cluster with a mythological tale. Through these storied shapes, abstract cosmic data took on a narrative quality, anchoring spatial patterns in the memorable tales of gods, monsters, and heroes. The storytelling aspect is arguably as crucial as the spatial one; it facilitated knowledge transmission across generations, allowing the wisdom of the past to enlighten the present.
+Ранние люди не только восхищались звездами, но и нашли изобретательное решение для ориентации на этой огромной космической карте: они объединили множество видимых звезд в значимые группировки, известные как **созвездия**. Эта форма ранней науки была не только практической, но и гениально символичной, каждую группировку связывали с мифологическим рассказом. Через эти мифические образы абстрактные космические данные приобретали характер повествования, привязывая пространственные узоры к запоминающимся историям богов, чудовищ и героев. Важность аспекта повествования нельзя недооценивать; это облегчало передачу знаний из поколения в поколение, позволяя мудрости прошлого просветлять настоящее.
 
-Armed with the ability to recognize these celestial patterns, humans could discern practical, actionable information, such as the timing of agricultural activities or navigation for long sea voyages. The constellations became our cosmic compass, guiding our way through the seasons and across vast bodies of water.
+Вооружившись способностью распознавать эти небесные узоры, люди могли обнаружить практическую и применимую информацию, такую как определение времени для сельскохозяйственных работ или навигация во время долгих морских путешествий. Созвездия стали нашим космическим компасом, направляющим наш путь сквозь сезоны и через огромные водные пространства.
 
-Yet, the stellar canvas is not static. As we just learned a few paragraphs earlier, the gradual progression of axial precession, despite its subtle nature, inexorably reshapes the constellations' arrangement in the night sky. This slow celestial dance, overlooked by casual observers, becomes apparent to those invested in careful, long-term celestial tracking. With axial precession taking approximately `25'920 years` for a full cycle, a shift of `1°` on the celestial sphere equates to a time span of `72 years`, roughly aligning with an average human lifetime. Remarkably, this `1°` shift is also closely proportional to the combined apparent diameter of the Sun and the Moon in our sky.
+Однако звездный холст не является статичным. Как мы узнали несколько абзацев ранее, постепенное движение осевой прецессии, несмотря на его незаметную природу, неизбежно перестраивает расположение созвездий на ночном небе. Этот медленный небесный танец, незамечаемый поверхностными наблюдателями, становится заметным для тех, кто внимательно следит за небом в течение долгого времени. Прецессия оси требует около `25 920 лет` для завершения полного цикла, а сдвиг на `1°` на небесной сфере соответствует временному промежутку в `72 года`, примерно соответствующему среднему человеческому сроку жизни. Замечательно, что этот сдвиг `1°` также тесно пропорционален комбинированному видимому диаметру Солнца и Луны на нашем небе.
 
-Such findings underscore the sheer complexity of observing and comprehending axial precession. Without efficient means for inter-generational persistence of empirical knowledge, the task becomes even more daunting. Yet, humanity's enduring curiosity and capacity for pattern recognition have allowed us to pierce this cosmic mystery, using nothing more than our naked eyes and the night sky as a canvas for our stories and mathematical explorations.
+Такие открытия подчеркивают сложность наблюдения и понимания осевой прецессии. Без эффективных средств для сохранения эмпирических знаний между поколениями, эта задача становится еще более сложной. Однако нескончаемое любопытство человечества и его способность к распознаванию закономерностей позволили нам проникнуть в эту космическую тайнну, используя лишь голые глаза и ночное небо в качестве холста для наших историй и математических исследований.
 
-## Marking Time: The Importance of Cardinal Days in a Year
+## Отметка времени: Важность кардинальных дней в году
 
-Before we continue our cosmic journey, it's crucial to focus on another distinctive aspect of Earth's annual journey around the Sun, influenced by the planet's [axial tilt](https://en.wikipedia.org/wiki/Axial_tilt) of `23.44°` in relation to its orbital plane. This tilt not only gives our planet its characteristic seasonal rhythm but also impacts how we perceive the Sun's light throughout the year.
+Прежде чем мы продолжим наше космическое путешествие, важно обратить внимание на еще один отличительный аспект годового пути Земли вокруг Солнца, обусловленный наклоном оси планеты [на угол в 23,44°](https://en.wikipedia.org/wiki/Axial_tilt) относительно орбитальной плоскости. Этот наклон не только придает нашей планете характерный сезонный ритм, но также влияет на то, как мы воспринимаем свет Солнца в течение года.
 
-Let's delve a bit deeper into these astronomical concepts. The **celestial equator** is the projection of the Earth's equator onto the sky, while the **ecliptic** is the apparent path the Sun traces in this celestial sphere due to Earth's revolution. The celestial equator and ecliptic intersect twice a year at two specific points, marking the **spring and autumnal equinoxes**. These equinoxes signify the moment when the duration of day and night is equal across the globe. The **spring equinox** (also known as the **vernal equinox**) typically occurs on the 20<sup>th</sup> of March, and the **autumnal equinox** around the 22<sup>nd</sup> of September.
+Давайте немного глубже вникнем в эти астрономические понятия. **Небесный экватор** - это проекция экватора Земли на небо, в то время как **эклиптика** - это видимый путь, по которому Солнце движется на этой небесной сфере вследствие вращения Земли. Небесный экватор и эклиптика пересекаются дважды в году в двух определенных точках, отмечая **весеннее и осеннее равноденствия**. Эти равноденствия означают момент, когда длительность дня и ночи одинакова по всему миру. **Весеннее равноденствие** (также известное как **весеннее равноденствие**) обычно происходит около 20-го марта, а **осеннее равноденствие** - около 22-го сентября.
 
-Conversely, the **summer and winter solstices** denote the moments when one hemisphere of the Earth experiences the longest day or longest night of the year, respectively. The **summer solstice** generally falls on the 21<sup>st</sup> of June, while the **winter solstice** occurs around the 21<sup>st</sup> of December.
+Соответственно, **летнее и зимнее солнцестояния** обозначают моменты, когда одно полушарие Земли испытывает самый длинный день или самую длинную ночь в году. **Летнее солнцестояние** обычно приходится на 21-е июня, в то время как **зимнее солнцестояние** происходит около 21-го декабря.
 
-These equinoxes and solstices - the **cardinal days** - are considered pivotal astronomical milestones in our calendar, marking the start of each season.
+Эти равноденствия и солнцестояния - **кардинальные дни** - считаются ключевыми астрономическими вехами в нашем календаре, отмечающими начало каждого сезона.
 
-| Cardinality         | Day in a year                  | Perceptibility                           |
-| -                   | -                              | -                                        |
-| **Vernal equinox**  | ~ 20<sup>th</sup> of March     | Day and night of equal length            |
-| **Summer solstice** | ~ 21<sup>st</sup> of June      | Longest day in the Northern Hemisphere    |
-| **Autumn equinox**  | ~ 22<sup>nd</sup> of September | Day and night of equal length            |
-| **Winter solstice** | ~ 21<sup>st</sup> of December  | Longest night in the Northern Hemisphere  |
+| Кардинальный день      | День в году                     | Заметность                              |
+| -                      | -                               | -                                       |
+| **Весеннее равноденствие** | ~ 20-е марта                   | Равная продолжительность дня и ночи     |
+| **Летнее солнцестояние** | ~ 21-е июня                     | Самый длинный день в северном полушарии |
+| **Осеннее равноденствие** | ~ 22-е сентября                 | Равная продолжительность дня и ночи     |
+| **Зимнее солнцестояние** | ~ 21-е декабря                  | Самая длинная ночь в северном полушарии |
 
-Bear in mind that an equinox or solstice represents a specific moment in time when the **celestial equator** aligns with the **ecliptic**, not an entire day. Another way to define an equinox is the moment when the visible Sun's center is directly over the Earth's equator.
+Следует отметить, что равноденствие или солнцестояние представляет собой конкретный момент во времени, когда **небесный экватор** совпадает с **эклиптикой**, а не весь день. Еще один способ определить равноденствие - это момент, когда центр видимого Солнца находится непосредственно над экватором Земли.
 
-Viewing Earth as a grand celestial clockwork, the cardinal days can be seen as markers for the **four quadrants** on a clock face. In essence, if we were to pick a moment to compare celestial measurements, the cardinal days, particularly the **equinoxes**, would be the most desirable due to their globally observable characteristics.
+Рассматривая Землю как грандиозный небесный механизм, кардинальные дни можно рассматривать как метки для **четырех четвертей** на циферблате часов. В сущности, если бы мы выбрали момент для сравнения небесных измерений, то кардинальные дни, особенно **равноденствия**, были бы наиболее желательными благодаря их всемирно наблюдаемым характеристикам.
 
 ## Astronomical watchmaking
 

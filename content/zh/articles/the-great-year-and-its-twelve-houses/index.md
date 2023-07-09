@@ -248,12 +248,12 @@ homepage: false
 
 ## 参见
 
-- [维基百科 › 大月](wiki/encyclopedia/great-month.md)
-- [维基百科 › 巨大年](wiki/encyclopedia/great-year.md)
-- [维基百科 › 岁差](wiki/encyclopedia/precession.md)
-- [维基百科 › 世界时代](wiki/encyclopedia/world-age.md)
+- [维基百科 › 大月]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [维基百科 › 巨大年]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [维基百科 › 岁差]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [维基百科 › 世界时代]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
 ## 阅读更多
 
-- [简介 › 时间线 › 序言](intro/timeline/preamble.md)
-- [简介 › 时间线 › 水瓶座时代](intro/timeline/age-of-aquarius.md)
+- [简介 › 时间线 › 序言]({{< relref "intro/timeline/preamble.md" >}})
+- [简介 › 时间线 › 水瓶座时代]({{< relref "intro/timeline/age-of-aquarius.md" >}})

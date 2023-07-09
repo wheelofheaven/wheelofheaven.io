@@ -109,125 +109,104 @@ homepage: false
 
 将地球视为一个宏伟的天体钟表，基准日可以被看作钟面上的**四个象限**的标记。实际上，如果我们要选择一个时刻来进行天体测量的比较，基准日，特别是**春分**，由于其全球可观测的特点，将是最理想的选择。
 
-## Marking Time: The Importance of Cardinal Days in a Year
+## 天文制表术
 
-Before we continue our cosmic journey, it's crucial to focus on another distinctive aspect of Earth's annual journey around the Sun, influenced by the planet's [axial tilt](https://en.wikipedia.org/wiki/Axial_tilt) of `23.44°` in relation to its orbital plane. This tilt not only gives our planet its characteristic seasonal rhythm but also impacts how we perceive the Sun's light throughout the year.
+航行地球三个关键运动的错综复杂舞姿——其中两个呈快速循环——是一项艰巨的任务，尤其是在试图辨别第三个运动的缓慢而庄重的步伐——**岁差**——时更是如此。岁差的缓慢而庄严的进展要求观察者每年选定一个特定的时刻进行恒星观察，类似于机械腕表内不同的机械构件协同工作以准确展现时间。就像腕表采用一个时间参考点，通常是`0`或`12点钟`，大年也需要一个界定的参考点。
 
-Let's delve a bit deeper into these astronomical concepts. The **celestial equator** is the projection of the Earth's equator onto the sky, while the **ecliptic** is the apparent path the Sun traces in this celestial sphere due to Earth's revolution. The celestial equator and ecliptic intersect twice a year at two specific points, marking the **spring and autumnal equinoxes**. These equinoxes signify the moment when the duration of day and night is equal across the globe. The **spring equinox** (also known as the **vernal equinox**) typically occurs on the 20<sup>th</sup> of March, and the **autumnal equinox** around the 22<sup>nd</sup> of September.
+为了构建我们的天文时间装置模型，我们需要考虑特定的参考点，即：
 
-Conversely, the **summer and winter solstices** denote the moments when one hemisphere of the Earth experiences the longest day or longest night of the year, respectively. The **summer solstice** generally falls on the 21<sup>st</sup> of June, while the **winter solstice** occurs around the 21<sup>st</sup> of December.
++ **第一个运动[自转]**：日出，标志着新的一天的开始
++ **第二个运动[公转]**：春分，标志着新一轮季节的到来
++ **地理参考点**：东方，太阳每天升起的方向
 
-These equinoxes and solstices - the **cardinal days** - are considered pivotal astronomical milestones in our calendar, marking the start of each season.
+通过利用这些合理的参数来确定我们的“零点”，我们现在可以观察天上的天文图案——星星或星座——在**大年**的背景下展开。
 
-| Cardinality         | Day in a year                  | Perceptibility                           |
-| -                   | -                              | -                                        |
-| **Vernal equinox**  | ~ 20<sup>th</sup> of March     | Day and night of equal length            |
-| **Summer solstice** | ~ 21<sup>st</sup> of June      | Longest day in the Northern Hemisphere    |
-| **Autumn equinox**  | ~ 22<sup>nd</sup> of September | Day and night of equal length            |
-| **Winter solstice** | ~ 21<sup>st</sup> of December  | Longest night in the Northern Hemisphere  |
+那么，我们可能会想知道，在春分时节，什么星座将装点着黎明的天空，与太阳一同由东方升起，在**我们当前的时代**？
 
-Bear in mind that an equinox or solstice represents a specific moment in time when the **celestial equator** aligns with the **ecliptic**, not an entire day. Another way to define an equinox is the moment when the visible Sun's center is directly over the Earth's equator.
+{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="图2 - 2020年3月20日春分时节，由Stellarium拍摄于东方" >}}
 
-Viewing Earth as a grand celestial clockwork, the cardinal days can be seen as markers for the **four quadrants** on a clock face. In essence, if we were to pick a moment to compare celestial measurements, the cardinal days, particularly the **equinoxes**, would be the most desirable due to their globally observable characteristics.
+当我们仰望天空时，我们发现自己站在宇宙变革的门槛上，双鱼座正在让位给即将到来的水瓶座。这个天上的过渡无声地标志着千年的流逝，一座宏伟的天体时钟迈入新的时代。这正是古代与现在交汇的时刻，为我们提供了宝贵的一瞥，窥见宇宙进入新时代的变革。一个新时代，如果人们对于岁差的认知和知识存在，数千年来本可以轻易预测。
 
-## Astronomical watchmaking
+## 十二宫时代的循环
 
-Navigating the intricate choreography of Earth's three key motions - two of which present a rapid periodicity - is a demanding task, particularly when trying to discern the glacial pace of the third motion, the **precession**. Its slow, stately progression requires the observer to select a specific moment each year for stellar observation, akin to the interplay of distinct mechanisms within a mechanical wristwatch that work in harmony to accurately portray time. Just as a wristwatch employs a time reference, typically `0` or `12 o'clock`, the Great Year also calls for a defining point of reference.
+我们之前对天文观测及其与岁差的缓慢进程的相关性的假设并不是随意的。这种理解深深根植于古代。这一探索认为，_黄道带的起源与岁差密切相关_。"黄道带"一词指的是一个由12个星座组成的群体，它的提及超越了书面历史和文化界限。毫无疑问，黄道带及其派生的研究，现在被称为占星学，在几千年的时间里一直具有重要意义。
 
-To construct our model of an astronomical timepiece, we need to consider specific reference points, namely:
+最古老的已知文明——苏美尔文明——对黄道带拥有深刻的尊重和了解。将岁差与黄道带联系起来是有争议的，因为这意味着对前者有全面的理解，需要相当的科学知识，包括将地球视为一个球体的概念。将这样的宇宙观察洞察力归功于已知历史上最早的文明，将对已知历史的当代共识提出质疑，对人类进步的线性和渐进叙事提出质疑。这样的观点可以为替代叙事提供基础。
 
-+ **First motion [rotation]**: Sunrise, which heralds the start of a new day
-+ **Second motion [revolution]**: Spring Equinox, marking the arrival of a new cycle of seasons
-+ **Geographical point of reference**: Due East, the direction from which the Sun makes its daily ascent
+回到黄道带，该词源于古希腊语ζῳδιακός κύκλος，意为“雕刻动物的循环或圈子”[^zodiac]。然而，在非印欧语言中，黄道带有不同的名称。在圣经希伯来语中，黄道带被称为**马蔵**（מַזָּרוֹת），翻译为“花冠之环”[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations)。短语“mazel tov”（מזל טוב‎）表示“好运”或更准确地说是“好运气”，源自“mazzaroth”。在中文的象形文字中，黄道带被称为“兽带”，意为“动物的带子”。
 
-By leveraging these sensible parameters to establish our 'zero' point, we can now observe the celestial tapestry – the stars or constellations – unfolding against the backdrop of the **Great Year**.
+黄道带包括了`12个星座`，即十二个星座。这十二个星座是黄道带的一部分。这绝非巧合，因为恰恰是黄道带在春分和秋分（参见[一年中的基本日和其重要性](#cardinal-days-in-a-year-and-their-importance)）时与天球赤道对齐。
 
-One might then wonder, what constellation graces the pre-dawn sky on the spring equinox, rising in unison with the Sun due east, **in our current era**?
+如果按照黄道带在春分和秋分时节的路径来追踪岁差的进展，即大年，那么沿着黄道带排列的十二个星座确实代表了给定大年中的十二个宫位或十二个**大月份**。正如我们之前所确定的（参见[十二宫](#the-twelve-houses)），将大年分为十二个宫，每个宫持续`2,160年`。
 
-{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="Fig. 2 - Vernal equinox on the 20<sup>th</sup> of March 2020 due east, taken with Stellarium" >}}
+人们可能会想知道我们是否已经进入了[宝瓶时代]({{< relref "intro/timeline/age-of-aquarius.md" >}})还是仍处于[双鱼时代]({{< relref "intro/timeline/age-of-aquarius.md" >}})。要回答这个问题，首先必须了解岁差周期最初开始的时间，或者更具体地说，给定宫位的确切起点或终点。不幸的是，这并不容易确定，需要做出重大的假设。然而，很明显，随着我们进入21世纪初，进入新的**宝瓶时代**的可能性增加了。
 
-As we look to the heavens, we find ourselves at the threshold of a cosmic shift, where the constellation of Pisces is giving way to the upcoming constellation of Aquarius. This celestial transition silently marks the passage of millennia, a grand celestial clock advancing into a new age. This is the precise moment where the ancient and the current converge, providing us with an invaluable glimpse into the cosmic shift into a new age. A new age that could have been easily predicted for millenia if the awareness and knowledge about axial precession were given.
-
-## The Cycle of Zodiacal Ages
-
-Our prior assumptions about celestial observations and their correlation with the slow progression of the precession of the equinoxes were not arbitrary. This understanding is deeply rooted in antiquity. This exploration propounds that the _Zodiac's genesis is intrinsically linked to precession_. The term [Zodiac]({{< relref "wiki/encyclopedia/zodiac.md" >}}) refers to a group of 12 constellations, whose mention transcends written history and cultural boundaries. Undeniably, the Zodiac and its derivative study, now known as astrology, have been of significance for thousands of years.
-
-The oldest known civilization, the Sumerians, had profound respect and knowledge of the Zodiac. Linking the precession to the Zodiac is controversial, as it implies comprehensive understanding of the former, requiring considerable scientific knowledge including the concept of Earth as a globe. To attribute such cosmological insights to the earliest known civilization would challenge the contemporary consensus on known history, casting doubt on the linear and gradual narrative of human progress. Such a perspective could provide a basis for alternative narratives.
-
-Returning to the Zodiac, the term originates from Ancient Greek zōidiakòs kýklos (ζῳδιακός κύκλος) meaning _'cycle or circle of carved animals'[^zodiac]. However, in non-Indo-European languages, the Zodiac has different names. In Biblical Hebrew, the Zodiac is called **Mazzaroth** (מַזָּרוֹת), translating to *'garland of crowns'*[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations). The phrase *'mazel tov'* (מזל טוב‎), wishing *good luck* or more accurately *good fortune*, derives from *mazzaroth*. In Chinese logograms, the Zodiac is referred to as 獣帯, meaning *'animal belt'*.
-
-The Zodiac comprises `12 constellations`, twelve signs. These twelve constellations are part of the ecliptic. This is no mere coincidence, as it is precisely the ecliptic which aligns with the celestial equator on the equinoxes (refer [Cardinal days in a year and their importance](#cardinal-days-in-a-year-and-their-importance)).
-
-If following the ecliptic on the equinoxes is indeed the correct method to track the precession's progression, the Great Year, then the twelve constellations positioned along the ecliptic indeed represent the twelve houses or the twelve **Great Months** for a given **Great Year**. As we've established [earlier](#the-twelve-houses), dividing the Great Year into twelve houses makes each house last `2'160 years`.
-
-One might wonder whether we have already transitioned into the [Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}}) or are still in the [Age of Pisces]({{< relref "intro/timeline/age-of-aquarius.md" >}}). To answer this, one must first understand when the precessional cycle initially began, or more specifically, when a given house precisely begins or ends. Unfortunately, this isn't easy to determine without significant assumptions. However, it is clear that as we progress through the early 21<sup>st</sup> century, the possibility of being in the new **Age of Aquarius** increases.
-
->  Aquarius is both a constellation and the twelfth of a circle known as a sign. Entering Aquarius means entering the period during which astronomers will see the sun rise in Aquarius on the day of the vernal equinox. The phenomenon of the precession of the equinoxes is involved in this fact. The equinoctial sun has been rising in the sign of Aquarius since 1950. In this interpretation, we are in the 'Golden Age' of prophecies. The equinoctial sun will not begin rising in the constellation of Aquarius until about the year 2700. In this interpretation, neither you nor I will see the prophesied 'Golden Age'.
+> 水瓶座既是一个星座，也是一个被称为一个星座的十二分之一的圆周。进入水瓶座意味着进入天文学家将在春分日看到太阳升起于水瓶座的时期。这一事实涉及到春分点的岁差现象。自1950年以来，春分日的太阳一直升起在水瓶座。根据这种解释，我们正处于预言的“黄金时代”。直到大约公元2700年，春分日的太阳才会开始升起在水瓶座的星座中。根据这种解释，无论你还是我都不会见到被预言的“黄金时代”。
 >
-> -- Jean Sendy: Coming Of The Gods (1970), p. 69
+> —— 让·桑迪（Jean Sendy）：《上帝的来临》（1970年），第69页, （免费从英文翻译成中文）
 
-The duration of a house could also be determined by the size of a given constellation in the sky. However, this would be a poorly defined assumption as the shapes of Zodiacal constellations vary greatly. Pisces, for instance, has a considerably large constellation, particularly in ecliptic length, whereas Aquarius is comparably short. There is a significant gap between these two constellations. It's important to note that the duration of a Great Month is 2'160 years, mimicking the twelfth section of its parent year cycle. For reasons that may be highlighted in future discussions, the year `1'950 AD` as the beginning of the Age of Aquarius appears to be our best assumption for now.
+宫位的持续时间也可以由天空中给定星座的大小来确定。然而，这将是一个模糊的假设，因为黄道星座的形状差异很大。例如，双鱼座的星座长度相当大，特别是在黄道长度上，而水瓶座则相对较短。这两个星座之间存在着显著的差距。需要注意的是，大月份的持续时间为2,160年，模仿了其父年周期的第十二部分。根据可能在未来讨论中突出的原因，公元前1950年被认为是宝瓶时代开始的最佳假设。
 
-Based on these assumptions, calculating the **Zodiacal Ages** backward by decrements of `2'160 years`, we arrive at the following table:
+基于这些假设，通过以`2,160年`的间隔计算**黄道时代**的时间，我们得到以下表格：
 
-| Zodiacal age              | Time span```
-| -                         | -                    | -                           |
-| :capricorn: Capricorn     | 21'810 -- 19'650 BC  | Sea goat, Mountain Goat     |
-| :sagittarius: Sagittarius | 19'650 -- 17'490 BC  | Archer, Centaur             |
-| :scorpius: Scorpio        | 17'490 -- 15'330 BC  | Eagle, Phoenix              |
-| :libra: Libra             | 15'330 -- 13'170 BC  | Scales, Balance             |
-| :virgo: Virgo             | 13'170 -- 11'010 BC  | Virgin, Grain Goddess       |
-| :leo: Leo                 | 11'010 -- 8'850 BC   | Lion, Nemean Lion           |
-| :cancer: Cancer           | 8'850 -- 6'690 BC    | Crab, Scarab, Turtle        |
-| :gemini: Gemini           | 6'690 -- 4'530 BC    | Twins, Dioscuri             |
-| :taurus: Taurus           | 4'530 -- 2'370 BC    | Bull, Calf, Bison           |
-| :aries: Aries             | 2'370 -- 210 BC      | Ram, Golden Fleece          |
-| :pisces: Pisces           | 210 BC -- 1'950 AD   | Fishes, Twin Fish           |
-| :aquarius: Aquarius       | 1'950 AD -- 4'110 AD | Water Bearer, Fountain      |
+| 黄道时代                  | 时间范围                     |
+| -                         | -                            |
+| :capricorn: 魔羯座        | 公元前21,810年 — 公元前19,650年 |
+| :sagittarius: 射手座      | 公元前19,650年 — 公元前17,490年 |
+| :scorpius: 天蝎座         | 公元前17,490年 — 公元前15,330年 |
+| :libra: 天秤座            | 公元前15,330年 — 公元前13,170年 |
+| :virgo: 处女座            | 公元前13,170年 — 公元前11,010年 |
+| :leo: 狮子座              | 公元前11,010年 — 公元前8,850年  |
+| :cancer: 巨蟹座           | 公元前8,850年 — 公元前6,690年   |
+| :gemini: 双子座           | 公元前6,690年 — 公元前4,530年   |
+| :taurus: 金牛座           | 公元前4,530年 — 公元前2,370年   |
+| :aries: 白羊座            | 公元前2,370年 — 公元前210年    |
+| :pisces: 双鱼座           | 公元前210年 — 公元1950年       |
+| :aquarius: 水瓶座         | 公元1950年 — 公元4110年        |
 
-These denote the [World Ages]({{< relref "wiki/encyclopedia/world-age.md" >}}) of the past. Looking into the future, after Aquarius comes Capricorn, followed by Sagittarius, and so on. The relevance of these ages extends beyond simply knowing the hour of a day, the day of a year, or the age of ages. Understanding precession and tracking it through ecliptic constellations allows us to position ourselves within larger timescales. It is a conventional way of referring to vast time spans surpassing mere years. If there's anything worthy of measuring **World Ages**, employing the Earth's third key motion, enabling millennia-long time references, is surely the most intelligent approach.
+这些代表了过去的[世界时代]({{< relref "wiki/encyclopedia/world-age.md" >}})。展望未来，在水瓶座之后是魔羯座、射手座等等。这些时代的相关性不仅限于了解一天的小时、一年的日期或一个时代的年龄。理解岁差并通过黄道星座追踪岁差可以让我们将自己置于更大的时间尺度中。它是指称超越年份的广阔时间跨度的传统方式。如果有什么值得衡量**世界时代**的东西，那么采用地球的第三个关键运动、实现千年级时间参照的方法无疑是最明智的方法。
 
-If our Earth's inhabitants employed this understanding in the past, could we now comprehend what they might have meant when referring to *world ages* or *aeons* of time?
+如果我们地球上的居民在过去使用了这种理解，那么我们现在能否理解他们在提及时间的*世界时代*或*时代*时所指的是什么呢？
 
-[^zodiac]: According to Merriam-Webster, the term zodiac has the following definitions: a) Zodiac refers to an imaginary band in the celestial sphere that is centered on the ecliptic, encompassing the apparent paths of all the planets. It is divided into 12 constellations or signs, with each sign considered to extend 30 degrees of longitude, and is commonly used in astrology. b) Zodiac can also refer to a figure that represents the signs of the zodiac and their corresponding symbols, often used in astrological charts or illustrations. See here for more: [zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
+[^zodiac]: 根据韦氏词典（Merriam-Webster），“zodiac”一词有以下定义：a) Zodiac指的是天球上的一个想象中的带，以黄道为中心，包围着所有行星的视觉路径。它被分为12个星座或宫位，每个宫位被认为延伸30度的经度，并且通常在占星学中使用。b) Zodiac也可以指代代表黄道带的星座和它们对应的符号的图形，通常用于占星图表或插图。详见此处：[zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
 
-## Encoding
+## 编码
 
-Past civilizations have not only known about the **precession of the equinox**, but they have also endeavored to preserve this sacred knowledge. This preservation occurred in two notable forms: **language** and **constructions**. Both these forms served as mechanisms of encoding that have carried this ancient wisdom through ages, allowing it to transcend the ravages of time and cultural shifts.
+过去的文明不仅了解到**岁差**，还努力保留这一神圣的知识。这种保留以两种显著的形式发生：**语言**和**建筑**。这两种形式都充当了编码的机制，将这古老的智慧传承下来，使之超越时间的摧残和文化的变迁。
 
-### Hamlet's Mill
+### 《哈姆雷特磨坊》
 
-In 1969, a groundbreaking work was published that would provide an intricate insight into the encoded understanding of the precession of the equinoxes. This knowledge, the authors proposed, had its roots in an ancestral civilization characterized by a highly sophisticated understanding of the cosmos. This civilization, they claimed, had transmitted this knowledge through subsequent world civilizations, encoded within the rich tapestry of mythical images and narratives.
+1969年，一部开创性的作品问世，深入探究了岁差的编码理解。作者们认为，这种知识源于一个以高度复杂的宇宙观念为特征的祖先文明。他们声称，这个文明通过随后的世界文明传递了这一知识，编码在丰富的神话形象和叙述之中。
 
-This remarkable study was conducted by Giorgio de Santillana (1902–1974), a professor of history of science at the esteemed Massachusetts Institute of Technology, and Hertha von Dechend (1915–2001), a professor of history of science, philosophy, and ethnology at the University of Frankfurt. Together they co-authored *Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+这项卓越的研究由乔尔吉奥·德桑蒂拉纳（Giorgio de Santillana，1902-1974）和赫塔·冯·德琴德（Hertha von Dechend，1915-2001）共同完成，《哈姆雷特磨坊：探寻人类知识的起源及其通过神话的传播》。
 
-Their book offers a revolutionary perspective, emphasizing the holistic and interconnected nature of archaic thought, and the profound role the celestial dynamics played in shaping their worldview. Let's allow their words to elucidate:
+他们的书提供了一种革命性的观点，强调了早期思维的整体性和相互关联性，以及天体动力学在塑造他们世界观中所扮演的深远作用。让我们听听他们的话：
 
-> "To begin with, there is no system that can be presented in modern analytical terms. There is no key, and there are no principles from which a presentation can be deduced. The structure comes from a time when there was no such thing as a system in our sense, and it would be unfair to search for one. There could hardly have been one among people who committed all their ideas to memory. It can be considered a pure structure of numbers. From the beginning, we considered calling this essay 'Art of the Fugue.' And that excludes any 'world-picture,' a point that cannot be stressed strongly enough. Any effort to use a diagram is bound to lead into contradiction. It is a matter of times and rhythm."
+> “首先，没有任何系统可以用现代的分析术语来呈现。没有钥匙，也没有可以推导出呈现的原则。结构来自于一个没有我们所理解的系统的时代，寻找一个系统是不公平的。在将所有思想都托付给记忆的人中，几乎不可能存在系统。它可以被视为纯粹的数字结构。从一开始，我们考虑将这篇文章称为“赋格艺术”。这排除了任何“世界图景”，这一点不能过分强调。任何试图使用图表的努力都注定会陷入矛盾。这是一个关于时间和节奏的问题。”
 >
-> "The subject has the nature of a hologram, something that has to be present as a whole to the mind. Archaic thought is cosmological first and last; it faces the gravest implications of a cosmos in ways which reverberate in later classic philosophy. The chief implication is a profound awareness that the fabric of the cosmos is not only determined, but overdetermined and in a way that does not permit the simple location of any of its agents, whether simple magic or astrology, forces, gods, numbers, planetary powers, Platonic Forms, Aristotelian Essences or Stoic Substances. Physical reality here cannot be analytical in the Cartesian sense; it cannot be reduced to concreteness even if misplaced. Being is change, motion, and rhythm, the irresistible circle of time, the incidence of the 'right moment', as determined by the skies."
+> “这个主题具有全息图的性质，需要整体地存在于心灵中。早期思维首先和最后是宇宙论的；它以一种在后来的古典哲学中引起共鸣的方式，面对宇宙的严肃含义。最重要的含义是一种深刻的意识，即宇宙的结构不仅是确定的，而且是超确定的，而且以一种不允许简单定位它的任何要素的方式，无论是简单的魔法还是占星术、力量、神明、数字、行星力量、柏拉图的理念、亚里士多德的本质或斯多亚的物质。这里的物理实在不能以笛卡尔的意义上的分析性存在；即使被放错位置，它也无法简化为具体性。存在是变化、运动和节奏，是不可抗拒的时间循环，是由天空所决定的“恰当时刻”的发生。”
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.56
+> —— 乔尔吉奥·德桑蒂拉纳，赫塔·冯·德琴德：《哈姆雷特磨坊：探寻人类知识的起源及其通过神话的传播》（1969年），第56页, （免费从英文翻译成中文）
 
-Santillana and von Dechend challenge the modern perception of precession as a trivial celestial motion and invoke the grand vision our ancestors had towards this cycle. They argue that the precession, for our forebears, represented a majestic secular motion — a peg on which they hung their profound thoughts about cosmic time:
+桑蒂拉纳和冯·德琴德挑战了对岁差的现代看法，称赞了我们的祖先对这一周期的宏伟视野。他们认为，对于我们的先辈来说，岁差代表了一种雄伟的世俗运动，是他们借以表达有关宇宙时间的深刻思考的基石：
 
-> "We today are aware of the Precession as the gentle tilting of our globe, an irrelevant one at that. As the GI said, lost in the depth of jungle misery, when his friends took refuge in their daydreams: 'When I close my eyes, I see only a mule's behind. Also when I don't.' This is, as it were, today's vision of reality. Today, the Precession is a well-established fact. The space-time continuum does not affect it. It is by now only a boring complication. It has lost relevance for our affairs, whereas once it was the only majestic secular motion that our ancestors could keep in mind when they looked for a great cycle which could affect humanity as a whole. But then our ancestors were astronomers and astrologers. They believed that the sliding of the sun along the equinoctial point affected the frame of the cosmos and determined a succession of world-ages under different zodiacal signs. They had found a large peg on which to hang their thoughts about cosmic time, which brought all things in fateful order. Today, that order has lapsed, like the idea of the cosmos itself. There is only history, which has been felicitously defined as 'one damn thing after another.'"
+> “今天，我们了解岁差只是地球轻微的倾斜，而且还是无关紧要的。正如普通话所说，当他的朋友们在白日梦中获得庇护时，他迷失在丛林深处的苦难中：‘当我闭上眼睛，我只看到一只骡子的屁股。即使我不闭上眼睛也是如此。’这可以说是当今对现实的看法。如今，岁差是一个被充分确认的事实。时空连续性对其没有影响。它现在只是一个乏味的复杂性。它对我们的事务失去了关联，而曾经它是我们的祖先能够记住的唯一一个宏伟的世俗运动，它可以影响整个人类。但是，我们的祖先是天文学家和占星家。他们相信太阳沿赤道点滑动会影响宇宙的结构，并决定了以不同黄道星座为标志的世界时代的继续。他们找到了一个大的支点，可以挂起他们对宇宙时间的思考，将所有事物按命运的秩序排列。如今，这种秩序已经消失，就像宇宙本身的概念一样。只有历史存在，它已经幸福地被定义为“一件接着一件的事情。”
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.67-68
+> —— 乔尔吉奥·德桑蒂拉纳，赫塔·冯·德琴德：《哈姆雷特磨坊：探寻人类知识的起源及其通过神话的传播》（1969年），第67-68页, （免费从英文翻译成中文）
 
-The authors take a step further to explore the fundamental divide between archaic and modern ways of interpreting the cosmos. They argue that the key to understanding archaic thought is through astrology, a cosmic language that encapsulated their profound sense of correspondences and deterministic principles:
+作者们进一步探讨了早期和现代解读宇宙的基本分歧。他们认为理解早期思维的关键在于占星术，一种能够概括他们对对应关系和决定论原则的深刻感知的宇宙语言：
 
-> "The greatest gap between archaic thinking and modern thinking is in the use of astrology. By this is not meant the common or judicial astrology which has become once again a fad and a fashion among the ignorant public, an escape from official science, and for the vulgar another kind of black art of vast prestige but with principles equally uncomprehended. It is necessary to go back to archaic times, to a universe totally unsuspecting of our science and of the experimental method on which it is founded, unaware of the awful art of separation which distinguishes the verifiable from the unverifiable. This was a time, rich in another knowledge which was later lost, that searched for other principles. It gave the lingua franca of the past. Its knowledge was of cosmic correspondences, which found their proof and seal of truth in a specific determinism, nay overdeterminism, subject to forces completely without locality."
+> “早期思维与现代思维之间的最大差距在于占星术的使用。这并不是指常见的或司法占星术，后者在无知的大众中再次流行起来，成为摆脱官方科学的一种时尚，对于粗俗的人来说，它是另一种同样难以理解的有巨大声望的黑魔法。需要回到早期的时代，回到一个完全不知道我们的科学和它所建立的实验方法的宇宙，不知道可验证与不可验证之间的可怕分离之术的时代，富有其他后来丢失的知识，寻求其他原则。它提供了过去的通用语言。它的知识涉及宇宙的对应关系，在特定的决定论中找到了它们的证据和真理的印记，而这种决定论受到完全没有地点的力量的影响。”
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.74
+> —— 乔尔吉奥·德桑蒂拉纳，赫塔·冯·德琴德：《哈姆雷特磨坊：探寻人类知识的起源及其通过神话的传播》（1969年），第74页, （免费从英文翻译成中文）
 
-### The Language of Mythology
+### 神话的语言
 
-The authors posited that mythology, often overlooked as mere fanciful stories, served as a complex and subtle medium for encoding this ancient wisdom. These tales, spun with cryptic symbolism, were carefully woven tapestries hiding a coded language that mirrored the cosmos' movements and cycles. This language, unlike our contemporary scientific language, expressed relationships, patterns, and correspondences rather than explicit cause-and-effect relationships.
+作者认为，神话经常被忽视为单纯的幻想故事，实际上是一种复杂而微妙的编码媒介。这些故事蕴含着神秘的象征意义，是精心编织的挂毯，隐藏着一种反映宇宙运动和周期的编码语言。与我们当代的科学语言不同，这种语言表达的是关系、模式和对应关系，而不是明确的因果关系。
 
-The second form of preservation, constructions, refers to the architectural marvels of the past, whose sophistication and precision in alignment with celestial bodies still bewilder modern researchers. These constructions - from the Pyramids of Giza to Stonehenge, and from the Mayan temples to the complex layout of Angkor Wat - all reflect an acute understanding of celestial mechanics and a desire to embody these cosmic rhythms in earthly form. They stand as colossal markers of a civilization's understanding of the cosmos, aligning earthly and heavenly cycles into a harmonious, integrated whole.
+第二种保留形式是建筑物，指的是过去的建筑奇迹，其精湛和精确的与天体对齐仍然让现代研究人员感到困惑。从吉萨金字塔到巨石阵，从玛雅神庙到吴哥窟的复杂布局，所有这些建筑都反映了对天体力学的深刻理解，以及在地球形态中体现这些宇宙节奏的愿望。它们是一个文明对宇宙的理解的巨大标志，将地球和天上的周期融合成一个和谐的整体。
 
-The legacy of these ancient civilizations and their profound cosmic understanding continues to whisper its wisdom to us, hidden in the language of myth and the stones of ancient constructions. As we decode these messages and comprehend their significance, we might re-discover a worldview that paints a more connected, harmonious, and rhythmically flowing cosmos, echoing the complex symphony of the precession of the equinox. This understanding may invite us to reconsider our place in the cosmos, not as detached observers, but as participants in a grand, cyclic dance of celestial bodies and cosmic time.
+这些古代文明及其深邃的宇宙理解的遗产继续向我们耳语其智慧，隐藏在神话的语言和古代建筑的石头中。当我们解码这些信息并理解其重要性时，我们可能会重新发现一个世界观，它描绘了一个更加联系、和谐和有节奏的宇宙，回响着岁差的复杂交响乐。这种理解可能会引导我们重新考虑自己在宇宙中的位置，不再是被剥离的观察者，而是参与者，在天体和宇宙时间的宏伟循环之中共舞。
 
 #### Zodiacal Constructions as Time Markers
 

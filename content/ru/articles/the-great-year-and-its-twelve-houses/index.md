@@ -143,23 +143,23 @@ homepage: false
 
 Рассматривая Землю как грандиозный небесный механизм, кардинальные дни можно рассматривать как метки для **четырех четвертей** на циферблате часов. В сущности, если бы мы выбрали момент для сравнения небесных измерений, то кардинальные дни, особенно **равноденствия**, были бы наиболее желательными благодаря их всемирно наблюдаемым характеристикам.
 
-## Astronomical watchmaking
+## Астрономическое часоводство
 
-Navigating the intricate choreography of Earth's three key motions - two of which present a rapid periodicity - is a demanding task, particularly when trying to discern the glacial pace of the third motion, the **precession**. Its slow, stately progression requires the observer to select a specific moment each year for stellar observation, akin to the interplay of distinct mechanisms within a mechanical wristwatch that work in harmony to accurately portray time. Just as a wristwatch employs a time reference, typically `0` or `12 o'clock`, the Great Year also calls for a defining point of reference.
+Навигация в сложной хореографии трех ключевых движений Земли - два из которых имеют быструю периодичность - представляет собой трудную задачу, особенно при попытке разглядеть ледяной темп третьего движения, **прецессии**. Его медленное, величественное прогрессирование требует от наблюдателя выбрать конкретный момент каждый год для наблюдения за звездами, подобно взаимодействию отдельных механизмов внутри механического наручного часового механизма, которые гармонично работают, чтобы точно отображать время. Как наручные часы используют временную отметку, обычно `0` или `12 часов`, Великий год также требует определенной точки отсчета.
 
-To construct our model of an astronomical timepiece, we need to consider specific reference points, namely:
+Для построения нашей модели астрономического временного прибора нам нужно учесть конкретные опорные точки, а именно:
 
-+ **First motion [rotation]**: Sunrise, which heralds the start of a new day
-+ **Second motion [revolution]**: Spring Equinox, marking the arrival of a new cycle of seasons
-+ **Geographical point of reference**: Due East, the direction from which the Sun makes its daily ascent
++ **Первое движение [вращение]**: Восход Солнца, который возвещает о наступлении нового дня
++ **Второе движение [обращение]**: Весеннее равноденствие, обозначающее приход нового цикла сезонов
++ **Географическая опорная точка**: Восток, направление, из которого Солнце восходит ежедневно
 
-By leveraging these sensible parameters to establish our 'zero' point, we can now observe the celestial tapestry – the stars or constellations – unfolding against the backdrop of the **Great Year**.
+Используя эти осмысленные параметры для установления нашей "нулевой" точки, мы можем наблюдать небесный гобелен - звезды или созвездия - разворачивающиеся на фоне **Великого года**.
 
-One might then wonder, what constellation graces the pre-dawn sky on the spring equinox, rising in unison with the Sun due east, **in our current era**?
+Можно задаться вопросом, какое созвездие украшает небо перед рассветом в весеннее равноденствие, восходящее вместе с Солнцем на востоке, **в нашу эпоху**?
 
-{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="Fig. 2 - Vernal equinox on the 20<sup>th</sup> of March 2020 due east, taken with Stellarium" >}}
+{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="Рис. 2 - Весеннее равноденствие 20-го марта 2020 года на востоке, сделанное с помощью программы Stellarium" >}}
 
-As we look to the heavens, we find ourselves at the threshold of a cosmic shift, where the constellation of Pisces is giving way to the upcoming constellation of Aquarius. This celestial transition silently marks the passage of millennia, a grand celestial clock advancing into a new age. This is the precise moment where the ancient and the current converge, providing us with an invaluable glimpse into the cosmic shift into a new age. A new age that could have been easily predicted for millenia if the awareness and knowledge about axial precession were given.
+Обращаясь к небесам, мы оказываемся на пороге космического сдвига, где созвездие Рыбы уступает место грядущему созвездию Водолея. Этот небесный переход молчаливо отмечает прошествие тысячелетий, величественные небесные часы вступают в новую эпоху. Это точный момент, где древнее и настоящее сходятся, предоставляя нам бесценный взгляд на космический сдвиг в новую эпоху. Новую эпоху, которая могла быть предсказана на протяжении тысячелетий, если бы существовало осознание и знание о прецессии оси.
 
 ## The Cycle of Zodiacal Ages
 

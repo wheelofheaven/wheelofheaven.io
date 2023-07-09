@@ -1,11 +1,12 @@
 ---
-title: Âge du monde
+title: Ère du monde
 alternatives:
-- Astrological age
-description: Âge du monde, également connu sous le nom d'âge astrologique, un terme
+- Âge du monde
+- Ère astrologique
+description: Ère du monde, également connu sous le nom d'ère astrologique, un terme
   familier pour désigner un grand mois par son nom zodiacal. Par exemple, en ce moment,
   nous passons de l'ère des Poissons à l'ère du Verseau.
-lead: Aussi connu sous le nom d'âge astrologique, terme familier pour désigner un
+lead: Aussi connu sous le nom d'ère astrologique, terme familier pour désigner un
   grand mois par son nom zodiacal. Par exemple, en ce moment, nous passons de l'ère
   des Poissons à l'ère du Verseau.
 date: 2022-09-20 00:00:00

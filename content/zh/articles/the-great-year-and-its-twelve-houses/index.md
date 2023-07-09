@@ -88,18 +88,26 @@ homepage: false
 
 由大年的十二个宫所提供的这种更广泛的时间框架，每个宫是一个大月，使我们能够理解那些本来似乎难以理解的广阔时间跨度。这是一个宇宙日历，将我们短暂的存在置于宇宙的宏伟编年史之中。
 
+## 标记时间：一年中的基准日的重要性
 
-## Mapping the heavens into constellations
+在我们继续宇宙之旅之前，重点关注地球绕太阳的年度旅程中的另一个独特方面是受到行星[倾斜角度](https://en.wikipedia.org/wiki/Axial_tilt)对其轨道平面的影响，倾斜角度为`23.44°`。这个倾斜不仅赋予我们的行星其特有的季节节奏，而且影响我们在一年中如何感知太阳的光线。
 
-As we continue our cosmic voyage, let's pause to consider the age-old human practice of Earthly stargazing and the crucial role it has played in our understanding of the universe. As highlighted in the introduction, humans across cultures and epochs have turned their gaze upwards to the celestial theater, seeking to comprehend their position amidst the glittering array of heavenly bodies. This shared fascination transcends cultures, continents, and millennia, connecting us with our ancestors in a shared quest to unravel the mysteries of the universe.
+让我们深入探讨这些天文概念。**天球赤道**是地球赤道在天空中的投影，而**黄道**则是太阳在这个天球中由于地球公转而描绘的视觉路径。天球赤道和黄道每年在两个特定点交叉，标记着**春分和秋分**。这些春分和秋分表示全球白昼和黑夜的时长相等的时刻。**春分**（也被称为**春分点**）通常在3月20日左右，而**秋分**大约在9月22日左右。
 
-Early humans not only marveled at the stars but came up with an ingenious solution to navigate this overwhelming cosmic map: grouping the multitude of visible stars into meaningful clusters known as **constellations**. This form of early science was not only practical but ingeniously symbolic, layering each cluster with a mythological tale. Through these storied shapes, abstract cosmic data took on a narrative quality, anchoring spatial patterns in the memorable tales of gods, monsters, and heroes. The storytelling aspect is arguably as crucial as the spatial one; it facilitated knowledge transmission across generations, allowing the wisdom of the past to enlighten the present.
+相反，**夏至和冬至**则表示地球的一个半球经历一年中最长的白昼或黑夜的时刻。**夏至**通常在6月21日左右，而**冬至**发生在12月21日左右。
 
-Armed with the ability to recognize these celestial patterns, humans could discern practical, actionable information, such as the timing of agricultural activities or navigation for long sea voyages. The constellations became our cosmic compass, guiding our way through the seasons and across vast bodies of water.
+这些春分、夏至、秋分和冬至 - 也就是**基准日** - 被视为我们日历中重要的天文里程碑，标志着每个季节的开始。
 
-Yet, the stellar canvas is not static. As we just learned a few paragraphs earlier, the gradual progression of axial precession, despite its subtle nature, inexorably reshapes the constellations' arrangement in the night sky. This slow celestial dance, overlooked by casual observers, becomes apparent to those invested in careful, long-term celestial tracking. With axial precession taking approximately `25'920 years` for a full cycle, a shift of `1°` on the celestial sphere equates to a time span of `72 years`, roughly aligning with an average human lifetime. Remarkably, this `1°` shift is also closely proportional to the combined apparent diameter of the Sun and the Moon in our sky.
+| 基准点             | 一年中的日期                    | 感知特征                            |
+| -                  | -                              | -                                   |
+| **春分**          | ~ 3月20日左右                  | 白昼和黑夜长度相等                 |
+| **夏至**          | ~ 6月21日左右                  | 北半球最长的白昼                    |
+| **秋分**          | ~ 9月22日左右                  | 白昼和黑夜长度相等                 |
+| **冬至**          | ~ 12月21日左右                 | 北半球最长的黑夜                    |
 
-Such findings underscore the sheer complexity of observing and comprehending axial precession. Without efficient means for inter-generational persistence of empirical knowledge, the task becomes even more daunting. Yet, humanity's enduring curiosity and capacity for pattern recognition have allowed us to pierce this cosmic mystery, using nothing more than our naked eyes and the night sky as a canvas for our stories and mathematical explorations.
+请记住，春分、秋分或冬至代表的是一个特定的时刻，此时**天球赤道**与**黄道**重合，而不是整个一天。另一种定义春分或秋分的方法是可见太阳中心直接位于地球赤道上的时刻。
+
+将地球视为一个宏伟的天体钟表，基准日可以被看作钟面上的**四个象限**的标记。实际上，如果我们要选择一个时刻来进行天体测量的比较，基准日，特别是**春分**，由于其全球可观测的特点，将是最理想的选择。
 
 ## Marking Time: The Importance of Cardinal Days in a Year
 

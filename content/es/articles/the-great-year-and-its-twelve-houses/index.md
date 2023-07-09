@@ -1,104 +1,145 @@
 ---
-title: "The Great Year and Its Twelve Houses"
-description: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
-excerpt: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
+title: "El Gran Año y sus Doce Casas"
+description: "El tercer movimiento clave de la Tierra, junto con los otros dos ciclos responsables del día y el año, es lo que se conoce como el Gran Año. Su ciclo, también llamado precesión de los equinoccios, dura 25.920 años. Al dividir ese ciclo en 12 casas de 2.160 años cada una, se obtendría la clave para comprender el propósito del zodíaco como marcador de tiempo. Este conocimiento es antiguo y sus vestigios son conocidos hoy en día como astrología."
+excerpt: "El tercer movimiento clave de la Tierra, junto con los otros dos ciclos responsables del día y el año, es lo que se conoce como el Gran Año. Su ciclo, también llamado precesión de los equinoccios, dura 25.920 años. Al dividir ese ciclo en 12 casas de 2.160 años cada una, se obtendría la clave para comprender el propósito del zodíaco como marcador de tiempo. Este conocimiento es antiguo y sus vestigios son conocidos hoy en día como astrología."
 date: 2023-07-07T00:00:00+00:00
 lastmod: 2023-07-07T00:00:00+00:00
 draft: false
 weight: 50
 images: ["the-great-year-and-its-twelve-houses.jpg"]
-categories: ["Context"]
-tags: ["age-of-aquarius", "the-great-awakening", "archeoastronomy"]
+categories: ["Contexto"]
+tags: ["era-de-acuario", "el-gran-despertar", "arqueoastronomía"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false
 ---
 
-{{< alert icon="👉" text="Disclaimer: This is a revisited and slightly reworked article taken from an unmaintained blog of Zara Zinsfuss, a main contributor of Wheel of Heaven. The original blog article can still be visited on his Gitlab Pages website: <a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>The Great Year and Its Twelve Houses | zara◇zinsfuss</a>" />}}
+{{< alert icon="👉" text="Descargo de responsabilidad: Este es un artículo revisado y ligeramente modificado tomado de un blog no mantenido de Zara Zinsfuss, una de las principales contribuyentes de Wheel of Heaven. El artículo original del blog aún se puede visitar en su sitio web de Gitlab Pages: <a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>El Gran Año y sus Doce Casas | zara◇zinsfuss</a>" />}}
 
-## The Great Year
+## El Gran Año
 
-Whenever we want to understand our place in the universe, we gaze into the deep night sky, losing ourselves in the myriad of stars within our sight. It seems that the cosmic activities unfolding above us make up a grand narrative, of which we, the inhabitants of planet Earth, are merely a subscene.
+Cuando queremos comprender nuestro lugar en el universo, miramos hacia el profundo cielo nocturno, perdiéndonos en la miríada de estrellas que vemos. Parece que las actividades cósmicas que se desarrollan por encima de nosotros conforman una gran narrativa, de la cual nosotros, los habitantes del planeta Tierra, somos solo una pequeña escena.
 
-Thus, it's natural for any Earthly dweller to initiate inquiries about their location and significance in relation to the vast expanse of space and time.
+Así, es natural que cualquier habitante terrestre inicie investigaciones sobre su ubicación y su significado en relación con la vasta extensión del espacio y el tiempo.
 
-Our celestial understanding begins with acknowledging the **three key motions** of our planet Earth:
+Nuestra comprensión celestial comienza reconociendo los **tres movimientos clave** de nuestro planeta Tierra:
 
-1. Rotation around its axis
-2. Revolution around the Sun
-3. Precession of its axis
+1. Rotación alrededor de su eje
+2. Revolución alrededor del Sol
+3. Precesión de su eje
 
-The first two motions are intrinsically part of our daily life as we experience their effects in tangible ways. However, the third motion, which will be our primary focus, is less remembered despite its significance. All three motions exhibit recurrent patterns, repeating over time, forming cycles each with a specific duration or **period**.
+Los dos primeros movimientos forman parte intrínseca de nuestra vida diaria, ya que experimentamos sus efectos de manera tangible. Sin embargo, el tercer movimiento, en el que nos centraremos principalmente, es menos recordado a pesar de su importancia. Los tres movimientos exhiben patrones recurrentes, repitiéndose con el tiempo, formando ciclos cada uno con una duración o **período** específico.
 
-| Earthly Motion | Period (approx.) | Common name |
-| -              | -                | -           |
-| (1) Rotation   | 24 [h]           | Day / Night |
-| (2) Revolution | 365 [d]          | Year        |
-| (3) Precession | 26'000 [y]       | Great Year  |
+| Movimiento Terrestre | Período (aprox.) | Nombre común |
+| -                    | -                | -            |
+| (1) Rotación         | 24 [h]           | Día / Noche  |
+| (2) Revolución       | 365 [d]          | Año          |
+| (3) Precesión        | 26.000 [a]       | Gran Año     |
 
-The day-night cycle (1) is a result of the Earth's rotation and impacts life significantly. For practical purposes, we divide a day into two equal segments of `12 hours`, aligning with the [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm) that regulates wakefulness and sleep for many mammals, including humans.
+El ciclo día-noche (1) es el resultado de la rotación de la Tierra y tiene un gran impacto en la vida. Para propósitos prácticos, dividimos el día en dos segmentos iguales de `12 horas`, en línea con el [ritmo circadiano](https://es.wikipedia.org/wiki/Ritmo_circadiano) que regula la vigilia y el sueño de muchos mamíferos, incluidos los humanos.
 
-The second cycle, the year (2), is observable through the changing seasons of spring, summer, autumn, and winter, especially in higher and lower latitudes. We typically divide the solar year into twelve parts, or **months**, each approximately `30.5 days` long.
+El segundo ciclo, el año (2), es observable a través de los cambios de estaciones de primavera, verano, otoño e invierno, especialmente en latitudes más altas y más bajas. Por lo general, dividimos el año solar en doce partes, o **meses**, cada uno con una duración aproximada de `30.5 días`.
 
-The lunar cycle, though not covered in detail here, is interesting to note. It occurs almost precisely 13 times in a year, with each **lunar month** lasting slightly over `28 days`. This divergence between lunar and solar years leads to interesting questions regarding our calendar system.
+El ciclo lunar, aunque no se trata en detalle aquí, es interesante de mencionar. Ocurre casi exactamente 13 veces al año, con cada **mes lunar** con una duración ligeramente superior a `28 días`. Esta divergencia entre los años lunar y solar plantea preguntas interesantes sobre nuestro sistema de calendario.
 
-The third cycle, lesser-known yet equally significant, is the Earth's **axial precession** or **precession of the equinoxes**. Known also as **the Great Year** (3), it takes between `25,772` and `25,920 years` to complete a full cycle.
+El tercer ciclo, menos conocido pero igualmente significativo, es la **precesión axial** de la Tierra o **precesión de los equinoccios**. También conocido como **el Gran Año** (3), tarda entre `25.772` y `25.920 años` en completar un ciclo completo.
 
-[Precession]({{< relref "wiki/encyclopedia/precession.md" >}}) is a complex motion, difficult to describe without visual aids. For context, to show that we're not making this up, let's look at [Merriam-Webster](https://www.merriam-webster.com/dictionary/precession) and how they define it the notion of precession:
+[Precesión]({{< relref "wiki/encyclopedia/precession.md" >}}) es un movimiento complejo, difícil de describir sin ayudas visuales. Para contextualizar y demostrar que no lo estamos inventando, echemos un vistazo a [Merriam-Webster](https://www.merriam-webster.com/dictionary/precession) y cómo define la noción de precesión:
 
-> a comparatively slow gyration of the rotation axis of a spinning body about another line intersecting it so as to describe a cone[^merriam]
+> una giro lento y relativo del eje de rotación de un cuerpo en rotación alrededor de otra línea que lo intersecta, de manera que describe un cono[^merriam]
 
-In the case of planets such as Earth, one needs to specify that ones means the so-called precession of the equinoxes. Britannica defines the precession of the equinoxes as follows:
+En el caso de planetas como la Tierra, es necesario especificar que se trata de la llamada precesión de los equinoccios. Britannica define la precesión de los equinoccios de la siguiente manera:
 
-> ... motion of the equinoxes along the ecliptic (the plane of Earth’s orbit) caused by the cyclic precession of Earth’s axis of rotation.[^britannica]
+> ... movimiento de los equinoccios a lo largo de la eclíptica (el plano de la órbita de la Tierra) causado por la precesión cíclica del eje de rotación de la Tierra.[^britannica]
 
-The following figure elucidates axial precession, depicting the Earth's rotation axis **gyrating** in a circular pattern:
+La siguiente figura aclara la precesión axial, mostrando el eje de rotación de la Tierra **girando** en un patrón circular:
 
-{{< figure src="images/precession_schema.jpg" caption="Fig. 1 - Axial precession" >}}
+{{< figure src="images/precession_schema.jpg" caption="Fig. 1 - Precesión axial" >}}
 
-The direction of precession (circular arrow at the top) counteracts the Earth's rotational spin (circular arrows around the globe). These conflicting rotations produce a peculiar dance in our heavens. For an Earth-bound observer, this means the daily dance of the sky against the constellations counterpoints the slow waltz due to precession across its `25,920-year` cycle.
+La dirección de```markdown
+precesión (flecha circular en la parte superior) contrarresta la rotación de la Tierra (flechas circulares alrededor del globo). Estas rotaciones contradictorias producen una danza peculiar en nuestros cielos. Para un observador en la Tierra, esto significa que la danza diaria del cielo con las constelaciones contrarresta el lento vals debido a la precesión a lo largo de su ciclo de `25.920 años`.
 
-The implications of this precession are immense and serve as the bedrock of our understanding of time and astrological ages. As we journey through the Great Year, the backdrop of the stars shifts gradually. This cosmic shift, though imperceptible within a human lifespan, has profound implications over thousands of years.
+Las implicaciones de esta precesión son inmensas y constituyen la base de nuestra comprensión del tiempo y las eras astrológicas. A medida que viajamos a través del Gran Año, el telón de fondo de las estrellas cambia gradualmente. Este cambio cósmico, aunque imperceptible dentro de una vida humana, tiene profundas implicaciones a lo largo de miles de años.
 
-In the next section, we'll delve deeper into these ramifications, unravelling the astrological epochs that punctuate our celestial journey through the Great Year and their impact on our sociocultural evolution.
+En la siguiente sección, profundizaremos en estas ramificaciones, desentrañando las épocas astrológicas que marcan nuestro viaje celestial a través del Gran Año y su impacto en nuestra evolución sociocultural.
 
-[^merriam]: Merriam-Webster is a reputable and widely recognized American publisher known for producing dictionaries and reference books. According to their definition, precession refers to the slow gyration of a spinning body's rotation axis around another intersecting line, creating a cone-like motion. It is characterized by a gradual rotation that forms a cone shape over time. See here for more: [precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
+[^merriam]: Merriam-Webster es un reconocido y ampliamente reconocido editor estadounidense conocido por producir diccionarios y libros de referencia. Según su definición, la precesión se refiere a la lenta giro del eje de rotación de un cuerpo giratorio alrededor de otra línea que lo intersecta, creando un movimiento cónico. Se caracteriza por una rotación gradual que forma una forma cónica con el tiempo. Consulta aquí para más información: [precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
 
-[^britannica]: The precession of the equinoxes refers to the cyclic motion of the equinox points along Earth's orbital plane caused by the gradual shift in Earth's axis of rotation, as explained by Britannica, a renowned and authoritative encyclopedia publisher that provides comprehensive and reliable information on a wide range of subjects. See here for more: [precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
+[^britannica]: La precesión de los equinoccios se refiere al movimiento cíclico de los puntos equinocciales a lo largo del plano orbital de la Tierra causado por el desplazamiento gradual del eje de rotación de la Tierra, según lo explicado por Britannica, un editor de enciclopedias de renombre y autoridad que proporciona información completa y confiable sobre una amplia gama de temas. Consulta aquí para más información: [precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
 
-## The Twelve Houses
+## Las Doce Casas
 
-With the understanding of the [three key motions of the Earth](#the-great-year), we recognize that these celestial rhythms provide an intricate frame of reference that enables us to conceptualize and measure time. These cyclical motions share several intriguing characteristics:
+Con la comprensión de los [tres movimientos clave de la Tierra](#el-gran-año), reconocemos que estos ritmos celestiales proporcionan un intrincado marco de referencia que nos permite conceptualizar y medir el tiempo. Estos movimientos cíclicos comparten varias características intrigantes:
 
-+ **Definitive periodicity**: These motions, untouched by human intervention, depict a recurrent cosmic choreography, repeating the same patterns in a rhythmic cycle that is bound to start again once completed.
-+ **Consistency of time elapse**: Because of this inherent periodicity, we can expect the exact same amount of time to elapse for a given cycle. This offers a degree of predictability and reliability unmatched by human-made systems.
-+ **Granularity**: The natural segmentation of a full cycle provides smaller, discrete units of time, enabling us to perceive time in digestible bites, rather than overwhelming, continuous stretches.
++ **Periodicidad definida**: Estos movimientos, sin intervención humana, representan una coreografía cósmica recurrente, repitiendo los mismos patrones en un ciclo rítmico que está destinado a comenzar de nuevo una vez completado.
++ **Consistencia en la transcurrida del tiempo**: Debido a esta periodicidad inherente, podemos esperar que transcurra exactamente la misma cantidad de tiempo para un ciclo dado. Esto ofrece un grado de previsibilidad y confiabilidad que no se encuentra en los sistemas creados por los humanos.
++ **Granularidad**: La segmentación natural de un ciclo completo proporciona unidades de tiempo más pequeñas y discretas, lo que nos permite percibir el tiempo en porciones digeribles, en lugar de largos tramos continuos que resultarían abrumadores.
 
-These harmonious cosmic rhythms hold a profound sense of mystery and grandeur that exceeds our typical human scale of perception. Thus, using these celestial motions as a time-keeping framework becomes intuitively appealing, particularly because all three motions exhibit intervals that complement each other extraordinarily well.
+Estos armónicos ritmos cósmicos poseen un profundo sentido de misterio y grandeza que supera nuestra típica escala de percepción humana. Por lo tanto, utilizar estos movimientos celestiales como un marco de referencia para medir el tiempo resulta intuitivamente atractivo, especialmente porque los tres movimientos exhiben intervalos que se complementan extraordinariamente bien.
 
-The day, a product of the Earth's rotation, becomes a manageable unit to count a year, which in turn, stemming from the Earth's revolution, offers a feasible measure to gauge the enormity of the Great Year, a result of precession.
+El día, producto de la rotación de la Tierra, se convierte en una unidad manejable para contar un año, que a su vez, como resultado de la revolución de la Tierra, ofrece una medida factible para evaluar la enormidad del Gran Año, resultado de la precesión.
 
-This interlocking of time scales gives rise to an intriguing pattern: the division of the rotation and revolution cycles into **12 units** each. This division, while seemingly arbitrary, has far-reaching implications when applied to the precession cycle or the **Great Year**.
+Esta interconexión de escalas de tiempo da lugar a un patrón intrigante: la división de los ciclos de rotación y revolución en **12 unidades** cada una. Esta división, aunque aparentemente arbitraria, tiene implicaciones de gran alcance cuando se aplica al ciclo de precesión o al **Gran Año**.
 
-Dividing the **Great Year** by twelve gives birth to a new time unit: the Great Month, each spanning a staggering `2,160 years`. This unit embodies a vast stretch of time, dwarfing our conventional year and providing a measure for time spans that cross the threshold of millennia.
+Dividir el **Gran Año** en doce da origen a una nueva unidad de tiempo: el Gran Mes, cada uno con una asombrosa duración de `2.160 años`. Esta unidad encarna un vasto lapso de tiempo, que sobrepasa nuestro año convencional y proporciona una medida para los períodos que cruzan el umbral de los milenios.
 
-The concept of the [Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}}) offers a larger temporal framework that encompasses the rise and fall of civilizations, the evolution of cultures and ideas, and the progress of scientific understanding. It gives us a perspective on time that goes beyond our personal or even historical experience, reaching into a scale that we usually reserve for geological or astronomical events.
+El concepto del [Gran Mes]({{< relref "wiki/encyclopedia/great-month.md" >}}) ofrece un marco temporal más amplio que abarca el surgimiento y la caída de civilizaciones, la evolución de culturas e ideas, y el progreso de la comprensión científica. Nos brinda una perspectiva del tiempo que va más allá de nuestra experiencia personal o incluso histórica, llegando a una escala que generalmente reservamos para eventos geológicos o astronómicos.
 
-Just as the daily and annual cycles are integral to our understanding of time, the Great Month could prove to be an essential tool for understanding longer-term trends and cycles. As our knowledge of our own (ancient) history, the constitution of planet Earth, and astronomical patterns continues to grow, we may find that the concept of the Great Month helps us make sense of patterns and events that span thousands of years, providing a broader context for understanding our place in the cosmos.
+Así como los ciclos diarios y anuales son fundamentales para nuestra comprensión del tiempo, el Gran Mes podría resultar una herramienta esencial para comprender tendencias y ciclos a largo plazo. A medida que nuestro conocimiento de nuestra propia historia (antigua), la constitución del planeta Tierra y los patrones astronómicos sigue creciendo, es posible que descubramos que el concepto del Gran Mes nos ayuda a comprender patrones y eventos que abarcan miles de años, brindando un contexto más amplio para entender nuestro lugar en el cosmos.
 
-This broader framework of time, provided by the twelve houses of the Great Year, each a Great Month, enables us to comprehend vast stretches of time that would otherwise seem incomprehensible. It is a cosmic calendar that places our transient existence into a grand chronicle of the universe.
+Este marco temporal más amplio, proporcionado por las doce casas del Gran Año, cada una un Gran Mes, nos permite comprender vastos lapsos de tiempo que de otra manera parecerían incomprensibles. Es un calendario cósmico que sitúa nuestra existencia transitoria en una gran crónica del universo.
 
-## Mapping the heavens into constellations
+## Mapeando los cielos en constelaciones
 
-As we continue our cosmic voyage, let's pause to consider the age-old human practice of Earthly stargazing and the crucial role it has played in our understanding of the universe. As highlighted in the introduction, humans across cultures and epochs have turned their gaze upwards to the celestial theater, seeking to comprehend their position amidst the glittering array of heavenly bodies. This shared fascination transcends cultures, continents, and millennia, connecting us with our ancestors in a shared quest to unravel the mysteries of the universe.
+A medida que continuamos nuestro viaje cósmico, detengámonos a considerar la antigua práctica humana de observar las estrellas terrenales y el papel crucial que ha desempeñado en nuestra comprensión del universo. Como se destacó en la introducción, los seres humanos de diversas culturas y épocas han dirigido su mirada hacia el teatro celestial, buscando comprender su posición en medio de la deslumbrante variedad de cuerpos celestiales. Esta fascinación compartida trasciende culturas, continentes y milenios, conectándonos con nuestros antepasados en una búsqueda común para desentrañar los misterios del universo.
 
-Early humans not only marveled at the stars but came up with an ingenious solution to navigate this overwhelming cosmic map: grouping the multitude of visible stars into meaningful clusters known as **constellations**. This form of early science was not only practical but ingeniously symbolic, layering each cluster with a mythological tale. Through these storied shapes, abstract cosmic data took on a narrative quality, anchoring spatial patterns in the memorable tales of gods, monsters, and heroes. The storytelling aspect is arguably as crucial as the spatial one; it facilitated knowledge transmission across generations, allowing the wisdom of the past to enlighten the present.
+Los primeros seres humanos no solo se maravillaron con las estrellas, sino que encontraron una solución ingeniosa para navegar este abrumador mapa cósmico: agrupar la multitud de estrellas visibles en conjuntos significativos conocidos como **constelaciones**. Esta forma de ciencia temprana no solo era práctica, sino ingeniosamente simbólica, dotando a cada conjunto de una historia mitológica. A través de estas formas simbólicas, los datos cósmicos abstractos adquirieron una cualidad narrativa, anclando los patrones espaciales en los relatos memorables de dioses, monstruos y héroes. El aspecto narrativo es tan crucial como el espacial; facilitó la transmisión de conocimientos a lo largo de las generaciones, permitiendo que la sabiduría del pasado iluminara el presente.
 
-Armed with the ability to recognize these celestial patterns, humans could discern practical, actionable information, such as the timing of agricultural activities or navigation for long sea voyages. The constellations became our cosmic compass, guiding our way through the seasons and across vast bodies of water.
+Armados con la capacidad de reconocer estos patrones celestiales, los seres humanos pudieron discernir información práctica y aplicable, como la sincronización de actividades agrícolas o la navegación en largos viajes marítimos. Las constelaciones se convirtieron en nuestra brújula cósmica, guiándonos a través de las estaciones y a través de vastos cuerpos de agua.
 
-Yet, the stellar canvas is not static. As we just learned a few paragraphs earlier, the gradual progression of axial precession, despite its subtle nature, inexorably reshapes the constellations' arrangement in the night sky. This slow celestial dance, overlooked by casual observers, becomes apparent to those invested in careful, long-term celestial tracking. With axial precession taking approximately `25'920 years` for a full cycle, a shift of `1°` on the celestial sphere equates to a time span of `72 years`, roughly aligning with an average human lifetime. Remarkably, this `1°` shift is also closely proportional to the combined apparent diameter of the Sun and the Moon in our sky.
+Sin embargo, el lienzo estelar no es estático. Como aprendimos hace unos párrafos, la progresión gradual de la precesión axial, a pesar de su naturaleza sutil, remodela inexorablemente la disposición de las constelaciones en el cielo nocturno. Esta lenta danza celestial, pasada por alto por los observadores casuales, se vuelve evidente para aquellos que se dedican al seguimiento celestial cuidadoso y a largo plazo. Con la precesión axial tomando aproximadamente `25.920 años` para un ciclo completo, un desplazamiento de `1°` en la esfera celestial equivale a un lapso de tiempo de `72 años`, que se alinea aproximadamente con una vida humana promedio. Sorprendentemente, este desplazamiento de `1°` también es proporcionalmente cercano al diámetro aparente combinado del Sol y la Luna en nuestro cielo.
 
-Such findings underscore the sheer complexity of observing and comprehending axial precession. Without efficient means for inter-generational persistence of empirical knowledge, the task becomes even more daunting. Yet, humanity's enduring curiosity and capacity for pattern recognition have allowed us to pierce this cosmic mystery, using nothing more than our naked eyes and the night sky as a canvas for our stories and mathematical explorations.
+Estos hallazgos subrayan la complejidad misma de observar y comprender la precesión axial. Sin medios eficientes para la persistencia intergeneracional del conocimiento empírico, la tarea se vuelve aún más desafiante. Sin embargo, la curiosidad perdurable de la humanidad y nuestra capacidad para reconocer patrones nos han permitido penetrar este misterio cósmico, utilizando nada más que nuestros ojos desnudos y el cielo nocturno como lienzo para nuestras historias y exploraciones matemáticas.
+
+## Marcando el tiempo: La importancia de los días cardinales en un año
+
+Antes de continuar nuestro viaje cósmico, es crucial enfocarnos en otro aspecto distintivo del viaje anual de la Tierra alrededor del Sol, influenciado por la inclinación axial del planeta de `23,44°` con respecto a su plano orbital. Esta inclinación no solo le da a nuestro planeta su característico ritmo estacional, sino que también afecta cómo percibimos la luz del Sol a lo largo del año.
+
+Profundicemos un poco en estos conceptos astronómicos. El **ecuador celeste** es la proyección del ecuador terrestre en el cielo, mientras que la **eclíptica** es la aparente trayectoria que el Sol traza en esta esfera celestial debido a la revolución de la Tierra. El ecuador celeste y la eclíptica se intersectan dos veces al año en dos puntos específicos, marcando los **equinoccios de primavera y otoño**. Estos equinoccios señalan el momento en el que la duración del día y la noche es igual en todo el mundo. El **equinoccio de primavera** (también conocido como **equinoccio vernal**) generalmente ocurre el 20 de marzo, y el **equinoccio de otoño** alrededor del 22 de septiembre.
+
+Por otro lado, los **solsticios de verano e invierno** denotan los momentos en los que un hemisferio de la Tierra experimenta el día más largo o la noche más larga del año, respectivamente. El **solsticio de verano** generalmente ocurre el 21 de junio, mientras que el **solsticio de invierno** ocurre alrededor del 21 de diciembre.
+
+Estos equinoccios y solsticios, los **días cardinales**, se consideran hitos astronómicos fundamentales en nuestro calendario, marcando el inicio de cada estación.
+
+| Cardinalidad         | Día en un año                    | Perceptibilidad                          |
+| -                    | -                                | -                                        |
+| **Equinoccio de primavera**  | ~ 20 de marzo          | Día y noche de igual duración           |
+| **Solsticio de verano**      | ~ 21 de junio           | Día más largo en el Hemisferio Norte     |
+| **Equinoccio de otoño**      | ~ 22 de septiembre      | Día y noche de igual duración           |
+| **Solsticio de invierno**    | ~ 21 de diciembre       | Noche más larga en el Hemisferio Norte   |
+
+Ten en cuenta que un equinoccio o solsticio representa un momento específico en el tiempo cuando el **ecuador celeste** se alinea con la **eclíptica**, no todo un día. Otra forma de definir un equinoccio es el momento en el que el centro visible del Sol está directamente sobre el ecuador terrestre.
+
+Al ver la Tierra como un gran reloj celestial, los días cardinales se pueden ver como marcadores para los **cuatro cuadrantes** en la esfera de un reloj. En esencia, si seleccionamos un momento para comparar mediciones celestiales, los días cardinales, especialmente los **equinoccios**, serían los más deseables debido a sus características observables a nivel mundial.
+
+## Relojería astronómica
+
+Navegar la intricada coreografía de las tres principales movimientos de la Tierra -dos de los cuales presentan una periodicidad rápida- es una tarea exigente, especialmente al tratar de discernir el ritmo glacial del tercer movimiento, la **precesión**. Su lenta y solemne progresión requiere que el observador seleccione un momento específico cada año para la observación estelar, similar a la interacción de distintos mecanismos dentro de un reloj de pulsera mecánico que trabajan en armonía para representar con precisión el tiempo. Al igual que un reloj de pulsera utiliza una referencia de tiempo, típicamente `0` o `12 en punto`, el Gran Año también requiere un punto de referencia definitorio.
+
+Para construir nuestro modelo de un reloj astronómico, debemos considerar puntos de referencia específicos, a saber:
+
++ **Primer movimiento [rotación]**: Amanecer, que anuncia el inicio de un nuevo día.
++ **Segundo movimiento [revolución]**: Equinoccio de primavera, marcando la llegada de un nuevo ciclo de estaciones.
++ **Punto de```markdown
+referencia geográfica**: Este, la dirección desde la cual el Sol hace su ascenso diario.
+
+Al aprovechar estos parámetros sensibles para establecer nuestro punto de 'cero', ahora podemos observar el tapiz celeste: las estrellas o constelaciones, desplegándose en el telón de fondo del **Gran Año**.
+
+Uno podría preguntarse entonces, ¿qué constelación adorna el cielo antes del amanecer en el equinoccio de primavera, ascendiendo al unísono con el Sol hacia el este, **en nuestra era actual**?
+
+{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="Fig. 2 - Equinoccio de primavera el 20 de marzo de 2020 hacia el este, capturado con Stellarium" >}}
+
+Al mirar hacia los cielos, nos encontramos en el umbral de un cambio cósmico, donde la constelación de Piscis está dando paso a la próxima constelación de Acuario. Esta transición celestial marca silenciosamente el paso de los milenios, un gran reloj celestial avanzando hacia una nueva era. Este es el momento preciso en el que lo antiguo y lo actual convergen, brindándonos una valiosa visión del cambio cósmico hacia una nueva era. Una nueva era que podría haber sido fácilmente predicha durante milenios si se hubiera tenido conocimiento y conciencia sobre la precesión axial.
 
 ## Marking Time: The Importance of Cardinal Days in a Year
 

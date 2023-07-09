@@ -1,7 +1,7 @@
 ---
-title: "The Great Year and Its Twelve Houses"
-description: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
-excerpt: "The third key motion of the Earth next to the other two cycles responsible for the day and the year is what is known as the Great Year. Its cycle, also called the precession of the equinoxes, lasts 25'920 years. By dividing that cycle in 12 houses of 2’160 years each, you would be given the key to understand the purpose of the zodiac being a time marker. This knowledge is ancient and its remnants are known today as astrology."
+title: "大いなる年とその十二の宮"
+description: "地球の他の2つの周期に次ぐ地球の第3の主要な動きは、大いなる年として知られています。この周期は歳差運動とも呼ばれ、25,920年かかります。この周期を2,160年ごとの12の宮に分けることで、黄道を時間の目印とする目的を理解する鍵が与えられます。この知識は古代のものであり、その名残は現代において占星術として知られています。"
+excerpt: "地球の他の2つの周期に次ぐ地球の第3の主要な動きは、大いなる年として知られています。この周期は歳差運動とも呼ばれ、25,920年かかります。この周期を2,160年ごとの12の宮に分けることで、黄道を時間の目印とする目的を理解する鍵が与えられます。この知識は古代のものであり、その名残は現代において占星術として知られています。"
 date: 2023-07-07T00:00:00+00:00
 lastmod: 2023-07-07T00:00:00+00:00
 draft: false
@@ -14,258 +14,259 @@ pinned: false
 homepage: false
 ---
 
-{{< alert icon="👉" text="Disclaimer: This is a revisited and slightly reworked article taken from an unmaintained blog of Zara Zinsfuss, a main contributor of Wheel of Heaven. The original blog article can still be visited on his Gitlab Pages website: <a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>The Great Year and Its Twelve Houses | zara◇zinsfuss</a>" />}}
+{{< alert icon="👉" text="免責事項: これは、Wheel of Heavenの主要な寄稿者であるZara Zinsfussのメンテナンスされていないブログから再構築され、若干再編集された記事です。元のブログ記事は、彼のGitlab Pagesウェブサイトでまだ閲覧できます。: <a href='https://zarazinfuss.gitlab.io/blog/posts/the-great-year-and-its-twelve-houses/'>The Great Year and Its Twelve Houses | zara◇zinsfuss</a>" />}}
 
-## The Great Year
+## 大いなる年
 
-Whenever we want to understand our place in the universe, we gaze into the deep night sky, losing ourselves in the myriad of stars within our sight. It seems that the cosmic activities unfolding above us make up a grand narrative, of which we, the inhabitants of planet Earth, are merely a subscene.
+宇宙における私たちの位置を理解するため、私たちは深い夜空を見つめ、目の前の無数の星々に身を委ねます。私たち、地球の住民は、宇宙で展開される活動が私たちを超える大いなる物語の一部であるように思えます。
 
-Thus, it's natural for any Earthly dweller to initiate inquiries about their location and significance in relation to the vast expanse of space and time.
+そのため、地球の住人は、広大な空間と時間に対して、自分たちの位置と重要性についての問い合わせを開始することは自然なことです。
 
-Our celestial understanding begins with acknowledging the **three key motions** of our planet Earth:
+私たちの天体理解は、私たちの惑星地球の3つの主要な動きを認識することから始まります。
 
-1. Rotation around its axis
-2. Revolution around the Sun
-3. Precession of its axis
+1. 自転
+2. 公転
+3. 赤道歳差運動
 
-The first two motions are intrinsically part of our daily life as we experience their effects in tangible ways. However, the third motion, which will be our primary focus, is less remembered despite its significance. All three motions exhibit recurrent patterns, repeating over time, forming cycles each with a specific duration or **period**.
+最初の2つの動きは、私たちの日常生活の本質的な部分であり、私たちはそれらの効果を具体的に経験します。しかし、主に焦点を当てる第3の動きは、その重要性にもかかわらず、あまり覚えられていません。これら3つの動きは、特定の期間または**周期**を持つ、繰り返しパターンを示します。
 
-| Earthly Motion | Period (approx.) | Common name |
-| -              | -                | -           |
-| (1) Rotation   | 24 [h]           | Day / Night |
-| (2) Revolution | 365 [d]          | Year        |
-| (3) Precession | 26'000 [y]       | Great Year  |
+| 地球の動き | 周期（約） | 一般的な名称 |
+| -          | -         | -           |
+| (1) 自転   | 24 [h]    | 昼 / 夜     |
+| (2) 公転   | 365 [d]   | 年          |
+| (3) 赤道歳差運動 | 26,000 [y] | 大いなる年 |
 
-The day-night cycle (1) is a result of the Earth's rotation and impacts life significantly. For practical purposes, we divide a day into two equal segments of `12 hours`, aligning with the [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm) that regulates wakefulness and sleep for many mammals, including humans.
+昼夜のサイクル（1）は、地球の自転の結果であり、生活に大きな影響を与えます。実用的な目的のために、私たちは1日を`12時間`ずつ2つの等しいセグメントに分け、哺乳動物（ヒトを含む）の覚醒と睡眠を調整する[Circadianリズム](https://en.wikipedia.org/wiki/Circadian_rhythm)に合わせます。
 
-The second cycle, the year (2), is observable through the changing seasons of spring, summer, autumn, and winter, especially in higher and lower latitudes. We typically divide the solar year into twelve parts, or **months**, each approximately `30.5 days` long.
+2つ目の周期である年（2）は、春夏秋冬の季節の変化を通じて観察されます。特に高緯度と低緯度では明確に感じられます。私たちは通常、太陽年を約`30.5日`の長さの12つの部分または**月**に分けます。
 
-The lunar cycle, though not covered in detail here, is interesting to note. It occurs almost precisely 13 times in a year, with each **lunar month** lasting slightly over `28 days`. This divergence between lunar and solar years leads to interesting questions regarding our calendar system.
+ここでは詳細には触れませんが、月のサイクルも興味深いです。ほぼ正確に1年に13回、それぞれの**月の満ち欠け**は少し`28日`を超える長さです。この太陽年と月の年のずれは、私たちの暦のシステムに関する興味深い問題を引き起こします。
 
-The third cycle, lesser-known yet equally significant, is the Earth's **axial precession** or **precession of the equinoxes**. Known also as **the Great Year** (3), it takes between `25,772` and `25,920 years` to complete a full cycle.
+3つ目の周期である、あまり知られていないが同様に重要なのは、地球の**歳差運動**または**赤道歳差運動**です。また、**大いなる年**（3）とも呼ばれ、25,772年から25,920年かけて完全な周期を完了します。
 
-[Precession]({{< relref "wiki/encyclopedia/precession.md" >}}) is a complex motion, difficult to describe without visual aids. For context, to show that we're not making this up, let's look at [Merriam-Webster](https://www.merriam-webster.com/dictionary/precession) and how they define it the notion of precession:
+[歳差運動]({{< relref "wiki/encyclopedia/precession.md" >}})は、視覚的な援助なしで説明することが難しい複雑な運動です。文脈を理解するために、私たちがこれをでっち上げているわけではないことを示すために、[Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)の定義や、歳差の概念をどのように定義しているかを見てみましょう。
 
-> a comparatively slow gyration of the rotation axis of a spinning body about another line intersecting it so as to describe a cone[^merriam]
+> 回転体の回転軸が、それに交差する別の軸を中心に比較的遅いジャイロ運動を行い、円錐を描くことである[^merriam]
 
-In the case of planets such as Earth, one needs to specify that ones means the so-called precession of the equinoxes. Britannica defines the precession of the equinoxes as follows:
+地球のような惑星の場合、歳差運動ということを指す必要があります。ブリタニカは、赤道歳差の概念を次のように定義しています。
 
-> ... motion of the equinoxes along the ecliptic (the plane of Earth’s orbit) caused by the cyclic precession of Earth’s axis of rotation.[^britannica]
+> ...地球の回転軸の徐々に変化する周期的な歳差によって引き起こされる、黄道（地球の軌道の平面）に沿った春分点と秋分点の動き[^britannica]
 
-The following figure elucidates axial precession, depicting the Earth's rotation axis **gyrating** in a circular pattern:
+次の図は、歳差運動を説明し、地球の回転軸が円形のパターンで「ジャイロ運動」する様子を明らかにしています：
 
-{{< figure src="images/precession_schema.jpg" caption="Fig. 1 - Axial precession" >}}
+{{< figure src="images/precession_schema.jpg" caption="図1 - 赤道歳差運動" >}}
 
-The direction of precession (circular arrow at the top) counteracts the Earth's rotational spin (circular arrows around the globe). These conflicting rotations produce a peculiar dance in our heavens. For an Earth-bound observer, this means the daily dance of the sky against the constellations counterpoints the slow waltz due to precession across its `25,920-year` cycle.
+歳差運動の方向（上部の円矢印）は、地球の回転のスピン（地球の周りの円矢印）に対抗します。これらの対立する回転は、私たちの天空に奇妙な舞を生み出します。地球上の観察者にとって、これは星座に対する空の毎日の舞と、歳差によるゆっくりしたワルツの対比を意味します。この舞台裏で、星の背景は徐々に変化していきます。この宇宙的な変化は、人の寿命では感知できないほど微小ですが、何千年にもわたって深い影響を及ぼします。
 
-The implications of this precession are immense and serve as the bedrock of our understanding of time and astrological ages. As we journey through the Great Year, the backdrop of the stars shifts gradually. This cosmic shift, though imperceptible within a human lifespan, has profound implications over thousands of years.
+次のセクションでは、これらの影響についてさらに掘り下げ、大いなる年を通じた私たちの天体的な旅を区切る占星術的な時代と、それらが私たちの社会文化の進化に与える影響を解明します。
 
-In the next section, we'll delve deeper into these ramifications, unravelling the astrological epochs that punctuate our celestial journey through the Great Year and their impact on our sociocultural evolution.
+[^merriam]: メリアム＝ウェブスターは、辞書や参考書を制作することで知られる信頼性のある広く認識されたアメリカの出版社です。彼らの定義によれば、歳差運動とは、回転体の回転軸が別の交差する線の周りにゆっくりと回転し、円錐のような動きを生み出すことを指します。歳差運動は、時間の経過とともに円錐形状を形成する徐々な回転を特徴とします。詳細についてはこちらを参照してください：[precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
 
-[^merriam]: Merriam-Webster is a reputable and widely recognized American publisher known for producing dictionaries and reference books. According to their definition, precession refers to the slow gyration of a spinning body's rotation axis around another intersecting line, creating a cone-like motion. It is characterized by a gradual rotation that forms a cone shape over time. See here for more: [precession (noun) | Merriam-Webster](https://www.merriam-webster.com/dictionary/precession)
+[^britannica]: 春分点と秋分点の循環運動を指す歳差運動は、地球の軌道面に沿った春分点と秋分点の動きの周期的な運動を指します。これは、広範で信頼性のある百科事典出版社であるブリタニカによって説明されており、幅広い主題に関する包括的で信頼性のある情報を提供しています。詳細についてはこちらを参照してください：[precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
 
-[^britannica]: The precession of the equinoxes refers to the cyclic motion of the equinox points along Earth's orbital plane caused by the gradual shift in Earth's axis of rotation, as explained by Britannica, a renowned and authoritative encyclopedia publisher that provides comprehensive and reliable information on a wide range of subjects. See here for more: [precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
+## 十二宮
 
-## The Twelve Houses
+地球の[三つの主要な運動](#the-great-year)を理解することで、これらの天体のリズムが時間を概念化し、測定するための複雑な基準を提供していることがわかります。これらの周期的な運動にはいくつかの興味深い特徴があります：
 
-With the understanding of the [three key motions of the Earth](#the-great-year), we recognize that these celestial rhythms provide an intricate frame of reference that enables us to conceptualize and measure time. These cyclical motions share several intriguing characteristics:
++ **明確な周期性**: これらの運動は人為的な介入を受けずに繰り返される天体の振る舞いを示し、周期が完了すると再び始まるリズミカルな循環を繰り返します。
++ **時間の経過の一貫性**: この固有の周期性のため、特定の周期においては正確に同じ時間が経過することが期待できます。これは、人間が作り出したシステムでは比較できない予測可能性と信頼性を提供します。
++ **細分性**: フルサイクルの自然な区切りによって、時間の小さな、区切られた単位が提供され、圧倒的で連続的な時間のストレッチではなく、消化可能な時間を認識することができます。
 
-+ **Definitive periodicity**: These motions, untouched by human intervention, depict a recurrent cosmic choreography, repeating the same patterns in a rhythmic cycle that is bound to start again once completed.
-+ **Consistency of time elapse**: Because of this inherent periodicity, we can expect the exact same amount of time to elapse for a given cycle. This offers a degree of predictability and reliability unmatched by human-made systems.
-+ **Granularity**: The natural segmentation of a full cycle provides smaller, discrete units of time, enabling us to perceive time in digestible bites, rather than overwhelming, continuous stretches.
+これらの調和のとれた天体のリズムは、私たちの典型的な人間の認識の範囲を超える、深い神秘と壮大さを持っています。そのため、これらの天体の運動を時間計測のフレームワークとして使用することは、特に3つの運動がお互いを非常にうまく補完しているという点から、直感的に魅力的です。
 
-These harmonious cosmic rhythms hold a profound sense of mystery and grandeur that exceeds our typical human scale of perception. Thus, using these celestial motions as a time-keeping framework becomes intuitively appealing, particularly because all three motions exhibit intervals that complement each other extraordinarily well.
+地球の自転によって生まれる1日は、数えることのできる単位であり、地球の公転に起因する1年は、大歳差運動の巨大さを測るための実現可能な尺度を提供します。
 
-The day, a product of the Earth's rotation, becomes a manageable unit to count a year, which in turn, stemming from the Earth's revolution, offers a feasible measure to gauge the enormity of the Great Year, a result of precession.
+この時間尺度の連鎖により、興味深いパターンが生まれます：自転と公転の周期をそれぞれ12の単位に分割すること。この分割は、一見恣意的に見えるかもしれませんが、大歳差運動または**大歳差年**に適用されると、遠大な意味を持つことになります。
 
-This interlocking of time scales gives rise to an intriguing pattern: the division of the rotation and revolution cycles into **12 units** each. This division, while seemingly arbitrary, has far-reaching implications when applied to the precession cycle or the **Great Year**.
+**大歳差年**を12で割ることで、新たな時間単位である**大月**が生まれます。それぞれが驚異的な長さの約`2,160年`に及ぶこの単位は、通常の1年を縮小させ、千年を超える時間範囲を測るための尺度を提供します。
 
-Dividing the **Great Year** by twelve gives birth to a new time unit: the Great Month, each spanning a staggering `2,160 years`. This unit embodies a vast stretch of time, dwarfing our conventional year and providing a measure for time spans that cross the threshold of millennia.
+[大月]({{< relref "wiki/encyclopedia/great-month.md" >}})の概念は、文明の興亡、文化とアイデアの進化、科学的理解の進歩を包括するより大きな時間的枠組みを提供します。これは、個人的または歴史的な経験を超えた時間の視点を提供し、通常地質学的または天文学的な出来事に予約されているスケールにまで及びます。
 
-The concept of the [Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}}) offers a larger temporal framework that encompasses the rise and fall of civilizations, the evolution of cultures and ideas, and the progress of scientific understanding. It gives us a perspective on time that goes beyond our personal or even historical experience, reaching into a scale that we usually reserve for geological or astronomical events.
+日々の循環と年の周期が時間の理解にとって重要であるように、大月は長期的な傾向と周期を理解するための重要なツールとなる可能性があります。私たちの自身の（古代の）歴史、地球の構造、天文学的なパターンに関する知識がさらに増えるにつれて、大月の概念が何千年にもわたるパターンと出来事を理解し、宇宙の中での自分たちの位置を理解するための広い文脈を提供してくれるかもしれません。
 
-Just as the daily and annual cycles are integral to our understanding of time, the Great Month could prove to be an essential tool for understanding longer-term trends and cycles. As our knowledge of our own (ancient) history, the constitution of planet Earth, and astronomical patterns continues to grow, we may find that the concept of the Great Month helps us make sense of patterns and events that span thousands of years, providing a broader context for understanding our place in the cosmos.
+これらの大歳差年の十二宮によって提供されるより広い時間の枠組みは、通常は理解しがたい広大な時間を理解することを可能にします。それは私たちの一時的な存在を宇宙の壮大な年代記の中に位置付ける宇宙のカレンダーです。
 
-This broader framework of time, provided by the twelve houses of the Great Year, each a Great Month, enables us to comprehend vast stretches of time that would otherwise seem incomprehensible. It is a cosmic calendar that places our transient existence into a grand chronicle of the universe.
+## 星々を星座に結び付ける
 
-## Mapping the heavens into constellations
+宇宙の旅を続けながら、地上での星の観察とその重要な役割について考えてみましょう。紀元前からの地上の星空観察の人間の慣習と、それが私たちの宇宙の理解に果たした重要な役割に焦点を当てましょう。導入で強調されているように、異なる文化や時代の人々は天体劇場に向けて視線を上げ、輝く天体の中で自分たちの位置を把握しようとしました。この共有の魅力は、文化や大陸、そして千年を超えて、私たちを先祖と結びつけ、共通の探求の中で宇宙の謎を解き明かそうとするものです。
 
-As we continue our cosmic voyage, let's pause to consider the age-old human practice of Earthly stargazing and the crucial role it has played in our understanding of the universe. As highlighted in the introduction, humans across cultures and epochs have turned their gaze upwards to the celestial theater, seeking to comprehend their position amidst the glittering array of heavenly bodies. This shared fascination transcends cultures, continents, and millennia, connecting us with our ancestors in a shared quest to unravel the mysteries of the universe.
+初期の人類は、星々に驚嘆するだけでなく、この圧倒的な宇宙地図を航海するための巧妙な解決策を見つけました：見える星々を意味のある集まりである**星座**にグループ化することです。この初期の科学的な形式は、実用的であるだけでなく、創意工夫に富んだ象徴的なものでもあり、それぞれの集まりに神話的な物語を重ねています。これらの物語性のある形状によって、抽象的な宇宙データは物語性を帯び、空間パターンを神話的な神々や怪物、英雄の物語に結び付けました。物語の要素は空間的な要素と同じくらい重要であり、それは知識の伝達を世代から世代に可能にし、過去の知恵が現在を照らすことを可能にしました。
 
-Early humans not only marveled at the stars but came up with an ingenious solution to navigate this overwhelming cosmic map: grouping the multitude of visible stars into meaningful clusters known as **constellations**. This form of early science was not only practical but ingeniously symbolic, layering each cluster with a mythological tale. Through these storied shapes, abstract cosmic data took on a narrative quality, anchoring spatial patterns in the memorable tales of gods, monsters, and heroes. The storytelling aspect is arguably as crucial as the spatial one; it facilitated knowledge transmission across generations, allowing the wisdom of the past to enlighten the present.
+これらの天体のパターンを認識する能力を持つことで、人間は農業の時期や長い航海のための航海など、実用的で実行可能な情報を把握することができました。星座は私たちの宇宙の羅針盤となり、季節を通じて、広大な水域を横断する際に私たちの道を導く存在となりました。
 
-Armed with the ability to recognize these celestial patterns, humans could discern practical, actionable information, such as the timing of agricultural activities or navigation for long sea voyages. The constellations became our cosmic compass, guiding our way through the seasons and across vast bodies of water.
+しかし、星々の配置は静的ではありません。少し前の段落で学んだように、徐々に進行する歳差運動は、さり気ない性質にもかかわらず、星座の配置を夜空で不可避に変えてしまいます。このゆっくりとした天体のダンスは、一見の観察者には見逃されがちですが、注意深く長期的な天体観測に投資する人々には明らかです。大歳差運動は、約`25,920年`かかる完全なサイクルを完成するため、`1°`の変化が`72年`の時間的なスパンに相当することが特筆されます。驚くべきことに、この`1°`の変化は、私たちの空における太陽と月の見かけの直径の合計にほぼ比例しています。
 
-Yet, the stellar canvas is not static. As we just learned a few paragraphs earlier, the gradual progression of axial precession, despite its subtle nature, inexorably reshapes the constellations' arrangement in the night sky. This slow celestial dance, overlooked by casual observers, becomes apparent to those invested in careful, long-term celestial tracking. With axial precession taking approximately `25'920 years` for a full cycle, a shift of `1°` on the celestial sphere equates to a time span of `72 years`, roughly aligning with an average human lifetime. Remarkably, this `1°` shift is also closely proportional to the combined apparent diameter of the Sun and the Moon in our sky.
+このような発見は、歳差運動の観察と理解の非常に複雑な性質を強調しています。経験的な知識を代々に渡す効果的な手段がないと、この課題はさらに困難になります。しかし、人類の持続的な好奇心とパターン認識の能力によって、私たちは裸眼と夜空を使ってこの宇宙の謎を解き明かすことができました。
 
-Such findings underscore the sheer complexity of observing and comprehending axial precession. Without efficient means for inter-generational persistence of empirical knowledge, the task becomes even more daunting. Yet, humanity's enduring curiosity and capacity for pattern recognition have allowed us to pierce this cosmic mystery, using nothing more than our naked eyes and the night sky as a canvas for our stories and mathematical explorations.
+## 時間の指標：年における基準日の重要性
 
-## Marking Time: The Importance of Cardinal Days in a Year
+宇宙の旅を続ける前に、太陽の周りを地球が年間を通じて旅する際のもう一つの特徴的な側面に焦点を当てることが重要です。それは、地球の軌道面に対する地軸の傾斜である`23.44°`に影響を受けるものです。この傾斜は、地球に特有の季節のリズムだけでなく、年間を通じて太陽の光を知覚する方法にも影響を与えます。
 
-Before we continue our cosmic journey, it's crucial to focus on another distinctive aspect of Earth's annual journey around the Sun, influenced by the planet's [axial tilt](https://en.wikipedia.org/wiki/Axial_tilt) of `23.44°` in relation to its orbital plane. This tilt not only gives our planet its characteristic seasonal rhythm but also impacts how we perceive the Sun's light throughout the year.
+この天文学的な概念をもう少し詳しく見てみましょう。**天の赤道**は、地球の赤道を空に投影したものであり、**黄道**は地球の公転による太陽の視覚的な軌道を表しています。天の赤道と黄道は年に2回交差し、春分点と秋分点として知られる2つの特定のポイントをマークします。これらの春分点と秋分点は、昼と夜の長さが世界中で等しい瞬間を示します。**春分点**（または**春分**とも呼ばれる）は通常3月20日前後に起こり、**秋分点**は9月22日前後に起こります。
 
-Let's delve a bit deeper into these astronomical concepts. The **celestial equator** is the projection of the Earth's equator onto the sky, while the **ecliptic** is the apparent path the Sun traces in this celestial sphere due to Earth's revolution. The celestial equator and ecliptic intersect twice a year at two specific points, marking the **spring and autumnal equinoxes**. These equinoxes signify the moment when the duration of day and night is equal across the globe. The **spring equinox** (also known as the **vernal equinox**) typically occurs on the 20<sup>th</sup> of March, and the **autumnal equinox** around the 22<sup>nd</sup> of September.
+逆に、**夏至**と**冬至**は、地球の半球がそれぞれ最も長い日または最も長い夜を経験する瞬間を示します。**夏至**は一般的に6月21日に近く、**冬至**は12月21日前後に起こります。
 
-Conversely, the **summer and winter solstices** denote the moments when one hemisphere of the Earth experiences the longest day or longest night of the year, respectively. The **summer solstice** generally falls on the 21<sup>st</sup> of June, while the **winter solstice** occurs around the 21<sup>st</sup> of December.
+これらの春分点と秋分点、そして夏至と冬至 - つまり**基準日** - は、カレンダーにおいて重要な天文学的な節目とされています。これらは、それぞれの季節の始まりを示すマイルストーンです。
 
-These equinoxes and solstices - the **cardinal days** - are considered pivotal astronomical milestones in our calendar, marking the start of each season.
+|| 基準日の名称       | 年の日付                         | 知覚可能性                             |
+| -                 | -                                | -                                      |
+| **春分点**        | 3月20日前後                       | 昼と夜の長さが等しい                     |
+| **夏至**          | 6月21日前後                       | 北半球で最も長い昼                       |
+| **秋分点**        | 9月22日前後                       | 昼と夜の長さが等しい                     |
+| **冬至**          | 12月21日前後                      | 北半球で最も長い夜                       |
 
-| Cardinality         | Day in a year                  | Perceptibility                           |
-| -                   | -                              | -                                        |
-| **Vernal equinox**  | ~ 20<sup>th</sup> of March     | Day and night of equal length            |
-| **Summer solstice** | ~ 21<sup>st</sup> of June      | Longest day in the Northern Hemisphere    |
-| **Autumn equinox**  | ~ 22<sup>nd</sup> of September | Day and night of equal length            |
-| **Winter solstice** | ~ 21<sup>st</sup> of December  | Longest night in the Northern Hemisphere  |
+基準日は、**天の赤道**と**黄道**が一致する瞬間を示すものであることに留意してください。また、もう一つの定義として、春分点や秋分点は、見える太陽の中心が地球の赤道上に直接ある瞬間を意味します。
 
-Bear in mind that an equinox or solstice represents a specific moment in time when the **celestial equator** aligns with the **ecliptic**, not an entire day. Another way to define an equinox is the moment when the visible Sun's center is directly over the Earth's equator.
+地球を壮大な天体の時計のように見ると、基準日は時計の文字盤上の**四つの象限**を示すマーカーと見なすことができます。要するに、天体の測定を比較する瞬間を選ぶならば、特に**春分点**は、そのグローバルに観察可能な特性のため、最も望ましいものとなります。
 
-Viewing Earth as a grand celestial clockwork, the cardinal days can be seen as markers for the **four quadrants** on a clock face. In essence, if we were to pick a moment to compare celestial measurements, the cardinal days, particularly the **equinoxes**, would be the most desirable due to their globally observable characteristics.
+## 天文時計製作
 
-## Astronomical watchmaking
+地球の三つの主要な動き - そのうち二つは速い周期性を持つ - は、複雑な振る舞いを示す中で航行することは困難な課題です。特に、第三の動きである **歳差運動** の遅い、威厳ある進行は、毎年特定の瞬間を選んで恒星の観測を行う観察者を必要とします。これは、機械式腕時計内で異なる機構が調和して正確に時間を示すように働くのと同様に、天文時計のモデルを構築する際にも、時間の基準点を用いる必要があります。腕時計が通常は `0` または `12時` を時間の基準とするように、大歳差運動も基準点を要求します。
 
-Navigating the intricate choreography of Earth's three key motions - two of which present a rapid periodicity - is a demanding task, particularly when trying to discern the glacial pace of the third motion, the **precession**. Its slow, stately progression requires the observer to select a specific moment each year for stellar observation, akin to the interplay of distinct mechanisms within a mechanical wristwatch that work in harmony to accurately portray time. Just as a wristwatch employs a time reference, typically `0` or `12 o'clock`, the Great Year also calls for a defining point of reference.
+天文時計のモデルを構築するためには、以下の特定の基準点を考慮する必要があります：
 
-To construct our model of an astronomical timepiece, we need to consider specific reference points, namely:
++ **第一の動き [回転]**: 新しい日の始まりを告げる日の出
++ **第二の動き [公転]**: 新しい季節のサイクルの到来を示す春分点
++ **地理的な基準点**: 太陽が毎日東から昇る方向である正東
 
-+ **First motion [rotation]**: Sunrise, which heralds the start of a new day
-+ **Second motion [revolution]**: Spring Equinox, marking the arrival of a new cycle of seasons
-+ **Geographical point of reference**: Due East, the direction from which the Sun makes its daily ascent
+これらの合理的なパラメータを活用して、私たちの「ゼロ」ポイントを確立することで、天体の織り成す絨毯 - 星や星座 - が **大歳差運動** の背景に対して展開している様子を観察することができます。
 
-By leveraging these sensible parameters to establish our 'zero' point, we can now observe the celestial tapestry – the stars or constellations – unfolding against the backdrop of the **Great Year**.
+現在の時代において、春分点で東の方向に太陽と同時に昇る星座は、どの星座でしょうか？
 
-One might then wonder, what constellation graces the pre-dawn sky on the spring equinox, rising in unison with the Sun due east, **in our current era**?
+{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="図2 - 2020年3月20日の春分点、Stellariumによる撮影" >}}
 
-{{< figure src="images/20202003_vernal_equinox_stellarium.jpg" caption="Fig. 2 - Vernal equinox on the 20<sup>th</sup> of March 2020 due east, taken with Stellarium" >}}
+天空を見上げると、我々は宇宙の移り変わりの門戸に立っていることに気付かされます。魚座が次に訪れる水瓶座に譲るという天体的な転換は、千年紀の経過を静かに示す、壮大な天体時計が新たな時代に進むことを意味しています。これは、古代と現代が交差し、新たな時代の宇宙の移り変わりを貴重な一瞥として提供してくれる正確な瞬間です。軸傾斜の歳差運動についての認識と知識があれば、この新たな時代は千年以上前から容易に予測されていたでしょう。
 
-As we look to the heavens, we find ourselves at the threshold of a cosmic shift, where the constellation of Pisces is giving way to the upcoming constellation of Aquarius. This celestial transition silently marks the passage of millennia, a grand celestial clock advancing into a new age. This is the precise moment where the ancient and the current converge, providing us with an invaluable glimpse into the cosmic shift into a new age. A new age that could have been easily predicted for millenia if the awareness and knowledge about axial precession were given.
+## 黄道十二宮の時代のサイクル
 
-## The Cycle of Zodiacal Ages
+天体観測と春分点の歳差運動の進行との関連に関する私たちの以前の仮定は任意的なものではありませんでした。この理解は古代に深く根ざしています。この探求では、_黄道の創世は歳差と本質的に関連している_と主張しています。[黄道]({{< relref "wiki/encyclopedia/zodiac.md" >}})という用語は、書かれた歴史や文化的な境界を超えて言及される12の星座のグループを指します。間違いなく、黄道とその派生である占星術は何千年にもわたって重要な意味を持ってきました。
 
-Our prior assumptions about celestial observations and their correlation with the slow progression of the precession of the equinoxes were not arbitrary. This understanding is deeply rooted in antiquity. This exploration propounds that the _Zodiac's genesis is intrinsically linked to precession_. The term [Zodiac]({{< relref "wiki/encyclopedia/zodiac.md" >}}) refers to a group of 12 constellations, whose mention transcends written history and cultural boundaries. Undeniably, the Zodiac and its derivative study, now known as astrology, have been of significance for thousands of years.
+最古の文明であるシュメール人は、黄道についての深い敬意と知識を持っていました。歳差運動を黄道に結び付けることは議論の余地があります。なぜなら、それは前者の包括的な理解を意味し、地球が球体であるという概念を含めたかなりの科学的知識が必要とされるからです。このような宇宙論的な洞察を最古の文明に帰することは、既知の歴史に対する現代の合意に疑問を投げかけ、人類の進歩の直線的で徐々な物語に疑義を投げかけることになるでしょう。この視点は、代替的な物語の基礎を提供する可能性があります。
 
-The oldest known civilization, the Sumerians, had profound respect and knowledge of the Zodiac. Linking the precession to the Zodiac is controversial, as it implies comprehensive understanding of the former, requiring considerable scientific knowledge including the concept of Earth as a globe. To attribute such cosmological insights to the earliest known civilization would challenge the contemporary consensus on known history, casting doubt on the linear and gradual narrative of human progress. Such a perspective could provide a basis for alternative narratives.
+黄道に戻ると、その用語は古代ギリシャ語の「zōidiakòs kýklos (ζῳδιακός κύκλος)」に由来し、「彫刻された動物のサイクルまたは円」という意味です[^zodiac]。しかし、非印欧語の言語では、黄道には異なる名前があります。聖書のヘブライ語では、黄道は「マザロト」(מַזָּרוֹת)と呼ばれ、「冠の花輪」という意味です[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations)。フレーズ「マゼルトフ」(מזל טוב‎)は、「幸運」またはより正確には「幸運なるもの」を祝福するもので、マザロトから派生しています。中国の象形文字では、黄道は「獣帯」と呼ばれ、動物の帯を意味します。
 
-Returning to the Zodiac, the term originates from Ancient Greek zōidiakòs kýklos (ζῳδιακός κύκλος) meaning _'cycle or circle of carved animals'[^zodiac]. However, in non-Indo-European languages, the Zodiac has different names. In Biblical Hebrew, the Zodiac is called **Mazzaroth** (מַזָּרוֹת), translating to *'garland of crowns'*[↩︎](http://www.jewishencyclopedia.com/articles/4626-constellations). The phrase *'mazel tov'* (מזל טוב‎), wishing *good luck* or more accurately *good fortune*, derives from *mazzaroth*. In Chinese logograms, the Zodiac is referred to as 獣帯, meaning *'animal belt'*.
+黄道は12の星座で構成され、12のサインです。これらの12の星座は黄道の一部です。これは単なる偶然ではありません。なぜなら、春分点では黄道が天の赤道と一致するからです（[一年の重要な日とその意義](#cardinal-days-in-a-year-and-their-importance)を参照）。
 
-The Zodiac comprises `12 constellations`, twelve signs. These twelve constellations are part of the ecliptic. This is no mere coincidence, as it is precisely the ecliptic which aligns with the celestial equator on the equinoxes (refer [Cardinal days in a year and their importance](#cardinal-days-in-a-year-and-their-importance)).
+もし春分点の黄道を追うことが正しい方法であり、歳差運動の進行である大歳差運動を追跡するのであれば、黄道上に位置する12の星座は、与えられた大歳差運動の12の「大月」または12の「大ハウス」を表しています。先に[述べたように](#the-twelve-houses)、大歳差運動を12のハウスに分けることで、各ハウスは`2,160年`続きます。
 
-If following the ecliptic on the equinoxes is indeed the correct method to track the precession's progression, the Great Year, then the twelve constellations positioned along the ecliptic indeed represent the twelve houses or the twelve **Great Months** for a given **Great Year**. As we've established [earlier](#the-twelve-houses), dividing the Great Year into twelve houses makes each house last `2'160 years`.
+一つは、すでに[水瓶座の時代]({{< relref "intro/timeline/age-of-aquarius.md" >}})に移行したのか、[魚座の時代]({{< relref "intro/timeline/age-of-aquarius.md" >}})にまだいるのか疑問に思うかもしれません。これに答えるためには、まず歳差運動の周期が最初に始まった時、具体的にはあるハウスが正確に始まるか終わる時を理解する必要があります。残念ながら、これは重要な仮定なしでは簡単には判断できません。ただし、21世紀初頭を進行するにつれて、新しい**水瓶座の時代**になる可能性が高まっています。
 
-One might wonder whether we have already transitioned into the [Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}}) or are still in the [Age of Pisces]({{< relref "intro/timeline/age-of-aquarius.md" >}}). To answer this, one must first understand when the precessional cycle initially began, or more specifically, when a given house precisely begins or ends. Unfortunately, this isn't easy to determine without significant assumptions. However, it is clear that as we progress through the early 21<sup>st</sup> century, the possibility of being in the new **Age of Aquarius** increases.
-
->  Aquarius is both a constellation and the twelfth of a circle known as a sign. Entering Aquarius means entering the period during which astronomers will see the sun rise in Aquarius on the day of the vernal equinox. The phenomenon of the precession of the equinoxes is involved in this fact. The equinoctial sun has been rising in the sign of Aquarius since 1950. In this interpretation, we are in the 'Golden Age' of prophecies. The equinoctial sun will not begin rising in the constellation of Aquarius until about the year 2700. In this interpretation, neither you nor I will see the prophesied 'Golden Age'.
+>  水瓶座は、星座であり、サインと呼ばれる12分の1の円の12番目です。水瓶座に入るということは、春分点の日に太陽が水瓶座に昇る期間に入ることを意味します。この事実には、歳差運動が関与しています。春分点の太陽は1950年以来、水瓶座のサインで昇っています。この解釈では、私たちは予言の「黄金時代」にいます。春分点の太陽が水瓶座の星座に昇るのは、
+2700年頃からです。この解釈では、あなたも私も予言された「黄金時代」を見ることはありません。
 >
-> -- Jean Sendy: Coming Of The Gods (1970), p. 69
+> – ジャン・サンディ: 『神々の来臨』（1970年）、p. 69（英語から日本語に自由に翻訳）
 
-The duration of a house could also be determined by the size of a given constellation in the sky. However, this would be a poorly defined assumption as the shapes of Zodiacal constellations vary greatly. Pisces, for instance, has a considerably large constellation, particularly in ecliptic length, whereas Aquarius is comparably short. There is a significant gap between these two constellations. It's important to note that the duration of a Great Month is 2'160 years, mimicking the twelfth section of its parent year cycle. For reasons that may be highlighted in future discussions, the year `1'950 AD` as the beginning of the Age of Aquarius appears to be our best assumption for now.
+星座の大きさによってハウスの期間も決定することができます。しかし、これは形状が大きく異なるため、定義が曖昧です。例えば、魚座は黄道の長さを考慮すると非常に大きな星座ですが、水瓶座は比較的短いです。これらの星座の間には大きなギャップがあります。大月の期間が2,160年であり、親年周期の12番目のセクションを模倣していることに注意することが重要です。将来の議論で強調される理由により、西暦1,950年を水瓶座の時代の始まりとすることが現時点で最も妥当な仮定のようです。
 
-Based on these assumptions, calculating the **Zodiacal Ages** backward by decrements of `2'160 years`, we arrive at the following table:
+これらの仮定に基づいて、`2,160年`ずつ年数を減らして黄道時代を逆算すると、次の表が得られます：
 
-| Zodiacal age              | Time span```
-| -                         | -                    | -                           |
-| :capricorn: Capricorn     | 21'810 -- 19'650 BC  | Sea goat, Mountain Goat     |
-| :sagittarius: Sagittarius | 19'650 -- 17'490 BC  | Archer, Centaur             |
-| :scorpius: Scorpio        | 17'490 -- 15'330 BC  | Eagle, Phoenix              |
-| :libra: Libra             | 15'330 -- 13'170 BC  | Scales, Balance             |
-| :virgo: Virgo             | 13'170 -- 11'010 BC  | Virgin, Grain Goddess       |
-| :leo: Leo                 | 11'010 -- 8'850 BC   | Lion, Nemean Lion           |
-| :cancer: Cancer           | 8'850 -- 6'690 BC    | Crab, Scarab, Turtle        |
-| :gemini: Gemini           | 6'690 -- 4'530 BC    | Twins, Dioscuri             |
-| :taurus: Taurus           | 4'530 -- 2'370 BC    | Bull, Calf, Bison           |
-| :aries: Aries             | 2'370 -- 210 BC      | Ram, Golden Fleece          |
-| :pisces: Pisces           | 210 BC -- 1'950 AD   | Fishes, Twin Fish           |
-| :aquarius: Aquarius       | 1'950 AD -- 4'110 AD | Water Bearer, Fountain      |
+| 黄道時代                | 時間範囲
+| -                       | -
+| :capricorn: 山羊座     | 紀元前21,810年 -- 紀元前19,650年
+| :sagittarius: 射手座   | 紀元前19,650年 -- 紀元前17,490年
+| :scorpius: 蠍座        | 紀元前17,490年 -- 紀元前15,330年
+| :libra: 天秤座         | 紀元前15,330年 -- 紀元前13,170年
+| :virgo: 乙女座         | 紀元前13,170年 -- 紀元前11,010年
+| :leo: 獅子座           | 紀元前11,010年 -- 紀元前8,850年
+| :cancer: 蟹座          | 紀元前8,850年 -- 紀元前6,690年
+| :gemini: 双子座        | 紀元前6,690年 -- 紀元前4,530年
+| :taurus: 牡牛座        | 紀元前4,530年 -- 紀元前2,370年
+| :aries: 牡羊座         | 紀元前2,370年 -- 紀元前210年
+| :pisces: 魚座          | 紀元前210年 -- 西暦1,950年
+| :aquarius: 水瓶座      | 西暦1,950年 -- 西暦4,110年
 
-These denote the [World Ages]({{< relref "wiki/encyclopedia/world-age.md" >}}) of the past. Looking into the future, after Aquarius comes Capricorn, followed by Sagittarius, and so on. The relevance of these ages extends beyond simply knowing the hour of a day, the day of a year, or the age of ages. Understanding precession and tracking it through ecliptic constellations allows us to position ourselves within larger timescales. It is a conventional way of referring to vast time spans surpassing mere years. If there's anything worthy of measuring **World Ages**, employing the Earth's third key motion, enabling millennia-long time references, is surely the most intelligent approach.
+これらは過去の[世界時代]({{< relref "wiki/encyclopedia/world-age.md" >}})を示しています。未来を見ると、水瓶座の後に山羊座、そして射手座が続きます。これらの時代の関連性は、単に一日の時刻や一年の日付、または年齢を知ること以上のものです。歳差運動を理解し、黄道上の星座を通じてその進行を追跡することで、より大きな時間の尺度の中で自分自身を位置づけることができます。それは単なる年数を超える広大な時間スパンを指すための伝統的な方法です。もしも測定する価値のあるものがあるとすれば、地球の第三の主要な動きを利用して千年単位の時間参照を可能にすることでしょう。
 
-If our Earth's inhabitants employed this understanding in the past, could we now comprehend what they might have meant when referring to *world ages* or *aeons* of time?
+もし私たちの地球の住人が過去にこの理解を用いていたならば、彼らが「世界の時代」や「永遠」の時間を指していたのが今理解できるでしょうか？
 
-[^zodiac]: According to Merriam-Webster, the term zodiac has the following definitions: a) Zodiac refers to an imaginary band in the celestial sphere that is centered on the ecliptic, encompassing the apparent paths of all the planets. It is divided into 12 constellations or signs, with each sign considered to extend 30 degrees of longitude, and is commonly used in astrology. b) Zodiac can also refer to a figure that represents the signs of the zodiac and their corresponding symbols, often used in astrological charts or illustrations. See here for more: [zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
+[^zodiac]: メリアム・ウェブスターによると、zodiacという用語には次```japanese
+のような定義があります：a）黄道とは、天球上の想像上の帯であり、すべての惑星の見かけの軌道を包括している。それは12の星座またはサインに分割され、各サインは経度30度を表し、占星術で一般的に使用されます。b）Zodiacは、占星術のチャートやイラストでよく使用される、黄道のサインとそれに対応するシンボルを表す図形を指すこともあります。詳細はこちらを参照してください：[zodiac | Merriam Webster](https://www.merriam-webster.com/dictionary/zodiac)
 
-## Encoding
+## エンコーディング
 
-Past civilizations have not only known about the **precession of the equinox**, but they have also endeavored to preserve this sacred knowledge. This preservation occurred in two notable forms: **language** and **constructions**. Both these forms served as mechanisms of encoding that have carried this ancient wisdom through ages, allowing it to transcend the ravages of time and cultural shifts.
+過去の文明は、**歳差運動**についてだけでなく、この神聖な知識を保持しようと努力しました。この保存は、**言語**と**構築物**の2つの顕著な形態で行われました。これらの形態は、この古代の知恵を時代を超えて伝えるためのエンコードの仕組みとして機能し、時間と文化の変遷を超越することを可能にしました。
 
-### Hamlet's Mill
+### 『ハムレットの製粉所』
 
-In 1969, a groundbreaking work was published that would provide an intricate insight into the encoded understanding of the precession of the equinoxes. This knowledge, the authors proposed, had its roots in an ancestral civilization characterized by a highly sophisticated understanding of the cosmos. This civilization, they claimed, had transmitted this knowledge through subsequent world civilizations, encoded within the rich tapestry of mythical images and narratives.
+1969年、歳差運動のエンコードされた理解に関する緻密な洞察を提供する画期的な研究が発表されました。この知識は、著者たちが主張するように、宇宙の非常に洗練された理解を特徴とする祖先の文明にそのルーツを持っていました。彼らは、この知識が神話的なイメージと物語の豊かなタペストリーにエンコードされ、その後の世界の文明を通じてこの知識が伝えられていたと主張しました。
 
-This remarkable study was conducted by Giorgio de Santillana (1902–1974), a professor of history of science at the esteemed Massachusetts Institute of Technology, and Hertha von Dechend (1915–2001), a professor of history of science, philosophy, and ethnology at the University of Frankfurt. Together they co-authored *Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+この驚くべき研究は、ジョルジョ・デ・サンティジャナ（1902年-1974年）、マサチューセッツ工科大学で歴史科学の教授であった人物と、ヘルタ・フォン・デシェンド（1915年-2001年）、フランクフルト大学で歴史科学、哲学、民族学の教授であった人物によって行われました。彼らは共著で『ハムレットの製粉所―人間知識の起源と神話を通じた伝達を探る試論』と題された書籍を発表しました。
 
-Their book offers a revolutionary perspective, emphasizing the holistic and interconnected nature of archaic thought, and the profound role the celestial dynamics played in shaping their worldview. Let's allow their words to elucidate:
+彼らの書籍は、原始的な思考の全体性と相互関連性、および天体のダイナミクスが彼らの世界観を形作る上で果たす深い役割を強調する革新的な視点を提供しています。彼らの言葉に耳を傾けましょう：
 
-> "To begin with, there is no system that can be presented in modern analytical terms. There is no key, and there are no principles from which a presentation can be deduced. The structure comes from a time when there was no such thing as a system in our sense, and it would be unfair to search for one. There could hardly have been one among people who committed all their ideas to memory. It can be considered a pure structure of numbers. From the beginning, we considered calling this essay 'Art of the Fugue.' And that excludes any 'world-picture,' a point that cannot be stressed strongly enough. Any effort to use a diagram is bound to lead into contradiction. It is a matter of times and rhythm."
+>「まず第一に、現代的な分析的な用語で提示できるシステムは存在しません。鍵も原則もありません。構造は、われわれのような意味でのシステムが存在しなかった時代のものであり、それを探し求めるのは不公平です。すべてのアイデアを記憶に委ねた人々の中にシステムが存在するはずもありませんでした。これは純粋な数の構造と考えることができます。最初から、私たちはこの試論を『フーガの技法』と呼ぶことを考えました。そして、それはどんな「世界像」も除外します。これに関しては、十分に強調することはできません。図を使用しようとする試みは、必ず矛盾に陥ることになります。時間とリズムの問題です。」
 >
-> "The subject has the nature of a hologram, something that has to be present as a whole to the mind. Archaic thought is cosmological first and last; it faces the gravest implications of a cosmos in ways which reverberate in later classic philosophy. The chief implication is a profound awareness that the fabric of the cosmos is not only determined, but overdetermined and in a way that does not permit the simple location of any of its agents, whether simple magic or astrology, forces, gods, numbers, planetary powers, Platonic Forms, Aristotelian Essences or Stoic Substances. Physical reality here cannot be analytical in the Cartesian sense; it cannot be reduced to concreteness even if misplaced. Being is change, motion, and rhythm, the irresistible circle of time, the incidence of the 'right moment', as determined by the skies."
+>「このテーマはホログラムの性質を持っており、心に完全な形で存在しなければなりません。原始的な思考は宇宙論的な最初であり、最後です。それは後の古典哲学に響く、宇宙の枠組みに関わる重大な意味合いを持っています。その主要な意味合いは、宇宙の構造が決定されるだけでなく、過度に決定され、かつ場所を特定することのできない力によってなされること、単純な魔術や占星術、力、神々、数、惑星の力、プラトンの形而上学、アリストテレスの本質論、ストア派の実体のようなものに還元することが許されないことです。ここでは物理的な現実は、デカルト的な意味で分析的にはなりません。それは具体性に還元できないものです。存在は変化、運動、リズムです。それは時間の引力によって決まる「適切な瞬間」の影響を受けるものであり、それは天空によって決められます。」
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.56
+> -- ジョルジョ・デ・サンティジャナ、ヘルタ・フォン・デシェンド：『ハムレットの製粉所―人間知識の起源と神話を通じた伝達を探る試論』（1969年）、p.56、（英語から日本語に自由に翻訳）
 
-Santillana and von Dechend challenge the modern perception of precession as a trivial celestial motion and invoke the grand vision our ancestors had towards this cycle. They argue that the precession, for our forebears, represented a majestic secular motion — a peg on which they hung their profound thoughts about cosmic time:
+サンティジャナとフォン・デシェンドは、現代の歳差運動を些細な天体運動とみなすモダンな認識に疑問を投げかけ、祖先たちが```japanese
+この周期に対して抱いていた壮大なビジョンを喚起します。彼らは、先祖代々にわたって歳差運動の理解を伝えた要素として、歳差運動が彼らにとって壮大な世俗的運動であると主張します。
 
-> "We today are aware of the Precession as the gentle tilting of our globe, an irrelevant one at that. As the GI said, lost in the depth of jungle misery, when his friends took refuge in their daydreams: 'When I close my eyes, I see only a mule's behind. Also when I don't.' This is, as it were, today's vision of reality. Today, the Precession is a well-established fact. The space-time continuum does not affect it. It is by now only a boring complication. It has lost relevance for our affairs, whereas once it was the only majestic secular motion that our ancestors could keep in mind when they looked for a great cycle which could affect humanity as a whole. But then our ancestors were astronomers and astrologers. They believed that the sliding of the sun along the equinoctial point affected the frame of the cosmos and determined a succession of world-ages under different zodiacal signs. They had found a large peg on which to hang their thoughts about cosmic time, which brought all things in fateful order. Today, that order has lapsed, like the idea of the cosmos itself. There is only history, which has been felicitously defined as 'one damn thing after another.'"
+>「私たちは今、歳差運動を地球の優雅な傾きとして認識していますが、それは関係のないものです。GIは密林の苦しみの深みに取り残され、友人たちが彼らの空想に身を投げたときに言った：『目を閉じると、私はただろの尻尾しか見えません。目を開けていても同じです。』これは、いわば現代の現実のビジョンです。今日、歳差運動は確立された事実です。空間-時間の連続体はそれに影響しません。それは今や単なる退屈な複雑さです。私たちの事柄にとって関連性を失いましたが、かつては先祖たちが全人類に影響を与える可能性のある偉大な周期を求める際に心に留めておける唯一の壮大な世俗的運動でした。しかし、その順序は今では失われており、宇宙自体の考えも同様です。歴史しかないのです。それは幸福にも「次から次へと続くもの」と定義されています。」
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.67-68
+> -- ジョルジョ・デ・サンティジャナ、ヘルタ・フォン・デシェンド：『ハムレットの製粉所―人間知識の起源と神話を通じた伝達を探る試論』（1969年）、p.67-68、（英語から日本語に自由に翻訳）
 
-The authors take a step further to explore the fundamental divide between archaic and modern ways of interpreting the cosmos. They argue that the key to understanding archaic thought is through astrology, a cosmic language that encapsulated their profound sense of correspondences and deterministic principles:
+著者たちはさらに、原始的な宇宙観と現代的な宇宙解釈の基本的な分かれ目を探求します。彼らは、原始的な思考を理解するための鍵は、対応や決定論的原則に対する深い感覚を包括した宇宙的な言語である占星術を通じて得られると主張します。
 
-> "The greatest gap between archaic thinking and modern thinking is in the use of astrology. By this is not meant the common or judicial astrology which has become once again a fad and a fashion among the ignorant public, an escape from official science, and for the vulgar another kind of black art of vast prestige but with principles equally uncomprehended. It is necessary to go back to archaic times, to a universe totally unsuspecting of our science and of the experimental method on which it is founded, unaware of the awful art of separation which distinguishes the verifiable from the unverifiable. This was a time, rich in another knowledge which was later lost, that searched for other principles. It gave the lingua franca of the past. Its knowledge was of cosmic correspondences, which found their proof and seal of truth in a specific determinism, nay overdeterminism, subject to forces completely without locality."
+>「原始的な思考と現代的な思考の間の最大のギャップは、占星術の使用方法にあります。これは、一般的な裁判占星術や現代の科学者にとっては一時的な流行りやファッションであり、公式の科学からの逃避策であり、庶民にとっては別の種類の黒魔術であり、広く名声を博しているものでありながらも、その原則は同じく理解されていないものです。原始的な時代にさかのぼる必要があります。それは、私たちの科学やそれが基づいている実験的な手法に無関心で、検証可能なものと検証不可能なものを区別する恐ろしい分離の技術を知らない宇宙の時代でした。これは過去の共通語を提供しました。その知識は宇宙的な対応関係の中にあり、特定の決定論において真実の証拠と封印を見出しました。それは完全に場所を持たない力に従属する過剰決定論の対象でした。」
 >
-> -- Giorgio de Santillana, Hertha von Dechend: Hamlet’s Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969), p.74
+> -- ジョルジョ・デ・サンティジャナ、ヘルタ・フォン・デシェンド：『ハムレットの製粉所―人間知識の起源と神話を通じた伝達を探る試論』（1969年）、p.74、（英語から日本語に自由に翻訳）
 
-### The Language of Mythology
+### 神話の言語
 
-The authors posited that mythology, often overlooked as mere fanciful stories, served as a complex and subtle medium for encoding this ancient wisdom. These tales, spun with cryptic symbolism, were carefully woven tapestries hiding a coded language that mirrored the cosmos' movements and cycles. This language, unlike our contemporary scientific language, expressed relationships, patterns, and correspondences rather than explicit cause-and-effect relationships.
+著者たちは、神話は単なる空想的な物語として見過ごされがちですが、この古代の知恵をエンコードするための複雑で微妙なメディウムとなっていると主張しました。これらの物語は、隠された符号化された言語を反映し、宇宙の動きや周期を反映する暗号的な象徴を織り込んで作られた繊細なタペストリーです。この言語は、現代の科学的な言語とは異なり、明示的な因果関係よりも関係、パターン、対応関係を表現します。
 
-The second form of preservation, constructions, refers to the architectural marvels of the past, whose sophistication and precision in alignment with celestial bodies still bewilder modern researchers. These constructions - from the Pyramids of Giza to Stonehenge, and from the Mayan temples to the complex layout of Angkor Wat - all reflect an acute understanding of celestial mechanics and a desire to embody these cosmic rhythms in earthly form. They stand as colossal markers of a civilization's understanding of the cosmos, aligning earthly and heavenly cycles into a harmonious, integrated whole.
+保存の2番目の形態である構築物は、過去の建築の驚異的な傑作を指し、天体との精密な整列による現代の研究者を驚かせています。ピラミッド、ストーンヘンジ、マヤの神殿からアンコールワットの複雑なレイアウトまで、これらの建築物は天体力学の鋭い理解とこれらの宇宙のリズムを地上の形に具現化する意欲を反映しています。これらは文明の宇宙の理解を象徴的なものとし、地上と天上のサイクルを調和の取れた一体のものに結びつける巨大なマーカーとして立っています。
 
-The legacy of these ancient civilizations and their profound cosmic understanding continues to whisper its wisdom to us, hidden in the language of myth and the stones of ancient constructions. As we decode these messages and comprehend their significance, we might re-discover a worldview that paints a more connected, harmonious, and rhythmically flowing cosmos, echoing the complex symphony of the precession of the equinox. This understanding may invite us to reconsider our place in the cosmos, not as detached observers, but as participants in a grand, cyclic dance of celestial bodies and cosmic time.
+これら古代文明とその深遠な宇宙の理解の遺産は、神話の言語と古代の構築物の石に隠され、私たちにその知恵をささやいています。これらのメッセージを解読し、その意義を理解することで、よりつながりのある、調和の取れた、リズム豊かな宇宙の世界観を再発見するかもしれません。これによって私たちは、単なる観察者ではなく、天体と宇宙の時間の壮大な循環の一環として参加者としての私たちの宇宙における位置を再考するかもしれません。
 
-#### Zodiacal Constructions as Time Markers
+#### 星座の建築物としての時間マーカー
 
-[Archaeoastronomy]({{< relref "wiki/encyclopedia/archaeoastronomy.md" >}}), the study of how past civilizations understood phenomena in the sky and how they utilized this knowledge in their cultures, is a captivating blend of anthropology, astronomy, history, and archaeology. This discipline's foundation can be traced back to key figures like Joseph Norman Lockyer (1836–1920), who is renowned for his discovery of helium. As the founder and first editor of the influential journal *Nature*, he took an avid interest in astronomical alignments in ancient buildings, even penning *The Dawn of Astronomy - A Study of the Temple Worship and Mythology of the Ancient Egyptians (1894)*[^1^], one of the earliest archaeoastronomical works.
+過去の文明が空の現象をどのように理解し、その知識を文化に活かしてきたかを研究する考古天文学は、人類学、天文学、歴史学、考古学が融合した魅力的な学問です。この学問の基盤は、ヘリウムの発見で有名なジョセフ・ノーマン・ロッキヤー（1836年-1920年）などの主要な人物にまで遡ることができます。彼は影響力のあるジャーナル『ネイチャー』の創設者であり最初の編集者でもあり、古代建築物の天体の整列に強い興味を持ち、さらに『The Dawn of Astronomy - A Study of the Temple Worship and Mythology of the Ancient Egyptians (1894)』[^1^]という、最初期の考古天文学的著作の一つを執筆しました。
 
-When discussing archaeoastronomy, it is impossible to overlook the *Giza pyramid complex*—an iconic example of ancient constructions that reflect a deep understanding of celestial bodies. The pyramids mirror a non-zodiacal star constellation, and there's a statue known as the *Sphinx*, bearing a striking resemblance to Leo—the fifth astrological sign of the Zodiac, possibly denoting the [Age of Leo]({{< relref "intro/timeline/age-of-leo.md" >}}). The *Pyramid of Khufu* is of particular interest because of its ability to mark the day of an equinox. This feature is a testament to the extraordinary craftsmanship and scientific sophistication of the civilization that built it.
+考古天文学について話す際には、天体の深い理解を反映した古代の建築物の象徴的な例である*ギザのピラミッド複合体*を無視することは不可能です。ピラミッドは非星座的な星座を反映しており、*スフィンクス*として知られる像は、ゾディアックの第5の星座である獅子座（レオ）に驚くべき類似性を持っています。これはおそらく[獅子座時代]({{< relref "intro/timeline/age-of-leo.md" >}})を示しているのでしょうか。特に注目すべきは、*クフ王のピラミッド*で、そのピラミッドが至点日をマークする能力を持っていることです。これは、それを建設した文明の非凡な職人技術と科学的な洗練さを証明しています。
 
-The *Pyramid of Khufu*, also known as the *Great Pyramid*, has a unique eight-sided structure, rather than the four sides typically associated with pyramids. This design enables the sun's light to *mark* the construction when the light comes from a direct, perpendicular direction towards a given side of the pyramid. Considering the *Pyramid of Khufu*'s precise alignment with the North, there are only two days in a year—the equinoctial days—when the pyramid can be *marked* as seemingly intended.
+*クフ王のピラミッド*、または*大ピラミッド*は、通常ピラミッドと関連付けられる4つの側面ではなく、ユニークな8つの側面を持っています。この設計により、太陽の光がピラミッドの特定の側面に対して直接、垂直の方向から光が来るときに、その建物を*マーク*することができます。*クフ王のピラミッド*は北と正確に整列していることを考慮すると、1年のうちの2日間、すなわち春分点または秋分点の日に、ピラミッドが意図したように*マーク*されることができるのです。
 
-A fascinating insight into the unusual design of the Great Pyramid comes from J.P. Lepre's comprehensive work, *The Egyptian Pyramids: A Comprehensive, Illustrated Reference (1990)*[^2^]:
+『エジプトのピラミッドの詳細な調査書であるJ.P. Lepreの作品『The Egyptian Pyramids: A Comprehensive, Illustrated Reference (1990)』[^2^]には、大ピラミッドの異常な設計に関する興味深い洞察があります。
 
-> One very unusual feature of the Great Pyramid is a concavity of the core that makes the  monument  an  eight-sided  figure,  rather  than  four-sided  like  every  other Egyptian pyramid. That is to say, that its four  sides are hollowed in or indented along  their  central  lines, from  base  to  peak.  This  concavity  divides  each of  the apparent four sides in half, creating a very special and unusual eight-sided pyramid; and it is executed to such an extraordinary degree of precision as to enter the realm of the uncanny...
+> 大ピラミッドの非常に特異な特徴は、その中心部分が凹んでおり、他のエジプトのピラミッドとは異なり、4つではなく8つの側面を持つということです。つまり、その4つの側面は、基部から頂上まで、中央の線に沿ってくぼんでいます。この凹面は、各表面を半分に分け、非常に特殊で珍しい8つの側面のピラミッドを作り出し、その精度の非常に高い執行は不思議の領域に入ります...
 
-The *Great Pyramid* was clearly designed and built with astronomical knowledge in mind, indicating equinoctial sunrises and sunsets and marking the progression of the precession[^3^]. Furthermore, there is evidence of Zodiac symbolism within the *Giza pyramid complex*. The Sphinx, a lion-like figure, faces due East, directly towards the rising Sun on equinoctial days. This position implies the Sphinx looks at the Zodiacal constellation hiding behind the Sun at these precise moments—does this mean it is a nod to the Zodiac sign Leo?
+{{< figure src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="図3 - 1940年にP. Grovesによって撮影された写真（未確認）" >}}
 
-{{< figure src="images/pyramids-giza-air-force-ww2-hd.jpg" caption="Fig. 3 - Photograph taken in 1940 by P. Groves (unverified)" >}}
+大ピラミッドは明らかに天文学的な知識を意識して設計・建設されたものであり、至点日の日の出と日没を示し、歳差運動の進行を示しています[^3^]。さらに、*ギザのピラミッド複合体*にはゾディアックの象徴が存在する証拠もあります。スフィンクスは、東を向いており、春分点や秋分点の日の日の出に向かって直接に顔を向けています。この位置は、スフィンクスがこれらの瞬間に太陽の後ろに隠れているゾディアックの星座を見ていることを意味します。
 
-While this interpretation may seem conjectural, the more we learn about these ancient civilizations and their understanding of the cosmos, the more plausible it becomes. The law of *Occam's razor*—that entities should not be multiplied without necessity—suggests that the more congruent factors we find in the construction of these monumental buildings, the more likely it is that this highly sophisticated astronomical knowledge has been applied universally.
+この解釈は推測的に思われるかもしれませんが、これらの古代文明と彼らの宇宙の理解について学ぶほど、これはますます可能性のあるものになります。オッカムの剃刀の原則は、必要ない限り、要素を増やさないべきであるという原則です。したがって、これらの巨大建築物の構築において一貫した要素が見つかれば見つかるほど、この非常に洗練された天文学的知識が普遍的に適用されていた可能性が高まるのです。
 
-## Summing It Up
+## まとめ
 
-The Great Year and its Twelve Houses have intriguing aspects that tie in closely with the Earth's three key motions, particularly the precession. This slow westward shift of the equinoxes along the plane of the ecliptic, resulting from the precession of the Earth's axis of rotation, causes the equinoxes to occur earlier each sidereal year. A complete precession cycle takes around `25,920 years`, marking the Great Year.
+大年とその12の星座は、地球の3つの主要な動き、特に歳差運動と密接に関連しています。歳差運動は、地球の回転軸の歳差による黄道面上での赤道点の遅延移動であり、黄道上の春分点が恒星年ごとに早くなる原因となっています。完全な歳差周期はおよそ「25,920年」であり、大年とされています。
 
-This Great Year can be divided into twelve distinct months or World Ages, each lasting `2,160 years` and corresponding to one of the constellations on the ecliptic, specifically a Zodiac sign. From `1950 AD`, Earth and its inhabitants entered the Age of Aquarius, also referred to as the Aquarian Age or the [New Age]({{< relref "wiki/encyclopedia/golden-age.md" >}}). This understanding of World Ages seems to have persisted throughout history, encoded into folklore and monumental construction, which continues to inspire awe today.
+この大年は、12の異なる月または世界時代に分けることができます。各世界時代は「2,160年」続き、黄道上の星座、具体的にはゾディアックのサインに対応しています。西暦「1950年」から、地球とその住民はアクエリアスの時代、またはアクエリアスの時代、または[新時代]({{< relref "wiki/encyclopedia/golden-age.md" >}})に入りました。この世界時代の理解は、歴史を通じて持続してきたようであり、口承伝承や巨大な建造物に符号化され、今日も驚きを与え続けています。
 
-This understanding of the cosmos that's embedded in ancient structures such as the Giza pyramids implies a civilization far advanced for its time. This notion may not conform to the traditional narrative of human progress, but it increasingly aligns with the body of knowledge unearthed through archaeoastronomy. The advanced knowledge, as demonstrated by the construction techniques, and the remarkable understanding of celestial bodies, suggest the existence of a pre-flood civilization that had mastered the art of astronomical timekeeping.
+ギザのピラミッドなどの古代建造物に埋め込まれた宇宙の理解は、当時に比べてはるかに進んだ文明を示唆しています。これは人類の進歩の伝統的な物語とは一致しないかもしれませんが、考古天文学によって発掘された知識の体系とますます一致しています。建築技術によって示される高度な知識と、天体の驚異的な理解は、天文学的な時計を使いこなした洪水前の文明の存在を示唆しています。
 
-Astrological ages, as depicted in the Great Year and the Twelve Houses, provide a comprehensive chronology that has been utilized for millennia. These World Ages are not merely relics of the past, but they hold predictive power, serving as a celestial calendar of what's to come. The progression from one astrological age to the next signifies both an astronomical shift and a sociocultural transition. Each age carries its unique character, influencing the zeitgeist and the course of human development.
+大年と12の星座に描かれた占星術の時代は、数千年にわたって利用されてきた包括的な年表を提供します。これらの世界時代は単なる過去の遺物にすぎず、将来を予測する力を持ち、将来の天体カレンダーとして機能します。一つの占星術の時代から次の時代への進行は、天文学的な変化と社会文化的な移り変わりを意味します。各時代は独自の特性を持ち、時代精神と人類の発展の進路に影響を与えます。
 
-It's fascinating to consider that these civilizations, thousands of years in our past, possessed an understanding of time that we are only beginning to fully appreciate. They saw time not as linear but cyclical, marked by the celestial dance of stars and planets. It seems that they understood the inherent rhythms of the cosmos and our planet's place within it, a wisdom that they encoded into their greatest monuments.
+私たちから数千年も前の過去の文明が、私たちが今始めたばかりの時間の理解を持っていたと考えると興味深いです。彼らは時間を直線的ではなく循環的なものとし、星や惑星の天体の踊りによって示されるものと見なしていました。彼らは宇宙と地球の位置を含め、宇宙の固有のリズムを理解しており、その知恵を彼らの偉大な記念碑に符号化していました。
 
-This glimpse into the past serves not only as a testament to the accomplishments of these ancient civilizations, but it also invites us to see the future in a new light. As we move further into the Age of Aquarius, we might find that the knowledge held by our ancestors can guide us in navigating the challenges and opportunities that lie ahead. After all, the ancients viewed the cosmos not as a vast, empty space, but as a grand celestial clock, a timeless guide inscribed with the wisdom of ages past, present, and future.
+過去のこの一端は、古代文明の成果を証明するだけでなく、将来を新たな光で見るように私たちを招待します。アクエリアスの時代に進むにつれて、私たちの祖先が持っていた知識が私たちを未来の課題と機会への道標として導いてくれるかもしれません。なぜなら、古代人は宇宙を広大な空間ではなく、壮大な天体時計と見なしており、過去・現在・未来の叡智で刻まれた、時を超えたガイドとしての宇宙を見ていたからです。
 
-The narrative presented here has been simplified for ease of understanding, but each topic warrants deeper exploration. Future write-ups will delve more deeply into each aspect, shedding more light on our ancestors' relationship with the cosmos.
+ここで提示された物語は理解のために簡略化されていますが、各トピックはさらなる探求を必要とします。今後の記事では、各側面についてより詳しく掘り下げ、私たちの祖先と宇宙との関係にさらなる光を当てるでしょう。
 
 [^1^]: [The Dawn of Astronomy - A Study of the Temple Worship and Mythology of the Ancient Egyptians (1894)](https://archive.org/details/in.ernet.dli.2015.216575)
 [^2^]: J.P. Lepre: The Egyptian Pyramids: A Comprehensive, Illustrated Reference (1990)
-[^3^]: [Progression of the Precession](#astronomical-watchmaking)
+[^3^]: [歳差の進行](#astronomical-watchmaking)
 
-## See also
+## 関連項目
 
-- [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
-- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
-- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
-- [Wiki › World Age]({{< relref "wiki/encyclopedia/world-age.md" >}})
+- [Wiki › 大月]({{< relref "wiki/encyclopedia/great-month.md" >}})
+- [Wiki › 大年]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › 歳差]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Wiki › 世界の時代]({{< relref "wiki/encyclopedia/world-age.md" >}})
 
-## Read more
+## 詳細はこちら
 
-- [Intro › Timeline › Preamble]({{< relref "intro/timeline/preamble.md" >}})
-- [Intro › Timeline › Age of Aquarius]({{< relref "intro/timeline/age-of-aquarius.md" >}})
+- [序文 › 年表 › 序文]({{< relref "intro/timeline/preamble.md" >}})
+- [序文 › 年表 › 水瓶座の時代 ]({{< relref "intro/timeline/age-of-aquarius.md" >}})

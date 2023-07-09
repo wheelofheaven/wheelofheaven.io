@@ -14,6 +14,8 @@ pinned: false
 homepage: false
 ---
 
+{{< alert icon="👉" text="Disclaimer: This is a English-only article. Translating the premises of this article into languages with different ethnolinguistic characteristics." />}}
+
 In the broad tapestry of ancient astronaut narratives, from the works of Jean Sendy and Zechariah Sitchin, through to the modern trend of interpreting biblical scriptures [literally]({{< relref "wiki/encyclopedia/biglino-method.md" >}}), as undertaken by scholars such as Mauro Biglino and Paul Anthony Wallis, a unique perspective emerges. On our website, Wheel of Heaven, we delve into one such perspective by contextualizing a new religious movement known as [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}}), where the term _'Elohim'_ assumes a pivotal role.
 
 ## The Elohim

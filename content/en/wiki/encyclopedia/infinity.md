@@ -35,3 +35,7 @@ In physics, the concept of time as an infinite and unchanging entity is supporte
 [Wiki › Raelian Symbol of Infinity]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}})</br>
 [Wiki › Star of David]({{< relref "wiki/encyclopedia/star-of-david.md" >}})</br>
 [Wiki › Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}})</br>
+
+## External links
+
+[Infinity | Wikipedia](https://en.wikipedia.org/wiki/Infinity)

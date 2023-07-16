@@ -3,8 +3,9 @@ title: Swastika
 alternatives:
 - Arevakhach
 - Borjgali
-- Eternity sign
+- Ewigkeitszeichen
 - Fylfot
+- Hakenkreuz
 - Lauburu
 - Mursunsydän
 - Sonnenkreuz

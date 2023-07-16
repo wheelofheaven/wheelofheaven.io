@@ -132,7 +132,51 @@ In the context of Raëlism, the swastika is incorporated into their emblem, inte
 
 The emblem as a whole, therefore, encapsulates the Raëlian understanding of an infinite and cyclical universe in both spatial and temporal dimensions, with the swastika particularly highlighting the everlasting cyclical nature of time.
 
+## Life above and below
+
+The following excerpt from the second canonical book of Raëlism, "Extraterrestrials Took Me To Their Planet" (1976), sheds further light on the Elohim's understanding of life across the macroscopic and microscopic levels. It also introduces a key physical concept, the [Law of Masstime]({{< relref "wiki/encyclopedia/mass-effect.md" >}}), relating time's flow to the mass or scale of a life form.
+
+> You also know that we have discovered that there is organized, intelligent life on the level of the infinitely small, quite certainly as evolved as we are and comparable to what we are ourselves.  We have been able to prove this.
+>
+> From there, we have discovered that the stars and planets are the atoms of a gigantic being, which itself certainly contemplates other stars with curiosity. It is also highly likely that the people living on the infinitely small levels of the infinitely large person and his fellow creatures have known periods when they believed in an immaterial “God”.
+>
+> You must fully understand that everything is in everything. At this moment in an atom of your arm, millions of worlds are being born and others are dying, believing or not believing in a “God” and a soul, and when a millennium has gone by for you, the gigantic being of whom the sun is an atom has only had the time to take one step.
+>
+> Time is, in fact, inversely proportional to the mass, or rather to the level of the form of life. But everything in the universe is alive and in harmony with the infinitely large and the infinitely small.
+>
+> The Earth is alive like all the planets, and for the small growth that is humanity, it is difficult to notice this because of the time lag due to the enormous difference in mass, which prevents you from perceiving its palpitations. Nor could one of our red blood cells, or better still, one of the atoms that make up our body imagine that it forms, with its peers, a living being.
+>
+> Finally, whatever happens to each individual, the universal balance remains constant. But if we want to be happy at our level, we must live in harmony with the infinitely large, the infinitely small, and with our fellow human beings.
+>
+> No argument aiming to support the existence of any type of god or soul can be sustained when we glimpse, however briefly, at the infinite nature of the universe. No heaven could exist in any particular place because, since the universe is infinite, it cannot have a center. Besides, as I have already explained, there cannot be any communication between an infinitely large entity and a universe of infinitely small entities, because the difference in mass is too great, thus creating a difference in the flow of equivalent time.
+
+In this passage, Yahweh conveys the Elohim's discoveries of organized, intelligent life at the infinitely small scale, akin to their own advanced civilization. The stars and planets, according to this perspective, are atoms within a gigantic entity, implying a complex nested structure of existence, where everything is contained within everything else. He presents the concept of time as being inversely proportional to the mass or scale of the form of life - a fundamental principle they term the "Law of Masstime", or simply "Mass Effect". This idea dictates that what may be a millennium for humans could be equivalent to a single step for a cosmic entity, for whom the sun is but an atom.
+
+Yahweh further emphasizes that all things in the universe, including the Earth, are alive and harmoniously connected across the infinitely large and infinitely small scales. However, he acknowledges the difficulty humans face in perceiving this universal life due to the immense difference in mass and associated time lag.
+
+The passage concludes by arguing against the existence of any specific god or soul, given the infinite nature of the universe and its lack of a central point. Any interaction between infinitely large and infinitely small entities is deemed impossible due to the vast difference in mass and consequent discrepancy in the flow of time. The underlying message stresses the importance of living in harmony with the infinite dimensions of existence and fellow human beings for achieving happiness at our own level of existence.
+
+{{< figure src="/images/hubble-cosmic-web.jpg" alt="hubble-cosmic-web.jpg" caption="Artistic rendering titled \"The Cosmic Web\" by Volker Springel (Max Planck Institute for Astrophysics) et al. \"In shaping the Universe, gravity builds a vast cobweb-like structure of filaments tying galaxies and clusters of galaxies together along invisible bridges hundreds of millions of light-years long. This is known as the cosmic web.\"" >}}
+
+The concept of the "vast difference in mass and consequent discrepancy in the flow of time" suggests that the experience of time is relative to the scale or mass of the observer. This is an idea presented in the Raëlian literature, coined as the Law of Masstime, though it's not a principle that has been recognized nor validated by mainstream physics as of today.[^mainstream]
+
+This law posits that a larger entity with a greater mass would experience time slower than a smaller entity with a lesser mass. For instance, for a cosmic entity so large that a star like our Sun is just an atom to it, what we perceive as a thousand years (a millennium) might only feel like a momentary step for that entity. This is due to the differences in the scales of existence - the cosmic entity exists at a much larger scale than humans. On the other side of the spectrum, at the microcosmic level where particles or atoms could represent entire worlds, time could be experienced at a much faster rate. A single moment for us could equate to entire epochs at that level.
+
+[^mainstream]: The theory of general relativity, the widely accepted framework in physics for understanding gravitation, also suggests time dilation effects due to gravity and velocity differences, but it does not make claims in the same manner as the Law of Masstime as laid out here. See here for more: [General relativity | Wikipedia](https://en.wikipedia.org/wiki/General_relativity)
+
 ## Harmony with infinity
+
+In the last passage, the phrase, "Finally, whatever happens to each individual, the universal balance remains constant," suggests a worldview that recognizes the natural order or balance of the universe, irrespective of individual experiences or circumstances. It encapsulates a belief in the inherent equilibrium of existence, with the universe maintaining its balance regardless of what transpires at the individual level. This could be interpreted as a statement about the relative insignificance of individual actions, experiences, or existence in the face of the grandeur and scale of the universe.
+
+The following statement, "But if we want to be happy at our level, we must live in harmony with the infinitely large, the infinitely small, and with our fellow human beings," offers a prescription for contentment or happiness. It posits that to achieve happiness, one must strive for a state of harmony with all aspects of existence: the macroscopic ("infinitely large"), the microscopic ("infinitely small"), and the interpersonal ("our fellow human beings").
+
+The "infinitely large" could refer to the grand scale of the universe and our place within it, while the "infinitely small" could be interpreted as the minuscule, yet complex, elements that make up our world, such as atoms or even subatomic particles. Recognizing and appreciating our connection and relationship to both of these scales of existence is suggested as a pathway to happiness.
+
+Lastly, the reference to living in harmony with "our fellow human beings" suggests the importance of empathy, compassion, mutual understanding, and cooperative living. It implies that our relationships with others—how we treat them and how we allow ourselves to be treated—are crucial components of our overall well-being and happiness.
+
+These statements together present a holistic approach to happiness that encompasses a comprehensive understanding of our place in the universe, from the grandest cosmic scale to the minutiae of atomic structures, along with the importance of human connection and community.
+
+{{< figure src="/images/muse-deep-space.jpg" alt="muse-deep-space.jpg" caption="This is a cosmological simulation of the distant universe (2021). The image shows the light emitted by hydrogen atoms in the cosmic web in a region roughly 15 million light-years across, using astronomical data gathered by the The Very Large Telescope (VLT), a facility operated by the European Southern Observatory, located on Cerro Paranal in the Atacama Desert of northern Chile." >}}
 
 In the Raëlian philosophy, as elaborated in their second canonical book "Extraterrestrials Took Me To Their Planet" (1976), a specific guidance is provided on how to perceive and assess situations. This guidance is expressed through the [Four Levels of Consideration]({{< relref "wiki/encyclopedia/four-levels-of-consideration.md" >}}):
 

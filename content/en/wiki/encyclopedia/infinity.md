@@ -48,7 +48,7 @@ In the 20th century, modern cosmology provided new tools to explore the question
 
 However, the development of Big Bang cosmology, largely initiated by Belgian physicist and Catholic priest Georges Lemaître, transformed our understanding of the universe's age. Lemaître proposed that the universe is expanding, a hypothesis that was later claimed to be confirmed by Edwin Hubble's observations.
 
-Despite the groundbreaking nature of Lemaître's theory, it initially faced skepticism, even from notable contemporaries like Albert Einstein. Einstein, who didn't openly dispute Lemaître's mathematical findings, reportedly remarked, "Vos calculs sont corrects, mais votre physique est abominable" ("Your calculations are correct, but your physics is atrocious"). This skepticism would eventually yield to a broader questionable acceptance of an expanding universe, leading to the conception of a universe with a finite age.
+Despite the groundbreaking nature of Lemaître's theory, it initially faced skepticism, even from notable contemporaries like Albert Einstein. Einstein, who didn't openly dispute Lemaître's mathematical findings, reportedly remarked, "Vos calculs sont corrects, mais votre physique est abominable" (from French: "Your calculations are correct, but your physics is atrocious"). This skepticism would eventually yield to a broader questionable acceptance of an expanding universe, leading to the conception of a universe with a finite age.
 
 The currently favored cosmological model — the ΛCDM model (pronounced Lambda-CDM model) — portrays a universe that is finite but unbounded, like the two-dimensional surface of an inflating balloon.
 
@@ -56,7 +56,7 @@ Nonetheless, the question of the universe's infinity is far from settled. It rem
 
 ## In Raëlism 🔯
 
-In the first canonical book of Raëlism, The Book Which Tells The Truth (1973), a chapter entitled "Mankind: A Disease of the Universe" explores a conversation with Yahweh, an entity identified by the Raëlism philosophy as belonging to an advanced extraterrestrial civilization known as the Elohim. These beings are described as the creators of life on Earth, including humans. In this passage, Yahweh shares the Elohim's understanding of their existence within the vast cosmos and their ongoing quest for knowledge.
+In the first canonical book of [Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}}), The Book Which Tells The Truth (1973), a chapter entitled "Mankind: A Disease of the Universe" explores a conversation with [Yahweh]({{< relref "wiki/encyclopedia/yahweh.md" >}}), an entity identified by the Raëlism philosophy as belonging to an advanced extraterrestrial civilization known as the [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}). These beings are described as the creators of life on Earth, including humans. In this passage, Yahweh shares the Elohim's understanding of their existence within the vast cosmos and their ongoing quest for knowledge.
 
 > Progress continues, and our own research continues for the purpose of understanding and relating to the large being of whom we are a part, and on whose atoms we are parasites. These atoms are the planets and the stars.
 >
@@ -74,7 +74,7 @@ Furthermore, the passage characterizes humanity as a 'disease' within this macro
 
 Despite this somewhat stark characterization, the overarching message is one of preservation and continuity of human life. The Elohim's objective, as communicated by Yahweh, is to ensure the ongoing existence of humanity, reflecting an intriguing blend of existential introspection and cosmic awareness.
 
-In the second canonical book of Raëlism, Extraterrestrials Took Me To Their Planet (1976), Yahweh delves deeper into the profound theme of infinity, both in the spatial and temporal dimensions. This dialogue, a continuation of the revelations made in the first book, further expands on the Raëlian understanding of existence and life's origins.
+In the second canonical book of Raëlism, Extraterrestrials Took Me To Their Planet (1976), Yahweh delves deeper into the profound theme of infinity, both in the spatial and temporal dimensions. This dialogue, a continuation of the revelations made in the first book, further expands on the Raëlian understanding of existence and [life\'s origins]({{< relref "wiki/encyclopedia/genesis.md" >}}).
 
 > With regard to the origin of life on Earth, some people might say: “Your explanation doesn’t change a thing, since you cannot say what there was at the very beginning.”
 >
@@ -90,7 +90,7 @@ In the second canonical book of Raëlism, Extraterrestrials Took Me To Their Pla
 
 In this passage, Yahweh first addresses a common skepticism about the origin of life, noting that questions seeking a definitive beginning reveal a lack of understanding about infinity. Yahweh asserts the principle of conservation of matter, succinctly encapsulated in the phrase: "nothing is lost, nothing is created, everything is transformed." This concept implies that the essence of existence has always been and will always be, only changing forms over time and space.
 
-The emblem of Raëlism, represented by the intertwined triangles of the Star of David and the cyclical swastika, encapsulates this wisdom. It signifies "as above, so below," suggesting a universal pattern repeating across all scales of existence, and cyclical time, reinforcing the idea of infinity.
+The [emblem of Raëlism]({{< relref "wiki/encyclopedia/raelian-symbol-of-infinity.md" >}}), represented by the intertwined triangles of the Star of David and the cyclical swastika, encapsulates this wisdom. It signifies "as above, so below," suggesting a universal pattern repeating across all scales of existence, and cyclical time, reinforcing the idea of infinity.
 
 Yahweh acknowledges the challenge posed by infinity to human understanding. Our finite minds tend to seek boundaries, often resorting to the concept of deities to explain the creation and regulation of the universe. This tendency underlines the difficulty in accepting the notion of infinity, which positions humanity as not exceptional, but merely a component in a specific time and place within an infinite universe.
 
@@ -108,7 +108,7 @@ However, it's important to note that asserting the universe's spatial infinity w
 
 ### Magen David ✡
 
-The Magen David, also known as the Star of David, plays an important role in the understanding of infinity in space as conceptualized in Raëlism. Composed of two intertwined triangles, it signifies "as above, so below," a philosophical principle suggesting that the same patterns are repeated at all scales of the cosmos, from the grandest celestial bodies to the smallest particles.
+The [Magen David]({{< relref "wiki/encyclopedia/star-of-david.md" >}}), also known as the Star of David, plays an important role in the understanding of infinity in space as conceptualized in Raëlism. Composed of two intertwined triangles, it signifies "as above, so below," a philosophical principle suggesting that the same patterns are repeated at all scales of the cosmos, from the grandest celestial bodies to the smallest particles.
 
 In the Raëlian cosmology, the Magen David represents the concept that the macroscopic (the universe at large) and the microscopic (particles and smaller scales) are mirror reflections of each other. This mirrors the fractal nature of the universe, which posits that self-similar patterns exist across different scales, tying into the theme of infinity in space.
 
@@ -124,7 +124,7 @@ The universe's definite history, as suggested by the progressive increase of ent
 
 ### Swastika ࿕
 
-The swastika, an ancient symbol found in numerous cultures around the globe, plays a significant role in representing the concept of infinite time within the Raëlian philosophy. The swastika's four arms, spinning around a central point, embody the cyclical nature of time. This symbol emphasizes the view of time not as a linear progression, but as a cycle that repeats indefinitely, capturing the concept of eternity.
+The [swastika]({{< relref "wiki/encyclopedia/swastika.md" >}}), an ancient symbol found in numerous cultures around the globe, plays a significant role in representing the concept of infinite time within the Raëlian philosophy. The swastika's four arms, spinning around a central point, embody the cyclical nature of time. This symbol emphasizes the view of time not as a linear progression, but as a cycle that repeats indefinitely, capturing the concept of eternity.
 
 In the context of Raëlism, the swastika is incorporated into their emblem, intertwining with the Star of David. This combination symbolizes the interconnectedness of the macroscopic and microscopic levels of existence, or the "as above, so below" principle, in tandem with the cyclical progression of time.
 
@@ -132,7 +132,7 @@ The emblem as a whole, therefore, encapsulates the Raëlian understanding of an 
 
 ## Harmony with infinity
 
-In the Raëlian philosophy, as elaborated in their second canonical book "Extraterrestrials Took Me To Their Planet" (1976), a specific guidance is provided on how to perceive and assess situations. This guidance is expressed through the "Four Levels of Consideration":
+In the Raëlian philosophy, as elaborated in their second canonical book "Extraterrestrials Took Me To Their Planet" (1976), a specific guidance is provided on how to perceive and assess situations. This guidance is expressed through the [Four Levels of Consideration]({{< relref "wiki/encyclopedia/four-levels-of-consideration.md" >}}):
 
 > In every situation, we must always consider things in regard to four levels:
 >

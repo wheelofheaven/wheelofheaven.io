@@ -14,6 +14,8 @@ weight: 200
 toc: true
 ---
 
+Infinity, an idea that has fascinated minds and found its place in various fields from mathematics to philosophy, refers to an endlessly extending concept, be it in terms of time, space, or quantity. Historically, this abstract notion has served as a cornerstone for various cosmological and philosophical systems, trying to understand and describe the nature of our universe. Today, in the realm of cosmology, it plays a pivotal role in discussions about the universe's structure and extent, with its intricacies and implications continually shaping our understanding of the cosmos. From contemplating infinite time to pondering an infinite universe, the dialogue around infinity is a continuous exploration of our existence within the unfathomable vastness of reality.
+
 ## In mathematics
 
 Infinity, represented by the symbol $\\infty$, is a mathematical concept that extends beyond the largest finite number. It is not a conventional number, but rather represents the idea of an unbounded quantity. It has key applications in various branches of mathematics, such as calculus, set theory, and theoretical computer science.

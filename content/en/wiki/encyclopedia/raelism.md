@@ -32,6 +32,60 @@ In this passage, Yahweh, as the representative of the Elohimian civilization, as
 [^1]: Egyptian for Sun ("Ra"). See more: [rꜥ | Wiktionary](https://en.wiktionary.org/wiki/r%EA%9C%A5)
 [^2]: Sumerogram ilum, as star-shaped glyph meaning "sky" or "heaven". See more: [𒀭 | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
 
+## The Canon
+
+In total, there are three works that are considered canonical in the Raelian movement:
+
+- The Book That Tells the Truth (1973)
+- The Extraterrestrials Took Me to Their Planet (1976)
+- Welcoming the Extraterrestrials (1976)
+
+In the first two of these books, it is revealed that life on Earth is not a product of random evolution, but rather the result of a deliberate creation. This creation, however, is not divine but was carried out in a laboratory by beings with a deep understanding of genetics and cellular biology, similar to our most advanced scientists today. This is the core message of these works, which were dictated to Rael by the Elohim, extraterrestrial beings far more advanced than our civilization, in the crater of a volcano in Auvergne, France, where they telepathically summoned him in December 1973.
+
+The books explain that a long time ago, beings similar to us living on a distant planet discovered the secret of life and managed to create artificial living beings in a laboratory, thanks to their mastery over deoxyribonucleic acid (DNA). These beings sought a planet in the universe where they could continue their experiments away from the scandalized public opinion of their world. After sending space probes throughout our galaxy, they found a planet with an atmosphere suitable for their intended experiment.
+
+They landed on this planet, built laboratories, and worked freely. They created plants, animals, and finally, a being made "in their image," humans. This planet was Earth. The Bible, according to this interpretation, does not recount the work of an all-powerful and immaterial god, but a fantastic scientific experiment conducted by beings to whom humanity owes its existence. These beings are referred to in the original Hebrew Bible not as "God" as some translations would have us believe, but as Elohim. This word means quite literally "Those who came from the sky" in Hebrew and is clearly written in the plural form. The singular form, Eloha, would mean "the one who came from the sky."
+
+The Elohim, therefore, created humans in their image, as the Bible recounts. However, they were frightened by the aggression of their creation and expelled them from the laboratory, a place where everything was easy for them, where they were fed and housed without having to make any effort. This place is poetically referred to as the "Garden of Eden."
+
+Later, the sons of Elohim became interested in the charms of human women, which is explicitly written in the Bible in Genesis, VI, 1,2, and 4: "The sons of Elohim saw that the daughters of men were beautiful. They took wives for themselves from all those they had chosen..." "... When the sons of Elohim came to the daughters of men and they bore children to them, they were the heroes who were once men of renown." This makes it clear that the all-powerful and immaterial god that people believe in has very physical passions, which is quite normal.
+
+This is also written in the Bible in Genesis, III, 22, in the passage where man learned from some of the scientists who loved them like their own children, that those they took for gods were just men like them: "Behold, the man has become like one of us in knowing good and evil..."
+
+However, the government of the Elohim's planet continued to believe that they should destroy the dangerous beings that had been created on Earth. The group that thought that men could only bring about evil, led by one of the Elohim called Satan, eventually triumphed and the destruction of all life on Earth took place. This was the flood, which was actually a destruction achieved through the explosion of bombs similar to our atomic bombs but much more powerful.
+
+Fortunately for us, a small group of the Elohim, believing that among men there were some who were good and deserved to survive, had preserved some of them as well as selected animal species in a spaceship, known as Noah's Ark.
+
+A new settlement took place on Earth after this "flood," and the Elohim discovered at that time that they themselves had been created by beings from another planet and were, like us, the result of a scientific experiment in a laboratory. They then decided that they would never again seek to destroy humanity, letting it progress on its own.
+
+They still decided to send messengers to men to teach them their origin by creating religions, whose scriptures would serve as proof when men reached a level of scientific knowledge sufficient to understand their origin without mysticism. Moses, Jesus, Buddha, Muhammad, and many others were among these messengers. Jesus, who was indeed the son of an Eloha and an Earth woman, rightly said, "my father who is in heaven."
+
+This era, which finally allows us to understand, is the one we are fortunate to live in today, the age of the Apocalypse, which we entered in 1945. Apocalypse is another mistranslated word, since in Greek it means revelation and not the end of the world as people have been led to believe.
+
+It was written that the age of the Apocalypse would be there when the Jewish people found their country, and the State of Israel was recreated in our time; it was written that the age of the Apocalypse would be there when the blind could see, and it is now that American scientists are developing an electronic prosthesis grafted onto the optic nerve that will allow the blind to regain their sight; it was written that the age of the Apocalypse would be there when man's voice would be carried beyond the oceans, and it is now thanks to satellite communications that we can correspond instantly with all corners of the world; it was written that the age of the Apocalypse would be there when man would equal "god," the only one capable of creating life with inert materials, and it is now that scientists synthesize in the laboratory only with chemicals the first human gene, which allows them to envisage the creation of an artificial living being, thus equaling what was called "God".
+
+All of this was contained in the first book, in a much more developed form, of course. In the second, Rael recounted how the Elohim recontacted him in October 1975 in the Périgord, took him in one of their machines that men call "flying saucer" to one of their planets, where he was able to see extraordinary things that seem impossible or miraculous to us, just as it would have seemed impossible or miraculous to go from Paris to New York in less than four hours, thanks to the Concorde, to those who traveled there in a caravel in the time of Christopher Columbus and took several months to make the same journey.
+
+On this planet, he met the great prophets like Moses, Jesus, Buddha, and Muhammad who are scientifically kept alive and who will return to Earth as the scriptures announce in the company of the Elohim when the time comes. On this planet, called the planet of the Eternals, men live about seven hundred years then die and are recreated from one of their cells which is taken before their death and which contains the genetic code which is the plan of each individual.
+
+Rael was able to witness the creation of a copy of himself made in a huge machine thanks to a cell that had been taken from the middle of his forehead and thus find himself for a few moments facing another himself.
+
+He also learned that on this planet live eight thousand four hundred earthlings who have been admitted to be recreated after their earthly death to live there eternally. These beings were chosen for their actions during their life aimed at the development and progress of humanity. Indeed, a huge computer monitors each human from conception to death and notes all his actions. At the time of his death, if the balance shows more positive actions than negative, the being has the right to eternal life on the planet of the eternal Elohim, in the company of the great prophets.
+
+The Elohim also taught Rael a meditation technique that allows a total awakening of the human mind, which only exploits a small part of its possibilities. This technique, called "sensual meditation," allows man to situate himself in relation to the infinitely small that composes him and in relation to the infinitely large that he composes.
+
+The Elohim also explained to Rael that they had been able to scientifically prove that on the atoms of the atoms that compose us there was intelligent life, other humanities, and that the earth and the stars are only atoms of a gigantic being who himself may be looking at another sky wondering if there are other inhabited planets... They were therefore able to prove that the universe was infinite, and being infinite, that it could not have a center, which demonstrated that there could be no god or soul flying from the body after death.
+
+They also explained that for intelligent beings living on an atom of our hand, one of our seconds represented several million years, just as our entire earthly life represented only a billionth of a billionth of a second for the gigantic being whose Earth is only the atom of an atom. This proving the incommunicability existing between the different levels of infinity in space, eliminating any idea of a "god" having power over men.
+
+Finally, they explained that infinity exists in space, but also in time, nothing being created, everything being eternal either in the form of matter or in the form of energy, energy having no superiority over matter, as those who believe in "spirit" want to make believe.
+
+The Elohim had asked Rael to create a movement charged with spreading on Earth the messages they had given him, and to build on our planet an embassy, located if possible near Jerusalem, where they would officially make contact with the governments of our world.
+
+The Raelian Movement was created for this purpose and in 1979 brought together more than three thousand people who work in the hope of seeing the embassy built one day and our creators land there.
+
+Tens of thousands of people who have read The Book That Tells the Truth and The Extraterrestrials Took Me to Their Planet have noticed that there are some contradictions between these two works, and that compared to current scientific knowledge, there are many points that seem contradicted by the most recent discoveries of Earth researchers. This book reviews these apparent contradictions in its first part, and brings new elements that the Elohim had asked Rael to reveal only this year.
+
 ## See also
 
 - [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})

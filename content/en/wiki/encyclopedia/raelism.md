@@ -38,7 +38,7 @@ There are three works that are considered canonical in the Raelian movement:
 
 - The Book Which Tells the Truth (1973)
 - The Extraterrestrials Took Me to Their Planet (1976)
-- Let's Welcome The Extraterrestrials (1976)
+- Let's Welcome The Extraterrestrials (1979)
 
 In the first two of these books, it is revealed that life on Earth is not a product of random evolution, but rather the result of a deliberate creation. This creation, however, is not divine but was carried out in a laboratory by beings with a deep understanding of genetics and cellular biology, similar to our most advanced scientists today. This is the core message of these works, which were dictated to Rael by the Elohim, extraterrestrial beings far more advanced than our civilization, in the crater of a volcano in Auvergne, France, where they telepathically summoned him in December 1973.
 
@@ -82,9 +82,7 @@ Finally, they explained that infinity exists in space, but also in time, nothing
 
 The Elohim had asked Rael to create a movement charged with spreading on Earth the messages they had given him, and to build on our planet an embassy, located if possible near Jerusalem, where they would officially make contact with the governments of our world.
 
-The Raelian Movement was created for this purpose and in 1979 brought together more than three thousand people who work in the hope of seeing the embassy built one day and our creators land there.
-
-Tens of thousands of people who have read The Book That Tells the Truth and The Extraterrestrials Took Me to Their Planet have noticed that there are some contradictions between these two works, and that compared to current scientific knowledge, there are many points that seem contradicted by the most recent discoveries of Earth researchers. This book reviews these apparent contradictions in its first part, and brings new elements that the Elohim had asked Rael to reveal only this year.
+The Raelian Movement was created for this purpose and in 1979 brought together more than three thousand people who work in the hope of seeing the embassy built one day and our creators land there. It was also in 1979 that the third canonical book was published, Let's Welcome The Extraterrestrials.
 
 ## See also
 

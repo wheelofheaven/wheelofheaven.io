@@ -34,11 +34,7 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] .footnote-ref {
   color: $gray-300;
-}
-
-[data-dark-mode] .footnote-ref::before {
-  background-color: $link-color;
-  background-color: darken($link-color-dark, 55%);
+  box-shadow: inset 0 -0.7em darken($link-color-dark, 55%);
 }
 
 [data-dark-mode] body {

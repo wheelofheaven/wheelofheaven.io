@@ -83,21 +83,11 @@ body.docs {
 }
 
 .footnote-ref {
+  position: relative;
   text-decoration: none;
   color: #333;
-  display: inline-block;
   white-space: normal;
-}
-
-.footnote-ref::before {
-  content: "";
-  width: 100%;
-  height: 12px;
-  background-color: $link-color;
-  display: block;
-  position: absolute;
-  bottom: 2px;
-  z-index: -1;
+  box-shadow: inset 0 -0.7em $link-color;
 }
 
 a:hover,

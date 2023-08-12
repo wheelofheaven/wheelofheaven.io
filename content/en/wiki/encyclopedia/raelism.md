@@ -78,7 +78,7 @@ The Elohim also explained to Rael that they had been able to scientifically prov
 
 They also explained that for intelligent beings living on an atom of our hand, one of our seconds represented several million years, just as our entire earthly life represented only a billionth of a billionth of a second for the gigantic being whose Earth is only the atom of an atom. This proving the incommunicability existing between the different levels of infinity in space, eliminating any idea of a "god" having power over men.
 
-Finally, they explained that infinity exists in space, but also in time, nothing being created, everything being eternal either in the form of matter or in the form of energy, energy having no superiority over matter, as those who believe in "spirit" want to make believe.
+They explained that infinity exists in space, but also in time, nothing being created, everything being eternal either in the form of matter or in the form of energy, energy having no superiority over matter, as those who believe in "spirit" want to make believe.
 
 The Elohim had asked Rael to create a movement charged with spreading on Earth the messages they had given him, and to build on our planet an embassy, located if possible near Jerusalem, where they would officially make contact with the governments of our world.
 

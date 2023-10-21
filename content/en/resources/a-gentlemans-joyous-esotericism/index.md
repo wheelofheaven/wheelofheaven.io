@@ -1,7 +1,7 @@
 ---
 title: "A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens"
 description: "Abstract: the article reconstructs the narratives advanced by the author Jean Sendy (1910-1978). His life is reconstructed as well. It is argued that Sendy was a cultivated, sophisticated and ironic author, deeply different, by virtue of his books’ quality, from other proponents of the “ancient aliens” narratives with whom he is often paired."
-lead: 
+lead:
 author: "Stefano Bigliardi"
 date: 2022-09-20T00:00:00+00:00
 lastmod: 2022-09-20T00:00:00+00:00
@@ -28,7 +28,17 @@ Overall, Bigliardi suggests that Sendy's work is an interesting and valuable con
 
 ### Abstract
 
-The abstract that is taken straight from the paper itself:
+The paper was published in September 2016, focusing on the works and ideologies of Jean Sendy, a French author. It delves into a bibliography of Sendy's works, highlighting titles such as "Les cahiers de cours de Moïse," "La lune clé de la Bible," "Nous autres, gens du Moyen Age," and "L’ère du Verseau, fin de l’illusion humaniste."
+
+Jean Sendy proposed various theories and interpretations about ancient civilizations and their interactions with extraterrestrial beings, which he referred to as "Theosites." He theorized that certain ancient monuments, like the Pyramids, the archaeological remains in Tihuanaco, Bolivia, and the Temple of Baalbek in Lebanon, might have been constructed using advanced techniques introduced by these extraterrestrial entities.
+
+Central to Sendy's narrative is the idea that Theosites visited Earth, imparting their knowledge to humans. This wisdom was preserved as a "Tradition" by select civilizations, leading to their flourishing. In contrast, those who strayed from this Tradition encountered adversities.
+
+The document also touches upon the influences on Sendy's work. It suggests that he might have drawn inspiration from other authors and thinkers, including Matest Mendeleiev Agrest and Alexander Kazantsev, who also ventured into theories about extraterrestrials and ancient human history.
+
+On a side note, Sendy's own interpretation of world history, especially the conflict between Nazism and Catholicism, is explored. Having lived through the atrocities of Nazi Germany, these experiences deeply influenced his writings. He perceived Catholicism as a beacon of rationality and was critical of ideologies like Communism, Nazism, and capitalism.
+
+This is a quote directly taken from the paper's abstract itself:
 
 > The article reconstructs the narratives advanced by the author Jean Sendy (1910-1978). His life is reconstructed as well. It is argued that Sendy was a cultivated, sophisticated and ironic author, deeply different, by virtue of his books’ quality, from other proponents of the “ancient aliens” narratives with whom he is often paired.
 

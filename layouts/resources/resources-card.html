@@ -19,11 +19,10 @@
     {{ end -}}
     ({{ .Params.publish_date }})
     {{ end -}}
-
     </p>
     <p class="card-text mb-2">
       <small>
-        {{ .Params.lead | safeHTML | truncate 400 }} ...
+        {{ .Params.description | safeHTML | truncate 400 }} ...
       </small>
     </p>
     <div class="mt-4">

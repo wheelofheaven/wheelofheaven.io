@@ -34,7 +34,7 @@ While Sendy's ideas were not widely accepted by mainstream scholars, his work ha
 ### See also
 
 [Wiki › Neo-Euhemerism]({{< relref "wiki/encyclopedia/neo-euhemerism.md" >}})</br>
-[Resources › L\'Ère du Verseau: Fin de l\'Illusion Humaniste by Jean Sendy \[FR\]]({{< relref "resources/l-ere-du-verseau/_index.md" >}})</br>
+[Resources › L\'Ère du Verseau: Fin de l\'Illusion Humaniste by Jean Sendy \[FR\]]({{< relref "resources/the-coming-of-the-gods/_index.md" >}})</br>
 [Resources › Those Gods Who Made Heaven and Earth by Jean Sendy]({{< relref "resources/those-gods-who-made-heaven-and-earth/_index.md" >}})</br>
 
 ### External links

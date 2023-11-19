@@ -2,8 +2,8 @@
 title: "The Book Which Tells The Truth"
 description: "Claude Vorhilon aka Raël — The Book Which Tells The Truth (1973)"
 lead: "The first book by Raël, the written testimony of his first several encounters with Yahweh."
-authored_by: ["Claude Vorhilon (aka Raël)"]
-publish_date:
+authored_by: ["Raël"]
+publish_date: 1973
 follow_url: "https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/"
 menu:
   resources:

@@ -3,7 +3,7 @@ title: "The Coming Of The Gods"
 description: "Jean Sendy — The Coming Of The Gods (1973)"
 lead: ""
 authored_by: ["Jean Sendy"]
-publish_date:
+publish_date: 1973
 follow_url: ""
 menu:
   resources:

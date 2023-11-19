@@ -29,7 +29,7 @@ His essays have been translated into English, Spanish, French, German, Portugues
 
 ### Giorgio Cattaneo
 
-Giorgio Cattaneo has worked as a journalist, screenwriter, playwright and author of documentaries. He has collaborated with the famed journalist Giulietto Chiesa and has met people like Mikhail Gorbachev and the Pakistani leader Benazir Bhutto. He contributed to the draft of the film Siberian Education, by Oscar-winning Director Gabriele Salvatores and took part in the making of the documentary Qui, by
+Giorgio Cattaneo has worked as a journalist, screenwriter, playwright and author of documenatires. He has collaborated with the famed journalist Giulietto Chiesa and has met people like Mikhail Gorbachev and the Pakistani leader Benazir Bhutto. He contributed to the draft of the film Siberian Education, by Oscar-winning Director Gabriele Salvatores and took part in the making of the documentary Qui, by
 Daniele Gaglianone.
 
 He published the novel A Valley at the bottom of the Wind (Aliberti) and the mini-stories The Lottery of the Universe (Youcanprint). For the publisher Graffio, he has published “Acts of Light”, a poetic portrait of the artist Tino Aime. He wrote the play Ak, the Chant of the Cathars, performed in 2006 with Eugenio Allegri and the participation of Cochi Ponzoni, the writer Maurizio Maggiani and the singer Antonella Ruggiero, for whom he (together with Gilberto Richiero) wrote the song “Niente di Noi” (Nothing of Us), for her album When I was a Singer.

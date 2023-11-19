@@ -3,7 +3,7 @@ title: "Those Gods Who Made Heaven and Earth: The Evidence for Alien Visitors to
 description: "Jean Sendy — Those Gods who made Heaven and Earth: The Evidence for Alien Visitors to Earth before the Dawn of History (1972)"
 lead: ""
 authored_by: ["Jean Sendy"]
-publish_date:
+publish_date: 1972
 follow_url: ""
 menu:
   resources:

@@ -2,10 +2,24 @@
   <div class="card-body">
     <h5 class="card-title mt-2"><a class="card-link stretched-link text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a></h5>
     <p class="card-text mt-2">
-        {{ if .Params.medium -}}
-        {{ range $index, $type := .Params.medium }}{{ if gt $index 0 }}, {{ end }}<a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">{{ . | humanize }}</a>{{ end -}}
-        {{ end -}}
-        &nbsp— by {{ .Params.authored_by }} ({{ .Params.publish_date }})
+    {{ if .Params.medium -}}
+    {{ range $index, $type := .Params.medium }}
+    {{ if gt $index 0 }}, {{ end }}
+      <a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">
+        {{ . | humanize }}
+      </a>
+    {{ end -}}
+    {{ end -}}
+
+    {{ if .Params.authored_by -}}
+      &nbsp— by
+    {{ range $index, $author := .Params.authored_by }}
+    {{ if gt $index 0 }}, {{ end }}
+      {{ . }}
+    {{ end -}}
+    ({{ .Params.publish_date }})
+    {{ end -}}
+
     </p>
     <p class="card-text mb-2">
       <small>

@@ -2,8 +2,8 @@
 title: "The Zohar: Pritzker Edition"
 description: "The Zohar: Pritzker Edition by Daniel Matt (translation and commentary), 2018"
 lead: "This is the first translation ever made from a critical Aramaic text of the Zohar, which has been established by Professor Daniel Matt based on a wide range of original manuscripts. The work spans twelve volumes. The extensive commentary, appearing at the bottom of each page, clarifies the kabbalistic symbolism and terminology, and cites sources and parallels from biblical, rabbinic, and kabbalistic texts."
-authored_by: ["Daniel Matt (translation and commentary)"]
-publish_date:
+authored_by: ["Daniel Matt"]
+publish_date: 2018
 follow_url: "https://www.sup.org/zohar/"
 menu:
   resources:

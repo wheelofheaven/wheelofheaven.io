@@ -7,7 +7,7 @@ It is an astronomical code that deals with the position of the stars over vast p
 
 Moreover, the whole layout of the Giza plateau seems to point to a date many thousands of years earlier than the date of its supposed construction – a date revealed in the astronomical alignments of the Pyramids, the ‘mansions of a million years’, home of the god Osiris, the bringer of agriculture to the Egyptians, like Quetzalcoatl, after a flood."
 authored_by: ["Graham Hancock"]
-publish_date:
+publish_date: 1995
 follow_url: "https://grahamhancock.com/fingerprints/"
 menu:
   resources:

@@ -2,8 +2,8 @@
 title: "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth"
 description: "De Santillana & Von Dechend — Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth (1969)"
 lead: "Ever since the Greeks coined the language we commonly use for scientific description, mythology & science have developed separately. But what came before the Greeks? What if we could prove that all myths have one common origin in a celestial cosmology? What if the gods, the places they lived & what they did are but ciphers for celestial activity, a language for the perpetuation of complex astronomical data? Drawing on scientific data, historical & literary sources, the authors argue that our myths are the remains of a preliterate astronomy, an exacting science whose power & accuracy were suppressed & then forgotten by an emergent Greco-Roman world view. This fascinating book throws into doubt the self-congratulatory assumptions of Western science about the unfolding development & transmission of knowledge. This is a truly seminal & original thesis, a book that should be read by anyone interested in science, myth & the interactions between the two."
-authored_by: ["Giorgio de Santillana & Hertha von Dechend"]
-publish_date:
+authored_by: ["Giorgio de Santillana", "Hertha von Dechend"]
+publish_date: 1969
 follow_url: "https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/"
 menu:
   resources:

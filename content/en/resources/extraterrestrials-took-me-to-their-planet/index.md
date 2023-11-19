@@ -2,8 +2,8 @@
 title: "Extraterrestrials Took Me To Their Planet"
 description: "Claude Vorhilon aka Raël — Extraterrestrials Took Me To Their Planet (1976)"
 lead: "The second book by Raël, also a written testimony of another encounter with Yahweh where he was taken to another planet."
-authored_by: ["Claude Vorhilon (aka Raël)"]
-publish_date:
+authored_by: ["Raël"]
+publish_date: 1976
 follow_url: "https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/"
 menu:
   resources:

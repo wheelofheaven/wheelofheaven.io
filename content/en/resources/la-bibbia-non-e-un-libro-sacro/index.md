@@ -3,7 +3,7 @@ title: "La Bibbia non è un libro sacro"
 description: "Mauro Biglino — La Bibbia non è un libro sacro. Il grande inganno. 2013"
 lead: "La divinità spiritualmente intesa non è presente nell’Antico Testamento. In particolare nella Bibbia non c’è Dio e non c’è culto rivolto a Dio. Ecco perché il titolo afferma che la Bibbia non è un Libro Sacro."
 authored_by: ["Mauro Biglino"]
-publish_date:
+publish_date: 2013
 follow_url: "https://www.maurobiglino.com/libri/"
 menu:
   resources:

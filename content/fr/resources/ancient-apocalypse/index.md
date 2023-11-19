@@ -9,7 +9,7 @@ menu:
   resources:
     parent: "browse"
 weight: 240
-medium: ["Documentaries"]
+medium: ["Documentary film"]
 topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
 ---
 

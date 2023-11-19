@@ -6,18 +6,18 @@
 		</nav>
 	</div>
 	<main class="docs-content col-lg-11 mx-xl-auto">
-		<h1 class="text-center">{{ .Title }}</h1>
-		<p class="lead text-center">{{ .Params.lead | safeHTML }}</p>
-		<h2 class="heading-pinned">Pinned</h2>
-		<div class="row row-cols-1 row-cols-md-2 g-5">
+    <!--
+    Readd for Pinned resource cards
+  	<h2 class="heading-pinned">Pinned</h2>
+		<div class="row row-cols-1 row-cols-md-1 g-5">
 			{{ range where .Pages.ByWeight.Reverse "Params.pinned" true }}
 			<div class="col">
 				{{ .Render "resources-card" -}}
 			</div>
 			{{ end }}
 		</div>
-		<h2>Recent</h2>
-		<div class="row row-cols-1 row-cols-md-2 g-5">
+    -->
+		<div class="row row-cols-1 row-cols-md-1 g-5">
 		{{ range .Pages.ByWeight.Reverse }}
 			<div class="col">
 				{{ .Render "resources-card" -}}

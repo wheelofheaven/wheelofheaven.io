@@ -2,21 +2,14 @@
 title: "The Pillar of Enoch"
 description: "pillar-of-enoch.com | The Pillar of Enoch Web Site"
 lead: 
-author: "Helena Lehman"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-website.jpg"]
-link: "https://pillar-of-enoch.com"
+authored_by: ["Helena Lehman"]
+publish_date:
+follow_url: "https://pillar-of-enoch.com"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Website"]
+medium: ["Website"]
 topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "The Tradition", "Precession"]
 ---
 

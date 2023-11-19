@@ -6,21 +6,14 @@ lead: "Travelling first to South and Meso-America, Graham finds evidence of myth
 It is an astronomical code that deals with the position of the stars over vast periods of time – a code that reveals the ancients knew far, far more than they are generally credited with. Traces of the same code appear in Egyptian myth, and it is to this desert land that Graham and Santha travel, finding there haunting parallels in architecture and ritual to the New World sites they have just left behind.
 
 Moreover, the whole layout of the Giza plateau seems to point to a date many thousands of years earlier than the date of its supposed construction – a date revealed in the astronomical alignments of the Pyramids, the ‘mansions of a million years’, home of the god Osiris, the bringer of agriculture to the Egyptians, like Quetzalcoatl, after a flood."
-author: "Graham Hancock"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: "https://grahamhancock.com/fingerprints/"
+authored_by: ["Graham Hancock"]
+publish_date:
+follow_url: "https://grahamhancock.com/fingerprints/"
 menu:
   resources:
     parent: "browse"
 weight: 240
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Books"]
+medium: ["Books"]
 topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
 ---
 

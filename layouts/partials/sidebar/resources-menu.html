@@ -19,12 +19,12 @@
 <h3>Browse</h3>
 <ul class="list-unstyled">
   {{ $active := or (eq $currentPage.Title "Resources") (eq .Type "resources") -}}
-  <li><a class="docs-link d-flex{{ if $active }} active{{ end }}" href="/resources/"><span>All resources</span><span class="badge bg-light text-dark fw-normal ms-auto me-lg-4">{{ len (where .Site.RegularPages "Section" "==" "resources") }}</span></a></li>
+  <li><a class="docs-link d-flex{{ if $active }} active{{ end }}" href="{{ "resources/" | relLangURL }}"><span>All resources</span><span class="badge bg-light text-dark fw-normal ms-auto me-lg-4">{{ len (where .Site.RegularPages "Section" "==" "resources") }}</span></a></li>
 </ul>
 
-<h3>Types</h3>
+<h3>Medium</h3>
 <ul class="list-unstyled">
-  {{ range .Site.Taxonomies.types }}
+  {{ range .Site.Taxonomies.medium }}
     {{ $active := eq .Page.Title $currentPage.Title -}}
     <li><a class="docs-link d-flex{{ if $active }} active{{ end }}" href="{{ .Page.Permalink }}"><span>{{ .Page.Title | title }}</span><span class="badge bg-light text-dark fw-normal ms-auto me-lg-4">{{ .Count }}</span></a></li>
   {{ end }}

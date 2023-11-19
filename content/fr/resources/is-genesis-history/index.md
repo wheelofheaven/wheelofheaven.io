@@ -2,21 +2,14 @@
 title: "Is Genesis History?"
 description: "Is Genesis History? Features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis. From rock layers to fossils, from lions to stars, from the Bible to artifacts, this fascinating film will change the way you see the world."
 lead: "Features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis. From rock layers to fossils, from lions to stars, from the Bible to artifacts, this fascinating film will change the way you see the world."
-author: "Dr. Del Tackett and Thomas Purifoy Jr."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: "https://isgenesishistory.com/"
+authored_by: ["Dr. Del Tackett and Thomas Purifoy Jr."]
+publish_date:
+follow_url: "https://isgenesishistory.com/"
 menu:
   resources:
     parent: "browse"
 weight: 240
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Documentaries"]
+medium: ["Documentaries"]
 topics: ["Bible", "Genesis", "Religion"]
 ---
 

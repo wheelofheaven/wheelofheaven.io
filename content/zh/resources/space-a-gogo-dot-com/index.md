@@ -2,21 +2,14 @@
 title: "Space a Go Go"
 description: "Space a Go Go (archived) | Web site"
 lead: ""
-author: "Toyama"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-website.jpg"]
-link: "https://web.archive.org/web/20180207000504/http://www.spaceagogo.com/index.html"
+authored_by: ["Toyama"]
+publish_date:
+follow_url: "https://web.archive.org/web/20180207000504/http://www.spaceagogo.com/index.html"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Website"]
+medium: ["Website"]
 topics: ["Ancient Astronauts", "Intelligent Design", "Neo-Euhemerism", "Pyramids", "Raëlism"]
 ---
 

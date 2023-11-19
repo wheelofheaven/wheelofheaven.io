@@ -65,9 +65,9 @@ rel  = "sitemap"
 [taxonomies]
   contributor = "contributors"
   category = "categories"
-  tags = "tags"
-  type = "types"
-  topics = "topics"
+  tag = "tags"
+  medium = "medium"
+  topic = "topics"
 
 [permalinks]
   intro = "/intro/:title/"

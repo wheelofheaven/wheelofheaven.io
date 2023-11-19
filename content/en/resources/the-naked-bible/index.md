@@ -2,21 +2,14 @@
 title: "The Naked Bible"
 description: "Mauro Biglino, Giorgio Cattaneo — The Naked Bible. 2022"
 lead: "Writer and journalist Giorgio Cattaneo sits down with Italy's most renowned biblical translator for his first long interview about his life's work for the English audience. A decade long official Bible translator for the Church and lifelong researcher of ancient myths and tales, Mauro Bilglino is a unicum in his field of expertise and research. A fine connoisseur of dead languages, from ancient Greek to Hebrew and medieval Latin, he focused his attention and efforts on the accurate translating of the bible."
-author: "Mauro Biglino, Giorgio Cattaneo"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-book.jpg"]
-link: "https://www.maurobiglino.com/libri/"
+authored_by: ["Mauro Biglino, Giorgio Cattaneo"]
+publish_date:
+follow_url: "https://www.maurobiglino.com/libri/"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Books"]
+medium: ["Books"]
 topics: ["Elohim", "Exegesis", "Neo-Euhemerism"]
 ---
 

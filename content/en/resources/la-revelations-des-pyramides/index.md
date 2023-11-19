@@ -2,21 +2,14 @@
 title: "La Révélation des Pyramides"
 description: "The Revelation of the Pyramids: A French documentary by Jacques Grimault and Patrice Pooyard about the Great Pyramids from the year 2010."
 lead: "The Revelation of the Pyramids: A French documentary by Jacques Grimault and Patrice Pooyard about the Great Pyramids from the year 2010."
-author: "Jacques Grimault, Patrice Pooyard"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: "https://fr.wikipedia.org/wiki/La_R%C3%A9v%C3%A9lation_des_Pyramides"
+authored_by: ["Jacques Grimault, Patrice Pooyard"]
+publish_date:
+follow_url: "https://fr.wikipedia.org/wiki/La_R%C3%A9v%C3%A9lation_des_Pyramides"
 menu:
   resources:
     parent: "browse"
 weight: 240
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Documentaries"]
+medium: ["Documentaries"]
 topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
 ---
 

@@ -2,21 +2,14 @@
 title: "Ancient Apocalypse"
 description: "Ancient Apocalypse: A Netflix production featuring Graham Hancock and his research."
 lead: "A Netflix production featuring Graham Hancock and his research."
-author: "Graham Hancock"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: "https://www.netflix.com/ch-en/title/81211003"
+authored_by: ["Graham Hancock"]
+publish_date:
+follow_url: "https://www.netflix.com/ch-en/title/81211003"
 menu:
   resources:
     parent: "browse"
 weight: 240
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Documentaries"]
+medium: ["Documentaries"]
 topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
 ---
 

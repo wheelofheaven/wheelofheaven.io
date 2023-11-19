@@ -2,21 +2,14 @@
 title: "Mazzaroth"
 description: "Mazzaroth | The Alpha and the Omage Web Site"
 lead: ""
-author: "Jim A. Cornwell"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-website.jpg"]
-link: "https://www.mazzaroth.com"
+authored_by: ["Jim A. Cornwell"]
+publish_date:
+follow_url: "https://www.mazzaroth.com"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Website"]
+medium: ["Website"]
 topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 

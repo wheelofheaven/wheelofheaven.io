@@ -5,48 +5,31 @@
 				{{ partial "sidebar/resources-menu.html" . }}
 			</nav>
 		</div>
-		{{ if ne .Params.toc false -}}
 		<nav class="docs-toc d-none d-xl-block col-xl-3" aria-label="Secondary navigation">
 			{{ partial "sidebar/docs-toc.html" . }}
 		</nav>
-		{{ end -}}
-		{{ with .Params.toc -}}
 		<main class="docs-content col-lg-11 col-xl-9">
-		{{ else -}}
-		<main class="docs-content col-lg-11 mx-xl-auto">
-		{{ end -}}
+			<h1>{{ .Title }}</h1>
+
 			<div class="showcase-meta d-flex justify-content-between">
-        <span class="fw-bold">{{ .Title }} by {{ .Params.author }}</span>
+        <span class="fw-bold">
+        {{ if .Params.medium -}}
+        {{ range $index, $type := .Params.medium }}{{ if gt $index 0 }}, {{ end }}<a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">{{ . | humanize }}</a>{{ end -}}
+        {{ end -}}
+        &nbsp— by {{ .Params.authored_by }} ({{ .Params.publish_date }})
 				<span>
-					{{ if .Params.types -}}
-						<small class="types-single">{{ range $index, $type := .Params.types }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/resources/types/" | relURL }}{{ . | urlize }}/">{{ . | title }}</a>{{ end -}}</small>
-					{{ end -}}
-					<a class="view-website" href="{{ .Params.link }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>
+					<a class="view-website" href="{{ .Params.follow_url }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>
 				</span>
 			</div>
-			{{ $image := index .Params.images 0 -}}
-			{{ .Scratch.Set "src" $image -}}
-			{{ .Scratch.Set "alt" .Title -}}
-			{{ .Scratch.Set "class" "card-img-top m-0 p-0" -}}
-			<div class="card my-3">
-				{{ partial "main/img.html" . }}
-			</div>
-			<h1>{{ .Title }}</h1>
-			<p class="lead">{{ .Params.lead | safeHTML }}</p>
+
+      <p class="lead arvo-font">{{ .Params.lead | safeHTML }}</p>
 			{{ partial "main/headline-hash.html" .Content }}
 			{{ if .Params.topics -}}
-				<h2>Topics</h2>
-				<ul>
-				{{ range $index, $type := .Params.topics }}<li><a href="{{ "/resources/topics/" | relURL }}{{ . | urlize }}/">{{ . | title }}</a></li>{{ end -}}
-				</ul>
+				<h3>Topics</h3>
+        {{ range $index, $tag := .Params.topics -}}
+          <a class="btn btn-light" href="{{ "/resources/topics/" | relURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+        {{ end -}}
 			{{ end -}}
-      <!--
-			<h2>Website</h2>
-			<ul>
-				<li><a href="{{ .Params.link }}" target="_blank">{{ strings.TrimPrefix "https://" .Params.link }}</a></li>
-			</ul>
-      -->
-			<!-- {{ partial "main/edit-page.html" . }} -->
 			{{ partial "main/docs-navigation.html" . }}
 		</main>
 	</div>

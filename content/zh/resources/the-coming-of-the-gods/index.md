@@ -2,21 +2,14 @@
 title: "The Coming Of The Gods"
 description: "Jean Sendy — The Coming Of The Gods (1973)"
 lead: ""
-author: "Jean Sendy"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: ""
+authored_by: ["Jean Sendy"]
+publish_date:
+follow_url: ""
 menu:
   resources:
     parent: "browse"
 weight: 240
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Books"]
+medium: ["Books"]
 topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession"]
 ---
 

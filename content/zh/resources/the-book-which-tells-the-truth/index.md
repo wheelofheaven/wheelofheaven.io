@@ -2,21 +2,14 @@
 title: "The Book Which Tells The Truth"
 description: "Claude Vorhilon aka Raël — The Book Which Tells The Truth (1973)"
 lead: "The first book by Raël, the written testimony of his first several encounters with Yahweh."
-author: "Claude Vorhilon (aka Raël)"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-gitbook.jpg"]
-link: "https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/"
+authored_by: ["Claude Vorhilon (aka Raël)"]
+publish_date:
+follow_url: "https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/"
 menu:
   resources:
     parent: "browse"
 weight: 210
-toc: false
-pinned: true
-featured: false
-contributors: [""]
-types: ["Maintained Books"]
+medium: ["Maintained Books"]
 topics: ["Ancient Astronauts", "Canon", "Elohim", "Intelligent Design", "Neo-Euhemerism"]
 ---
 

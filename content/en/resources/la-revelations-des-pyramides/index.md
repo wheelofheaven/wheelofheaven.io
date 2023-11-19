@@ -1,27 +1,21 @@
 ---
-title: "La Révélation des Pyramides"
-description: "The Revelation of the Pyramids: A French documentary by Jacques Grimault and Patrice Pooyard about the Great Pyramids from the year 2010."
-lead: "The Revelation of the Pyramids: A French documentary by Jacques Grimault and Patrice Pooyard about the Great Pyramids from the year 2010."
-authored_by: ["Jacques Grimault, Patrice Pooyard"]
+title: "The Revelation of the Pyramids"
+original_title: "La Révélation des Pyramides"
+description: "\"The Revelation of the Pyramids,\" a French documentary directed by Patrice Pooyard and released in 2010, delves into pseudo-historical theories proposed by Jacques Grimault. Grimault's unpublished works suggest a slow cycle of geological changes on Earth, including shifts in magnetic poles, causing catastrophic events every 26,000 years. He theorizes that an ancient civilization, predating ours, was destroyed by these catastrophes, and that they built the Pyramids of Giza and other ancient structures. These structures, he claims, were not primarily tombs but mathematical riddles, warning of this cyclical disaster."
+authored_by: ["Jacques Grimault", "Patrice Pooyard"]
 publish_date: 2010
-follow_url: "https://fr.wikipedia.org/wiki/La_R%C3%A9v%C3%A9lation_des_Pyramides"
+follow_url: "https://www.imdb.com/title/tt2124189/"
 menu:
   resources:
     parent: "browse"
 weight: 240
 medium: ["Documentary film"]
-topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
+topics: ["Age of Aquarius", "Ancient Builders", "Astrological ages", "Cataclysm", "Precession", "Pyramids", "The Tradition"]
 ---
 
-### Synopsis
+"The Revelation of the Pyramids," a French documentary directed by Patrice Pooyard and released in 2010, delves into pseudo-historical theories proposed by Jacques Grimault. Grimault's unpublished works suggest a slow cycle of geological changes on Earth, including shifts in magnetic poles, causing catastrophic events every 26,000 years. He theorizes that an ancient civilization, predating ours, was destroyed by these catastrophes, and that they built the Pyramids of Giza and other ancient structures. These structures, he claims, were not primarily tombs but mathematical riddles, warning of this cyclical disaster.
 
-The Revelation of the Pyramids (French: La Révélation des Pyrmadies) is a French documentary film produced by Jacques Grimault and Patrice Pooyard in 2010. The film presents the theory that the pyramids of Egypt were built by a highly advanced civilization in prehistoric times, and that the pyramids were not merely tombs for pharaohs, but served a much greater purpose. The filmmakers assert that the pyramids were constructed to reflect the movements of the stars and to preserve ancient knowledge, including advanced mathematical and astronomical understanding.
-
-The documentary explores the astronomical alignments of the pyramids and the use of sacred geometry in their construction, including the Fibonacci sequence and the golden ratio. The film also examines the ancient legends and myths associated with the pyramids, and how these stories may be connected to the true purpose of the pyramids.
-
-In addition, the filmmakers assert that the pyramids were designed to serve as a kind of energy generator, using the Earth's magnetic field to create a powerful source of energy. They also claim that the pyramids were used to store and transmit knowledge, and that the secrets they contain are still waiting to be uncovered.
-
-Overall, The Revelation of the Pyramids presents a unique and controversial perspective on the purpose and significance of the pyramids of Egypt, challenging many of the traditional beliefs about these ancient structures and suggesting that they may have played a much more important role in human history than previously believed.
+The film also claims that the Giza pyramid complex and other archaeological sites like Easter Island and Machu Picchu are aligned on a "leaning equator," positioned equidistant from the Earth's magnetic poles. This alignment is theorized to be part of a larger framework that views pyramids as energy generators.
 
 ### See also
 

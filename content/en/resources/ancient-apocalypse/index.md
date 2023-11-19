@@ -1,17 +1,18 @@
 ---
 title: "Ancient Apocalypse"
-description: "Ancient Apocalypse: A Netflix production featuring Graham Hancock and his research."
-lead: "A Netflix production featuring Graham Hancock and his research."
-authored_by: ["Graham Hancock"]
-publish_date: 2023
-follow_url: "https://www.netflix.com/ch-en/title/81211003"
+description: "Ancient Apocalypse is a 2022 Netflix documentary series where British writer Graham Hancock presents his theories about an advanced civilization existing during the last ice age. Hancock suggests this civilization was destroyed by a cataclysm, with survivors introducing agriculture, monumental architecture, and astronomy to hunter-gatherers worldwide. The series incorporates ideas like the controversial Younger Dryas impact hypothesis, attributing climate change at the end of the Pleistocene to a meteor bombardment."
+authored_by: ["Netflix", "Graham Hancock"]
+publish_date: 2022
+follow_url: "https://www.netflix.com/title/81211003"
 menu:
   resources:
     parent: "browse"
 weight: 240
 medium: ["Documentary film"]
-topics: ["Age of Aquarius", "Builder Race", "Neo-Euhemerism", "Precession", "Pyramids", "The Tradition"]
+topics: ["Age of Aquarius", "Ancient Builders", "Cataclysm", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---
+
+Ancient Apocalypse is a 2022 Netflix documentary series where British writer Graham Hancock presents his theories about an advanced civilization existing during the last ice age. Hancock suggests this civilization was destroyed by a cataclysm, with survivors introducing agriculture, monumental architecture, and astronomy to hunter-gatherers worldwide. The series incorporates ideas like the controversial Younger Dryas impact hypothesis, attributing climate change at the end of the Pleistocene to a meteor bombardment.
 
 ### Synopsis
 

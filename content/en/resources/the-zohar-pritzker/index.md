@@ -1,7 +1,6 @@
 ---
 title: "The Zohar: Pritzker Edition"
-description: "The Zohar: Pritzker Edition by Daniel Matt (translation and commentary), 2018"
-lead: "This is the first translation ever made from a critical Aramaic text of the Zohar, which has been established by Professor Daniel Matt based on a wide range of original manuscripts. The work spans twelve volumes. The extensive commentary, appearing at the bottom of each page, clarifies the kabbalistic symbolism and terminology, and cites sources and parallels from biblical, rabbinic, and kabbalistic texts."
+description: "\"The Zohar: Pritzker Edition\" by Daniel Matt is a monumental translation of the Zohar, the foundational work of Jewish mysticism. This 12-volume series is the first to be translated from a critical Aramaic text, based on original manuscripts. Matt's extensive commentary clarifies Kabbalistic symbolism and terminology, citing sources from biblical, rabbinic, and kabbalistic texts. Acclaimed for its poetic language and insightful exegesis, the translation makes the complex Zohar accessible to a wider audience, both scholarly and general. Esteemed figures like Harold Bloom, Rabbi Harold Kushner, and Elie Wiesel have praised Matt's work for opening up the Zohar's spiritual depth, noting its significant impact on religious studies and spirituality. This translation is seen as a crucial development in Western understanding of the Zohar, offering an authentic interpretation free from long-standing errors and misrepresentations​."
 authored_by: ["Daniel Matt"]
 publish_date: 2018
 follow_url: "https://www.sup.org/zohar/"
@@ -9,21 +8,12 @@ menu:
   resources:
     parent: "browse"
 weight: 320
-medium: ["Books"]
-topics: ["Archive", "Bible", "Kabbalah", "The Tradition"]
+medium: ["Religious text"]
+topics: ["Bible", "Kabbalah", "Reference work", "The Tradition"]
 ---
 
-"The Zohar: Pritzker Edition" is a translation of the Zohar, a primary text of the Kabbalah, by Daniel Matt. The Zohar is a collection of mystical and esoteric teachings and commentary on the Torah, and it is considered one of the most important works of Jewish mysticism.
+"The Zohar: Pritzker Edition" by Daniel Matt is a monumental translation of the Zohar, the foundational work of Jewish mysticism. This 12-volume series is the first to be translated from a critical Aramaic text, based on original manuscripts. Matt's extensive commentary clarifies Kabbalistic symbolism and terminology, citing sources from biblical, rabbinic, and kabbalistic texts. Acclaimed for its poetic language and insightful exegesis, the translation makes the complex Zohar accessible to a wider audience, both scholarly and general. Esteemed figures like Harold Bloom, Rabbi Harold Kushner, and Elie Wiesel have praised Matt's work for opening up the Zohar's spiritual depth, noting its significant impact on religious studies and spirituality. This translation is seen as a crucial development in Western understanding of the Zohar, offering an authentic interpretation free from long-standing errors and misrepresentations​.
 
-In "The Zohar: Pritzker Edition," Daniel Matt presents a new English translation of the text, along with extensive commentary and notes to help readers understand the teachings of the Zohar. The translation is based on the original Aramaic text of the Zohar, and it is designed to be both accessible and accurate.
-
-Matt's translation of the Zohar provides a comprehensive overview of the Kabbalistic worldview and the teachings of the Zohar. It covers a wide range of topics, including the nature of God, the role of humanity, the structure of the universe, and the relationship between the physical and spiritual realms.
-
-One of the key themes of the Zohar is the idea of the Ein Sof, which is the infinite and unknowable aspect of God. The text also discusses the sefirot, the ten attributes or emanations of God, which are seen as the building blocks of the universe. The Zohar teaches that the ultimate goal of humanity is to reunite with the Ein Sof and to attain spiritual enlightenment.
-
-In "The Zohar: Pritzker Edition," Matt provides in-depth commentary and analysis of the text, drawing on his extensive knowledge of Kabbalah and Jewish mysticism. He also provides historical and cultural context for the teachings of the Zohar, and he explores the relationship between the Zohar and other mystical texts and traditions.
-
-Overall, "The Zohar: Pritzker Edition" is a comprehensive and accessible translation of the Zohar that provides readers with a deeper understanding of this important and influential text. Whether you are a student of Kabbalah, a practitioner of Jewish mysticism, or simply someone interested in exploring the wisdom of the ancient mystics, this translation is a valuable resource that provides insights into the teachings of the Zohar and the Kabbalistic worldview.
 
 ### About Daniel Matt
 

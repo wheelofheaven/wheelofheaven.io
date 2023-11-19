@@ -1,7 +1,6 @@
 ---
 title: "The Scars of Eden: Has humanity confused the idea of God with memories of ET contact?"
-description: "Paul Anthony Wallis — The Scars of Eden: Has Humanity confused the idea of God with memories of ET contact? (2021)"
-lead: "Do our world mythologies convey our ancestors' ideas about God? Or are they in reality ancestral memories of extra-terrestrial contact? How do ancient stories of contact, adaptation and abduction relate to people's experiences around the world today? The Scars of Eden will take you around the world to hear first-hand from ancestral voices alongside contemporary experiencers and world-renowned researchers. Recent revelations from US Navy, the Pentagon, and French Intelligence bring the reader right up to date in examining what has been forgotten and remembered, hidden and disclosed. If world mythologies, including the Bible, have confused the idea of God with ancient ET visitations, what difference does it make? How does it impact society today? And why is this cultural taboo so widespread and, for the author, so personal?"
+description: "\"The Scars of Eden\" by Paul Wallis, following his previous work \"Escaping from Eden,\" explores whether the world's mythologies, including the Bible, are actual accounts of God or ancestral memories of extraterrestrial contact. Wallis delves into ancient stories of contact, adaptation, and abduction, relating them to contemporary experiences worldwide. He includes insights from ancestral voices, modern experiencers, and renowned researchers, discussing recent disclosures from the US Navy, the Pentagon, and French Intelligence. The book examines the implications of confusing the idea of God with ET visitations on society and explores why this cultural taboo is so widespread and personally significant for the author​."
 authored_by: ["Paul Anthony Wallis"]
 publish_date: 2021
 follow_url: "https://paulanthonywallis.com/2020/07/30/the-scars-of-eden/"
@@ -9,17 +8,11 @@ menu:
   resources:
     parent: "browse"
 weight: 315
-medium: ["Books"]
-topics: ["Ancient Astronauts", "Elohim", "Neo-Euhemerism"]
+medium: ["Nonfiction book"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
 ---
 
-"The Scars of Eden: Has humanity confused the idea of God with memories of ET contact?" is a book written by Paul Anthony Wallis, an author and researcher in the fields of religion and extraterrestrial life. The book presents the author's views on the relationship between humanity's understanding of God and extraterrestrial life.
-
-The book argues that humanity's belief in God and religious practices may have their roots in ancient experiences of extraterrestrial contact. Wallis asserts that many religious beliefs, including the creation stories found in various religions, may be based on actual events of extraterrestrial visitations that have been misinterpreted and mythologized over time.
-
-The author uses evidence from archaeology, anthropology, and religious texts to support his argument that extraterrestrial visitations have had a profound influence on human culture and religion. He also examines the similarities between religious beliefs and accounts of extraterrestrial encounters, suggesting that these experiences may have shaped humanity's understanding of God and the afterlife.
-
-"The Scars of Eden" has been met with criticism from some religious scholars and mainstream scientists, who reject the author's claims as unsupported and lacking credible evidence. Nevertheless, the book remains a popular and widely discussed work in the field of alternative religion and extraterrestrial life.
+"The Scars of Eden" by Paul Wallis, following his previous work "Escaping from Eden," explores whether the world's mythologies, including the Bible, are actual accounts of God or ancestral memories of extraterrestrial contact. Wallis delves into ancient stories of contact, adaptation, and abduction, relating them to contemporary experiences worldwide. He includes insights from ancestral voices, modern experiencers, and renowned researchers, discussing recent disclosures from the US Navy, the Pentagon, and French Intelligence. The book examines the implications of confusing the idea of God with ET visitations on society and explores why this cultural taboo is so widespread and personally significant for the author​.
 
 ![Image](images/the-scars-of-eden-book.jpg "The Scars of Eden, 2021 — Paul Anthony Wallis")
 

@@ -1,6 +1,6 @@
 ---
 title: "A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens"
-description: "Abstract: the article reconstructs the narratives advanced by the author Jean Sendy (1910-1978). His life is reconstructed as well. It is argued that Sendy was a cultivated, sophisticated and ironic author, deeply different, by virtue of his books’ quality, from other proponents of the “ancient aliens” narratives with whom he is often paired."
+description: "In his paper A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens, Stefano Bigliardi discusses the work of Jean Sendy, a French esoteric writer who explored the idea of ancient astronauts and extraterrestrial intervention in human history. Bigliardi provides an overview of Sendy's life and work, including his theories on the origins of humanity, the influence of extraterrestrial beings, and the possible connections between various mythologies and ancient cultures."
 lead:
 authored_by: ["Stefano Bigliardi"]
 publish_date: 2016
@@ -10,7 +10,7 @@ menu:
     parent: "browse"
 weight: 310
 medium: ["Research paper"]
-topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession"]
+topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession", "Religion"]
 ---
 
 In his paper "A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens," Stefano Bigliardi discusses the work of Jean Sendy, a French esoteric writer who explored the idea of ancient astronauts and extraterrestrial intervention in human history. Bigliardi provides an overview of Sendy's life and work, including his theories on the origins of humanity, the influence of extraterrestrial beings, and the possible connections between various mythologies and ancient cultures.

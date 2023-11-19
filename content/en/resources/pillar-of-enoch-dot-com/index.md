@@ -1,23 +1,18 @@
 ---
 title: "The Pillar of Enoch"
-description: "pillar-of-enoch.com | The Pillar of Enoch Web Site"
-lead: 
+description: "Helena Lehman's \"Pillar of Enoch\" website is a resource for those interested in Judeo-Christian spiritual truths, ancient history, and future prophecies related to signs in the heavens as connected to Bible prophecy. The site features her \"Language of God Book Series,\" which explores biblical allegory and symbolism. The series delves into the prophetic imagery of the Bible, sacred monuments like the Great Pyramid and Solomon's Temple, and connections to constellations like Orion. Additionally, it discusses the Pillar of Enoch or Great Pyramid and its relation to the pre-Flood Sethites, the Gospel in the Stars, and how these elements tie into understanding biblical prophecies like those in Daniel, Ezekiel, and Revelation​."
 authored_by: ["Helena Lehman"]
-publish_date:
+publish_date: 1993?
 follow_url: "https://pillar-of-enoch.com"
 menu:
   resources:
     parent: "browse"
 weight: 310
 medium: ["Website"]
-topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "The Tradition", "Precession"]
+topics: ["Gospel in the Stars", "Mazzaroth", "Mythology", "The Tradition", "Precession"]
 ---
 
-### Description
-
-The following excerpt was directly taken from Helena Lehman's website:
-
-> Messianic Christian Scholar Helena Lehman’s ministry features the Language of God Book Series and Pillar of Enoch Trilogy books and free articles discussing the Language of God hidden within the Gospel in the Stars. See how the Signs in the Heavens surrounding Orion, Draco, Taurus and Scorpio reveal the meaning behind the Mayan date 13 Baktun or December 21, 2012, and the Sign in the Heavens between 2008 and 2019. Also see how the Great Pyramid, the Great Sphinx, the Desert Tabernacle, Stonehenge, the pyramids at Teotihuacán, the statues of Easter Island, Hawaii, Alaska, Tibet, the temples at Angkor and the Ark of the Covenant are tied to the 48 constellations of the ancient Zodiac. Discover the truth behind the mysterious prophecies hidden in the nine Jewish Feasts and the Prophecies in Psalms 110 thru 118 that may be tied to the Great Tribulation. Also see how the Star Gospel can help to decipher prophecies in the Book of Revelation concerning the Woman Clothed with the Sun, the Beasts from the Sea and the Earth, and the Four Horsemen of the Apocalypse and their connection to the celestial signs in the Sun, Moon, planets, and stars between 2008 and 2019.
+Helena Lehman's "Pillar of Enoch" website is a resource for those interested in Judeo-Christian spiritual truths, ancient history, and future prophecies related to signs in the heavens as connected to Bible prophecy. The site features her "Language of God Book Series," which explores biblical allegory and symbolism. The series delves into the prophetic imagery of the Bible, sacred monuments like the Great Pyramid and Solomon's Temple, and connections to constellations like Orion. Additionally, it discusses the Pillar of Enoch or Great Pyramid and its relation to the pre-Flood Sethites, the Gospel in the Stars, and how these elements tie into understanding biblical prophecies like those in Daniel, Ezekiel, and Revelation​.
 
 ### See also
 

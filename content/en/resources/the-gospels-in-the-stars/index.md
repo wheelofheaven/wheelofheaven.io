@@ -1,27 +1,24 @@
 ---
 title: "The Gospel in the Stars"
-description: "Joseph A. Seiss — The Gospel in the Stars (1884)"
-lead: "Do the heavens that reveal God's glory also reveal His plan of salvation? Yes, says Joseph A. Seiss, who contemplated the strange figures of the Zodiac and studied the writings of astronomers through the ages. Drawing upon scientific, historical and biblical sources, Seiss assembles persuasive arguments supporting his thesis that the Gospel of Jesus Christ can be seen in the stars."
+description: "Joseph A. Seiss' book \"The Gospel in the Stars\" presents a unique interpretation of the constellations, suggesting that they carry a divine message relating to the gospel of Jesus Christ. Seiss, an American pastor and author, proposes that the arrangement and symbolism of the constellations have been used throughout human history as a means to convey knowledge and wisdom, particularly concerning the nature of God and the plan of salvation."
 authored_by: ["Joseph A. Seiss"]
-publish_date: 1994
+publish_date: 1884
 follow_url: ""
 menu:
   resources:
     parent: "browse"
 weight: 240
-medium: ["Books"]
-topics: ["Age of Aquarius", "Bible", "Gospel in the Stars", "Mazzaroth", "Precession"]
+medium: ["Nonfiction book"]
+topics: ["Age of Aquarius", "Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 
-"The Gospel in the Stars" is a book written by Joseph Seiss, an American pastor and author, that explores the idea that the stars in the sky contain a hidden message about the gospel of Jesus Christ.
+Joseph A. Seiss' book "The Gospel in the Stars" presents a unique interpretation of the constellations, suggesting that they carry a divine message relating to the gospel of Jesus Christ. Seiss, an American pastor and author, proposes that the arrangement and symbolism of the constellations have been used throughout human history as a means to convey knowledge and wisdom, particularly concerning the nature of God and the plan of salvation.
 
-Seiss argues that the constellations and their arrangements in the sky have been used throughout human history as a means of transmitting knowledge and wisdom, and that they contain a message about the nature of God and the plan of salvation. He suggests that the constellations were designed by God as a way of communicating the gospel message to humanity, and that they provide a visual representation of the gospel story, including the birth, life, death, and resurrection of Jesus Christ.
+In his book, Seiss delves into each of the constellations, providing a biblical interpretation of their stories and symbols. He aligns these celestial patterns with key aspects of the Christian gospel narrative, including the birth, life, death, and resurrection of Jesus Christ. Seiss' exploration is not just an academic exercise but also serves as a devotional meditation on the gospel message.
 
-The author explores each of the constellations in detail, offering a biblical interpretation of their stories and symbols, and showing how they fit into the larger picture of the gospel story. He also provides a historical overview of the use of the stars and the constellations in human culture, including their role in ancient astronomical systems, their use in navigation and timekeeping, and their significance in religious and spiritual traditions.
+The book also offers a historical overview of the use of stars and constellations in various cultures, emphasizing their role in ancient astronomical systems, navigation, timekeeping, and religious and spiritual traditions. This historical perspective underpins Seiss' thesis that the constellations are divinely designed to communicate the gospel message to humanity.
 
-"The Gospel in the Stars" is written in a highly imaginative and imaginative style, and is intended to be both a biblical study and a devotional meditation on the gospel message. The book has been highly influential among certain Christian communities, and is still widely read and studied by those interested in the relationship between astronomy, the Bible, and Christian theology.
-
-Overall, "The Gospel in the Stars" is a fascinating and inspiring book that offers a unique perspective on the gospel message and its relationship to the stars and the universe. Whether or not the author's ideas are ultimately accepted by the wider academic community, the book remains an important and influential work in the field of Christian theology and biblical interpretation.
+"The Gospel in the Stars" has been influential in certain Christian communities and continues to be a topic of interest for those exploring the intersections between astronomy, the Bible, and Christian theology. Seiss' work is noted for its imaginative style and is considered an important contribution to Christian theology and biblical interpretation, despite varying degrees of acceptance within the wider academic communit.
 
 ![Image](images/gospel-in-the-stars-book.jpg "The Gospel in the Stars — Joseph A. Seiss")
 

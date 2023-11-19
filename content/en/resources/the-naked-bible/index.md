@@ -1,19 +1,18 @@
 ---
 title: "The Naked Bible"
-description: "Mauro Biglino, Giorgio Cattaneo — The Naked Bible. 2022"
-lead: "Writer and journalist Giorgio Cattaneo sits down with Italy's most renowned biblical translator for his first long interview about his life's work for the English audience. A decade long official Bible translator for the Church and lifelong researcher of ancient myths and tales, Mauro Bilglino is a unicum in his field of expertise and research. A fine connoisseur of dead languages, from ancient Greek to Hebrew and medieval Latin, he focused his attention and efforts on the accurate translating of the bible."
-authored_by: ["Mauro Biglino, Giorgio Cattaneo"]
+description: "\"The Naked Bible\" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​"
+authored_by: ["Mauro Biglino", "Giorgio Cattaneo"]
 publish_date: 2022
 follow_url: "https://www.maurobiglino.com/libri/"
 menu:
   resources:
     parent: "browse"
 weight: 310
-medium: ["Books"]
-topics: ["Elohim", "Exegesis", "Neo-Euhemerism"]
+medium: ["Nonfiction book"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
 ---
 
-"The Naked Bible" is a book written by the Italian journalist, playwright and screenwriter Giorgio Cattaneo and the Italian scholar Mauro Biglino, which challenges the traditional understanding of the Bible. In their book, Cattaneo writes about how Biglino argues that the texts of the Old Testament, specifically the Torah, were not divinely inspired, but rather were written by ancient scribes who recorded the history and beliefs of their society. Therein, Biglino claims that the text has been mistranslated and misinterpreted over time, and that a more accurate understanding of the Bible would reveal that it is not a divine text, but rather a historical document that reflects the cultural and political context of its authors.
+"The Naked Bible" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​
 
 ### About Mauro Biglino
 

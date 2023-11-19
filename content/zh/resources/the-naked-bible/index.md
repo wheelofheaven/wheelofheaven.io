@@ -1,26 +1,18 @@
 ---
 title: "The Naked Bible"
-description: "Mauro Biglino, Giorgio Cattaneo — The Naked Bible. 2022"
-lead: "Writer and journalist Giorgio Cattaneo sits down with Italy's most renowned biblical translator for his first long interview about his life's work for the English audience. A decade long official Bible translator for the Church and lifelong researcher of ancient myths and tales, Mauro Bilglino is a unicum in his field of expertise and research. A fine connoisseur of dead languages, from ancient Greek to Hebrew and medieval Latin, he focused his attention and efforts on the accurate translating of the bible."
-author: "Mauro Biglino, Giorgio Cattaneo"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-book.jpg"]
-link: "https://www.maurobiglino.com/libri/"
+description: "\"The Naked Bible\" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​"
+authored_by: ["Mauro Biglino", "Giorgio Cattaneo"]
+publish_date: 2022
+follow_url: "https://www.maurobiglino.com/libri/"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Books"]
-topics: ["Elohim", "Exegesis", "Neo-Euhemerism"]
+medium: ["Nonfiction book"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
 ---
 
-"The Naked Bible" is a book written by the Italian journalist, playwright and screenwriter Giorgio Cattaneo and the Italian scholar Mauro Biglino, which challenges the traditional understanding of the Bible. In their book, Cattaneo writes about how Biglino argues that the texts of the Old Testament, specifically the Torah, were not divinely inspired, but rather were written by ancient scribes who recorded the history and beliefs of their society. Therein, Biglino claims that the text has been mistranslated and misinterpreted over time, and that a more accurate understanding of the Bible would reveal that it is not a divine text, but rather a historical document that reflects the cultural and political context of its authors.
+"The Naked Bible" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​
 
 ### About Mauro Biglino
 
@@ -36,7 +28,7 @@ His essays have been translated into English, Spanish, French, German, Portugues
 
 ### Giorgio Cattaneo
 
-Giorgio Cattaneo has worked as a journalist, screenwriter, playwright and author of documentaries. He has collaborated with the famed journalist Giulietto Chiesa and has met people like Mikhail Gorbachev and the Pakistani leader Benazir Bhutto. He contributed to the draft of the film Siberian Education, by Oscar-winning Director Gabriele Salvatores and took part in the making of the documentary Qui, by
+Giorgio Cattaneo has worked as a journalist, screenwriter, playwright and author of documenatires. He has collaborated with the famed journalist Giulietto Chiesa and has met people like Mikhail Gorbachev and the Pakistani leader Benazir Bhutto. He contributed to the draft of the film Siberian Education, by Oscar-winning Director Gabriele Salvatores and took part in the making of the documentary Qui, by
 Daniele Gaglianone.
 
 He published the novel A Valley at the bottom of the Wind (Aliberti) and the mini-stories The Lottery of the Universe (Youcanprint). For the publisher Graffio, he has published “Acts of Light”, a poetic portrait of the artist Tino Aime. He wrote the play Ak, the Chant of the Cathars, performed in 2006 with Eugenio Allegri and the participation of Cochi Ponzoni, the writer Maurizio Maggiani and the singer Antonella Ruggiero, for whom he (together with Gilberto Richiero) wrote the song “Niente di Noi” (Nothing of Us), for her album When I was a Singer.

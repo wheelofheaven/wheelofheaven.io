@@ -2,10 +2,6 @@
 title: "Resources"
 description: "Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible."
 lead: "Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible."
-date: 2020-11-06T18:04:19+01:00
-lastmod: 2020-11-06T18:04:19+01:00
-draft: false
-images: []
 ---
 
 Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible.

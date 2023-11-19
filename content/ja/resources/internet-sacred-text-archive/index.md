@@ -1,32 +1,20 @@
 ---
 title: "Internet Sacred Text Archive"
-description: "www.sacred-texts.com | ISTA - Internet Sacred Text Archive"
-lead: ""
-author: "John B. Hare"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-website.jpg"]
-link: "https://www.sacred-texts.com/"
+description: "The Internet Sacred Text Archive (ISTA), founded by John Bruno Hare in 1999 in Santa Cruz, California, is a website dedicated to preserving electronic public domain religious texts. Hare, a software engineer, initiated this project from his home as an intellectual challenge, digitizing over 1,000 public domain books on religion, folklore, and mythology to promote religious tolerance through knowledge. The archive's texts are divided into 77 categories, and its maintenance costs are supported by sales of the website's content on DVDs, CDs, or USB flash drives."
+authored_by: ["John B. Hare"]
+publish_date: 1999
+follow_url: "https://www.sacred-texts.com/"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Website"]
-topics: ["Archive", "Mythology", "Religion", "The Tradition"]
+medium: ["Web resource", "Website"]
+topics: ["Archive", "Esoterica", "Mythology", "Religion", "Spirituality", "The Tradition"]
 ---
 
-The Internet Sacred Text Archive (ISTA) is a digital library that collects and makes available a wide range of religious and spiritual texts from a variety of traditions and cultures. The aim of the ISTA is to provide a comprehensive and easily accessible resource for those interested in exploring the religious and spiritual beliefs of different cultures and traditions. The ISTA features texts from ancient civilizations such as Egypt, Mesopotamia, Greece, and Rome, as well as texts from more recent traditions such as Buddhism, Hinduism, Judaism, Islam, and Christianity. Some of the most well-known texts available on the ISTA include the Hindu Vedas, the Buddhist Tripitaka, the Taoist Tao Te Ching, and the Christian Bible. The ISTA is an ongoing project and continues to expand its collection of sacred texts to provide a more comprehensive resource for those interested in exploring the spiritual and religious beliefs of humanity.
+The Internet Sacred Text Archive (ISTA), founded by John Bruno Hare in 1999 in Santa Cruz, California, is a website dedicated to preserving electronic public domain religious texts. Hare, a software engineer, initiated this project from his home as an intellectual challenge, digitizing over 1,000 public domain books on religion, folklore, and mythology to promote religious tolerance through knowledge. The archive's texts are divided into 77 categories, and its maintenance costs are supported by sales of the website's content on DVDs, CDs, or USB flash drives.
 
-### Description
-
-The following excerpt was directly taken from John B. Hare's website (from his [FAQ](https://www.sacred-texts.com/faq.htm)):
-
-> This site strives to produce the best possible transcriptions of public domain texts on the subject of religion, mythology, folklore and the esoteric. The texts are posted for free access on the Internet. This site is like a public library: it is accessible to anyone, contains unfiltered information, and does not advocate any particular point of view. However, nobody is going to shush you if you make too much noise while using this site.
+ISTA's content is organized under three main links: World Religions, Traditions, and Mysteries. The first link includes texts and secondary sources on Abrahamic religions. The second focuses on indigenous religions and transcriptions of oral myths. The third link offers writings of Nostradamus, descriptions of Atlantis, and various pagan texts. The website's main page features an alphabetically organized site map for easy navigation​.
 
 ### See also
 

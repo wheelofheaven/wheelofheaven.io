@@ -1,36 +1,18 @@
 ---
-title: "Rael.org"
-description: "Rael.org: The true origin of life on Earth: Extraterrestrials created us in their image"
-lead: ""
-author: "Raëlian Movement"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["resources-website.jpg"]
-link: "https://rael.org/"
+title: "Rael.org: The true origin of life on Earth: Extraterrestrials created us in their image"
+description: "The Raelian Movement, founded in 1974, centers on the teachings of Rael, who claims to have encountered the Elohim, a group of scientists purported to have created humanity. The movement has grown to over 130,000 members across more than 120 countries. It focuses on spreading the Elohim's message and building an embassy for them on Earth, as detailed in Rael's teachings. This non-profit organization is funded by its members, emphasizing a vision of a world where science is paramount and violence is eradicated. The Raelians, coming from diverse backgrounds, share the goal of transforming Earth into a paradise in line with these beliefs."
+authored_by: ["Raëlian Movement"]
+publish_date:
+follow_url: "https://rael.org/"
 menu:
   resources:
     parent: "browse"
 weight: 310
-toc: false
-pinned: false
-featured: false
-contributors: [""]
-types: ["Website"]
-topics: ["Ancient Astronauts", "Canon", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism"]
+medium: ["Website"]
+topics: ["Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism"]
 ---
 
-Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.
-
-According to Raëlian beliefs, the Elohim are highly advanced beings who used their genetic engineering skills to create humans and other species. Raelians believe that all major religions, including Christianity, Judaism, and Islam, have their origins in ancient extraterrestrial visitations, and that the Elohim are the gods described in various mythologies.
-
-The Raëlian movement emphasizes individual freedom and tolerance, and seeks to promote peace and understanding among people of all cultures and religions. They also advocate for scientific and technological advancements, such as cloning, as a means of improving human life and creating a better future for all.
-
-### Description
-
-The following excerpt was directly taken from the web site's description:
-
-> The true origin of life on Earth: Extraterrestrials created us in their image. Life has been scientifically created by extraterrestrials from another planet that we mistook for gods. They gave us a loving message, explaining how we came to be, thanks to science.
+The Raelian Movement, founded in 1974, centers on the teachings of Rael, who claims to have encountered the Elohim, a group of scientists purported to have created humanity. The movement has grown to over 130,000 members across more than 120 countries. It focuses on spreading the Elohim's message and building an embassy for them on Earth, as detailed in Rael's teachings. This non-profit organization is funded by its members, emphasizing a vision of a world where science is paramount and violence is eradicated. The Raelians, coming from diverse backgrounds, share the goal of transforming Earth into a paradise in line with these beliefs.
 
 ### See also
 

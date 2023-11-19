@@ -57,7 +57,7 @@
             {{- $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) -}}
             {{- $active = or $active (eq .Name $current.Title) -}}
             {{- $active = or $active (and (eq .Name "Wiki") (eq $current.Section "wiki")) -}}
-            {{- $active = or $active (and (eq .Name "Resources") (eq $current.Section "resources" "types" "functionalities")) -}}
+            {{- $active = or $active (and (eq .Name "Medium") (eq $current.Section "resources" "medium" "functionalities")) -}}
             {{- $active = or $active (and (eq .Name "Articles") (eq $current.Section "articles" "contributors")) -}}
             {{ if .HasChildren }}
               <li class="nav-item dropdown">

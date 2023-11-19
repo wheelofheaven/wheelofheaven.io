@@ -1,12 +1,34 @@
-<div class="card h-100">
-  {{ $image := index .Params.images 0 -}}
-  {{ .Scratch.Set "src" $image -}}
-  {{ .Scratch.Set "alt" .Title -}}
-  {{ .Scratch.Set "class" "card-img-top" -}}
-  {{ partial "main/img.html" . }}
+<div class="card">
   <div class="card-body">
     <h5 class="card-title mt-2"><a class="card-link stretched-link text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a></h5>
-    <p class="card-text mb-2">by {{ .Params.author | safeHTML | truncate 40 }}</p>
-    {{ if .Params.types -}}<p class="card-text mt-2"><small>{{ range $index, $type := .Params.types }}{{ if gt $index 0 }}, {{ end }}<a class="stretched-link position-relative" href="{{ "/resources/types/" | relURL }}{{ . | urlize }}/">{{ . | humanize }}</a>{{ end -}}</small></p>{{ end -}}
+    <p class="card-text mt-2">
+    {{ if .Params.medium -}}
+    {{ range $index, $type := .Params.medium }}
+    {{ if gt $index 0 }}, {{ end }}
+      <a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">
+        {{ . | humanize }}
+      </a>
+    {{ end -}}
+    {{ end -}}
+
+    {{ if .Params.authored_by -}}
+      &nbsp— by
+    {{ range $index, $author := .Params.authored_by }}
+    {{ if gt $index 0 }}, {{ end }}
+      {{ . }}
+    {{ end -}}
+    ({{ .Params.publish_date }})
+    {{ end -}}
+    </p>
+    <p class="card-text mb-2">
+      <small>
+        {{ .Params.description | safeHTML | truncate 400 }} ...
+      </small>
+    </p>
+    <div class="mt-4">
+      {{ range $index, $tag := .Params.topics -}}
+        <a class="btn btn-light" href="{{ "/topics/" | relURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+      {{ end -}}
+    </div>
   </div>
 </div>

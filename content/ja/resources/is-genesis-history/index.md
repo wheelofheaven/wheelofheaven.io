@@ -1,47 +1,45 @@
 ---
 title: "Is Genesis History?"
-description: "Is Genesis History? Features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis. From rock layers to fossils, from lions to stars, from the Bible to artifacts, this fascinating film will change the way you see the world."
-lead: "Features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis. From rock layers to fossils, from lions to stars, from the Bible to artifacts, this fascinating film will change the way you see the world."
-authored_by: ["Dr. Del Tackett and Thomas Purifoy Jr."]
-publish_date:
+description: "\"Is Genesis History?\" is a 2017 American film directed by Thomas Purifoy Jr., which presents the perspective of Young Earth creationism. This form of creation science challenges established scientific facts regarding the origins of the universe, Earth, solar system, and life itself, advocating for a literal interpretation of the biblical narratives. The film posits that the Earth was created in six 24-hour days and supports the Genesis accounts of Adam and Eve, the fall, a global flood, and the Tower of Babel."
+authored_by: ["Dr. Del Tackett", "Thomas Purifoy Jr."]
+publish_date: 2018
 follow_url: "https://isgenesishistory.com/"
 menu:
   resources:
     parent: "browse"
 weight: 240
 medium: ["Documentary film"]
-topics: ["Bible", "Genesis", "Religion"]
+topics: ["Bible", "Creationism", "Flood geology", "History of science", "Genesis", "Intelligent Design", "Religion"]
 ---
 
-The following description can be found on the website of the "Is Genesis History?" website:
+Is Genesis History?" is a 2017 American film directed by Thomas Purifoy Jr., which presents the perspective of Young Earth creationism. This form of creation science challenges established scientific facts regarding the origins of the universe, Earth, solar system, and life itself, advocating for a literal interpretation of the biblical narratives. The film posits that the Earth was created in six 24-hour days and supports the Genesis accounts of Adam and Eve, the fall, a global flood, and the Tower of Babel.
 
-> Is Genesis History? features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis.  From rock layers to fossils, from lions to stars, from the Bible to artifacts, this fascinating film will change the way you see the world.
->
-> The film’s goal is to provide a reasonable case for Creation in six normal days, a real Adam and Eve, an actual fall, a global flood, and a tower of Babel. Dr. Del Tackett, creator of The Truth Project, serves as your guide—hiking through canyons, climbing up mountains, and diving below the sea—in an exploration of two competing views … one compelling truth.
+Del Tackett, the creator of "The Truth Project," narrates the film, which features interviews with thirteen creationists who argue that the Genesis account represents real historical events. Other notable speakers in the film include George Grant, Paul Nelson, Marcus R. Ross, Andrew A. Snelling, Kurt Wise, and Larry Vardiman in the bonus features. The inspiration for the film came after Purifoy's daughter watched the Bill Nye–Ken Ham debate in 2014, which spurred questions about the creation-evolution controversy​.
+
+The film was released in American theaters on February 23, 2017, and it was shown in 704 theaters. This debut made it the highest-grossing film in the United States that night. A special anniversary screening took place on February 22, 2018, in approximately 850 theaters, featuring a bonus scene with Wheaton College students touring the Ark Encounter, a creationist attraction. This event sparked controversy among the faculty of Wheaton College, most of whom reject the historical creationism narrative presented in the film​.
+
+The documentary features over a dozen scientists and scholars explaining how the world intersects with the history recorded in Genesis. It covers a range of topics, including paradigms, created kinds, the fossil record, DNA, transitional forms, historical views on evolution, ecosystems, the global flood, starlight, the Tower of Babel, the Big Bang theory, rock layers, genealogies, isotope dating, and beauty. The film aims to address the question of whether the biblical account of creation and the flood should be understood as historical events, and whether the world provides evidence of recent creation and a catastrophic flood​​.
+
+Many of the scientists and scholars featured in the film view Genesis as key to understanding the world around us, having spent decades in their respective fields exploring its relationship to the history recorded in the Bible​.
 
 ### Synopsis
 
-"Is Genesis History?" is a 2017 documentary film by Del Tackett that presents a young Earth creationist perspective on the Biblical account of creation as described in the book of Genesis. The film features interviews with a number of scientists, researchers, and theologians who support a literal interpretation of the creation story.
+"Is Genesis History?" is a documentary film that delves into the debate between traditional scientific theories about the origins of the universe, Earth, and life, and the Young Earth creationism perspective, which interprets the Genesis account of creation as literal historical fact. The film is structured around a series of interviews and explorations conducted by Dr. Del Tackett, the creator of "The Truth Project." Tackett travels to various locations, including landscapes like canyons, mountains, and underwater environments, to investigate and present evidence that supports the Young Earth creationist viewpoint.
 
-The film argues that the scientific evidence supports the idea that the Earth is young, only thousands of years old, and that all life on Earth was created in six literal 24-hour days, as described in Genesis. It presents arguments against evolution and an old Earth, such as the apparent lack of intermediate fossil forms, the apparent sudden appearance of complex life forms in the fossil record, and the argument that the laws of thermodynamics make it impossible for the universe and life on Earth to have existed for billions of years.
+The film features over a dozen scientists and scholars from various fields who argue in favor of the creationist interpretation. These experts discuss a wide range of topics to support their views:
 
-Additionally, the film discusses various aspects of the creation story, including the creation of the universe, the creation of life, and the Biblical account of the Flood. It argues that the Flood was a global event that shaped the world as we know it today, and that the evidence of the Flood can be seen in the geological features of the Earth and in the fossil record.
+- Paradigms: The film examines different frameworks of understanding the world, contrasting the mainstream scientific paradigm with the creationist view.
+- Created Kinds: It discusses the concept of "kinds" as described in Genesis, in opposition to the theory of evolution.
+- Fossil Record: The documentary explores the fossil record, arguing that it supports the idea of a global flood rather than gradual geological processes.
+- DNA and Transitional Forms: It examines genetic evidence and the absence (as claimed in the film) of transitional forms in the fossil record.
+- Historic Views on Evolution and Ecosystems: The film addresses historical perspectives on evolution and the complexity of ecosystems.
+- Global Flood and Starlight: It presents arguments for a global flood and discusses astronomical evidence.
+- Tower of Babel and Big Bang: The film covers biblical events like the Tower of Babel and contrasts the Big Bang theory with creationist beliefs.
+- Rock Layers and Genealogies: It examines geological formations and biblical genealogies to argue for a young Earth.
+- Isotope Dating: The film critiques isotope dating methods used in establishing the age of the Earth.
+- Beauty: The documentary also delves into the concept of beauty in the natural world as evidence of intelligent design.
 
-The main arguments made in the film are:
-
-- The Earth is young: The film argues that the scientific evidence supports the idea that the Earth is only thousands of years old, not billions as accepted by mainstream science.
-
-- The Bible is literally true: The film presents the argument that the creation story in Genesis should be taken literally and that all life on Earth was created in six literal 24-hour days.
-
-- Evidence against evolution: The film presents arguments against evolution, such as the apparent lack of intermediate fossil forms and the apparent sudden appearance of complex life forms in the fossil record.
-
-- Evidence for the Flood: The film argues that the global Flood described in the Bible was a real event and that the evidence of the Flood can be seen in the geological features of the Earth and in the fossil record.
-
-- Scientific validity of creationism: The film argues that creationism is a scientifically valid perspective and that it should be considered as an alternative to evolution and an old Earth.
-
-It is important to note that the scientific claims made in the film have been challenged by the vast majority of the scientific community, and are not supported by mainstream science. The film's arguments and conclusions are considered to be controversial and not representative of the prevailing scientific consensus on the origin and age of the Earth and life on it.
-
-Overall, "Is Genesis History?" presents a specific, young Earth creationist perspective on the creation story, and is intended to encourage viewers to consider this perspective as an alternative to evolution and an old Earth.
+The overarching goal of "Is Genesis History?" is to make a compelling case for the creationist view of the Earth's and universe's origins, challenging established scientific theories and interpretations. The film asks whether the biblical account of creation and the flood can be understood as real history and whether the evidence in the natural world supports this view​.
 
 ### See also
 

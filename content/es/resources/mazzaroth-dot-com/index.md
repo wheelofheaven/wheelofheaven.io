@@ -1,27 +1,18 @@
 ---
-title: "Mazzaroth"
-description: "Mazzaroth | The Alpha and the Omage Web Site"
-lead: ""
+title: "Mazzaroth | The Alpha and the Omage Web Site"
+description: "Jim A. Cornwell's website, mazzaroth.com, offers a detailed exploration of the interplay between the zodiac, biblical narratives, and ancient civilizations. It delves into the correlations of zodiac symbols with biblical patriarchs, interprets the creation story in Genesis in relation to astronomical events, and examines the historical and astronomical connections to various periods, such as the Bronze Age and Egyptian Dynasties. The site also explores themes like the New Age, the Antichrist, and biblical prophecies of tribulation, linking these concepts to astronomical interpretations and the concept of completeness symbolized by the number twelve."
 authored_by: ["Jim A. Cornwell"]
-publish_date:
+publish_date: 1992
 follow_url: "https://www.mazzaroth.com"
 menu:
   resources:
     parent: "browse"
 weight: 310
 medium: ["Website"]
-topics: ["Archive", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
+topics: ["Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 
-### Description
-
-The following excerpt was directly taken from Jim A. Cornwell's website:
-
-> The Alpha and the Omega' by Jim A. Cornwell explores the correlations of Star Charts, symbols of the Zodiac or Mazzaroth in a teleological pattern relating to events, numbers, chronology and lifes of the Biblical patriarchs from Genesis through Revelation.
-
-Further, in Chapter One of his web book, he's writing the following proposition which would sum up the hypothesis of his writings:
-
-> Could it be that the first six ages, (Capricorn, Sagittarius, Scorpio, Libra, Virgo and Leo), were the renowned six days of creation? Then could it be that the following Age of Cancer occurring about 8,850 B.C. would be exemplar as the Fall of Adam and the coming of the Flood? Continuing on into the Age of Gemini around 6,690 B.C. with Noah and the Fall of Babylon, which followed with Abram's metamorphous to Abraham and then came the bull-worshipping Pharaohs of Taurus in 4,530 B.C. The next Age of Aries around 2,370 B.C. brought on the Exodus and the Old Testament of Moses to the civilized world. This ended with the prophets of the Old and the New Testament rejoicing the upcoming Age of Pisces. Jesus Christ appeared on earth 210 years after the age began and continued the New Testament through the Dark Ages all the way to the Renaissance. The Renaissance gave birth to the Revelation of the "New Age" of Aquarius in 1950 A.D. The Revelation begins the fulfillment of the long-time prophesied "time of secrecy." The Age of Aquarius ends in the year 4,110 A.D. Thus the complete cycle of the Zodiac will have run its course from beginning to end with the return of the Age of Capricorn. Each one of these Ages is explained further with a comparison of the people, places, geology, astronomy, science, and history involved.
+Jim A. Cornwell's website, mazzaroth.com, offers a detailed exploration of the interplay between the zodiac, biblical narratives, and ancient civilizations. It delves into the correlations of zodiac symbols with biblical patriarchs, interprets the creation story in Genesis in relation to astronomical events, and examines the historical and astronomical connections to various periods, such as the Bronze Age and Egyptian Dynasties. The site also explores themes like the New Age, the Antichrist, and biblical prophecies of tribulation, linking these concepts to astronomical interpretations and the concept of completeness symbolized by the number twelve.
 
 ### See also
 

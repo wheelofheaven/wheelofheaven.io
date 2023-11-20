@@ -8,7 +8,6 @@ follow_url: "https://www.maurobiglino.com/libri/"
 menu:
   resources:
     parent: "browse"
-weight: 310
 medium: ["Nonfiction book"]
 topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
 ---

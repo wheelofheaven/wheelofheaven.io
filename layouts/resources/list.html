@@ -6,17 +6,13 @@
 		</nav>
 	</div>
 	<main class="docs-content col-lg-11 mx-xl-auto">
-    <!--
-    Readd for Pinned resource cards
-  	<h2 class="heading-pinned">Pinned</h2>
-		<div class="row row-cols-1 row-cols-md-1 g-5">
-			{{ range where .Pages.ByWeight.Reverse "Params.pinned" true }}
-			<div class="col">
-				{{ .Render "resources-card" -}}
-			</div>
-			{{ end }}
-		</div>
-    -->
+    <h1 class="text-center">
+    {{ if eq .CurrentSection .FirstSection }}
+      {{ .Section | humanize }}
+    {{ else }}
+      {{ .Title }}
+    {{ end }}
+    </h1>
 		<div class="row row-cols-1 row-cols-md-1 g-5">
 		{{ range .Pages.ByTitle}}
 			<div class="col">

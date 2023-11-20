@@ -7,9 +7,8 @@ follow_url: "https://paulanthonywallis.com/2016/10/12/echoes-of-eden/"
 menu:
   resources:
     parent: "browse"
-weight: 320
 medium: ["Nonfiction book"]
-topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---
 
 "Echoes of Eden" by Paul Anthony Wallis delves into the potential connections between human history and extraterrestrial contacts as depicted in ancient narratives worldwide. The book explores the idea that entities described in these stories, which we would today classify as extraterrestrial beings (ETs), have played a significant role in human history. Wallis takes the reader on a global journey, from Senate briefings in Washington DC to secret ceremonies in southern Africa, and from strange phenomena in Australia and Iraq to mysterious encounters in modern Brazil and ancient Greece. The book investigates why military, intelligence, and other government agencies show keen interest in archaeology, indigenous rituals, and traditional initiation practices. It also probes the relationship between advanced cognitive abilities like remote viewing and precognition and historical ET contacts, pondering the implications for contemporary humanity.

@@ -7,9 +7,8 @@ follow_url: "https://paulanthonywallis.com/2016/10/12/blog-post-title-2/"
 menu:
   resources:
     parent: "browse"
-weight: 310
 medium: ["Nonfiction book"]
-topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---
 
 "Escaping from Eden" by Paul Wallis is a book that reexamines the stories of the Book of Genesis. Wallis suggests that anomalies in the text indicate we are not reading the original versions of these stories. He explores what the original narratives might have been, particularly regarding human origins, which he believes were almost obliterated from the Hebrew Scriptures in the 6th century BC and suppressed in Christian writings in the 2nd and 3rd centuries AD. The book delves into the mythologies of ancient civilizations such as Sumeria, Mesoamerica, India, Africa, and Greece, revealing a hidden profound secret within the Bible's text. Wallis suggests that these stories have connections to extraterrestrial beings and points to hidden truths about humanity, the universe, and our place in it, which he believes have long been suspected but rarely spoken of​.

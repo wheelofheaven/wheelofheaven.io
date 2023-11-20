@@ -7,7 +7,6 @@ follow_url: "https://www.netflix.com/title/81211003"
 menu:
   resources:
     parent: "browse"
-weight: 240
 medium: ["Documentary film"]
 topics: ["Age of Aquarius", "Ancient Builders", "Cataclysm", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---

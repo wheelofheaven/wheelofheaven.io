@@ -7,7 +7,6 @@ follow_url: "https://web.archive.org/web/20180207000504/http://www.spaceagogo.co
 menu:
   resources:
     parent: "browse"
-weight: 310
 medium: ["Website"]
 topics: ["Ancient Astronauts", "Intelligent Design", "Neo-Euhemerism", "Pyramids", "Raëlism"]
 ---

@@ -7,9 +7,8 @@ follow_url: "https://paulanthonywallis.com/2020/07/30/the-scars-of-eden/"
 menu:
   resources:
     parent: "browse"
-weight: 315
 medium: ["Nonfiction book"]
-topics: ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
+topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---
 
 "The Scars of Eden" by Paul Wallis, following his previous work "Escaping from Eden," explores whether the world's mythologies, including the Bible, are actual accounts of God or ancestral memories of extraterrestrial contact. Wallis delves into ancient stories of contact, adaptation, and abduction, relating them to contemporary experiences worldwide. He includes insights from ancestral voices, modern experiencers, and renowned researchers, discussing recent disclosures from the US Navy, the Pentagon, and French Intelligence. The book examines the implications of confusing the idea of God with ET visitations on society and explores why this cultural taboo is so widespread and personally significant for the author​.

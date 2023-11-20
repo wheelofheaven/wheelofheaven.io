@@ -8,7 +8,6 @@ follow_url: "https://www.academia.edu/24363391/_A_Gentleman_s_Joyous_Esotericism
 menu:
   resources:
     parent: "browse"
-weight: 310
 medium: ["Research paper"]
 topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession", "Religion"]
 ---

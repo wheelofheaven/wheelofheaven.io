@@ -7,7 +7,6 @@ follow_url: "https://www.francesrolleston.com/mazzaroth.html"
 menu:
   resources:
     parent: "browse"
-weight: 240
 medium: ["Nonfiction book"]
 topics: ["Age of Aquarius", "Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---

@@ -7,7 +7,6 @@ follow_url: ""
 menu:
   resources:
     parent: "browse"
-weight: 240
 medium: ["Nonfiction book"]
 topics: ["Age of Aquarius", "Ancient Astronauts", "Astrological ages", "Elohim", "Neo-Euhemerism", "Precession"]
 ---

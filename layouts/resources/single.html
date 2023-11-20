@@ -27,7 +27,7 @@
         {{ end -}}
 
         {{ if .Params.authored_by -}}
-          &nbsp— by
+        — by
         {{ range $index, $author := .Params.authored_by }}
         {{ if gt $index 0 }}, {{ end }}
           {{ . }}

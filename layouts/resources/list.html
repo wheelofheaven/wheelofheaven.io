@@ -18,7 +18,7 @@
 		</div>
     -->
 		<div class="row row-cols-1 row-cols-md-1 g-5">
-		{{ range .Pages.ByWeight.Reverse }}
+		{{ range .Pages.ByTitle}}
 			<div class="col">
 				{{ .Render "resources-card" -}}
 			</div>

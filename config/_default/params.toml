@@ -85,7 +85,7 @@ editPage = true
 lastMod = false
 
 [sections]
-  sectionNav = ["intro", "wiki", "resources"]
+  sectionNav = ["intro", "wiki", "resources", "medium", "topics"]
 
 [options]
   lazySizes = true
@@ -107,4 +107,3 @@ lastMod = false
 [menu]
   [menu.section]
     auto = true
-    collapsibleSidebar = false

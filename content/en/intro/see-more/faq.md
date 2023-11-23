@@ -15,7 +15,7 @@ Welcome to the FAQ (Frequently Asked Questions) section of Wheel of Heaven! Here
 2. [The hypothesis](#the-hypothesis)
 3. [Resources and navigation](#resources-and-navigation)
 5. [The Great Year and World Ages](#the-great-year-and-world-ages)
-6  [Attributed to the Elohim](#attributed-to-the-elohim)
+6.  [Attributed to the Elohim](#attributed-to-the-elohim)
 7. [Future implications](#future-implications)
 
 ---

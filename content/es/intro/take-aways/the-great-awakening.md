@@ -15,7 +15,7 @@ translatedby: ["GPT"]
 translationrate: 100
 ---
 
-{{< figure src="images/pyramid-red-glowing-star.png" caption="Il. 1 - Pirámide bajo estrella roja brillante" >}}
+{{< figure src="images/crowd-walking-towards-beam-earth.png" caption="Il. 1 - Pirámide bajo estrella roja brillante" >}}
 
 A medida que la ciencia y la tecnología avanzan, nuestra capacidad para explorar el cosmos y buscar vida extraterrestre podría potencialmente conducir a descubrimientos que apoyen la idea de vida inteligente más allá de la Tierra. En este contexto, las personas podrían estar más abiertas a considerar las afirmaciones exploradas aquí en _Wheel of Heaven_, lo que podría resultar en un mayor interés en sus enseñanzas y la posibilidad de un origen extraterrestre común para la humanidad.
 

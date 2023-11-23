@@ -15,7 +15,7 @@ translatedby: ["GPT"]
 translationrate: 100
 ---
 
-{{< figure src="images/pyramid-red-glowing-star.png" caption="Ill. 1 - Pyramide sous une étoile rougeoyante" >}}
+{{< figure src="images/crowd-walking-towards-beam-earth.png" caption="Ill. 1 - Pyramide sous une étoile rougeoyante" >}}
 
 Avec l'avancement de la science et de la technologie, notre capacité à explorer l'univers et à chercher une vie extraterrestre pourrait potentiellement conduire à des découvertes qui soutiennent l'idée d'une vie intelligente au-delà de la Terre. Dans ce contexte, les gens pourraient être plus ouverts à considérer les affirmations explorées ici à _Wheel of Heaven_, ce qui pourrait résulter en un intérêt accru pour ses enseignements et la possibilité d'une origine extraterrestre commune pour l'humanité.
 

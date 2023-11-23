@@ -15,7 +15,7 @@ translatedby: ["GPT"]
 translationrate: 100
 ---
 
-{{< figure src="images/pyramid-red-glowing-star.png" caption="图 1 - 红星下的金字塔" >}}
+{{< figure src="images/crowd-walking-towards-beam-earth.png" caption="图 1 - 红星下的金字塔" >}}
 
 随着科学和技术的发展，我们探索宇宙和寻找外星生命的能力可能会带来支持地球外存在智慧生命的发现。在这个背景下，人们可能会更愿意考虑在_Wheel of Heaven_这里探索的观点，这可能会增加对其教义和人类具有共同外星起源可能性的关注。
 

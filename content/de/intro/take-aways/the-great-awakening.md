@@ -15,7 +15,7 @@ translatedby: ["GPT"]
 translationrate: 100
 ---
 
-{{< figure src="images/pyramid-red-glowing-star.png" caption="Abb. 1 - Pyramide unter glühendem roten Stern" >}}
+{{< figure src="images/crowd-walking-towards-beam-earth.png" caption="Abb. 1 - Pyramide unter glühendem roten Stern" >}}
 
 Mit dem Fortschritt von Wissenschaft und Technologie könnte unsere Fähigkeit, das Universum zu erforschen und nach außerirdischem Leben zu suchen, potenziell zu Entdeckungen führen, die die Vorstellung von intelligentem Leben jenseits der Erde unterstützen. In diesem Kontext könnten die Menschen offener dafür sein, die hier auf _Wheel of Heaven_ untersuchten Behauptungen in Betracht zu ziehen, was zu einem gesteigerten Interesse an seinen Lehren und der Möglichkeit eines gemeinsamen außerirdischen Ursprungs für die Menschheit führen könnte.
 

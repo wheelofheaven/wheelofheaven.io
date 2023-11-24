@@ -6,14 +6,9 @@ description: Der extrasolare bewohnbare Planet, von dem die Gattung Elohimian od
 lead: Der extrasolare bewohnbare Planet, von dem die Gattung Elohimian oder zumindest
   ihre Zivilisation stammt. Dieser Planet soll etwa 1 Lichtjahr von der Erde entfernt
   sein und sich somit innerhalb der Milchstraße befinden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

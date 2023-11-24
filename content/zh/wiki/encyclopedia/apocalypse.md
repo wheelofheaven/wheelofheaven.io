@@ -4,14 +4,9 @@ alternatives:
 - Revelation
 description: Apocalypse，希腊语的启示录，指的是进入黄金时代之前的启示时代。天启时代所揭示的启示是宗教经典，特别是《圣经》所保存的间接事实，即古代的诸神是来自另一个星球的人，并且由于其高度先进的技术能力而被误认为是超自然存在。
 lead: 希腊语“启示录”，指的是进入黄金时代之前的启示时代。天启时代所揭示的启示是宗教经典，特别是《圣经》所保存的间接事实，即古代的诸神是来自另一个星球的人，并且由于其高度先进的技术能力而被误认为是超自然的存在。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

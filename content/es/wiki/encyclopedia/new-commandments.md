@@ -6,14 +6,9 @@ description: Los Nuevos Mandamientos, una serie de doctrinas presentadas por Yah
 lead: Una serie de doctrinas presentadas por Yahweh que elaboran lo que la humanidad
   podría tener en cuenta para progresar y dar paso a la Edad de Oro, ahora al comienzo
   de la Era de Acuario.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

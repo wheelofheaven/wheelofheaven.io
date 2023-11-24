@@ -6,14 +6,9 @@ description: Dhorme-Bibel, eine französische Bibelübersetzung des französisch
 lead: Eine französische Bibelübersetzung des französischen Assyrologen und Semitologen
   Édouard Dhorme (1881-1966), die für ihren wörtlichen Übersetzungsstil bekannt ist,
   der die ursprünglichen Bedeutungen in der französischen Sprache beibehält.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

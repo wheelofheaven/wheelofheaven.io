@@ -12,14 +12,9 @@ lead: El momento en el tiempo en que la humanidad ha alcanzado un nivel de sofis
   propio pasado y recibimos la herencia prometida por nuestros Padres. , los Elohim.
   Esta Era Dorada puede coincidir con la entrada en la Era de Acuario y un Gran Despertar
   global de alturas desconocidas.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

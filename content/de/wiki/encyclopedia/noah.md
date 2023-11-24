@@ -6,14 +6,9 @@ description: Noah, ein biblischer Patriarch, der in vorsintflutlicher Zeit gebor
 lead: Ein biblischer Patriarch, der in vorsintflutlicher Zeit geboren wurde. Er wurde
   für die Teilnahme an einem gigantischen Naturschutzprojekt nominiert, das das Leben
   auf der Erde vor der drohenden Katastrophe schützen soll.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

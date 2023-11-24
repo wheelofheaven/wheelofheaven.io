@@ -6,14 +6,9 @@ description: 歳差運動、地球の回転軸の方向の着実な変化。歳�
   25,920 年かかります。
 lead: 地球の回転軸の向きが着実に変化すること。歳差運動は、地軸の周りの自転（日周期）と太陽の周りの公転（年）に次ぐ、地球の 3 番目の重要な運動です。完全な歳差運動サイクルが完了するには
   25,920 年かかります。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

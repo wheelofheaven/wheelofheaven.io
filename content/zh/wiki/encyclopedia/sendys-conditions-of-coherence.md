@@ -2,14 +2,9 @@
 title: 森迪的一致性条件
 description: 森迪的连贯性条件，为了连贯和准确地阅读圣经而需要满足的一组条件，其中耶洛因被理解为被误认为上帝的星际文明的个体。
 lead: 为了连贯和准确地阅读《圣经》，需要满足一系列条件，其中耶洛因被理解为被误认为上帝的星际文明的个体。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

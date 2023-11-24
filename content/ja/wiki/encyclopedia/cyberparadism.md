@@ -6,14 +6,10 @@ alternatives:
 - ネオジェネシス
 description: サイバーパラダイズムは、先進技術と楽園的な自然を融合させ、人間の進歩と環境の調和が持続可能な共存を描く美的感覚です。
 lead: サイバーパラダイズムは、先進技術と楽園的な自然を融合させ、人間の進歩と環境の調和が持続可能な共存を描く美的感覚です。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

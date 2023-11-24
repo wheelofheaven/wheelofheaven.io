@@ -6,14 +6,9 @@ description: Liste megalithischer Stätten. Eine ausführliche Auflistung bekann
 lead: Eine ausführliche Auflistung bekannter megalithischer Stätten, die mehr oder
   weniger deutlich die Fingerabdrücke fortschrittlicher architektonischer Bauqualitäten
   aufweisen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

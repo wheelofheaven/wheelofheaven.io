@@ -8,14 +8,9 @@ lead: Un projet mondial de préservation de la vie mené par Noé et les Elohim 
   laissés sur Terre, incarné par un vaisseau spatial en orbite autour de la Terre
   lors de l'événement cataclysmique connu sous le nom de Grand Déluge, protégeant
   presque toutes les créations élohimiennes.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

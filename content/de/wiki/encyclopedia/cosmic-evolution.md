@@ -13,14 +13,9 @@ lead: Eine gezielte, iterative Schaffung von Leben im gesamten Universum durch f
   Schöpfung stellt einen evolutionären Schritt nach vorne dar, stellt jedoch möglicherweise
   eine Bedrohung für ihre Schöpfer dar. Dieses Konzept stellt eine Mischung aus natürlichen
   Prozessen und bewusster Gestaltung der großen Entwicklung des Lebens im Kosmos dar.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

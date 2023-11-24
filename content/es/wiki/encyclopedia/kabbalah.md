@@ -6,14 +6,9 @@ description: La Cabalá (קַבָּלָה), que literalmente significa 'tradici�
 lead: La Cabalá (קַבָּלָה), que literalmente significa 'tradición', es una escuela
   de pensamiento del misticismo judío. Su principal obra escrita es conocida como
   el Zohar.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

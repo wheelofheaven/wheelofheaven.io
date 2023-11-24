@@ -8,14 +8,9 @@ lead: Liste der Mythen und mythologischen Motive. Durch die Erforschung der von 
   of Heaven aufgestellten Prämissen gibt es eine Reihe von Mythen und mythologischen
   Motiven, die über die Interpretation der Arbeitshypothese gelesen werden können.
   Diese Liste soll den Großteil dieser Motive katalogisieren.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

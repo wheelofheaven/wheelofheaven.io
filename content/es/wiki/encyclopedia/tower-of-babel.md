@@ -17,14 +17,9 @@ lead: 'Torre de Babel (en hebreo: מִגְדַּל בָּבֶל, Mīgdal Bāḇe
   era mejorar las relaciones diplomáticas con el planeta de origen elohimiano que
   era hostil a la preservación de la vida en la Tierra asegurando amnistía para sus
   habitantes.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

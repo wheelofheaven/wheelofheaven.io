@@ -9,14 +9,9 @@ lead: Une approche alternative à l'interprétation de la Bible, prônant une co
   littérale de son contenu plutôt que de s'appuyer sur un langage figuré ou une exégèse
   établie. Il cherche à révéler un récit différent en examinant le texte sans interprétations
   métaphoriques et en mettant l'accent sur le contexte historique et culturel.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

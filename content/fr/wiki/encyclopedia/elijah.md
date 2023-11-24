@@ -2,14 +2,9 @@
 title: Élie
 description: Elijah, un patriarche biblique et prophète de la période du Premier Temple.
 lead: Un patriarche biblique et prophète de la période du Premier Temple.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aries

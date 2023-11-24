@@ -12,14 +12,9 @@ lead: Die Fraktion bestehend aus verbannten Schöpfern, die auf die Erde verbann
   auf ihrem Heimatplaneten, angeführt vom Präsidenten des Rates der Ewigen, Yahweh.
   Nach der Großen Sintflut kam es sowohl auf der Erde als auch im umgebenden Weltraum
   zu einer bewaffneten Konfrontation.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

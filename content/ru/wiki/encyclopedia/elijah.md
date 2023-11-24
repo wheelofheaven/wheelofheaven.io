@@ -2,14 +2,9 @@
 title: Илия
 description: Илия, библейский патриарх и пророк периода Первого Храма.
 lead: Библейский патриарх и пророк периода Первого Храма.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aries

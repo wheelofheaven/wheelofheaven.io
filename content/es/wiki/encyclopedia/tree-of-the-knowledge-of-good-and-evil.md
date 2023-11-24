@@ -11,14 +11,9 @@ lead: Una metáfora bíblica para los registros de conocimiento científico. A l
   libros científicos, especialmente los libros que contenían grandes conocimientos
   científicos se mantuvieron en secreto. El bien y el mal representa la ignorancia
   deliberada sobre estos registros y las ramificaciones contenidas en ellos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

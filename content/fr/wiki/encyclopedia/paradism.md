@@ -9,14 +9,9 @@ lead: La mise en place d'un système socio-économique post-rareté entièrement
   à l'image de la planète natale des Elohim. Grâce à des moyens technologiques d'automatisation
   du travail et d'atténuation des difficultés, l'abondance, la prospérité et l'épanouissement
   personnel deviendraient la nouvelle devise de la poursuite sociale.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

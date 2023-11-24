@@ -12,14 +12,9 @@ lead: La période de la vie sur Terre qui a précédé le Déluge. Plus précis�
   période antédiluvienne fait référence à un état du monde où la civilisation humaine
   avait fait de grands progrès technologiques et avait produit des descendants avec
   un groupe d'Elohims qui avaient été bannis pour rester sur Terre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - capricorn

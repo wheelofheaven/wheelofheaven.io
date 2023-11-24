@@ -18,14 +18,9 @@ lead: Una referencia metafórica a una facción rebelde entre los Elohim (אֱל
   seres humanos y el Elohim responsable de ella, conocido como la Serpiente, fue condenado
   y exiliado para permanecer en la Tierra por su transgresión. Uno de los protagonistas
   principales de esta facción es conocido como Lucifer, el portador de la luz.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

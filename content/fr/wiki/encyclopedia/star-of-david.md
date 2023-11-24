@@ -18,14 +18,9 @@ lead: Un ancien symbole connu sous de nombreux noms tels que le Bouclier de Davi
   pour représenter à la fois l'équivalence de toutes les échelles d'existence (communément
   désignée par le tristement célèbre dicton hermétique "Comme ci-dessus, donc ci-dessous")
   ainsi que l'immensité sans fin de l'espace (infini).
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

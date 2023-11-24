@@ -2,14 +2,9 @@
 title: 巨石遗址列表
 description: 巨石遗址列表。对已知巨石遗址的广泛列举，或多或少清晰地体现了先进建筑质量的指纹。
 lead: 对已知巨石遗址的广泛列举，或多或少清晰地体现了先进建筑质量的指纹。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

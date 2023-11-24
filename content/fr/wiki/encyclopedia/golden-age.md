@@ -12,14 +12,9 @@ lead: Le moment où l'humanité a atteint un niveau de sophistication scientifiq
   passé et recevons l'héritage promis par nos Pères , les Elohim. Cet âge d'or peut
   coïncider avec l'entrée dans l'ère du Verseau et un grand réveil mondial d'une hauteur
   inconnue.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

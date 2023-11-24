@@ -16,14 +16,9 @@ lead: Ein Versprechen der Elohim direkt nach der großen Sintflut, die fast alle
   es Noahs und anderen, das Leben zu retten, indem sie genetisches Ausgangsmaterial
   aller terrestrischen Arten speicherten, das an Bord der Arche, einem umlaufenden
   Raumschiff, geschützt wurde.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

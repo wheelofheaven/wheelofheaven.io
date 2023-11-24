@@ -2,14 +2,9 @@
 title: 诺亚
 description: 诺亚，出生于上古时代的圣经族长。他被提名参加一个巨大的保护项目，旨在保护地球上创造的生命免受即将发生的灾难的影响。
 lead: 出生于上古时代的圣经族长。他被提名参加一个巨大的保护项目，旨在保护地球上创造的生命免受即将发生的灾难的影响。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

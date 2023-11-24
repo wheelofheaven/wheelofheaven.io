@@ -8,14 +8,9 @@ description: 大月，也称为占星年龄或世界年龄，一段大约 2'160 
   度的整个圆周。 12 个伟大的月份相当于一个伟大的一年。
 lead: 也称为占星年龄或世界年龄，一段大约 2'160 年的时间，岁差现象使黄道上的黄道带向西移动 30 度所需的时间，或者是岁差的十二分之一。 360 度全圆周。
   12 个伟大的月份相当于一个伟大的一年。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

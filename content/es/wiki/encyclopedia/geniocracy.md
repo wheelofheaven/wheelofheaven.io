@@ -9,14 +9,9 @@ lead: Un sistema político propuesto presentado por Yahweh como parte de los Nue
   Mandamientos que elige a individuos inteligentes en posiciones políticas reunidas
   de la totalidad de la humanidad, por lo tanto, solo reconoce la inteligencia como
   un atributo de elegibilidad en lugar de la riqueza, la clase, la fuerza o el poder.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

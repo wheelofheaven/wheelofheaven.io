@@ -5,14 +5,9 @@ alternatives:
 description: 进动，地球自转轴方向的稳定变化。进动是地球继绕地轴自转（日周期）和绕太阳公转（年）之后的第三个关键运动。一个完整的岁差周期需要 25'920
   年才能完成。
 lead: 地球自转轴方向的稳定变化。进动是地球继绕地轴自转（日周期）和绕太阳公转（年）之后的第三个关键运动。一个完整的岁差周期需要 25'920 年才能完成。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

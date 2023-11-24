@@ -9,14 +9,9 @@ lead: Die Errichtung eines vollautomatisierten sozioökonomischen Systems nach d
   Knappheit nach dem Vorbild des Heimatplaneten der Elohim. Durch technologische Mittel
   zur Automatisierung der Arbeit und zur Linderung von Nöten würden Überfluss, Wohlstand
   und persönliche Erfüllung zur neuen Währung des gesellschaftlichen Strebens werden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

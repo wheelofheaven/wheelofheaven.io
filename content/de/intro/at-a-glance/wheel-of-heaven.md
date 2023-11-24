@@ -1,11 +1,6 @@
 ---
 title: "Wheel of Heaven 🌌"
 description: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
-excerpt: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["sunset-man-on-hill.png"]
 menu:
   intro:
     parent: "at-a-glance"

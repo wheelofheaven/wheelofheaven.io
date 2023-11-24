@@ -2,14 +2,9 @@
 title: 解释阅读列表
 description: 释经读物清单。通过探索《天轮》提出的前提，有许多宗教、神话或传统观念可以用新委喻主义的解释来解读。该列表将列出其中的大多数概念。
 lead: 通过探索《天轮》提出的前提，有许多宗教、神话或传统观念可以用新委喻主义的解释来解读。该列表将列出其中的大多数概念。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -27,14 +27,9 @@ lead: Zwischen zwei verfeindeten Elohim-Fraktionen kam es zu einem bewaffneten K
   und Konflikte gingen Jahwe und seine Gefährten letztendlich als Sieger hervor. Doch
   Jahwe zeigte ein gewisses Maß an Gnade und vergab den verbannten Schöpfern, so dass
   sie auf ihren Heimatplaneten zurückkehren konnten.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

@@ -40,15 +40,10 @@ lead: Dans l'immensité de l'histoire cosmique, les 12 ères astrologiques, comm
   révélation et le début d'un Âge d'Or. Ces ères représentent non seulement des périodes
   de temps, mais aussi un grand voyage cosmique que l'humanité entreprend dans sa
   quête de croissance spirituelle et d'illumination.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -7,14 +7,9 @@ description: Las condiciones de coherencia de Sendy, un conjunto de condiciones 
 lead: Un conjunto de condiciones que deben cumplirse para permitir una lectura coherente
   y exacta de la Biblia donde los Elohim son entendidos como individuos de una civilización
   interestelar confundida con Dios.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

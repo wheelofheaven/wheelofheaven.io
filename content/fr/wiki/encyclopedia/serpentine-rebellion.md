@@ -12,14 +12,9 @@ lead: La faction composée de créateurs exilés, qui avaient été bannis sur T
   leur planète natale, dirigée par le président du Conseil des Éternels, Yahweh. Après
   le Déluge, une confrontation armée s'est produite à la fois sur Terre et dans l'espace
   environnant.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

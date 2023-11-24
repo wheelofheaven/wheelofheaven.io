@@ -2,14 +2,9 @@
 title: Mytheme
 description: Le mythème, unité fondamentale de la structure narrative mythologique.
 lead: Une unité fondamentale de la structure narrative mythologique.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

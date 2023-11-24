@@ -6,14 +6,9 @@ description: Lista de sitios megalíticos. Una extensa enumeración de sitios me
 lead: Una extensa enumeración de sitios megalíticos conocidos que presentan más o
   menos claramente las huellas dactilares de calidades de construcción arquitectónica
   avanzada.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

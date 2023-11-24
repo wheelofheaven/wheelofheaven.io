@@ -12,14 +12,9 @@ lead: Une région spécifique du supercontinent pangéen antédiluvien où l'une
   équipes de créateurs élohimiens était assez talentueuse et aurait créé le paradis
   sur Terre. Le jardin d'Eden fait référence à un site de recherche fermé exploité
   par des chercheurs élohimiens dans la région d'Eden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - virgo

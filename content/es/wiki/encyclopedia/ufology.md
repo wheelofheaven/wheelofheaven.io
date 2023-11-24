@@ -16,14 +16,9 @@ lead: Un campo de estudio e investigación que se centra en el fenómeno de los 
   van desde naves extraterrestres hasta encubrimientos gubernamentales, y tiene como
   objetivo comprender el fenómeno de los ovnis a través de investigaciones científicas,
   testimonios de testigos presenciales y pruebas documentales.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

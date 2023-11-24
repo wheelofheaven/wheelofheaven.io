@@ -2,14 +2,9 @@
 title: "List of etymological readings"
 description: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
 lead: "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 ---
 

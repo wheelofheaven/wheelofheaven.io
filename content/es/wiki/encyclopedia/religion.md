@@ -14,14 +14,9 @@ lead: Un conjunto de prácticas y creencias que cultiva y enseña la conexión (
   religión está destinada a mantener el vínculo entre los creadores y lo creado. Una
   religión que no se esfuerza por cultivar y racionalizar ese vínculo de gratitud
   hacia quienes nos crearon es un sistema sociocultural totalmente diferente.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

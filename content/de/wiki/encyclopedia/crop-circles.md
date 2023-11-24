@@ -14,14 +14,9 @@ lead: Komplizierte Muster, die in Feldfrüchten erscheinen. Sie wurden mit der U
   Während es sich bei einigen Kornkreisen nachweislich um von Menschenhand geschaffene
   Fälschungen handelt, wird die Debatte über ihren Ursprung im Bereich der Ufologie
   fortgesetzt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

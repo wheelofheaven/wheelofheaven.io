@@ -11,14 +11,9 @@ lead: Une communauté distincte à l'origine du genre humain qui a vécu à l'é
   Elohimienne connue sous le nom de Serpent, les Adamites ont donné naissance à une
   progéniture hybride. Ces descendants se sont assimilés à la communauté Adamite,
   fusionnant ainsi en un groupe distinct singulier d'Adamites hybrides et non hybrides.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

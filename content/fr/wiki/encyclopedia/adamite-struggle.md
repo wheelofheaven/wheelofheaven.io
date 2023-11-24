@@ -20,14 +20,9 @@ lead: Se rapporte au récit plus large du voyage de l'humanité vers l'autonomie
   leurs créateurs, les Elohim, naviguant à travers les étapes de l'illumination, de
   la rébellion et de la rétribution tout en persévérant dans leur quête de reconnaissance
   et d'indépendance.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

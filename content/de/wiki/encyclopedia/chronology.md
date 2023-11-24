@@ -42,15 +42,10 @@ lead: In der weiten Geschichte des Kosmos bieten die 12 astrologischen Zeitalter
   und den Beginn eines Goldenen Zeitalters symbolisiert. Diese Zeitalter repräsentieren
   nicht nur Zeiträume, sondern auch eine große kosmische Reise, die die Menschheit
   in ihrem Streben nach spirituellem Wachstum und Erleuchtung unternimmt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

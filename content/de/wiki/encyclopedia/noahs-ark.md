@@ -9,14 +9,9 @@ lead: Ein weltumfassendes Lebenserhaltungsprojekt, das von Noah und den auf der 
   verbannten Elohim geleitet wird und letztendlich durch ein Raumschiff verkörpert
   wird, das während des katastrophalen Ereignisses, das als Große Sintflut bekannt
   ist, die Erde umkreist und fast alle elohimischen Schöpfungen schützt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

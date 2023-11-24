@@ -8,14 +8,9 @@ lead: Relación de mitemas y motivos mitológicos. Mediante la exploración de l
   presentadas por Wheel of Heaven, hay una serie de mitemas y motivos mitológicos
   que se pueden leer a través de la interpretación de la hipótesis de trabajo. Esta
   lista va a catalogar la mayoría de estos motivos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

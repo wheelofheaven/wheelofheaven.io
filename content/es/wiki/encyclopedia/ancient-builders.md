@@ -19,14 +19,9 @@ lead: A veces también conocida simplemente como la raza constructora, la propos
   por constructores antiguos por una serie de huellas dactilares peculiares, como
   elementos de construcción megalíticos, el entrelazamiento poligonal de estos elementos
   y alineaciones astronómicas.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

@@ -15,14 +15,9 @@ lead: Une civilisation extraterrestre extraordinairement avancée qui aurait cr�
   Elohim ne puissent les rencontrer physiquement ou apprendre directement d'eux. Leur
   héritage, cependant, survit sous la forme de leurs vastes connaissances scientifiques,
   qui ont été préservées et pourraient un jour être transmises à l'humanité.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

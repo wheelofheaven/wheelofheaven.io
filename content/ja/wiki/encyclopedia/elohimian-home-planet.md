@@ -2,14 +2,10 @@
 title: エロヒムの母星
 description: エロヒミア属、または少なくともその文明の発祥の地である居住可能な太陽系外惑星。この惑星は地球から約1光年離れているため、天の川銀河内に位置すると考えられています。
 lead: エロヒミア属、または少なくともその文明の発祥の地である居住可能な太陽系外惑星。この惑星は地球から約1光年離れているため、天の川銀河内に位置すると考えられています。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

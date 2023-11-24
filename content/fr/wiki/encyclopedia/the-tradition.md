@@ -14,14 +14,9 @@ lead: Un ensemble de vérités pérennes orales et écrites qui ont été transm
   ou de livres, mais peut être comprise comme l'héritage culturel et mythologique
   de tous les individus qui ont formalisé les vérités les plus élevées d'une manière
   codifiée et prétendument incorruptible.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

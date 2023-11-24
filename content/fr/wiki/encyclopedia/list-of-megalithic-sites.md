@@ -5,14 +5,9 @@ description: Liste des sites mégalithiques. Une vaste énumération de sites m�
   architecturales avancées.
 lead: Une vaste énumération de sites mégalithiques connus qui présentent plus ou moins
   clairement les empreintes digitales de qualités architecturales avancées.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -8,14 +8,9 @@ lead: También conocida simplemente como la pluralidad de mundos, es la idea de 
   deben existir mundos múltiples, pero desconocidos, además de la Tierra, donde debe
   estar presente la vida inteligente. La pura inmensidad del espacio apoya fuertemente
   esta idea.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

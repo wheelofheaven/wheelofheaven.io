@@ -11,14 +11,9 @@ lead: Stellt die besondere Interpretation dar, dass die biblische Tradition die 
   mehrerer göttlicher Wesen bezeugt. Dieses Konzept umfasst auch den Glauben, dass
   diese göttlichen Wesen einst mit Menschen verwandt waren und dass Menschen dementsprechend
   das Potenzial besitzen, sich in Zukunft zu gottähnlichen Wesen zu entwickeln.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

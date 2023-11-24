@@ -10,14 +10,9 @@ lead: Aussi connu sous le nom de Grand Déluge, un événement cataclysmique cau
   une mesure militaire préventive qui a été délibérément initiée par le gouvernement
   en détresse de la lointaine planète d'origine des Elohim qui souhaitait mettre un
   terme au progrès scientifique indépendant sur Terre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

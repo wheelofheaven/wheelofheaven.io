@@ -11,14 +11,9 @@ lead: Une métaphore biblique pour les archives de connaissances scientifiques. 
   mais pas tous, en particulier les livres contenant de grandes connaissances scientifiques
   ont été gardés secrets. Le bien et le mal représentent l'ignorance délibérée de
   ces archives et des ramifications qu'elles contiennent.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

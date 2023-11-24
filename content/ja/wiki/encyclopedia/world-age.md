@@ -4,14 +4,9 @@ alternatives:
 - Astrological age
 description: 占星術時代としても知られる世界時代。偉大な月を黄道帯の名前で表す口語用語です。たとえば、今、私たちは魚座の時代から水瓶座の時代に移行しています。
 lead: 占星術の時代とも呼ばれ、偉大な月を黄道帯の名前で表す口語用語です。たとえば、今、私たちは魚座の時代から水瓶座の時代に移行しています。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

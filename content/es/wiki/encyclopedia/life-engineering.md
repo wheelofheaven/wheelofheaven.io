@@ -11,14 +11,9 @@ lead: Se refiere a la aplicación de enfoques científicos y tecnológicos para 
   con funciones, características o capacidades novedosas. Implica la manipulación
   deliberada de material genético y el ensamblaje de componentes biológicos para provocar
   la aparición de formas de vida completamente nuevas que no existen en la naturaleza.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

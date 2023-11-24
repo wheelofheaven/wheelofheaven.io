@@ -24,14 +24,9 @@ lead: La dissimulation militaire de l'exobiologie fait référence à l'idée qu
   militaire de l'exobiologie implique un effort délibéré pour retenir ou manipuler
   des informations sur des phénomènes extraterrestres potentiels pour diverses raisons,
   telles que la sécurité nationale ou la stabilité sociétale.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

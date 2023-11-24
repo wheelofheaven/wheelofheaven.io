@@ -12,14 +12,9 @@ lead: La verdad, la noción especulativa de que cuando suficientes muestras de v
   por una civilización extraterrestre y de lo que siguió a partir de entonces hasta
   este mismo día en que esta Verdad será revelada y recontada durante los tiempos
   del Apocalipsis.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

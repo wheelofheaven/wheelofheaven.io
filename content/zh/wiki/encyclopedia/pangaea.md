@@ -4,14 +4,9 @@ alternatives:
 - Antediluvian landmass
 description: 盘古大陆是一个上古时期的超级大陆，在耶洛因到达地球并开始研究其构成后不久，他们就将地球范围内的浅海床改造成了盘古大陆。
 lead: 耶洛因到达地球并开始研究其构成后不久，就从地球范围内的浅海海底改造了一块上古超级大陆。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

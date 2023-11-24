@@ -8,14 +8,9 @@ description: Gran Año, también conocido como Año Platónico, un período de t
   de precesión completo.
 lead: También conocido como año platónico, un período de tiempo de alrededor de 25'920
   años, la cantidad de tiempo que tarda en completarse un ciclo de precesión completo.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

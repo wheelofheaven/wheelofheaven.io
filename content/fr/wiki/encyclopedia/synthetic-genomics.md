@@ -18,14 +18,9 @@ lead: Branche du génie génétique qui se concentre sur la conception, l'assemb
   à la vie et créer potentiellement des organismes avec des caractéristiques modifiées
   ou nouvelles. Cela implique la construction de matériel génétique artificiel pour
   explorer et manipuler la base génétique de la vie.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -8,14 +8,9 @@ description: Bible, un ensemble d'anciennes écritures religieuses témoignant d
 lead: Un ensemble d'anciennes écritures religieuses témoignant de ce qui s'est passé
   afin que l'humanité ait la preuve lorsque la Vérité sera à nouveau révélée à l'époque
   de l'Apocalypse.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

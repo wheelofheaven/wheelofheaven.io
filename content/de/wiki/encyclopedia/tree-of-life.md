@@ -8,14 +8,9 @@ lead: Eine biblische Metapher, die für den wissenschaftlichen Wissensbestand da
   steht, wie die technischen Mittel zur Erlangung des ewigen Lebens bereitgestellt
   werden können. Genauer gesagt, um die Lebenserwartung des Menschen um bis zu 1.000
   Jahre zu verlängern, wie es im Zeitalter des Löwen der Fall war.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

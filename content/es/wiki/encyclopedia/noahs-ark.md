@@ -8,14 +8,9 @@ lead: Un proyecto de preservación de la vida que abarca todo el mundo liderado 
   Noé y los Elohim exiliados que quedaron en la Tierra finalmente encarnados por una
   nave espacial que orbita la Tierra durante el evento catastrófico conocido como
   el Gran Diluvio que salvaguarda casi todas las creaciones de Elohim.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

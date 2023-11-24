@@ -16,14 +16,9 @@ lead: Ein Band am Himmel, durch das die Sonne hindurchgeht, bekannt als Ekliptik
   der Ekliptik nach Osten. Mit diesem Verständnis kann der Tierkreis als Grundlage
   für die Benennung von 12 Häusern innerhalb eines langfristigen Zyklus verstanden
   werden, die jeweils ein bestimmtes Weltzeitalter bezeichnen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

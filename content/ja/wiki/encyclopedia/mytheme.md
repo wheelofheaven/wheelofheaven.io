@@ -2,14 +2,10 @@
 title: ミーム
 description: マイテーマ、神話の物語構造の基本単位。
 lead: 神話の物語構造の基本的な単位。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

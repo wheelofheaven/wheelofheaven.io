@@ -8,14 +8,9 @@ lead: Auch einfach als Pluralität der Welten bekannt, ist die Idee, dass zusät
   zur Erde mehrere, noch unbekannte Welten existieren müssen, in denen intelligentes
   Leben vorhanden sein muss. Die schiere Weite des Weltraums unterstützt diese Idee
   stark.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

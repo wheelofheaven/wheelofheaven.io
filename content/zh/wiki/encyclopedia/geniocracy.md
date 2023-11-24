@@ -2,14 +2,9 @@
 title: 智力统治
 description: 天才政治是耶和华提出的一种政治制度，作为新诫命的一部分，从全人类中选出聪明的个人担任政治职位，因此只承认智力是资格的一个属性，而不是财富、阶级、力量或权力。
 lead: 耶和华提出的一种政治制度，作为新诫命的一部分，从全人类中选出聪明的个人担任政治职位，因此只承认智力是资格的一个属性，而不是财富、阶级、力量或权力。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

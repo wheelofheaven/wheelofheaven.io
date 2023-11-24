@@ -16,14 +16,9 @@ lead: 666 (χξϛ), auch bekannt als die Zahl des Tieres oder einfach aufgrund d
   sind und davon ausgehen, dass dies mit der Zahl des Menschen übereinstimmt, muss
   der erste Mensch vor einem halben Präzessionszyklus erschaffen worden sein, also
   zu Beginn des Zeitalters des Löwen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

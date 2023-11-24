@@ -2,14 +2,9 @@
 title: "Quatre plans de considération"
 description: "The four levels of consideration, derived from Raëlian theology and philosophy, propose a moral compass that requires consideration of four specific perspectives: the infinity of space, our creators - the Elohim, the human society we inhabit, and ourselves as individuals, in that order. This perspective echoes the hallmarks of classical existentialism, with its focus on individual freedom, authenticity, and responsibility. However, it transcends these concepts to formulate a unique form of cosmic existentialism, thereby integrating an awareness of humanity's position within the vast cosmos into our philosophical discourse."
 lead: "The four levels of consideration, derived from Raëlian theology and philosophy, propose a moral compass that requires consideration of four specific perspectives: the infinity of space, our creators - the Elohim, the human society we inhabit, and ourselves as individuals, in that order. This perspective echoes the hallmarks of classical existentialism, with its focus on individual freedom, authenticity, and responsibility. However, it transcends these concepts to formulate a unique form of cosmic existentialism, thereby integrating an awareness of humanity's position within the vast cosmos into our philosophical discourse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 5

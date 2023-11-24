@@ -2,14 +2,9 @@
 title: 以利亚
 description: 以利亚，圣经中的族长和第一圣殿时期的先知。
 lead: 第一圣殿时期的圣经族长和先知。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aries

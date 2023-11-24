@@ -4,14 +4,9 @@ alternatives:
 - Dinosaurs
 description: 龙，一种已经灭绝的生物生命形式，最初是在埃洛希米亚母星上设计的，其特点是特别可怕和可怕。由于事件的严重性，研究和工程转移到了近在咫尺的系外行星地球，并在其表面启动了生命。通过古生物学，我们将这些龙称为恐龙。
 lead: 一类已灭绝的生物生命形式，最初是在埃洛希米亚母星上设计的，其特点是特别可怕和可怕。由于事件的严重性，研究和工程转移到了近在咫尺的系外行星地球，并在其表面启动了生命。通过古生物学，我们将这些龙称为恐龙。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

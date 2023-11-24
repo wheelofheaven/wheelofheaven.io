@@ -8,14 +8,9 @@ lead: Originalmente llamado Abram o, en hebreo, Avram. Es un patriarca bíblico 
   los tiempos posteriores a la destrucción de Sodoma y Gomorra. Es el primer embajador
   o profeta designado por la civilización de los Elohim y mantuvo una relación diplomática
   no hostil con ellos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

@@ -13,14 +13,9 @@ lead: Beaucoup de religions, mais pas tout à fait, sont considérées comme des
   qui témoignent des faits et gestes élohimiens. Cette liste va cataloguer de manière
   exhaustive dans une large mesure la majorité des traditions religieuses notables
   ainsi que les prophètes qui conduisent à de telles traditions.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

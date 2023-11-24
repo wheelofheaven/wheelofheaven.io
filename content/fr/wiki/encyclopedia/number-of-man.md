@@ -14,14 +14,9 @@ lead: Aussi connu sous le nom de Nombre de la Bête ou simplement par la valeur 
   Si nous venons d'entrer dans l'ère du Verseau et que nous supposons que cela coïncide
   avec le nombre d'hommes, le premier être humain doit avoir été créé il y a un demi-cycle
   précessionnel, ce qui serait au début de l'ère du Lion.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

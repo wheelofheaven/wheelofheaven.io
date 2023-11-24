@@ -2,11 +2,6 @@
 title: "Âge du Lion"
 period: "11'010—8'850BC"
 description: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
-excerpt: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   intro:
     parent: "timeline"

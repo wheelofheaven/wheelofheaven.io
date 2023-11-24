@@ -21,14 +21,9 @@ lead: Parfois également appelée simplement la race des constructeurs, la propo
   par un certain nombre d'empreintes digitales particulières telles que des éléments
   de construction mégalithiques, l'imbrication polygonale de ces éléments et des alignements
   astronomiques.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

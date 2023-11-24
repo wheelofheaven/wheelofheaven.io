@@ -5,14 +5,9 @@ alternatives:
 - pre-flood
 description: 上洪水时期，大洪水之前地球上的生命时期。更具体地说，上古时期是指人类文明取得了巨大的技术进步，并与一群被放逐留在地球上的耶洛因产生了后代的世界状态。
 lead: 大洪水之前地球上的生命时期。更具体地说，上古时期是指人类文明取得了巨大的技术进步，并与一群被放逐留在地球上的耶洛因产生了后代的世界状态。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - capricorn

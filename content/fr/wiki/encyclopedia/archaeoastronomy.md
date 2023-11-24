@@ -11,14 +11,9 @@ lead: Une discipline scientifique pour comprendre le passé anthropologique à t
   avec des observations astronomiques. Plus précisément, la discipline est représentative
   d'un ensemble important de recherches qui dévoilent l'étendue des connaissances
   et de leur transmission depuis le début de la fabrication de la civilisation.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

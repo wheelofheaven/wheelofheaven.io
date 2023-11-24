@@ -12,14 +12,9 @@ lead: Drake-Gleichung, eine Gleichung, die die Wahrscheinlichkeit intelligenten 
   Leben entstehen könnte. Die Gleichung ist nach Franke Drake benannt und dient als
   probabilistisches Gedankenexperiment, um über die mögliche Existenz außerirdischen
   Lebens nachzudenken.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -16,15 +16,10 @@ lead: tl;dr est l'abréviation de too long; didn't read. Elle est couramment uti
   reste de l'article. En incluant une section tl;dr, nous offrons à nos lecteurs un
   aperçu rapide des points principaux, leur permettant de saisir les informations
   clés sans avoir à plonger dans l'intégralité de l'article.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

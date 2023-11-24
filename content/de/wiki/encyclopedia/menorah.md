@@ -14,14 +14,9 @@ lead: Dient als Erinnerung an die Telefonzentrale einer elohimitischen Zentralba
   Interpretation legt nahe, dass die sieben Zweige der Menora metaphorisch die sieben
   elohimischen Stützpunkte symbolisieren, die in dieser Zeit auf der Erde errichtet
   wurden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

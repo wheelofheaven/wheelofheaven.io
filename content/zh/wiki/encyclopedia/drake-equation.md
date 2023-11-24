@@ -4,14 +4,9 @@ description: 德雷克方程，一个方程，将存在智慧外星生命的概�
   Drake）的名字命名，作为概率思想实验来思考外星生命可能存在的可能性。
 lead: 德雷克方程，一个方程，将存在智慧外星生命的概率表示为各种因素的乘积，例如可能适合居住的行星的比例或可能出现生命的行星的比例。该方程以弗兰克·德雷克（Franke
   Drake）的名字命名，作为概率思想实验来思考外星生命可能存在的可能性。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

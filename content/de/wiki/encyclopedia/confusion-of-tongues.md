@@ -14,14 +14,9 @@ lead: Die Folgereaktion der elohimischen Zivilisation während der Zeit des Aufb
   Fortschritt auf der Erde auszugleichen und diese Bemühungen unschädlich zu machen.
   Das Verwirrungsunternehmen bestand darin, die Wissensträger auf der ganzen Welt
   geografisch unter Stämmen aufzulösen, die sie nicht mehr verstehen konnten.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

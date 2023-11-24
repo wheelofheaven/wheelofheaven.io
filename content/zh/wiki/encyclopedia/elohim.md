@@ -12,14 +12,9 @@ alternatives:
 - 神徒
 description: 以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的希伯来语词汇，通常被翻译为神。它是一个复数名词，其使用在圣经学者之间引起了很多争议，涉及其意义。
 lead: 以利沙（希伯来语：אֱלֹהִים，'ēlohîm'）是希伯来圣经中使用的希伯来语词汇，通常被翻译为神。它是一个复数名词，其使用在圣经学者之间引起了很多争议，涉及其意义。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 100

@@ -8,14 +8,9 @@ lead: Initialement appelé Abram ou, en hébreu, Avram. Il est un patriarche bib
   des temps après la destruction de Sodome et Gomorrhe. Il est le premier ambassadeur
   ou prophète nommé par la civilisation des Elohim et a entretenu avec eux une relation
   diplomatique non hostile.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

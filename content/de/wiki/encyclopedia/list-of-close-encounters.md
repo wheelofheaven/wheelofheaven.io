@@ -4,14 +4,9 @@ description: Liste der Nahbegegnungen, eine ausführliche Auflistung aller Nahbe
   mit unbekannten Flugobjekten, die von der Antike bis in die Neuzeit gemeldet wurden.
 lead: Liste der Nahbegegnungen, eine ausführliche Auflistung aller Nahbegegnungen
   mit unbekannten Flugobjekten, die von der Antike bis in die Neuzeit gemeldet wurden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

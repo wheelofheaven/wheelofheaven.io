@@ -10,14 +10,9 @@ lead: Le changement constant d'orientation de l'axe de rotation de la Terre. La 
   est le troisième mouvement clé de la Terre après la rotation autour de son axe (cycle
   du jour) et sa révolution autour du Soleil (année). Un cycle précessionnel complet
   prend 25'920 ans.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

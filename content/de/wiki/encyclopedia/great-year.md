@@ -7,14 +7,9 @@ description: Großes Jahr, auch platonisches Jahr genannt, ein Zeitraum von etwa
   Jahren, also die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt.
 lead: Auch als platonisches Jahr bekannt, ein Zeitraum von etwa 25.920 Jahren, also
   die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

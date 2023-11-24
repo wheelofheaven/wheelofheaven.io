@@ -12,14 +12,9 @@ lead: Representa la interpretación distintiva que la tradición bíblica testif
   de que estos seres divinos alguna vez fueron similares a los humanos y, en consecuencia,
   que los humanos poseen el potencial de evolucionar hacia entidades divinas en el
   futuro.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

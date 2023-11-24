@@ -8,14 +8,9 @@ description: La Pangée, un supercontinent antédiluvien qui a été terraformé
 lead: Un supercontinent antédiluvien qui a été terraformé à partir d'un fond marin
   peu profond à l'échelle de la Terre par les Elohim peu de temps après leur arrivée
   sur la planète Terre et a commencé à enquêter sur sa constitution.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

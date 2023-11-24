@@ -15,14 +15,9 @@ lead: Une base de connaissances en ligne explorant l'hypothèse de travail selon
   céleste de constellations qui continue de tourner régulièrement. C'est aussi une
   référence un peu plus obscure à Akhenaton, un ancien pharaon égyptien qui a décrit
   un vaisseau spatial en forme de disque comme ressemblant à une roue dans le ciel.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

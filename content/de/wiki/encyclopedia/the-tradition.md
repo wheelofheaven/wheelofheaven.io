@@ -14,14 +14,9 @@ lead: Eine Reihe mündlicher und schriftlicher ewiger Wahrheiten, die über viel
   sondern kann als kulturelles und mythologisches Erbe aller einzelnen Menschen verstanden
   werden, die die höchsten Wahrheiten auf kodifizierte und angeblich unbestechliche
   Weise formalisiert haben.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

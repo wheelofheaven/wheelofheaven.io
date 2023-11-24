@@ -4,15 +4,10 @@ description: tl;dr 是too long; didn't read 的缩写。它通常用于总结冗
   tl;dr 部分稍微以自己的衬线字体进行了样式化，使其与文章的其余部分容易区分。通过包含tl;dr 部分，我们为读者提供了主要观点的快速概述，使他们能够抓住关键信息，而无需深入阅读整篇文章。
 lead: tl;dr 是too long; didn't read 的缩写。它通常用于总结冗长的文章、帖子或讨论。在我们的维基中，我们将每篇文章的第一段标记为tl;dr，以表明它作为随后内容的简洁摘要。
   tl;dr 部分稍微以自己的衬线字体进行了样式化，使其与文章的其余部分容易区分。通过包含tl;dr 部分，我们为读者提供了主要观点的快速概述，使他们能够抓住关键信息，而无需深入阅读整篇文章。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

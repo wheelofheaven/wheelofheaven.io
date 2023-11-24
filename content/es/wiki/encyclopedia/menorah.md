@@ -12,14 +12,9 @@ lead: Sirve como recuerdo de la centralita de una base central elohimita en el A
   en órbita. Esta interpretación propone que las siete ramas de la Menorah significan
   metafóricamente las siete bases Elohimitas establecidas en la Tierra durante esa
   era.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

@@ -1,11 +1,6 @@
 ---
 title: "La Fondation"
 description: "Explorez un récit captivant qui dévoile les origines de la vie sur Terre et nos liens cosmiques. Plongez dans les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, tandis que nous contemplons le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace."
-excerpt: "Explorez un récit captivant qui dévoile les origines de la vie sur Terre et nos liens cosmiques. Plongez dans les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, tandis que nous contemplons le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["monolithic-base-in-snow.png"]
 menu:
   intro:
     parent: "at-a-glance"

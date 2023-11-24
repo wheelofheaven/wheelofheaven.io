@@ -14,14 +14,9 @@ lead: Aussi connu sous le nom d'âge astrologique ou âge du monde, une période
   la bande zodiacale sur l'écliptique vers l'ouest de 30 degrés, soit un douzième
   de la circonférence complète de 360 degrés. 12 Grands Mois équivalent à une Grande
   Année.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

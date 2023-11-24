@@ -26,14 +26,9 @@ lead: Un conflit armé d'une ampleur significative s'est produit entre deux fact
   Malgré la tension et le conflit, Yahweh et ses épouses sont finalement sortis victorieux.
   Cependant, faisant preuve d'une mesure de clémence, Yahweh a pardonné aux créateurs
   exilés, leur permettant de retourner sur leur planète natale.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

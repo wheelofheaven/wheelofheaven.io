@@ -6,14 +6,9 @@ description: Léviathan, une référence métaphorique à la faction Elohimienne
 lead: Une référence métaphorique à la faction Elohimienne exilée, également connue
   sous le nom de Serpent, qui a dû se cacher sous les océans pour se protéger de ses
   adversaires.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

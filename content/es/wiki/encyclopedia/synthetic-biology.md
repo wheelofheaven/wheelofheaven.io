@@ -13,14 +13,9 @@ lead: Un campo interdisciplinario que combina principios de biología, genética
   creación deliberada de material genético y la ingeniería de componentes biológicos
   para programar células vivas para realizar tareas específicas o exhibir rasgos deseados.
   La biología sintética tiene como objetivo comprender y rediseñar los sistemas biológicos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

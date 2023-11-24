@@ -14,14 +14,9 @@ lead: Jesus Christus, ein jüdischer Prophet, der am Ende der Zeit des Zweiten T
   des Wassermanns, das Goldene Zeitalter, letztendlich alles erklären würde, wenn
   wir beginnen, zu wiederholen, was das ist Elohim haben sich am Anfang der Genesis
   gegründet.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - pisces

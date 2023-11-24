@@ -14,14 +14,9 @@ lead: Eine ausgestorbene Klasse biologischer Lebensformen, die ursprünglich auf
   die Forschung und Technik auf den nahegelegenen Exoplaneten Erde verlagert und dort
   das Leben auf seiner Oberfläche angekurbelt. Diese Drachen sind uns aus der Paläontologie
   als Dinosaurier bekannt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

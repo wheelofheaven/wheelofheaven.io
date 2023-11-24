@@ -18,14 +18,9 @@ lead: Una rama de la ingeniería genética que se enfoca en el diseño, ensambla
   la vida y crear potencialmente organismos con características modificadas o novedosas.
   Implica la construcción de material genético artificial para explorar y manipular
   la base genética de la vida.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

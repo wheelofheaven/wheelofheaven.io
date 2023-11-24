@@ -12,14 +12,9 @@ lead: Die Wahrheit, die spekulative Vorstellung, dass, wenn genügend Zeichen vo
   von einer außerirdischen Zivilisation geschaffen wurde und was danach bis dahin
   folgte genau an dem Tag, an dem diese Wahrheit während der Apokalypse offenbart
   und neu erzählt wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

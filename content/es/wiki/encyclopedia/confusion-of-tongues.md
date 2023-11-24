@@ -12,14 +12,9 @@ lead: La reacción de seguimiento de la civilización Elohimiana durante los dí
   el progreso tecnológico en la Tierra y hacer que estos esfuerzos sean inofensivos.
   La empresa de confusión consistió en disolver geográficamente los portadores de
   conocimiento en todo el mundo entre tribus que ya no podían entenderlos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

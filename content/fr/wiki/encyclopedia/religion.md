@@ -15,14 +15,9 @@ lead: Un ensemble de pratiques et de croyances qui cultive et enseigne la connex
   religion est censée maintenir le lien entre les créateurs et les créés. Une religion
   qui ne s'efforce pas de cultiver et de rationaliser ce lien de gratitude envers
   ceux qui nous ont créés est un système socioculturel complètement différent.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

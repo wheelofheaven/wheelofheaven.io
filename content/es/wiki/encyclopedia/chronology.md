@@ -40,15 +40,10 @@ lead: En la vasta extensión de la historia cósmica, las 12 edades astrológica
   revelación y el inicio de una Edad Dorada. Estas edades representan no solo períodos
   de tiempo, sino un gran viaje cósmico que la humanidad emprende en su búsqueda de
   crecimiento y iluminación espiritual.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

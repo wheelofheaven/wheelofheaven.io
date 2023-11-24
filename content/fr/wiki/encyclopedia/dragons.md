@@ -14,14 +14,9 @@ lead: Une classe éteinte de formes de vie biologique qui a été conçue à l'o
   et l'ingénierie ont été délocalisées vers une exoplanète proche, la Terre, et ont
   relancé la vie à sa surface. Ces dragons nous sont connus par la paléontologie sous
   le nom de dinosaures.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -13,14 +13,9 @@ lead: Grec pour l'Apocalypse, fait référence à l'âge de l'Apocalypse qui pr�
   préservée par les écritures religieuses, en particulier la Bible, à savoir que les
   dieux d'autrefois sont des gens d'une autre planète et ont été confondus avec des
   êtres surnaturels en raison de leurs capacités technologiques très avancées.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

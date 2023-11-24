@@ -12,14 +12,9 @@ lead: La facción compuesta por creadores exiliados, que habían sido desterrado
   planeta natal, dirigido por el presidente del Consejo de los Eternos, Yahweh. Después
   del Gran Diluvio, se produjo un enfrentamiento armado tanto en la Tierra como en
   el espacio circundante.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

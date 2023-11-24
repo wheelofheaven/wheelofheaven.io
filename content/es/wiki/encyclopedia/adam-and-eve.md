@@ -14,14 +14,9 @@ lead: Dos personas clave de los primeros prototipos humanos que se diseñaron co
   luz a una descendencia híbrida. Estos descendientes se asimilaron a la comunidad
   adamita, fusionándose así en un grupo distinto singular de adamitas híbridos y no
   híbridos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

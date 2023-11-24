@@ -7,14 +7,9 @@ description: Sendys Kohärenzbedingungen, eine Reihe von Bedingungen, die erfül
 lead: Eine Reihe von Bedingungen, die erfüllt sein müssen, um eine kohärente und genaue
   Lesart der Bibel zu ermöglichen, wobei die Elohim als Individuen einer interstellaren
   Zivilisation verstanden werden, die fälschlicherweise für Gott gehalten werden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -2,14 +2,9 @@
 title: リヴァイアサン
 description: リヴァイアサンは、敵から身を守るために海の中に隠れなければならなかった、蛇としても知られる追放されたエロヒミアの派閥への比喩的な言及です。
 lead: 敵から身を守るために海の下に隠れなければならなかった、サーペントとしても知られる追放されたエロヒミアの派閥への比喩的な言及。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

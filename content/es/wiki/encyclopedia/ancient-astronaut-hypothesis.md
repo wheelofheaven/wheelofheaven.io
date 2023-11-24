@@ -18,14 +18,9 @@ lead: También conocidos como alienígenas antiguos, la idea de que los seres ex
   del universo y nuestro lugar dentro de él. Los defensores de la hipótesis también
   apuntan a leyendas, mitos y textos religiosos de varias culturas que describen encuentros
   con seres de las estrellas.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

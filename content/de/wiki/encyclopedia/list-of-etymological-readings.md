@@ -8,14 +8,9 @@ lead: Liste etymologischer Lesarten. Durch die Erforschung der von Wheel of Heav
   dargelegten Prämissen gibt es eine Reihe religiöser, mythologischer oder traditioneller
   Vorstellungen, die etymologisch gelesen werden können. Diese Liste soll die meisten
   dieser Begriffe katalogisieren.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

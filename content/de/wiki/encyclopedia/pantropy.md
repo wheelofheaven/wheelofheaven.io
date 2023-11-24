@@ -12,14 +12,9 @@ lead: Die Idee, die menschliche Spezies genetisch zu verändern und anzupassen, 
   Elohim hergestellte Kontinuität, die menschliche Spezies auf dem Planeten Erde nach
   ihrem eigenen Bild gentechnisch verändert zu haben, kann als Beispiel für Pantropie
   verstanden werden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

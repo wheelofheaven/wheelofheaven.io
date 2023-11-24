@@ -2,14 +2,9 @@
 title: 神话主题和神话图案列表
 description: 神话主题和神话主题列表。通过探索天轮提出的前提，有许多神话主题和神话主题可以通过工作假设解释来解读。该列表将列出其中大部分主题。
 lead: 神话主题和神话主题列表。通过探索天轮提出的前提，有许多神话主题和神话主题可以通过工作假设解释来解读。该列表将列出其中大部分主题。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

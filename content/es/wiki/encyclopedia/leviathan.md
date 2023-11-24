@@ -6,14 +6,9 @@ description: Leviatán, una referencia metafórica a la facción elohimiana exil
 lead: Una referencia metafórica a la facción Elohimiana exiliada, también conocida
   como la Serpiente, que tuvo que esconderse bajo los océanos para protegerse de sus
   oponentes.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

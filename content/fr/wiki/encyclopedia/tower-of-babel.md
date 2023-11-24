@@ -17,14 +17,9 @@ lead: 'Tour de Babel ( hébreu : מִגְדַּל בָּבֶל, Mīgdal Bāḇel
   était d''améliorer les relations diplomatiques avec la planète d''origine Elohimienne
   qui était hostile à la préservation de la vie sur Terre en assurant l''aménité de
   ses habitants.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

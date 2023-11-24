@@ -10,14 +10,9 @@ lead: El cambio constante de orientación del eje de rotación de la Tierra. La 
   es el tercer movimiento clave de la Tierra junto a la rotación alrededor de su eje
   (ciclo del día) y su revolución alrededor del Sol (año). Un ciclo completo de precesión
   tarda 25'920 años en completarse.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

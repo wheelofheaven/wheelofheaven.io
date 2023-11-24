@@ -1,11 +1,6 @@
 ---
 title: "Le Contexte"
 description: "Embarquez pour un voyage stimulant et explorez les origines de la vie sur Terre et nos connexions cosmiques. Cet article captivant nous emmène à travers les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, nous invitant à contempler le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace. Découvrez la récit impressionnante qui dévoile notre héritage cosmique et stimule notre imagination au milieu de l'immensité de l'univers."
-excerpt: "Embarquez pour un voyage stimulant et explorez les origines de la vie sur Terre et nos connexions cosmiques. Cet article captivant nous emmène à travers les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, nous invitant à contempler le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace. Découvrez la récit impressionnante qui dévoile notre héritage cosmique et stimule notre imagination au milieu de l'immensité de l'univers."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["ancient-monuments-sunset.png"]
 menu:
   intro:
     parent: "at-a-glance"

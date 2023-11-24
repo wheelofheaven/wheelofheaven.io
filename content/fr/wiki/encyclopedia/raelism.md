@@ -18,14 +18,9 @@ lead: Un nouveau mouvement religieux qui remonte à un Français, Claude Vorhilo
   de type divin qui a terraformé la Terre il y a environ 25'000 ans et a ensuite créé
   synthétiquement la vie sur Terre comme décrit dans la Genèse biblique et d'autres
   mythes de la création.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

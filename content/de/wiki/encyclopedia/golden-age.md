@@ -14,14 +14,9 @@ lead: Der Moment, in dem die Menschheit ein Maß an wissenschaftlicher Verfeiner
   Vätern versprochene Erbe erhalten , die Elohim. Dieses Goldene Zeitalter könnte
   mit dem Eintritt in das Wassermannzeitalter und einem globalen Großen Erwachen unbekannter
   Höhe zusammenfallen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

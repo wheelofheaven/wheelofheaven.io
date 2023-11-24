@@ -2,14 +2,9 @@
 title: 天堂主义
 description: 天堂主义，按照耶洛因母星的形象建立一个后稀缺、完全自动化的社会经济系统。通过自动化劳动和减轻苦难的技术手段，富裕、繁荣和个人实现将成为社会追求的新货币。
 lead: 以耶洛因母星的形象建立一个后稀缺、完全自动化的社会经济系统。通过自动化劳动和减轻苦难的技术手段，富裕、繁荣和个人实现将成为社会追求的新货币。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

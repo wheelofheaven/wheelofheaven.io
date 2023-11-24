@@ -12,14 +12,9 @@ lead: Una noción budista, jainista e hinduista del ciclo de muerte y renacimien
   tecnológicos para el belicismo y la disuasión. Superar el ciclo de la muerte y el
   renacimiento es la condición máxima para iniciar la Edad de Oro de la abundancia
   y la prosperidad.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -14,14 +14,9 @@ lead: También conocido como Número de la Bestia o simplemente por el valor que
   Si acabamos de entrar en la Era de Acuario y suponemos que coincide con el Número
   del Hombre, el primer ser humano debió haber sido creado hace medio ciclo precesional,
   que sería al comienzo de la Era de Leo.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

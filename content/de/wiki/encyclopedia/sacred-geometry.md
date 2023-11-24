@@ -12,14 +12,9 @@ lead: Heilige Geometrie, die These, dass geometrische Vorstellungen höherer Ord
   hinzugefügt haben, indem sie ihr Erbe effektiv mit bedeutungsvollen Proportionen
   kodifizierten und sie daher verließen Fingerabdrücke, die auf eine gemeinsame Tradition
   des Wissens und der Weisheit verweisen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

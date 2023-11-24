@@ -12,14 +12,9 @@ lead: Sodome et Gomorrhe, deux villes levantines qui ont été détruites par l'
   contre une faction terrestre vindicative qui s'est elle-même organisée et puissante.
   La mer Morte est très probablement un artefact de ces explosions nucléaires témoignant
   à ce jour des conséquences qui ont suivi.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

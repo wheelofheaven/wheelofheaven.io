@@ -9,14 +9,9 @@ lead: La notion de modification des caractéristiques constitutionnelles d'une e
   telles que l'atmosphère ou la surface de ladite planète afin de permettre à une
   espèce humanoïde d'y vivre. La terraformation est la technique qui a été appliquée
   par les Elohim au début de leur projet Genesis de rendre la planète Terre habitable.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

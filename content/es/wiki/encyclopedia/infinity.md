@@ -16,14 +16,9 @@ lead: Una visión científica del orden más alto, ya que postula la extensión 
   su vez que lo que está arriba está abajo, es decir, el camino. el espacio se expande
   a niveles macroscópicos mayores es igual a la forma en que se pliega el espacio
   dentro de los niveles microscópicos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

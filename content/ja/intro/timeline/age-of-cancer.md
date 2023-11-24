@@ -2,11 +2,6 @@
 title: "癌の時代"
 period: "紀元前 8'850—6'690"
 description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
-excerpt: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   intro:
     parent: "timeline"

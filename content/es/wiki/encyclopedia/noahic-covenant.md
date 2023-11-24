@@ -16,14 +16,9 @@ lead: Una promesa hecha por los Elohim justo después del Gran Diluvio que arras
   desterrada de Elohim, Noahs y otros lograron preservar la vida almacenando material
   de origen genético de todas las especies terrestres que se salvaguardó a bordo del
   Arca, una nave espacial en órbita.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

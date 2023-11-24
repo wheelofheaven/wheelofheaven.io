@@ -26,14 +26,9 @@ lead: Se produjo un conflicto armado de gran magnitud entre dos facciones opuest
   A pesar de la tensión y el conflicto, Yahweh y sus consortes finalmente salieron
   victoriosos. Sin embargo, demostrando una medida de clemencia, Yahweh perdonó a
   los creadores exiliados, permitiéndoles regresar a su planeta de origen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

@@ -20,14 +20,9 @@ lead: Une référence métaphorique à une faction indisciplinée parmi les Eloh
   ont été condamnés et exilés pour rester sur Terre pour leur intrusion. L'un des
   principaux protagonistes de cette faction est connu sous le nom de Lucifer, le porteur
   de lumière.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

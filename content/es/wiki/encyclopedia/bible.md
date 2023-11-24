@@ -8,14 +8,9 @@ description: Biblia, un conjunto de escrituras religiosas antiguas que atestigua
 lead: Un conjunto de escrituras religiosas antiguas que atestiguan lo que ha sucedido
   para que la humanidad tenga pruebas cuando la Verdad se revele nuevamente durante
   los tiempos del Apocalipsis.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

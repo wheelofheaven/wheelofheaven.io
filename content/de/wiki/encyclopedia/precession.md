@@ -10,14 +10,9 @@ lead: Die stetige Änderung der Ausrichtung der Rotationsachse der Erde. Präzes
   ist neben der Rotation um ihre Achse (Tageszyklus) und ihrem Umlauf um die Sonne
   (Jahr) die dritte Schlüsselbewegung der Erde. Ein vollständiger Präzessionszyklus
   dauert 25.920 Jahre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

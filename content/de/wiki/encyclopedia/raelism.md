@@ -20,14 +20,9 @@ lead: Eine neue religiöse Bewegung, die auf einem Franzosen namens Claude Vorhi
   die vor etwa 25.000 Jahren die Erde terraformt und anschließend synthetisch Leben
   auf der Erde erschaffen hat, wie es in der biblischen Genesis und anderen Schöpfungsmythen
   beschrieben wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

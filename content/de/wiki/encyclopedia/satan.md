@@ -16,14 +16,9 @@ lead: 'Satan (śāṭān, hebräisch: שָׂטָן), nicht zu verwechseln mit Lu
   widersetzt, die als angesehen wird Bedrohung für ihr entferntes Wohlergehen. Daher
   ist Satan kein Eigenname, sondern eine bezeichnende Form der Rolle, die Satan ausfüllt,
   nämlich die eines Behinderten, eines Anklägers oder sogar eines Anklägers.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

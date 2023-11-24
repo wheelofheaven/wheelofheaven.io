@@ -6,15 +6,11 @@ description: tl;dr は too long; didn't read の略です。長い記事、投�
 lead: tl;dr は too long; didn't read の略です。長い記事、投稿、または議論を要約するためによく使われます。当ウィキでは、各記事の最初の段落に
   tl;dr とラベルを付け、それが続く内容の簡潔な要約であることを示しています。tl;dr セクションは、独自のセリフ体フォントでわずかに装飾されており、他の記事とは明確に区別されます。tl;dr
   セクションを含めることで、読者に主要なポイントのクイックな概要を提供し、記事全体を読まずにキーポイントの情報を把握することができます。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -6,14 +6,9 @@ description: Les Nouveaux Commandements, une série de doctrines avancées par Y
 lead: Une série de doctrines avancées par Yahweh qui élaborent ce que l'humanité pourrait
   prendre en compte pour progresser et entrer dans l'Age d'Or, maintenant au début
   de l'Age du Verseau.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

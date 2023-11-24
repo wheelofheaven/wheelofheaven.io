@@ -12,14 +12,9 @@ lead: Une notion bouddhiste, jaïniste et hindouiste du cycle de la mort et de l
   et technologiques est utilisée pour le bellicisme et la dissuasion. Surmonter le
   cycle de la mort et de la renaissance est la condition ultime pour entrer dans l'âge
   d'or de l'abondance et de la prospérité.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

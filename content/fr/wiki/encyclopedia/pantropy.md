@@ -10,14 +10,9 @@ lead: La notion de modifier génétiquement et d'adapter l'espèce humaine pour 
   capacités biologiques de l'espèce. La continuité établie par les Elohim pour avoir
   génétiquement modifié l'espèce humaine sur la planète Terre à leur image peut être
   comprise comme un exemple de pantropie.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

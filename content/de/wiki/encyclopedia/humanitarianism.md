@@ -13,14 +13,9 @@ lead: Eine von Jahwe im Rahmen der Neuen Gebote vorgeschlagene sozioökonomische
   und Können, der Abschaffung der Erbschaft und der Einführung zeitlich begrenzter
   Jubiläumseigentumsverträge. Allgemeiner ausgedrückt ist Humanität die Doktrin, dass
   es die Pflicht der Menschen ist, das menschliche Wohlergehen zu fördern.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

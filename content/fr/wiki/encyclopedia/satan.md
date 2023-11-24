@@ -17,14 +17,9 @@ lead: 'Satan (śāṭān, hébreu : שָׂטָן), à ne pas confondre avec Luci
   comme un menace pour leur bien-être à distance. En tant que tel, Satan n''est pas
   un nom propre, mais une forme indicative du rôle que remplit Satan, à savoir celui
   d''obstruction, de poursuivant ou encore d''accusateur.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

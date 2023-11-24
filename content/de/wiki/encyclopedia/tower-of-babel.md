@@ -17,14 +17,9 @@ lead: 'Turmbau zu Babel (hebräisch: מִגְדַּל בָּבֶל, Mīgdal Bā�
   bestand darin, die diplomatischen Beziehungen mit dem elohimischen Heimatplaneten
   zu verbessern, der der Erhaltung des Lebens auf der Erde feindlich gegenüberstand,
   indem es seinen Bewohnern Wohlergehen sicherte.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

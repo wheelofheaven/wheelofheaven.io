@@ -10,14 +10,9 @@ lead: Équation de Drake , une équation exprimant la probabilité d'une vie ext
   qui pourraient être habitables ou la fraction de planètes sur lesquelles la vie
   pourrait survenir. L'équation porte le nom de Franke Drake et sert d'expérience
   de pensée probabiliste pour envisager l'existence possible d'une vie extraterrestre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

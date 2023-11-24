@@ -19,14 +19,9 @@ lead: Die im Dezember 2019 gegründete United States Space Force (USSF) ist der 
   wachsenden internationalen Konkurrenz im Weltraum für notwendig. Die dem US-Luftwaffenministerium
   unterstellte USSF hat die Aufgabe, die Interessen der USA im Weltraum zu schützen,
   Aggressionen im oder aus dem Weltraum abzuschrecken und Weltraumoperationen durchzuführen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

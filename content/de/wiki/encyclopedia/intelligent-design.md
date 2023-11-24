@@ -8,14 +8,9 @@ lead: Ein konkurrierendes wissenschaftliches Paradigma zur Entstehung des Lebens
   der Erde. Es wäre die genaueste Darstellung dessen, was passieren würde, wenn die
   Elohim das Leben auf der Erde mithilfe der Ex-Nihilo-Gentechnik synthetisch manipulieren
   würden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

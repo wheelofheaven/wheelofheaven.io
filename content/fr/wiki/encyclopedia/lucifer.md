@@ -18,14 +18,9 @@ lead: 'Lucifer (latin pour Light-Bringer, ou hêlēl, hébreu : הֵילֵל, qu
   d''apporter de la lumière. Le nom Lucifer et son homologue sémitique hêlēl font
   tous deux référence à l''étoile du matin, Vénus, qui se lève avant le soleil au
   lever du soleil'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

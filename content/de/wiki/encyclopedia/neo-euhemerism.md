@@ -16,14 +16,9 @@ lead: Ein philosophischer Versuch, die Mythologie, insbesondere die Natur der G�
   raumfahrenden Zivilisation, möglicherweise außerirdischen Ursprungs, gleichsetzt.
   Daher weist die hier zu Wheel of Heaven aufgestellte Hypothese tatsächlich eine
   ähnliche DNA mit neo-euhemeristischen Prämissen auf.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

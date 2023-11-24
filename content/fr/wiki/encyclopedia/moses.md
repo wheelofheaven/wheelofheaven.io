@@ -2,14 +2,9 @@
 title: Moïse
 description: Moïse, un patriarche biblique de l'époque de l'Exode.
 lead: Un patriarche biblique de l'époque de l'Exode.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aries

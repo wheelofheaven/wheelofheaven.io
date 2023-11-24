@@ -16,14 +16,9 @@ lead: Insbesondere wird offenbart, dass ein alter Vorläufer der hebräischen Sp
   übernommen haben. Während das moderne Hebräisch nicht als gleichwertig mit der elohimischen
   Sprache angesehen werden kann, kann man andererseits davon ausgehen, dass die semitische
   Sprachfamilie das Erbe bewahrt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

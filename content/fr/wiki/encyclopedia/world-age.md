@@ -9,14 +9,9 @@ description: Ère du monde, également connu sous le nom d'ère astrologique, un
 lead: Aussi connu sous le nom d'ère astrologique, terme familier pour désigner un
   grand mois par son nom zodiacal. Par exemple, en ce moment, nous passons de l'ère
   des Poissons à l'ère du Verseau.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

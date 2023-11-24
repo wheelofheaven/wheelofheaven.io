@@ -26,14 +26,9 @@ lead: Jahwe (יהוה), auch bekannt als der Erste und der Letzte (Alpha und Ome
   identifiziert und auch austauschbar mit der Zivilisation gleichgesetzt, die er repräsentiert,
   den Elohim. Jahwe war auch der Eloha, dem Raël wie alle Propheten vor ihm mehrfach
   begegnete.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

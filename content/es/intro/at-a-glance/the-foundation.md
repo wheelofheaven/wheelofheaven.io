@@ -1,11 +1,6 @@
 ---
 title: "La Fundación"
 description: "Explora una narrativa fascinante que revela los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Adéntrate en los conceptos de pluralismo cósmico, sabiduría ancestral, seres celestiales y procreación interestelar, mientras contemplamos el futuro potencial de la humanidad como una civilización capaz de viajar por el espacio."
-excerpt: "Explora una narrativa fascinante que revela los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Adéntrate en los conceptos de pluralismo cósmico, sabiduría ancestral, seres celestiales y procreación interestelar, mientras contemplamos el futuro potencial de la humanidad como una civilización capaz de viajar por el espacio."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["monolithic-base-in-snow.png"]
 menu:
   intro:
     parent: "at-a-glance"

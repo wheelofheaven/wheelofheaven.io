@@ -2,14 +2,10 @@
 title: センディの一貫性の条件
 description: センディの一貫性の条件。エロヒムが神と誤認された星間文明の個人として理解される聖書の一貫性と正確な読み方を可能にするために満たされる必要がある一連の条件。
 lead: エロヒムが神と誤認された星間文明の個人として理解される聖書の首尾一貫した正確な読み方を可能にするために満たされる必要のある一連の条件。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

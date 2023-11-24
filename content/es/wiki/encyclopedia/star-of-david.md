@@ -17,14 +17,9 @@ lead: Un símbolo antiguo conocido por muchos nombres como el Escudo de David (M
   humana. En el raelismo, se interpreta que su significado representa tanto la equivalencia
   de todas las escalas de existencia (comúnmente referidas por el infame dicho hermético
   "Como es arriba, es abajo"), así como la inmensidad infinita del espacio (infinito).
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

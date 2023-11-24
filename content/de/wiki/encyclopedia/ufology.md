@@ -17,14 +17,9 @@ lead: Ein Studien- und Forschungsbereich, der sich auf das Phänomen nicht ident
   Theorien, die von außerirdischen Raumschiffen bis hin zu Vertuschungen durch die
   Regierung reichen, und zielt darauf ab, das Phänomen der UFOs durch wissenschaftliche
   Untersuchungen, Augenzeugenberichte und dokumentarische Beweise zu verstehen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

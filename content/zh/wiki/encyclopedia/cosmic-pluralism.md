@@ -2,14 +2,9 @@
 title: 宇宙多元论
 description: 宇宙多元论，也简称为多元世界，是指除了必须存在智慧生命的地球之外，还必须存在多个未知的世界。浩瀚的太空有力地支持了这个想法。
 lead: 也简称为“多元世界”，即除了地球之外，还必须存在多个未知的世界，那里必须存在智慧生命。浩瀚的太空有力地支持了这个想法。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -24,14 +24,9 @@ lead: El encubrimiento militar de la exobiología se refiere a la idea de que la
   un esfuerzo deliberado para ocultar o manipular información sobre posibles fenómenos
   extraterrestres por diversas razones, como la seguridad nacional o la estabilidad
   social.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

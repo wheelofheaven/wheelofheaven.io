@@ -14,14 +14,9 @@ lead: Eine buddhistische, jainistische und hinduistische Vorstellung vom Kreisla
   Abschreckung eingesetzt wird. Die Überwindung des Kreislaufs von Tod und Wiedergeburt
   ist die ultimative Voraussetzung für den Eintritt in das Goldene Zeitalter des Überflusses
   und des Wohlstands.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

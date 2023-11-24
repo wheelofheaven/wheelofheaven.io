@@ -2,14 +2,9 @@
 title: 善恶知识树
 description: 善恶知识树，科学知识记录的圣经隐喻。第一个基因工程人类看到了一些但并非全部科学书籍，特别是包含伟大科学知识的书籍被保密。善与恶代表了对这些记录及其所包含的后果的故意无知。
 lead: 科学知识记录的圣经隐喻。第一个基因工程人类看到了一些但并非全部科学书籍，尤其是包含伟大科学知识的书籍被保密。善与恶代表了对这些记录及其所包含后果的故意无知。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

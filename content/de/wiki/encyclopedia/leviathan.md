@@ -6,14 +6,9 @@ description: Leviathan, eine metaphorische Anspielung auf die verbannte elohimis
 lead: Eine metaphorische Anspielung auf die verbannte elohimische Fraktion, auch bekannt
   als die Schlange, die sich unter den Ozeanen verstecken musste, um sich vor ihren
   Gegnern zu schützen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

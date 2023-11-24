@@ -6,14 +6,9 @@ description: Dhorme Bible , une traduction de la Bible française réalisée par
 lead: Une traduction de la Bible en français réalisée par l'assyrologue et sémitologue
   français Édouard Dhorme (1881-1966) connu pour son style de traduction littérale
   qui a conservé intactes les significations originales dans la langue française.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

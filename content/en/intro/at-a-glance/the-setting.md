@@ -1,11 +1,6 @@
 ---
 title: "The Setting"
 description: "Embark on a thought-provoking journey as we explore the origins of life on Earth and our cosmic connections. This captivating article takes us through the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, inviting us to contemplate the potential future of humanity as a space-faring civilization. Discover the awe-inspiring narrative that unveils our cosmic heritage and sparks our imagination amidst the vastness of the universe."
-excerpt: "Embark on a thought-provoking journey as we explore the origins of life on Earth and our cosmic connections. This captivating article takes us through the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, inviting us to contemplate the potential future of humanity as a space-faring civilization. Discover the awe-inspiring narrative that unveils our cosmic heritage and sparks our imagination amidst the vastness of the universe."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["ancient-monuments-sunset.png"]
 menu:
   intro:
     parent: "at-a-glance"

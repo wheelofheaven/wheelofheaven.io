@@ -20,14 +20,9 @@ lead: La United States Space Force (USSF), créée en décembre 2019, est la six
   du Département de l'armée de l'air, est chargée de protéger les intérêts américains
   dans l'espace, de dissuader les agressions dans ou depuis l'espace et de mener des
   opérations spatiales.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

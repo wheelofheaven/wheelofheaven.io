@@ -14,14 +14,9 @@ lead: También conocida como era astrológica o era mundial, un período de tiem
   en cambiar la banda zodiacal en la eclíptica hacia el oeste en 30 grados, o una
   doceava parte de la Circunferencia completa de 360 grados. 12 Grandes Meses equivalen
   a un Gran Año.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -15,14 +15,9 @@ lead: Griechisch für Offenbarung, bezieht sich auf das Zeitalter der Offenbarun
   insbesondere der Bibel, bewahrt wird, nämlich dass die alten Götter Menschen von
   einem anderen Planeten sind und aufgrund ihrer hochentwickelten technologischen
   Fähigkeiten fälschlicherweise für übernatürliche Wesen gehalten wurden.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

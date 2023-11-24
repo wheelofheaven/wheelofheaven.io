@@ -12,14 +12,9 @@ lead: Una comunidad distinta originalmente del género humano que vivió durante
   luz a una descendencia híbrida. Estos descendientes se asimilaron a la comunidad
   adamita, fusionándose así en un grupo distinto singular de adamitas híbridos y no
   híbridos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

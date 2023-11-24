@@ -8,14 +8,9 @@ description: Grande Année, également connue sous le nom d'Année Platonicienne
   prend pour se terminer.
 lead: Également connue sous le nom d'année platonicienne, une période d'environ 25'920
   ans, la durée nécessaire à l'achèvement d'un cycle précessionnel complet.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

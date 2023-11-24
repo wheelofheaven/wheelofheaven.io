@@ -16,14 +16,9 @@ lead: Raëlismus, eine neue religiöse Bewegung, die auf einen Franzosen zurück
   die genaueste Beschreibung der Physikalität der Realität. Diese beiden Kernaspekte
   sind die Unendlichkeit der Zeit, die durch das Hakenkreuz symbolisiert wird, und
   die Unendlichkeit des Raumes, die durch den Davidstern symbolisiert wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 100

@@ -8,14 +8,9 @@ lead: Un campo científico de investigación que estudia la vida en el universo.
   la vida en el Universo no se ha observado de manera concluyente, la astrobiología
   está principalmente interesada en las condiciones en las que es posible la vida
   extraterrestre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

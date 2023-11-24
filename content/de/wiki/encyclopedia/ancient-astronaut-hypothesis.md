@@ -17,14 +17,9 @@ lead: Auch bekannt als „alte Außerirdische“, die Idee, dass außerirdische 
   wurden und Botschaften über die Natur des Universums und unseren Platz darin vermitteln
   sollten. Befürworter der Hypothese verweisen auch auf Legenden, Mythen und religiöse
   Texte aus verschiedenen Kulturen, die Begegnungen mit Wesen von den Sternen beschreiben.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

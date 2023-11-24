@@ -14,14 +14,9 @@ lead: Zwei Schlüsselfiguren der frühesten menschlichen Prototypen, die erfolgr
   namens Schlange, brachten die Adamiten hybride Nachkommen zur Welt. Diese Nachkommen
   assimilierten sich in die Adamitengemeinschaft und verschmolzen so zu einer einzigartigen
   Gruppe hybrider und nichthybrider Adamiten.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - leo

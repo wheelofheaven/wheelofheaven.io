@@ -7,14 +7,9 @@ description: Intelligent Design, un paradigme scientifique concurrent sur l'orig
 lead: Un paradigme scientifique concurrent sur l'origine de la vie sur Terre. Ce serait
   la représentation la plus précise de ce qui s'est passé si les Elohim avaient créé
   synthétiquement la vie sur Terre par le biais du génie génétique ex-nihilo.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

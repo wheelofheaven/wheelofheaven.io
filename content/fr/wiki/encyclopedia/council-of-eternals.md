@@ -12,14 +12,9 @@ lead: Aussi Grand Council of Eternals, est un organe directeur au sein de la civ
   même organe directeur est référencé dans plusieurs religions, en particulier dans
   les écritures bibliques et est intervenu et est toujours intervenu dans les affaires
   terrestres.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -16,15 +16,10 @@ lead: tl;dr - это сокращение от too long; didn't read (слишк
   различимой от остальной части статьи. Включая секцию tl;dr, мы предоставляем нашим
   читателям быстрый обзор основных моментов, позволяя им охватить ключевую информацию,
   не вдаваясь во всю статью.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

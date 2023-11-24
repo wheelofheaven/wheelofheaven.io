@@ -4,14 +4,9 @@ alternatives:
 - Confusio linguarum
 description: 语言混乱，是埃洛希米亚文明在继大洪水之后建造航天技术的日子里的后续反应，目的是抵消地球上的技术进步，使这些努力变得无害。混乱工作包括在地理上将全球各地无法理解知识载体的部落解散。
 lead: 埃洛希米亚文明在继大洪水之后建造航天技术期间的后续反应，旨在抵消地球上的技术进步并使这些努力变得无害。混乱工作包括在地理上将全球各地无法理解知识载体的部落解散。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

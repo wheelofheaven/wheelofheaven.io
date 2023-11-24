@@ -13,14 +13,9 @@ lead: El período de tiempo de la vida en la Tierra que precedió al Gran Diluvi
   la civilización humana había hecho un gran progreso tecnológico y había producido
   descendencia con un grupo de Elohims que habían sido desterrados para permanecer
   en la Tierra.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - capricorn

@@ -9,14 +9,9 @@ lead: Un système politique proposé par Yahweh dans le cadre des Nouveaux Comma
   qui élit des individus intelligents à des postes politiques regroupés dans l'ensemble
   de l'humanité, ne reconnaissant donc que l'intelligence comme un attribut d'éligibilité
   plutôt que la richesse, la classe, la force ou le pouvoir.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

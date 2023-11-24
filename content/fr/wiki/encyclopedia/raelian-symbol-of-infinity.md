@@ -14,14 +14,9 @@ lead: Le Raëlisme, un nouveau mouvement religieux qui remonte à un Français q
   l'Infini. L'Infini lui-même étant l'idée la plus précise pour décrire la réalité
   physique. Ces deux aspects fondamentaux sont l'infini du temps symbolisé par le
   Svastika et l'infini de l'espace symbolisé par l'Étoile de David.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu: null
 wiki: null
 parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 100

@@ -12,14 +12,9 @@ lead: Un ambassadeur humain qui sert de messager et de représentant au nom des 
   Chacun d'eux avait soit inspiré un nouveau mouvement religieux, soit au moins laissé
   une tradition écrite ou orale. Dans les deux cas, contribuer finalement à la préservation
   et à la mise en forme d'un héritage élohimien sur Terre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

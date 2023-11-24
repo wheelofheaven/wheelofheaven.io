@@ -11,14 +11,9 @@ lead: Eine wissenschaftliche Disziplin zum Verständnis der anthropologischen Ve
   durch astronomische Beobachtungen kodifiziert wurde. Genauer gesagt ist die Disziplin
   repräsentativ für eine wichtige Forschungsgruppe, die den Umfang des Wissens und
   dessen Weitergabe seit den Anfängen der Zivilisation aufdeckt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

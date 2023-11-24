@@ -2,11 +2,6 @@
 title: "Era de Capricornio"
 period: "21'810—19'650 a.C."
 description: "La Era de Capricornio es una de las doce Eras del Mundo y duró desde -21'810 hasta -19'650 y, como cada Era del Mundo, tardó 2'160 años en completarse. Se considera la primera Era del Mundo de las doce Eras del Mundo y, por lo tanto, marca el comienzo de todo el ciclo de Eras del Mundo, como el mes de enero marcaría el comienzo del ciclo anual. Fue durante la Era de Capricornio que una civilización no terrestre llegó a la Tierra y comenzó a investigarla con fines científicos ya que presentaba todos los elementos necesarios para la vida, sobre todo mucha agua."
-excerpt: "La Era de Capricornio es una de las doce Eras del Mundo y duró desde -21'810 hasta -19'650 y, como cada Era del Mundo, tardó 2'160 años en completarse. Se considera la primera Era del Mundo de las doce Eras del Mundo y, por lo tanto, marca el comienzo de todo el ciclo de Eras del Mundo, como el mes de enero marcaría el comienzo del ciclo anual. Fue durante la Era de Capricornio que una civilización no terrestre llegó a la Tierra y comenzó a investigarla con fines científicos ya que presentaba todos los elementos necesarios para la vida, sobre todo mucha agua."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   intro:
     parent: "timeline"

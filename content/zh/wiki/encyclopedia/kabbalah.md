@@ -2,14 +2,9 @@
 title: 卡巴拉
 description: 卡巴拉（קַבָּלָה）字面意思是“传统”，是犹太神秘主义的一个思想流派。它的主要书面作品被称为《佐哈尔》。
 lead: 卡巴拉（קַבָּלָה）字面意思是“传统”，是犹太神秘主义的一个思想流派。它的主要书面作品被称为《佐哈尔》。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

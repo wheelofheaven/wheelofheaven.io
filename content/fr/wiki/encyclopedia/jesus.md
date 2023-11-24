@@ -12,14 +12,9 @@ lead: Jésus-Christ, un prophète juif qui existait à la fin de la période du 
   puissent servir de preuve pour toute l'humanité lorsque l'ère du Verseau, l'âge
   d'or, expliquerait finalement tout alors que nous commençons à répéter ce que le
   Elohim a commencé lui-même au début de la Genèse.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - pisces

@@ -16,14 +16,9 @@ lead: Une promesse faite par les Elohim juste après le Grand Déluge qui a ané
   d'Elohim, Noahs et d'autres ont réussi à préserver la vie en stockant le matériel
   source génétique de toutes les espèces terrestres qui a été sauvegardé à bord de
   l'Arche, un vaisseau spatial en orbite.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

@@ -21,14 +21,9 @@ lead: Bezieht sich auf die umfassendere Erzählung der Reise der Menschheit zur 
   politischer Emanzipation von ihren Schöpfern, den Elohim, strebten und dabei Phasen
   der Erleuchtung, Rebellion und Vergeltung durchliefen Sie setzen ihr Streben nach
   Anerkennung und Unabhängigkeit fort.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

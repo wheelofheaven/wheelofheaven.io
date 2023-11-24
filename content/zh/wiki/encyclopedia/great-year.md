@@ -5,14 +5,9 @@ alternatives:
 - Precessional year
 description: 大年，也称为柏拉图年，一段大约 25,920 年的时间，是完成一个完整岁差周期所需的时间。
 lead: 也称为柏拉图年，一段大约 25,920 年的时间，是完成一个完整岁差周期所需的时间。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

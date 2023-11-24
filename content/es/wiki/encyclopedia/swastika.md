@@ -19,14 +19,9 @@ lead: Un símbolo religioso y cultural exhibido por muchas culturas antiguas has
   suerte y connotaciones positivas similares, en el raëlismo se considera que representa
   simultáneamente el natore cíclico del tiempo, así como la eterna continuidad del
   tiempo (infinito).
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

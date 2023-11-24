@@ -14,14 +14,9 @@ lead: Eine bestimmte Region des vorsintflutlichen pangäischen Superkontinents, 
   auf Erden geschaffen haben soll. Der Garten Eden bezieht sich auf einen geschlossenen
   Forschungsstandort, der von elohimischen Forschern in der Region Eden betrieben
   wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - virgo

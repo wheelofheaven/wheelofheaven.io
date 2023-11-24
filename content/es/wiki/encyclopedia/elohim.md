@@ -20,14 +20,9 @@ lead: Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), signific
   dado a los dioses bíblicos que a su vez son una civilización científicamente muy
   avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar
   vida.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 100

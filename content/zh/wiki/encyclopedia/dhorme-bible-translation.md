@@ -2,14 +2,9 @@
 title: 多尔梅圣经翻译
 description: Dhorme Bible，法语圣经翻译，由法国亚述学家和闪米特学家爱德华·多尔姆（Édouard Dhorme，1881-1966）进行，以其直译风格而闻名，保留了法语的原始含义。
 lead: 由法国亚述学家和闪米特学家爱德华·多尔姆（Édouard Dhorme，1881-1966 年）进行的法语圣经翻译，以其直译风格而闻名，保留了法语中完整的原始含义。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

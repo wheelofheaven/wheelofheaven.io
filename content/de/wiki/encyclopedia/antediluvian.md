@@ -12,14 +12,9 @@ lead: Der Zeitraum des Lebens auf der Erde, der der großen Sintflut vorausging.
   die menschliche Zivilisation große technologische Fortschritte gemacht und Nachkommen
   mit einer Gruppe von Elohim hervorgebracht hat, die verbannt worden war, um auf
   der Erde zu bleiben.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - capricorn

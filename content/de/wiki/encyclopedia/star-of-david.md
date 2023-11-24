@@ -20,14 +20,9 @@ lead: Ein altes Symbol, das unter vielen Namen bekannt ist, beispielsweise als S
   aller Ebenen der Existenz (gemeinhin mit dem berüchtigten hermetischen Sprichwort
   „Wie oben, so unten“ bezeichnet) als auch die endlose Weite des Raums (Unendlichkeit)
   darstellt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

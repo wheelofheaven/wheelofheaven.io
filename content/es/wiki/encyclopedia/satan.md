@@ -17,14 +17,9 @@ lead: 'Satán (śāṭān, hebreo: שָׂטָן), que no debe confundirse con Lu
   que es vista como un amenaza para su bienestar remoto. Como tal, Satán no es un
   nombre propio, sino una forma indicativa del papel que desempeña Satán, a saber,
   el de un obstructor, de un acusador o incluso de un acusador.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

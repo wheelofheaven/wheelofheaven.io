@@ -13,14 +13,9 @@ lead: Auch bekannt als astrologisches Zeitalter oder Weltzeitalter, ein Zeitraum
   etwa 2.160 Jahren, die Zeitspanne, die das Präzessionsphänomen benötigt, um das
   Tierkreisband auf der Ekliptik um 30 Grad nach Westen zu verschieben, oder ein Zwölftel
   davon voller Umfang von 360 Grad. 12 großartige Monate ergeben ein großartiges Jahr.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

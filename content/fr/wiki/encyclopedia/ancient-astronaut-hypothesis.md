@@ -19,14 +19,9 @@ lead: Aussi connu sous le nom d'anciens extraterrestres, l'idée que des êtres 
   messages sur la nature de l'univers et notre place en son sein. Les partisans de
   l'hypothèse évoquent également des légendes, des mythes et des textes religieux
   de diverses cultures qui décrivent des rencontres avec des êtres des étoiles.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -14,14 +14,9 @@ lead: Ein menschlicher Botschafter, der als Bote und Repräsentant im Namen der 
   eine schriftliche oder mündliche Überlieferung hinterlassen. In beiden Fällen tragen
   sie letztendlich zur Bewahrung und Gestaltung eines elohimischen Erbes auf der Erde
   bei.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

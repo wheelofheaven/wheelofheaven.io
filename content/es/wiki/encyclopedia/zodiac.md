@@ -17,14 +17,9 @@ lead: Una banda en el cielo a través de la cual pasa el sol, conocida como ecl�
   de la eclíptica debido al fenómeno de la precesión. Con esa comprensión, el zodíaco
   puede entenderse como la base para nombrar 12 casas dentro de un ciclo de larga
   duración, cada una de las cuales denomina una era mundial determinada.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

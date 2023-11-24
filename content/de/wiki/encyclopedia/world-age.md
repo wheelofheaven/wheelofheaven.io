@@ -9,14 +9,9 @@ description: Weltzeitalter, auch als astrologisches Zeitalter bekannt, ein umgan
 lead: Auch als astrologisches Zeitalter bekannt, ein umgangssprachlicher Begriff zur
   Bezeichnung eines großen Monats mit seinem Tierkreisnamen. Zum Beispiel befinden
   wir uns gerade im Übergang vom Zeitalter der Fische zum Zeitalter des Wassermanns.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

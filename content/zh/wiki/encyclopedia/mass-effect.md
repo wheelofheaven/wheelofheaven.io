@@ -4,14 +4,9 @@ alternatives:
 - Law of masstime
 description: 质量效应，或者质量时间定律，是一种假设的物理定律，其中对于更大、更复杂的系统，时间似乎比更小、更简单的系统移动得更慢。该定律尚未在数学上形式化，但其所有可预测能力均来自经验观察。
 lead: 或者，质量时间定律是一种假设的物理定律，其中对于更大、更复杂的系统，时间似乎比更小、更简单的系统移动得更慢。该定律尚未在数学上形式化，但其所有可预测能力均来自经验观察。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

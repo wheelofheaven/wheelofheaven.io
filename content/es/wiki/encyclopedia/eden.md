@@ -13,14 +13,9 @@ lead: Una región específica del supercontinente pangeano antediluviano donde u
   los siete equipos creadores de Elohimian tenía bastante talento y se considera que
   crearon el paraíso en la Tierra. El Jardín del Edén se refiere a un sitio de investigación
   cerrado operado por investigadores elohimianos en la región del Edén.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - virgo

@@ -19,14 +19,9 @@ lead: Pertenece a la narrativa más amplia del viaje de la humanidad hacia la au
   lucharon por la emancipación intelectual y política de sus creadores, los Elohim,
   navegando a través de etapas de iluminación, rebelión y retribución mientras persisten
   en su búsqueda de reconocimiento e independencia.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - cancer

@@ -12,14 +12,9 @@ lead: Vergleichende Mythologie, ein Forschungsgebiet, das Mythen aus Kulturen ve
   gibt. Diese Überschneidung legt den Schluss nahe, dass diese gemeinsamen Motive
   in allen Kulturen universelle Ereignisse widerspiegeln, die mit hoher Wahrscheinlichkeit
   stattgefunden haben.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

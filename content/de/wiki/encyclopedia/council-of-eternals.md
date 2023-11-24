@@ -11,14 +11,9 @@ lead: Auch der Große Rat der Ewigen ist ein Leitungsgremium der elohimischen Zi
   eigenen, von ihrem Heimatplaneten getrennten Planeten leben. Auf genau dieses Leitungsgremium
   wird in mehreren Religionen Bezug genommen, insbesondere in den biblischen Schriften,
   und es greift immer noch in irdische Angelegenheiten ein.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

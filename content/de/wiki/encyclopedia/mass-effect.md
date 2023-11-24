@@ -11,14 +11,9 @@ lead: 'Oder alternativ: Das Gesetz der Massenzeit ist ein hypothetisches Gesetz 
   Physik, bei dem sich die Zeit für größere und komplexere Systeme langsamer zu bewegen
   scheint als für kleinere und einfachere. Das Gesetz wurde noch nicht mathematisch
   formalisiert, sondern bezieht seine gesamte Vorhersagbarkeit aus empirischen Beobachtungen.'
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

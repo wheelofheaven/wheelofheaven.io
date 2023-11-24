@@ -12,14 +12,9 @@ lead: También el Gran Consejo de los Eternos, es un órgano de gobierno que adm
   de origen. Se hace referencia a este mismo cuerpo gobernante en múltiples religiones,
   especialmente en las escrituras bíblicas, y ha intervenido y todavía está interviniendo
   en los asuntos terrenales.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

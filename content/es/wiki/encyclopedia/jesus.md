@@ -12,14 +12,9 @@ lead: Jesucristo, un profeta judío que existió al final del período del Segun
   como prueba para toda la humanidad cuando la Era de Acuario, la Era Dorada, finalmente
   explicaría todo a medida que comenzamos a repetir lo que el Elohim se inició en
   el comienzo de Génesis.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - pisces

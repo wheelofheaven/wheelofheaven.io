@@ -8,14 +8,9 @@ description: Bibel, eine Reihe alter religiöser Schriften, die bezeugen, was ge
 lead: Eine Reihe alter religiöser Schriften, die bezeugen, was geschehen ist, damit
   die Menschheit Beweise hat, wenn die Wahrheit während der Apokalypse erneut enthüllt
   wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

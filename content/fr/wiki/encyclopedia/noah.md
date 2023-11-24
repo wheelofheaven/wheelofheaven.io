@@ -6,14 +6,9 @@ description: Noé, un patriarche biblique né à l'époque antédiluvienne. Il a
 lead: Un patriarche biblique né à l'époque antédiluvienne. Il a été nommé pour participer
   à un gigantesque projet de préservation destiné à protéger la vie créée sur Terre
   du cataclysme imminent.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

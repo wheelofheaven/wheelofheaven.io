@@ -16,14 +16,9 @@ lead: Bande dans le ciel traversée par le soleil, connue sous le nom d'éclipti
   de précession. Avec cette compréhension, le zodiaque peut être compris comme la
   base de la dénomination de 12 maisons dans un cycle de longue durée, chacune désignant
   un âge mondial donné.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

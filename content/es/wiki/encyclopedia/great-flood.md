@@ -10,14 +10,9 @@ lead: También conocido como el Gran Diluvio, un evento catastrófico causado po
   medida militar preventiva que fue iniciada deliberadamente por el angustiado gobierno
   del distante planeta natal de los Elohim que deseaba poner fin al progreso científico
   independiente en la Tierra.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

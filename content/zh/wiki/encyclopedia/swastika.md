@@ -11,14 +11,9 @@ alternatives:
 - Ugunskrusts
 description: 卍字是一种宗教和文化符号，至今仍为许多古代文化所展示。虽然它通常与幸福、好运和类似积极含义的概念联系在一起，但在雷利主义中，它被认为同时代表时间的循环性，以及时间的永恒连续性（无限）。
 lead: 直到今天，许多古代文化都展现出一种宗教和文化符号。虽然通常与幸福、好运和类似积极含义的概念联系在一起，但在雷利主义中，它被认为同时代表时间的循环性，以及时间的永恒连续性（无限）。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

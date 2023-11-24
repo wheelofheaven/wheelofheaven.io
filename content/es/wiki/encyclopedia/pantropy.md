@@ -10,14 +10,9 @@ lead: La noción de modificar y adaptar genéticamente a la especie humana para 
   de la especie. La continuidad establecida por los Elohim de haber manipulado genéticamente
   a la especie humana en el planeta Tierra a su propia imagen puede entenderse como
   una instancia de pantropía.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

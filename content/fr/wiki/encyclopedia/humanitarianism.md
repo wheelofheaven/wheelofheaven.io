@@ -14,14 +14,9 @@ lead: Une proposition de doctrine socio-économique mise en avant par Yahweh dan
   de contrats de propriété jubilaires limités dans le temps. L'humanitarisme, plus
   généralement, est une doctrine selon laquelle le devoir des gens est de promouvoir
   le bien-être humain.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

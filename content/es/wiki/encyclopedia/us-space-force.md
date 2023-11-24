@@ -20,14 +20,9 @@ lead: La Fuerza Espacial de los Estados Unidos (USSF), establecida en diciembre 
   bajo el Departamento de la Fuerza Aérea, tiene la tarea de proteger los intereses
   de los EE. UU. en el espacio, disuadir la agresión en o desde el espacio y realizar
   operaciones espaciales.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

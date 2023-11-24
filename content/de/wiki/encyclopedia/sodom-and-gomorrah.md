@@ -12,14 +12,9 @@ lead: Sodom und Gomorra, zwei levantinische Städte, die durch Atomwaffen zerst�
   irdische Fraktion, die selbst organisiert und mächtig wurde. Das Tote Meer ist höchstwahrscheinlich
   ein Artefakt dieser Atomexplosionen und zeugt bis heute von den Folgen, die darauf
   folgten.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

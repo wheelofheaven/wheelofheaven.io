@@ -15,14 +15,9 @@ lead: Eine Web-Wissensdatenbank, die die Arbeitshypothese untersucht, dass das L
   ein himmlisches Rad von Sternbildern, das sich stetig weiterdreht. Es handelt sich
   auch um eine etwas obskurere Anspielung auf Echnaton, einen alten ägyptischen Pharao,
   der ein scheibenförmiges Raumschiff beschrieb, das wie ein Rad im Himmel aussah.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

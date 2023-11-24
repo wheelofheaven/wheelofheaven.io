@@ -1,11 +1,6 @@
 ---
 title: "Das Fundament"
 description: "Entdecken Sie eine fesselnde Erzählung, die die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen aufdeckt. Tauchen Sie ein in die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung, während wir über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachdenken."
-excerpt: "Entdecken Sie eine fesselnde Erzählung, die die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen aufdeckt. Tauchen Sie ein in die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung, während wir über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachdenken."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["monolithic-base-in-snow.png"]
 menu:
   intro:
     parent: "at-a-glance"

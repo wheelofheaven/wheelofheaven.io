@@ -2,14 +2,9 @@
 title: "Great Return"
 description: "The concept of the Great Return' refers to the anticipated arrival of an advanced extraterrestrial civilization, known as the Elohim, on Earth. According to the communications allegedly received from these entities, their return hinges upon humanity's desire for their arrival, respect for their position as our creators, and assurance that they will not be threatened by our military forces. Their arrival, if accepted and welcomed, promises to deliver a quantum leap in our scientific knowledge, equivalent to a leap of 25,000 years. The 'Great Return' would likely have profound impacts on human society, akin to those posited in the realm of extraterrestrial contact theory, potentially reshaping our scientific and technological landscapes, socio-political structures, and religious beliefs. However, this transformative encounter is contingent upon humanity's evolution towards peace, unity, and respect for our cosmic progenitors."
 lead: "The anticipated arrival of an advanced extraterrestrial civilization, known as the Elohim, on Earth. According to the communications allegedly received from these entities, their return hinges upon humanity's desire for their arrival, respect for their position as our creators, and assurance that they will not be threatened by our military forces. Their arrival, if accepted and welcomed, promises to deliver a quantum leap in our scientific knowledge, equivalent to a leap of 25,000 years. The 'Great Return' would likely have profound impacts on human society, akin to those posited in the realm of extraterrestrial contact theory, potentially reshaping our scientific and technological landscapes, socio-political structures, and religious beliefs. However, this transformative encounter is contingent upon humanity's evolution towards peace, unity, and respect for our cosmic progenitors."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 timeline: ["aquarius"]
 ---

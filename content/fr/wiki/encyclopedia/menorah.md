@@ -11,14 +11,9 @@ lead: Sert de souvenir du standard d'une base centrale Elohimite dans l'Ancien L
   la connectivité avec six bases supplémentaires et un vaisseau interplanétaire en
   orbite. Cette interprétation propose que les sept branches de la Menorah signifient
   métaphoriquement les sept bases élohimites établies sur Terre à cette époque.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

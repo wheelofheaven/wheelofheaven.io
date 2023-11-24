@@ -2,14 +2,9 @@
 title: "Adamite struggle"
 description: "The Adamite Struggle pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
 lead: "Pertains to the broader narrative of humanity's journey to autonomy, but specifically focuses on the experiences of the Adamites, a unique human community who originated in the Garden of Eden. This community, through liaisons with a rebellious Elohim faction known as the Serpent, produced hybrid offspring. These offspring integrated into the Adamite community, creating a unified yet distinct group comprised of both hybrid and non-hybrid Adamites, who collectively strove for intellectual and political emancipation from their creators, the Elohim, navigating through stages of enlightenment, rebellion, and retribution while persisting in their quest for recognition and independence."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 timeline: ["cancer", "gemini", "taurus"]
 ---

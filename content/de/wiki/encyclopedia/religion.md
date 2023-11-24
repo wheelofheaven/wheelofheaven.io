@@ -17,14 +17,9 @@ lead: Eine Reihe von Praktiken und Überzeugungen, die die Verbindung (von latei
   den Schöpfern und den Geschaffenen aufrechtzuerhalten. Eine Religion, die nicht
   danach strebt, dieses Band der Dankbarkeit gegenüber denen, die uns erschaffen haben,
   zu pflegen und zu rationalisieren, ist ein völlig anderes soziokulturelles System.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -28,14 +28,9 @@ lead: Yahweh (יהוה), también conocido como el Primero y el Último (Alfa y 
   civilización que representa, los Elohim. Yahweh fue también el Eloha con el que
   Raël se encontró en múltiples ocasiones, al igual que todos los profetas que le
   precedieron.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

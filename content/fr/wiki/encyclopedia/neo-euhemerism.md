@@ -15,14 +15,9 @@ lead: Une tentative philosophique de rationaliser la mythologie, en particulier 
   compris comme le paradigme philosophique assimilant les anciens dieux à une civilisation
   spatiale, peut-être d'origine extraterrestre. Ainsi, l'hypothèse avancée ici sur
   Wheel of Heaven partage bien un ADN similaire avec des prémisses néo-euhéméristiques.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

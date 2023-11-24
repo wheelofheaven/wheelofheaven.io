@@ -13,14 +13,9 @@ lead: Une création délibérée et itérative de la vie à travers l'univers pa
   successive représente un pas en avant évolutif, bien que potentiellement une menace
   pour leurs créateurs. Ce concept représente un mélange de processus naturels et
   de conception consciente dans la grande progression de la vie à travers le cosmos.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

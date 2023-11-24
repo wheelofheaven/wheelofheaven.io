@@ -14,14 +14,9 @@ lead: Griego para Revelación, se refiere a la Era de la Revelación que precede
   en particular la Biblia, a saber, que los Dioses de antaño son personas de otro
   planeta y han sido confundidos con seres sobrenaturales debido a sus capacidades
   tecnológicas altamente avanzadas.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

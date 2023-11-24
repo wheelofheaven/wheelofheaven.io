@@ -12,14 +12,9 @@ lead: Ou bien la loi de la masse-temps est une loi hypothétique de la physique 
   complexes que pour les systèmes plus petits et plus simples. La loi n'a pas encore
   été formalisée mathématiquement, mais tire toute sa capacité prévisible d'observations
   empiriques.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

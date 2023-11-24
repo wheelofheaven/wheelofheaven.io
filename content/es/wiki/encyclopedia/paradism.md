@@ -9,14 +9,9 @@ lead: El establecimiento de un sistema socioeconómico totalmente automatizado, 
   a la escasez, a imagen del planeta de origen de los Elohim. A través de medios tecnológicos
   de automatización del trabajo y alivio de las dificultades, la abundancia, la prosperidad
   y la realización personal se convertirían en la nueva moneda de la búsqueda social.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

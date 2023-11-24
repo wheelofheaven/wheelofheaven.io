@@ -2,14 +2,9 @@
 title: "Third Temple"
 description: "Third Temple, a residence for the Elohim that should be rebuilt during the times of the Apocalypse."
 lead: "A residence for the Elohim that should be rebuilt during the times of the Apocalypse."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 ---
 

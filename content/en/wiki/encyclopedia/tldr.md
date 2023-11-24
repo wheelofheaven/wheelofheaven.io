@@ -2,15 +2,10 @@
 title: "tl;dr"
 description: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
 lead: "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 ---
 

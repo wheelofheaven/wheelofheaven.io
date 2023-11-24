@@ -9,14 +9,9 @@ lead: Die Idee, konstitutionelle Merkmale eines Exoplaneten wie die Atmosphäre 
   die Oberfläche dieses Planeten zu verändern, um einer humanoiden Spezies das Leben
   auf ihm zu ermöglichen. Terraforming ist die Technik, die die Elohim zu Beginn ihres
   Genesis-Projekts angewendet haben, um den Planeten Erde bewohnbar zu machen.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

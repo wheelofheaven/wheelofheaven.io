@@ -5,14 +5,10 @@ alternatives:
 - Precessional year
 description: プラトン年としても知られる偉大な年。約 25,920 年の期間であり、完全な歳差運動サイクルが完了するまでにかかる時間です。
 lead: プラトン年とも呼ばれる約 25,920 年の期間で、完全な歳差運動サイクルが完了するまでにかかる時間です。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

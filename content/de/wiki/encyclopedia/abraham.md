@@ -8,14 +8,9 @@ lead: Ursprünglich Abram oder auf Hebräisch Avram genannt. Er ist ein biblisch
   aus der Zeit nach der Zerstörung von Sodom und Gomorra. Er ist der erste Botschafter
   oder Prophet, der von der Zivilisation der Elohim ernannt wurde und mit ihnen eine
   nicht feindselige diplomatische Beziehung unterhielt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - taurus

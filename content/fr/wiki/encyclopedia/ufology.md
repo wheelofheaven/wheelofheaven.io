@@ -16,14 +16,9 @@ lead: Un domaine d'étude et de recherche qui se concentre sur le phénomène de
   théories, allant des engins spatiaux extraterrestres aux dissimulations gouvernementales,
   et vise à comprendre le phénomène des ovnis par le biais d'enquêtes scientifiques,
   de témoignages oculaires et de preuves documentaires.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

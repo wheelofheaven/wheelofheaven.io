@@ -12,14 +12,9 @@ lead: La réaction de suivi de la civilisation élohimienne à l'époque de la c
   progrès technologique sur Terre et de rendre ces efforts inoffensifs. L'entreprise
   de confusion a consisté à dissoudre géographiquement les porteurs de connaissances
   partout dans le monde parmi des tribus qui ne pouvaient plus les comprendre.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

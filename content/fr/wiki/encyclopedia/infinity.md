@@ -3,14 +3,9 @@ title: "L'Infini"
 alternatives: ["L'Éternité"]
 description: "L'Infini, une compréhension scientifique de premier ordre qui postule l'existence perpétuelle de l'espace et du temps. Elle conceptualise l'infini comme un aspect intrinsèque à la fois de l'espace et du temps, dépourvu de tout point central, de tout début ou de toute fin. Deux symboles anciens connus à travers le monde et les âges témoignent de cette sagesse ancestrale qui nous a été donnée par les Élohims, à savoir la svastika représentant la nature cyclique du temps et de l'éternité, et le Magen David représentant à son tour ce qui est en haut est en bas, signifiant que la façon dont l'espace s'étend aux niveaux macroscopiques supérieurs est la même que la façon dont l'espace à l'intérieur des niveaux microscopiques se replie. Selon les Élohims, les créateurs de l'humanité, ces symboles révèlent la symétrie complexe de l'univers et nous conseillent de contempler notre existence et nos actions concernant l'individu, la société, les créateurs et l'infini. En essence, l'infini n'est pas seulement un concept cosmologique, mais la base fondamentale pour guider sa vie et vivre en harmonie avec l'infini."
 lead: "Une compréhension scientifique de premier ordre qui postule l'existence perpétuelle de l'espace et du temps. Elle conceptualise l'infini comme un aspect intrinsèque à la fois de l'espace et du temps, dépourvu de tout point central, de tout début ou de toute fin. Deux symboles anciens connus à travers le monde et les âges témoignent de cette sagesse ancestrale qui nous a été donnée par les Élohims, à savoir la svastika représentant la nature cyclique du temps et de l'éternité, et le Magen David représentant à son tour ce qui est en haut est en bas, signifiant que la façon dont l'espace s'étend aux niveaux macroscopiques supérieurs est la même que la façon dont l'espace à l'intérieur des niveaux microscopiques se replie. Selon les Élohims, les créateurs de l'humanité, ces symboles révèlent la symétrie complexe de l'univers et nous conseillent de contempler notre existence et nos actions concernant l'individu, la société, les créateurs et l'infini. En essence, l'infini n'est pas seulement un concept cosmologique, mais la base fondamentale pour guider sa vie et vivre en harmonie avec l'infini."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 95

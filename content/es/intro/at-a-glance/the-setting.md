@@ -1,11 +1,6 @@
 ---
 title: "El Contexto"
 description: "Embárcate en un viaje lleno de reflexiones y explora los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Este cautivador artículo nos lleva a través de los conceptos del pluralismo cósmico, la sabiduría ancestral, los seres celestiales y la procreación interestelar, invitándonos a contemplar el futuro potencial de la humanidad como una civilización viajera del espacio. Descubre la narrativa impresionante que revela nuestra herencia cósmica y despierta nuestra imaginación en medio de la inmensidad del universo."
-excerpt: "Embárcate en un viaje lleno de reflexiones y explora los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Este cautivador artículo nos lleva a través de los conceptos del pluralismo cósmico, la sabiduría ancestral, los seres celestiales y la procreación interestelar, invitándonos a contemplar el futuro potencial de la humanidad como una civilización viajera del espacio. Descubre la narrativa impresionante que revela nuestra herencia cósmica y despierta nuestra imaginación en medio de la inmensidad del universo."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["ancient-monuments-sunset.png"]
 menu:
   intro:
     parent: "at-a-glance"

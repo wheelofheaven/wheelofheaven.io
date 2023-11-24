@@ -2,14 +2,9 @@
 title: 新耶路撒冷
 description: 第三圣殿，耶洛因的住所，应该在天启时期重建。
 lead: 耶洛因的住所应该在天启时期重建。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

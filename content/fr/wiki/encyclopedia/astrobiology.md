@@ -7,14 +7,9 @@ description: L'astrobiologie, un domaine de recherche scientifique qui étudie l
 lead: Domaine de recherche scientifique qui étudie la vie dans l'univers. Comme la
   vie dans l'Univers n'a pas été observée de manière concluante, l'astrobiologie s'intéresse
   avant tout aux conditions dans lesquelles la vie extraterrestre est possible.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

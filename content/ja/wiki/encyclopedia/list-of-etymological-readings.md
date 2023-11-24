@@ -2,14 +2,10 @@
 title: 語源読みリスト
 description: 語源の読み方のリスト。 Wheel of Heaven によって提示された前提を探索することによって、語源的に読み取ることができる宗教的、神話的、または伝統的な概念が数多く存在します。このリストは、これらの概念の大部分をカタログ化するものです。
 lead: 語源の読み方のリスト。 Wheel of Heaven によって提示された前提を探索することによって、語源的に読み取ることができる宗教的、神話的、または伝統的な概念が数多く存在します。このリストは、これらの概念の大部分をカタログ化するものです。
-date: 2022-09-20 00:00:00
 lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

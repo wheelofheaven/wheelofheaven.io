@@ -4,14 +4,9 @@ alternatives:
 - Great Deluge
 description: 大洪水，也称为大洪水，是由预防性军事措施引起的灾难性事件，该措施是由耶洛因遥远的家乡星球上陷入困境的政府故意发起的，他们希望结束地球上独立的科学进步。
 lead: 也被称为大洪水，这是由预防性军事措施引起的灾难性事件，该措施是由耶洛因遥远的家乡星球上陷入困境的政府故意发起的，他们希望结束地球上独立的科学进步。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - gemini

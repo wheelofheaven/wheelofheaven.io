@@ -3,14 +3,9 @@ title: "Infinity"
 alternatives: ["Eternity"]
 description: "Infinity, a scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. It conceptualizes infinity as an intrinsic aspect of both space and time, devoid of any central point, beginning, or end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to. According to the Elohim, humanity's creators, these symbols reveal the intricate symmetry of the universe and advise us to contemplate our existence and actions concerning the individual, society, the creators, and infinity. In essence, infinity is not merely a cosmological concept but the fundamental basis to guide one's life to live in harmony with infinity."
 lead: "A scientific insight of the highest order as it postulates the very perpetual extent of time as well of space. It conceptualizes infinity as an intrinsic aspect of both space and time, devoid of any central point, beginning, or end. Two ancient symbols known throughout the world and ages testify of this wisdom of old given to us by the Elohim, namely the Swastika representing the cyclical nature of time and timelessness, and Magen David representing in turn that what is above is below, meaning the way space expands to greater macrosopic levels is the same as the way the space within the microscopic levels folds down to. According to the Elohim, humanity's creators, these symbols reveal the intricate symmetry of the universe and advise us to contemplate our existence and actions concerning the individual, society, the creators, and infinity. In essence, infinity is not merely a cosmological concept but the fundamental basis to guide one's life to live in harmony with infinity."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 ---
 

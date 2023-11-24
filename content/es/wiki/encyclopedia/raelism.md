@@ -18,14 +18,9 @@ lead: Un nuevo movimiento religioso que se remonta a un francés, Claude Vorhilo
   avanzada similar a un dios que terraformó la Tierra hace unos 25,000 años y posteriormente
   creó vida en la Tierra de forma sintética, como se describe en el Génesis bíblico
   y otros mitos de la creación.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

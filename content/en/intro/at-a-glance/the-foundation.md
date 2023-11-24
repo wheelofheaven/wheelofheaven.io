@@ -1,11 +1,6 @@
 ---
 title: "The Foundation"
 description: "Explore a thought-provoking narrative that reveals the origins of life on Earth and our cosmic connections. Delve into the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, as we contemplate the potential future of humanity as a space-faring civilization."
-excerpt: "Explore a thought-provoking narrative that reveals the origins of life on Earth and our cosmic connections. Delve into the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, as we contemplate the potential future of humanity as a space-faring civilization."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["monolithic-base-in-snow.png"]
 menu:
   intro:
     parent: "at-a-glance"

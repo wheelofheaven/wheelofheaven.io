@@ -8,14 +8,9 @@ description: Era Mundial, también conocida como Era Astrológica, término colo
 lead: También conocida como Era Astrológica, término coloquial para designar un Gran
   Mes por su nombre Zodiacal. Por ejemplo, en este momento, estamos pasando de la
   Era de Piscis a la Era de Acuario.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -8,14 +8,9 @@ description: Pangea, un supercontinente antediluviano que fue terraformado a par
 lead: Un supercontinente antediluviano que fue terraformado a partir de un lecho marino
   poco profundo en toda la Tierra por los Elohim poco después de que llegaron al planeta
   Tierra y comenzaron a investigar su constitución.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

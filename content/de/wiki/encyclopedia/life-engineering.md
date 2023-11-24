@@ -12,14 +12,9 @@ lead: Bezieht sich auf die Anwendung wissenschaftlicher und technologischer Ans�
   es sich um die bewusste Manipulation von genetischem Material und den Zusammenbau
   biologischer Komponenten, um die Entstehung völlig neuer Lebensformen herbeizuführen,
   die es in der Natur nicht gibt.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

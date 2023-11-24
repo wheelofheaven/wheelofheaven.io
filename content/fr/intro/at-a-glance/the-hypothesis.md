@@ -1,11 +1,6 @@
 ---
 title: "L'Hypothèse"
 description: "La hypothèse Wheel of Heaven remet en question notre compréhension des origines humaines et nous invite à considérer les profondes implications de nos connexions extraterrestres potentielles. En explorant le rôle des Elohim dans la création de la vie sur Terre, nous plongeons dans l'intersection de la science, de la spiritualité et de notre place dans le cosmos. Cette hypothèse ouvre également de nouvelles avenues d'exploration, telles que l'examen des textes religieux anciens et des mythologies dans le contexte des contacts extraterrestres. Elle nous pousse à réfléchir aux conséquences de nos origines cosmiques sur l'avenir de l'exploration spatiale, de l'éthique et des interactions avec des civilisations extraterrestres."
-excerpt: "La hypothèse Wheel of Heaven remet en question notre compréhension des origines humaines et nous invite à considérer les profondes implications de nos connexions extraterrestres potentielles. En explorant le rôle des Elohim dans la création de la vie sur Terre, nous plongeons dans l'intersection de la science, de la spiritualité et de notre place dans le cosmos. Cette hypothèse ouvre également de nouvelles avenues d'exploration, telles que l'examen des textes religieux anciens et des mythologies dans le contexte des contacts extraterrestres. Elle nous pousse à réfléchir aux conséquences de nos origines cosmiques sur l'avenir de l'exploration spatiale, de l'éthique et des interactions avec des civilisations extraterrestres."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: ["spacecraft-in-orbit.png"]
 menu:
   intro:
     parent: "at-a-glance"

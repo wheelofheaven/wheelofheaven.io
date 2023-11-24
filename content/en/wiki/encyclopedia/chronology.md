@@ -2,15 +2,10 @@
 title: "Chronology"
 description: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
 lead: "In the vast expanse of cosmic history, the 12 astrological ages, starting with the Age of Capricorn in 21,810 BC and ending with the Age of Aquarius in 4110 CE, provide a fascinating lens to view human civilization. The ages mirror a full precessional cycle, often referred to as a Great Year, a cycle that guides the unfolding of events and evolution of consciousness on Earth. Each age signifies a distinct era, bringing its own themes and lessons. The Age of Capricorn marked the discovery and exploration of Earth. Sagittarius propelled studies and analysis, while Scorpio brought about terraforming and the proliferation of plant life. In the Age of Libra, mankind honed in on astronomy and accommodations, which was succeeded by the Age of Virgo that saw a diversity of life. The Age of Leo witnessed the advent of humans alongside Elohim, followed by the Age of Cancer, marking the era of the Garden of Eden and the tale of Adam & Eve. The subsequent ages each carried significant religious and historical milestones, from the flood in the Age of Gemini, to events like Babel, Sodom & Gomorrah in Taurus, and Abraham and Exodus in Aries. The Age of Pisces observed the advent of Jesus, with miracles such as multiplication, leading to our present Age of Aquarius, symbolizing revelation and the onset of a Golden Age. These ages represent not just periods in time, but a grand cosmic journey that humanity undertakes in its quest for spiritual growth and enlightenment."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
 hidden: true
-draft: false
-images: []
 menu:
   wiki:
     parent: "Wiki"
-weight: 200
 toc: true
 ---
 

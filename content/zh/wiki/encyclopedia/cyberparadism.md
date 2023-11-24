@@ -6,14 +6,9 @@ alternatives:
 - Neogenesis
 description: Cyberparadism是将先进技术与天堂般的自然相结合的审美，展望人类进步和环境和谐可持续共存的未来。
 lead: Cyberparadism是将先进技术与天堂般的自然相结合的审美，展望人类进步和环境和谐可持续共存的未来。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

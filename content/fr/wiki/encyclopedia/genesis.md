@@ -8,14 +8,9 @@ lead: Étymologiquement, le premier livre de la Bible, également connu sous le 
   de Livre de la Genèse ou B'reshit (בְּרֵאשִׁית) en hébreu. Au sens figuré, la somme
   de tous les projets créationnels menés sur la planète Terre par les Elohim qui ont
   duré 7 Grands Mois, soit environ 15'000 ans.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

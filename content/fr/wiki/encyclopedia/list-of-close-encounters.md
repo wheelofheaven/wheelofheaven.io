@@ -6,14 +6,9 @@ description: Liste des rencontres rapprochées, une énumération détaillée de
 lead: Liste des rencontres rapprochées, une énumération détaillée de toutes les rencontres
   rapprochées avec des objets volants non identifiés qui ont été signalées depuis
   l'Antiquité jusqu'aux temps modernes.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -12,14 +12,9 @@ lead: Patrones intrincados que aparecen en los campos de cultivo. Se han asociad
   potencial de visitas o comunicaciones extraterrestres. Si bien se ha demostrado
   que algunos círculos de cultivos son engaños hechos por humanos, el debate en torno
   a sus orígenes continúa dentro del campo de la ufología.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 timeline:
 - aquarius

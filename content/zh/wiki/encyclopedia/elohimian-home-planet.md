@@ -2,14 +2,9 @@
 title: 以罗欣家乡行星
 description: 太阳系外的宜居行星，是埃罗希米亚属或至少是其文明的发源地。据称这颗行星距离地球大约 1 光年，因此位于银河系内。
 lead: 太阳系外的宜居行星，是埃罗希米亚属或至少是其文明的发源地。据称这颗行星距离地球大约 1 光年，因此位于银河系内。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

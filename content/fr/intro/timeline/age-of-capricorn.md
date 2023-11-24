@@ -2,11 +2,6 @@
 title: "Ère du Capricorne"
 period: "21'810—19'650 avant J.C"
 description: "L'Ère du Capricorne est l'un des douze Âges du Monde et a duré de -21'810 à -19'650 et a pris, comme chaque Âge du Monde, 2'160 ans pour se terminer. Il est considéré comme le premier Âge du Monde sur les douze Âges du Monde et marque donc le début du cycle complet des Âges du Monde, tout comme le mois de janvier marque le début du cycle annuel. C'est pendant l'Ère du Capricorne qu'une civilisation non terrestre est arrivée sur Terre et a commencé à l'étudier à des fins scientifiques car elle présentait tous les éléments nécessaires à la vie, surtout beaucoup d'eau."
-excerpt: "L'Ère du Capricorne est l'un des douze Âges du Monde et a duré de -21'810 à -19'650 et a pris, comme chaque Âge du Monde, 2'160 ans pour se terminer. Il est considéré comme le premier Âge du Monde sur les douze Âges du Monde et marque donc le début du cycle complet des Âges du Monde, tout comme le mois de janvier marque le début du cycle annuel. C'est pendant l'Ère du Capricorne qu'une civilisation non terrestre est arrivée sur Terre et a commencé à l'étudier à des fins scientifiques car elle présentait tous les éléments nécessaires à la vie, surtout beaucoup d'eau."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
 menu:
   intro:
     parent: "timeline"

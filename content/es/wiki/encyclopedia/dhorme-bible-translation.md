@@ -7,14 +7,9 @@ description: Biblia de Dhorme, una traducción de la Biblia al francés realizad
 lead: Una traducción de la Biblia al francés realizada por el asirólogo y semitólogo
   francés Édouard Dhorme (1881-1966), conocido por su estilo de traducción literal
   que mantuvo intactos los significados originales en el idioma francés.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

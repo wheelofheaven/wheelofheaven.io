@@ -9,14 +9,9 @@ lead: Etimológicamente, el primer libro de la Biblia, también conocido como Li
   del Génesis o B'reshit (בְּרֵאשִׁית) en hebreo. Más figurativamente, la suma de
   todos los proyectos de creación llevados a cabo en el planeta Tierra por los Elohim
   que duró 7 Grandes Meses, lo que equivale a aproximadamente 15'000 años.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -8,14 +8,9 @@ lead: Une métaphore biblique qui représente l'ensemble des connaissances scien
   sur la façon de fournir les moyens technologiques pour atteindre la vie éternelle.
   Plus précisément pour allonger l'espérance de vie humaine jusqu'à 1'000 ans comme
   c'était le cas à l'ère du Lion.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

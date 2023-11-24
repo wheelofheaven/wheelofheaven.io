@@ -10,14 +10,9 @@ lead: Ein alternativer Ansatz zur Interpretation der Bibel, der sich für ein w�
   Exegese zu verlassen. Ziel ist es, eine andere Erzählung aufzuzeigen, indem der
   Text ohne metaphorische Interpretationen untersucht und der historische und kulturelle
   Kontext betont wird.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

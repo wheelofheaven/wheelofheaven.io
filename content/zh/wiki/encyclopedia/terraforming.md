@@ -2,14 +2,9 @@
 title: 地球化
 description: 地球化改造，是指改变系外行星的构成特征，例如该行星的大气层或表面，以使人形物种能够在其上生存。地球化改造是耶洛因在他们使地球适合居住的创世计划开始时所应用的技术。
 lead: 改变系外行星的构成特征（例如该行星的大气层或表面）的概念，以使人形物种能够在其上生活。地球化改造是耶洛因在其使地球适合居住的创世计划开始时所应用的技术。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

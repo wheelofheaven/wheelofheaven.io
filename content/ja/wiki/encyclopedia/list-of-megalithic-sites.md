@@ -2,14 +2,9 @@
 title: 巨石遺跡のリスト
 description: 巨石遺跡のリスト。既知の巨石遺跡の広範な列挙。高度な建築物の質の痕跡が多かれ少なかれ明確に特徴付けられています。
 lead: 既知の巨石遺跡の広範な列挙。高度な建築物の質の痕跡が多かれ少なかれ明確に特徴付けられています。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

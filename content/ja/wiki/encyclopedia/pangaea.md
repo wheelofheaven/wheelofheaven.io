@@ -4,14 +4,9 @@ alternatives:
 - Antediluvian landmass
 description: パンゲアは、エロヒムが惑星地球に到着し、その構成を調査し始めた直後に、地球全体の浅い海底からテラフォーミングされた古代の超大陸です。
 lead: エロヒムが惑星地球に到着し、その構成を調査し始めた直後に、エロヒムによって地球全体の浅い海底からテラフォーミングされた、古代の超大陸。
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

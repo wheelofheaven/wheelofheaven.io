@@ -26,14 +26,9 @@ lead: Unter militärischer Vertuschung der Exobiologie versteht man die Idee, da
   einen bewussten Versuch, Informationen über potenzielle außerirdische Phänomene
   aus verschiedenen Gründen zurückzuhalten oder zu manipulieren, beispielsweise aus
   Gründen der nationalen Sicherheit oder der gesellschaftlichen Stabilität.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

@@ -12,14 +12,9 @@ lead: Muchas religiones, pero no todas, se consideran testimonios establecidos d
   testimonio de los hechos de Elohimian. Esta lista va a catalogar exhaustivamente
   en gran medida la mayoría de las tradiciones religiosas notables así como los profetas
   que conducen a tales tradiciones.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

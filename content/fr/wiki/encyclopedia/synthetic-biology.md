@@ -15,14 +15,9 @@ lead: Domaine interdisciplinaire qui combine les principes de la biologie, de la
   l'ingénierie de composants biologiques pour programmer des cellules vivantes afin
   qu'elles effectuent des tâches spécifiques ou présentent des traits souhaités. La
   biologie synthétique vise à comprendre et à réorganiser les systèmes biologiques.
-date: 2022-09-20 00:00:00
-lastmod: 2022-09-20 00:00:00
-draft: false
-images: []
 menu:
   wiki:
     parent: Wiki
-weight: 200
 toc: true
 translatedby: ["GPT"]
 translationrate: 10

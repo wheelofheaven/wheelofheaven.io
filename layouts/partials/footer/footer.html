@@ -1,3 +1,4 @@
+<!--
 <footer class="footer text-muted">
   <div class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }}">
     <div class="row">
@@ -16,3 +17,86 @@
     </div>
   </div>
 </footer>
+-->
+
+<footer class="footer">
+      <div class="container">
+        <p class="text-muted">{{ .Site.Params.description | safeHTML }}</p>
+      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-3">
+              <h5>{{ .Site.Params.titleHome | safeHTML }}</h5>
+                <ul class="list-unstyled">
+                  <li><a href="/intro/wheel-of-heaven/">About</a></li>
+                  <li><a href="/articles/hello-world/">Hello world!</a></li>
+                  <li><a href="/intro/faq/">Frequently Asked Questions</a></li>
+                  <li><a href="https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md">White Paper</a></li>
+            </div>
+            <div class="col-md-3 mb-3">
+                <h5>Sections</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Intro</a></li>
+                    <li><a href="#">Wiki</a></li>
+                    <li><a href="#">Articles</a></li>
+                    <li><a href="#">Resources</a></li>
+                </ul>
+                <h5>Jump right in</h5>
+                <ul class="list-unstyled">
+                    <li><a href="/intro/the-setting/">The Setting</a></li>
+                    <li><a href="/intro/the-foundation/">The Foundation</a></li>
+                    <li><a href="/intro/the-hypothesis/">The Hypothesis</a></li>
+                    <li><a href="/intro/preamble/">Preamble</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 mb-3">
+                <h5>Community</h5>
+                <ul class="list-unstyled">
+                    <li><a href="/intro/community/">Community</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
+                    <li><a href="https://github.com/orgs/wheelofheaven/discussions">GitHub Discussion</a></li>
+                    <li><a href="https://opencollective.com/wheelofheaven">Open Collective</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/LICENSE">Open Source</a></li>
+                </ul>
+                <h5>Social media</h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://github.com/wheelofheaven/">GitHub</a></li>
+                    <li><a href="https://opencollective.com/wheelofheaven">Telegram</a></li>
+                    <li><a href="https://opencollective.com/wheelofheave">𝕏</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 mb-3">
+                <h5>Platform</h5>
+                <ul class="list-unstyled">
+                    <li><a href="/tags/">Tags</a></li>
+                    <li><a href="/categories/">Categories</a></li>
+                    <li><a href="/contributors/">Contributors</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md">How to contribute</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CHANGELOG.md">Changelog</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/graphs/commit-activity">Commit activity</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/README.md">Readme</a></li>
+                    <li><a href="/articles/index.xml">RSS feed</a></li>
+               </ul>
+            </div>
+            <div class="col-md-3 mb-3">
+                <h5>Privacy & Terms</h5>
+                <ul class="list-unstyled">
+                    <li><a href="/privacy-policy/">Privacy policy</a></li>
+                    <li><a href="/privacy-policy/">Cookie policy</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/SECURITY.md">Security policy</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+               </ul>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <ul class="list-inline mt-4">
+                    <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+

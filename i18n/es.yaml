@@ -1,8 +1,8 @@
 - id: og-locale
   translation: "es_ES"
 
-- id: get-started
-  translation: "Aprende más"
+- id: call-to-action-homepage
+  translation: "Explore nuestra hipótesis"
 
 - id: on-this-page
   translation: "En esta página"

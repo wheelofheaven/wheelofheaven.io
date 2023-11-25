@@ -1,8 +1,8 @@
 - id: og-locale
   translation: "zh_CN"
 
-- id: get-started
-  translation: "学到更多"
+- id: call-to-action-homepage
+  translation: "探索我们的假设"
 
 - id: on-this-page
   translation: "在本页"

@@ -1,8 +1,8 @@
 - id: og-locale
   translation: "ja_JP"
 
-- id: get-started
-  translation: "もっと詳しく知る"
+- id: call-to-action-homepage
+  translation: "仮説を探る"
 
 - id: on-this-page
   translation: "このページでは"

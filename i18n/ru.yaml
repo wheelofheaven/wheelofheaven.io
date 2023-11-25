@@ -1,8 +1,8 @@
 - id: og-locale
   translation: "ru_RU"
 
-- id: get-started
-  translation: "Учить больше"
+- id: call-to-action-homepage
+  translation: "Изучите наши гипотезы"
 
 - id: on-this-page
   translation: "На этой странице"

@@ -352,6 +352,10 @@ $navbar-dark-active-color:          $link-color-dark;
   border-top: 1px solid $border-dark;
 }
 
+[data-dark-mode] .footer a{
+  color: $body-color-dark;
+}
+
 [data-dark-mode] body .docs-links,
 [data-dark-mode] body .docs-toc {
   scrollbar-width: thin;

@@ -13,6 +13,10 @@
   margin-bottom: 0;
 }
 
+.footer a {
+  color: $black;
+}
+
 @include media-breakpoint-up(md) {
   .footer li {
     font-size: $font-size-base;

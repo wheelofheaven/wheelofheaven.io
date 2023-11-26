@@ -65,7 +65,7 @@
     footerSecurityPolicy = "Security Policy"
     footerContact = "Contact"
     footerContactLink = "/contact/"
-    footerClosure = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" class=\"link\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" class=\"link\" target=\"_blank\">Zola</a>, and <a href=\"https://getdoks.org/\" class=\"link\" target=\"_blank\">Doks</a>"
+    footerClosure = "Made with ♥ in Switzerland using <a href=\"https://github.com/wheelofheaven/\" class=\"link\" target=\"_blank\">GitHub</a>, <a href=\"https://www.getzola.org/\" class=\"link\" target=\"_blank\">Zola</a>, and <a href=\"https://getdoks.org/\" class=\"link\" target=\"_blank\">Doks</a>"
 
 [de]
   languageName = "Deutsch"
@@ -134,7 +134,7 @@
     footerSecurityPolicy = "Sicherheitsrichtlinie"
     footerContact = "Kontakt"
     footerContactLink = "/contact/"
-    footerClosure = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, und <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footerClosure = "Made with ♥ in der Schweiz mithilfe von <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, und <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
 
 [es]
   languageName = "Español"
@@ -203,7 +203,7 @@
     footerSecurityPolicy = "Política de Seguridad"
     footerContact = "Contacto"
     footerContactLink = "/contact/"
-    footerClosure = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, y <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footerClosure = "Made with ♥ en Suiza con <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, y <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
 
 [fr]
   languageName = "Français"
@@ -273,7 +273,7 @@
     footerSecurityPolicy = "Politique de Sécurité"
     footerContact = "Contact"
     footerContactLink = "/contact/"
-    footerClosure = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, et <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footerClosure = "Made with ♥ en Suisse avec <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, et <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
 
 [ja]
   languageName = "日本語"
@@ -342,7 +342,7 @@
     footerSecurityPolicy = "セキュリティポリシー"
     footerContact = "連絡先"
     footerContactLink = "/contact/"
-    footerClosure = "<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>、<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>、<a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> を使用してスイスで ♥ で作成"
+    footerClosure = "<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>、<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>、<a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> を使用してスイスで ♥ で作成"
 
 [ru]
   languageName = "Pусский"
@@ -412,7 +412,7 @@
     footerSecurityPolicy = "Политика Безопасности"
     footerContact = "Контакт"
     footerContactLink = "/contact/"
-    footerClosure = "Made with ♥ в Швейцарии <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, и <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
+    footerClosure = "Made with ♥ в Швейцарии <a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>, <a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a>, и <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a>"
 
 [zh]
   languageName = "中文"
@@ -482,4 +482,4 @@
     footerSecurityPolicy = "安全政策"
     footerContact = "联系方式"
     footerContactLink = "/contact/"
-    footerClosure = "使用<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">Github</a>，<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a> 和 <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> 在瑞士制造♥"
+    footerClosure = "使用<a href=\"https://github.com/wheelofheaven/\" target=\"_blank\">GitHub</a>，<a href=\"https://www.getzola.org/\" target=\"_blank\">Zola</a> 和 <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> 在瑞士制造♥"

@@ -2,7 +2,7 @@
 title: "Creators: The Past"
 description: "Ancient Apocalypse is a 2022 Netflix documentary series where British writer Graham Hancock presents his theories about an advanced civilization existing during the last ice age. Hancock suggests this civilization was destroyed by a cataclysm, with survivors introducing agriculture, monumental architecture, and astronomy to hunter-gatherers worldwide. The series incorporates ideas like the controversial Younger Dryas impact hypothesis, attributing climate change at the end of the Pleistocene to a meteor bombardment."
 authored_by: ["Artuniverse", "Piergiuseppe Zaia", "Eleonora Fani"]
-publish_date: 2020
+publish_date: 2016
 follow_url: "http://www.creatorsmovie.it/"
 menu:
   resources:

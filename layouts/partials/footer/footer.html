@@ -21,12 +21,12 @@
 
 <footer class="footer">
     <div class="container">
-      <p class="text-muted">{{ .Site.Params.description | safeHTML }}</p>
+      <p class="text-muted">{{ .Site.Params.footerHead | safeHTML }}</p>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-3">
-              <h5>{{ .Site.Params.footerHead | safeHTML }}</h5>
+              <h5>{{ .Site.Params.title | safeHTML }}</h5>
                 <ul class="list-unstyled">
                   <li><a href="/intro/wheel-of-heaven/">About</a></li>
                   <li><a href="/articles/hello-world/">Hello world!</a></li>

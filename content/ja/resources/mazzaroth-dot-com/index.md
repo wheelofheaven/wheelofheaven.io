@@ -7,7 +7,8 @@ follow_url: "https://www.mazzaroth.com"
 menu:
   resources:
     parent: "browse"
-medium: ["Website"]
+medium: ["Web project"]
+medium_icon: "web-project"
 topics: ["Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 

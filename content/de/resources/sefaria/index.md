@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Web resource"]
+medium_icon: "web-resource"
 topics: ["Bible", "Genesis", "Reference work", "Religion", "Theology"]
 ---
 

@@ -9,6 +9,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Research paper"]
+medium_icon: "research-paper"
 topics: ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession", "Religion"]
 ---
 

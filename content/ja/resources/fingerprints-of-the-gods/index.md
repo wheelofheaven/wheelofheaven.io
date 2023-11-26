@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Nonfiction book"]
+medium_icon: "nonfiction-book"
 topics: ["Age of Aquarius", "Ancient Builders", "Archeoastronomy", "Cataclysm",  "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---
 

@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Nonfiction book"]
+medium_icon: "nonfiction-book"
 topics: ["Ancient Astronauts", "Mythology", "Reference work", "Religion", "The Tradition"]
 ---
 

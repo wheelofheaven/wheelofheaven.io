@@ -1,3 +1,4 @@
+{{ if or (not (isset .Params "show")) (eq .Params.show true) }}
 <div class="card">
   <div class="card-body">
     <h5 class="card-title mt-2"><a class="card-link stretched-link text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a></h5>
@@ -33,3 +34,4 @@
     </div>
   </div>
 </div>
+{{ end }}

@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Religious text"]
+medium_icon: "religious-text"
 topics: ["Bible", "Kabbalah", "Reference work", "The Tradition"]
 ---
 

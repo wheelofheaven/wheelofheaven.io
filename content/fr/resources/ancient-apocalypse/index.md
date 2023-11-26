@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Documentary film"]
+medium_icon: "documentary-film"
 topics: ["Age of Aquarius", "Ancient Builders", "Cataclysm", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---
 

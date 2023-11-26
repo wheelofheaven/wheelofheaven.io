@@ -8,6 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: ["Nonfiction book"]
+medium_icon: "nonfiction-book"
 topics: ["Astrological ages", "Archaeostronomy", "Comparative mythology", "History of science", "Precession"]
 ---
 

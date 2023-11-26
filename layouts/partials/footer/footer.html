@@ -20,13 +20,13 @@
 -->
 
 <footer class="footer">
-      <div class="container">
-        <p class="text-muted">{{ .Site.Params.footer_head | safeHTML }}</p>
-      </div>
+    <div class="container">
+      <p class="text-muted">{{ .Site.Params.description | safeHTML }}</p>
+    </div>
     <div class="container">
         <div class="row">
             <div class="col-md-4 mb-3">
-              <h5>{{ .Site.Params.titleHome | safeHTML }}</h5>
+              <h5>{{ .Site.Params.footerHead | safeHTML }}</h5>
                 <ul class="list-unstyled">
                   <li><a href="/intro/wheel-of-heaven/">About</a></li>
                   <li><a href="/articles/hello-world/">Hello world!</a></li>
@@ -90,7 +90,7 @@
             </div>
 
         </div>
-        <div class="row">
+        <div class="footer row">
             <div class="col-12">
                 <ul class="list-inline mt-4">
                     <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
@@ -99,4 +99,3 @@
         </div>
     </div>
 </footer>
-

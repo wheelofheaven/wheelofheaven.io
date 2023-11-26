@@ -16,8 +16,9 @@
       {{ end -}}
       </p>
 			<div class="showcase-meta d-flex justify-content-between">
-        <span class="fw-bold">
+        <span class="fw-bold medium-icon">
         {{ if .Params.medium -}}
+        {{ partial "utilities/mediumIcon"  (dict "context" . "mediumIcon" .Params.medium_icon) }}
         {{ range $index, $type := .Params.medium }}
         {{ if gt $index 0 }}, {{ end }}
           <a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">
@@ -43,7 +44,12 @@
 			{{ if .Params.topics -}}
 				<h3>Topics</h3>
         {{ range $index, $tag := .Params.topics -}}
-          <a class="btn btn-light" href="{{ "/resources/topics/" | relURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+        {{ $langPrefix := "" }}
+        {{ if ne $.Site.Language.Lang "en" }}
+          {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+        {{ end }}
+        {{ $topicURL := printf "%sresources/topics/%s/" $langPrefix ($tag | urlize) }}
+          <a class="btn btn-light" href="{{ $topicURL | absURL }}" role="button">{{ . }}</a>
         {{ end -}}
 			{{ end -}}
 			{{ partial "main/docs-navigation.html" . }}

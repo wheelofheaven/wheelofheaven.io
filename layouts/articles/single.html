@@ -18,7 +18,9 @@
     {{ if .Params.tags -}}
     <div class="mt-4">
       {{ range $index, $tag := .Params.tags -}}
-        <a class="btn btn-light" href="{{ "/tags/" | absURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+        {{ $langPrefix := printf "/%s/" $.Site.Language.Lang }}
+        {{ $tagURL := printf "%stags/%s/" $langPrefix ($tag | urlize) }}
+        <a class="btn btn-light" href="{{ $tagURL | absURL }}" role="button">{{ $tag }}</a>
       {{ end -}}
     </div>
     {{ end -}}

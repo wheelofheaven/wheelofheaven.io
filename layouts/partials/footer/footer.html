@@ -28,38 +28,38 @@
             <div class="col-md-4 mb-3">
               <h5>{{ .Site.Params.title | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                  <li><a href="/intro/wheel-of-heaven/">About</a></li>
-                  <li><a href="/articles/hello-world/">Hello world!</a></li>
-                  <li><a href="/intro/faq/">Frequently Asked Questions</a></li>
-                  <li><a href="https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md">White Paper</a></li>
+                  <li><a href="{{ .Site.Params.footerAboutLink | safeHTML }}">{{ .Site.Params.footerAbout | safeHTML }}</a></li>
+                  <li><a href="{{ .Site.Params.footerHelloWorldLink | safeHTML }}">{{ .Site.Params.footerHelloWorld | safeHTML }}</a></li>
+                  <li><a href="{{ .Site.Params.footerFAQLink | safeHTML }}">{{ .Site.Params.footerFAQ | safeHTML }}</a></li>
+                  <li><a href="https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md">{{ .Site.Params.footerWhitePaper | safeHTML }}</a></li>
             </div>
             <div class="col-md-3 mb-3">
-                <h5>Sections</h5>
+                <h5>{{ .Site.Params.footerSections | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/intro/wheel-of-heaven/">Intro</a></li>
-                    <li><a href="/wiki/">Wiki</a></li>
-                    <li><a href="/articles/">Articles</a></li>
-                    <li><a href="/resources/">Resources</a></li>
+                    <li><a href="{{ .Site.Params.footerHomeLink | safeHTML }}">{{ .Site.Params.footerHome | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerIntroLink | safeHTML }}">{{ .Site.Params.footerIntro | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerWikiLink | safeHTML }}">{{ .Site.Params.footerWiki | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerArticlesLink | safeHTML }}">{{ .Site.Params.footerArticles | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerResourcesLink | safeHTML }}">{{ .Site.Params.footerResources | safeHTML }}</a></li>
                 </ul>
-                <h5>Jump right in</h5>
+                <h5>{{ .Site.Params.footerJumpRightIn | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                    <li><a href="/intro/the-setting/">The Setting</a></li>
-                    <li><a href="/intro/the-foundation/">The Foundation</a></li>
-                    <li><a href="/intro/the-hypothesis/">The Hypothesis</a></li>
-                    <li><a href="/intro/preamble/">Preamble</a></li>
+                    <li><a href="{{ .Site.Params.footerTheSettingLink | safeHTML }}">{{ .Site.Params.footerTheSetting | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerTheFoundationLink | safeHTML }}">{{ .Site.Params.footerTheFoundation | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerTheHypothesisLink| safeHTML }}">{{ .Site.Params.footerTheHypothesis | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerPreambleLink | safeHTML }}">{{ .Site.Params.footerPreamble | safeHTML }}</a></li>
                 </ul>
             </div>
             <div class="col-md-3 mb-3">
-                <h5>Community</h5>
+                <h5>{{ .Site.Params.footerCommunity | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                    <li><a href="/intro/community/">Community</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
-                    <li><a href="https://github.com/orgs/wheelofheaven/discussions">GitHub Discussion</a></li>
+                    <li><a href="{{ .Site.Params.footerCommunityLink | safeHTML }}">{{ .Site.Params.footerCommunity | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md">{{ .Site.Params.footerCodeOfConduct | safeHTML }}</a></li>
+                    <li><a href="https://github.com/orgs/wheelofheaven/discussions">{{ .Site.Params.footerGithubDiscussion | safeHTML }}</a></li>
                     <li><a href="https://opencollective.com/wheelofheaven">Open Collective</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/LICENSE">Open Source</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/LICENSE">{{ .Site.Params.OpenSource | safeHTML }}</a></li>
                 </ul>
-                <h5>Social media</h5>
+                <h5>{{ .Site.Params.footerSocialMedia | safeHTML }}</h5>
                 <ul class="list-unstyled">
                     <li><a href="https://github.com/wheelofheaven/">GitHub</a></li>
                     <li><a href="https://opencollective.com/wheelofheaven">Telegram</a></li>
@@ -67,25 +67,25 @@
                 </ul>
             </div>
             <div class="col-md-3 mb-3">
-                <h5>Platform</h5>
+                <h5>{{ .Site.Params.footerPlatform | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                    <li><a href="/tags/">Tags</a></li>
-                    <li><a href="/categories/">Categories</a></li>
-                    <li><a href="/contributors/">Contributors</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md">How to contribute</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CHANGELOG.md">Changelog</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/graphs/commit-activity">Commit activity</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/README.md">Readme</a></li>
-                    <li><a href="/articles/index.xml">RSS feed</a></li>
+                    <li><a href="{{ .Site.Params.footerTagsLink | safeHTML }}">{{ .Site.Params.footerTags | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerCategoriesLink | safeHTML }}">{{ .Site.Params.footerCategories | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerContributorsLink | safeHTML }}">{{ .Site.Params.footerContributors | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md">{{ .Site.Params.footerContribute | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/CHANGELOG.md">{{ .Site.Params.footerChangelog | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/graphs/commit-activity">{{ .Site.Params.footerCommitActivity | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/README.md">{{ .Site.Params.footerReadme | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerRssFeedLink | safeHTML }}">{{ .Site.Params.footerRssFeed | safeHTML }}</a></li>
                </ul>
             </div>
             <div class="col-md-3 mb-3">
-                <h5>Privacy & Terms</h5>
+                <h5>{{ .Site.Params.footerPrivacyTerms | safeHTML }}</h5>
                 <ul class="list-unstyled">
-                    <li><a href="/privacy-policy/">Privacy policy</a></li>
-                    <li><a href="/privacy-policy/">Cookie policy</a></li>
-                    <li><a href="https://github.com/wheelofheaven/site/blob/main/SECURITY.md">Security policy</a></li>
-                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="{{ .Site.Params.footerPrivacyPolicyLink | safeHTML }}">{{ .Site.Params.footerPrivacyPolicy | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerCookiePolicyLink | safeHTML }}">{{ .Site.Params.footerCookiePolicy | safeHTML }}</a></li>
+                    <li><a href="https://github.com/wheelofheaven/site/blob/main/SECURITY.md">{{ .Site.Params.footerSecurityPolicy | safeHTML }}</a></li>
+                    <li><a href="{{ .Site.Params.footerContactLink | safeHTML }}">{{ .Site.Params.footerContact | safeHTML }}</a></li>
                </ul>
             </div>
 
@@ -93,7 +93,7 @@
         <div class="footer row">
             <div class="col-12">
                 <ul class="list-inline mt-4">
-                    <li class="list-inline-item">{{ .Site.Params.footer | safeHTML }}</li>
+                    <li class="list-inline-item">{{ .Site.Params.footerClosure | safeHTML }}</li>
                 </ul>
             </div>
         </div>

@@ -18,12 +18,14 @@ figure figcaption {
 
 .center-figure {
   margin: auto;
-  width: 1792px;
+  max-width: 1792px;
+  width: 100%;
 } 
 
 .caption-align {
   text-align: left;
-  width: 1792px;
+  max-width: 1792px;
+  width: 100%;
   display: block;
 }
 

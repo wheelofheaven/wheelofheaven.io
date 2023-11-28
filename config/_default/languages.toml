@@ -58,7 +58,7 @@
     footerRssFeed = "RSS Feed"
     footerRssFeedLink = "/articles/index.xml"
     footerPrivacyTerms = "Privacy & Terms"
-    footerRrivacyPolicy = "Privacy Policy"
+    footerPrivacyPolicy = "Privacy Policy"
     footerPrivacyPolicyLink = "/privacy-policy/"
     footerCookiePolicy = "Cookie Policy"
     footerCookiePolicyLink = "/privacy-policy/"

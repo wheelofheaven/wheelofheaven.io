@@ -1,7 +1,7 @@
 ---
 title: "Preamble"
 period: "before 21'810BC"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
 menu:
   intro:
     parent: "timeline"

@@ -1,6 +1,6 @@
 ---
 title: "The Setting"
-description: "Embark on a thought-provoking journey as we explore the origins of life on Earth and our cosmic connections. This captivating article takes us through the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, inviting us to contemplate the potential future of humanity as a space-faring civilization. Discover the awe-inspiring narrative that unveils our cosmic heritage and sparks our imagination amidst the vastness of the universe."
+description: "The Setting of the Wheel of Heaven invites readers on a journey exploring the foundations of civilization, history, and crucial events that have shaped our world. It encourages an open-minded approach to understanding the website's hypothesis, suggesting a transformative or enlightening experience for those who delve into its content. This section sets the stage for the exploration of ancient narratives, modern interpretations, and scientific inquiries, aiming to broaden perspectives on humanity's origins and place in the universe​​."
 menu:
   intro:
     parent: "at-a-glance"

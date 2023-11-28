@@ -1,6 +1,6 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "The \"Wheel of Heaven\" introduction page sets the stage for a thought-provoking exploration into the origins of life on Earth, influenced by Raëlian revelations. It presents a hypothesis suggesting that life was created by an advanced extraterrestrial civilization, the Elohim. This intriguing premise serves as a gateway to a grand narrative that traverses the foundations of civilization, major historical events, and the evolution of human understanding. It invites readers to embark on an intellectual journey, reexamining ancient scriptures and historical mysteries through the lens of modern scientific insights and cosmic pluralism. This chapter is the beginning of a comprehensive exploration of humanity's potential interstellar connections and cosmic destiny."
 menu:
   intro:
     parent: "at-a-glance"

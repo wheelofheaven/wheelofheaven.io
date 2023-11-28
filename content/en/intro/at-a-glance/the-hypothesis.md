@@ -1,6 +1,6 @@
 ---
 title: "The Hypothesis"
-description: "The Wheel of Heaven hypothesis challenges our understanding of human origins and invites us to consider the profound implications of our potential extraterrestrial connections. By exploring the role of the Elohim in the creation of life on Earth and their influence on human evolution, we delve into the intersection of science, spirituality, and our place in the cosmos. This hypothesis also opens up new avenues for inquiry, such as reexamining ancient texts for encoded messages and contemplating the possibilities of future contact and collaboration with advanced extraterrestrial civilizations. "
+description: "The Hypothesis elaborates on a theory deeply influenced by the Raëlian revelations. It explores the idea that an advanced extraterrestrial civilization known as the Elohim played a crucial role in creating life on Earth. The website proposes a nuanced interpretation of these Raëlian messages, considering them in the context of our evolving world. This hypothesis forms the backbone of the website's narrative and underpins its exploration of humanity's origins and place in the universe​​."
 menu:
   intro:
     parent: "at-a-glance"

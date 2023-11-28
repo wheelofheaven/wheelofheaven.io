@@ -1,7 +1,7 @@
 ---
 title: "Age of Capricorn"
 period: "22'810—19'650BC"
-description: "The Age of Capricorn is one of the twelve World Ages and lasted from from –21'810 to up –19'650 and took as, each World Age, 2'160 years to complete. It is considered the first World Age out of the twelve World Ages and therefore marks the beginning of the whole cycle of World Ages, as would the month of January mark the beginning of the yearly cycle. It was during the Age of Capricorn that a non-terrestrial civilization arrived to Earth and started investigating it for scientific purposes as it featured all elements necessary for live, above all lots of water."
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

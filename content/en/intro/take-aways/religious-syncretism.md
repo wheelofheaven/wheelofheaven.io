@@ -1,6 +1,6 @@
 ---
 title: "Religious syncretism"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "The \"Religious Syncretism\" chapter on the Wheel of Heaven website explores the blending and integration of various religious beliefs and practices, especially in the context of the site's hypothesis about extraterrestrial influence on human civilization. This chapter might delve into how different religious traditions and stories could be interconnected or reinterpreted in light of the theory that an advanced alien civilization, the Elohim, played a role in human development. It would likely aim to provide a cohesive view that bridges gaps between diverse religious narratives, offering a unique perspective on the synthesis of these spiritual beliefs with the site's extraterrestrial hypothesis."
 menu:
   intro:
     parent: "take-aways"

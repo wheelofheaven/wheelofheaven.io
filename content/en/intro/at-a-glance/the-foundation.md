@@ -1,6 +1,6 @@
 ---
 title: "The Foundation"
-description: "Explore a thought-provoking narrative that reveals the origins of life on Earth and our cosmic connections. Delve into the concepts of cosmic pluralism, ancestral wisdom, celestial beings, and interstellar procreation, as we contemplate the potential future of humanity as a space-faring civilization."
+description: "The Foundation delves into a conceptual framework that supports its narrative on the origins of life on Earth. It presents a cosmic pluralism viewpoint, suggesting that the vast universe likely harbors abundant sentient life, possibly in proximity to Earth. This section underpins the narrative that sentient life on Earth is part of a broader interstellar chain of civilizations, providing a cohesive foundation for the website's grand narrative and exploration of humanity's cosmic connections​​."
 menu:
   intro:
     parent: "at-a-glance"

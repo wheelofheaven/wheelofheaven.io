@@ -1,7 +1,7 @@
 ---
 title: "Age of Aries"
 period: "2'370—210BC"
-description: "Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
 menu:
   intro:
     parent: "timeline"

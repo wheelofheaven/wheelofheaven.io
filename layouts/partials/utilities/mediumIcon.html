@@ -2,7 +2,7 @@
   {{ $mediumIcon := .mediumIcon }}
   {{ range $.context.Site.Data.mediumtypes }}
     {{ if eq .id $mediumIcon }}
-      {{ .icon | safeHTML }}
+      {{ .icon | safeHTML }}&nbsp;
     {{ end }}
   {{ end }}
 {{ end }}

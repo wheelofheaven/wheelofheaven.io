@@ -10,43 +10,43 @@
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
     <article>
-      <h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
-      <div class="text-center">{{ .Content }}</div>
-	  <div class="card-list">
-		{{ $currentSection := .CurrentSection }}
-		{{ range $currentSection.Sections }}
-			<div class="card my-3">
-				<div class="card-body">
-					<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
-				</div>
-			</div>
-			{{ range .Pages }}
+		<h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
+		<div class="text-center">{{ .Content }}</div>
+		<div class="card-list">
+			{{ $currentSection := .CurrentSection }}
+			{{ range $currentSection.Sections }}
 				<div class="card my-3">
 					<div class="card-body">
 						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
-						<p class="card-text text-muted">{{ .Description }}</p>
-						<p class="card-text">{{ .Content | truncate 100 }}</p>
+					</div>
+				</div>
+				{{ range .Pages }}
+					<div class="card my-3">
+						<div class="card-body">
+							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
+							<p class="card-subtitle">{{ .Description }}</p>
+							<p class="card-text">{{ .Content | plainify | htmlUnescape | truncate 600 }}</p>
+						</div>
+					</div>
+				{{ end }}
+			{{ end }}
+			{{ range where .Site.RegularPages.ByTitle "Section" $currentSection.RelPermalink }}
+				<div class="card my-3">
+					<div class="card-body">
+						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
 					</div>
 				</div>
 			{{ end }}
-		{{ end }}
-		{{ range where .Site.RegularPages.ByTitle "Section" $currentSection.RelPermalink }}
-			<div class="card my-3">
-				<div class="card-body">
-					<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
+			{{ range $currentSection.Pages }}
+				<div class="card my-3">
+					<div class="card-body">
+						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
+						<p class="card-subtitle">{{ .Description }}</p>
+						<p class="card-text">{{ .Content | truncate 600 }}</p>
+					</div>
 				</div>
+			{{ end }}
 			</div>
-		{{ end }}
-		{{ range $currentSection.Pages }}
-			<div class="card my-3">
-				<div class="card-body">
-					<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
-					<p class="card-text text-muted">{{ .Description }}</p>
-					<p class="card-text">{{ .Content | truncate 100 }}</p>
-				</div>
-			</div>
-		{{ end }}
-	</div>
 	
     </article>
   </div>

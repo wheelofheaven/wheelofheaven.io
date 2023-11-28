@@ -39,7 +39,7 @@
   weight = 20
 
 [[main]]
-  name = "Resources"
+  name = "Ressources"
   url = "fr/resources/"
   weight = 25
 

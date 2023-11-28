@@ -11,8 +11,8 @@ toc: true
 Bienvenue dans la section FAQ (Foire Aux Questions) de Wheel of Heaven ! Ici, nous fournissons des réponses aux questions courantes sur notre hypothèse, nos ressources et les implications plus larges de nos recherches. Si vous avez d'autres questions, n'hésitez pas à nous contacter.
 
 ### Table des matières
-1. [Qu'est-ce que Wheel of Heaven ?](#qu-est-ce-que-wheel-of-heaven)
-2. [L'hypothèse](#l-hypothese)
+1. [Qu\'est-ce que Wheel of Heaven ?](#quest-ce-que-wheel-of-heaven-)
+2. [L\'hypothèse](#lhypothèse)
 ---
 
 ### Qu'est-ce que Wheel of Heaven ?

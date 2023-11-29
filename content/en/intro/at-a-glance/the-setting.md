@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "at-a-glance"
 image: "archaic-blue-planet.png"
+chapter: "1.2"
 weight: 120
 toc: true
 ---

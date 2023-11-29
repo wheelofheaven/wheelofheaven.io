@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "take-aways"
 image: "circular-city-seen-from-the-sky.png"
+chapter: "3.3"
 weight: 330
 toc: true
 ---

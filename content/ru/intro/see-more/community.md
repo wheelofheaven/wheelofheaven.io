@@ -4,6 +4,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "see-more"
+chapter: "4.3"
 weight: 420
 toc: true
 translatedby: ["GPT"]

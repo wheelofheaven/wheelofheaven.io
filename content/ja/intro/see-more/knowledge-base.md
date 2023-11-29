@@ -4,6 +4,7 @@ description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒム
 menu:
   intro:
     parent: "see-more"
+chapter: "4.2"
 weight: 410
 toc: true
 translatedby: ["GPT"]

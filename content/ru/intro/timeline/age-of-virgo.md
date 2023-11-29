@@ -6,6 +6,7 @@ menu:
   intro:
     parent: "timeline"
 image: "dinosaurs-on-plain.png"
+chapter: "2.6"
 weight: 225
 toc: true
 translatedby: ["GPT"]

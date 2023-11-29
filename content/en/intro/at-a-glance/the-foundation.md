@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "at-a-glance"
 image: "monolithic-base-in-snow.png"
+chapter: "1.3"
 weight: 130
 toc: true
 ---

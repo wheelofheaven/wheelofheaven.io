@@ -6,6 +6,7 @@ menu:
   intro:
     parent: "timeline"
 image: "human-genesis.png"
+chapter: "2.7"
 weight: 230
 toc: true
 translatedby: ["GPT"]

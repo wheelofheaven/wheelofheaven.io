@@ -4,6 +4,7 @@ description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese un
 menu:
   intro:
     parent: "see-more"
+chapter: "4.3"
 weight: 420
 toc: true
 translatedby: ["GPT"]

@@ -6,6 +6,7 @@ menu:
   intro:
     parent: "timeline"
 image: "blue-planet-afar.png"
+chapter: "2.2"
 weight: 205
 toc: true
 translatedby: ["GPT"]

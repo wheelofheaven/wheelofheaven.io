@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "take-aways"
 image: "crowd-walking-towards-beam-earth.png"
+chapter: "3.4"
 weight: 340
 toc: true
 ---

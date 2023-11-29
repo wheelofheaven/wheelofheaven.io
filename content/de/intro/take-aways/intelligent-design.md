@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "take-aways"
 image: "bird-of-paradise.png"
+chapter: "3.2"
 weight: 320
 toc: true
 translatedby: ["GPT"]

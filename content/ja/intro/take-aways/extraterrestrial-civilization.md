@@ -5,6 +5,7 @@ menu:
   intro:
     parent: "take-aways"
 image: "glowing-domes-in-landscape.png"
+chapter: "3.1"
 weight: 310
 toc: true
 translatedby: ["GPT"]

@@ -6,6 +6,7 @@ menu:
   intro:
     parent: "timeline"
 image: "antidiluvian-queen-on-throne.png"
+chapter: "2.8"
 weight: 235
 toc: true
 translatedby: ["GPT"]

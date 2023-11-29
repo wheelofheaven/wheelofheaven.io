@@ -6,6 +6,7 @@ menu:
   intro:
     parent: "timeline"
 image: "geodesic-structures.png"
+chapter: "2.4"
 weight: 215
 toc: true
 translatedby: ["GPT"]

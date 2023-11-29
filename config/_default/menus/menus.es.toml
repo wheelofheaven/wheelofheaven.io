@@ -26,7 +26,7 @@
   name = "Intro"
   weight = 10
   identifier = "intro"
-  url = "es/intro/wheel-of-heaven/"
+  url = "es/intro/"
 
 [[main]]
   name = "Wiki"

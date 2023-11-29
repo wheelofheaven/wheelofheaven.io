@@ -19,6 +19,9 @@
 - id: browse
   translation: "浏览"
 
+- id: chapter
+  translation: "章节"
+
 - id: edit-page-on
   translation: "在GitHub上编辑此页面"
 

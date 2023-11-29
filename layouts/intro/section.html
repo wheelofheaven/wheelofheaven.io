@@ -10,20 +10,24 @@
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 mx-xl-auto">
     <article>
-		<h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
+		{{ $chapterTitle := "" }}
+		{{ if .Params.Chapter }}
+		  {{ $chapterTitle = printf "%s %s:" (i18n "chapter") .Params.Chapter }}
+		{{ end }}
+		<h1 class="text-center">{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
 		<div class="text-center">{{ .Content }}</div>
 		<div class="card-list">
 			{{ $currentSection := .CurrentSection }}
 			{{ range $currentSection.Sections }}
 				<div class="card my-3">
 					<div class="card-body">
-						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
+						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a>
 					</div>
 				</div>
 				{{ range .Pages }}
 					<div class="card my-3">
 						<div class="card-body">
-							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
+							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
 							<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
 							{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 							{{ partial "content/card-image-bottom.html" . }}
@@ -34,14 +38,14 @@
 			{{ range where .Site.RegularPages.ByTitle "Section" $currentSection.RelPermalink }}
 				<div class="card my-3">
 					<div class="card-body">
-						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a>
+						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a>
 					</div>
 				</div>
 			{{ end }}
 			{{ range $currentSection.Pages }}
 				<div class="card my-3">
 					<div class="card-body">
-						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
+						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
 						<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
 						{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 						{{ partial "content/card-image-bottom.html" . }}

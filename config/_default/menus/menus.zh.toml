@@ -26,7 +26,7 @@
   name = "引言"
   weight = 10
   identifier = "intro"
-  url = "zh/intro/wheel-of-heaven/"
+  url = "zh/intro/"
 
 [[main]]
   name = "维基"

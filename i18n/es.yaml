@@ -19,6 +19,9 @@
 - id: browse
   translation: "Navegar"
 
+- id: chapter
+  translation: "Capítulo"
+
 - id: edit-page-on
   translation: "Editar esta página en GitHub"
 

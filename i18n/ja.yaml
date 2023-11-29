@@ -19,6 +19,9 @@
 - id: browse
   translation: "ブラウズ"
 
+- id: chapter
+  translation: "章"
+
 - id: edit-page-on
   translation: "このページをGitHubで編集する"
 

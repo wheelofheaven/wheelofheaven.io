@@ -14,8 +14,8 @@
 		{{ if .Params.Chapter }}
 		  {{ $chapterTitle = printf "%s %s:" (i18n "chapter") .Params.Chapter }}
 		{{ end }}
-		<h1 class="text-center">{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
-		<div class="text-center">{{ .Content }}</div>
+		<h1>{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
+		<div>{{ .Description }}</div>
 		<div class="card-list">
 			{{ $currentSection := .CurrentSection }}
 			{{ range $currentSection.Sections }}

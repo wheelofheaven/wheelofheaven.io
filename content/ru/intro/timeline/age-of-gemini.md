@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Близнецов"
 period: "6690—4530 до н. э."
-description: "Wheel of Heaven - это база знаний, исследующая рабочую гипотезу о том, что жизнь на Земле была разумно спроектирована внеземной цивилизацией, так называемыми Элохим.."
+description: "The Age of Gemini, lasting from 6,690 to 4,530 BC, follows the Age of Cancer in the Wheel of Heaven narrative. This age is characterized as a period of new beginnings and transformation, symbolized by the story of Noah and the Flood. It represents a shift towards increased communication and cooperation between different cultures and peoples, facilitating the sharing and dissemination of ideas and knowledge. During this time, the Elohim faction exiled to Earth, including the group known as the Serpent, held a belief in sharing scientific knowledge with humanity, contrasting with the controlling approach of the Elohim government from their home planet. This age also includes the dramatic event where the Elohim government, feeling threatened by human scientific advancement, decides to destroy all life on Earth with nuclear missiles. However, the exiled creators intervened, asking Noah to build a spaceship to preserve species' genetic material, ensuring the continuation of life on Earth after the cataclysm​​​​."
 menu:
   intro:
     parent: "timeline"

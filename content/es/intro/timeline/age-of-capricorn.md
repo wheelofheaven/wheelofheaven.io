@@ -1,7 +1,7 @@
 ---
 title: "Era de Capricornio"
 period: "21'810—19'650 a.C."
-description: "La Era de Capricornio es una de las doce Eras del Mundo y duró desde -21'810 hasta -19'650 y, como cada Era del Mundo, tardó 2'160 años en completarse. Se considera la primera Era del Mundo de las doce Eras del Mundo y, por lo tanto, marca el comienzo de todo el ciclo de Eras del Mundo, como el mes de enero marcaría el comienzo del ciclo anual. Fue durante la Era de Capricornio que una civilización no terrestre llegó a la Tierra y comenzó a investigarla con fines científicos ya que presentaba todos los elementos necesarios para la vida, sobre todo mucha agua."
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

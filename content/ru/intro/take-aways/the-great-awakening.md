@@ -1,6 +1,6 @@
 ---
 title: "Великое пробуждение"
-description: "Wheel of Heaven - это база знаний, исследующая рабочую гипотезу о том, что жизнь на Земле была разумно спроектирована внеземной цивилизацией, так называемыми Элохим."
+description: "The \"Great Awakening\" chapter on the Wheel of Heaven website addresses a transformative shift in human consciousness and understanding, in line with the site's central hypothesis of extraterrestrial influence on Earth. This chapter might discuss the impact of recognizing an advanced alien civilization's role in human history, how this awareness could alter our global perspectives, and the potential societal and philosophical changes resulting from such a revelation. It could explore the notion of humanity entering a new era of enlightenment, spurred by a deeper understanding of our origins and place in the cosmos, as suggested by the Wheel of Heaven's narrative."
 menu:
   intro:
     parent: "take-aways"

@@ -1,7 +1,7 @@
 ---
 title: "序文"
 period: "紀元前21'810年以前"
-description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムと呼ばれる異星人文明によって知的に設計されたという仮説を探求する知識ベースです。"
+description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
 menu:
   intro:
     parent: "timeline"

@@ -1,6 +1,6 @@
 ---
 title: "インテリジェントなデザイン"
-description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+description: "The \"Intelligent Design\" chapter delves into the concept of life on Earth being the result of intentional creation by an advanced extraterrestrial civilization, as opposed to random evolutionary processes. This chapter would explore the intricacies of this theory, examining evidence and arguments that support the idea of a deliberate, intelligent force behind the development of life and human civilization. It may also address the broader implications of this perspective, challenging conventional scientific and philosophical views on evolution and the origin of life."
 menu:
   intro:
     parent: "take-aways"

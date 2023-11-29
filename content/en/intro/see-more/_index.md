@@ -1,6 +1,6 @@
 ---
 title: "See more"
-description: "This is the Introduction section of the Wheel of Heaven website which presents a captivating narrative exploring the hypothesis that an advanced extraterrestrial civilization, the Elohim, played a pivotal role in the creation and development of life on Earth. It delves into various facets of this theory, from the foundations of civilization and religious syncretism to the concept of intelligent design and a potential great awakening in human consciousness. The narrative reinterprets ancient scriptures and historical events, proposing a cosmic connection between humanity and extraterrestrial beings. Each chapter invites readers into a thought-provoking journey, challenging conventional views and encouraging exploration of humanity's cosmic origins and destiny."
+description: "Chapter 4, See More, in Wheel of Heaven, provides resources for further exploration of the site's themes. It includes an FAQ section addressing questions about the Elohim and their role in shaping life on Earth, a Knowledge Base with comprehensive resources for deeper understanding, and a Community section to connect with others interested in the topic. This chapter offers tools for engaging with the site's narrative and encourages community interaction and discussion around its central hypothesis."
 chapter: "4"
 weight: 400
 ---

@@ -10,23 +10,24 @@
     <article>
 		{{ $chapterTitle := "" }}
 		{{ if .Params.Chapter }}
-		  {{ $chapterTitle = printf "%s %s:" (i18n "chapter") .Params.Chapter }}
+		  {{ $chapterTitle = printf "%s %s —" (i18n "chapter") .Params.Chapter }}
 		{{ end }}
 		<h1>{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
 		<div>{{ .Description }}</div>
 		<div class="card-list">
 			{{ $currentSection := .CurrentSection }}
 			{{ range $currentSection.Sections }}
-				<div class="card my-3">
-					<div class="card-body">
-						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a>
-					</div>
-				</div>
+   		  {{ $chapterTitle := "" }}
+        {{ if .Params.Chapter }}
+		      {{ $chapterTitle = printf "%s %s —" (i18n "chapter") .Params.Chapter }}
+		    {{ end }}
+		    <h2>{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h2>
+        <p>{{ .Description }}</p>
 				{{ range .Pages }}
 					<div class="card my-3">
 						<div class="card-body">
 							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
-							<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
+							<p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
 							{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 							{{ partial "content/card-image-bottom.html" . }}
 						</div>
@@ -44,14 +45,14 @@
 				<div class="card my-3">
 					<div class="card-body">
 						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
-						<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
+            <p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
 						{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 						{{ partial "content/card-image-bottom.html" . }}
 					</div>
 				</div>
 			{{ end }}
 			</div>
-	
+
     </article>
   </div>
 </div>

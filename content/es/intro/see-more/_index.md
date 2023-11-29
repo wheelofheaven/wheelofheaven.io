@@ -1,6 +1,6 @@
 ---
 title: "Ver más"
-description: "Esta es la sección de introducción del sitio web Rueda del Cielo, que presenta una narrativa cautivadora que explora la hipótesis de que una civilización extraterrestre avanzada, los Elohim, jugó un papel fundamental en la creación y desarrollo de la vida en la Tierra. Profundiza en varias facetas de esta teoría, desde los fundamentos de la civilización y el sincretismo religioso hasta el concepto de diseño inteligente y un posible gran despertar de la conciencia humana. La narrativa reinterpreta las escrituras antiguas y los eventos históricos, proponiendo una conexión cósmica entre la humanidad y los seres extraterrestres. Cada capítulo invita a los lectores a un viaje provocador de pensamiento, desafiando las visiones convencionales y fomentando la exploración de los orígenes cósmicos y el destino de la humanidad."
+description: "El Capítulo 4, Ver más, en Wheel of Heaven, proporciona recursos para una exploración más profunda de los temas del sitio. Incluye una sección de preguntas frecuentes que aborda cuestiones sobre los Elohim y su papel en la configuración de la vida en la Tierra, una Base de Conocimientos con recursos exhaustivos para una comprensión más profunda, y una sección de Comunidad para conectar con otros interesados en el tema. Este capítulo ofrece herramientas para interactuar con la narrativa del sitio y fomenta la interacción y discusión comunitaria en torno a su hipótesis central."
 chapter: "4"
 weight: 400
 ---

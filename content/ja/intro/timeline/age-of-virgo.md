@@ -1,7 +1,7 @@
 ---
 title: "乙女座の時代"
 period: "紀元前13'170—紀元前11'010"
-description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒムという地球外文明によって知的に設計されたという仮説を探求する知識ベースです。"
+description: "The Age of Virgo, lasting from 13,170 to 11,010 BC, marks a significant period in the Wheel of Heaven narrative, following the Age of Libra. During this age, the focus shifts to the creation of aquatic life and birds. The process began with the creation of plankton, small and large fish, and seaweed to establish a balanced aquatic ecosystem. This development mirrors modern ecological principles. Additionally, this era saw the introduction of birds, with artists playing a key role in designing their diverse forms and vibrant colors. However, some designs were so elaborate that they impacted the birds' flight abilities. Notably, this period also included the creation of large, fearsome creatures resembling dragons, dinosaurs, and brontosaurs, acknowledging the earlier opposition to such ambitious creation plans on the scientists' home planet​​​​."
 menu:
   intro:
     parent: "timeline"

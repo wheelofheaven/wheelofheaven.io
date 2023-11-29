@@ -1,7 +1,7 @@
 ---
 title: "Âge du Sagittaire"
 period: "19'650—17'490BC"
-description: "Wheel of Heaven est une base de connaissances explorant l'hypothèse de travail selon laquelle la vie sur Terre a été intelligemment conçue par une civilisation extraterrestre, les soi-disant Élohim."
+description: "The Age of Sagittarius, spanning from 19,650 to 17,490 BC, is depicted as the second World Age following the Age of Capricorn. It begins with an advanced extraterrestrial civilization, having already confirmed Earth's potential for sustaining life, embarking on terraforming activities. This period is allegorically linked to the 'Second Day of Creation' in Genesis, where the division of 'waters above and below the firmament' is interpreted as scientific investigations between Earth's oceanic and atmospheric layers. The culmination of these activities is the creation of a continent from the ocean's seabed through controlled explosions, a significant step towards establishing a permanent presence on Earth​."
 menu:
   intro:
     parent: "timeline"

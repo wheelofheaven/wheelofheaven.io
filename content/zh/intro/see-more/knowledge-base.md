@@ -1,6 +1,6 @@
 ---
 title: "知识库"
-description: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
+description: "The \"Knowledge Base\" section on the Wheel of Heaven website is designed as a comprehensive resource for those wishing to delve deeper into the concepts, theories, and narratives presented on the site. This section probably offers a range of materials, including secondary and tertiary literature, to enhance understanding of the hypothesis of extraterrestrial influence on Earth. It may include detailed explanations, references to scientific and historical texts, and additional media resources, providing a thorough backdrop for the exploration of the site's central themes and supporting the broader intellectual journey proposed by Wheel of Heaven."
 menu:
   intro:
     parent: "see-more"

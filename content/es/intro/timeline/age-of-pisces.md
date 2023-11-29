@@ -1,7 +1,7 @@
 ---
 title: "Era de Piscis"
 period: "210 a. C.—1950"
-description: "Wheel of Heaven es una base de conocimientos que explora la hipótesis de trabajo de que la vida en la Tierra fue diseñada inteligentemente por una civilización extraterrestre, los llamados Elohim."
+description: "The Age of Pisces, spanning from 210 BC to 1950 AD, succeeded the Age of Aries and recently transitioned into the Age of Aquarius. This era is characterized by significant biblical events, notably the role of Christ, whose mission was to spread the truth of the biblical scriptures worldwide, serving as a foundation for humanity's understanding in the forthcoming age of science. The Age of Aquarius, beginning in 1945 with the development of nuclear power and information systems, symbolizes a time of increased knowledge and technological advancement, enabling humanity to reinterpret ancient wisdom through a modern lens. Additionally, the Age of Pisces included the birth of a significant child, born from a human mother and an extraterrestrial, inheriting unique telepathic abilities, as depicted in the biblical story of the birth of Jesus Christ​​​​​​​​."
 menu:
   intro:
     parent: "timeline"

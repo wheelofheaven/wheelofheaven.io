@@ -1,7 +1,7 @@
 ---
 title: "山羊座の時代"
 period: "紀元前 21'810—19'650"
-description: "山羊座の時代は、12の世界の時代のうちの1つであり、紀元前21,810年から紀元前19,650年まで続き、各世界の時代には2,160年かかりました。それは12の世界の時代の最初であり、全体の世界の時代のサイクルの始まりを示しています。年間のサイクルが1月で始まるように、山羊座の時代は全体の世界の時代のサイクルの始まりを示しています。山羊座の時代には、非地球系の文明が地球に到着し、科学的な目的で調査を始めました。地球は生命に必要な要素を備えていたため、特に水が豊富でした。"
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

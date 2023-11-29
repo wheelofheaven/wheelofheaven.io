@@ -1,7 +1,7 @@
 ---
 title: "Ère du Capricorne"
 period: "21'810—19'650 avant J.C"
-description: "L'Ère du Capricorne est l'un des douze Âges du Monde et a duré de -21'810 à -19'650 et a pris, comme chaque Âge du Monde, 2'160 ans pour se terminer. Il est considéré comme le premier Âge du Monde sur les douze Âges du Monde et marque donc le début du cycle complet des Âges du Monde, tout comme le mois de janvier marque le début du cycle annuel. C'est pendant l'Ère du Capricorne qu'une civilisation non terrestre est arrivée sur Terre et a commencé à l'étudier à des fins scientifiques car elle présentait tous les éléments nécessaires à la vie, surtout beaucoup d'eau."
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

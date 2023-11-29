@@ -1,6 +1,6 @@
 ---
 title: "At a glance"
-description: "This is the Introduction section of the Wheel of Heaven website which presents a captivating narrative exploring the hypothesis that an advanced extraterrestrial civilization, the Elohim, played a pivotal role in the creation and development of life on Earth. It delves into various facets of this theory, from the foundations of civilization and religious syncretism to the concept of intelligent design and a potential great awakening in human consciousness. The narrative reinterprets ancient scriptures and historical events, proposing a cosmic connection between humanity and extraterrestrial beings. Each chapter invites readers into a thought-provoking journey, challenging conventional views and encouraging exploration of humanity's cosmic origins and destiny."
+description: "This is the opening chapter, recommended as the starting point. It establishes the foundation for an intellectual exploration into humanity's cosmic origins and interstellar potential, setting the stage for a journey through the narrative of the Wheel of Heaven. Chapter 1 explores the hypothesis that an advanced extraterrestrial civilization, known as the Elohim, influenced the origins and development of life on Earth. It delves into the intersections of ancient beliefs, historical events, and modern scientific thought, suggesting a deep cosmic connection between humanity and extraterrestrial beings."
 chapter: "1"
 weight: 100
 ---

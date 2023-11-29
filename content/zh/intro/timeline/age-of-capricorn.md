@@ -1,7 +1,7 @@
 ---
 title: "摩羯座时代"
 period: "公元前 21'810—19'650"
-description: "摩羯座时代是十二个世界时代之一，从-21810年持续到-19650年，和每一个世界时代一样，需要2160年才能完成。它被认为是十二个世界时代中的第一个世界时代，因此标志着整个世界时代周期的开始，就像一月份标志着一年周期的开始一样。在摩羯座时代，一种非地球文明来到地球，开始出于科学目的对其进行研究，因为它拥有所有必要的生命元素，尤其是大量的水。"
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

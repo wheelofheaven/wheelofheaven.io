@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter des Steinbocks"
 period: "21'810—19'650 v. Chr."
-description: "Das Zeitalter des Steinbocks ist eines der zwölf Weltzeitalter und dauerte von -21'810 bis -19'650 und brauchte wie jedes Weltzeitalter 2'160 Jahre, um abgeschlossen zu werden. Es gilt als das erste Weltzeitalter der zwölf Weltzeitalter und markiert daher den Beginn des gesamten Zyklus der Weltzeitalter, so wie der Monat Januar den Beginn des jährlichen Zyklus markiert. Während des Zeitalters des Steinbocks kam eine nicht-terrestrische Zivilisation zur Erde und begann, sie aus wissenschaftlichen Gründen zu untersuchen, da sie alle für das Leben notwendigen Elemente aufwies, vor allem viel Wasser."
+description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
 menu:
   intro:
     parent: "timeline"

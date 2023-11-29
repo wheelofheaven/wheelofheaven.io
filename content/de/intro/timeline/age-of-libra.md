@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter der Waage"
 period: "15'330—13'170 v. Chr."
-description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent entworfen wurde."
+description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel of Heaven narrative, represents the \"Fourth Day of Creation.\" Following the establishment of plant life during the Age of Scorpio, the Age of Libra focuses on the further development and regulation of Earth's newly engineered ecosystems. The Elohim scientists utilized their understanding of celestial bodies to measure time and adapt to Earth's cycles, aiding in the design of Earth-specific flora and fauna. This period involved creating balanced ecosystems with a variety of plants, fungi, and small life forms, and understanding Earth's climate and biomes to ensure the survival and flourishing of these engineered species​​."
 menu:
   intro:
     parent: "timeline"

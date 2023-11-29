@@ -1,6 +1,6 @@
 ---
 title: "地外文明"
-description: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
+description: "The \"Extraterrestrial Civilization\" chapter synthesizes the key takeaways from the site's exploration of the hypothesis that life on Earth was engineered by the Elohim, an advanced extraterrestrial civilization. This chapter likely summarizes the journey through ancient scriptures, historical events, and scientific interpretations that support this theory. It probably aims to consolidate the insights gained from previous chapters, offering a cohesive understanding of how this extraterrestrial influence might have shaped human history and development, and what implications this has for our perception of humanity's place in the cosmos."
 menu:
   intro:
     parent: "take-aways"

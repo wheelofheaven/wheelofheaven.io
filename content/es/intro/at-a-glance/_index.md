@@ -1,6 +1,6 @@
 ---
 title: "En une palabra"
-description: "Esta es la sección de introducción del sitio web Rueda del Cielo, que presenta una narrativa cautivadora que explora la hipótesis de que una civilización extraterrestre avanzada, los Elohim, jugó un papel fundamental en la creación y desarrollo de la vida en la Tierra. Profundiza en varias facetas de esta teoría, desde los fundamentos de la civilización y el sincretismo religioso hasta el concepto de diseño inteligente y un posible gran despertar de la conciencia humana. La narrativa reinterpreta las escrituras antiguas y los eventos históricos, proponiendo una conexión cósmica entre la humanidad y los seres extraterrestres. Cada capítulo invita a los lectores a un viaje provocador de pensamiento, desafiando las visiones convencionales y fomentando la exploración de los orígenes cósmicos y el destino de la humanidad."
+description: "Este es el capítulo de apertura, recomendado como punto de partida. Establece la base para una exploración intelectual de los orígenes cósmicos y el potencial interestelar de la humanidad, preparando el escenario para un viaje a través de la narrativa de Wheel of Heaven. El Capítulo 1 explora la hipótesis de que una civilización extraterrestre avanzada, conocida como los Elohim, influyó en los orígenes y el desarrollo de la vida en la Tierra. Profundiza en las intersecciones de creencias antiguas, eventos históricos y pensamiento científico moderno, sugiriendo una profunda conexión cósmica entre la humanidad y los seres extraterrestres."
 chapter: "1"
 weight: 100
 ---

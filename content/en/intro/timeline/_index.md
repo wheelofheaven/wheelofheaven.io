@@ -1,6 +1,6 @@
 ---
 title: "Timeline"
-description: "This is the Introduction section of the Wheel of Heaven website which presents a captivating narrative exploring the hypothesis that an advanced extraterrestrial civilization, the Elohim, played a pivotal role in the creation and development of life on Earth. It delves into various facets of this theory, from the foundations of civilization and religious syncretism to the concept of intelligent design and a potential great awakening in human consciousness. The narrative reinterprets ancient scriptures and historical events, proposing a cosmic connection between humanity and extraterrestrial beings. Each chapter invites readers into a thought-provoking journey, challenging conventional views and encouraging exploration of humanity's cosmic origins and destiny."
+description: "Chapter 2, Timeline, in the Wheel of Heaven outlines a series of epochs, each corresponding to a Zodiac sign, starting from the Age of Capricorn to the Age of Aquarius. It explores the activities and influence of the Elohim, an advanced extraterrestrial civilization, throughout these ages. This journey includes their genetic experimentation, the creation of artificial life, and the shaping of Earth's ecosystems. Key biblical events are reinterpreted, suggesting a deep connection between the Elohim and humanity. The narrative weaves through historical epochs, indicating the Elohim's continuous influence on Earth and its life forms."
 chapter: "2"
 weight: 200
 ---

@@ -1,7 +1,7 @@
 ---
 title: "癌症时代"
 period: "8'850—6'690BC"
-description: "Wheel of Heaven是一个知识库，探索地球生命是否被所谓的外星文明Elohim有意识地设计的工作假设。"
+description: "The Age of Cancer, spanning from 8,850 to 6,690 BC, follows the Age of Leo in the Wheel of Heaven narrative. This era is crucial for the development of the relationship between humans and their extraterrestrial creators, the Elohim. Key events include the Elohim scientists, identified as \"the Serpent,\" defying their own government's restrictions by providing humans with advanced scientific knowledge. This act of rebellion led to their exile on Earth and created a shift in the dynamic between humans and their creators, as humans began to seek knowledge and power independently. This period represents a significant turning point in the narrative, marked by conflict and the pursuit of intellectual autonomy by humans​​​​."
 menu:
   intro:
     parent: "timeline"

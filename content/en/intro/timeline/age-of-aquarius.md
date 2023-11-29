@@ -5,7 +5,7 @@ description: "The Age of Aquarius, spanning from 1950 CE to 4110 CE, marks the c
 menu:
   intro:
     parent: "timeline"
-image: "images/futuristic-city-with-tower.png"
+image: "futuristic-city-with-tower.png"
 weight: 260
 toc: true
 ---

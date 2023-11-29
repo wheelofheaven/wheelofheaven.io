@@ -5,7 +5,7 @@ description: "The Age of Gemini, lasting from 6,690 to 4,530 BC, follows the Age
 menu:
   intro:
     parent: "timeline"
-image: "images/man-standing-on-cliff-overseeing-spacecraft.png"
+image: "man-standing-on-cliff-overseeing-spacecraft.png"
 weight: 240
 toc: true
 ---

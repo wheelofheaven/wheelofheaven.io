@@ -5,7 +5,7 @@ description: "The Preamble introduces a speculative narrative about an advanced 
 menu:
   intro:
     parent: "timeline"
-image: "images/saurian-experiments.png"
+image: "saurian-experiments.png"
 weight: 204
 toc: true
 ---

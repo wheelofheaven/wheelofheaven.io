@@ -4,7 +4,7 @@ description: "Explorez un récit captivant qui dévoile les origines de la vie s
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/monolithic-base-in-snow.png"
+image: "monolithic-base-in-snow.png"
 weight: 130
 toc: true
 translatedby: ["GPT"]

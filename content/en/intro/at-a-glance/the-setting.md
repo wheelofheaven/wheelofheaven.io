@@ -4,7 +4,7 @@ description: "The Setting of the Wheel of Heaven invites readers on a journey ex
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/archaic-blue-planet.png"
+image: "archaic-blue-planet.png"
 weight: 120
 toc: true
 ---

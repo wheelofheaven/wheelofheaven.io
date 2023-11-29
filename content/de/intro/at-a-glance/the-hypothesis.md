@@ -4,7 +4,7 @@ description: "Die Wheel of Heaven-Hypothese fordert unser Verständnis der mensc
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/spacecraft-in-orbit.png"
+image: "spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

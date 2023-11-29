@@ -5,7 +5,7 @@ description: "Wheel of Heaven是一个知识库，探索地球生命是否被所
 menu:
   intro:
     parent: "timeline"
-image: "images/antidiluvian-queen-on-throne.png"
+image: "antidiluvian-queen-on-throne.png"
 weight: 235
 toc: true
 translatedby: ["GPT"]

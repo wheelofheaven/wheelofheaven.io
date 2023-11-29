@@ -4,7 +4,7 @@ description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒム
 menu:
   intro:
     parent: "take-aways"
-image: "images/circular-city-seen-from-the-sky.png"
+image: "circular-city-seen-from-the-sky.png"
 weight: 330
 toc: true
 translatedby: ["GPT"]

@@ -4,7 +4,7 @@ description: "La hipótesis Wheel of Heaven desafía nuestra comprensión de los
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/spacecraft-in-orbit.png"
+image: "spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

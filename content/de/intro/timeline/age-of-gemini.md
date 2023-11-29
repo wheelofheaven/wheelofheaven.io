@@ -5,7 +5,7 @@ description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese un
 menu:
   intro:
     parent: "timeline"
-image: "images/man-standing-on-cliff-overseeing-spacecraft.png"
+image: "man-standing-on-cliff-overseeing-spacecraft.png"
 weight: 240
 toc: true
 translatedby: ["GPT"]

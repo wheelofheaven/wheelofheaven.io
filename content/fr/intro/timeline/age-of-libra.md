@@ -5,7 +5,7 @@ description: "Wheel of Heaven est une base de connaissances explorant l'hypothè
 menu:
   intro:
     parent: "timeline"
-image: "images/primordial-nature-two-researchers.png"
+image: "primordial-nature-two-researchers.png"
 weight: 220
 toc: true
 translatedby: ["GPT"]

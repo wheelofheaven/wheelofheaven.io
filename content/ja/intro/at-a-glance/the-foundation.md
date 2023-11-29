@@ -4,7 +4,7 @@ description: "地球上の生命の起源と私たちの宇宙との繋がりを
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/monolithic-base-in-snow.png"
+image: "monolithic-base-in-snow.png"
 weight: 130
 toc: true
 translatedby: ["GPT"]

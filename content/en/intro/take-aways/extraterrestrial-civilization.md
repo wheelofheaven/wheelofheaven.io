@@ -4,7 +4,7 @@ description: "The \"Extraterrestrial Civilization\" chapter synthesizes the key 
 menu:
   intro:
     parent: "take-aways"
-image: "images/glowing-domes-in-landscape.png"
+image: "glowing-domes-in-landscape.png"
 weight: 310
 toc: true
 ---

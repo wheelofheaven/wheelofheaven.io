@@ -4,7 +4,7 @@ description: "Wheel of Heaven est une base de connaissances explorant l'hypothè
 menu:
   intro:
     parent: "take-aways"
-image: "images/circular-city-seen-from-the-sky.png"
+image: "circular-city-seen-from-the-sky.png"
 weight: 330
 toc: true
 translatedby: ["GPT"]

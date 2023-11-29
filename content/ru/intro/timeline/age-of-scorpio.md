@@ -5,7 +5,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "timeline"
-image: "images/geodesic-structures.png"
+image: "geodesic-structures.png"
 weight: 215
 toc: true
 translatedby: ["GPT"]

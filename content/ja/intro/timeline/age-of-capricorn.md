@@ -5,7 +5,7 @@ description: "山羊座の時代は、12の世界の時代のうちの1つであ
 menu:
   intro:
     parent: "timeline"
-image: "images/blue-planet-afar.png"
+image: "blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

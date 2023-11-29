@@ -5,7 +5,7 @@ description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age 
 menu:
   intro:
     parent: "timeline"
-image: "images/two-treasure-hunters.png"
+image: "two-treasure-hunters.png"
 weight: 250
 toc: true
 ---

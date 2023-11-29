@@ -5,7 +5,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "timeline"
-image: "images/terraforming-explosions.png"
+image: "terraforming-explosions.png"
 weight: 210
 toc: true
 translatedby: ["GPT"]

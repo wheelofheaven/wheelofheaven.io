@@ -5,7 +5,7 @@ description: "Wheel of Heaven est une base de connaissances explorant l'hypothè
 menu:
   intro:
     parent: "timeline"
-image: "images/geodesic-structures.png"
+image: "geodesic-structures.png"
 weight: 215
 toc: true
 translatedby: ["GPT"]

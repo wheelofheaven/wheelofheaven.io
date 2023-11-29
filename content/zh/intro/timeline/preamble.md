@@ -5,7 +5,7 @@ description: "Wheel of Heaven是一个知识库，探讨了地球上的生命是
 menu:
   intro:
     parent: "timeline"
-image: "images/saurian-experiments.png"
+image: "saurian-experiments.png"
 weight: 204
 toc: true
 translatedby: ["GPT"]

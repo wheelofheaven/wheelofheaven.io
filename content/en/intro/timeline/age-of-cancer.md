@@ -5,7 +5,7 @@ description: "The Age of Cancer, spanning from 8,850 to 6,690 BC, follows the Ag
 menu:
   intro:
     parent: "timeline"
-image: "images/antidiluvian-queen-on-throne.png"
+image: "antidiluvian-queen-on-throne.png"
 weight: 235
 toc: true
 ---

@@ -5,7 +5,7 @@ description: "摩羯座时代是十二个世界时代之一，从-21810年持续
 menu:
   intro:
     parent: "timeline"
-image: "images/blue-planet-afar.png"
+image: "blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

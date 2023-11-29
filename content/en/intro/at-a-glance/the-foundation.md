@@ -4,7 +4,7 @@ description: "The Foundation delves into a conceptual framework that supports it
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/monolithic-base-in-snow.png"
+image: "monolithic-base-in-snow.png"
 weight: 130
 toc: true
 ---

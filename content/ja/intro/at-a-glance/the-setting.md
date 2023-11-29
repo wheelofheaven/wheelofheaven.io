@@ -4,7 +4,7 @@ description: "地球の生命の起源と私たちの宇宙との繋がりを探
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/archaic-blue-planet.png"
+image: "archaic-blue-planet.png"
 weight: 120
 toc: true
 translatedby: ["GPT"]

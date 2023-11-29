@@ -5,7 +5,7 @@ description: "Das Zeitalter des Steinbocks ist eines der zwölf Weltzeitalter un
 menu:
   intro:
     parent: "timeline"
-image: "images/blue-planet-afar.png"
+image: "blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

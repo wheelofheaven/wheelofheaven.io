@@ -5,7 +5,7 @@ description: "Wheel of Heaven是一个知识库，探索地球生命是否被所
 menu:
   intro:
     parent: "timeline"
-image: "images/futuristic-city-with-tower.png"
+image: "futuristic-city-with-tower.png"
 weight: 260
 toc: true
 translatedby: ["GPT"]

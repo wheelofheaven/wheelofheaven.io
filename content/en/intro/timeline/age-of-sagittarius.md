@@ -5,7 +5,7 @@ description: "The Age of Sagittarius, spanning from 19,650 to 17,490 BC, is depi
 menu:
   intro:
     parent: "timeline"
-image: "images/terraforming-explosions.png"
+image: "terraforming-explosions.png"
 weight: 210
 toc: true
 ---

@@ -4,7 +4,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "take-aways"
-image: "images/bird-of-paradise.png"
+image: "bird-of-paradise.png"
 weight: 320
 toc: true
 translatedby: ["GPT"]

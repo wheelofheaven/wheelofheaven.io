@@ -5,7 +5,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "timeline"
-image: "images/antidiluvian-queen-on-throne.png"
+image: "antidiluvian-queen-on-throne.png"
 weight: 235
 toc: true
 translatedby: ["GPT"]

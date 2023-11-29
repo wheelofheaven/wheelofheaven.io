@@ -4,7 +4,7 @@ description: "探索一个引人入胜的叙述，揭示地球生命的起源和
 menu:
   intro:
     parent: "at-a-glance"
-image: "images/monolithic-base-in-snow.png"
+image: "monolithic-base-in-snow.png"
 weight: 130
 toc: true
 translatedby: ["GPT"]

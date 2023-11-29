@@ -5,7 +5,7 @@ description: "The Age of Capricorn discusses the first precessional month in the
 menu:
   intro:
     parent: "timeline"
-image: "images/blue-planet-afar.png"
+image: "blue-planet-afar.png"
 weight: 205
 toc: true
 ---

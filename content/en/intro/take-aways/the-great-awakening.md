@@ -4,7 +4,7 @@ description: "The \"Great Awakening\" chapter on the Wheel of Heaven website add
 menu:
   intro:
     parent: "take-aways"
-image: "images/crowd-walking-towards-beam-earth.png"
+image: "crowd-walking-towards-beam-earth.png"
 weight: 340
 toc: true
 ---

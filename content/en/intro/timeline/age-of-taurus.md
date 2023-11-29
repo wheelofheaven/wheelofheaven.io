@@ -5,7 +5,7 @@ description: "The Age of Taurus, from 4,530 to 2,370 BC, is a significant period
 menu:
   intro:
     parent: "timeline"
-image: "images/red-colored-cityscape.png"
+image: "red-colored-cityscape.png"
 weight: 245
 toc: true
 ---

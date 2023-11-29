@@ -4,6 +4,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "at-a-glance"
+image: "sunset-man-on-hill.png"
 weight: 110
 toc: true
 translatedby: ["GPT"]

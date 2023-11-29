@@ -4,6 +4,7 @@ description: "Explora una narrativa fascinante que revela los orígenes de la vi
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/monolithic-base-in-snow.png"
 weight: 130
 toc: true
 translatedby: ["GPT"]

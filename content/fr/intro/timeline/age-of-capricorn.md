@@ -5,6 +5,7 @@ description: "L'Ère du Capricorne est l'un des douze Âges du Monde et a duré 
 menu:
   intro:
     parent: "timeline"
+image: "images/blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

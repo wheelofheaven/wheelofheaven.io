@@ -4,6 +4,7 @@ description: "Wheel of Heaven是一个知识库，探索地球生命是否被所
 menu:
   intro:
     parent: "at-a-glance"
+image: "sunset-man-on-hill.png"
 weight: 110
 toc: true
 translatedby: ["GPT"]

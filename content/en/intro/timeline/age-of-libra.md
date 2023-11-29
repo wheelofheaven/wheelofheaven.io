@@ -5,6 +5,7 @@ description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel o
 menu:
   intro:
     parent: "timeline"
+image: "images/primordial-nature-two-researchers.png"
 weight: 220
 toc: true
 ---

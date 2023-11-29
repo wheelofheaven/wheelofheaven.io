@@ -4,6 +4,7 @@ description: "The Hypothesis elaborates on a theory deeply influenced by the Ra√
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/spacecraft-in-orbit.png"
 weight: 140
 toc: true
 ---

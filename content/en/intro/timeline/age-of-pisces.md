@@ -5,6 +5,7 @@ description: "The Age of Pisces, spanning from 210 BC to 1950 AD, succeeded the 
 menu:
   intro:
     parent: "timeline"
+image: "images/man-standing-on-plaza.png"
 weight: 255
 toc: true
 ---

@@ -5,6 +5,7 @@ description: "Wheel of Heaven es una base de conocimientos que explora la hipót
 menu:
   intro:
     parent: "timeline"
+image: "images/red-colored-cityscape.png"
 weight: 245
 toc: true
 translatedby: ["GPT"]

@@ -4,6 +4,7 @@ description: "Wheel of Heaven est une base de connaissances explorant l'hypothè
 menu:
   intro:
     parent: "take-aways"
+image: "images/crowd-walking-towards-beam-earth.png"
 weight: 340
 toc: true
 translatedby: ["GPT"]

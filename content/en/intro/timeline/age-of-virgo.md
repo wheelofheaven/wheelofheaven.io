@@ -5,6 +5,7 @@ description: "The Age of Virgo, lasting from 13,170 to 11,010 BC, marks a signif
 menu:
   intro:
     parent: "timeline"
+image: "images/dinosaurs-on-plain.png"
 weight: 225
 toc: true
 ---

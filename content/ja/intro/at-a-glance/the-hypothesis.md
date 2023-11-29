@@ -4,6 +4,7 @@ description: "Wheel of Heavenの仮説は、人類の起源に対する理解を
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

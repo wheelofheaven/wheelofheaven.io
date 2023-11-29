@@ -4,6 +4,7 @@ description: "The \"Intelligent Design\" chapter delves into the concept of life
 menu:
   intro:
     parent: "take-aways"
+image: "images/bird-of-paradise.png"
 weight: 320
 toc: true
 ---

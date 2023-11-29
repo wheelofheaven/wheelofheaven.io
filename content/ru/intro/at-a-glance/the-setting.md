@@ -4,6 +4,7 @@ description: "Отправьтесь в задумчивое путешеств�
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/archaic-blue-planet.png"
 weight: 120
 toc: true
 translatedby: ["GPT"]

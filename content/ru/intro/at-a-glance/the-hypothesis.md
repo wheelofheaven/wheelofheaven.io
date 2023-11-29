@@ -4,6 +4,7 @@ description: "Гипотеза Wheel of Heaven вызывает сомнения
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

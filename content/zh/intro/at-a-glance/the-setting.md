@@ -4,6 +4,7 @@ description: "踏上思考激荡的旅程，探索地球生命的起源和我们
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/archaic-blue-planet.png"
 weight: 120
 toc: true
 translatedby: ["GPT"]

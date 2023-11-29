@@ -4,6 +4,7 @@ description: "La hypothèse Wheel of Heaven remet en question notre compréhensi
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

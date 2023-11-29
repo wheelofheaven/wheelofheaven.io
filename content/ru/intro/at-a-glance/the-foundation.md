@@ -4,6 +4,7 @@ description: "Исследуйте увлекательную повествов
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/monolithic-base-in-snow.png"
 weight: 130
 toc: true
 translatedby: ["GPT"]

@@ -4,6 +4,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "take-aways"
+image: "images/glowing-domes-in-landscape.png"
 weight: 310
 toc: true
 translatedby: ["GPT"]

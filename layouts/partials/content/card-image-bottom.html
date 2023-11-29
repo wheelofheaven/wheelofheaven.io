@@ -1,0 +1,24 @@
+{{ $image := "" }}
+{{ with .Params.image }}
+  {{ $imageResource := resources.Get (printf "images/%s" .) }}
+  {{ if $imageResource }}
+    {{ $image = $imageResource }}
+  {{ else }}
+    {{ $image = resources.Get (printf "images/%s" site.Params.defaultImage) }}
+  {{ end }}
+{{ else }}
+  {{ $image = resources.Get (printf "images/%s" site.Params.defaultImage) }}
+{{ end }}
+
+{{ if $image }}
+  {{ $webp := printf "%s%s" ($.Scratch.Get "fillImageCard" | default "1270x620 Center") " webp" }}
+  {{ $image = $image.Resize $webp }}
+  {{ $lqip := $image.Resize (site.Params.lqipWidth | default "100x") }}
+
+  <img class="card-img-top img-fluid lazyload blur-up card-img-bottom"
+       src="{{ $lqip.Permalink }}"
+       data-src="{{ $image.Permalink }}"
+       width="{{ $image.Width }}"
+       height="{{ $image.Height }}"
+       alt="{{ $.Title | default "Image" }}">
+{{ end }}

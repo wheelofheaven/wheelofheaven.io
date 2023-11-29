@@ -24,8 +24,9 @@
 					<div class="card my-3">
 						<div class="card-body">
 							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
-							<p class="card-subtitle">{{ .Description }}</p>
-							<p class="card-text">{{ .Content | plainify | htmlUnescape | truncate 600 }}</p>
+							<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
+							{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
+							{{ partial "content/card-image-bottom.html" . }}
 						</div>
 					</div>
 				{{ end }}
@@ -41,8 +42,9 @@
 				<div class="card my-3">
 					<div class="card-body">
 						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Title | title }} &rarr;</a></b>
-						<p class="card-subtitle">{{ .Description }}</p>
-						<p class="card-text">{{ .Content | truncate 600 }}</p>
+						<p class="card-text">{{ .Description | plainify | htmlUnescape | truncate 600 }}</p>
+						{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
+						{{ partial "content/card-image-bottom.html" . }}
 					</div>
 				</div>
 			{{ end }}

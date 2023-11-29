@@ -4,6 +4,7 @@ description: "Begib dich auf eine nachdenkliche Reise und erkunde die Ursprünge
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/archaic-blue-planet.png"
 weight: 120
 toc: true
 translatedby: ["GPT"]

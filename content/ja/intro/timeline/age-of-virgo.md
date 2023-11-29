@@ -5,6 +5,7 @@ description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒム
 menu:
   intro:
     parent: "timeline"
+image: "images/dinosaurs-on-plain.png"
 weight: 225
 toc: true
 translatedby: ["GPT"]

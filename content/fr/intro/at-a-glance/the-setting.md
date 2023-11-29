@@ -4,6 +4,7 @@ description: "Embarquez pour un voyage stimulant et explorez les origines de la 
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/archaic-blue-planet.png"
 weight: 120
 toc: true
 translatedby: ["GPT"]

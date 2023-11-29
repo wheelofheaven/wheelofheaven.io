@@ -5,6 +5,7 @@ description: "Wheel of Heavenは、地球上の生命がいわゆるエロヒム
 menu:
   intro:
     parent: "timeline"
+image: "images/antidiluvian-queen-on-throne.png"
 weight: 235
 toc: true
 translatedby: ["GPT"]

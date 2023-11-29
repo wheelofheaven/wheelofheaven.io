@@ -5,6 +5,7 @@ description: "La Era de Capricornio es una de las doce Eras del Mundo y duró de
 menu:
   intro:
     parent: "timeline"
+image: "images/blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

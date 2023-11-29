@@ -5,6 +5,7 @@ description: "Wheel of Heaven ist eine Wissensbasis, die die Arbeitshypothese un
 menu:
   intro:
     parent: "timeline"
+image: "images/saurian-experiments.png"
 weight: 204
 toc: true
 translatedby: ["GPT"]

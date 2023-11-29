@@ -5,6 +5,7 @@ description: "The Age of Scorpio, lasting from 17,490 to 15,330 BC, represents t
 menu:
   intro:
     parent: "timeline"
+image: "images/geodesic-structures.png"
 weight: 215
 toc: true
 ---

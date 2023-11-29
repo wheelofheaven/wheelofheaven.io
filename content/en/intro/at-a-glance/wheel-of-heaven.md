@@ -4,6 +4,7 @@ description: "The \"Wheel of Heaven\" introduction page sets the stage for a tho
 menu:
   intro:
     parent: "at-a-glance"
+image: "sunset-man-on-hill.png"
 weight: 110
 toc: true
 ---

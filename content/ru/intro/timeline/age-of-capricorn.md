@@ -6,6 +6,7 @@ description: "Wheel of Heaven - это база знаний, исследующ
 menu:
   intro:
     parent: "timeline"
+image: "images/blue-planet-afar.png"
 weight: 205
 toc: true
 translatedby: ["GPT"]

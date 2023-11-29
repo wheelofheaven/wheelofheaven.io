@@ -4,6 +4,7 @@ description: "Wheel of Heaven的假设不仅扩展了我们对人类起源的理
 menu:
   intro:
     parent: "at-a-glance"
+image: "images/spacecraft-in-orbit.png"
 weight: 140
 toc: true
 translatedby: ["GPT"]

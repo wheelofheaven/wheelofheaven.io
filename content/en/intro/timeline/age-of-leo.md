@@ -5,6 +5,7 @@ description: "The Age of Leo, spanning from 11,010 to 8,850 BC, follows the Age 
 menu:
   intro:
     parent: "timeline"
+image: "images/human-genesis.png"
 weight: 230
 toc: true
 ---

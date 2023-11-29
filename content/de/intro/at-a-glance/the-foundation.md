@@ -1,6 +1,6 @@
 ---
 title: "Das Fundament"
-description: "Entdecken Sie eine fesselnde Erzählung, die die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen aufdeckt. Tauchen Sie ein in die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung, während wir über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachdenken."
+description: "Das Fundament vertieft sich in einen konzeptionellen Rahmen, der seine Erzählung über die Ursprünge des Lebens auf der Erde unterstützt. Es präsentiert einen Standpunkt des kosmischen Pluralismus und deutet darauf hin, dass das riesige Universum wahrscheinlich reich an bewusstem Leben ist, möglicherweise in der Nähe der Erde. Dieser Abschnitt untermauert die Erzählung, dass bewusstes Leben auf der Erde Teil einer breiteren interstellaren Kette von Zivilisationen ist und bietet eine kohärente Grundlage für die große Erzählung der Website und die Erforschung der kosmischen Verbindungen der Menschheit."
 menu:
   intro:
     parent: "at-a-glance"

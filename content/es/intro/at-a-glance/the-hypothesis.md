@@ -1,6 +1,6 @@
 ---
 title: "La Hipótesis"
-description: "La hipótesis Wheel of Heaven desafía nuestra comprensión de los orígenes humanos e invita a considerar las profundas implicaciones de nuestras conexiones extraterrestres potenciales. Al explorar el papel de los Elohim en la creación de vida en la Tierra, nos adentramos en la intersección de la ciencia, la espiritualidad y nuestro lugar en el cosmos. Esta hipótesis también abre nuevas vías de exploración, como examinar textos religiosos antiguos y mitologías en el contexto de los contactos extraterrestres. Nos lleva a reflexionar sobre las consecuencias de nuestros orígenes cósmicos en el futuro de la exploración espacial, la ética y las interacciones con civilizaciones extraterrestres."
+description: "La Hipótesis elabora una teoría profundamente influenciada por las revelaciones raelianas. Explora la idea de que una civilización extraterrestre avanzada, conocida como los Elohim, jugó un papel crucial en la creación de la vida en la Tierra. El sitio propone una interpretación matizada de estos mensajes raelianos, considerándolos en el contexto de nuestro mundo en evolución. Esta hipótesis forma la columna vertebral de la narrativa del sitio y sustenta su exploración de los orígenes y el lugar de la humanidad en el universo."
 menu:
   intro:
     parent: "at-a-glance"

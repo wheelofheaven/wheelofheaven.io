@@ -1,6 +1,6 @@
 ---
-title: "El Contexto"
-description: "Embárcate en un viaje lleno de reflexiones y explora los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Este cautivador artículo nos lleva a través de los conceptos del pluralismo cósmico, la sabiduría ancestral, los seres celestiales y la procreación interestelar, invitándonos a contemplar el futuro potencial de la humanidad como una civilización viajera del espacio. Descubre la narrativa impresionante que revela nuestra herencia cósmica y despierta nuestra imaginación en medio de la inmensidad del universo."
+title: "El Marco"
+description: "El marco de \"Wheel of Heaven\" invita a los lectores a un viaje que explora los fundamentos de la civilización, la historia y los eventos cruciales que han dado forma a nuestro mundo. Fomenta un enfoque de mente abierta para comprender la hipótesis del sitio, sugiriendo una experiencia transformadora o iluminadora para aquellos que se sumerjan en su contenido. Esta sección sienta las bases para la exploración de narrativas antiguas, interpretaciones modernas y consultas científicas, con el objetivo de ampliar las perspectivas sobre los orígenes y el lugar de la humanidad en el universo."
 menu:
   intro:
     parent: "at-a-glance"

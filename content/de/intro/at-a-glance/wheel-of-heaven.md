@@ -1,6 +1,6 @@
 ---
 title: "Wheel of Heaven 🌌"
-description: "Wheel of Heaven ist eine Knowledge Base, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von einer außerirdischen Zivilisation, den sogenannten Elohim, intelligent kreiiert wurde."
+description: "Die Einführungsseite \"Wheel of Heaven\" bereitet den Boden für eine zum Nachdenken anregende Erkundung der Ursprünge des Lebens auf der Erde, beeinflusst von den Offenbarungen der Raelianer. Sie präsentiert die Hypothese, dass das Leben von einer fortgeschrittenen außerirdischen Zivilisation, den Elohim, erschaffen wurde. Diese faszinierende Prämisse dient als Tor zu einer großen Erzählung, die die Grundlagen der Zivilisation, wichtige historische Ereignisse und die Entwicklung des menschlichen Verständnisses durchquert. Sie lädt die Leser ein, sich auf eine intellektuelle Reise zu begeben, alte Schriften und historische Geheimnisse durch die Linse moderner wissenschaftlicher Erkenntnisse und kosmischen Pluralismus neu zu betrachten. Dieses Kapitel ist der Beginn einer umfassenden Erkundung der möglichen interstellaren Verbindungen und des kosmischen Schicksals der Menschheit."
 menu:
   intro:
     parent: "at-a-glance"

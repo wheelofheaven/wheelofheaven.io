@@ -1,6 +1,6 @@
 ---
-title: "La Fondation"
-description: "Explorez un récit captivant qui dévoile les origines de la vie sur Terre et nos liens cosmiques. Plongez dans les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, tandis que nous contemplons le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace."
+title: "Les Fondations"
+description: "Les Fondations plongent dans un cadre conceptuel qui soutient son récit sur les origines de la vie sur Terre. Il présente un point de vue de pluralisme cosmique, suggérant que l'immense univers abrite probablement une vie consciente abondante, possiblement à proximité de la Terre. Cette section sous-tend le récit que la vie consciente sur Terre fait partie d'une chaîne interstellaire plus large de civilisations, fournissant une base cohérente pour le grand récit du site et l'exploration des connexions cosmiques de l'humanité."
 menu:
   intro:
     parent: "at-a-glance"

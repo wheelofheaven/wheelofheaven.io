@@ -1,6 +1,6 @@
 ---
 title: "Das Szenario"
-description: "Begib dich auf eine nachdenkliche Reise und erkunde die Ursprünge des Lebens auf der Erde und unsere kosmischen Verbindungen. Dieser fesselnde Artikel führt uns durch die Konzepte des kosmischen Pluralismus, des ancestralischen Wissens, der himmlischen Wesen und der interstellaren Fortpflanzung und lädt uns ein, über die mögliche Zukunft der Menschheit als weltraumreisende Zivilisation nachzudenken. Entdecke die beeindruckende Erzählung, die unser kosmisches Erbe enthüllt und unsere Fantasie inmitten der Weite des Universums entfacht."
+description: "Das Szenario von \"Wheel of Heaven\" lädt die Leser ein, sich auf eine Reise zu begeben, die die Grundlagen der Zivilisation, Geschichte und entscheidende Ereignisse, die unsere Welt geprägt haben, erforscht. Es fördert einen offenen Ansatz zum Verständnis der Hypothese der Website, was auf ein transformatives oder erleuchtendes Erlebnis für diejenigen hindeutet, die sich auf ihren Inhalt einlassen. Dieser Abschnitt bereitet die Bühne für die Erkundung alter Erzählungen, moderner Interpretationen und wissenschaftlicher Untersuchungen und zielt darauf ab, die Perspektiven auf die Ursprünge und den Platz der Menschheit im Universum zu erweitern."
 menu:
   intro:
     parent: "at-a-glance"

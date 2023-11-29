@@ -1,6 +1,6 @@
 ---
-title: "Le Contexte"
-description: "Embarquez pour un voyage stimulant et explorez les origines de la vie sur Terre et nos connexions cosmiques. Cet article captivant nous emmène à travers les concepts du pluralisme cosmique, de la sagesse ancestrale, des êtres célestes et de la procréation interstellaire, nous invitant à contempler le futur potentiel de l'humanité en tant que civilisation voyageant dans l'espace. Découvrez la récit impressionnante qui dévoile notre héritage cosmique et stimule notre imagination au milieu de l'immensité de l'univers."
+title: "Le Cadre"
+description: "Le cadre de \"Wheel of Heaven\" invite les lecteurs à un voyage explorant les fondements de la civilisation, l'histoire et les événements cruciaux qui ont façonné notre monde. Il encourage une approche ouverte pour comprendre l'hypothèse du site, suggérant une expérience transformatrice ou éclairante pour ceux qui se plongent dans son contenu. Cette section pose les bases pour l'exploration de récits anciens, d'interprétations modernes et d'enquêtes scientifiques, visant à élargir les perspectives sur les origines et la place de l'humanité dans l'univers."
 menu:
   intro:
     parent: "at-a-glance"

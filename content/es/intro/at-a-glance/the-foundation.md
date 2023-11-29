@@ -1,6 +1,6 @@
 ---
-title: "La Fundación"
-description: "Explora una narrativa fascinante que revela los orígenes de la vida en la Tierra y nuestras conexiones cósmicas. Adéntrate en los conceptos de pluralismo cósmico, sabiduría ancestral, seres celestiales y procreación interestelar, mientras contemplamos el futuro potencial de la humanidad como una civilización capaz de viajar por el espacio."
+title: "Los Fundamentos"
+description: "Los Fundamentos profundizan en un marco conceptual que respalda su narrativa sobre los orígenes de la vida en la Tierra. Presenta un punto de vista de pluralismo cósmico, sugiriendo que el vasto universo probablemente alberga abundante vida consciente, posiblemente en proximidad a la Tierra. Esta sección sustenta la narrativa de que la vida consciente en la Tierra es parte de una cadena interstelar más amplia de civilizaciones, proporcionando una base coherente para la gran narrativa del sitio y la exploración de las conexiones cósmicas de la humanidad."
 menu:
   intro:
     parent: "at-a-glance"

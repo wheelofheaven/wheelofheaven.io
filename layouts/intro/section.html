@@ -42,6 +42,7 @@
 				</div>
 			{{ end }}
 			{{ range $currentSection.Pages }}
+        {{ if not (in (slice "1" "2" "3" "4") .Params.Chapter) }}
 				<div class="card my-3">
 					<div class="card-body">
 						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
@@ -50,6 +51,7 @@
 						{{ partial "content/card-image-bottom.html" . }}
 					</div>
 				</div>
+        {{ end }}
 			{{ end }}
 			</div>
 

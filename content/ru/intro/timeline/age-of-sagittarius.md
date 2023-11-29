@@ -5,7 +5,7 @@ description: "The Age of Sagittarius, spanning from 19,650 to 17,490 BC, is depi
 menu:
   intro:
     parent: "timeline"
-image: "terraforming-explosions.png"
+image: "barren-lands-outpost.png"
 chapter: "2.3"
 weight: 210
 toc: true

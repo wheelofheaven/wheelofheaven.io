@@ -4,7 +4,7 @@ description: "《Wheel of Heaven》的介绍页面为探索地球生命起源的
 menu:
   intro:
     parent: "at-a-glance"
-image: "sunset-man-on-hill.png"
+image: "dome-in-tranquil-valley.png"
 chapter: "1.1"
 weight: 110
 toc: true

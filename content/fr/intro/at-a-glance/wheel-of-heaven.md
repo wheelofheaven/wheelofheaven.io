@@ -4,7 +4,7 @@ description: "La page d'introduction de \"Wheel of Heaven\" prépare le terrain 
 menu:
   intro:
     parent: "at-a-glance"
-image: "sunset-man-on-hill.png"
+image: "dome-in-tranquil-valley.png"
 chapter: "1.1"
 weight: 110
 toc: true

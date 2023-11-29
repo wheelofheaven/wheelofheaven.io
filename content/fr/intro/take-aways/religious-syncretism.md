@@ -4,7 +4,7 @@ description: "The \"Religious Syncretism\" chapter on the Wheel of Heaven websit
 menu:
   intro:
     parent: "take-aways"
-image: "circular-city-seen-from-the-sky.png"
+image: "two-people-on-hill-at-sunrise.png"
 chapter: "3.3"
 weight: 330
 toc: true

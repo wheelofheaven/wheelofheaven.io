@@ -4,6 +4,8 @@ description: "The \"Knowledge Base\" section on the Wheel of Heaven website is d
 menu:
   intro:
     parent: "see-more"
+image: "orbiting-spheres-above-fountain.png"
+
 chapter: "4.2"
 weight: 410
 toc: true

@@ -7,7 +7,7 @@ follow_url: "https://www.sefaria.org/texts"
 menu:
   resources:
     parent: "browse"
-medium: ["Web resource"]
+medium: ["ウェブリソース"]
 medium_icon: "web-resource"
 topics: ["Bible", "Genesis", "Reference work", "Religion", "Theology"]
 ---

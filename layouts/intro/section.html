@@ -12,7 +12,7 @@
 		{{ if .Params.Chapter }}
 		  {{ $chapterTitle = printf "%s %s —" (i18n "chapter") .Params.Chapter }}
 		{{ end }}
-		<h1>{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
+		<h1>{{ $chapterTitle }} {{ .Title }}</h1>
 		<div>{{ .Description }}</div>
 		<div class="card-list">
 			{{ $currentSection := .CurrentSection }}
@@ -21,7 +21,7 @@
         {{ if .Params.Chapter }}
 		      {{ $chapterTitle = printf "%s %s —" (i18n "chapter") .Params.Chapter }}
 		    {{ end }}
-		    <h2>{{ $chapterTitle }} {{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h2>
+		    <h2>{{ $chapterTitle }} {{ .Title }}</h2>
         <p>{{ .Description }}</p>
 				{{ range .Pages }}
 					<div class="card my-3">

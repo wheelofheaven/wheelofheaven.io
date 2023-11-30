@@ -7,7 +7,7 @@ follow_url: "https://grahamhancock.com/fingerprints/"
 menu:
   resources:
     parent: "browse"
-medium: ["Nonfiction book"]
+medium: ["Научно-популярная книга"]
 medium_icon: "nonfiction-book"
 topics: ["Age of Aquarius", "Ancient Builders", "Archeoastronomy", "Cataclysm",  "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---

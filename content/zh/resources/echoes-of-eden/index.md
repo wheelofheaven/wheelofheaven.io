@@ -7,7 +7,7 @@ follow_url: "https://paulanthonywallis.com/2016/10/12/echoes-of-eden/"
 menu:
   resources:
     parent: "browse"
-medium: ["Nonfiction book"]
+medium: ["非小说类书籍"]
 medium_icon: "nonfiction-book"
 topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---

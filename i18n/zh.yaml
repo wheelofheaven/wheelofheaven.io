@@ -25,8 +25,14 @@
 - id: edit-page-on
   translation: "在GitHub上编辑此页面"
 
+- id: home
+  translation: "主页"
+
 - id: see-more
   translation: "看这里"
+
+- id: all-resources
+  translation: "所有资源"
 
 - id: alternative-names
   translation: "替代名称："
@@ -37,8 +43,14 @@
 - id: translated-by
   translation: "翻译者"
 
+- id: medium
+  translation: "媒体类型"
+
 - id: not-translated
   translation: "未翻译"
+
+- id: topics
+  translation: "主题"
 
 - id: translation-rate
   translation: "翻译率"

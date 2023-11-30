@@ -7,7 +7,7 @@ follow_url: "https://pillar-of-enoch.com"
 menu:
   resources:
     parent: "browse"
-medium: ["Web project"]
+medium: ["Веб-проект"]
 medium_icon: "web-project"
 topics: ["Gospel in the Stars", "Mazzaroth", "Mythology", "The Tradition", "Precession"]
 ---

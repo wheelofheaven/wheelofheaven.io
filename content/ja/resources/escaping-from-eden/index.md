@@ -7,7 +7,7 @@ follow_url: "https://paulanthonywallis.com/2016/10/12/blog-post-title-2/"
 menu:
   resources:
     parent: "browse"
-medium: ["Nonfiction book"]
+medium: ["ノンフィクションの本"]
 medium_icon: "nonfiction-book"
 topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---

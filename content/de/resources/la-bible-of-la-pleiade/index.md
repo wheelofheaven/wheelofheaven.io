@@ -8,7 +8,7 @@ follow_url: "https://www.la-pleiade.fr/Catalogue/GALLIMARD/Bibliotheque-de-la-Pl
 menu:
   resources:
     parent: "browse"
-medium: ["Religious text"]
+medium: ["Religiöser Text"]
 medium_icon: "religious-text"
 topics: ["Bible", "Elohim", "Theology"]
 ---

@@ -25,8 +25,14 @@
 - id: edit-page-on
   translation: "Отредактировать эту страницу на GitHub"
 
+- id: home
+  translation: "Домашняя страница"
+
 - id: see-here
   translation: "Глянь сюда"
+
+- id: all-resources
+  translation: ""
 
 - id: alternative-names
   translation: "Альтернативные названия:"
@@ -37,8 +43,14 @@
 - id: translated-by
   translation: "Переведено"
 
+- id: medium
+  translation: "Тип носителя"
+
 - id: not-translated
   translation: "Не переведено"
+
+- id: topics
+  translation: "Темы"
 
 - id: translation-rate
   translation: "Уровень перевода"

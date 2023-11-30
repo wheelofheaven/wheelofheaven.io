@@ -7,7 +7,7 @@ follow_url: "https://www.sup.org/zohar/"
 menu:
   resources:
     parent: "browse"
-medium: ["Religious text"]
+medium: ["宗教的テキスト"]
 medium_icon: "religious-text"
 topics: ["Bible", "Kabbalah", "Reference work", "The Tradition"]
 ---

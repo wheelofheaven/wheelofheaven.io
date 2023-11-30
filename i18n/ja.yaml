@@ -25,8 +25,14 @@
 - id: edit-page-on
   translation: "このページをGitHubで編集する"
 
+- id: home
+  translation: "ホームページ"
+
 - id: see-here
   translation: "ここを参照"
+
+- id: all-resources
+  translation: "すべてのリソース"
 
 - id: alternative-names
   translation: "別名:"
@@ -37,8 +43,14 @@
 - id: translated-by
   translation: "翻訳者"
 
+- id: medium
+  translation: "メディアタイプ"
+
 - id: not-translated
   translation: "未翻訳"
+
+- id: topics
+  translation: "トピック"
 
 - id: translation-rate
   translation: "翻訳率"

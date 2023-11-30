@@ -25,8 +25,14 @@
 - id: edit-page-on
   translation: "Modifier cette page sur GitHub"
 
+- id: home
+  translation: "Page d'accueil"
+
 - id: see-here
   translation: "Vois ici"
+
+- id: all-resources
+  translation: "Toutes les ressources"
 
 - id: alternative-names
   translation: "Noms alternatifs:"
@@ -37,8 +43,14 @@
 - id: translated-by
   translation: "Traduit par"
 
+- id: medium
+  translation: "Type de support"
+
 - id: not-translated
   translation: "Non traduit"
+
+- id: topics
+  translation: "Sujets"
 
 - id: translation-rate
   translation: "Taux de traduction"

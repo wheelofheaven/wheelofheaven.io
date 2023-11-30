@@ -8,7 +8,7 @@ follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["Canonical text"]
+medium: ["標準テキスト"]
 medium_icon: "canonical-text"
 topics: ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism", "Religion", "Syncretism"]
 ---

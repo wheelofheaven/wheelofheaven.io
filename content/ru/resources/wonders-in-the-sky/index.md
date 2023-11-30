@@ -7,7 +7,7 @@ follow_url: "https://www.penguinrandomhouse.com/books/307260/wonders-in-the-sky-
 menu:
   resources:
     parent: "browse"
-medium: ["Nonfiction book"]
+medium: ["Научно-популярная книга"]
 medium_icon: "nonfiction-book"
 topics: ["Ancient Astronauts", "Mythology", "Reference work", "Religion", "The Tradition"]
 ---

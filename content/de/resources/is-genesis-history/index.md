@@ -7,7 +7,7 @@ follow_url: "https://isgenesishistory.com/"
 menu:
   resources:
     parent: "browse"
-medium: ["Documentary film"]
+medium: ["Dokumentarfilm"]
 medium_icon: "documentary-film"
 topics: ["Bible", "Creationism", "Flood geology", "History of science", "Genesis", "Intelligent Design", "Religion"]
 ---
@@ -24,7 +24,7 @@ Many of the scientists and scholars featured in the film view Genesis as key to 
 
 ### Synopsis
 
-"Is Genesis History?" is a documentary film that delves into the debate between traditional scientific theories about the origins of the universe, Earth, and life, and the Young Earth creationism perspective, which interprets the Genesis account of creation as literal historical fact. The film is structured around a series of interviews and explorations conducted by Dr. Del Tackett, the creator of "The Truth Project." Tackett travels to various locations, including landscapes like canyons, mountains, and underwater environments, to investigate and present evidence that supports the Young Earth creationist viewpoint.
+"Is Genesis History?" is a Dokumentarfilm that delves into the debate between traditional scientific theories about the origins of the universe, Earth, and life, and the Young Earth creationism perspective, which interprets the Genesis account of creation as literal historical fact. The film is structured around a series of interviews and explorations conducted by Dr. Del Tackett, the creator of "The Truth Project." Tackett travels to various locations, including landscapes like canyons, mountains, and underwater environments, to investigate and present evidence that supports the Young Earth creationist viewpoint.
 
 The film features over a dozen scientists and scholars from various fields who argue in favor of the creationist interpretation. These experts discuss a wide range of topics to support their views:
 

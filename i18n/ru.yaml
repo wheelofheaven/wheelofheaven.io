@@ -52,6 +52,9 @@
 - id: not-translated
   translation: "Не переведено"
 
+- id: original-title
+  translation: "Арыгінальная назва:"
+
 - id: topics
   translation: "Темы"
 

@@ -6,7 +6,7 @@
 		</nav>
 	</div>
 	<main class="docs-content col-lg-11 mx-xl-auto">
-    <h2>Resource with {{ .Title }} {{ .Data.Singular }}</h2>
+    <h2>{{ i18n "topics" }} : {{ .Title }}</h2>
 		<div class="row row-cols-1 row-cols-md-1 g-5">
 			{{ range .Data.Pages.ByWeight.Reverse -}}
 				<div class="col">

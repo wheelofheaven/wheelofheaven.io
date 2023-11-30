@@ -36,7 +36,7 @@
         {{ end -}}
 
         {{ if .Params.authored_by -}}
-        — by
+        — {{ i18n "authored-by" }}
         {{ range $index, $author := .Params.authored_by }}
         {{ if gt $index 0 }}, {{ end }}
           {{ . }}
@@ -50,7 +50,7 @@
         <br>
 			{{ partial "main/headline-hash.html" .Content }}
 			{{ if .Params.topics -}}
-				<h3>Topics</h3>
+				<h3>{{ i18n "topics" }}</h3>
         {{ range $index, $tag := .Params.topics -}}
         {{ $langPrefix := "" }}
         {{ if ne $.Site.Language.Lang "en" }}

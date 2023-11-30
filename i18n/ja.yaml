@@ -52,6 +52,9 @@
 - id: not-translated
   translation: "未翻訳"
 
+- id: original-title
+  translation: "原題:"
+
 - id: topics
   translation: "トピック"
 

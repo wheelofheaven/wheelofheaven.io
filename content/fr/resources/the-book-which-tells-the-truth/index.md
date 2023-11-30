@@ -1,7 +1,6 @@
 ---
-title: "The Book Which Tells The Truth"
-original_title: "Le Livre qui dit la Vérité"
-description: "\"The Book Which Tells the Truth\" by Claude Vorilhon, known as Raël, is the foundational text of the Raëlian Movement. In this book, Raël recounts his encounters with extraterrestrial beings, referred to as the Elohim. He claims these beings revealed that life on Earth was created through their genetic engineering. Raël posits that humans are made in the Elohim's image and that they oversee and guide humanity's development. The book articulates Raël's views on the nature of reality and life's purpose, advocating the belief that humans have a divine origin and are destined to evolve and become like the Elohim through scientific and technological advancements. Raël also foresees a future where the Elohim return to usher in an era of peace and enlightenment."
+title: "Le Livre Qui Dit la Vérité"
+description: "\"Le Livre Qui Dit la Vérité\" par Claude Vorilhon, connu sous le nom de Raël, est le texte fondateur du Mouvement Raëlien. Dans ce livre, Raël raconte ses rencontres avec des êtres extraterrestres, appelés les Elohim. Il affirme que ces êtres ont révélé que la vie sur Terre a été créée grâce à leur ingénierie génétique. Raël soutient que les humains sont créés à l'image des Elohim et qu'ils supervisent et guident le développement de l'humanité. Le livre articule les vues de Raël sur la nature de la réalité et le but de la vie, prônant la croyance que les humains ont une origine divine et sont destinés à évoluer et à devenir comme les Elohim grâce aux avancées scientifiques et technologiques. Raël prévoit également un futur où les Elohim reviendront pour inaugurer une ère de paix et d'illumination."
 authored_by: ["Raël"]
 publish_date: 1973
 follow_url: "https://www.rael.org/downloads/"
@@ -10,26 +9,26 @@ menu:
     parent: "browse"
 medium: ["Texte canonique"]
 medium_icon: "canonical-text"
-topics: ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Religion", "Syncretism"]
+topics: ["Ère du Verseau", "Anciens Astronautes", "Canonique", "Conception Intelligente", "Elohim", "Néo-Euhémérisme", "Religion", "Syncrétisme"]
 ---
 
-"The Book Which Tells the Truth" is a book written by Claude Vorilhon, also known as Raël, the founder of the Raëlian Movement. The book details Raël's claims of encounters with extraterrestrial beings and presents his beliefs and teachings. According to Raël, the extraterrestrial beings he encountered revealed to him that life on Earth was created through genetic engineering by a highly advanced civilization of extraterrestrial beings, who he refers to as the Elohim. Raël claims that the Elohim created humans in their own image, and that they continue to observe and guide humanity's development. The book presents Raël's beliefs about the nature of reality and the purpose of life. He argues that humans have a divine origin, and that our purpose is to evolve and eventually become like the Elohim, through the development of science and technology. Raël also teaches that the Elohim will return one day to bring about a new era of peace and enlightenment for humanity.
+"Le Livre Qui Dit la Vérité" est un livre écrit par Claude Vorilhon, également connu sous le nom de Raël, le fondateur du Mouvement Raëlien. Le livre détaille les affirmations de Raël concernant ses rencontres avec des êtres extraterrestres et présente ses croyances et enseignements. Selon Raël, les êtres extraterrestres qu'il a rencontrés lui ont révélé que la vie sur Terre a été créée par ingénierie génétique par une civilisation extraterrestre très avancée, qu'il appelle les Elohim. Raël affirme que les Elohim ont créé les humains à leur propre image et qu'ils continuent de surveiller et de guider le développement de l'humanité. Le livre présente les croyances de Raël sur la nature de la réalité et le but de la vie. Il soutient que les humains ont une origine divine et que notre but est d'évoluer et éventuellement de devenir comme les Elohim, grâce au développement de la science et de la technologie. Raël enseigne également que les Elohim reviendront un jour pour apporter une nouvelle ère de paix et d'illumination à l'humanité.
 
-![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
+![Image](images/le-message-book.jpg "Les Extraterrestres m'ont emmené sur leur planète, 1976 — Raël")
 
-### About Claude Vorhilon
+### À propos de Claude Vorhilon
 
-Claude Vorilhon, who goes by the name Raël, is a French spiritual leader and founder of the Raelian movement. Born in 1946, Raël worked as a race car driver, journalist, and singer before claiming to have a spiritual encounter with extraterrestrial beings in 1973.
+Claude Vorhilon, qui se fait appeler Raël, est un leader spirituel français et fondateur du mouvement Raëlien. Né en 1946, Raël a travaillé comme pilote de course, journaliste et chanteur avant de prétendre avoir eu une rencontre spirituelle avec des êtres extraterrestres en 1973.
 
-According to Raël, these beings instructed him to spread their message of peace and love to humanity and to establish an embassy for them on Earth. He founded the Raelian movement in 1974, and it has since grown to become a global organization with thousands of members around the world.
+Selon Raël, ces êtres lui ont demandé de diffuser leur message de paix et d'amour à l'humanité et d'établir une ambassade pour eux sur Terre. Il a fondé le mouvement Raëlien en 1974, qui est depuis devenu une organisation mondiale avec des milliers de membres dans le monde entier.
 
-The Raëlian movement's teachings draw on a mix of science, religion, and philosophy, and emphasize the idea that humans are descended from extraterrestrial beings
+Les enseignements du mouvement Raëlien s'inspirent d'un mélange de science, de religion et de philosophie, et mettent l'accent sur l'idée que les humains descendent d'êtres extraterrestres
 
-### Read it for yourself
+### Lisez-le vous-même
 
-📖 [Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
+[Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
 
-### See also
+### Voir aussi
 
-[Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Ressources › Les Extraterrestres m\'ont emmené sur leur Planète]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})

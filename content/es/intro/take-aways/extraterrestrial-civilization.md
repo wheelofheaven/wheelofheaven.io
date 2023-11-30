@@ -1,6 +1,6 @@
 ---
 title: "Civilización extraterrestre"
-description: "The \"Extraterrestrial Civilization\" chapter synthesizes the key takeaways from the site's exploration of the hypothesis that life on Earth was engineered by the Elohim, an advanced extraterrestrial civilization. This chapter likely summarizes the journey through ancient scriptures, historical events, and scientific interpretations that support this theory. It probably aims to consolidate the insights gained from previous chapters, offering a cohesive understanding of how this extraterrestrial influence might have shaped human history and development, and what implications this has for our perception of humanity's place in the cosmos."
+description: "El capítulo \"Civilización Extraterrestre\" sintetiza los principales puntos clave de la exploración de la hipótesis de que la vida en la Tierra fue diseñada por los Elohim, una civilización extraterrestre avanzada. Este capítulo probablemente resume el recorrido a través de las escrituras antiguas, eventos históricos e interpretaciones científicas que apoyan esta teoría. Probablemente tiene como objetivo consolidar las ideas obtenidas de los capítulos anteriores, ofreciendo una comprensión cohesiva de cómo esta influencia extraterrestre podría haber moldeado la historia y el desarrollo humano, y qué implicaciones tiene esto para nuestra percepción del lugar de la humanidad en el cosmos."
 menu:
   intro:
     parent: "take-aways"

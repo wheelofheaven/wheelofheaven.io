@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Водолея"
 period: "1945—..."
-description: "The Age of Aquarius, spanning from 1950 CE to 4110 CE, marks the current era in the Wheel of Heaven narrative, succeeding the Age of Pisces. This age, referred to as the New Age, signifies a major transition in world paradigms. It represents the end of the world of the Church, reflecting a completion of its role in preparing humanity for the return of extraterrestrial creators. The Age of Pisces, identified with Christ and his apostles, transitions into the Age of Aquarius, symbolizing a period of significant change, including the reestablishment of the state of Israel in 1946. This era is characterized by a shift in global consciousness and understanding, aligning with prophecies and symbolizing transformative changes in human society and knowledge​​​​​​​​."
+description: "Эпоха Водолея, охватывающая период с 1950 по 4110 год н.э., является текущей эрой в повествовании \"Wheel of Heaven\", следуя за Эпохой Рыб. Эта эпоха, известная как Новая Эпоха, означает важный переход в мировых парадигмах. Она представляет конец мира Церкви, отражая завершение ее роли в подготовке человечества к возвращению внеземных создателей. Эпоха Рыб, связанная с Христом и его апостолами, переходит в Эпоху Водолея, символизирующую период значительных изменений, включая восстановление государства Израиль в 1946 году. Эта эра характеризуется сдвигом в глобальном сознании и понимании, соответствующим пророчествам и символизирующим трансформационные изменения в человеческом обществе и знаниях."
 menu:
   intro:
     parent: "timeline"

@@ -1,7 +1,7 @@
 ---
 title: "水瓶座时代"
 period: "1945—..."
-description: "The Age of Aquarius, spanning from 1950 CE to 4110 CE, marks the current era in the Wheel of Heaven narrative, succeeding the Age of Pisces. This age, referred to as the New Age, signifies a major transition in world paradigms. It represents the end of the world of the Church, reflecting a completion of its role in preparing humanity for the return of extraterrestrial creators. The Age of Pisces, identified with Christ and his apostles, transitions into the Age of Aquarius, symbolizing a period of significant change, including the reestablishment of the state of Israel in 1946. This era is characterized by a shift in global consciousness and understanding, aligning with prophecies and symbolizing transformative changes in human society and knowledge​​​​​​​​."
+description: "《水瓶座时代》，从公元1950年持续到公元4110年，紧随双鱼座时代在《Wheel of Heaven》叙述中。这个时代被称为新时代，标志着世界范式的重大转变。它代表了教会世界的终结，反映了它在为人类准备外星创造者回归的角色中的完成。与基督及其使徒相关的双鱼座时代过渡到水瓶座时代，象征着包括1946年以色列国的重新建立在内的重大变化时期。这个时代的特点是全球意识和理解的转变，与预言相一致，象征着人类社会和知识的转型变革。"
 menu:
   intro:
     parent: "timeline"

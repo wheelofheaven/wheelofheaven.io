@@ -1,7 +1,7 @@
 ---
 title: "Ère du Verseau"
 period: "1945—..."
-description: "The Age of Aquarius, spanning from 1950 CE to 4110 CE, marks the current era in the Wheel of Heaven narrative, succeeding the Age of Pisces. This age, referred to as the New Age, signifies a major transition in world paradigms. It represents the end of the world of the Church, reflecting a completion of its role in preparing humanity for the return of extraterrestrial creators. The Age of Pisces, identified with Christ and his apostles, transitions into the Age of Aquarius, symbolizing a period of significant change, including the reestablishment of the state of Israel in 1946. This era is characterized by a shift in global consciousness and understanding, aligning with prophecies and symbolizing transformative changes in human society and knowledge​​​​​​​​."
+description: "L'Âge du Verseau, s'étendant de 1950 à 4110 ap. J.-C., marque l'ère actuelle dans la narration de « Wheel of Heaven », succédant à l'Âge des Poissons. Cet âge, appelé le Nouvel Âge, signifie une transition majeure dans les paradigmes mondiaux. Il représente la fin du monde de l'Église, reflétant l'achèvement de son rôle dans la préparation de l'humanité pour le retour des créateurs extraterrestres. L'Âge des Poissons, identifié avec le Christ et ses apôtres, passe à l'Âge du Verseau, symbolisant une période de changement significatif, y compris la réétablissement de l'État d'Israël en 1946. Cette ère se caractérise par un changement de conscience et de compréhension mondiale, s'alignant sur les prophéties et symbolisant des changements transformateurs dans la société humaine et la connaissance."
 menu:
   intro:
     parent: "timeline"

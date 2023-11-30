@@ -1,7 +1,7 @@
 ---
 title: "Era de Acuario"
 period: "1945—..."
-description: "The Age of Aquarius, spanning from 1950 CE to 4110 CE, marks the current era in the Wheel of Heaven narrative, succeeding the Age of Pisces. This age, referred to as the New Age, signifies a major transition in world paradigms. It represents the end of the world of the Church, reflecting a completion of its role in preparing humanity for the return of extraterrestrial creators. The Age of Pisces, identified with Christ and his apostles, transitions into the Age of Aquarius, symbolizing a period of significant change, including the reestablishment of the state of Israel in 1946. This era is characterized by a shift in global consciousness and understanding, aligning with prophecies and symbolizing transformative changes in human society and knowledge​​​​​​​​."
+description: "La Era de Acuario, que abarca desde 1950 d.C. hasta 4110 d.C., marca la era actual en la narrativa de \"Wheel of Heaven\", sucediendo a la Era de Piscis. Esta era, denominada la Nueva Era, significa una transición importante en los paradigmas mundiales. Representa el fin del mundo de la Iglesia, reflejando la culminación de su papel en la preparación de la humanidad para el regreso de los creadores extraterrestres. La Era de Piscis, identificada con Cristo y sus apóstoles, transita hacia la Era de Acuario, simbolizando un período de cambio significativo, incluyendo el restablecimiento del estado de Israel en 1946. Esta era se caracteriza por un cambio en la conciencia y comprensión global, alineándose con las profecías y simbolizando cambios transformadores en la sociedad humana y el conocimiento."
 menu:
   intro:
     parent: "timeline"

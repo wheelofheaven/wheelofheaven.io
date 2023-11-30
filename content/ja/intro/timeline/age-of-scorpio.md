@@ -1,7 +1,7 @@
 ---
 title: "蠍座の時代"
 period: "紀元前17'490—紀元前15'330"
-description: "The Age of Scorpio, lasting from 17,490 to 15,330 BC, represents the \"Third Day of Creation\" in the Wheel of Heaven narrative. Following the terraforming achievements of the Age of Sagittarius, this epoch is characterized by the Elohim scientists' efforts in synthetic biology on the newly formed supercontinent. They focused on creating vegetation, including various types of plants capable of reproduction, thereby initiating the first steps towards a diverse ecosystem on Earth. Their work, combining scientific prowess with artistic influence, sought to create a harmonious and aesthetically pleasing natural world. This period is crucial in the narrative for laying the foundations of life as we know it, marking a significant transition from terraforming to life creation​​."
+description: "蠍座の時代、紀元前17490年から紀元前15330年まで続くこの時代は、天の輪物語における「創造の第三日」を表しています。射手座の時代の地球改造の成果を受けて、この時代は新しく形成された超大陸でエロヒムの科学者たちが合成生物学に取り組んだことが特徴です。彼らは繁殖能力を持つ様々な種類の植物を含む植生の創造に焦点を当て、地球上の多様な生態系への第一歩を踏み出しました。彼らの仕事は、科学的な能力と芸術的な影響を組み合わせ、調和が取れ、美的にも魅力的な自然世界の創造を目指しました。この時期は、私たちが知る生命の基盤を築く上で重要であり、地球改造から生命創造への重要な移行を示しています。"
 menu:
   intro:
     parent: "timeline"

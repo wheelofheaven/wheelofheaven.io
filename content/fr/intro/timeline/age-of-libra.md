@@ -1,7 +1,7 @@
 ---
 title: "Âge de la Balance"
 period: "15'330—13'170BC"
-description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel of Heaven narrative, represents the \"Fourth Day of Creation.\" Following the establishment of plant life during the Age of Scorpio, the Age of Libra focuses on the further development and regulation of Earth's newly engineered ecosystems. The Elohim scientists utilized their understanding of celestial bodies to measure time and adapt to Earth's cycles, aiding in the design of Earth-specific flora and fauna. This period involved creating balanced ecosystems with a variety of plants, fungi, and small life forms, and understanding Earth's climate and biomes to ensure the survival and flourishing of these engineered species​​."
+description: "L'Âge de la Balance, durant de 15 330 à 13 170 av. J.-C., dans le récit de la Roue du Ciel, représente le \"Quatrième Jour de la Création\". Suite à l'établissement de la vie végétale durant l'Âge du Scorpion, l'Âge de la Balance se concentre sur le développement et la régulation ultérieurs des écosystèmes nouvellement conçus sur Terre. Les scientifiques Elohim ont utilisé leur compréhension des corps célestes pour mesurer le temps et s'adapter aux cycles de la Terre, aidant ainsi à la conception de la flore et de la faune spécifiques à la Terre. Cette période impliquait la création d'écosystèmes équilibrés avec une variété de plantes, de champignons et de petites formes de vie, et la compréhension du climat et des biomes de la Terre pour assurer la survie et l'épanouissement de ces espèces conçues."
 menu:
   intro:
     parent: "timeline"

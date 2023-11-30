@@ -1,6 +1,6 @@
 ---
 title: "白羊座时代（公元前 2'370—210）"
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "《白羊座时代》，从公元前2370年持续到公元前210年，紧随金牛座时代在《Wheel of Heaven》叙述中。这个时代以特别与犹太教中的关键人物摩西相关的重要圣经事件为标志。叙述将摩西与燃烧的灌木丛的邂逅解释为与先进技术的互动，类似于火箭，象征着外星存在。此外，这个时代详细描述了以色列人民的解放，由伊洛西姆引导，他们白天在云柱中领导他们，夜晚在火柱中领导，如出埃及记所述。这些事件展示了伊洛西姆在这个时期对人类事务的持续影响和指导。"
 menu:
   intro:
     parent: "timeline"

@@ -1,7 +1,7 @@
 ---
 title: "Preámbulo"
 period: "antes de 21'810 a.C."
-description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description: "El preámbulo introduce una narrativa especulativa sobre una civilización extraterrestre avanzada, los Elohim, que se embarcan en la experimentación genética y la exploración interestelar. Trazando paralelos con la serie \"Jurassic Park\", profundiza en los eventos hipotéticos que llevaron a la llegada de los Elohim a la Tierra, ambientados en la época de la Era de Capricornio, hace 21,810 años. Esta historia combina elementos de ciencia ficción con mitología, explorando temas de la soberbia científica y las ramificaciones de la ingeniería genética."
 menu:
   intro:
     parent: "timeline"

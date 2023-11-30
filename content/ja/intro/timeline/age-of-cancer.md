@@ -1,7 +1,7 @@
 ---
 title: "癌の時代"
 period: "紀元前 8'850—6'690"
-description: "The Age of Cancer, spanning from 8,850 to 6,690 BC, follows the Age of Leo in the Wheel of Heaven narrative. This era is crucial for the development of the relationship between humans and their extraterrestrial creators, the Elohim. Key events include the Elohim scientists, identified as \"the Serpent,\" defying their own government's restrictions by providing humans with advanced scientific knowledge. This act of rebellion led to their exile on Earth and created a shift in the dynamic between humans and their creators, as humans began to seek knowledge and power independently. This period represents a significant turning point in the narrative, marked by conflict and the pursuit of intellectual autonomy by humans​​​​."
+description: "「Wheel of Heaven」の物語における蟹座の時代は、紀元前8850年から紀元前6690年までの期間をカバーし、獅子座の時代に続きます。この時代は、人類とその宇宙人の創造者、エロヒムとの関係の発展にとって重要です。主な出来事には、エロヒムの科学者たちが「蛇」として特定され、自分たちの政府の制限に反抗して人類に高度な科学的知識を提供したことが含まれます。この反逆の行為は彼らを地球上に追放し、創造者としての人間とのダイナミクスに変化をもたらしました。人間は独立して知識と力を求めるようになりました。この時期は物語において重要な転換点を表し、人間による知的自律の追求と紛争によって特徴づけられています。"
 menu:
   intro:
     parent: "timeline"

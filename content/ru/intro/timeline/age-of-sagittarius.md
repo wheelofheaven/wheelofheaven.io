@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Стрельца"
 period: "19 650–17 490 до н.э."
-description: "The Age of Sagittarius, spanning from 19,650 to 17,490 BC, is depicted as the second World Age following the Age of Capricorn. It begins with an advanced extraterrestrial civilization, having already confirmed Earth's potential for sustaining life, embarking on terraforming activities. This period is allegorically linked to the 'Second Day of Creation' in Genesis, where the division of 'waters above and below the firmament' is interpreted as scientific investigations between Earth's oceanic and atmospheric layers. The culmination of these activities is the creation of a continent from the ocean's seabed through controlled explosions, a significant step towards establishing a permanent presence on Earth​."
+description: "Эпоха Стрельца, охватывающая период с 19 650 по 17 490 год до н.э., изображается как второй Мировой Век, следующий за Эпохой Козерога. Она начинается с продвинутой внеземной цивилизации, уже подтвердившей потенциал Земли для поддержания жизни, и приступающей к деятельности по терраформированию. Этот период аллегорически связан с 'Вторым Днем Творения' в Бытии, где разделение 'вод над твердью и под твердью' интерпретируется как научные исследования между океаническими и атмосферными слоями Земли. Кульминацией этих действий является создание континента из морского дна с помощью контролируемых взрывов, важный шаг к установлению постоянного присутствия на Земле."
 menu:
   intro:
     parent: "timeline"

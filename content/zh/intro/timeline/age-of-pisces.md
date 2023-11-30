@@ -1,6 +1,6 @@
 ---
 title: "双鱼座时代（公元前 210 年—1950 年）"
-description: "The Age of Pisces, spanning from 210 BC to 1950 AD, succeeded the Age of Aries and recently transitioned into the Age of Aquarius. This era is characterized by significant biblical events, notably the role of Christ, whose mission was to spread the truth of the biblical scriptures worldwide, serving as a foundation for humanity's understanding in the forthcoming age of science. The Age of Aquarius, beginning in 1945 with the development of nuclear power and information systems, symbolizes a time of increased knowledge and technological advancement, enabling humanity to reinterpret ancient wisdom through a modern lens. Additionally, the Age of Pisces included the birth of a significant child, born from a human mother and an extraterrestrial, inheriting unique telepathic abilities, as depicted in the biblical story of the birth of Jesus Christ​​​​​​​​."
+description: "《双鱼座时代》，从公元前210年持续到公元1950年，紧随金牛座时代在《Wheel of Heaven》叙述中。这个时代以特别与基督有关的重要圣经事件为标志，其使命是将圣经经文的真理传播到世界各地，为即将到来的科学时代的人类理解奠定基础。1945年开始，随着核能和信息系统的发展而开始的水瓶座时代，象征着知识和技术进步的增加的时代，使人类能够通过现代视角重新解释古代智慧。此外，双鱼座时代还包括了一个重要婴儿的诞生，出生于人类母亲和外星人之间，继承了独特的心灵感应能力，如圣经中耶稣基督诞生的故事所描绘。"
 menu:
   intro:
     parent: "timeline"

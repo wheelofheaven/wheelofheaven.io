@@ -1,35 +1,39 @@
 ---
-title: "The Book Which Tells The Truth"
+title: "真実を語る書"
 original_title: "Le Livre qui dit la Vérité"
-description: "\"The Book Which Tells the Truth\" by Claude Vorilhon, known as Raël, is the foundational text of the Raëlian Movement. In this book, Raël recounts his encounters with extraterrestrial beings, referred to as the Elohim. He claims these beings revealed that life on Earth was created through their genetic engineering. Raël posits that humans are made in the Elohim's image and that they oversee and guide humanity's development. The book articulates Raël's views on the nature of reality and life's purpose, advocating the belief that humans have a divine origin and are destined to evolve and become like the Elohim through scientific and technological advancements. Raël also foresees a future where the Elohim return to usher in an era of peace and enlightenment."
-authored_by: ["Raël"]
+description: "クロード・ボリロン、通称ラエルによる「真実を語る書」は、ラエル運動の基礎テキストです。この書物では、ラエルがエロヒムと呼ばれる宇宙人との遭遇を語っています。彼はこれらの存在が地球上の生命は彼らの遺伝子工学によって作られたと明かしたと主張しています。ラエルは、人間はエロヒムの姿を模して作られ、彼らによって人類の発展が監督されているとしています。この書物は、現実の本質と人生の目的に関するラエルの見解を述べており、人間は神聖な起源を持ち、科学と技術の進歩を通じてエロヒムのように進化する運命にあるという信念を提唱しています。ラエルはまた、エロヒムが平和と啓蒙の時代をもたらすために地球に戻る未来を予見しています。"
+authored_by: ["ラエル"]
 publish_date: 1973
 follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["標準テキスト"]
+medium: ["カノニカルテキスト"]
 medium_icon: "canonical-text"
-topics: ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Religion", "Syncretism"]
+topics: ["水瓶座の時代", "古代宇宙飛行士説", "カノニカル", "エロヒム", "インテリジェントデザイン", "ネオエウヘメリズム", "宗教", "シンクレティズム"]
 ---
 
-"The Book Which Tells the Truth" is a book written by Claude Vorilhon, also known as Raël, the founder of the Raëlian Movement. The book details Raël's claims of encounters with extraterrestrial beings and presents his beliefs and teachings. According to Raël, the extraterrestrial beings he encountered revealed to him that life on Earth was created through genetic engineering by a highly advanced civilization of extraterrestrial beings, who he refers to as the Elohim. Raël claims that the Elohim created humans in their own image, and that they continue to observe and guide humanity's development. The book presents Raël's beliefs about the nature of reality and the purpose of life. He argues that humans have a divine origin, and that our purpose is to evolve and eventually become like the Elohim, through the development of science and technology. Raël also teaches that the Elohim will return one day to bring about a new era of peace and enlightenment for humanity.
+「真実を語る書」は、クロード・ボリロン、別名ラエル、ラエル運動の創設者によって書かれました。この書籍は、ラエルが宇宙人との遭遇を主張し、彼の信念と教えを紹介しています。ラエルによれば、彼が出会った宇宙人は地球上の生命が高度に進化した宇宙文明のエロヒムによる遺伝子工学によって作られたことを彼に明かしたといいます。ラエルは、エロヒムが人間を自分たちの姿に似せて作り、人類の発展を監視し続けていると主張します。この書籍は、現実の性質と人生の目的についてラエルの信念を提示しています。彼は、人間には神聖な起源があり、科学と技術の発展を通じてエロヒムのようになることが私たちの目的であると主張しています。ラエルはまた、エロヒムがいつの日か戻ってきて、人類に新しい平和と啓蒙の時代をもたらすと教えています。
 
-![Image](images/le-message-book.jpg "Extraterrestrials Took Me To Their Planet, 1976 — Raël")
+![画像](images/le-message-book.jpg "1976年、宇宙人が私を彼らの惑星に連れて行った — ラエル")
 
-### About Claude Vorhilon
+### クロード・ボリロンについて
 
-Claude Vorilhon, who goes by the name Raël, is a French spiritual leader and founder of the Raelian movement. Born in 1946, Raël worked as a race car driver, journalist, and singer before claiming to have a spiritual encounter with extraterrestrial beings in 1973.
+クロード・ボリロン、通称ラエルは、フランスの精神的リーダーであり、ラエル運動の創設者です。1946年生まれのラエルは、1973年に宇宙人との霊的な出
 
-According to Raël, these beings instructed him to spread their message of peace and love to humanity and to establish an embassy for them on Earth. He founded the Raelian movement in 1974, and it has since grown to become a global organization with thousands of members around the world.
+### クロード・ボリロンについて
 
-The Raëlian movement's teachings draw on a mix of science, religion, and philosophy, and emphasize the idea that humans are descended from extraterrestrial beings
+クロード・ボリロンはラエルという名前で知られるフランスの精神的リーダーであり、ラエリアン運動の創設者です。1946年生まれのラエルは、レースカードライバー、ジャーナリスト、歌手として活動した後、1973年に宇宙人との霊的な出会いを主張しました。
 
-### Read it for yourself
+ラエルによると、これらの存在は彼に人類への平和と愛のメッセージを広めるように指示し、地球上に彼らのための大使館を設立することを命じました。彼は1974年にラエリアン運動を創設し、それ以来、世界中に何千人ものメンバーを持つグローバルな組織に成長しました。
 
-📖 [Rael I — The Book Which Tells The Truth](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
+ラエリアン運動の教えは科学、宗教、哲学の混合に基づいており、人類が宇宙人からの子孫であるという考えを強調しています。
 
-### See also
+### 自分で読む
 
-[Resources › Extraterrestrials Took Me To Their Planet]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+[ラエルI — 真実を語る本](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
+
+### 関連項目
+
+- [リソース › 宇宙人が私を彼らの惑星に連れて行った]({{< relref "resources/extraterrestrials-took-me-to-their-planet/index.md" >}})
+- [ウィキ › ラエリズム]({{< relref "wiki/encyclopedia/raelism.md" >}})

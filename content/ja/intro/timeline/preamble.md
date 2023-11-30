@@ -1,7 +1,7 @@
 ---
 title: "序文"
 period: "紀元前21'810年以前"
-description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description: "序文では、遺伝子実験と恒星間探査に取り組む先進的な宇宙文明、エロヒムについての推測的な物語を紹介します。『ジュラシック・パーク』シリーズと並行して、エロヒムが地球に到着するまでの仮説的な出来事を、2万1810年前の山羊座の時代を背景に掘り下げています。この物語は、科学フィクションの要素と神話を融合させ、科学的な傲慢さや遺伝子工学の影響といったテーマを探求します。"
 menu:
   intro:
     parent: "timeline"

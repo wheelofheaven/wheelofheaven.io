@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter der Waage"
 period: "15'330—13'170 v. Chr."
-description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel of Heaven narrative, represents the \"Fourth Day of Creation.\" Following the establishment of plant life during the Age of Scorpio, the Age of Libra focuses on the further development and regulation of Earth's newly engineered ecosystems. The Elohim scientists utilized their understanding of celestial bodies to measure time and adapt to Earth's cycles, aiding in the design of Earth-specific flora and fauna. This period involved creating balanced ecosystems with a variety of plants, fungi, and small life forms, and understanding Earth's climate and biomes to ensure the survival and flourishing of these engineered species​​."
+description: "Das Zeitalter der Waage, das von 15.330 bis 13.170 v. Chr. dauerte, repräsentiert in der Erzählung des Himmelsrades den \"Vierten Schöpfungstag\". Nach der Etablierung des Pflanzenlebens im Zeitalter des Skorpions konzentriert sich das Zeitalter der Waage auf die weitere Entwicklung und Regulierung der neu gestalteten Ökosysteme der Erde. Die Elohim-Wissenschaftler nutzten ihr Verständnis der Himmelskörper, um Zeit zu messen und sich an die Zyklen der Erde anzupassen, was bei der Gestaltung erdgebundener Flora und Fauna half. Dieser Zeitraum umfasste die Schaffung ausgeglichener Ökosysteme mit einer Vielfalt an Pflanzen, Pilzen und kleinen Lebensformen und das Verständnis des Klimas und der Biome der Erde, um das Überleben und Gedeihen dieser konstruierten Arten zu gewährleisten."
 menu:
   intro:
     parent: "timeline"

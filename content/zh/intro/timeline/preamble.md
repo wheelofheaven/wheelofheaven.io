@@ -1,7 +1,7 @@
 ---
 title: "序言"
 period: "在公元前21810年之前"
-description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description: "序言引入了一个关于先进外星文明——伊洛西姆（Elohim）的推测性叙事，他们投身于基因实验和星际探索。与“侏罗纪公园”系列相呼应，它深入探讨了伊洛西姆抵达地球之前的假设性事件，背景设定在21810年前的摩羯座时代。这个故事将科幻元素与神话相融合，探讨了科学傲慢和基因工程的影响等主题。"
 menu:
   intro:
     parent: "timeline"

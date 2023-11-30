@@ -1,7 +1,7 @@
 ---
 title: "Âge du Scorpion"
 period: "17'490—15'330BC"
-description: "The Age of Scorpio, lasting from 17,490 to 15,330 BC, represents the \"Third Day of Creation\" in the Wheel of Heaven narrative. Following the terraforming achievements of the Age of Sagittarius, this epoch is characterized by the Elohim scientists' efforts in synthetic biology on the newly formed supercontinent. They focused on creating vegetation, including various types of plants capable of reproduction, thereby initiating the first steps towards a diverse ecosystem on Earth. Their work, combining scientific prowess with artistic influence, sought to create a harmonious and aesthetically pleasing natural world. This period is crucial in the narrative for laying the foundations of life as we know it, marking a significant transition from terraforming to life creation​​."
+description: "L'Âge du Scorpion, durant de 17 490 à 15 330 av. J.-C., représente le \"Troisième Jour de la Création\" dans le récit de la Roue du Ciel. Suite aux réalisations de terraformation de l'Âge du Sagittaire, cette époque se caractérise par les efforts des scientifiques Elohim en biologie synthétique sur le supercontinent nouvellement formé. Ils se sont concentrés sur la création de végétation, y compris divers types de plantes capables de reproduction, initiant ainsi les premiers pas vers un écosystème diversifié sur Terre. Leur travail, combinant prouesse scientifique et influence artistique, visait à créer un monde naturel harmonieux et esthétiquement agréable. Cette période est cruciale dans le récit pour poser les fondements de la vie telle que nous la connaissons, marquant une transition significative de la terraformation à la création de la vie."
 menu:
   intro:
     parent: "timeline"

@@ -1,7 +1,7 @@
 ---
 title: "癌症时代"
 period: "8'850—6'690BC"
-description: "The Age of Cancer, spanning from 8,850 to 6,690 BC, follows the Age of Leo in the Wheel of Heaven narrative. This era is crucial for the development of the relationship between humans and their extraterrestrial creators, the Elohim. Key events include the Elohim scientists, identified as \"the Serpent,\" defying their own government's restrictions by providing humans with advanced scientific knowledge. This act of rebellion led to their exile on Earth and created a shift in the dynamic between humans and their creators, as humans began to seek knowledge and power independently. This period represents a significant turning point in the narrative, marked by conflict and the pursuit of intellectual autonomy by humans​​​​."
+description: "巨蟹座时代，从公元前8850年持续到公元前6690年，在《Wheel of Heaven》的叙述中紧随狮子座时代。这个时代对于人类与其外星创造者——伊洛西姆之间的关系发展至关重要。关键事件包括被称为“蛇”的伊洛西姆科学家们，违反了自己政府的限制，向人类提供了先进的科学知识。这种反叛行为导致他们被流放到地球，从而改变了人类与创造者之间的动态，因为人类开始独立寻求知识和力量。这一时期代表了叙述中的一个重要转折点，以人类冲突和对智力自主权的追求为特征。"
 menu:
   intro:
     parent: "timeline"

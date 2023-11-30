@@ -1,7 +1,7 @@
 ---
 title: "Âge du Taureau"
 period: "4'530—2'370BC"
-description: "The Age of Taurus, from 4,530 to 2,370 BC, is a significant period in the Wheel of Heaven narrative, following the Age of Gemini. In this age, the previously exiled creators were pardoned and allowed to return to their home planet. They advocated for the humans on Earth, drawing the attention of their home planet to Earth and its inhabitants. Meanwhile, some humans, harboring a desire for vengeance, gathered in the towns of Sodom and Gomorrah. These humans, who had previously salvaged scientific secrets, prepared to retaliate against those who attempted to destroy them. This era culminated in the destruction of these towns by what is interpreted as a divine atomic explosion, as described in the biblical account of Sodom and Gomorrah​​​​​​​​."
+description: "L'Âge du Taureau, de 4 530 à 2 370 av. J.-C., est une période significative dans la narration de « Wheel of Heaven », suivant l'Âge des Gémeaux. Durant cette ère, les créateurs autrefois exilés ont été pardonnés et autorisés à retourner sur leur planète d'origine. Ils ont plaidé en faveur des humains sur Terre, attirant l'attention de leur planète d'origine sur la Terre et ses habitants. Pendant ce temps, certains humains, désirant se venger, se rassemblèrent dans les villes de Sodome et Gomorrhe. Ces humains, qui avaient auparavant sauvé des secrets scientifiques, se préparaient à riposter contre ceux qui avaient tenté de les détruire. Cette ère a culminé avec la destruction de ces villes par ce qui est interprété comme une explosion atomique divine, comme décrit dans le récit biblique de Sodome et Gomorrhe."
 menu:
   intro:
     parent: "timeline"

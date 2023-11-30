@@ -1,7 +1,7 @@
 ---
 title: "Âge du Bélier"
 period: "2'370—210BC"
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "L'Âge du Bélier, s'étendant de 2 370 à 210 av. J.-C., succède à l'Âge du Taureau dans le récit de « Wheel of Heaven ». Cette ère est marquée par d'importants événements bibliques, en particulier en relation avec Moïse, figure pivot du judaïsme. Le récit interprète la rencontre de Moïse avec le buisson ardent comme une interaction avec une technologie avancée, semblable à une fusée, symbolisant une présence extraterrestre. De plus, cet âge détaille la libération du peuple d'Israël, guidé par les Elohim, qui les ont conduits pendant le jour dans une colonne de nuage et la nuit dans une colonne de feu, comme décrit dans le Livre de l'Exode. Ces événements illustrent l'influence et la guidance continues des Elohim dans les affaires humaines durant cette période."
 menu:
   intro:
     parent: "timeline"

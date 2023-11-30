@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Овна"
 period: "2370—210 гг. до н. э."
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "Эпоха Овна, охватывающая период с 2370 по 210 год до н.э., следует за Эпохой Тельца в повествовании \"Wheel of Heaven\". Эта эпоха отмечена значительными библейскими событиями, особенно связанными с Моисеем, ключевой фигурой в иудаизме. Сюжет интерпретирует встречу Моисея с горящим кустом как взаимодействие с передовой технологией, подобной ракете, символизирующей внеземное присутствие. Кроме того, в эту эпоху подробно описывается освобождение народа Израиля под руководством Элохимов, которые вели их днем в столпе облака и ночью в столпе огня, как описано в книге Исход. Эти события иллюстрируют продолжающееся влияние и руководство Элохимов в человеческих делах в течение этого периода."
 menu:
   intro:
     parent: "timeline"

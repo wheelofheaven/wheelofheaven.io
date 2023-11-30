@@ -1,7 +1,7 @@
 ---
 title: "獅子座の時代"
 period: "紀元前11'010—紀元前8'850"
-description: "The Age of Leo, spanning from 11,010 to 8,850 BC, follows the Age of Virgo in the Wheel of Heaven narrative. This age is marked by the creation of land animals, following the establishment of marine life and birds. The planet, now rich with vegetation, provided ample resources for these new herbivores, and carnivores were later introduced to maintain ecological balance. A significant development during this age was the creation of artificial human beings, resembling the extraterrestrial scientists themselves. This led to controversy on their home planet due to fears that these new beings might surpass their creators in capabilities. Consequently, the newly created humans were left to live primitively, without scientific knowledge, and each human race is said to correspond to a team of creators​​​​."
+description: "獅子座の時代は、紀元前11010年から紀元前8850年まで続き、天の輪の物語における乙女座の時代に続きます。この時代は、海洋生物と鳥類の確立に続いて陸上動物の創造によって特徴づけられています。植物に富んだこの惑星は、これらの新しい草食動物に豊富な資源を提供し、後に生態系のバランスを維持するために肉食動物が導入されました。この時代の重要な発展は、外宇宙の科学者自身に似た人工的な人間の創造でした。これにより、これらの新しい存在が創造主を能力で上回る可能性があるという恐れから、彼らの故郷の惑星で論争が生じました。結果として、新しく創造された人間は科学的な知識なしに原始的に生活させられ、各人種は創造者チームに対応すると言われています。"
 menu:
   intro:
     parent: "timeline"

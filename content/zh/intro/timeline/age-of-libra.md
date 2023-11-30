@@ -1,7 +1,7 @@
 ---
 title: "天秤座时代"
 period: "15'330—13'170BC"
-description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel of Heaven narrative, represents the \"Fourth Day of Creation.\" Following the establishment of plant life during the Age of Scorpio, the Age of Libra focuses on the further development and regulation of Earth's newly engineered ecosystems. The Elohim scientists utilized their understanding of celestial bodies to measure time and adapt to Earth's cycles, aiding in the design of Earth-specific flora and fauna. This period involved creating balanced ecosystems with a variety of plants, fungi, and small life forms, and understanding Earth's climate and biomes to ensure the survival and flourishing of these engineered species​​."
+description: "天秤座时代，从公元前15330年持续到公元前13170年，在“天轮叙事”中代表了“创世第四日”。继天蝎座时代建立植物生命之后，天秤座时代专注于进一步发展和调节地球新工程化生态系统。伊洛西姆科学家们利用对天体的理解来测量时间并适应地球的周期，辅助设计地球特有的动植物。这个时期涉及创建平衡的生态系统，包括各种植物、真菌和小型生命形式，并理解地球的气候和生物群落以确保这些工程化物种的生存和繁荣。"
 menu:
   intro:
     parent: "timeline"

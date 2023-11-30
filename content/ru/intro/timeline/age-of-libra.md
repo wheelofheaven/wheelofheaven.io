@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Весов"
 period: "15'330—13'170 до н.э."
-description: "The Age of Libra, lasting from 15,330 to 13,170 BC, in the Wheel of Heaven narrative, represents the \"Fourth Day of Creation.\" Following the establishment of plant life during the Age of Scorpio, the Age of Libra focuses on the further development and regulation of Earth's newly engineered ecosystems. The Elohim scientists utilized their understanding of celestial bodies to measure time and adapt to Earth's cycles, aiding in the design of Earth-specific flora and fauna. This period involved creating balanced ecosystems with a variety of plants, fungi, and small life forms, and understanding Earth's climate and biomes to ensure the survival and flourishing of these engineered species​​."
+description: "Эпоха Весов, продолжающаяся с 15 330 по 13 170 год до н.э., в повествовании \"Колеса Небес\" представляет собой \"Четвертый День Творения\". После установления растительной жизни в Эпохе Скорпиона, Эпоха Весов сосредоточена на дальнейшем развитии и регулировании вновь созданных экосистем Земли. Ученые-Элохимы использовали свои знания о небесных телах для измерения времени и адаптации к циклам Земли, что способствовало проектированию земной флоры и фауны. Этот период включал создание сбалансированных экосистем с разнообразием растений, грибов и мелких форм жизни, а также понимание климата и биомов Земли для обеспечения выживания и процветания этих созданных видов."
 menu:
   intro:
     parent: "timeline"

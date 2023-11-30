@@ -26,7 +26,7 @@
 				{{ range .Pages }}
 					<div class="card my-3">
 						<div class="card-body">
-							<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
+							<h4 class="card-title"><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></h4>
 							<p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
 							{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 							{{ partial "content/card-image-bottom.html" . }}
@@ -37,7 +37,7 @@
 			{{ range where .Site.RegularPages.ByTitle "Section" $currentSection.RelPermalink }}
 				<div class="card my-3">
 					<div class="card-body">
-						<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a>
+						<a href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a>
 					</div>
 				</div>
 			{{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "牡羊座の時代"
 period: "紀元前 2'370—紀元前 210 年"
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "「Wheel of Heaven」の物語における牡羊座の時代は、紀元前2370年から紀元前210年にかけての期間であり、牡牛座の時代に続きます。この時代は、特にユダヤ教の中心人物であるモーセに関連する重要な聖書の出来事によって特徴づけられています。物語はモーセの燃える茂みとの遭遇を、ロケットのような先進技術とのやり取りとして解釈し、それが宇宙人の存在を象徴しているとしています。さらに、この時代にはイスラエルの人々の解放が詳述されており、エロヒムに導かれて昼は雲の柱、夜は火の柱で導かれたと、出エジプト記で説明されています。これらの出来事は、この期間におけるエロヒムの人間事情への継続的な影響と導きを示しています。"
 menu:
   intro:
     parent: "timeline"

@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter des Stiers"
 period: "4'530—2'370 v. Chr."
-description: "The Age of Taurus, from 4,530 to 2,370 BC, is a significant period in the Wheel of Heaven narrative, following the Age of Gemini. In this age, the previously exiled creators were pardoned and allowed to return to their home planet. They advocated for the humans on Earth, drawing the attention of their home planet to Earth and its inhabitants. Meanwhile, some humans, harboring a desire for vengeance, gathered in the towns of Sodom and Gomorrah. These humans, who had previously salvaged scientific secrets, prepared to retaliate against those who attempted to destroy them. This era culminated in the destruction of these towns by what is interpreted as a divine atomic explosion, as described in the biblical account of Sodom and Gomorrah​​​​​​​​."
+description: "Das Zeitalter des Stiers, von 4.530 bis 2.370 v. Chr., ist eine bedeutende Periode in der „Wheel of Heaven“-Erzählung, nach dem Zeitalter der Zwillinge. In dieser Ära wurden die zuvor verbannten Schöpfer begnadigt und durften zu ihrem Heimatplaneten zurückkehren. Sie setzten sich für die Menschen auf der Erde ein und lenkten die Aufmerksamkeit ihres Heimatplaneten auf die Erde und ihre Bewohner. In der Zwischenzeit versammelten sich einige Menschen, die nach Rache strebten, in den Städten Sodom und Gomorrha. Diese Menschen, die zuvor wissenschaftliche Geheimnisse geborgen hatten, bereiteten sich darauf vor, gegen jene zu vergelten, die versucht hatten, sie zu zerstören. Diese Ära gipfelte in der Zerstörung dieser Städte durch das, was als göttliche atomare Explosion interpretiert wird, wie in der biblischen Geschichte von Sodom und Gomorrha beschrieben."
 menu:
   intro:
     parent: "timeline"

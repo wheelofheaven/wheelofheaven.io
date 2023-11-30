@@ -1,7 +1,7 @@
 ---
 title: "狮子座时代"
 period: "11'010—8'850BC"
-description: "The Age of Leo, spanning from 11,010 to 8,850 BC, follows the Age of Virgo in the Wheel of Heaven narrative. This age is marked by the creation of land animals, following the establishment of marine life and birds. The planet, now rich with vegetation, provided ample resources for these new herbivores, and carnivores were later introduced to maintain ecological balance. A significant development during this age was the creation of artificial human beings, resembling the extraterrestrial scientists themselves. This led to controversy on their home planet due to fears that these new beings might surpass their creators in capabilities. Consequently, the newly created humans were left to live primitively, without scientific knowledge, and each human race is said to correspond to a team of creators​​​​."
+description: "狮子座时代，从公元前11010年持续到公元前8850年，在“天轮叙事”中紧随处女座时代。这个时代以陆地动物的创造为标志，紧接着海洋生物和鸟类的确立。如今植被丰富的地球为这些新的食草动物提供了丰富的资源，后来引入了食肉动物以维持生态平衡。这个时代的一个重要发展是创造了类似外星科学家自己的人造人类。这导致了他们母星上的争议，因为担心这些新生物可能在能力上超越其创造者。因此，新创造的人类被留下来原始地生活，没有科学知识，据说每个人类种族对应一个创造者团队。"
 menu:
   intro:
     parent: "timeline"

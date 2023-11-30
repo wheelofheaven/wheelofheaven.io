@@ -1,7 +1,7 @@
 ---
 title: "天蝎座时代"
 period: "17'490—15'330BC"
-description: "The Age of Scorpio, lasting from 17,490 to 15,330 BC, represents the \"Third Day of Creation\" in the Wheel of Heaven narrative. Following the terraforming achievements of the Age of Sagittarius, this epoch is characterized by the Elohim scientists' efforts in synthetic biology on the newly formed supercontinent. They focused on creating vegetation, including various types of plants capable of reproduction, thereby initiating the first steps towards a diverse ecosystem on Earth. Their work, combining scientific prowess with artistic influence, sought to create a harmonious and aesthetically pleasing natural world. This period is crucial in the narrative for laying the foundations of life as we know it, marking a significant transition from terraforming to life creation​​."
+description: "天蝎座时代，从公元前17490年持续到公元前15330年，代表了“天轮叙事”的“创世第三日”。继射手座时代的地球改造成就之后，这个时代的特点是伊洛西姆科学家们在新形成的超大陆上进行合成生物学的努力。他们专注于创造植被，包括能够繁殖的各种植物类型，从而开启了地球上多样化生态系统的第一步。他们的工作，结合了科学实力与艺术影响，旨在创造一个和谐且美观的自然世界。这一时期在叙述中至关重要，为我们所知的生命奠定了基础，标志着从地球改造到生命创造的重要过渡。"
 menu:
   intro:
     parent: "timeline"

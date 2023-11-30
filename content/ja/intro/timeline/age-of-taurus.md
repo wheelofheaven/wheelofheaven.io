@@ -1,7 +1,7 @@
 ---
 title: "おうし座の時代"
 period: "紀元前 4'530—紀元前 2'370"
-description: "The Age of Taurus, from 4,530 to 2,370 BC, is a significant period in the Wheel of Heaven narrative, following the Age of Gemini. In this age, the previously exiled creators were pardoned and allowed to return to their home planet. They advocated for the humans on Earth, drawing the attention of their home planet to Earth and its inhabitants. Meanwhile, some humans, harboring a desire for vengeance, gathered in the towns of Sodom and Gomorrah. These humans, who had previously salvaged scientific secrets, prepared to retaliate against those who attempted to destroy them. This era culminated in the destruction of these towns by what is interpreted as a divine atomic explosion, as described in the biblical account of Sodom and Gomorrah​​​​​​​​."
+description: "「Wheel of Heaven」の物語における牡牛座の時代は、紀元前4530年から紀元前2370年にかけての重要な時期であり、双子座の時代に続きます。この時代には、以前に追放された創造者たちが赦され、故郷の惑星に戻ることを許されました。彼らは地球上の人間のために訴え、自分たちの故郷の惑星の注意を地球とその住民に向けました。その一方で、復讐を望む人間たちはソドムとゴモラの町に集まりました。これらの人間たちは、以前に科学的な秘密を救い出した人々で、自分たちを破壊しようとした者たちに報復する準備をしていました。この時代は、ソドムとゴモラの聖書の物語で説明されているような、神聖な原子爆発によるこれらの町の破壊で頂点に達しました。"
 menu:
   intro:
     parent: "timeline"

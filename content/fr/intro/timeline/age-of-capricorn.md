@@ -1,7 +1,7 @@
 ---
 title: "Ère du Capricorne"
 period: "21'810—19'650 avant J.C"
-description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
+description: "L'Âge du Capricorne traite du premier mois précessionnel dans le cycle de la Grande Année, une période de 2 160 ans lorsque le soleil levant à l'équinoxe vernal s'aligne avec la constellation du Capricorne. Cette époque marque l'arrivée sur Terre des Elohim, une civilisation extraterrestre, suite à un incident tragique dans leurs expériences génétiques. La page interprète également divers passages bibliques, en particulier de la Genèse, suggérant que le terme \"Elohim\" fait référence à des êtres venus du ciel qui ont choisi la Terre pour leurs projets scientifiques, y compris la création de vie artificielle. Cette interprétation propose une compréhension différente des \"jours\" bibliques comme de longues périodes marquées par le cycle précessionnel de l'axe terrestre."
 menu:
   intro:
     parent: "timeline"

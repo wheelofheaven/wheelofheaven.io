@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Тельца"
 period: "4530—2370 гг. до н. э."
-description: "The Age of Taurus, from 4,530 to 2,370 BC, is a significant period in the Wheel of Heaven narrative, following the Age of Gemini. In this age, the previously exiled creators were pardoned and allowed to return to their home planet. They advocated for the humans on Earth, drawing the attention of their home planet to Earth and its inhabitants. Meanwhile, some humans, harboring a desire for vengeance, gathered in the towns of Sodom and Gomorrah. These humans, who had previously salvaged scientific secrets, prepared to retaliate against those who attempted to destroy them. This era culminated in the destruction of these towns by what is interpreted as a divine atomic explosion, as described in the biblical account of Sodom and Gomorrah​​​​​​​​."
+description: "Эпоха Тельца, с 4530 по 2370 год до н.э., является значительным периодом в повествовании \"Wheel of Heaven\", следуя за Эпохой Близнецов. В эту эпоху ранее изгнанные творцы были помилованы и разрешено вернуться на свою родную планету. Они заступились за людей на Земле, привлекая внимание своей родной планеты к Земле и ее жителям. Тем временем некоторые люди, желающие мести, собрались в городах Содом и Гоморра. Эти люди, которые ранее спасли научные секреты, готовились отомстить тем, кто пытался их уничтожить. Эта эпоха достигла своего апогея в уничтожении этих городов, которое трактуется как божественный атомный взрыв, как описано в библейском рассказе о Содоме и Гоморре."
 menu:
   intro:
     parent: "timeline"

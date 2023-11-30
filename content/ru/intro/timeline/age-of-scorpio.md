@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Скорпиона"
 period: "17 490—15 330 до н. э."
-description: "The Age of Scorpio, lasting from 17,490 to 15,330 BC, represents the \"Third Day of Creation\" in the Wheel of Heaven narrative. Following the terraforming achievements of the Age of Sagittarius, this epoch is characterized by the Elohim scientists' efforts in synthetic biology on the newly formed supercontinent. They focused on creating vegetation, including various types of plants capable of reproduction, thereby initiating the first steps towards a diverse ecosystem on Earth. Their work, combining scientific prowess with artistic influence, sought to create a harmonious and aesthetically pleasing natural world. This period is crucial in the narrative for laying the foundations of life as we know it, marking a significant transition from terraforming to life creation​​."
+description: "Эпоха Скорпиона, продолжавшаяся с 17 490 по 15 330 год до н.э., представляет собой \"Третий День Творения\" в повествовании \"Колеса Небес\". После достижений в области терраформирования в Эпохе Стрельца, эта эпоха характеризуется усилиями ученых-Элохимов в области синтетической биологии на вновь образованном суперконтиненте. Они сосредоточились на создании растительности, включая различные виды растений, способных к размножению, тем самым начиная первые шаги к созданию разнообразной экосистемы на Земле. Их работа, сочетающая научное мастерство с художественным влиянием, стремилась создать гармоничный и эстетически приятный природный мир. Этот период является ключевым в повествовании для закладки основ жизни, как мы ее знаем, отмечая значительный переход от терраформирования к созданию жизни."
 menu:
   intro:
     parent: "timeline"

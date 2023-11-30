@@ -1,7 +1,7 @@
 ---
 title: "Einleitung"
 period: "vor 21'810 v. Chr."
-description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description: "Die Einleitung führt eine spekulative Erzählung über eine fortschrittliche außerirdische Zivilisation, die Elohim, ein, die sich mit genetischer Experimentierung und interstellarer Exploration beschäftigen. Parallelen zur \"Jurassic Park\"-Reihe ziehend, vertieft sie sich in die hypothetischen Ereignisse, die zur Ankunft der Elohim auf der Erde führen, vor dem Hintergrund des Zeitalters des Steinbocks, vor 21.810 Jahren. Diese Geschichte verbindet Elemente der Science-Fiction mit der Mythologie und erforscht Themen wie wissenschaftlichen Hochmut und die Auswirkungen der Gentechnik."
 menu:
   intro:
     parent: "timeline"

@@ -1,7 +1,7 @@
 ---
 title: "Предисловие"
 period: "до 21'810 г. до н. э."
-description: "The Preamble introduces a speculative narrative about an advanced extraterrestrial civilization, the Elohim, who embark on genetic experimentation and interstellar exploration. Drawing parallels with the \"Jurassic Park\" series, it delves into the hypothetical events leading up to the Elohim's arrival on Earth, set against the backdrop of the Age of Capricorn, 21,810 years ago. This story blends elements of science fiction with mythology, exploring themes of scientific hubris and the ramifications of genetic engineering."
+description: "Преамбула вводит спекулятивный нарратив об продвинутой внеземной цивилизации, Элохимах, которые занимаются генетическими экспериментами и межзвёздной эксплорацией. Устанавливая параллели с серией \"Парк Юрского периода\", она погружается в гипотетические события, предшествующие прибытию Элохимов на Землю, на фоне Эпохи Козерога 21,810 лет назад. Этот рассказ сочетает элементы научной фантастики с мифологией, исследуя темы научной гордыни и последствий генетической инженерии."
 menu:
   intro:
     parent: "timeline"

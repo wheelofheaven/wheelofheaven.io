@@ -1,7 +1,7 @@
 ---
 title: "Era de Aries"
 period: "2'370—210 a. C."
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "La Era de Aries, que abarca desde el 2370 hasta el 210 a.C., sucede a la Era de Tauro en la narrativa de \"Wheel of Heaven\". Esta era se caracteriza por eventos bíblicos significativos, especialmente relacionados con Moisés, una figura clave en el judaísmo. La narrativa interpreta el encuentro de Moisés con la zarza ardiente como una interacción con tecnología avanzada, similar a un cohete, simbolizando una presencia extraterrestre. Además, esta era detalla la liberación del pueblo de Israel, guiada por los Elohim, que los lideraron durante el día en una columna de nube y por la noche en una columna de fuego, como se describe en el Libro del Éxodo. Estos eventos ilustran la influencia y guía continuas de los Elohim en los asuntos humanos durante este período."
 menu:
   intro:
     parent: "timeline"

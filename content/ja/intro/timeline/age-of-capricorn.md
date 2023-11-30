@@ -1,7 +1,7 @@
 ---
 title: "山羊座の時代"
 period: "紀元前 21'810—19'650"
-description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
+description: "「やぎ座の時代」は、大年周期の最初の歳差月を論じており、春分の日の昇る太陽がやぎ座と一致する2,160年の期間を指します。この時代は、遺伝子実験における悲劇的な出来事を経て、地球に到達した外宇宙文明エロヒムの到来を示しています。また、このページは聖書の様々な節、特に創世記からのものを解釈し、「エロヒム」という言葉は、人工生命の創造を含む科学プロジェクトのために地球を選んだ空の存在を指すと示唆しています。この解釈は、聖書の「日々」を地球の軸の歳差運動によって特徴付けられる長期間として異なる理解を提案しています。"
 menu:
   intro:
     parent: "timeline"

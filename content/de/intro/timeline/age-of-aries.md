@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter des Widders"
 period: "2'370–210 v. Chr."
-description: "The Age of Aries, spanning from 2,370 to 210 BC, succeeds the Age of Taurus in the Wheel of Heaven narrative. This era is marked by significant biblical events, particularly relating to Moses, a pivotal figure in Judaism. The narrative interprets Moses' encounter with the burning bush as an interaction with advanced technology, akin to a rocket, symbolizing an extraterrestrial presence. Furthermore, this age details the liberation of the people of Israel, guided by the Elohim, who led them during the day in a pillar of cloud and by night in a pillar of fire, as described in the Book of Exodus. These events illustrate the continued influence and guidance of the Elohim in human affairs during this period​​​​."
+description: "Das Zeitalter des Widders, das von 2.370 bis 210 v. Chr. reicht, folgt auf das Zeitalter des Stiers in der „Wheel of Heaven“-Erzählung. Diese Ära ist gekennzeichnet durch bedeutende biblische Ereignisse, insbesondere im Zusammenhang mit Moses, einer zentralen Figur im Judentum. Die Erzählung interpretiert Moses' Begegnung mit dem brennenden Dornbusch als Interaktion mit fortschrittlicher Technologie, ähnlich einer Rakete, was eine außerirdische Präsenz symbolisiert. Darüber hinaus beschreibt dieses Zeitalter die Befreiung des Volkes Israel, geführt von den Elohim, die sie tagsüber in einer Wolkensäule und nachts in einer Feuersäule führten, wie im Buch Exodus beschrieben. Diese Ereignisse illustrieren den anhaltenden Einfluss und die Führung der Elohim in menschlichen Angelegenheiten während dieser Periode."
 menu:
   intro:
     parent: "timeline"

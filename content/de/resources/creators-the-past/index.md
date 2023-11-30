@@ -1,6 +1,6 @@
 ---
 title: "Creators: The Past"
-description: "Ancient Apocalypse is a 2022 Netflix documentary series where British writer Graham Hancock presents his theories about an advanced civilization existing during the last ice age. Hancock suggests this civilization was destroyed by a cataclysm, with survivors introducing agriculture, monumental architecture, and astronomy to hunter-gatherers worldwide. The series incorporates ideas like the controversial Younger Dryas impact hypothesis, attributing climate change at the end of the Pleistocene to a meteor bombardment."
+description: "\"Creators: The Past\" is an Italian science fiction fantasy film directed by Piergiuseppe Zaia, who also co-wrote the screenplay with Eleonora Fani and composed the soundtrack. The film features a notable cast, including Eleonora Fani, Jennifer Mischiati, Bruce Payne, and guest appearances by Gérard Depardieu and William Shatner. The plot revolves around the manipulation of mankind's destiny by a race of powerful extraterrestrials known as the Creators."
 authored_by: ["Artuniverse", "Piergiuseppe Zaia", "Eleonora Fani"]
 publish_date: 2016
 follow_url: "http://www.creatorsmovie.it/"

@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Льва"
 period: "11 010–8 850 гг. до н. э."
-description: "The Age of Leo, spanning from 11,010 to 8,850 BC, follows the Age of Virgo in the Wheel of Heaven narrative. This age is marked by the creation of land animals, following the establishment of marine life and birds. The planet, now rich with vegetation, provided ample resources for these new herbivores, and carnivores were later introduced to maintain ecological balance. A significant development during this age was the creation of artificial human beings, resembling the extraterrestrial scientists themselves. This led to controversy on their home planet due to fears that these new beings might surpass their creators in capabilities. Consequently, the newly created humans were left to live primitively, without scientific knowledge, and each human race is said to correspond to a team of creators​​​​."
+description: "Эпоха Льва, длившаяся с 11 010 по 8 850 год до н.э., следует за Эпохой Девы в повествовании \"Колеса Небес\". Эта эпоха отмечена созданием наземных животных после установления морской жизни и птиц. Планета, теперь богатая растительностью, обеспечила обильные ресурсы для этих новых травоядных, а позднее были введены хищники для поддержания экологического равновесия. Значительным развитием в эту эпоху стало создание искусственных человеческих существ, похожих на самих внеземных ученых. Это привело к спорам на их родной планете из-за опасений, что эти новые существа могут превзойти своих творцов по способностям. В результате, вновь созданные люди были оставлены жить в первобытных условиях, без научных знаний, и, как говорят, каждая человеческая раса соответствует команде создателей."
 menu:
   intro:
     parent: "timeline"

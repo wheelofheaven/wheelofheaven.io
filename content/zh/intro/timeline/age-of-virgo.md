@@ -1,7 +1,7 @@
 ---
 title: "处女座时代"
 period: "13'170—11'010BC"
-description: "The Age of Virgo, lasting from 13,170 to 11,010 BC, marks a significant period in the Wheel of Heaven narrative, following the Age of Libra. During this age, the focus shifts to the creation of aquatic life and birds. The process began with the creation of plankton, small and large fish, and seaweed to establish a balanced aquatic ecosystem. This development mirrors modern ecological principles. Additionally, this era saw the introduction of birds, with artists playing a key role in designing their diverse forms and vibrant colors. However, some designs were so elaborate that they impacted the birds' flight abilities. Notably, this period also included the creation of large, fearsome creatures resembling dragons, dinosaurs, and brontosaurs, acknowledging the earlier opposition to such ambitious creation plans on the scientists' home planet​​​​."
+description: "处女座时代，从公元前13170年持续到公元前11010年，标志着“天轮叙事”中的一个重要时期，紧随天秤座时代之后。在这个时代，焦点转移到水生生物和鸟类的创造。过程始于浮游生物、大小鱼类和海藻的创造，以建立一个平衡的水生生态系统。这一发展反映了现代生态学原则。此外，这个时代还引入了鸟类，艺术家在设计它们多样的形态和鲜艳的颜色方面发挥了关键作用。然而，一些设计如此精巧，以至于影响了鸟类的飞行能力。值得注意的是，这个时期还包括了类似龙、恐龙和腕龙的大型、可怕生物的创造，承认了科学家们在其母星上对此类雄心勃勃的创造计划的早期反对。"
 menu:
   intro:
     parent: "timeline"

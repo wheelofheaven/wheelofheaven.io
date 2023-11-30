@@ -1,7 +1,7 @@
 ---
 title: "Zeitalter des Steinbocks"
 period: "21'810—19'650 v. Chr."
-description: "The Age of Capricorn discusses the first precessional month in the Great Year cycle, a period of 2,160 years when the rising Sun on the Vernal Equinox aligns with the Capricorn constellation. This epoch marks the arrival of the Elohim, an extraterrestrial civilization, on Earth, following a tragic incident in their genetic experiments. The page also interprets various Biblical passages, particularly from Genesis, suggesting that the term \"Elohim\" refers to beings from the sky who selected Earth for their scientific projects, including the creation of artificial life. This interpretation proposes a different understanding of the Biblical \"days\" as long periods marked by the precessional cycle of the Earth's axis."
+description: "Das Zeitalter des Steinbocks diskutiert den ersten präzessionellen Monat im Großen Jahr-Zyklus, eine Periode von 2.160 Jahren, in der die aufgehende Sonne zur Frühjahrs-Tagundnachtgleiche mit dem Sternbild Steinbock ausgerichtet ist. Diese Epoche markiert die Ankunft der Elohim, einer außerirdischen Zivilisation, auf der Erde, nach einem tragischen Vorfall in ihren genetischen Experimenten. Die Seite interpretiert auch verschiedene biblische Passagen, insbesondere aus der Genesis, und schlägt vor, dass der Begriff \"Elohim\" auf Wesen aus dem Himmel hinweist, die die Erde für ihre wissenschaftlichen Projekte, einschließlich der Schaffung künstlichen Lebens, ausgewählt haben. Diese Interpretation schlägt ein anderes Verständnis der biblischen \"Tage\" als lange Perioden vor, die durch den präzessionellen Zyklus der Erdachse gekennzeichnet sind."
 menu:
   intro:
     parent: "timeline"

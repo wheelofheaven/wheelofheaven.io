@@ -1,7 +1,7 @@
 ---
 title: "双子座时代"
 period: "6'690—4'530BC"
-description: "The Age of Gemini, lasting from 6,690 to 4,530 BC, follows the Age of Cancer in the Wheel of Heaven narrative. This age is characterized as a period of new beginnings and transformation, symbolized by the story of Noah and the Flood. It represents a shift towards increased communication and cooperation between different cultures and peoples, facilitating the sharing and dissemination of ideas and knowledge. During this time, the Elohim faction exiled to Earth, including the group known as the Serpent, held a belief in sharing scientific knowledge with humanity, contrasting with the controlling approach of the Elohim government from their home planet. This age also includes the dramatic event where the Elohim government, feeling threatened by human scientific advancement, decides to destroy all life on Earth with nuclear missiles. However, the exiled creators intervened, asking Noah to build a spaceship to preserve species' genetic material, ensuring the continuation of life on Earth after the cataclysm​​​​."
+description: "双子座时代，持续从公元前6690年至公元前4530年，紧随《Wheel of Heaven》叙述中的巨蟹座时代。这个时代被描述为一个新开始和转变的时期，象征性地由诺亚和大洪水的故事所代表。它代表着不同文化和民族之间增加沟通与合作的转变，促进了思想和知识的分享与传播。在这个时期，被放逐到地球的伊洛西姆派系，包括被称为“蛇”的团体，持有与人类分享科学知识的信念，这与他们母星的伊洛西姆政府的控制手段形成对比。这个时代还包括了伊洛西姆政府出于对人类科学进步的威胁感而决定用核导弹毁灭地球上所有生命的戏剧性事件。然而，被放逐的创造者介入，请求诺亚建造一艘宇宙飞船来保存物种的遗传材料，确保灾难后地球上生命的延续。"
 menu:
   intro:
     parent: "timeline"

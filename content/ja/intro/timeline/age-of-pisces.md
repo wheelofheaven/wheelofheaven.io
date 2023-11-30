@@ -1,7 +1,7 @@
 ---
 title: "魚座の時代"
 period: "紀元前 210 年—1950 年"
-description: "The Age of Pisces, spanning from 210 BC to 1950 AD, succeeded the Age of Aries and recently transitioned into the Age of Aquarius. This era is characterized by significant biblical events, notably the role of Christ, whose mission was to spread the truth of the biblical scriptures worldwide, serving as a foundation for humanity's understanding in the forthcoming age of science. The Age of Aquarius, beginning in 1945 with the development of nuclear power and information systems, symbolizes a time of increased knowledge and technological advancement, enabling humanity to reinterpret ancient wisdom through a modern lens. Additionally, the Age of Pisces included the birth of a significant child, born from a human mother and an extraterrestrial, inheriting unique telepathic abilities, as depicted in the biblical story of the birth of Jesus Christ​​​​​​​​."
+description: "「Wheel of Heaven」の物語における魚座の時代は、紀元前210年から1950年まで続き、牡羊座の時代に続いて水瓶座の時代に移行しました。この時代は、特にキリストの役割を含む重要な聖書の出来事に特徴づけられています。キリストの使命は、世界中に聖書の真実を広めることであり、これは科学の時代における人類の理解の基礎となるものでした。1945年に核エネルギーと情報システムの開発をもって始まる水瓶座の時代は、知識と技術的進歩が増加する時代を象徴し、人類が古代の知恵を現代的な視点で再解釈することを可能にしました。さらに、魚座の時代には、人間の母親と宇宙人から生まれた特別な子供の誕生も含まれており、独自のテレパシー能力を受け継いでおり、聖書のイエス・キリストの誕生の物語に描かれています。"
 menu:
   intro:
     parent: "timeline"

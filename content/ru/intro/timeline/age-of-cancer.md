@@ -1,7 +1,7 @@
 ---
 title: "Эпоха Рака"
 period: "8850—6690 до н. э."
-description: "The Age of Cancer, spanning from 8,850 to 6,690 BC, follows the Age of Leo in the Wheel of Heaven narrative. This era is crucial for the development of the relationship between humans and their extraterrestrial creators, the Elohim. Key events include the Elohim scientists, identified as \"the Serpent,\" defying their own government's restrictions by providing humans with advanced scientific knowledge. This act of rebellion led to their exile on Earth and created a shift in the dynamic between humans and their creators, as humans began to seek knowledge and power independently. This period represents a significant turning point in the narrative, marked by conflict and the pursuit of intellectual autonomy by humans​​​​."
+description: "Эпоха Рака, охватывающая период с 8850 по 6690 год до н.э., следует за Эпохой Льва в повествовании \"Wheel of Heaven\". Эта эпоха имеет решающее значение для развития отношений между людьми и их внеземными создателями, Элохимами. Ключевые события включают ученых Элохимов, известных как \"Змей\", которые нарушили ограничения своего правительства, предоставив людям передовые научные знания. Этот акт бунта привел к их ссылке на Землю и вызвал изменение в динамике отношений между людьми и их создателями, поскольку люди начали самостоятельно искать знания и власть. Этот период представляет собой значительный поворотный момент в повествовании, отмеченный конфликтом и стремлением людей к интеллектуальной автономии."
 menu:
   intro:
     parent: "timeline"

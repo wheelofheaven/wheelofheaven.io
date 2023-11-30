@@ -1,9 +1,4 @@
 ---
 title: "Resources"
-description: "Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible."
-lead: "Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible."
+description: "The Resources section of the Wheel of Heaven website offers a curated selection of materials to enhance the understanding of its core topics. It includes a variety of resources such as books, articles, and multimedia content, each carefully chosen to provide deeper insights into the themes explored on the site. This section is designed to support further research and learning for those intrigued by the site's exploration of cosmic connections and humanity's origins."
 ---
-
-Wheel of Heaven believes in the democratization of information and is interested in maintaining and hosting as many original sources as possible.
-
-As a result, we are pleased to provide a **small subset of books** that we deem important for the proper propagation and contextualization of the premises proposed by Wheel of Heaven. These books are all accessible as so-called Gitbooks, which means that these books are versioned and hosted with the infamous Git technology, a distributed version control system.

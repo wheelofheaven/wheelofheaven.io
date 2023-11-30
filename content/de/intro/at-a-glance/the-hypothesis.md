@@ -1,6 +1,6 @@
 ---
 title: "Die Hypothese"
-decription: "Die Hypothese erläutert eine Theorie, die tief von den Offenbarungen der Raelianer beeinflusst ist. Sie erforscht die Idee, dass eine fortgeschrittene außerirdische Zivilisation, bekannt als die Elohim, eine entscheidende Rolle bei der Erschaffung des Lebens auf der Erde gespielt hat. Die Website schlägt eine nuancierte Interpretation dieser raelianischen Botschaften vor, die sie im Kontext unserer sich entwickelnden Welt betrachtet. Diese Hypothese bildet das Rückgrat der Erzählung der Website und untermauert ihre Erforschung der Ursprünge und des Platzes der Menschheit im Universum."
+description: "Die Hypothese erläutert eine Theorie, die tief von den Offenbarungen der Raelianer beeinflusst ist. Sie erforscht die Idee, dass eine fortgeschrittene außerirdische Zivilisation, bekannt als die Elohim, eine entscheidende Rolle bei der Erschaffung des Lebens auf der Erde gespielt hat. Die Website schlägt eine nuancierte Interpretation dieser raelianischen Botschaften vor, die sie im Kontext unserer sich entwickelnden Welt betrachtet. Diese Hypothese bildet das Rückgrat der Erzählung der Website und untermauert ihre Erforschung der Ursprünge und des Platzes der Menschheit im Universum."
 menu:
   intro:
     parent: "at-a-glance"

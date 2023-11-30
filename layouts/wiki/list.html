@@ -1,20 +1,22 @@
 {{ define "main" }}
 <div class="row justify-content-center">
-  		<div class="col-lg-5 col-xl-4 docs-sidebar{{ if ne .Site.Params.options.navbarSticky true }} docs-sidebar-top{{ end }} d-none d-lg-block">
-			<nav  id="sidebar-default" class="docs-links" aria-label="Main navigation">
-				{{ partial "sidebar/docs-menu.html" . }}
-			</nav>
-		</div>
+  <div class="col-lg-5 col-xl-4 docs-sidebar{{ if ne .Site.Params.options.navbarSticky true }} docs-sidebar-top{{ end }} d-none d-lg-block">
+    <nav  id="sidebar-default" class="docs-links" aria-label="Main navigation">
+      {{ partial "sidebar/docs-menu.html" . }}
+    </nav>
+  </div>
   <div class="col-md-12 col-lg-10 mx-xl-auto">
+    <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        {{ partial "main/breadcrumb" . -}}
+        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+      </ol>
+    </nav>
     <article>
-      <h1 class="text-center">
-        {{ if eq .CurrentSection .FirstSection }}
-          {{ .Section | humanize }}
-        {{ else }}
-          {{ .Title }}
-        {{ end }}
+      <h1>
+        {{ .Title }}
       </h1>
-      <div class="text-center">{{ .Content }}</div>
+      <div>{{ .Description }}</div>
       <div class="card-list">
         {{ $currentSection := .CurrentSection }}
         {{ range where .Site.RegularPages.ByTitle "Section" .Section }}

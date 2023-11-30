@@ -32,10 +32,13 @@
   translation: "Глянь сюда"
 
 - id: all-resources
-  translation: ""
+  translation: "Все ресурсы"
 
 - id: alternative-names
   translation: "Альтернативные названия:"
+
+- id: authored-by
+  translation: "кем-то"
 
 - id: backlinks
   translation: "обратные ссылки::"

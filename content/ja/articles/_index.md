@@ -1,8 +1,4 @@
 ---
-title: "Articles"
-description: "Wheel of Heaven articles."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
+title: "ブログ記事"
+description: "Wheel of Heavenウェブサイトの記事セクションには、サイトの中心的なテーマを掘り下げる多様な文章が集められています。このセクションは、サイトが宇宙的なつながりや人類の起源を探究することを、よく研究され、魅力的に書かれたコンテンツを通じて理解を深めたい読者に最適です。"
 ---

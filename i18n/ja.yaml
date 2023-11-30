@@ -37,6 +37,9 @@
 - id: alternative-names
   translation: "別名:"
 
+- id: authored-by
+  translation: "によって"
+
 - id: backlinks
   translation: "バックリンク:"
 

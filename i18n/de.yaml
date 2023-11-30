@@ -37,6 +37,9 @@
 - id: alternative-names
   translation: "Alternative Namen:"
 
+- id: authored-by
+  translation: "von"
+
 - id: backlinks
   translation: "Backlinks:"
 
@@ -48,6 +51,9 @@
 
 - id: not-translated
   translation: "Nicht übersetzt"
+
+- id: original-title
+  translation: "Originaler Titel:"
 
 - id: topics
   translation: "Themen"

@@ -37,6 +37,9 @@
 - id: alternative-names
   translation: "Alternative names:"
 
+- id: authored-by
+  translation: "by"
+
 - id: original-title
   translation: "Original title:"
 

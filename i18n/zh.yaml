@@ -37,6 +37,9 @@
 - id: alternative-names
   translation: "替代名称："
 
+- id: authored-by
+  translation: "写"
+
 - id: backlinks
   translation: "反向链接："
 
@@ -48,6 +51,9 @@
 
 - id: not-translated
   translation: "未翻译"
+
+- id: original-title
+  translation: "原标题："
 
 - id: topics
   translation: "主题"

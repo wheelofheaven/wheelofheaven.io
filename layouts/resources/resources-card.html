@@ -14,7 +14,7 @@
     {{ end -}}
 
     {{ if .Params.authored_by -}}
-      &nbsp— by
+      &nbsp— {{ i18n "authored-by" }}
     {{ range $index, $author := .Params.authored_by }}
     {{ if gt $index 0 }}, {{ end }}
       {{ . }}

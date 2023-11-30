@@ -1,8 +1,4 @@
 ---
-title: "Articles"
-description: "Wheel of Heaven articles."
-date: 2022-09-20T00:00:00+00:00
-lastmod: 2022-09-20T00:00:00+00:00
-draft: false
-images: []
+title: "博客文章"
+description: "Wheel of Heaven网站的文章版块包含了深入探讨网站核心主题的多样化写作集合。对于希望通过精心研究且撰写引人入胜的内容来拓展对网站探索人类宇宙联系和起源理解的读者来说，这一版块是理想的选择。"
 ---

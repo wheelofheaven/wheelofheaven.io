@@ -1,6 +1,6 @@
 ---
 title: "Sincretismo religioso"
-description: "The \"Religious Syncretism\" chapter on the Wheel of Heaven website explores the blending and integration of various religious beliefs and practices, especially in the context of the site's hypothesis about extraterrestrial influence on human civilization. This chapter might delve into how different religious traditions and stories could be interconnected or reinterpreted in light of the theory that an advanced alien civilization, the Elohim, played a role in human development. It would likely aim to provide a cohesive view that bridges gaps between diverse religious narratives, offering a unique perspective on the synthesis of these spiritual beliefs with the site's extraterrestrial hypothesis."
+description: "El capítulo \"Sincretismo Religioso\" en el sitio web de \"Wheel of Heaven\" explora la mezcla e integración de diversas creencias y prácticas religiosas, especialmente en el contexto de la hipótesis del sitio sobre la influencia extraterrestre en la civilización humana. Este capítulo podría profundizar en cómo diferentes tradiciones y relatos religiosos podrían estar interconectados o reinterpretados a la luz de la teoría de que una civilización alienígena avanzada, los Elohim, desempeñó un papel en el desarrollo humano. Tiene como objetivo proporcionar una visión cohesiva que cubra las brechas entre narrativas religiosas diversas, ofreciendo una perspectiva única sobre la síntesis de estas creencias espirituales con la hipótesis extraterrestre del sitio."
 menu:
   intro:
     parent: "take-aways"

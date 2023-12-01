@@ -1,6 +1,6 @@
 ---
-title: "Le grand réveil"
-description: "The \"Great Awakening\" chapter on the Wheel of Heaven website addresses a transformative shift in human consciousness and understanding, in line with the site's central hypothesis of extraterrestrial influence on Earth. This chapter might discuss the impact of recognizing an advanced alien civilization's role in human history, how this awareness could alter our global perspectives, and the potential societal and philosophical changes resulting from such a revelation. It could explore the notion of humanity entering a new era of enlightenment, spurred by a deeper understanding of our origins and place in the cosmos, as suggested by the Wheel of Heaven's narrative."
+title: "Le Grand Réveil"
+description: "Le chapitre « Le Grand Réveil » sur le site « Wheel of Heaven » aborde un changement transformateur dans la conscience et la compréhension humaines, conforme à l'hypothèse centrale du site sur l'influence extraterrestre sur la Terre. Ce chapitre traite de l'impact de la reconnaissance du rôle d'une civilisation extraterrestre avancée dans l'histoire humaine, comment cette prise de conscience pourrait modifier nos perspectives mondiales et les changements sociétaux et philosophiques potentiels résultant d'une telle révélation. Il explore la notion de l'entrée de l'humanité dans une nouvelle ère d'illumination, l'Âge d'Or attendu, stimulé par une compréhension plus profonde de nos origines et de notre place dans le cosmos, comme suggéré par la narration de « Wheel of Heaven »."
 menu:
   intro:
     parent: "take-aways"

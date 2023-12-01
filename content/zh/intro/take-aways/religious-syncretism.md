@@ -1,6 +1,6 @@
 ---
 title: "宗教融合"
-description: "The \"Religious Syncretism\" chapter on the Wheel of Heaven website explores the blending and integration of various religious beliefs and practices, especially in the context of the site's hypothesis about extraterrestrial influence on human civilization. This chapter might delve into how different religious traditions and stories could be interconnected or reinterpreted in light of the theory that an advanced alien civilization, the Elohim, played a role in human development. It would likely aim to provide a cohesive view that bridges gaps between diverse religious narratives, offering a unique perspective on the synthesis of these spiritual beliefs with the site's extraterrestrial hypothesis."
+description: "《Wheel of Heaven》网站上的“宗教融合”章节探讨了各种宗教信仰和实践的融合与整合，特别是在该网站关于外星文明对人类文明影响的假设的背景下。这一章节可能会深入探讨不同宗教传统和故事如何可以相互联系或在认为先进的外星文明——伊洛西姆在人类发展中扮演角色的理论下重新解读。它旨在提供一个将不同宗教叙述之间的差距弥合起来的连贯观点，为这些精神信仰与该网站的外星假设的综合提供独特的视角。"
 menu:
   intro:
     parent: "take-aways"

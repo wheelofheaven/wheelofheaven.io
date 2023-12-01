@@ -1,6 +1,6 @@
 ---
 title: "知识库"
-description: "The \"Knowledge Base\" section on the Wheel of Heaven website is designed as a comprehensive resource for those wishing to delve deeper into the concepts, theories, and narratives presented on the site. This section probably offers a range of materials, including secondary and tertiary literature, to enhance understanding of the hypothesis of extraterrestrial influence on Earth. It may include detailed explanations, references to scientific and historical texts, and additional media resources, providing a thorough backdrop for the exploration of the site's central themes and supporting the broader intellectual journey proposed by Wheel of Heaven."
+description: "《Wheel of Heaven》网站的“知识库”部分被设计为那些希望更深入了解网站上提出的概念、理论和叙述的人的综合资源。本节提供了一系列材料，包括二级和三级文献，以加深对地球上外星影响假设的理解。它包括详细的解释、对科学和历史文本的引用以及额外的媒体资源，为探索网站的核心主题和支持《Wheel of Heaven》提出的更广泛的智力旅程提供了全面的背景。"
 menu:
   intro:
     parent: "see-more"

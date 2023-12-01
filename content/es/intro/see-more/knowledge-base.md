@@ -1,6 +1,6 @@
 ---
 title: "Base de conocimientos"
-description: "The \"Knowledge Base\" section on the Wheel of Heaven website is designed as a comprehensive resource for those wishing to delve deeper into the concepts, theories, and narratives presented on the site. This section probably offers a range of materials, including secondary and tertiary literature, to enhance understanding of the hypothesis of extraterrestrial influence on Earth. It may include detailed explanations, references to scientific and historical texts, and additional media resources, providing a thorough backdrop for the exploration of the site's central themes and supporting the broader intellectual journey proposed by Wheel of Heaven."
+description: "La sección \"Base de conocimientos\" en el sitio web de \"Wheel of Heaven\" está diseñada como un recurso integral para aquellos que deseen profundizar en los conceptos, teorías y narrativas presentados en el sitio. Esta sección ofrece una variedad de materiales, incluyendo literatura secundaria y terciaria, para mejorar la comprensión de la hipótesis de la influencia extraterrestre en la Tierra. Incluye explicaciones detalladas, referencias a textos científicos e históricos y recursos mediáticos adicionales, proporcionando un trasfondo exhaustivo para la exploración de los temas centrales del sitio y apoyando el viaje intelectual más amplio propuesto por \"Wheel of Heaven\"."
 menu:
   intro:
     parent: "see-more"

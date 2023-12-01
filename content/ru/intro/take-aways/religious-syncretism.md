@@ -1,6 +1,6 @@
 ---
 title: "Религиозный синкретизм"
-description: "The \"Religious Syncretism\" chapter on the Wheel of Heaven website explores the blending and integration of various religious beliefs and practices, especially in the context of the site's hypothesis about extraterrestrial influence on human civilization. This chapter might delve into how different religious traditions and stories could be interconnected or reinterpreted in light of the theory that an advanced alien civilization, the Elohim, played a role in human development. It would likely aim to provide a cohesive view that bridges gaps between diverse religious narratives, offering a unique perspective on the synthesis of these spiritual beliefs with the site's extraterrestrial hypothesis."
+description: "Глава \"Религиозный синкретизм\" на сайте \"Wheel of Heaven\" исследует смешение и интеграцию различных религиозных убеждений и практик, особенно в контексте гипотезы сайта об внеземном влиянии на человеческую цивилизацию. В этой главе может быть рассмотрено, как различные религиозные традиции и истории могут быть взаимосвязаны или переосмыслены в свете теории о том, что развитая инопланетная цивилизация, Элохимы, сыграла роль в развитии человечества. Глава, вероятно, нацелена на предоставление последовательного взгляда, который объединяет различия между разнообразными религиозными рассказами, предлагая уникальную перспективу на синтез этих духовных убеждений с внеземной гипотезой сайта."
 menu:
   intro:
     parent: "take-aways"

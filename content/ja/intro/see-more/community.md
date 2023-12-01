@@ -1,6 +1,6 @@
 ---
 title: "コミュニティ"
-description: "The \"Community\" section of the Wheel of Heaven website is focused on fostering a network of individuals who share an interest in the site's narrative about extraterrestrial influence on Earth. This page offers various ways for visitors to connect, engage, and discuss the intriguing concepts presented on the site. It features forums, social media links, and other platforms where like-minded individuals and those intrigued by the hypothesis can exchange ideas, delve deeper into discussions, and become part of a growing community interested in exploring these unconventional theories about human civilization and its origins."
+description: "「Wheel of Heaven」ウェブサイトの「コミュニティ」セクションは、地球への宇宙人の影響に関するサイトの物語に興味を持つ個人のネットワークを育成することに焦点を当てています。このページでは、訪問者が接続し、関与し、サイトで提示される興味深い概念について議論するためのさまざまな方法を提供します。フォーラム、ソーシャルメディアのリンク、および同じ考えを持つ個人や仮説に魅了された人々がアイデアを交換し、議論を深め、人類文明とその起源に関するこれらの非伝統的な理論を探求することに関心を持つ成長中のコミュニティの一部となるための他のプラットフォームが特徴です。"
 menu:
   intro:
     parent: "see-more"

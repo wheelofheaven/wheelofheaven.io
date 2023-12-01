@@ -1,6 +1,6 @@
 ---
 title: "地外文明"
-description: "The \"Extraterrestrial Civilization\" chapter synthesizes the key takeaways from the site's exploration of the hypothesis that life on Earth was engineered by the Elohim, an advanced extraterrestrial civilization. This chapter likely summarizes the journey through ancient scriptures, historical events, and scientific interpretations that support this theory. It probably aims to consolidate the insights gained from previous chapters, offering a cohesive understanding of how this extraterrestrial influence might have shaped human history and development, and what implications this has for our perception of humanity's place in the cosmos."
+description: "《地外文明》章节综合了该网站探索的关键收获，即地球上的生命是由伊洛西姆，一种先进的外星文明所设计。这一章节可能总结了通过古代经文、历史事件和支持这一理论的科学解释的旅程。它旨在巩固前几章获得的洞察，提供一个关于这种外星影响如何塑造人类历史和发展的连贯理解，以及这对我们对人类在宇宙中地位的看法有何影响。"
 menu:
   intro:
     parent: "take-aways"

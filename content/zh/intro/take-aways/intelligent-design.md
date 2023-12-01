@@ -1,6 +1,6 @@
 ---
 title: "智能设计"
-description: "The \"Intelligent Design\" chapter delves into the concept of life on Earth being the result of intentional creation by an advanced extraterrestrial civilization, as opposed to random evolutionary processes. This chapter would explore the intricacies of this theory, examining evidence and arguments that support the idea of a deliberate, intelligent force behind the development of life and human civilization. It may also address the broader implications of this perspective, challenging conventional scientific and philosophical views on evolution and the origin of life."
+description: "《智能设计》章节深入探讨了地球上的生命是由一种先进的外星文明有意创造的概念，与随机进化过程相反。这一章节将探索这一理论的复杂性，审视支持生命和人类文明发展背后有一个故意的、智能的力量的证据和论点。它还可能讨论这种观点的更广泛含义，挑战传统的科学和哲学观点对进化和生命起源的看法。"
 menu:
   intro:
     parent: "take-aways"

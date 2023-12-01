@@ -1,13 +1,13 @@
 {{ if or (not (isset .Params "show")) (eq .Params.show true) }}
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title mt-2"><a class="card-link stretched-link text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a></h5>
+    <h5 class="card-title mt-2"><a class="card-link text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a></h5>
     <p class="card-text mt-2 medium-icon">
     {{ if .Params.medium -}}
     {{ partial "utilities/mediumIcon"  (dict "context" . "mediumIcon" .Params.medium_icon) }}
     {{ range $index, $type := .Params.medium }}
     {{ if gt $index 0 }}, {{ end }}
-      <a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">
+      <a class="position-relative" href="{{ "/medium/" | relURL }}{{ . | urlize }}/">
         {{ . | humanize }}
       </a>
     {{ end -}}
@@ -24,12 +24,17 @@
     </p>
     <p class="card-text mb-2">
       <small>
-        {{ .Params.description | safeHTML | truncate 400 }} ...
+        {{ .Params.description | safeHTML | truncate 400 }} <a href="{{ .RelPermalink }}">&rarr;</a>
       </small>
     </p>
     <div class="mt-4">
+      {{ $langPrefix := "/" }}
+      {{ if ne $.Site.Language.Lang "en" }}
+        {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+      {{ end }}
+      {{ $topicURL := printf "%sresources/topics/" $langPrefix }}
       {{ range $index, $tag := .Params.topics -}}
-        <a class="btn btn-light" href="{{ "/topics/" | relURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+        <a class="btn btn-light" href="{{ $topicURL | relURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
       {{ end -}}
     </div>
   </div>

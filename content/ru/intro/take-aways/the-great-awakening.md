@@ -1,6 +1,6 @@
 ---
 title: "Великое пробуждение"
-description: "The \"Great Awakening\" chapter on the Wheel of Heaven website addresses a transformative shift in human consciousness and understanding, in line with the site's central hypothesis of extraterrestrial influence on Earth. This chapter might discuss the impact of recognizing an advanced alien civilization's role in human history, how this awareness could alter our global perspectives, and the potential societal and philosophical changes resulting from such a revelation. It could explore the notion of humanity entering a new era of enlightenment, spurred by a deeper understanding of our origins and place in the cosmos, as suggested by the Wheel of Heaven's narrative."
+description: "Глава \"Великое Пробуждение\" (Ривайвелизм) на сайте \"Wheel of Heaven\" рассматривает трансформационное изменение в человеческом сознании и понимании, в соответствии с центральной гипотезой сайта о внеземном влиянии на Землю. Эта глава обсуждает влияние признания роли развитой внеземной цивилизации в истории человечества, как это осознание может изменить наши глобальные перспективы и потенциальные социальные и философские изменения, вытекающие из такого открытия. Она исследует идею о том, что человечество вступает в новую эру просвещения, ожидаемый Золотой Век, подстегнутый более глубоким пониманием наших истоков и места в космосе, как предполагает рассказ \"Wheel of Heaven\"."
 menu:
   intro:
     parent: "take-aways"

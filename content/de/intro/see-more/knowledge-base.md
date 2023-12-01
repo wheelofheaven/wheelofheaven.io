@@ -1,6 +1,6 @@
 ---
-title: "Knowledge Base"
-description: "The \"Knowledge Base\" section on the Wheel of Heaven website is designed as a comprehensive resource for those wishing to delve deeper into the concepts, theories, and narratives presented on the site. This section probably offers a range of materials, including secondary and tertiary literature, to enhance understanding of the hypothesis of extraterrestrial influence on Earth. It may include detailed explanations, references to scientific and historical texts, and additional media resources, providing a thorough backdrop for the exploration of the site's central themes and supporting the broader intellectual journey proposed by Wheel of Heaven."
+title: "Wissensdatenbank"
+description: "Der Abschnitt „Wissensdatenbank“ auf der „Wheel of Heaven“-Website ist als umfassende Ressource für diejenigen konzipiert, die tiefer in die Konzepte, Theorien und Erzählungen der Website eintauchen möchten. Dieser Abschnitt bietet eine Reihe von Materialien, einschließlich sekundärer und tertiärer Literatur, um das Verständnis der Hypothese des außerirdischen Einflusses auf die Erde zu verbessern. Er enthält detaillierte Erklärungen, Verweise auf wissenschaftliche und historische Texte sowie zusätzliche Medienressourcen und bietet so einen gründlichen Hintergrund für die Erforschung der zentralen Themen der Website und unterstützt die breitere intellektuelle Reise, die von „Wheel of Heaven“ vorgeschlagen wird"
 menu:
   intro:
     parent: "see-more"

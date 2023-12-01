@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-description: "The FAQ section of the Wheel of Heaven website provides insights into the hypothesis that life on Earth was created by an extraterrestrial civilization known as the Elohim. It offers interpretations of ancient scriptures, particularly the Bible, as potential messages from these advanced beings. The content is inspired by Raëlian revelations and aims to merge ancient stories with modern scientific inquiry. This section serves as a resource for understanding the site's narrative and offers additional materials for further exploration​​​​​"
+description: "La sección de preguntas frecuentes del sitio web de \"Wheel of Heaven\" ofrece información sobre la hipótesis de que la vida en la Tierra fue creada por una civilización extraterrestre conocida como los Elohim. Ofrece interpretaciones de escrituras antiguas, en particular de la Biblia, como posibles mensajes de estos seres avanzados. El contenido está inspirado en las revelaciones Raëlianas y tiene como objetivo fusionar historias antiguas con la indagación científica moderna. Esta sección sirve como un recurso para comprender la narrativa del sitio y ofrece materiales adicionales para una exploración más profunda.​"
 menu:
   intro:
     parent: "see-more"

@@ -1,6 +1,6 @@
 ---
 title: "地球外文明"
-description: "The \"Extraterrestrial Civilization\" chapter synthesizes the key takeaways from the site's exploration of the hypothesis that life on Earth was engineered by the Elohim, an advanced extraterrestrial civilization. This chapter likely summarizes the journey through ancient scriptures, historical events, and scientific interpretations that support this theory. It probably aims to consolidate the insights gained from previous chapters, offering a cohesive understanding of how this extraterrestrial influence might have shaped human history and development, and what implications this has for our perception of humanity's place in the cosmos."
+description: "「地球外文明」の章は、地球上の生命がエロヒムという進んだ宇宙文明によって設計されたという仮説の探求から得られた主要な知見をまとめています。この章は、この理論を支持する古代の聖典、歴史的な出来事、そして科学的な解釈を通じた旅をおそらく要約しているでしょう。これは、以前の章から得られた洞察を統合し、この宇宙的な影響が人類の歴史と発展をどのように形作ったか、そしてそれが私たちの宇宙における人類の位置の認識にどのような意味を持つかについての統合された理解を提供することを目的としている可能性があります。"
 menu:
   intro:
     parent: "take-aways"

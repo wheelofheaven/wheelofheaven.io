@@ -1,6 +1,6 @@
 ---
-title: "Design intelligent"
-description: "The \"Intelligent Design\" chapter delves into the concept of life on Earth being the result of intentional creation by an advanced extraterrestrial civilization, as opposed to random evolutionary processes. This chapter would explore the intricacies of this theory, examining evidence and arguments that support the idea of a deliberate, intelligent force behind the development of life and human civilization. It may also address the broader implications of this perspective, challenging conventional scientific and philosophical views on evolution and the origin of life."
+title: "Dessein intelligent"
+description: "Le chapitre « Dessein intelligent » explore le concept selon lequel la vie sur Terre est le résultat d'une création intentionnelle par une civilisation extraterrestre avancée, contrairement aux processus évolutifs aléatoires. Ce chapitre examinerait les subtilités de cette théorie, en examinant les preuves et arguments qui soutiennent l'idée d'une force délibérée et intelligente derrière le développement de la vie et de la civilisation humaine. Il pourrait également aborder les implications plus larges de cette perspective, remettant en question les vues scientifiques et philosophiques conventionnelles sur l'évolution et l'origine de la vie."
 menu:
   intro:
     parent: "take-aways"

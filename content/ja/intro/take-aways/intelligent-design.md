@@ -1,6 +1,6 @@
 ---
 title: "インテリジェントなデザイン"
-description: "The \"Intelligent Design\" chapter delves into the concept of life on Earth being the result of intentional creation by an advanced extraterrestrial civilization, as opposed to random evolutionary processes. This chapter would explore the intricacies of this theory, examining evidence and arguments that support the idea of a deliberate, intelligent force behind the development of life and human civilization. It may also address the broader implications of this perspective, challenging conventional scientific and philosophical views on evolution and the origin of life."
+description: "「インテリジェント・デザイン」の章は、地球上の生命が、ランダムな進化プロセスではなく、進んだ宇宙文明による意図的な創造の結果であるというコンセプトを掘り下げます。この章では、この理論の複雑さを探求し、生命と人類文明の発展の背後にある意図的で知的な力を支持する証拠と論拠を検討するでしょう。また、この視点の広範な意味合いにも言及し、進化と生命の起源に関する従来の科学的および哲学的見解に挑戦する可能性があります。"
 menu:
   intro:
     parent: "take-aways"

@@ -1,6 +1,6 @@
 ---
-title: "El gran despertar"
-description: "The \"Great Awakening\" chapter on the Wheel of Heaven website addresses a transformative shift in human consciousness and understanding, in line with the site's central hypothesis of extraterrestrial influence on Earth. This chapter might discuss the impact of recognizing an advanced alien civilization's role in human history, how this awareness could alter our global perspectives, and the potential societal and philosophical changes resulting from such a revelation. It could explore the notion of humanity entering a new era of enlightenment, spurred by a deeper understanding of our origins and place in the cosmos, as suggested by the Wheel of Heaven's narrative."
+title: "El Gran Despertar"
+description: "El capítulo \"El Gran Despertar\" en el sitio web de \"Wheel of Heaven\" aborda un cambio transformador en la conciencia y el entendimiento humano, en línea con la hipótesis central del sitio sobre la influencia extraterrestre en la Tierra. Este capítulo discute el impacto de reconocer el papel de una civilización alienígena avanzada en la historia humana, cómo esta conciencia podría alterar nuestras perspectivas globales y los posibles cambios sociales y filosóficos resultantes de tal revelación. Explora la idea de que la humanidad entre en una nueva era de iluminación, la anticipada Edad de Oro, impulsada por una comprensión más profunda de nuestros orígenes y nuestro lugar en el cosmos, como sugiere la narrativa de \"Wheel of Heaven\"."
 menu:
   intro:
     parent: "take-aways"

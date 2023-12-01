@@ -1,6 +1,6 @@
 ---
-title: "Умный дизайн"
-description: "The \"Intelligent Design\" chapter delves into the concept of life on Earth being the result of intentional creation by an advanced extraterrestrial civilization, as opposed to random evolutionary processes. This chapter would explore the intricacies of this theory, examining evidence and arguments that support the idea of a deliberate, intelligent force behind the development of life and human civilization. It may also address the broader implications of this perspective, challenging conventional scientific and philosophical views on evolution and the origin of life."
+title: "Разумный замысел"
+description: "Глава \"Разумный замысел\" углубляется в концепцию, что жизнь на Земле является результатом намеренного создания развитой внеземной цивилизацией, в отличие от случайных эволюционных процессов. Эта глава исследует сложности этой теории, рассматривая доказательства и аргументы, поддерживающие идею сознательной, разумной силы, стоящей за развитием жизни и человеческой цивилизации. Она также может рассмотреть более широкие последствия этой точки зрения, бросая вызов традиционным научным и философским взглядам на эволюцию и происхождение жизни."
 menu:
   intro:
     parent: "take-aways"

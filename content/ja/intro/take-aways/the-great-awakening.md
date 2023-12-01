@@ -1,6 +1,6 @@
 ---
-title: "大いなる目覚め"
-description: "The \"Great Awakening\" chapter on the Wheel of Heaven website addresses a transformative shift in human consciousness and understanding, in line with the site's central hypothesis of extraterrestrial influence on Earth. This chapter might discuss the impact of recognizing an advanced alien civilization's role in human history, how this awareness could alter our global perspectives, and the potential societal and philosophical changes resulting from such a revelation. It could explore the notion of humanity entering a new era of enlightenment, spurred by a deeper understanding of our origins and place in the cosmos, as suggested by the Wheel of Heaven's narrative."
+title: "大覚醒"
+description: "「Wheel of Heaven」ウェブサイトの「大覚醒」の章は、地球に対する宇宙人の影響に関するサイトの中心的な仮説に沿って、人間の意識と理解における変革的なシフトに取り組んでいます。この章では、進んだ宇宙文明が人類の歴史において果たした役割を認識する影響、この意識が私たちのグローバルな視点をどのように変えるか、そしてそのような啓示から生じる潜在的な社会的および哲学的変化について議論します。それは、「Wheel of Heaven」の物語が示唆するように、私たちの起源と宇宙における場所に関するより深い理解によって促進される、新しい啓蒙の時代、予想される黄金時代への人類の入場の概念を探求しています。"
 menu:
   intro:
     parent: "take-aways"

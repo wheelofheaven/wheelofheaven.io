@@ -111,6 +111,10 @@ $navbar-dark-active-color:          $link-color-dark;
   border-bottom: 0;
 }
 
+[data-dark-mode] h5.offcanvas-title {
+  color: #fff;
+}
+
 [data-dark-mode] body .offcanvas-header {
   border-bottom: 1px solid $gray-800;
 }

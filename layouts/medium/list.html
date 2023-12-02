@@ -27,7 +27,7 @@
 			{{ end }}
 		  {{ end }}
 		{{ end }}
-		<h2>{{ i18n "medium" }} : {{ $pageTitle }}</h2>
+		<h2>{{ $pageTitle }} ({{ i18n "medium" }})</h2>
 		<p>{{ $pageDescription }}</p>			
 		<div class="row row-cols-1 row-cols-md-1 g-5">
 			{{ range .Data.Pages.ByWeight.Reverse -}}

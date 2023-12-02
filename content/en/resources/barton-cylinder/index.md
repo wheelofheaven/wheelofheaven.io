@@ -7,8 +7,8 @@ follow_url: "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/
 menu:
   resources:
     parent: "browse"
-medium: "ancient-text"
-topics: ["Mythology", "The Tradition"]
+medium: "remote-antiquity"
+topics: ["Mythology", "Religion", "Sumer", "The Tradition"]
 ---
 
 The Barton Cylinder, also known as CBS 8383, is a significant artifact of Sumerian literature and mythology. Dating from the mid to late 3rd millennium BCE, approximately around 2400 BCE, it is a clay cylinder inscribed with a Sumerian cuneiform text. The cylinder was discovered in 1889 at the site of Nippur during excavations by the University of Pennsylvania and is currently housed in the University of Pennsylvania Museum of Archaeology and Anthropology.
@@ -24,6 +24,7 @@ George Barton's translation and analysis of the text reveal a primitive sense of
 
 - [Wiki › Comparative Mythology]({{< relref "wiki/encyclopedia/comparative-mythology.md" >}})
 - [Resources › The Electronic Text Corpus of Sumerian Literature]({{< relref "resources/the-electronic-text-corpus-of-sumerian-literature/index.md" >}})
+- [Resources › The Eridu Genesis]({{< relref "resources/the-eridu-genesis/index.md" >}})
 
 ### External links
 

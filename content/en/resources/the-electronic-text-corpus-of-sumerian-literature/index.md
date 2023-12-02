@@ -8,7 +8,7 @@ menu:
   resources:
     parent: "browse"
 medium: "web-resource"
-topics: ["Archive", "Mythology", "Religion", "The Tradition"]
+topics: ["Archive", "Mythology", "Religion", "Sumer", "The Tradition"]
 ---
 
 The Electronic Text Corpus of Sumerian Literature (ETCSL), in its second edition, is a comprehensive digital project aimed at compiling, translating, and publishing the extensive body of Sumerian literature. This literature, dating back to around 2500 BCE, includes a vast array of poetic forms such as hymns, laments, prayers, fables, and proverbs, largely reconstructed from thousands of fragmented clay tablets inscribed in cuneiform.
@@ -19,4 +19,6 @@ Although funding for the ETCSL ended in 2006, the project's outputs remain a cri
 
 ### See also
 
-[Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})</br>
+- [Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})
+- [Resources › Barton Cylinder]({{< relref "resources/barton-cylinder/index.md" >}})
+- [Resources › The Eridu Genesis]({{< relref "resources/the-eridu-genesis/index.md" >}})

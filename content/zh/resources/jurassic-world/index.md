@@ -7,8 +7,7 @@ follow_url: "https://www.jurassicworldmovie.com/"
 menu:
   resources:
     parent: "browse"
-medium: ["Cinematographic film"]
-medium_icon: "cinematographic-film"
+medium: "cinematographic-film"
 topics: ["Age of Aquarius", "Cyberparadism", "Intelligent Design", "Futurism"]
 ---
 

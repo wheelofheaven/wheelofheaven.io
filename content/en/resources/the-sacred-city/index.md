@@ -7,8 +7,7 @@ follow_url: "https://nabataea.net/cinema/sacredcity/"
 menu:
   resources:
     parent: "browse"
-medium: ["Documentary film"]
-medium_icon: "documentary-film"
+medium: "documentary-film"
 topics: ["Ancient Builders", "Bible"]
 ---
 

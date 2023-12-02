@@ -7,8 +7,7 @@ follow_url: "https://www.deezer.com/en/show/3741747"
 menu:
   resources:
     parent: "browse"
-medium: ["Podcast"]
-medium_icon: "podcast"
+medium: "podcast"
 topics: ["Atlantis", "Comparative Mythology", "Esoterica", "Flood geology", "History of science", "Precession", "Sacred Geometry"]
 ---
 

@@ -8,8 +8,7 @@ follow_url: "https://a16z.com/the-techno-optimist-manifesto/"
 menu:
   resources:
     parent: "browse"
-medium: ["Manifesto"]
-medium_icon: "manifesto"
+medium: "manifesto"
 topics: ["Age of Aquarius", "Cyberparadism", "Futurism"]
 ---
 

@@ -7,8 +7,7 @@ follow_url: "https://www.churchofjesuschrist.org/study/scriptures/"
 menu:
   resources:
     parent: "browse"
-medium: ["Web resource"]
-medium_icon: "web-resource"
+medium: "web-resource"
 topics: ["Archive", "Religion"]
 ---
 

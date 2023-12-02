@@ -9,8 +9,23 @@
 <h3>{{ i18n "medium" }}</h3>
 <ul class="list-unstyled">
   {{ range .Site.Taxonomies.medium }}
-    {{ $active := eq .Page.Title $currentPage.Title -}}
-    <li><a class="docs-link d-flex{{ if $active }} active{{ end }}" href="{{ .Page.Permalink }}"><span>{{ .Page.Title | title }}</span><span class="badge bg-light text-dark fw-normal ms-auto me-lg-4">{{ .Count }}</span></a></li>
+    {{ $active := eq .Page.Title $currentPage.Title }}
+    {{ $mediumID := .Page.Title | urlize }}
+    {{ $lang := $.Site.Language.Lang }}
+    {{ $mediumTitle := "" }}
+    {{ range $.Site.Data.mediatypes }}
+      {{ if eq .id $mediumID }}
+        {{ $mediumData := . }}
+        {{ $mediumTitle = index $mediumData.title $lang }}
+        {{ if not $mediumTitle }}
+          {{ $mediumTitle = index $mediumData.title "en" }} <!-- Fallback to English -->
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ if not $mediumTitle }}
+      {{ $mediumTitle = .Page.Title | title }} <!-- Fallback to page title if not found in data file -->
+    {{ end }}
+    <li><a class="docs-link d-flex{{ if $active }} active{{ end }}" href="{{ .Page.Permalink }}"><span>{{ $mediumTitle }}</span><span class="badge bg-light text-dark fw-normal ms-auto me-lg-4">{{ .Count }}</span></a></li>
   {{ end }}
 </ul>
 

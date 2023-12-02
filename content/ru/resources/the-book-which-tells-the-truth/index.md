@@ -8,8 +8,7 @@ follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["Канонический текст"]
-medium_icon: "canonical-text"
+medium: "canonical-text"
 topics: ["Эпоха Водолея", "Древние астронавты", "Канонический", "Элохимы", "Интеллектуальный дизайн", "Нео-Эвгемеризм", "Палеоконтакт", "Религия", "Синкретизм"]
 ---
 

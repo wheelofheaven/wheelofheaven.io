@@ -7,8 +7,7 @@ follow_url: "http://www.creatorsmovie.it/"
 menu:
   resources:
     parent: "browse"
-medium: ["Spielfilm"]
-medium_icon: "cinematographic-film"
+medium: "cinematographic-film"
 topics: ["Age of Aquarius", "Ancient Builders", "Elohim", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
 ---
 

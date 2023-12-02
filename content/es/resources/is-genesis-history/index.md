@@ -7,8 +7,7 @@ follow_url: "https://isgenesishistory.com/"
 menu:
   resources:
     parent: "browse"
-medium: ["Película documental"]
-medium_icon: "documentary-film"
+medium: "documentary-film"
 topics: ["Bible", "Creationism", "Flood geology", "History of science", "Genesis", "Intelligent Design", "Religion"]
 ---
 

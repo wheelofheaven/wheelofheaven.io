@@ -9,8 +9,7 @@ follow_url: "http://the-engagement.org/"
 menu:
   resources:
     parent: "browse"
-medium: ["宣言"]
-medium_icon: "manifesto"
+medium: "manifesto"
 topics: ["Current affairs", "The Chosen People"]
 ---
 

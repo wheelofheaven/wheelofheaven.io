@@ -7,8 +7,7 @@ follow_url: "https://www.youtube.com/watch?v=EaKwgRBrc48"
 menu:
   resources:
     parent: "browse"
-medium: ["Vidéo numérique indépendante"]
-medium_icon: "independent-digital-video"
+medium: "independent-digital-video"
 topics: ["History of Science"]
 ---
 

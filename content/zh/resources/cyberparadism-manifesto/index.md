@@ -8,8 +8,7 @@ follow_url: "https://github.com/zarazinsfuss/cyberparadism-manifesto"
 menu:
   resources:
     parent: "browse"
-medium: ["宣言"]
-medium_icon: "manifesto"
+medium: "manifesto"
 topics: ["Age of Aquarius", "Cyberparadism", "Futurism"]
 ---
 

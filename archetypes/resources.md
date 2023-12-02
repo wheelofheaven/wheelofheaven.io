@@ -5,7 +5,6 @@ lead: ""
 authored_by: []
 publish_date: ""
 published_by: ""
-medium: []
 read_url: ""
 weight: 50
 topics: []

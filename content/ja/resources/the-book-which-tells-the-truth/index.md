@@ -8,8 +8,7 @@ follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["カノニカルテキスト"]
-medium_icon: "canonical-text"
+medium: "canonical-text"
 topics: ["水瓶座の時代", "古代宇宙飛行士説", "カノニカル", "エロヒム", "インテリジェントデザイン", "ネオエウヘメリズム", "宗教", "シンクレティズム"]
 ---
 

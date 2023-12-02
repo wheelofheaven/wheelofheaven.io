@@ -7,8 +7,7 @@ follow_url: "https://www.adultswim.com/videos/rick-and-morty/"
 menu:
   resources:
     parent: "browse"
-medium: ["Television production"]
-medium_icon: "television-production"
+medium: "television-production"
 topics: ["Infinity", "Neo-Euhemerism"]
 ---
 

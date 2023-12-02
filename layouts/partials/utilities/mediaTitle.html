@@ -1,0 +1,13 @@
+{{ $lang := .site.Language.Lang }}
+{{ if .mediaType }}
+  {{ $mediaType := .mediaType }}
+  {{ range .site.Data.mediatypes }}
+    {{ if eq .id $mediaType }}
+      {{ $title := index .title $lang }}
+      {{ if not $title }}
+        {{ $title = index .title "en" }}
+      {{ end }}
+      {{ $title }}
+    {{ end }}
+  {{ end }}
+{{ end }}

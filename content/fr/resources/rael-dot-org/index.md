@@ -7,8 +7,7 @@ follow_url: "https://rael.org/"
 menu:
   resources:
     parent: "browse"
-medium: ["Présence Web"]
-medium_icon: "web-presence"
+medium: "web-presence"
 topics: ["Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism"]
 ---
 

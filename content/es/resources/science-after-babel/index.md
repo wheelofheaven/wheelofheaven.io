@@ -7,8 +7,7 @@ follow_url: "https://www.discovery.org/b/science-after-babel/"
 menu:
   resources:
     parent: "browse"
-medium: ["Libro de no ficción"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Bible", "Creationism", "Genesis", "History of Science"]
 ---
 

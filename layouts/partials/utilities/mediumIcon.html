@@ -1,9 +1,0 @@
-{{ if .mediumIcon }}
-  {{ $mediumIcon := .mediumIcon }}
-  {{ range $.context.Site.Data.mediumtypes }}
-    {{ if eq .id $mediumIcon }}
-      {{ .icon | safeHTML }}&nbsp;
-    {{ end }}
-  {{ end }}
-{{ end }}
-

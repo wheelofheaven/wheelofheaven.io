@@ -8,8 +8,7 @@ follow_url: ""
 menu:
   resources:
     parent: "browse"
-medium: ["Научно-популярная книга"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Age of Aquarius", "Ancient Astronauts", "Astrological ages", "Elohim", "Neo-Euhemerism", "Precession"]
 ---
 

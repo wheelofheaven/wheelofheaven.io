@@ -8,8 +8,7 @@ follow_url: "https://www.imdb.com/title/tt2124189/"
 menu:
   resources:
     parent: "browse"
-medium: ["纪录片"]
-medium_icon: "documentary-film"
+medium: "documentary-film"
 topics: ["Age of Aquarius", "Ancient Builders", "Astrological ages", "Cataclysm", "Precession", "Pyramids", "The Tradition"]
 ---
 

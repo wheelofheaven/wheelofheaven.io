@@ -7,8 +7,7 @@ follow_url: ""
 menu:
   resources:
     parent: "browse"
-medium: ["Sachbuch"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Bible", "Creationism", "Genesis", "History of Science"]
 ---
 

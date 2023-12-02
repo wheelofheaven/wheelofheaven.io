@@ -7,8 +7,7 @@ follow_url: "http://www.chabad.org/63255"
 menu:
   resources:
     parent: "browse"
-medium: ["Religious text"]
-medium_icon: "religious-text"
+medium: "religious-text"
 topics: ["Religion", "The Chosen People", "The Tradition"]
 ---
 

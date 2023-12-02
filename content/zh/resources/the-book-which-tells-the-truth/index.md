@@ -8,8 +8,7 @@ follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["经典文本"]
-medium_icon: "canonical-text"
+medium: "canonical-text"
 topics: ["水瓶座时代", "古代宇航员", "经典", "Elohim", "智能设计", "新尤希米里斯主义", "宗教", "综合主义"]
 ---
 

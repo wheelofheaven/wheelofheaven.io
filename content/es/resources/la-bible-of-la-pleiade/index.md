@@ -8,8 +8,7 @@ follow_url: "https://www.la-pleiade.fr/Catalogue/GALLIMARD/Bibliotheque-de-la-Pl
 menu:
   resources:
     parent: "browse"
-medium: ["Trabajo de hermenéutica"]
-medium_icon: "hermeneutical-work"
+medium: "hermeneutic-work"
 topics: ["Bible", "Elohim", "Theology"]
 ---
 

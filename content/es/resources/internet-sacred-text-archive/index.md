@@ -7,8 +7,7 @@ follow_url: "https://www.sacred-texts.com/"
 menu:
   resources:
     parent: "browse"
-medium: ["Recurso web"]
-medium_icon: "web-resource"
+medium: "web-resource"
 topics: ["Archive", "Esoterica", "Mythology", "Religion", "Spirituality", "The Tradition"]
 ---
 

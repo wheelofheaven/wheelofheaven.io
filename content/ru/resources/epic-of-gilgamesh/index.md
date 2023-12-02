@@ -7,8 +7,7 @@ follow_url: "https://www.ebl.lmu.de/corpus/L/1/4"
 menu:
   resources:
     parent: "browse"
-medium: ["Древний текст"]
-medium_icon: "ancient-text"
+medium: "ancient-text"
 topics: ["Mythology", "The Tradition"]
 ---
 

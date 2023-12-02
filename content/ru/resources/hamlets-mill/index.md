@@ -7,8 +7,7 @@ follow_url: "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-m
 menu:
   resources:
     parent: "browse"
-medium: ["Научно-популярная книга"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Astrological ages", "Archaeostronomy", "Comparative mythology", "History of science", "Precession"]
 ---
 

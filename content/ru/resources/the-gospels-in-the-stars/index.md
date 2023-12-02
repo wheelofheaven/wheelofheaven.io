@@ -7,8 +7,7 @@ follow_url: ""
 menu:
   resources:
     parent: "browse"
-medium: ["Научно-популярная книга"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Age of Aquarius", "Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
 ---
 

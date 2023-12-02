@@ -7,8 +7,7 @@ follow_url: "https://www.imdb.com/title/tt0097292/"
 menu:
   resources:
     parent: "browse"
-medium: ["Cinematographic film"]
-medium_icon: "cinematographic-film"
+medium: "cinematographic-film"
 topics: ["Ancient astronauts", "Neo-Euhemerism"]
 ---
 

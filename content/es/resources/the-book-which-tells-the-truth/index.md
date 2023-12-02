@@ -8,8 +8,7 @@ follow_url: "https://www.rael.org/downloads/"
 menu:
   resources:
     parent: "browse"
-medium: ["Texto canónico"]
-medium_icon: "canonical-text"
+medium: "canonical-text"
 topics: ["Era de Acuario", "Antiguos Astronautas", "Canónico", "Elohim", "Diseño Inteligente", "Neo-Euhemerismo", "Religión", "Sincretismo"]
 ---
 

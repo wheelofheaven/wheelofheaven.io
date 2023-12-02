@@ -7,8 +7,7 @@ follow_url: "https://paulanthonywallis.com/2020/07/30/the-scars-of-eden/"
 menu:
   resources:
     parent: "browse"
-medium: ["非小说类书籍"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Neo-Euhemerism", "Theology"]
 ---
 

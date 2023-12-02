@@ -7,8 +7,7 @@ follow_url: ""
 menu:
   resources:
     parent: "browse"
-medium: ["ノンフィクションの本"]
-medium_icon: "nonfiction-book"
+medium: "nonfiction-book"
 topics: ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Current affairs", "Neo-Euhemerism"]
 ---
 

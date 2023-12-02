@@ -8,8 +8,8 @@ follow_url: "https://www.la-pleiade.fr/Catalogue/GALLIMARD/Bibliotheque-de-la-Pl
 menu:
   resources:
     parent: "browse"
-medium: ["宗教文本"]
-medium_icon: "religious-text"
+medium: ["诠释学著作"]
+medium_icon: "hermeneutical-work"
 topics: ["Bible", "Elohim", "Theology"]
 ---
 

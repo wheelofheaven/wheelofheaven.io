@@ -7,8 +7,8 @@ follow_url: "https://www.sup.org/zohar/"
 menu:
   resources:
     parent: "browse"
-medium: ["Религиозный текст"]
-medium_icon: "religious-text"
+medium: ["Работа по герменевтике"]
+medium_icon: "hermeneutical-work"
 topics: ["Bible", "Kabbalah", "Reference work", "The Tradition"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "The Bible is Not a Sacred Book. The Great Deception"
+title: "The Bible Is Not a Sacred Book — The Great Deception"
 original_title: "La Bibbia non è un libro sacro. Il grande inganno"
 description: "\"La Bibbia non è un libro sacro. Il grande inganno\" (\"The Bible is Not a Sacred Book. The Great Deception\") by Mauro Biglino presents a controversial view of the Bible, particularly the Old Testament. Biglino argues that the Bible does not contain a spiritually understood divinity and that there is no worship directed towards God in it. He questions the traditional understanding of the Bible, raising issues like the multiple versions of the Bible, the unknown authors and time of its writing, the real nature of the Tree of Life, and the idea that humans are genetically modified organisms (GMOs). The book also challenges the concept of divine creation, the original sin, and the biblical God being the father of Jesus, and delves into how religions are constructed. This work has stirred debate and controversy due to its radical interpretations of biblical texts​​."
 authored_by: ["Mauro Biglino"]

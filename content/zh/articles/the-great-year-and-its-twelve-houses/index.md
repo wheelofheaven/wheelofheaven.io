@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: ["the-great-year-and-its-twelve-houses.jpg"]
 categories: ["Context"]
-tags: ["age-of-aquarius", "the-great-awakening", "archeoastronomy"]
+tags: ["age-of-aquarius", "the-great-awakening", "Archaeostronomy"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

@@ -1,6 +1,6 @@
 ---
-title: "Kosmographia - The Official Randall Carlson Podcast"
-description: "\"Kosmographia - The Official Randall Carlson Podcast\" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise."
+title: "Kosmographia — The Official Randall Carlson Podcast"
+description: "\"Kosmographia — The Official Randall Carlson Podcast\" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise."
 authored_by: ["Randall Carlson et al."]
 publish_date: 2019
 follow_url: "https://www.deezer.com/en/show/3741747"
@@ -12,7 +12,7 @@ medium_icon: "podcast"
 topics: ["Atlantis", "Comparative Mythology", "Esoterica", "Flood geology", "History of science", "Precession", "Sacred Geometry"]
 ---
 
-"Kosmographia - The Official Randall Carlson Podcast" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise.
+"Kosmographia — The Official Randall Carlson Podcast" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise.
 
 Carlson, known for his meticulous research and comprehensive knowledge, explores theories and evidence related to Earth's geological history, catastrophic events, and the mysteries of ancient civilizations. He often discusses the impact of cosmic events, such as comet impacts and ice age cycles, on the shaping of our planet and human history. His discussions are backed by scientific data, yet they are presented in a way that is accessible and engaging to a broad audience.
 

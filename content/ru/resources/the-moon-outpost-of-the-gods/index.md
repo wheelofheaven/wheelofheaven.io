@@ -1,7 +1,7 @@
 ---
-title: "The Moon: Outpost of the Gods."
+title: "The Moon: Outpost of the Gods"
 original_title: "La Lune Clé de la Bible"
-description: "\"The Moon: The Key to the Bible\" (1968), also known as \"La lune clé de la Bible\" by Jean Sendy, presents a unique interpretation of the biblical text, particularly the Book of Genesis. Sendy argues that the word \"Elohim\" in Hebrew Genesis, traditionally translated as \"God,\" should be interpreted in the plural form as \"Gods.\" He suggests that these \"Gods\" were actually space travelers or alien humanoids who colonized Earth, later becoming the \"angels\" in human memory. Sendy's interpretation implies that the biblical Genesis is a factual account of these ancient astronauts' activities. His ideas influenced the later formation of the UFO religion Raëlism, which shares similar beliefs about extraterrestrial beings and their influence on human history"
+description: "\"The Moon: Outpost of the Gods\" (1968), also known as \"La lune clé de la Bible\" by Jean Sendy, presents a unique interpretation of the biblical text, particularly the Book of Genesis. Sendy argues that the word \"Elohim\" in Hebrew Genesis, traditionally translated as \"God,\" should be interpreted in the plural form as \"Gods.\" He suggests that these \"Gods\" were actually space travelers or alien humanoids who colonized Earth, later becoming the \"angels\" in human memory. Sendy's interpretation implies that the biblical Genesis is a factual account of these ancient astronauts' activities. His ideas influenced the later formation of the UFO religion Raëlism, which shares similar beliefs about extraterrestrial beings and their influence on human history"
 authored_by: ["Jean Sendy"]
 publish_date: 1968
 follow_url: ""
@@ -13,7 +13,7 @@ medium_icon: "nonfiction-book"
 topics: ["Age of Aquarius", "Ancient Astronauts", "Astrological ages", "Elohim", "Neo-Euhemerism", "Precession"]
 ---
 
-"The Moon: The Key to the Bible" (1968), also known as "La lune clé de la Bible" by Jean Sendy, presents a unique interpretation of the biblical text, particularly the Book of Genesis. Sendy argues that the word "Elohim" in Hebrew Genesis, traditionally translated as "God," should be interpreted in the plural form as "Gods." He suggests that these "Gods" were actually space travelers or alien humanoids who colonized Earth, later becoming the "angels" in human memory. Sendy's interpretation implies that the biblical Genesis is a factual account of these ancient astronauts' activities. His ideas influenced the later formation of the UFO religion Raëlism, which shares similar beliefs about extraterrestrial beings and their influence on human history
+"The Moon: Outpost of the Gods" (1968), also known as "La lune clé de la Bible" by Jean Sendy, presents a unique interpretation of the biblical text, particularly the Book of Genesis. Sendy argues that the word "Elohim" in Hebrew Genesis, traditionally translated as "God," should be interpreted in the plural form as "Gods." He suggests that these "Gods" were actually space travelers or alien humanoids who colonized Earth, later becoming the "angels" in human memory. Sendy's interpretation implies that the biblical Genesis is a factual account of these ancient astronauts' activities. His ideas influenced the later formation of the UFO religion Raëlism, which shares similar beliefs about extraterrestrial beings and their influence on human history
 
 ![Image](images/la-lune-cle-de-la-bible-book.jpg "La Lune Clé de la Bible 1968 — Jean Sendy")
 

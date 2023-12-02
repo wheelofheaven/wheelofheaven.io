@@ -10,7 +10,7 @@ menu:
     parent: "browse"
 medium: ["Kanonischer Text"]
 medium_icon: "canonical-text"
-topics: ["Wassermannzeitalter", "Elohim", "Kanon", "Intelligentes Design", "Neo-Euhemerismus", "Prä-Astronautik", "Religion", "Synkretismus"]
+topics: ["Wassermannzeitalter", "Elohim", "Kanon", "Intelligentes Design", "Neo-Euhemerismus", "Prä-Astronautik", "Raëlismus", "Religion", "Synkretismus"]
 ---
 
 "Das Buch, das die Wahrheit sagt" ist ein Buch, geschrieben von Claude Vorilhon, auch bekannt als Raël, dem Gründer der Raelianischen Bewegung. Das Buch beschreibt Raëls Behauptungen von Begegnungen mit außerirdischen Wesen und präsentiert seine Überzeugungen und Lehren. Laut Raël offenbarten ihm die außerirdischen Wesen, die er traf, dass das Leben auf der Erde durch genetische Manipulation einer hochentwickelten Zivilisation außerirdischer Wesen, die er als Elohim bezeichnet, erschaffen wurde. Raël behauptet, dass die Elohim Menschen nach ihrem eigenen Bild erschufen und dass sie weiterhin die Entwicklung der Menschheit beobachten und leiten. Das Buch präsentiert Raëls Überzeugungen über die Natur der Realität und den Zweck des Lebens. Er argumentiert, dass Menschen göttlichen Ursprungs sind und dass unser Zweck darin besteht, uns zu entwickeln und schließlich wie die Elohim zu werden, durch die Entwicklung von Wissenschaft und Technologie. Raël lehrt auch, dass die Elohim eines Tages zurückkehren werden, um eine neue Ära des Friedens und der Erleuchtung für die Menschheit zu bringen.

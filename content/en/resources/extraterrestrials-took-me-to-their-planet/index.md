@@ -33,5 +33,6 @@ The Raëlian movement's teachings draw on a mix of science, religion, and philos
 
 ### See also
 
-[Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})</br>
-[Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})</br>
+- [Wiki › Raëlism]({{< relref "wiki/encyclopedia/raelism.md" >}})
+- [Resources › The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth/index.md" >}})
+- [Resources › Let's Welcome The Extraterrestrials]({{< relref "resources/lets-welcome-the-extraterrestrials/index.md" >}})

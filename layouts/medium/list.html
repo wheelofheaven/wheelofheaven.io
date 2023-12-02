@@ -6,7 +6,29 @@
 		</nav>
 	</div>
 	<main class="docs-content col-lg-11 mx-xl-auto">
-		<h2>{{ i18n "medium" }} : {{ .Title }}</h2>
+		{{ $lang := $.Site.Language.Lang }}
+		{{ $mediaType := .Title }}
+		{{ $pageTitle := $mediaType }}
+		{{ $pageDescription := "" }}
+		{{ range $.Site.Data.mediatypes }}
+		  {{ if eq .id $mediaType }}
+			{{ $titleInCurrentLang := index .title $lang }}
+			{{ if $titleInCurrentLang }}
+			  {{ $pageTitle = $titleInCurrentLang }}
+			{{ else if index .title "en" }}
+			  {{ $pageTitle = index .title "en" }}
+			{{ end }}
+		
+			{{ if and .description (index .description $lang) }}
+			  {{ $descriptionInCurrentLang := index .description $lang }}
+			  {{ $pageDescription = $descriptionInCurrentLang }}
+			{{ else if and .description (index .description "en") }}
+			  {{ $pageDescription = index .description "en" }}
+			{{ end }}
+		  {{ end }}
+		{{ end }}
+		<h2>{{ i18n "medium" }} : {{ $pageTitle }}</h2>
+		<p>{{ $pageDescription }}</p>			
 		<div class="row row-cols-1 row-cols-md-1 g-5">
 			{{ range .Data.Pages.ByWeight.Reverse -}}
 				<div class="col">

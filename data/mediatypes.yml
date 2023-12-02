@@ -129,7 +129,7 @@
     ja: "解釈学的な研究"
     ru: "Герменевтическая работа"
     zh: "诠释学工作"
-  Description:
+  description:
     en: "Scholarly interpretations or studies, often of religious or philosophical texts."
     fr: "Interprétations ou études savantes, souvent de textes religieux ou philosophiques."
     es: "Interpretaciones o estudios académicos, a menudo de textos religiosos o filosóficos."
@@ -269,7 +269,7 @@
     ja: "宗教の経典"
     ru: "Религиозное писание"
     zh: "宗教经文"
-  description: 
+  description:
     en: "Writings considered sacred and central to the teachings and beliefs of a particular religion."
     fr: "Écrits considérés comme sacrés et centraux pour les enseignements et croyances d'une religion particulière."
     es: "Escritos considerados sagrados y fundamentales para las enseñanzas y creencias de una religión específica."

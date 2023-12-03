@@ -17,8 +17,7 @@ Named after George Barton, who first published its transcription and translation
 
 The cylinder's content is a creation myth that begins with a portrayal of primeval cosmic events. The text depicts a scene where heaven communicates with Earth in the sacred area of Nibru (Nippur). The myth involves key figures in Sumerian mythology, including Ninhursag, described as the older sister of the god Enlil. The myth narrates a sacred marriage between the deities An and Ninhursag, where heaven and earth meet, and hints at a sexual union between a god, possibly Enki, and Ninhursag, resulting in the birth of deities.
 
-George Barton's translation and analysis of the text reveal a primitive sense of religion, with a focus on gods as givers of life and vegetation. He interprets the text as containing entreaties to various gods and goddesses for protection and provision. Barton also draws parallels between concepts in the Barton Cylinder and those in the biblical Book of Genesis, such as the notion of the Tree of Life and the portrayal of Ninhursag in a role akin to a snake goddess, reminiscent of the serpent in Genesis. He further notes references to the Tigris and Euphrates rivers as holy rivers, drawing a connection to their mention in the Genesis narrative​
-​.
+George Barton's translation and analysis of the text reveal a primitive sense of religion, with a focus on gods as givers of life and vegetation. He interprets the text as containing entreaties to various gods and goddesses for protection and provision. Barton also draws parallels between concepts in the Barton Cylinder and those in the biblical Book of Genesis, such as the notion of the Tree of Life and the portrayal of Ninhursag in a role akin to a snake goddess, reminiscent of the serpent in Genesis. He further notes references to the Tigris and Euphrates rivers as holy rivers, drawing a connection to their mention in the Genesis narrative​.
 
 ### See also
 

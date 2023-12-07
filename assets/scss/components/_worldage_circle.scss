@@ -1,0 +1,99 @@
+body {
+    --h: 348;
+    --s: 60%;
+    --l: 52%;
+    --bg: hsl(var(--h) var(--s) var(--l));
+    --dark: hsl(var(--h) var(--s) 10%);
+    --dark-hover: hsl(var(--h) var(--s) 25%);
+    --light: hsl(var(--h) var(--s) 99%);
+  
+    --gap: 1.5rem;
+    display: grid;
+    height: 100%;
+    margin: unset;
+    place-content: center;
+    padding: var(--gap) unset;
+  }
+  
+  /* Modifiers */
+  .blue {
+    --h: 206;
+    --s: 42%;
+    --l: 56%;
+  }
+  
+  /* Circle of Ffths */
+  .cf {
+    aspect-ratio: 1;
+    margin-block: var(--gap) 0;
+    width: calc(85vw - (2 * var(--gap)));
+  }
+  .cf-arcs {
+    transform: rotate(-15deg);
+    transform-origin: 50% 50%;;
+  }
+  .cf-arcs path {
+    fill: var(--dark);
+    stroke: hsl(var(--h), var(--s), var(--l));
+  }
+  .cf-arcs path:hover {
+    fill: var(--dark-hover);
+  }
+  .cf-text-inner,
+  .cf-text-middle {
+    fill: var(--light);
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.065em;
+    pointer-events: none;
+    text-anchor: middle;
+  }
+  .cf-text-inner {
+    font-size: .4em;
+  }
+  .cf-text-middle {
+    font-size: .6em;
+  }
+  
+  /* Flat and Sharp Positions */
+  .cf-flat-1 {
+    transform: translate(10px, -2.5px);
+  }
+  .cf-flat-2 {
+    transform: translate(13px, -7.5px);
+  }
+  .cf-flat-3 {
+    transform: translate(16px, -1px);
+  }
+  .cf-flat-4 {
+    transform: translate(19px, -5.5px);
+  }
+  .cf-flat-5{
+    transform: translate(22px, 1px);
+  }
+  .cf-sharp-1 {
+    transform: translate(10px, -7.5px);
+  }
+  .cf-sharp-2 {
+    transform: translate(13px, -3px);
+  }
+  .cf-sharp-3 {
+    transform: translate(16px, -9px);
+  }
+  .cf-sharp-4 {
+    transform: translate(19px, -4.5px);
+  }
+  .cf-sharp-5 {
+    transform: translate(22px, 0.5px);
+  }
+  .cf-sharp-6{
+    transform: translate(25px, -6px);
+  }
+  
+  .cf use {
+    pointer-events: none;
+  }
+  .cf [baseline-shift="super"] {
+    font-size: 80%;
+  }
+    

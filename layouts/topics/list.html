@@ -7,7 +7,7 @@
 	</div>
 	<main class="docs-content col-lg-11 mx-xl-auto">
     <h2>{{ i18n "topics" }} : {{ .Title }}</h2>
-		<div class="row row-cols-1 row-cols-md-1 g-5">
+		<div class="card-list">
 			{{ range .Data.Pages.ByWeight.Reverse -}}
 				<div class="card my-3">
 					{{ .Render "resources-card" -}}

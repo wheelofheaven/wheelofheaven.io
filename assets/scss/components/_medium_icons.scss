@@ -1,4 +1,11 @@
+.medium-icon svg, .medium-icon-md svg {
+  transform: translate(4px, -2px);
+}
+
 .medium-icon svg {
   width: 16px;
-  transform: translate(4px, -2px)
+}
+
+.medium-icon-md svg {
+  width: 32px;
 }

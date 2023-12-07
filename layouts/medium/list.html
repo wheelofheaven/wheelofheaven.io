@@ -27,7 +27,7 @@
 			{{ end }}
 		  {{ end }}
 		{{ end }}
-		<h2>{{ $pageTitle }} ({{ i18n "medium" }})</h2>
+		<h2 class="medium-icon-md">{{ partial "utilities/mediaIcon" (dict "mediaType" $mediaType "site" .Site) }}&nbsp;{{ $pageTitle }} ({{ i18n "medium" }})</h2>
 		<p>{{ $pageDescription }}</p>			
 		<div class="card-list">
 			{{ range .Data.Pages.ByWeight.Reverse -}}

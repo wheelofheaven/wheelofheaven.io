@@ -39,8 +39,13 @@ The table of World Ages suggests that human history can be divided into a series
 
 The Age of Aquarius began around 1950 AD and is associated with a period of revelation and a golden age, which may suggest a new era of enlightenment and innovation. The Age of Pisces, which preceded the present age, lasted from 210 BC to 1950 AD and was marked by significant events such as the life and teachings of Jesus Christ and his fishermen, as well as the demographic multiplication of the human species. The table also suggests a link between the astrological ages and the history of the Elohim or extraterrestrial creators, with the Age of Leo marked by the first humans along with the Elohim.
 
+## World Ages
+
+{{< worldageCircle >}}
+
 ## See also
 
+- [Wiki › Chronology]({{< relref "wiki/encyclopedia/chronology.md" >}})
 - [Wiki › Great Month]({{< relref "wiki/encyclopedia/great-month.md" >}})
 - [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
 - [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})

@@ -15,6 +15,8 @@ Within the intricate tapestry of human history, the concept of astrological ages
 
 The chronology is being referenced in many places on Wheel of Heaven. {{< svg "greatyear.svg" >}}
 
+{{< worldageCircle >}}
+
 ## Each World Age
 
 The journey begins with the Age of Capricorn, where the Earth was discovered and exploration began in earnest. The pioneering spirit of humankind was sparked as they ventured across the vast expanses of this new world, setting the stage for future developments.

@@ -1,4 +1,8 @@
 {{ define "main" }}
+{{ $langPrefix := "" }}
+{{ if ne $.Site.Language.Lang "en" }}
+  {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+{{ end }}
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar d-none d-lg-block">
 			<nav class="docs-links" aria-label="Main navigation">
@@ -26,8 +30,9 @@
 			<div class="showcase-meta d-flex justify-content-between">
         <span class="fw-bold medium-icon">
         {{ if .Params.medium }}
-            {{ partial "utilities/mediaIcon" (dict "mediaType" .Params.medium "site" .Site) }}&nbsp;
-          <a class="stretched-link position-relative" href="{{ "/medium/" | relURL }}{{ .Params.medium | urlize }}/">
+          {{ partial "utilities/mediaIcon" (dict "mediaType" .Params.medium "site" .Site) }}&nbsp;
+          {{ $mediumURL := printf "%smedium/" $langPrefix }}
+          <a class="stretched-link position-relative" href="{{ $mediumURL }}{{ .Params.medium | urlize }}/">
             {{ partial "utilities/mediaTitle" (dict "mediaType" .Params.medium "site" .Site) }}
           </a>
         {{ end }}      
@@ -48,10 +53,6 @@
 			{{ if .Params.topics -}}
 				<h3>{{ i18n "topics" }}</h3>
         {{ range $index, $tag := .Params.topics -}}
-        {{ $langPrefix := "" }}
-        {{ if ne $.Site.Language.Lang "en" }}
-          {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
-        {{ end }}
         {{ $topicURL := printf "%sresources/topics/%s/" $langPrefix ($tag | urlize) }}
           <a class="btn btn-light" href="{{ $topicURL | absURL }}" role="button">{{ . }}</a>
         {{ end -}}

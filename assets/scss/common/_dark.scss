@@ -633,6 +633,11 @@ $navbar-dark-active-color:          $link-color-dark;
   stroke: $magic-mint;
 }
 
+[data-dark-mode] .wac-arcs path:hover {
+  fill: $body-color;
+  stroke: $magic-mint;
+}
+
 [data-dark-mode] .wac-text {
   fill: $body-color-dark;
 }

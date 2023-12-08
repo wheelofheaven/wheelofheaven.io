@@ -628,6 +628,15 @@ $navbar-dark-active-color:          $link-color-dark;
   padding-bottom: 2em;
 }
 
+[data-dark-mode] .wac-arcs path {
+  fill: $body-bg-dark;
+  stroke: $magic-mint;
+}
+
+[data-dark-mode] .wac-text {
+  fill: $body-color-dark;
+}
+
 [data-dark-mode] .zodiac-link {
   color: inherit;
 }

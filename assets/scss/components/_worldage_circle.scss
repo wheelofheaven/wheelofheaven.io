@@ -14,7 +14,7 @@
   fill: $magic-mint;
 }
 .wac-text {
-  fill: var(--light);
+  fill: $body-color;
   font-weight: 500;
   letter-spacing: -0.065em;
   pointer-events: none;

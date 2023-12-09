@@ -1,9 +1,5 @@
 ---
-Title: "Medium"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
-draft: false
-images: []
-url: "/resources/medium/"
+Title: "Types de médias"
+description: "La taxonomie 'Types de médias' sur le site web organise le contenu en différentes catégories telles que les films cinématographiques, les livres non fictionnels et les projets Web, spécialement pour la section Ressources (/resources/). Ce système facilite l'accès et la navigation à travers une diversité de formats médiatiques."
+url: "/fr/medium/"
 ---

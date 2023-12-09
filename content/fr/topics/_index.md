@@ -1,9 +1,5 @@
 ---
-title: "Topics"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
-draft: false
-images: []
-url: "/resources/topics/"
+title: "Sujets"
+description: "La taxonomie 'Sujets' sur le site web catégorise une large gamme de sujets exclusivement pour les pages Ressources (/resources/). Ce cadre organisationnel est conçu pour simplifier la découverte et l'accès à diverses Ressources d'information, garantissant aux utilisateurs de localiser et d'engager efficacement le contenu pertinent dans la section Ressources du site."
+url: "/fr/topics/"
 ---

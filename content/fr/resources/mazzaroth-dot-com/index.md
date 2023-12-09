@@ -15,6 +15,7 @@ Jim A. Cornwell's website, mazzaroth.com, offers a detailed exploration of the i
 
 ### See also
 
-[Resources › The Pillar of Enoch]({{< relref "resources/pillar-of-enoch-dot-com/index.md" >}})</br>
-[Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})</br>
-[Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})</br>
+- [Wiki › Great Year]({{< relref "wiki/encyclopedia/great-year.md" >}})
+- [Wiki › Precession]({{< relref "wiki/encyclopedia/precession.md" >}})
+- [Resources › The Pillar of Enoch]({{< relref "resources/pillar-of-enoch-dot-com/index.md" >}})
+

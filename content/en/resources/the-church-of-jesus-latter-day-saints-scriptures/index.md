@@ -19,7 +19,7 @@ In the late 20th century, the Church undertook significant efforts to publish it
 
 ### See also
 
-- [Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})</br>
+- [Wiki › Religion]({{< relref "wiki/encyclopedia/religion.md" >}})
 
 ### External links
 

@@ -338,6 +338,27 @@
     ru: "Творческая работа, созданная для трансляции по телевидению, включает широкий спектр жанров и форматов."
     zh: "为电视播放制作的创意作品，涵盖了广泛的类型和格式。"
 
+- id: "video-game"
+  icon: > 
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><g fill="currentColor" stroke="currentColor"><path d="M216 352H424c14.7 0 27.5 10 31 24.2l3.6 14.3c8.4 33.8 38.8 57.4 73.6 57.4c41.9 0 75.8-33.9 75.8-75.8v-2.8c0-4.5-.4-8.9-1.1-13.3L574.1 165.3c-7-40.7-32.2-71.3-66.5-79.9C464.1 74.5 401.1 64 320 64s-144.1 10.5-187.6 21.4C98 93.9 72.8 124.5 65.9 165.3L33.1 356.1c-.8 4.4-1.1 8.8-1.1 13.3v2.8c0 41.9 33.9 75.8 75.8 75.8c34.8 0 65.1-23.7 73.6-57.4l3.6-14.3c3.6-14.2 16.4-24.2 31-24.2zm211.6 46.3L424 384H216l-3.6 14.3c-12 48-55.1 81.7-104.6 81.7C48.3 480 0 431.7 0 372.2v-2.8c0-6.3 .5-12.5 1.6-18.7L34.3 159.8c8.6-50.2 40.9-93.2 90.3-105.5C170.5 42.9 236.2 32 320 32s149.5 10.9 195.3 22.3c49.4 12.3 81.7 55.3 90.3 105.5l32.7 190.9c1.1 6.2 1.6 12.4 1.6 18.7v2.8C640 431.7 591.7 480 532.2 480c-49.5 0-92.6-33.7-104.6-81.7zM208 160v48h48c8.8 0 16 7.2 16 16s-7.2 16-16 16H208v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V240H128c-8.8 0-16-7.2-16-16s7.2-16 16-16h48V160c0-8.8 7.2-16 16-16s16 7.2 16 16zM408 272a24 24 0 1 1 48 0 24 24 0 1 1 -48 0zm88-120a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/></svg>
+  title:
+    en: "Video Game"
+    fr: "Jeu Vidéo"
+    es: "Videojuego"
+    de: "Videospiel"
+    ja: "ビデオゲーム"
+    ru: "Видеоигра"
+    zh: "电子游戏"
+  description:
+    en: "An electronic game that involves interaction with a user interface or input device – such as a joystick, controller, keyboard, or motion sensing device – to generate visual feedback for a player."
+    fr: "Un jeu électronique qui implique l'interaction avec une interface utilisateur ou un dispositif d'entrée - comme un joystick, une manette, un clavier ou un dispositif de détection de mouvement - pour générer un retour visuel pour un joueur."
+    es: "Un juego electrónico que involucra la interacción con una interfaz de usuario o un dispositivo de entrada, como un joystick, controlador, teclado o dispositivo de detección de movimiento, para generar retroalimentación visual para un jugador."
+    de: "Ein elektronisches Spiel, das die Interaktion mit einer Benutzeroberfläche oder einem Eingabegerät – wie einem Joystick, Controller, einer Tastatur oder einem Bewegungssensor – beinhaltet, um visuelles Feedback für einen Spieler zu erzeugen."
+    ja: "ジョイスティック、コントローラー、キーボード、動作センシングデバイスなどのユーザーインターフェースや入力デバイスとの相互作用を伴う電子ゲーム。これにより、プレイヤーに対して視覚的なフィードバックが生成されます。"
+    ru: "Электронная игра, включающая взаимодействие с пользовательским интерфейсом или устройством ввода, таким как джойстик, контроллер, клавиатура или устройство обнаружения движения, для генерации визуальной обратной связи для игрока."
+    zh: "一种电子游戏，涉及与用户界面或输入设备（如操纵杆、控制器、键盘或运动感应设备）的互动，以便为玩家生成视觉反馈。"
+
+
 - id: "web-presence"
   icon: > 
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g fill="currentColor" stroke="currentColor"><path d="M256 32a224 224 0 1 1 0 448 224 224 0 1 1 0-448zm0 480A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm92.6-389.1L202.1 171.8c-14.3 4.8-25.6 16-30.4 30.4L122.9 348.6c-8.3 25 15.5 48.8 40.5 40.5l146.5-48.8c14.3-4.8 25.6-16 30.4-30.4l48.8-146.5c8.3-25-15.5-48.8-40.5-40.5zm10.1 30.4L309.9 299.8c-1.6 4.8-5.3 8.5-10.1 10.1L153.3 358.7l48.8-146.5c1.6-4.8 5.3-8.5 10.1-10.1l146.5-48.8zM256 280a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"/></svg>

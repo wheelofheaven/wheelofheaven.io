@@ -9,7 +9,7 @@ menu:
   resources:
     parent: "browse"
 medium: "novel"
-topics: ["Genetic engineering", "Raëlism", "Samsara"]
+topics: ["Genetic engineering", "Fiction", "Raëlism", "Samsara"]
 ---
 
 "The Possibility of an Island" (French: La Possibilité d'une île), a novel published in 2005 by French novelist Michel Houellebecq, is set within a cloning cult that bears resemblance to the real-world Raëlian movement. The narrative revolves around three main characters: Daniel, a successful comedian disillusioned with his hedonistic lifestyle and the state of society, and his two clones, who lead a hermit-like existence in a post-apocalyptic future. This future world is depicted as one where the human species, ravaged by climate change and nuclear war, has either regressed to hunter-gatherer societies or is on the brink of extinction. The remnants of past civilizations, like tourist resorts and consumer items, dot the landscape, while some natural humans exist in small tribes, oblivious to their past and civilization.

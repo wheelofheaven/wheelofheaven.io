@@ -1,42 +1,39 @@
 ---
-title: "Book of Mormon"
-description: "The Book of Mormon, foundational to the Latter Day Saint movement, is a religious text published by Joseph Smith in 1830. Smith described it as a translation of golden plates shown to him by an angel, Moroni. The narrative details the history of ancient peoples in the Americas, focusing on their spiritual journey and teachings, with a pivotal event being the appearance of Jesus Christ post-resurrection. It's considered by adherents as a complementary scripture to the Bible, offering insights into Christian theology and moral teachings. The book plays a central role in the faith and practice of the Church of Jesus Christ of Latter-day Saints and other Latter Day Saint movements."
+title: "Book of Abraham"
+description: "The Book of Abraham is a work that is considered scripture by the Church of Jesus Christ of Latter-day Saints (LDS Church). It is believed to be an inspired translation of writings attributed to Abraham. The book was first published in 1842 and later canonized as part of the LDS Church's Pearl of Great Price in 1880."
 authored_by: ["Joseph Smith"]
-publish_date: 1830
+publish_date: 1842
 follow_url: "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
 menu:
   resources:
     parent: "browse"
 medium: "religious-text"
-topics: ["Religion", "Mormonism", "Spirituality", "The Tradition"]
+topics: ["Religion", "Mormonism", "The Tradition"]
 ---
 
-The Book of Mormon, foundational to the Latter Day Saint movement, is a religious text published by Joseph Smith in 1830. Smith described it as a translation of golden plates shown to him by an angel, Moroni. The narrative details the history of ancient peoples in the Americas, focusing on their spiritual journey and teachings, with a pivotal event being the appearance of Jesus Christ post-resurrection. It's considered by adherents as a complementary scripture to the Bible, offering insights into Christian theology and moral teachings. The book plays a central role in the faith and practice of the Church of Jesus Christ of Latter-day Saints and other Latter Day Saint movements.
+The Book of Abraham is a work that is considered scripture by the Church of Jesus Christ of Latter-day Saints (LDS Church). It is believed to be an inspired translation of writings attributed to Abraham. The book was first published in 1842 and later canonized as part of the LDS Church's Pearl of Great Price in 1880.
 
-The narrative of the Book of Mormon is presented as a historical account of ancient peoples in the Americas. It begins with a story of a family led by a prophet, Lehi, who migrated from Jerusalem to the Americas around 600 BC. The book further chronicles the religious, political, and military histories of the groups descended from Lehi's family, notably the Nephites and Lamanites.
+The content of the Book of Abraham includes a narrative of Abraham's life, his travels to Canaan and Egypt, and visions he received concerning the universe, a pre-mortal existence, and the creation of the world. The book comprises five chapters, each detailing various aspects of Abraham's life and teachings. Notably, it recounts how Abraham's father Terah and his forefathers turned to idolatry, and how Abraham was rescued by an angel from being sacrificed by Chaldean priests.
 
-Central to the Book of Mormon is the appearance of Jesus Christ in the Americas after his resurrection, where he preaches to the people and establishes his church. This event is seen as a pivotal moment in the book, emphasizing the universal nature of Christ's ministry.
+The translation of the Book of Abraham began in 1835 when Joseph Smith acquired several Egyptian papyri along with mummies. Smith, along with scribes such as W. W. Phelps and Oliver Cowdery, started translating the characters or hieroglyphics from these papyri, claiming that one of the scrolls contained the writings of Abraham. The translation process and the resulting text have been subject to much discussion and analysis over the years, particularly in relation to their historical and linguistic accuracy.
 
-The Book of Mormon is divided into smaller books, each named for its primary narrator or protagonist, such as Nephi, Alma, and Mormon (the latter being the primary compiler of the texts on the golden plates). The book intertwines religious teachings with its historical narrative, focusing on themes such as redemption, prophecy, and the moral trials of mankind.
-
-The publication of the Book of Mormon marked the establishment of the Church of Jesus Christ of Latter-day Saints, with Smith as its first prophet. The text is revered as scripture by members of the LDS Church and other Latter Day Saint movements, comparable in importance to the Bible.
+It's important to note that the Book of Abraham has been the subject of extensive discussion within both religious and academic circles. Scholarly perspectives on the book's origins, translation process, and historical context vary, with some questioning its credibility as an ancient text due to its reliance on the King James Bible and anachronisms related to the timing of the creation of Genesis.
 
 ### Contents and structure
 
-The Book of Mormon is structured into several smaller books, each named after its main narrator or protagonist, like Nephi, Alma, and Mormon. It's divided into two main parts: the Small Plates of Nephi and the larger compilation by Mormon.
+The Book of Abraham is structured into five chapters, each detailing various aspects of Abraham's life and teachings. Here's a brief overview of its contents and structure:
 
-1. **Small Plates of Nephi:** This section covers the journey of Lehi's family from Jerusalem to the Americas and includes teachings and prophecies from Nephi and other early prophets.
+- **Chapter 1:** This chapter describes Abraham's early life in Ur of the Chaldees. It discusses the idolatrous practices of his father, Terah, and their community. The chapter also narrates an incident where Abraham was nearly sacrificed by pagan priests and his subsequent rescue by an angel.
 
-2. **Mormon's Compilation:** The larger portion of the book, compiled by Mormon, a later prophet, details the history, wars, and religious developments of the Nephites and Lamanites over several centuries. It also includes Mormon's own narrative and his teachings.
+- **Chapter 2:** This chapter outlines God's covenant with Abraham, including the promises of land and posterity. It also covers Abraham's journey from Ur to Canaan, and then to Egypt.
 
-3. **Christ's Visit to the Americas:** A central event in the Book of Mormon is the visit of Jesus Christ to the Americas following his resurrection, where he teaches the inhabitants and establishes his church.
+- **Chapter 3:** This chapter presents a vision Abraham had, where he learns about the stars and the universe. It delves into the concept of a pre-mortal existence and introduces a cosmological understanding from Abraham's perspective.
 
-4. **Moral and Spiritual Teachings:** Throughout the book, there are teachings about redemption, faith, morality, and the human condition, presented through the narratives of the various peoples and their leaders.
+- **Chapter 4:** This chapter is a retelling of the creation story, paralleling the biblical account found in Genesis. It describes the process of the Earth's creation by the council of gods.
 
-5. **Prophecies and Revelation:** The book contains prophecies about the coming of Christ, the destiny of the peoples in the Americas, and revelations given to the prophets.
+- **Chapter 5:** Similar to Chapter 4, this chapter continues with the creation story, emphasizing the creation of life and mankind. It also discusses God's commandments to Adam and Eve in the Garden of Eden.
 
 The Book of Mormon concludes with the promise that those who read it and ask God about its truthfulness will receive a spiritual confirmation of its truth. This unique blend of historical narrative and spiritual teachings is central to its role as a religious text in the Latter Day Saint movement.
-
 
 ### About Joseph Smith
 
@@ -65,11 +62,11 @@ Throughout its history, Mormonism has faced opposition and controversy, notably 
 ### See also
 
 - [Wiki › List of prophets and religions]({{< relref "wiki/encyclopedia/list-of-prophets-and-religions.md" >}})
-- [Resources › Book of Abraham]({{< relref "resources/book-of-abraham/index.md" >}})
+- [Resources › Book of Mormon]({{< relref "resources/book-of-mormon/index.md" >}})
 
 ### External links
 
 - [Offical LDS web presence](https://www.churchofjesuschrist.org/?lang=eng)
 - [Official LDS Library and Scriptures](https://www.churchofjesuschrist.org/study/scriptures?lang=eng)
-- [Book of Mormon | LDS Scriptures](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng)
-- [Book of Mormon | Wikipedia](https://en.wikipedia.org/wiki/Book_of_Mormon)
+- [Book of Abraham | LDS Scriptures](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng)
+- [Book of Abraham | Wikipedia](https://en.wikipedia.org/wiki/Book_of_Abraham)

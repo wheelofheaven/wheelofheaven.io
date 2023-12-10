@@ -19,23 +19,26 @@
       {{ if ne $.Site.Language.Lang "en" }}
         {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
       {{ end }}
-      {{ $wikiURL := printf "%swiki/" $langPrefix }}
+      {{ $encyclopediaURL := printf "%swiki/encyclopedia/" $langPrefix }}
       <div class="d-flex justify-content-start card-list">
-        <a href="{{ $wikiURL }}">
+        <a href="{{ $encyclopediaURL }}">
           <div class="card my-1">
             <div class="card-body py-2">
-              {{ i18n "see-wiki-landing-page" }}&rarr;
+              {{ i18n "see-all-wiki-entries" }}&rarr;
             </div>
           </div>
         </a>
       </div>
+      <h3>{{ i18n "iceberg-title" }}</h3>
+      <p>{{ i18n "iceberg-description" }}</p>
       <div class="card-list">
         {{ $currentSection := .CurrentSection }}
         {{ range where .Site.RegularPages.ByTitle "Section" .Section }}
-          {{ if not .Params.hidden }}
+          {{ if ge .Params.iceberg 1}}
             <div class="card my-3">
               <div class="card-body">
-                <b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a></b>
+                <b><a href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a></b>
+                <p class="card-title">{{ i18n "iceberg-depth" }}: {{ .Params.iceberg }}</p>
                 <p class="card-text">{{ .Params.lead }}</p>
               </div>
             </div>

@@ -46,6 +46,15 @@
 - id: translated-by
   translation: "翻译者"
 
+- id: iceberg-depth
+  translation: "冰山深度"
+
+- id: iceberg-description
+  translation: "欢迎来到“维基百科 冰山”，在这里，我们将以独特而引人入胜的格式探索知识的深处，这一格式灵感来源于臭名昭著的冰山模因。这一部分旨在引导您穿越不同层次的信息，从顶层最容易获得和广泛接受的概念，到深层隐藏的最深刻、有争议或非传统的思想。"
+
+- id: iceberg-title
+  translation: "冰山"
+
 - id: medium
   translation: "媒体类型"
 
@@ -63,6 +72,12 @@
 
 - id: see-all-topics
   translation: "查看所有主题"
+
+- id: see-all-wiki-entries
+  translation: "查看所有维基条目"
+
+- id: see-wiki-landing-page
+  translation: "查看概述"
 
 - id: topics
   translation: "主题"

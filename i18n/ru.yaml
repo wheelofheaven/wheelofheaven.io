@@ -46,6 +46,15 @@
 - id: translated-by
   translation: "Переведено"
 
+- id: iceberg-depth
+  translation: "Глубина айсберга"
+
+- id: iceberg-description
+  translation: "Добро пожаловать в \"Вики-Айсберг\", где мы исследуем глубины знаний в уникальном и захватывающем формате, вдохновленном знаменитым мемом об айсберге. Этот раздел предназначен для проведения вас через различные уровни информации, от наиболее доступных и широко принятых концепций на вершине до самых глубоких, спорных или нестандартных идей, скрывающихся под поверхностью."
+
+- id: iceberg-title
+  translation: "Айсберг"
+
 - id: medium
   translation: "Тип носителя"
 
@@ -63,6 +72,12 @@
 
 - id: see-all-topics
   translation: "Посмотреть все темы"
+
+- id: see-all-wiki-entries
+  translation: "Просмотреть все записи вики"
+
+- id: see-wiki-landing-page
+  translation: "Просмотреть обзор"
 
 - id: topics
   translation: "Темы"

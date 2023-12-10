@@ -46,6 +46,15 @@
 - id: translated-by
   translation: "Übersetzt von"
 
+- id: iceberg-depth
+  translation: "Eisbergtiefe"
+
+- id: iceberg-description
+  translation: "Willkommen im \"Wiki-Eisberg\", wo wir in einem einzigartigen und fesselnden Format, inspiriert vom berüchtigten Eisberg-Meme, die Tiefen des Wissens erkunden. Dieser Abschnitt soll Sie durch verschiedene Informationsniveaus führen, von den am leichtesten zugänglichen und allgemein akzeptierten Konzepten an der Spitze bis hin zu den tiefgründigsten, kontroversesten oder unkonventionellsten Ideen, die unter der Oberfläche lauern." 
+
+- id: iceberg-title
+  translation: "Eisberg"  
+
 - id: medium
   translation: "Medientyp"
 
@@ -63,6 +72,12 @@
 
 - id: see-all-topics
   translation: "Alle Themen anzeigen"
+
+- id: see-all-wiki-entries
+  translation: "Alle Wiki-Einträge anzeigen"
+
+- id: see-wiki-landing-page
+  translation: "Siehe Übersicht"
 
 - id: topics
   translation: "Themen"

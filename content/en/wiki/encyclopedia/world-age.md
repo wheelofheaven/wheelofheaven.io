@@ -7,6 +7,7 @@ menu:
   wiki:
     parent: "Wiki"
 toc: true
+iceberg: 2
 ---
 
 The precessional Great Year is a term is used to describe the approximately 26'000 year cycle of the slow wobble of the Earth's axis. This cycle of precession affects the position of the stars in the sky and the way that the sun appears to move through the constellations over time.

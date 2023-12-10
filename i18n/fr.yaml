@@ -46,6 +46,15 @@
 - id: translated-by
   translation: "Traduit par"
 
+- id: iceberg-depth
+  translation: "Profondeur de l'iceberg"
+
+- id: iceberg-description
+  translation: "Bienvenue dans l'\"Iceberg Wiki\", où nous explorons les profondeurs du savoir dans un format unique et captivant inspiré du célèbre mème de l'iceberg. Cette section est conçue pour vous guider à travers différents niveaux d'information, des concepts les plus accessibles et largement acceptés en haut à des idées les plus profondes, controversées ou non conventionnelles qui se cachent sous la surface."
+
+- id: iceberg-title
+  translation: "Iceberg"
+
 - id: medium
   translation: "Type de support"
 
@@ -63,6 +72,12 @@
 
 - id: see-all-topics
   translation: "Voir tous les sujets"
+
+- id: see-all-wiki-entries
+  translation: "Voir toutes les entrées du wiki"
+
+- id: see-wiki-landing-page
+  translation: "Voir l'aperçu"
 
 - id: topics
   translation: "Sujets"

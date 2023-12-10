@@ -49,6 +49,15 @@
 - id: translated-by
   translation: "Translated by"
 
+- id: iceberg-depth
+  translation: "Iceberg depth"  
+
+- id: iceberg-description
+  translation: "Welcome to the \"Wiki Iceberg\", where we explore the depths of knowledge in a unique and engaging format inspired by the infamous iceberg meme. This section is designed to guide you through varying levels of information, from the most accessible and widely accepted concepts at the top to the most profound, controversial, or unconventional ideas lurking beneath the surface." 
+
+- id: iceberg-title
+  translation: "Iceberg"  
+
 - id: medium
   translation: "Media type"
 
@@ -63,6 +72,15 @@
 
 - id: see-all-topics
   translation: "See all topics"
+
+- id: see-all-topics
+  translation: "See all topics"
+
+- id: see-all-wiki-entries
+  translation: "See all Wiki entries"
+
+- id: see-wiki-landing-page
+  translation: "See overview"
 
 - id: topics
   translation: "Topics"

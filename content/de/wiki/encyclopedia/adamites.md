@@ -15,6 +15,7 @@ menu:
   wiki:
     parent: Wiki
 toc: true
+iceberg: 3
 timeline:
 - leo
 - cancer

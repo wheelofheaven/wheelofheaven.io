@@ -13,6 +13,7 @@ menu:
   wiki:
     parent: Wiki
 toc: true
+iceberg: 2
 translatedby: ["GPT"]
 translationrate: 10
 ---

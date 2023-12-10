@@ -14,7 +14,6 @@
     </nav>
     <article>
       <h1>{{ .Title }}</h1>
-      <div>{{ .Description }}</div>
       {{ $langPrefix := "/" }}
       {{ if ne $.Site.Language.Lang "en" }}
         {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
@@ -29,6 +28,7 @@
           </div>
         </a>
       </div>
+      {{ .Content }}
       <h3>{{ i18n "iceberg-title" }}</h3>
       <p>{{ i18n "iceberg-description" }}</p>
       <div class="card-list">

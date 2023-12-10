@@ -55,6 +55,15 @@
 - id: original-title
   translation: "原題:"
 
+- id: see-all-medium
+  translation: "すべてのメディアタイプを表示"
+
+- id: see-all-resources
+  translation: "すべてのリソースを表示"
+
+- id: see-all-topics
+  translation: "すべてのトピックを見る"
+
 - id: topics
   translation: "トピック"
 

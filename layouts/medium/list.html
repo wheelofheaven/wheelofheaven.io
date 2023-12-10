@@ -34,7 +34,29 @@
 			</ol>
 		</nav>
 		<h2 class="medium-icon-md">{{ partial "utilities/mediaIcon" (dict "mediaType" $mediaType "site" .Site) }}&nbsp;{{ $pageTitle }} ({{ i18n "medium" }})</h2>
-		<p>{{ $pageDescription }}</p>			
+		<p>{{ $pageDescription }}</p>
+		{{ $langPrefix := "/" }}
+		{{ if ne $.Site.Language.Lang "en" }}
+		  {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+		{{ end }}
+		{{ $resourcesURL := printf "%sresources/" $langPrefix }}
+		{{ $mediumURL := printf "%smedium/" $langPrefix }}
+		<div class="d-flex justify-content-start card-list">
+			<a href="{{ $mediumURL }}">
+				<div class="card my-1">
+					<div class="card-body py-2">
+						{{ i18n "see-all-medium"  }} &rarr;
+					</div>
+				</div>
+			</a>
+			<a href="{{ $resourcesURL }}">
+				<div class="card my-1">
+					<div class="card-body py-2">
+						{{ i18n "see-all-resources" }}&rarr;
+					</div>
+				</div>
+			</a>
+		</div>
 		<div class="card-list">
 			{{ range .Data.Pages.ByWeight.Reverse -}}
 				<div class="card my-3">

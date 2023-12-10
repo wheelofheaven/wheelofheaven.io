@@ -55,6 +55,15 @@
 - id: not-translated
   translation: "Not translated"
 
+- id: see-all-medium
+  translation: "See all media types"
+
+- id: see-all-resources
+  translation: "See all resources"
+
+- id: see-all-topics
+  translation: "See all topics"
+
 - id: topics
   translation: "Topics"
 

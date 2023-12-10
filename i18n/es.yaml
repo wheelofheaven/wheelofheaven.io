@@ -55,6 +55,15 @@
 - id: original-title
   translation: "Titulo original:"
 
+- id: see-all-medium
+  translation: "Ver todos los tipos de medios"
+
+- id: see-all-resources
+  translation: "Ver todos los recursos"
+
+- id: see-all-topics
+  translation: "Ver todos los temas"
+
 - id: topics
   translation: "Temas"
 

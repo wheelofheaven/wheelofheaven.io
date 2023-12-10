@@ -55,6 +55,15 @@
 - id: original-title
   translation: "Арыгінальная назва:"
 
+- id: see-all-medium
+  translation: "Просмотреть все типы медиа"
+
+- id: see-all-resources
+  translation: "Посмотреть все ресурсы"
+
+- id: see-all-topics
+  translation: "Посмотреть все темы"
+
 - id: topics
   translation: "Темы"
 

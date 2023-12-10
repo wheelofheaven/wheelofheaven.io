@@ -14,14 +14,28 @@
 		</nav>
 		<h1>{{ .Title }}</h1>
 		<div>{{ .Description }}</div>
+		{{ $langPrefix := "/" }}
+		{{ if ne $.Site.Language.Lang "en" }}
+		  {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+		{{ end }}
+		{{ $resourcesURL := printf "%sresources/" $langPrefix }}
+		<div class="d-flex justify-content-start card-list">
+			<a href="{{ $resourcesURL }}">
+				<div class="card my-1">
+					<div class="card-body py-2">
+						{{ i18n "see-all-resources" }}&rarr;
+					</div>
+				</div>
+			</a>
+		</div>
 		<div class="card-list">
-      {{ range .Data.Pages.ByTitle }}
-      <div class="card my-3">
-        <div class="card-body medium-icon">
-          <a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a>
-        </div>
-      </div>
-    {{ end }}
+			{{ range .Data.Pages.ByTitle }}
+			<div class="card my-3">
+				<div class="card-body medium-icon">
+				<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a>
+				</div>
+			</div>
+			{{ end }}
 		</div>
 	</main>
 </div>

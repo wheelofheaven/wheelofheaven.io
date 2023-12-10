@@ -55,6 +55,15 @@
 - id: original-title
   translation: "原标题："
 
+- id: see-all-medium
+  translation: "查看所有媒体类型"
+
+- id: see-all-resources
+  translation: "查看所有资源"
+
+- id: see-all-topics
+  translation: "查看所有主题"
+
 - id: topics
   translation: "主题"
 

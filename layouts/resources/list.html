@@ -12,10 +12,30 @@
 				<li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
 			</ol>
 		</nav>
-		<h1>
-		{{ .Title }}
-		</h1>
+		<h1>{{ .Title }}</h1>
 		<div>{{ .Description }}</div>
+		{{ $langPrefix := "/" }}
+		{{ if ne $.Site.Language.Lang "en" }}
+		  {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
+		{{ end }}
+		{{ $mediumURL := printf "%smedium/" $langPrefix }}
+		{{ $topicsURL := printf "%stopics/" $langPrefix }}
+		<div class="d-flex justify-content-start card-list">
+			<a href="{{ $mediumURL }}">
+				<div class="card my-1">
+					<div class="card-body py-2">
+						{{ i18n "see-all-medium" }}&rarr;
+					</div>
+				</div>
+			</a>
+			<a href="{{ $topicsURL }}">
+				<div class="card my-1">
+					<div class="card-body py-2">
+						{{ i18n "see-all-topics"  }} &rarr;
+					</div>
+				</div>
+			</a>
+		</div>
 		<div class="card-list">
 		{{ range .Pages.ByTitle}}
 			<div class="card my-3">

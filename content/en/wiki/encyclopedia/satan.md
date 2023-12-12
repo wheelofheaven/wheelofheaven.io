@@ -7,6 +7,8 @@ menu:
   wiki:
     parent: "Wiki"
 toc: true
+tags: ["wheel-of-heaven"]
+categories: ["Wiki"]
 ---
 
 Satan, also commonly referred to as the Devil, is a figure in many religious traditions, including Judaism, Christianity, and Islam. In these traditions, Satan is often depicted as a powerful, malevolent spirit who opposes God and tempts humans to sin.

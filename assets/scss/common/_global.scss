@@ -248,9 +248,17 @@ body {
 }
 
 .bg-dots {
-  background-image: radial-gradient($gray-300 15%, transparent 15%);
-  background-position: 0 0;
-  background-size: 1rem 1rem;
+  background-image: 
+    radial-gradient(circle, $gray-300 2%, transparent 2%),
+    radial-gradient(circle, $gray-300 2%, transparent 2%),
+    radial-gradient(circle, $gray-300 2%, transparent 2%),
+    radial-gradient(circle, $gray-300 2%, transparent 2%),
+    radial-gradient(circle, $gray-300 2%, transparent 2%);
+  background-position:
+    5% 10%, 20% 30%, 40% 20%, 70% 40%, 90% 10%;
+  background-size:
+    3rem 3rem, 4rem 4rem, 5rem 5rem, 3rem 3rem, 4rem 4rem;
+  background-repeat: no-repeat;
   -webkit-mask: linear-gradient(to top, #fff, transparent);
   mask: linear-gradient(to top, #fff, transparent);
   width: 100%;

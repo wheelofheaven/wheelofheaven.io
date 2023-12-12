@@ -14,20 +14,6 @@
     </nav>
     <article>
       <h1>{{ .Title }}</h1>
-      {{ $langPrefix := "/" }}
-      {{ if ne $.Site.Language.Lang "en" }}
-        {{ $langPrefix = printf "/%s/" $.Site.Language.Lang }}
-      {{ end }}
-      {{ $encyclopediaURL := printf "%swiki/encyclopedia/" $langPrefix }}
-      <div class="d-flex justify-content-start card-list">
-        <a href="{{ $encyclopediaURL }}">
-          <div class="card my-1">
-            <div class="card-body py-2">
-              {{ i18n "see-all-wiki-entries" }}&rarr;
-            </div>
-          </div>
-        </a>
-      </div>
       {{ .Content }}
       <h3>{{ i18n "iceberg-title" }}</h3>
       <p>{{ i18n "iceberg-description" }}</p>

@@ -6,6 +6,7 @@ menu:
   wiki:
     parent: "Wiki"
 toc: true
+categories: ["Wiki"]
 ---
 
 ## Logic of the Bible

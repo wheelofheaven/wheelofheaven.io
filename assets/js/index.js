@@ -1,5 +1,6 @@
 var suggestions = document.getElementById('suggestions');
 var search = document.getElementById('search');
+var blurOverlay = document.getElementById('blurOverlay');
 
 const MAX_DESCRIPTION_LENGTH = 120;
 
@@ -15,6 +16,7 @@ function inputFocus(e) {
   if (e.key === 'Escape' ) {
     search.blur();
     suggestions.classList.add('d-none');
+    blurOverlay.style.display = 'none';
   }
 }
 
@@ -26,6 +28,7 @@ document.addEventListener('click', function(event) {
     suggestions.classList.add('d-none');
   }
 
+  blurOverlay.style.display = 'none';
 });
 
 /*
@@ -117,6 +120,7 @@ Source:
 
     suggestions.innerHTML = "";
     suggestions.classList.remove('d-none');
+    blurOverlay.style.display = 'block';
 
     if (flatResults.size === 0 && searchQuery) {
       const noResultsMessage = document.createElement('div');

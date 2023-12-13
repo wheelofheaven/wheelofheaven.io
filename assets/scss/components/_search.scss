@@ -2,6 +2,17 @@
   position: relative;
 }
 
+.blur-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(5px);
+  pointer-events: none;
+}
+
 #suggestions {
   position: absolute;
   right: 0;

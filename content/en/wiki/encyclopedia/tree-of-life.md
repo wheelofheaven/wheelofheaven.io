@@ -34,7 +34,7 @@ The Sumerian writing system included a type of character known as a "sumerogram,
 
 The idea of a book being derived from a tree is not unique to East Asian languages. In English, for example, we still use the word "leaf" to refer to the pages of a book, and the term "codex" (meaning a bound book) is derived from the Latin word for a wooden block or tablet.
 
-The English word "book" can be traced back to the Proto-Germanic word bokiz, which meant "beech tree." This is because the early Germanic peoples used the soft bark of the beech tree to write on. Over time, the meaning of the word *bokiz shifted from "beech tree" to "book," likely because beech bark was a common material used for writing and inscribing information.
+The English word "book" can be traced back to the Proto-Germanic word bokiz, which meant "beech tree." This is because the early Germanic peoples used the soft bark of the beech tree to write on.[^beech] Over time, the meaning of the word *bokiz shifted from "beech tree" to "book," likely because beech bark was a common material used for writing and inscribing information.
 
 Similarly, the German word "Buch" can be traced back to the Old High German word "buoh" or "buoch," which also meant "beech tree." Just like in English, the bark of the beech tree was used for writing on in Old High German. Over time, the meaning of the word "buoh" shifted from "beech tree" to "book."
 
@@ -43,6 +43,8 @@ The link between the beech tree and the concept of a book may seem unusual at fi
 The metaphors of the Tree of Life and the Tree of the Knowledge of Good and Evil in the Bible can be interpreted as representing a record of knowledge or wisdom kept alive through a tree that is analogous to a book or writing onto wood/paper.
 
 The metaphorical interpretation of these trees as sources of knowledge or wisdom is supported by the fact that the Hebrew word for "knowledge" in the phrase "Tree of the Knowledge of Good and Evil" is "da'at," which can also be translated as "wisdom" or "understanding." Additionally, the idea of wisdom and knowledge being recorded and preserved in written form is present in many cultures, including the use of tree bark for writing material in ancient times.
+
+[^beech]: Birch bark manuscripts are documents written on pieces of the inner layer of birch bark, which was commonly used for writing before the mass production of paper. Evidence of birch bark for writing goes back many centuries and appears in various cultures. See here for more: [Birch bark manuscript | Wikipedia](https://en.wikipedia.org/wiki/Birch_bark_manuscript)
 
 ## In Raëlism 🔯
 

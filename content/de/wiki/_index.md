@@ -5,4 +5,3 @@ layout: wiki
 ---
 
 {{< navButton targetURL="wiki/encyclopedia/" text="see-all-wiki-entries" >}}
-

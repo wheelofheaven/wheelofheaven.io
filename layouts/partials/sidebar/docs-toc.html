@@ -17,11 +17,11 @@
 </div>
 <div class="page-links d-none d-xl-block">
   <h3>{{ i18n "on-this-page" }}</h3>
-  {{ if eq .Site.Params.options.scrollSpy true -}}
-    {{ .TableOfContents | replaceRE "<nav id=\"TableOfContents\">" "<nav id=\"toc\">" | safeHTML }}
-  {{ else -}}
-    {{ .TableOfContents }}
-  {{ end -}}
+  {{ .TableOfContents | replaceRE "<nav id=\"TableOfContents\">" "<nav id=\"toc\">" | safeHTML }}
+  <nav>
+    <ul>
+      <li><a href="#">{{ i18n "scroll-to-top" }} &#8593;</a></li>
+    </ul>
+  </nav>
 </div>
 {{ end -}}
-</br>

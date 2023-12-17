@@ -7,7 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["ニュース"]
+categories: ["behind-the-scenes"]
 tags: ["紹介", "wheel-of-heaven", "作業仮説", "古代宇宙人", "インテリジェントデザイン", "ラエリズム"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

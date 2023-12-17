@@ -7,7 +7,7 @@ lastmod: 2023-07-07T00:00:00+00:00
 draft: false
 weight: 50
 images: ["the-great-year-and-its-twelve-houses.jpg"]
-categories: ["Contexto"]
+categories: ["insights"]
 tags: ["era-de-acuario", "el-gran-despertar", "arqueoastronomía"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

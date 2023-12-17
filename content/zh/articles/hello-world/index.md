@@ -7,7 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["新闻"]
+categories: ["behind-the-scenes"]
 tags: ["介绍", "wheel-of-heaven", "工作假设", "古代外星人", "智能设计", "拉埃利主义"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

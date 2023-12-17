@@ -7,8 +7,8 @@ lastmod: 2023-04-06T00:00:00+00:00
 draft: false
 weight: 50
 images: ["elohimite-vs-elohimian.jpg"]
-categories: ["News"]
-tags: ["wheel-of-heaven", "lexicon", "ancient-alients", "elohim", "elohimite", "raëlism"]
+categories: ["insights"]
+tags: ["wheel-of-heaven", "lexicon", "ancient-aliens", "elohim", "raelism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

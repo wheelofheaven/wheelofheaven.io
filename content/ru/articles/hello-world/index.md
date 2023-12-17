@@ -7,7 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["Новости"]
+categories: ["behind-the-scenes"]
 tags: ["введение", "wheel-of-heaven", "рабочая-гипотеза", "древние-инопланетяне", "интеллектуальный-дизайн", "раэлизм"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

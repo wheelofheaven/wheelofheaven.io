@@ -111,6 +111,27 @@
 }
 
 @font-face {
+  font-family: SpaceGrotesk;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Space Grotesk"),
+    url("fonts/vendor/spacegrotesk/SpaceGrotesk-Regular.ttf") format("ttf");
+}
+
+
+@font-face {
+  font-family: SpaceGrotesk;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    local("Space Grotesk"),
+    url("fonts/vendor/spacegrotesk/SpaceGrotesk-Regular.ttf") format("ttf");
+}
+
+@font-face {
   font-family: SpaceMono;
   font-style: normal;
   font-weight: 400;

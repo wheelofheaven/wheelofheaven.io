@@ -7,7 +7,7 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["Actualités"]
+categories: ["behind-the-scenes"]
 tags: ["intro", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raëlisme"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

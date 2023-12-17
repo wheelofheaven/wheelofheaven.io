@@ -7,8 +7,8 @@ lastmod: 2022-09-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["hello-world.jpg"]
-categories: ["News"]
-tags: ["Intro", "Wheel-of-Heaven", "Ancient Aliens", "Intelligent Design", "Raëlismus"]
+categories: ["behind-the-scenes"]
+tags: ["get-started", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raelism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

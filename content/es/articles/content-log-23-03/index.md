@@ -7,8 +7,8 @@ lastmod: 2023-03-20T00:00:00+00:00
 draft: false
 weight: 50
 images: ["content-log-03-23.jpg"]
-categories: ["Registro de contenido"]
-tags: ["knowledge-base", "dev-log", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raëlism"]
+categories: ["behind-the-scenes"]
+tags: ["knowledge-base", "dev-log", "wheel-of-heaven", "ancient-aliens", "intelligent-design", "raelism"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

@@ -7,7 +7,7 @@ lastmod: 2022-12-03T00:00:00+00:00
 draft: false
 weight: 50
 images: ["fact-check.jpg"]
-categories: ["News"]
+categories: ["current-affairs"]
 tags: ["wheel-of-heaven", "ancient-aliens", "swastika", "unendlichkeit", "raëlismus"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

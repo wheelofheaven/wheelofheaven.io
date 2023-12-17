@@ -7,7 +7,7 @@ lastmod: 2022-12-03T00:00:00+00:00
 draft: false
 weight: 50
 images: ["fact-check.jpg"]
-categories: ["Актуальные события"]
+categories: ["current-affairs"]
 tags: ["wheel-of-heaven", "древние-цивилизации", "свастика", "бесконечность", "раэлизм"]
 contributors: ["Zara Zinsfuss"]
 pinned: false

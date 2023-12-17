@@ -28,7 +28,7 @@
       <p>{{ i18n "alternative-names" }}  {{ range $index, $element := . }}
         {{ if $index }}, {{ end }}{{ $element }}{{ end }}</p>
       {{ end }}
-      <p class="lead arvo-font"><sup class="lead-tldr"><a href="{{ relref . "wiki/encyclopedia/tldr.md" }}" style="text-decoration: none; color: inherit;">tl;dr</a></sup> {{ .Params.lead | safeHTML }}</p>
+      <p class="lead serif-font"><sup class="lead-tldr"><a href="{{ relref . "wiki/encyclopedia/tldr.md" }}" style="text-decoration: none; color: inherit;">tl;dr</a></sup> {{ .Params.lead | safeHTML }}</p>
 			{{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
 				{{ partial "sidebar/docs-toc.html" . }}

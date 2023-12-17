@@ -1,0 +1,14 @@
+{{ $lang := .site.Language.Lang }}
+{{ if .tag }}
+  {{ $tag := .tag }}
+  {{ range .site.Data.tags }}
+    {{ if eq .id $tag }}
+      {{ $description := index .description $lang }}
+      {{ if not $description }}
+        {{ $description = index .description "en" }}
+      {{ end }}
+      {{ $description }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+

@@ -7,8 +7,8 @@ lastmod: 2023-10-01T00:00:00+00:00
 draft: false
 weight: 50
 images: ["roadmap-after-first-year-since-launch.jpg"]
-categories: ["News"]
-tags: ["wheel-of-heaven", "ancient-alients", "elohim"]
+categories: ["behind-the-scenes"]
+tags: ["wheel-of-heaven", "ancient-aliens", "elohim"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

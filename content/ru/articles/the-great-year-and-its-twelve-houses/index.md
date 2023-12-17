@@ -7,7 +7,7 @@ lastmod: 2023-07-07T00:00:00+00:00
 draft: false
 weight: 50
 images: ["the-great-year-and-its-twelve-houses.jpg"]
-categories: ["Контекст"]
+categories: ["insights"]
 tags: ["эра водолея", "великое пробуждение", "археоастрономия"]
 contributors: ["Зара Цинсфусс"]
 pinned: false

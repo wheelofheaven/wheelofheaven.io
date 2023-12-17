@@ -7,8 +7,8 @@ lastmod: 2023-07-07T00:00:00+00:00
 draft: false
 weight: 50
 images: ["the-great-year-and-its-twelve-houses.jpg"]
-categories: ["Kontext"]
-tags: ["Wassermann-Zeitalter", "Das Große Erwachen", "Archäoastronomie"]
+categories: ["insights"]
+tags: ["age-of-aquarius", "the-great-awakening", "archaeoastronomy"]
 contributors: ["Zara Zinsfuss"]
 pinned: false
 homepage: false

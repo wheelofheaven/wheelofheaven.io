@@ -160,7 +160,6 @@
     ru: ""
     zh: ""
 
-
 - id: "lexicon"
   title:
     en: "Lexicon"
@@ -203,7 +202,7 @@
     fr: "Le Grand Éveil"
     es: "El Gran Despertar"
     de: "Das Große Erwachen"
-    ja: "大いなる覚醒"
+    ja: "大覚醒"
     ru: "Великое Пробуждение"
     zh: "伟大的觉醒"
   description:
@@ -236,12 +235,12 @@
 - id: "wheel-of-heaven"
   title:
     en: "Wheel of Heaven"
-    fr: "Roue du Ciel"
-    es: "Rueda del Cielo"
-    de: "Rad des Himmels"
-    ja: "天国の輪"
-    ru: "Колесо небес"
-    zh: "天堂之轮"
+    fr: "Wheel of Heaven"
+    es: "Wheel of Heaven"
+    de: "Wheel of Heaven"
+    ja: "Wheel of Heaven"
+    ru: "Wheel of Heaven"
+    zh: "Wheel of Heaven"
   description:
     en: ""
     fr: ""

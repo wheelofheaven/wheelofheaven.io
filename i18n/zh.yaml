@@ -7,6 +7,9 @@
 - id: on-this-page
   translation: "在本页"
 
+- id: scroll-to-top
+  translation: "滚动到顶部"
+
 - id: search-text
   translation: "搜索奥秘..."
 

@@ -7,6 +7,9 @@
 - id: on-this-page
   translation: "このページでは"
 
+- id: scroll-to-top
+  translation: "トップに戻る"
+
 - id: search-text
   translation: "謎を探す..." 
 

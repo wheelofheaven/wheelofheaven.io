@@ -7,6 +7,9 @@
 - id: on-this-page
   translation: "Sur cette page"
 
+- id: scroll-to-top
+  translation: "Défiler vers le haut"
+
 - id: search-text
   translation: "Cherchez les mystères..."
 

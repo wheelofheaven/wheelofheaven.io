@@ -19,9 +19,7 @@
   <h3>{{ i18n "on-this-page" }}</h3>
   {{ .TableOfContents | replaceRE "<nav id=\"TableOfContents\">" "<nav id=\"toc\">" | safeHTML }}
   <nav>
-    <ul>
-      <li><a href="#">{{ i18n "scroll-to-top" }} &#8593;</a></li>
-    </ul>
+      <a href="#">{{ i18n "scroll-to-top" }} &#8593;</a>
   </nav>
 </div>
 {{ end -}}

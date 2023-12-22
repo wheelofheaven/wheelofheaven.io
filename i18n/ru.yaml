@@ -7,6 +7,9 @@
 - id: on-this-page
   translation: "На этой странице"
 
+- id: scroll-to-top
+  translation: "Прокрутить к верху"
+
 - id: search-text
   translation: "Ищите тайны..."
 

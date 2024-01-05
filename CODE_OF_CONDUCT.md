@@ -1,11 +1,13 @@
 # Code of Conduct
 
+Simple Code of Conduct. Without bloat. Basically, show dignity and integrity and don't trample around, and you're going to be fine.
+
 ## Principles
 
 - Respect: Treat others as you'd like to be treated. No insults or personal attacks.
 - Collaboration: Work together to build something great. Share knowledge and help others.
-- Constructive Feedback: Offer and accept feedback graciously. It's about the code, not the person.
-- Keep It Professional: Stay focused on the project and its goals.
+- Constructive feedback: Offer and accept feedback graciously. It's about content, not the person.
+- Keep it professional: Stay focused on the project and its goals.
 
 ## Unacceptable Behavior
 

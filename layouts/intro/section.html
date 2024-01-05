@@ -22,11 +22,12 @@
 		      {{ $chapterTitle = printf "%s %s —" (i18n "chapter") .Params.Chapter }}
 		    {{ end }}
 		    <h2>{{ $chapterTitle }} {{ .Title }}</h2>
-        <p>{{ .Description }}</p>
+        	<p>{{ .Description }}</p>
 				{{ range .Pages }}
 					<div class="card my-3">
 						<div class="card-body">
 							<h4 class="card-title"><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></h4>
+							{{ if .Params.Period }}<h6 class="card-subtitle">{{ .Params.Period }}</h6>{{ end }}
 							<p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
 							{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 							{{ partial "content/card-image-bottom.html" . }}
@@ -45,8 +46,9 @@
         {{ if not (in (slice "1" "2" "3" "4") .Params.Chapter) }}
 				<div class="card my-3">
 					<div class="card-body">
-						<b><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></b>
-            <p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
+						<h4 class="card-title"><a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.Chapter }} {{ .Title | title }} &rarr;</a></h4>
+						{{ if .Params.Period }}<h6 class="card-subtitle">{{ .Params.Period }}</h6>{{ end }}
+            			<p class="card-text">{{ .Description | plainify | htmlUnescape }}</p>
 						{{- .Scratch.Set "fillImage" "1270x620 Center" -}}
 						{{ partial "content/card-image-bottom.html" . }}
 					</div>

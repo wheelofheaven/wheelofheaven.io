@@ -54,7 +54,7 @@ Caodaism's emergence was part of a broader spiritual renaissance in Vietnam duri
 
 ### External links
 
-- [Offical Caodai web presence](https://caodai.com.vn)
+- [Official Caodai web presence](https://caodai.com.vn)
 - [Library and Divine Revelations | Center for the study of the Cao Đài Religion](https://www.caodaicenter.org/divine-revelations)
 - [THÁNH NGÔN HIỆP TUYỂN: Quyển 1 & 2](http://caodaism.org/2001/tnht.htm)
 - [The Collection of Divine Messages, Volume 1 of the Cao Đài Religion of God in the year 1926 in Vietnam](http://caodaigiaoly.free.fr/TNHT_eng_1.html)

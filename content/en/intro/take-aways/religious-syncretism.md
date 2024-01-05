@@ -42,6 +42,14 @@ It would seem natural to assume that only so many mytheme can be shared among wo
 
 ### The common source
 
+In the first book [The Book Which Tells The Truth]({{< relref "resources/the-book-which-tells-the-truth.md" >}}), at the very beginning of Chapter "At the Root of All Religions", Yahweh says the following about religions and religious sects:
+
+> It is not only in the Bible and the Gospels that there are traces of the truth; testimonies can be found in practically every religion.
+>
+> [...]
+>
+> The Kabala is the closest book to the truth, but almost all religious books allude to us with varying degrees of clarity. This is especially true in those countries where the creators had bases - in the Andes, in the Himalayas, in Greece where Greek mythology also contains important testimonies, as well as in the Buddhist and Islamic religions and among the Mormons. It would take many pages to name all the religions and sects that testify in a more or less obscure way to our work.
+
 ### The meaning of religion
 
 ### Recapping

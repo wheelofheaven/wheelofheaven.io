@@ -1,41 +1,44 @@
 ![wheel-of-heaven-banner](https://github.com/wheelofheaven/.github/blob/main/profile/static/wheel-of-heaven-banner.jpg)
 
-# Wheel of Heaven
+# Wheel of Heaven | Website
 
-Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim.
+This repository contains the source code for the Wheel of Heaven website, a comprehensive knowledge base exploring the hypothesis of extraterrestrial influence on Earth. The site is built using Hugo, a powerful and fast static site generator.
 
-## Knowledge base 🔬
+## Project Structure
 
-A knowledge base is a platform that enables the consumption of a body of knowledge that that contextualizes its units of knowledge through commentary, referencing, interlinking and formatting. This specific knowledge base is a dedicated web presence which is built with a set of best-breeds in terms of web technology. 
+The Wheel of Heaven website is structured as follows:
 
-Thus, the Wheel of Heaven knowledge base is leveraging a static site generator that basically converts markdown based content files into a fully-fledged web site. Content creation, content editing and content organization is all managed through git-based version control hosted on [Github](https://github.com). Wheel of Heaven is composed of a collection of git-based projects, most of which are meant to be consumed through the web. An offline version is not planned as of yet.
+- `content/`: Contains all the markdown files which make up the content of the site. This includes articles, blog posts, and other written materials.
+- `static/`: This directory hosts all static content like images, CSS files, and JavaScript files.
+- `layouts/`: Holds the HTML templates that define the structure of different types of pages on the site.
+- `data/`: Stores configuration files and other data files used by the site.
+- `themes/`: Contains the Hugo theme used for the site. Customizations to the theme are also located here.
+- `config.toml`: The main configuration file for the Hugo site. This file contains global settings for the website.
 
-Currently, following web projects are being hosted by Wheel of Heaven:
+## Contributing
 
-- [Wheel of Heaven | Knowledge Base](https://www.wheelofheaven.io/)
-- [Wheel of Heaven | White Paper](https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md)
-- [L'Ère du Verseau | Gitbook](https://wheelofheaven.github.io/sendy-l-ere-du-verseau/)
-- [Hamlet's Mill | Gitbook](https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/)
-- [The Book Which Tells The Truth | Gitbook](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/)
-- [Extraterrestrials Took Me To Their Planet | Gitbook](https://wheelofheaven.github.io/rael-two-extraterrestrials-took-me-to-their-planet/)
+We welcome contributions to the Wheel of Heaven project! Whether it's adding content, improving the design, or fixing bugs, your input is valuable. Please refer to our [Contribution Guidelines](CONTRIBUTE.md) for more information on how to contribute.
 
-## Collaboration 🤝
+## Building the Site
 
-We at Wheel of Heaven commit to full transparency and want to elaborate the best possible platform for hosting the knowledge base. Of course, this is a team effort and we want to include your suggestions if you think we can make things even better. Thus, if you want to help contribute, please read our official [How to contribute](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md) guide.
+To build the site locally:
 
-- [CONTRIBUTE.md | github.com/wheelofheaven](https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md)
+1. Install Hugo on your machine (see [Hugo documentation](https://gohugo.io/documentation/) for instructions).
+2. Clone this repository.
+3. Navigate to the repository directory and run `npm start build`.
+4. Open your browser and go to `http://localhost:1313` to see the site.
 
-## Contribute to help us cover the maintenance costs 🤖
+## Reporting Issues
 
-For now, we have very little uptime costs, howver if you feel inclined to contribute, a little financial help won't do harm.
+If you encounter any issues or have suggestions for improvements, please file an issue in this repository's Issue Tracker.
 
-- [Open Collective | Wheel of Heaven](https://opencollective.com/wheelofheaven)
+## Stay Connected
 
-## Follow us on social media 📻
+Keep up with the latest developments in our project:
 
 - [Telegram | t.me/wheelofheaven](https://t.me/wheelofheaven)
 - [Twitter | @wheelofheaven](https://twitter.com/wheelofheaven)
 
 ---
 
-_Made with ♥ in Switzerland using [Github](https://github.com), [Zola](https://www.getzola.org/), [Doks](https://getdoks.org/) and [mdBook](https://rust-lang.github.io/mdBook/)_
+_Made with ♥ in Switzerland, using [Hugo](https://gohugo.io/), [Git](https://git-scm.com/), and [GitHub](https://github.com)._

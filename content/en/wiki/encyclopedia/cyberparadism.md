@@ -53,5 +53,6 @@ The setting of Cyberparadism, where Earth-based utopian societies thrive in harm
 
 ## External links
 
+- [Cyberparadism | Offical web presence](https://zarazinsfuss.github.io/cyberparadism/)
 - [Cyberparadism | Aeshtethics Wiki](https://aesthetics.fandom.com/wiki/Cyberparadism)
 - [Cyberparadism Manifesto | Github](https://github.com/zarazinsfuss/cyberparadism-manifesto/blob/main/README.md)

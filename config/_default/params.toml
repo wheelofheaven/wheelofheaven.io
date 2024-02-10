@@ -72,7 +72,7 @@ copyRight = "Copyright (c) 2022 Zara Zinsfuss"
 # Alert
 alert = true
 alertDismissable = true
-alertText = "Welcome to Wheel of Heaven. Please note this website is still improved on a daily basis."
+alertText = ""
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster

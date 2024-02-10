@@ -53,11 +53,11 @@ For the 'demystification' list, the introduction can follow a similar approach, 
 | Reincarnation                | [Saṃsāra]({{< relref "wiki/encyclopedia/samsara.md" >}}), [Swastika]({{< relref "wiki/encyclopedia/swastika.md" >}}) |
 | Confusion of tongues         | [Confusion of tongues]({{< relref "wiki/encyclopedia/confusion-of-tongues.md" >}}) |
 | Dragons                      | [Dragons]({{< relref "wiki/encyclopedia/dragons.md" >}}) |
-| Eden                         | [Eden]({{< relref "wiki/encyclopedia/eden.md" >}}) |
-| Elohim                       | [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) |
+| Garden of Eden               | [Eden]({{< relref "wiki/encyclopedia/eden.md" >}}) |
+| Elohim, the name of an alleged God | [Elohim]({{< relref "wiki/encyclopedia/elohim.md" >}}) |
 | Genesis                      | [Genesis]({{< relref "wiki/encyclopedia/genesis.md" >}}) |
-| Menorah                      | [Menorah]({{< relref "wiki/encyclopedia/menorah.md" >}}) |
-| Noah's Ark                   | [Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}}) |
+| Menorah, the famous Jewish candelabra | [Menorah]({{< relref "wiki/encyclopedia/menorah.md" >}}) |
+| Noah's Ark, the craft that saved God's creation | [Noah\'s Ark]({{< relref "wiki/encyclopedia/noahs-ark.md" >}}) |
 | Serpent                      | [Serpent]({{< relref "wiki/encyclopedia/serpent.md" >}}) |
 | Tower of Babel               | [Tower of Babel]({{< relref "wiki/encyclopedia/tower-of-babel.md" >}}) |
 | Tree of Life                 | [Tree of Life]({{< relref "wiki/encyclopedia/tree-of-life.md" >}}) |

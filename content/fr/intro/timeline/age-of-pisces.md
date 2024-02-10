@@ -1,6 +1,7 @@
 ---
 title: "Âge des Poissons"
 period: "210 avant JC—1950"
+age: "pisces"
 description: "L'Âge des Poissons, s'étendant de 210 av. J.-C. à 1950 ap. J.-C., a succédé à l'Âge du Bélier et est récemment passé à l'Âge du Verseau. Cette ère est caractérisée par des événements bibliques significatifs, notamment le rôle du Christ, dont la mission était de répandre la vérité des Écritures bibliques dans le monde entier, servant de fondement à la compréhension de l'humanité dans l'ère scientifique à venir. L'Âge du Verseau, qui a commencé en 1945 avec le développement de l'énergie nucléaire et des systèmes d'information, symbolise une époque de connaissances accrues et de progrès technologiques, permettant à l'humanité de réinterpréter la sagesse ancienne à travers un prisme moderne. De plus, l'Âge des Poissons a inclus la naissance d'un enfant significatif, né d'une mère humaine et d'un extraterrestre, héritant d'aptitudes télépathiques uniques, comme dépeint dans l'histoire biblique de la naissance de Jésus-Christ."
 menu:
   intro:

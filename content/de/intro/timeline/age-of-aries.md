@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Widders"
 period: "2'370–210 v. Chr."
+age: "aries"
 description: "Das Zeitalter des Widders, das von 2.370 bis 210 v. Chr. reicht, folgt auf das Zeitalter des Stiers in der „Wheel of Heaven“-Erzählung. Diese Ära ist gekennzeichnet durch bedeutende biblische Ereignisse, insbesondere im Zusammenhang mit Moses, einer zentralen Figur im Judentum. Die Erzählung interpretiert Moses' Begegnung mit dem brennenden Dornbusch als Interaktion mit fortschrittlicher Technologie, ähnlich einer Rakete, was eine außerirdische Präsenz symbolisiert. Darüber hinaus beschreibt dieses Zeitalter die Befreiung des Volkes Israel, geführt von den Elohim, die sie tagsüber in einer Wolkensäule und nachts in einer Feuersäule führten, wie im Buch Exodus beschrieben. Diese Ereignisse illustrieren den anhaltenden Einfluss und die Führung der Elohim in menschlichen Angelegenheiten während dieser Periode."
 menu:
   intro:

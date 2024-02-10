@@ -1,6 +1,7 @@
 ---
 title: "Era de Tauro"
 period: "4'530—2'370BC"
+age: "taurus"
 description: "La Era de Tauro, desde el 4530 hasta el 2370 a.C., es un período significativo en la narrativa de \"Wheel of Heaven\", siguiendo la Era de Géminis. En esta era, los creadores previamente exiliados fueron perdonados y se les permitió regresar a su planeta natal. Abogaron por los humanos en la Tierra, atrayendo la atención de su planeta natal hacia la Tierra y sus habitantes. Mientras tanto, algunos humanos, con un deseo de venganza, se reunieron en las ciudades de Sodoma y Gomorra. Estos humanos, que previamente habían rescatado secretos científicos, se prepararon para tomar represalias contra aquellos que intentaron destruirlos. Esta era culminó con la destrucción de estas ciudades por lo que se interpreta como una explosión atómica divina, como se describe en el relato bíblico de Sodoma y Gomorra."
 menu:
   intro:

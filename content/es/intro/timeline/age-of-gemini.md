@@ -1,6 +1,7 @@
 ---
 title: "Edad de Géminis"
 period: "6'690—4'530BC"
+age: "gemini"
 description: "La Era de Géminis, que dura desde 6.690 hasta 4.530 a.C., sigue a la Era de Cáncer en la narrativa de \"Wheel of Heaven\". Esta era se caracteriza como un período de nuevos comienzos y transformación, simbolizado por la historia de Noé y el Diluvio. Representa un cambio hacia una mayor comunicación y cooperación entre diferentes culturas y pueblos, facilitando el intercambio y la difusión de ideas y conocimientos. Durante este tiempo, la facción de los Elohim exiliada en la Tierra, incluido el grupo conocido como la Serpiente, sostenía la creencia de compartir conocimientos científicos con la humanidad, en contraste con el enfoque controlador del gobierno de los Elohim de su planeta de origen. Esta era también incluye el dramático evento en el que el gobierno de los Elohim, sintiéndose amenazado por el avance científico humano, decide destruir toda la vida en la Tierra con misiles nucleares. Sin embargo, los creadores exiliados intervinieron, pidiendo a Noé que construyera una nave espacial para preservar el material genético de las especies, asegurando la continuación de la vida en la Tierra después del cataclismo."
 menu:
   intro:

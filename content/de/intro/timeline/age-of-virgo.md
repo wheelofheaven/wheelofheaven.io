@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter der Jungfrau"
 period: "13'170—11'010 v. Chr."
+age: "virgo"
 description: "Das Zeitalter der Jungfrau, das von 13.170 bis 11.010 v. Chr. dauerte, markiert eine bedeutende Periode in der Erzählung von \"Wheel of Heaven\", nach dem Zeitalter der Waage. In diesem Zeitalter verlagert sich der Fokus auf die Schaffung von aquatischem Leben und Vögeln. Der Prozess begann mit der Schaffung von Plankton, kleinen und großen Fischen sowie Algen, um ein ausgewogenes aquatisches Ökosystem zu etablieren. Diese Entwicklung spiegelt moderne ökologische Prinzipien wider. Zusätzlich sah diese Ära die Einführung von Vögeln, wobei Künstler eine Schlüsselrolle bei der Gestaltung ihrer vielfältigen Formen und lebendigen Farben spielten. Einige Designs waren jedoch so aufwendig, dass sie die Flugfähigkeiten der Vögel beeinträchtigten. Bemerkenswert ist, dass in dieser Zeit auch die Schaffung großer, furchteinflößender Kreaturen ähnlich Drachen, Dinosauriern und Brontosauriern einbezogen wurde, was die frühere Opposition gegen solch ambitionierte Schöpfungspläne auf dem Heimatplaneten der Wissenschaftler anerkennt."
 menu:
   intro:

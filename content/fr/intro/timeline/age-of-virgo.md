@@ -1,6 +1,7 @@
 ---
 title: "Âge de la Vierge"
 period: "13'170—11'010BC"
+age: "virgo"
 description: "L'Âge de la Vierge, durant de 13 170 à 11 010 av. J.-C., marque une période significative dans le récit de \"Wheel of Heaven\", suivant l'Âge de la Balance. Durant cet âge, l'accent est mis sur la création de la vie aquatique et des oiseaux. Le processus a commencé par la création de plancton, de petits et grands poissons, et d'algues pour établir un écosystème aquatique équilibré. Ce développement reflète les principes écologiques modernes. De plus, cette ère a vu l'introduction des oiseaux, les artistes jouant un rôle clé dans la conception de leurs formes diverses et de leurs couleurs vives. Cependant, certains designs étaient si élaborés qu'ils affectaient les capacités de vol des oiseaux. Notamment, cette période comprenait également la création de grandes créatures redoutables ressemblant à des dragons, des dinosaures et des brontosaures, reconnaissant l'opposition antérieure à de tels plans de création ambitieux sur la planète d'origine des scientifiques."
 menu:
   intro:

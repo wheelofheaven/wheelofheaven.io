@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter der Zwillinge"
 period: "6'690—4'530 v. Chr."
+age: "gemini"
 description: "Das Zeitalter der Zwillinge, das von 6.690 bis 4.530 v. Chr. dauerte, folgt auf das Zeitalter des Krebses in der Erzählung von \"Wheel of Heaven\". Dieses Zeitalter ist gekennzeichnet als eine Periode neuer Anfänge und Transformationen, symbolisiert durch die Geschichte von Noah und der Flut. Es repräsentiert einen Wandel hin zu verstärkter Kommunikation und Kooperation zwischen verschiedenen Kulturen und Völkern, was den Austausch und die Verbreitung von Ideen und Wissen erleichtert. Während dieser Zeit vertrat die auf die Erde verbannte Elohim-Fraktion, einschließlich der als \"die Schlange\" bekannten Gruppe, die Überzeugung, wissenschaftliches Wissen mit der Menschheit zu teilen, im Gegensatz zum kontrollierenden Ansatz der Elohim-Regierung von ihrem Heimatplaneten. Dieses Zeitalter umfasst auch das dramatische Ereignis, bei dem die Elohim-Regierung, sich durch den wissenschaftlichen Fortschritt der Menschen bedroht fühlend, beschließt, alles Leben auf der Erde mit nuklearen Raketen zu zerstören. Die verbannten Schöpfer griffen jedoch ein und baten Noah, ein Raumschiff zu bauen, um das genetische Material der Arten zu bewahren, um das Fortbestehen des Lebens auf der Erde nach der Katastrophe zu sichern.
 "
 menu:

@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Löwen"
 period: "11'010–8'850 v. Chr."
+age: "leo"
 description: "Das Zeitalter des Löwen, das von 11.010 bis 8.850 v. Chr. dauert, folgt dem Zeitalter der Jungfrau in der Erzählung von \"Wheel of Heaven\". Dieses Zeitalter ist gekennzeichnet durch die Schaffung von Landtieren, nach der Etablierung des marinen Lebens und der Vögel. Der Planet, nun reich an Vegetation, bot reichlich Ressourcen für diese neuen Herbivoren, und Karnivoren wurden später eingeführt, um das ökologische Gleichgewicht zu wahren. Eine bedeutende Entwicklung in diesem Zeitalter war die Schaffung künstlicher menschlicher Wesen, die den außerirdischen Wissenschaftlern selbst ähnelten. Dies führte zu Kontroversen auf ihrem Heimatplaneten aufgrund von Befürchtungen, dass diese neuen Wesen ihre Schöpfer an Fähigkeiten übertreffen könnten. Folglich wurden die neu erschaffenen Menschen dazu gebracht, primitiv ohne wissenschaftliche Kenntnisse zu leben, und es wird gesagt, dass jede Menschenrasse einem Team von Schöpfern entspricht."
 menu:
   intro:

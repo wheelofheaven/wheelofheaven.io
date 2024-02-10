@@ -1,6 +1,7 @@
 ---
 title: "Âge du Sagittaire"
 period: "19'650—17'490BC"
+age: "sagittarius"
 description: "L'Âge du Sagittaire, s'étendant de 19 650 à 17 490 av. J.-C., est décrit comme le second Âge du Monde suivant l'Âge du Capricorne. Il commence avec une civilisation extraterrestre avancée, ayant déjà confirmé le potentiel de la Terre pour soutenir la vie, se lançant dans des activités de terraformation. Cette période est allégoriquement liée au 'Deuxième Jour de la Création' dans la Genèse, où la division des 'eaux au-dessus et au-dessous du firmament' est interprétée comme des investigations scientifiques entre les couches océaniques et atmosphériques de la Terre. Le point culminant de ces activités est la création d'un continent à partir du fond marin de l'océan par des explosions contrôlées, une étape significative vers l'établissement d'une présence permanente sur Terre."
 menu:
   intro:

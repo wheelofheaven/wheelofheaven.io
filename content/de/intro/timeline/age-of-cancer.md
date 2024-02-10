@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Krebses"
 period: "8'850–6'690 v. Chr."
+age: "cancer"
 description: "Das Zeitalter des Krebses, das von 8.850 bis 6.690 v. Chr. reicht, folgt auf das Zeitalter des Löwen in der Erzählung von \"Wheel of Heaven\". Diese Ära ist entscheidend für die Entwicklung der Beziehung zwischen Menschen und ihren außerirdischen Schöpfern, den Elohim. Zu den Schlüsselereignissen gehören die Elohim-Wissenschaftler, bekannt als \"die Schlange\", die die Einschränkungen ihrer eigenen Regierung umgehen, indem sie den Menschen fortgeschrittene wissenschaftliche Kenntnisse vermitteln. Dieser Akt des Aufstands führte zu ihrer Verbannung auf die Erde und veränderte die Dynamik zwischen Menschen und ihren Schöpfern, da die Menschen begannen, unabhängig nach Wissen und Macht zu streben. Dieser Zeitraum stellt einen bedeutenden Wendepunkt in der Erzählung dar, gekennzeichnet durch Konflikte und das Streben der Menschen nach intellektueller Autonomie."
 menu:
   intro:

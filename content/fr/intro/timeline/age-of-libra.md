@@ -1,6 +1,7 @@
 ---
 title: "Âge de la Balance"
 period: "15'330—13'170BC"
+age: "libra"
 description: "L'Âge de la Balance, durant de 15 330 à 13 170 av. J.-C., dans le récit de \"Wheel of Heaven\", représente le \"Quatrième Jour de la Création\". Suite à l'établissement de la vie végétale durant l'Âge du Scorpion, l'Âge de la Balance se concentre sur le développement et la régulation ultérieurs des écosystèmes nouvellement conçus sur Terre. Les scientifiques Elohim ont utilisé leur compréhension des corps célestes pour mesurer le temps et s'adapter aux cycles de la Terre, aidant ainsi à la conception de la flore et de la faune spécifiques à la Terre. Cette période impliquait la création d'écosystèmes équilibrés avec une variété de plantes, de champignons et de petites formes de vie, et la compréhension du climat et des biomes de la Terre pour assurer la survie et l'épanouissement de ces espèces conçues."
 menu:
   intro:

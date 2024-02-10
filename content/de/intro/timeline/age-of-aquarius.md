@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Wassermanns"
 period: "1945—..."
+age: "aquarius"
 description: "Das Zeitalter des Wassermanns, das von 1950 n. Chr. bis 4110 n. Chr. reicht, markiert die aktuelle Ära in der „Wheel of Heaven“-Erzählung und folgt auf das Zeitalter der Fische. Dieses als das Neue Zeitalter bezeichnete Zeitalter signalisiert einen bedeutenden Übergang in den Weltanschauungen. Es repräsentiert das Ende der Welt der Kirche und spiegelt die Vollendung ihrer Rolle wider, die Menschheit auf die Rückkehr der außerirdischen Schöpfer vorzubereiten. Das Zeitalter der Fische, identifiziert mit Christus und seinen Aposteln, geht über in das Zeitalter des Wassermanns und symbolisiert eine Periode bedeutender Veränderungen, einschließlich der Wiederherstellung des Staates Israel im Jahr 1946. Diese Ära ist gekennzeichnet durch einen Wandel im globalen Bewusstsein und Verständnis, in Einklang mit Prophezeiungen und symbolisiert transformative Veränderungen in der menschlichen Gesellschaft und im Wissen."
 menu:
   intro:

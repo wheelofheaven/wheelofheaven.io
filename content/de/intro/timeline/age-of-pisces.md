@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter der Fische"
 period: "210 v. Chr. – 1950"
+age: "pisces"
 description: "Das Zeitalter der Fische, das von 210 v. Chr. bis 1950 n. Chr. reicht, folgte auf das Zeitalter des Widders und ging kürzlich in das Zeitalter des Wassermanns über. Diese Ära ist geprägt von bedeutenden biblischen Ereignissen, insbesondere der Rolle Christi, dessen Mission es war, die Wahrheit der biblischen Schriften weltweit zu verbreiten und so eine Grundlage für das Verständnis der Menschheit im kommenden Zeitalter der Wissenschaft zu schaffen. Das Zeitalter des Wassermanns, das 1945 mit der Entwicklung der Kernenergie und Informationssystemen begann, symbolisiert eine Zeit des gesteigerten Wissens und technologischen Fortschritts, die es der Menschheit ermöglicht, alte Weisheiten durch eine moderne Brille neu zu interpretieren. Zusätzlich beinhaltete das Zeitalter der Fische die Geburt eines bedeutenden Kindes, geboren von einer menschlichen Mutter und einem Außerirdischen, das einzigartige telepathische Fähigkeiten erbte, wie in der biblischen Geschichte der Geburt Jesu Christi dargestellt."
 menu:
   intro:

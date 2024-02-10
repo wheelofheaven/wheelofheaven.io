@@ -1,6 +1,7 @@
 ---
 title: "Era de Escorpio"
 period: "17'490—15'330BC"
+age: "scorpio"
 description: "La Era de Escorpio, que dura desde 17.490 hasta 15.330 a.C., representa el \"Tercer Día de la Creación\" en la narrativa de la \"Wheel of Heaven\". Tras los logros de terraformación de la Era de Sagitario, esta época se caracteriza por los esfuerzos de los científicos Elohim en biología sintética en el supercontinente recién formado. Se centraron en la creación de vegetación, incluyendo varios tipos de plantas capaces de reproducción, iniciando así los primeros pasos hacia un ecosistema diverso en la Tierra. Su trabajo, combinando proeza científica con influencia artística, buscó crear un mundo natural armonioso y estéticamente agradable. Este período es crucial en la narrativa para sentar las bases de la vida tal como la conocemos, marcando una transición significativa de la terraformación a la creación de vida."
 menu:
   intro:

@@ -1,6 +1,7 @@
 ---
 title: "Era de Capricornio"
 period: "21'810—19'650 a.C."
+age: "capricorn"
 description: "La Era de Capricornio discute el primer mes precesional en el ciclo del Gran Año, un período de 2.160 años cuando el sol naciente en el equinoccio vernal se alinea con la constelación de Capricornio. Esta época marca la llegada de los Elohim, una civilización extraterrestre, a la Tierra, tras un trágico incidente en sus experimentos genéticos. La página también interpreta varios pasajes bíblicos, particularmente del Génesis, sugiriendo que el término \"Elohim\" se refiere a seres del cielo que seleccionaron la Tierra para sus proyectos científicos, incluyendo la creación de vida artificial. Esta interpretación propone una comprensión diferente de los \"días\" bíblicos como períodos largos marcados por el ciclo precesional del eje terrestre."
 menu:
   intro:

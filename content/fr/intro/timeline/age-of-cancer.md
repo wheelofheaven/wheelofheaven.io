@@ -1,6 +1,7 @@
 ---
 title: "Âge du cancer"
 period: "8'850—6'690BC"
+age: "cancer"
 description: "L'Âge du Cancer, s'étendant de 8 850 à 6 690 av. J.-C., suit l'Âge du Lion dans le récit de \"Wheel of Heaven\". Cette ère est essentielle pour le développement de la relation entre les humains et leurs créateurs extraterrestres, les Elohim. Les événements clés incluent les scientifiques Elohim, identifiés comme \"le Serpent\", qui défient les restrictions de leur propre gouvernement en fournissant aux humains des connaissances scientifiques avancées. Cet acte de rébellion conduit à leur exil sur Terre et crée un changement dans la dynamique entre les humains et leurs créateurs, alors que les humains commencent à rechercher indépendamment la connaissance et le pouvoir. Cette période représente un tournant significatif dans le récit, marqué par le conflit et la poursuite de l'autonomie intellectuelle par les humains."
 menu:
   intro:

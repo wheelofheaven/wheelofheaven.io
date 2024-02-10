@@ -1,6 +1,7 @@
 ---
 title: "Âge du Lion"
 period: "11'010—8'850BC"
+age: "leo"
 description: "L'Âge du Lion, s'étendant de 11 010 à 8 850 av. J.-C., suit l'Âge de la Vierge dans le récit de \"Wheel of Heaven\". Cet âge est marqué par la création d'animaux terrestres, après l'établissement de la vie marine et des oiseaux. La planète, désormais riche en végétation, offrait des ressources abondantes pour ces nouveaux herbivores, et les carnivores ont été introduits plus tard pour maintenir l'équilibre écologique. Un développement significatif de cette époque fut la création d'êtres humains artificiels, ressemblant aux scientifiques extraterrestres eux-mêmes. Cela a conduit à une controverse sur leur planète d'origine en raison de la crainte que ces nouveaux êtres ne surpassent leurs créateurs en capacités. Par conséquent, les humains nouvellement créés ont été laissés vivre de manière primitive, sans connaissance scientifique, et chaque race humaine correspondrait à une équipe de créateurs."
 menu:
   intro:

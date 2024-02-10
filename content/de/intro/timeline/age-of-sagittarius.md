@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Schützen"
 period: "19'650—17'490 v. Chr."
+age: "sagittarius"
 description: "Das Zeitalter des Schützen, das sich von 19.650 bis 17.490 v. Chr. erstreckt, wird als das zweite Weltalter nach dem Zeitalter des Steinbocks dargestellt. Es beginnt mit einer fortgeschrittenen außerirdischen Zivilisation, die bereits das Potenzial der Erde zur Erhaltung des Lebens bestätigt hat, und die sich auf Terraforming-Aktivitäten einlässt. Diese Periode wird allegorisch mit dem 'Zweiten Schöpfungstag' in der Genesis verbunden, wo die Trennung der 'Wasser über und unter dem Firmament' als wissenschaftliche Untersuchungen zwischen den ozeanischen und atmosphärischen Schichten der Erde interpretiert wird. Der Höhepunkt dieser Aktivitäten ist die Schaffung eines Kontinents aus dem Meeresboden durch kontrollierte Explosionen, ein bedeutender Schritt zur Etablierung einer dauerhaften Präsenz auf der Erde."
 menu:
   intro:

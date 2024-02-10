@@ -1,6 +1,7 @@
 ---
 title: "Era de Piscis"
 period: "210 a. C.—1950"
+age: "pisces"
 description: "La Era de Piscis, que abarca desde el 210 a.C. hasta el 1950 d.C., sucedió a la Era de Aries y recientemente hizo la transición a la Era de Acuario. Esta era se caracteriza por eventos bíblicos significativos, en particular el papel de Cristo, cuya misión era difundir la verdad de las escrituras bíblicas en todo el mundo, sirviendo como base para el entendimiento de la humanidad en la próxima era de la ciencia. La Era de Acuario, que comenzó en 1945 con el desarrollo de la energía nuclear y los sistemas de información, simboliza un tiempo de conocimiento y avance tecnológico aumentados, permitiendo a la humanidad reinterpretar la sabiduría antigua a través de un lente moderno. Además, la Era de Piscis incluyó el nacimiento de un niño significativo, nacido de una madre humana y un extraterrestre, heredando habilidades telepáticas únicas, como se describe en la historia bíblica del nacimiento de Jesucristo."
 menu:
   intro:

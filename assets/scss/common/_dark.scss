@@ -676,3 +676,8 @@ $navbar-dark-active-color:          $link-color-dark;
     color: $gray-100;
   }
 }
+
+[data-dark-mode] .timeline-box {
+  border-top: 1px solid $border-dark;
+  border-bottom: 1px solid $border-dark;
+}

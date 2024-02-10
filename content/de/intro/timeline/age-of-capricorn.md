@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Steinbocks"
 period: "21'810—19'650 v. Chr."
+age: "capricorn"
 description: "Das Zeitalter des Steinbocks diskutiert den ersten präzessionellen Monat im Großen Jahr-Zyklus, eine Periode von 2.160 Jahren, in der die aufgehende Sonne zur Frühjahrs-Tagundnachtgleiche mit dem Sternbild Steinbock ausgerichtet ist. Diese Epoche markiert die Ankunft der Elohim, einer außerirdischen Zivilisation, auf der Erde, nach einem tragischen Vorfall in ihren genetischen Experimenten. Die Seite interpretiert auch verschiedene biblische Passagen, insbesondere aus der Genesis, und schlägt vor, dass der Begriff \"Elohim\" auf Wesen aus dem Himmel hinweist, die die Erde für ihre wissenschaftlichen Projekte, einschließlich der Schaffung künstlichen Lebens, ausgewählt haben. Diese Interpretation schlägt ein anderes Verständnis der biblischen \"Tage\" als lange Perioden vor, die durch den präzessionellen Zyklus der Erdachse gekennzeichnet sind."
 menu:
   intro:

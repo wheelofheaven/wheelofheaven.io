@@ -1,6 +1,7 @@
 ---
 title: "Era de Libra"
 period: "15'330—13'170BC"
+age: "libra"
 description: "La Era de Libra, que dura desde 15.330 hasta 13.170 a.C., en la narrativa de la \"Wheel of Heaven\", representa el \"Cuarto Día de la Creación\". Tras el establecimiento de la vida vegetal durante la Era de Escorpio, la Era de Libra se centra en el desarrollo y regulación adicionales de los ecosistemas recién diseñados en la Tierra. Los científicos Elohim utilizaron su comprensión de los cuerpos celestes para medir el tiempo y adaptarse a los ciclos de la Tierra, ayudando en el diseño de flora y fauna específicas para la Tierra. Este período involucró la creación de ecosistemas equilibrados con una variedad de plantas, hongos y formas de vida pequeñas, y la comprensión del clima y los biomas de la Tierra para asegurar la supervivencia y el florecimiento de estas especies diseñadas."
 menu:
   intro:

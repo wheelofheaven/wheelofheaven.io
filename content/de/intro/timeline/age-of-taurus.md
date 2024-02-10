@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Stiers"
 period: "4'530—2'370 v. Chr."
+age: "taurus"
 description: "Das Zeitalter des Stiers, von 4.530 bis 2.370 v. Chr., ist eine bedeutende Periode in der „Wheel of Heaven“-Erzählung, nach dem Zeitalter der Zwillinge. In dieser Ära wurden die zuvor verbannten Schöpfer begnadigt und durften zu ihrem Heimatplaneten zurückkehren. Sie setzten sich für die Menschen auf der Erde ein und lenkten die Aufmerksamkeit ihres Heimatplaneten auf die Erde und ihre Bewohner. In der Zwischenzeit versammelten sich einige Menschen, die nach Rache strebten, in den Städten Sodom und Gomorrha. Diese Menschen, die zuvor wissenschaftliche Geheimnisse geborgen hatten, bereiteten sich darauf vor, gegen jene zu vergelten, die versucht hatten, sie zu zerstören. Diese Ära gipfelte in der Zerstörung dieser Städte durch das, was als göttliche atomare Explosion interpretiert wird, wie in der biblischen Geschichte von Sodom und Gomorrha beschrieben."
 menu:
   intro:

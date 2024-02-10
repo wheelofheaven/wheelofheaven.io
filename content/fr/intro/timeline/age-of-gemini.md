@@ -1,6 +1,7 @@
 ---
 title: "Âge des Gémeaux"
 period: "6'690—4'530BC"
+age: "gemini"
 description: "L'Âge des Gémeaux, s'étendant de 6 690 à 4 530 av. J.-C., suit l'Âge du Cancer dans le récit de \"Wheel of Heaven\". Cet âge est caractérisé comme une période de nouveaux départs et de transformation, symbolisée par l'histoire de Noé et du Déluge. Il représente un virage vers une communication et une coopération accrues entre différentes cultures et peuples, facilitant le partage et la diffusion des idées et des connaissances. Durant cette période, la faction des Elohim exilée sur Terre, y compris le groupe connu sous le nom de Serpent, croyait en le partage des connaissances scientifiques avec l'humanité, contrastant avec l'approche de contrôle du gouvernement des Elohim de leur planète d'origine. Cet âge inclut également l'événement dramatique où le gouvernement des Elohim, se sentant menacé par l'avancée scientifique humaine, décide de détruire toute vie sur Terre avec des missiles nucléaires. Cependant, les créateurs exilés sont intervenus, demandant à Noé de construire un vaisseau spatial pour préserver le matériel génétique des espèces, assurant la continuation de la vie sur Terre après la catastrophe."
 menu:
   intro:

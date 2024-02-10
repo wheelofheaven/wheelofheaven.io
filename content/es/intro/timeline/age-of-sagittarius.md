@@ -1,6 +1,7 @@
 ---
 title: "Era de Sagitario"
 period: "19'650—17'490BC"
+age: "sagittarius"
 description: "La Era de Sagitario, que abarca desde 19.650 hasta 17.490 a.C., se describe como la segunda Edad Mundial tras la Era de Capricornio. Comienza con una civilización extraterrestre avanzada, que ya ha confirmado el potencial de la Tierra para sostener la vida, embarcándose en actividades de terraformación. Este período está alegóricamente vinculado al 'Segundo Día de la Creación' en el Génesis, donde la división de las 'aguas arriba y abajo del firmamento' se interpreta como investigaciones científicas entre las capas oceánicas y atmosféricas de la Tierra. La culminación de estas actividades es la creación de un continente a partir del lecho marino del océano mediante explosiones controladas, un paso significativo hacia el establecimiento de una presencia permanente en la Tierra."
 menu:
   intro:

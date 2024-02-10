@@ -1,6 +1,7 @@
 ---
 title: "Edad de Cáncer"
 period: "8'850—6'690BC"
+age: "cancer"
 description: "La Era de Cáncer, que abarca desde 8.850 hasta 6.690 a.C., sigue a la Era de Leo en la narrativa de \"Wheel of Heaven\". Esta era es crucial para el desarrollo de la relación entre los humanos y sus creadores extraterrestres, los Elohim. Los eventos clave incluyen a los científicos Elohim, identificados como \"la Serpiente\", desafiando las restricciones de su propio gobierno al proporcionar a los humanos conocimientos científicos avanzados. Este acto de rebelión llevó a su exilio en la Tierra y creó un cambio en la dinámica entre los humanos y sus creadores, ya que los humanos comenzaron a buscar conocimiento y poder de forma independiente. Este período representa un punto de inflexión significativo en la narrativa, marcado por el conflicto y la búsqueda de autonomía intelectual por parte de los humanos."
 menu:
   intro:

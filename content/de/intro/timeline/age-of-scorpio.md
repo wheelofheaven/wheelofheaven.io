@@ -1,6 +1,7 @@
 ---
 title: "Zeitalter des Skorpions"
 period: "17'490—15'330 v. Chr."
+age: "scorpio"
 description: "Das Zeitalter des Skorpions, das von 17.490 bis 15.330 v. Chr. dauerte, repräsentiert den \"Dritten Schöpfungstag\" in der Erzählung von \"Wheel of Heaven\". Nach den Terraforming-Erfolgen des Zeitalters des Schützen ist diese Epoche durch die Bemühungen der Elohim-Wissenschaftler in der synthetischen Biologie auf dem neu geformten Superkontinent gekennzeichnet. Sie konzentrierten sich auf die Schaffung von Vegetation, einschließlich verschiedener Pflanzenarten, die zur Fortpflanzung fähig sind, und leiteten damit die ersten Schritte zu einem vielfältigen Ökosystem auf der Erde ein. Ihre Arbeit, eine Kombination aus wissenschaftlicher Leistung und künstlerischem Einfluss, zielte darauf ab, eine harmonische und ästhetisch ansprechende natürliche Welt zu schaffen. Dieser Zeitraum ist entscheidend in der Erzählung, um die Grundlagen des Lebens, wie wir es kennen, zu legen und einen bedeutenden Übergang von der Terraformation zur Lebensschaffung zu markieren."
 menu:
   intro:

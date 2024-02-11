@@ -113,6 +113,7 @@ The third crop circle, which appeared near the Chilbolton radio telescope in 200
 
 ## See also
 
+- [Resources › Temporary Temples]({{< relref "resources/temporary-temples/index.md" >}})
 - [Wiki › Ufology]({{< relref "wiki/encyclopedia/ufology.md" >}})
 
 ## External links

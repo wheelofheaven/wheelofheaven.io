@@ -10,9 +10,9 @@ weight: 110
 toc: true
 ---
 
-If you've just stumbled upon the Introduction section of this website, you might be wondering what exactly Wheel of Heaven is all about. At its core, Wheel of Heaven is a web-based knowledge repository that explores the hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization with the capability of interstellar travel.
+If you've just stumbled upon the Introduction section of this website, you might well be wondering what exactly Wheel of Heaven is all about. At its core, Wheel of Heaven is a web-based knowledge repository that explores the hypothesis that life on Earth was intentionally engineered by an extraterrestrial civilization known as the Elohim, equipped with advanced interstellar travel capabilities. According to this theory, the Elohim are integral to the human genus, and we, as Earthlings, are believed to descend from them, akin to a son descending from his father.
 
-In simple terms, this site suggests that the origins of sentient life on Earth cannot be solely attributed to chance or the chaos of nature, but instead have a deliberate purpose that is encoded in ancient scriptures and artifacts, as well as being preserved in religious traditions.
+As a consequence, this site suggests that the origins of sentient life on Earth cannot be solely attributed to chance or the chaos of nature, but instead have a deliberate purpose that is encoded in ancient scriptures and artifacts, as well as being preserved in religious traditions.
 
 At Wheel of Heaven, we aim to not only promote this hypothesis, but also invite all visitors to engage in a fascinating and inquisitive exploration of the possibilities presented. Everyone is welcome to consider the premises laid out on the site and contribute their own thoughts and ideas, helping to expand and enrich the narrative.
 

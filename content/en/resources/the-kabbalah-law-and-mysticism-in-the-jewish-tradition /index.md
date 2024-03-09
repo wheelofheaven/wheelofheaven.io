@@ -9,7 +9,7 @@ menu:
   resources:
     parent: "browse"
 medium: "hermeneutic-work"
-topics: ["Bible", "Kabbalah", "Mysticism", "The Chosen Peopl", "Theology", "The Tradition"]
+topics: ["Bible", "Kabbalah", "Mysticism", "The Chosen People", "Theology", "The Tradition"]
 ---
 
 "The Kabbalah: Law and Mysticism in the Jewish Tradition" (simply "La Kabbale" in French, its original title) by Alexandre Safran is a comprehensive exploration of Jewish mysticism and tradition, transcending a purely analytical study of Jewish esotericism. The book offers a complete and harmonious vision of the Hebrew tradition, tracing its evolution from its beginnings to the present day. Safran highlights the unity and continuity within Jewish tradition, emphasizing how divisions between law and freedom, intelligence and sensitivity, appear artificial in the context of Kabbalah. He discusses the integration of matter and spirit, and nature and history, portraying them as inherent and self-evident unions.

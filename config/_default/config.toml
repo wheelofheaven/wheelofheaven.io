@@ -105,6 +105,9 @@ rel  = "sitemap"
     source = "static"
     target = "static"
   [[module.mounts]]
+    source = "static"
+    target = "assets"
+  [[module.mounts]]
     source = "layouts"
     target = "layouts"
   [[module.mounts]]
@@ -114,5 +117,11 @@ rel  = "sitemap"
     source = "node_modules/katex"
     target = "assets/js/vendor/katex"
   [[module.mounts]]
+    source = "node_modules/@hyas/images/layouts"
+    target = "layouts"
+  [[mounts]]
+    source = "node_modules/@hyas/images/assets"
+    target = "assets"
+  [[mounts]]
     source = "node_modules/@hyas/images/layouts"
     target = "layouts"

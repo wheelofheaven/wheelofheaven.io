@@ -16,7 +16,7 @@ With continuous advancements in space travel and genetic engineering, it is beco
 
 We recognize that some critics may accuse us of cherry-picking facts or misconstruing speculative conclusions. However, we endeavor to maintain honesty and transparency in our presentation of the narrative's foundations. We hold that the emerging picture will be self-evident once it is fully realized.
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Ill. 1 - Monolithic structure covered in snow" >}}
+{{< figure src="monolithic-base-in-snow.png" caption="Ill. 1 - Monolithic structure covered in snow" >}}
 
 ## The four pillars
 

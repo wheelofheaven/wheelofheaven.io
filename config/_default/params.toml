@@ -88,20 +88,13 @@ lastMod = false
   sectionNav = ["intro", "wiki", "resources", "medium", "topics"]
 
 [options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
-  flexSearch = true
-  darkMode = true
   bootStrapJs = true
   breadCrumb = true
   highLight = true
-  kaTex = true
   multilingualMode = true
   docsVersioning = false
   fullWidth = false
   navbarSticky = true
-  toTopButton = true
 
 [menu]
   [menu.section]

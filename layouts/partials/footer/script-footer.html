@@ -37,7 +37,25 @@
 {{ $toTopButton := resources.Get "js/to-top.js" -}}
 {{ $toTopButton := $toTopButton | js.Build -}}
 
-{{ $js := slice $lazySizes $clipBoard $instantPage $flexSearch $darkMode $alert $katexConfig $scrollLock $toTopButton | resources.Concat "main.js"  -}}
+{{ $lazySizes := resources.Get "js/lazysizes.js" | default (warnf "Resource 'js/lazysizes.js' not found") }}
+{{ $clipBoard := resources.Get "js/clipboard.js" | default (warnf "Resource 'js/clipboard.js' not found") }}
+{{ $instantPage := resources.Get "js/instant.page.js" | default (warnf "Resource 'js/instant.page.js' not found") }}
+{{ $darkMode := resources.Get "js/darkmode.js" | default (warnf "Resource 'js/darkmode.js' not found") }}
+{{ $alert := resources.Get "js/alert.js" | default (warnf "Resource 'js/alert.js' not found") }}
+{{ $katexConfig := resources.Get "js/katex.js" | default (warnf "Resource 'js/katex.js' not found") }}
+{{ $scrollLock := resources.Get "js/scroll-lock.js" | default (warnf "Resource 'js/scroll-lock.js' not found") }}
+{{ $toTopButton := resources.Get "js/to-top.js" | default (warnf "Resource 'js/to-top.js' not found") }}
+
+{{ printf "Type of $lazySizes: %T\n" $lazySizes }}
+{{ printf "Type of $clipBoard: %T\n" $clipBoard }}
+{{ printf "Type of $instantPage: %T\n" $instantPage }}
+{{ printf "Type of $darkMode: %T\n" $darkMode }}
+{{ printf "Type of $alert: %T\n" $alert }}
+{{ printf "Type of $katexConfig: %T\n" $katexConfig }}
+{{ printf "Type of $scrollLock: %T\n" $scrollLock }}
+{{ printf "Type of $toTopButton: %T\n" $toTopButton }}
+
+{{ $js := slice $lazySizes $clipBoard $instantPage $darkMode $alert $katexConfig $scrollLock $toTopButton | resources.Concat "main.js" }}
 
 {{ if eq (hugo.Environment) "development" -}}
   {{ if .Site.Params.options.bootStrapJs -}}

@@ -55,16 +55,16 @@ smallLimit = "300"
 # Images
 imageResponsive = true
 imageConvertTo = "webp"
-imageImageSizes = ["480","720","1080","1280","1600","2048"]
+imageImageSizes = ["480", "720", "1080", "1280", "1600", "2048"]
 singleSize = false
 imageAddClass = "img-fluid lazyload blur-up"
 
 ### Image template
 defaultImage = "wheel-of-heaven-banner.jpg" # put in `./assets/images/`
-fillImage = "900x507 Center" # normalize image size
+fillImage = "900x507 Center"                # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://github.com/wheelofheaven/\">Github</a>, <a class=\"text-muted\" href=\"https://getzola.org/\">Zola</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://github.com/wheelofheaven/\">Github</a> and <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>"
 
 # Feed
 copyRight = "Copyright (c) 2022 Zara Zinsfuss"
@@ -85,24 +85,24 @@ editPage = true
 lastMod = false
 
 [sections]
-  sectionNav = ["intro", "wiki", "resources", "medium", "topics"]
+sectionNav = ["intro", "wiki", "resources", "medium", "topics"]
 
 [options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
-  flexSearch = true
-  darkMode = true
-  bootStrapJs = true
-  breadCrumb = true
-  highLight = true
-  kaTex = true
-  multilingualMode = true
-  docsVersioning = false
-  fullWidth = false
-  navbarSticky = true
-  toTopButton = true
+lazySizes = true
+clipBoard = true
+instantPage = true
+flexSearch = true
+darkMode = true
+bootStrapJs = true
+breadCrumb = true
+highLight = true
+kaTex = true
+multilingualMode = true
+docsVersioning = false
+fullWidth = false
+navbarSticky = true
+toTopButton = true
 
 [menu]
-  [menu.section]
-    auto = true
+[menu.section]
+auto = true

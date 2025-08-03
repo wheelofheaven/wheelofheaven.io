@@ -1,245 +1,242 @@
 <footer class="footer">
-  <!-- Footer Content Section -->
-  <div class="footer-content">
-    <div class="container">
-      <div class="row">
-        <!-- Left Column: Brand and Description -->
-        <div class="col-lg-4 col-md-4 mb-4">
-          <div class="footer-brand">
-            <h3 class="mb-3">{{ partial "branding/wordmark.html" }}</h3>
-            <p class="footer-muted">{{ .Site.Params.footerHead | safeHTML }}</p>
-          </div>
-        </div>
+  <div class="footer__content">
+    <div class="footer__grid">
+      <!-- Branding Column -->
+      <div class="footer__col footer__col--brand">
+        <h3 class="footer__brand">{{ partial "branding/wordmark.html" }}</h3>
+        <p class="footer__muted">{{ .Site.Params.footerHead | safeHTML }}</p>
+      </div>
 
-        <!-- Gap -->
-        <div class="col-lg-2 col-md-2 col-sm-6 mb-3"></div>
+      <!-- Get Started -->
+      <div class="footer__col">
+        <h6>
+          {{ .Site.Params.footerGetStarted | default "Get Started" | safeHTML }}
+        </h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerAboutLink | safeURL }}"
+              >{{ .Site.Params.footerAbout | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerHelloWorldLink | safeURL }}"
+              >{{ .Site.Params.footerHelloWorld | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerFAQLink | safeURL }}"
+              >{{ .Site.Params.footerFAQ | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md"
+              >White Paper</a
+            >
+          </li>
+        </ul>
 
-        <!-- About & Getting Started -->
-        <div class="col-lg-2 col-md-2 col-sm-6 mb-3">
-          <h6>Get Started</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerAboutLink | safeHTML }}"
-                >{{ .Site.Params.footerAbout | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerHelloWorldLink | safeHTML }}"
-                >{{ .Site.Params.footerHelloWorld | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerFAQLink | safeHTML }}"
-                >{{ .Site.Params.footerFAQ | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/.github/blob/main/profile/WHITEPAPER.md"
-                >{{ .Site.Params.footerWhitePaper | safeHTML }}</a
-              >
-            </li>
-          </ul>
+        <h6>{{ .Site.Params.footerJumpRightIn | safeHTML }}</h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerTheSettingLink | safeURL }}"
+              >{{ .Site.Params.footerTheSetting | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerTheFoundationLink | safeURL }}"
+              >{{ .Site.Params.footerTheFoundation | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerTheHypothesisLink | safeURL }}"
+              >{{ .Site.Params.footerTheHypothesis | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerPreambleLink | safeURL }}"
+              >{{ .Site.Params.footerPreamble | safeHTML }}</a
+            >
+          </li>
+        </ul>
+      </div>
 
-          <h6 class="mt-4">{{ .Site.Params.footerJumpRightIn | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerTheSettingLink | safeHTML }}"
-                >{{ .Site.Params.footerTheSetting | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerTheFoundationLink | safeHTML }}"
-                >{{ .Site.Params.footerTheFoundation | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerTheHypothesisLink| safeHTML }}"
-                >{{ .Site.Params.footerTheHypothesis | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerPreambleLink | safeHTML }}"
-                >{{ .Site.Params.footerPreamble | safeHTML }}</a
-              >
-            </li>
-          </ul>
-        </div>
+      <!-- Sections -->
+      <div class="footer__col">
+        <h6>{{ .Site.Params.footerSections | safeHTML }}</h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerHomeLink | safeURL }}"
+              >{{ .Site.Params.footerHome | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerIntroLink | safeURL }}"
+              >{{ .Site.Params.footerIntro | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerWikiLink | safeURL }}"
+              >{{ .Site.Params.footerWiki | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerArticlesLink | safeURL }}"
+              >{{ .Site.Params.footerArticles | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerResourcesLink | safeURL }}"
+              >{{ .Site.Params.footerResources | safeHTML }}</a
+            >
+          </li>
+        </ul>
 
-        <!-- Navigation & Platform -->
-        <div class="col-lg-2 col-md-2 col-sm-6 mb-3">
-          <h6>{{ .Site.Params.footerSections | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerHomeLink | safeHTML }}"
-                >{{ .Site.Params.footerHome | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerIntroLink | safeHTML }}"
-                >{{ .Site.Params.footerIntro | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerWikiLink | safeHTML }}"
-                >{{ .Site.Params.footerWiki | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerArticlesLink | safeHTML }}"
-                >{{ .Site.Params.footerArticles | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerResourcesLink | safeHTML }}"
-                >{{ .Site.Params.footerResources | safeHTML }}</a
-              >
-            </li>
-          </ul>
+        <h6>{{ .Site.Params.footerPlatform | safeHTML }}</h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerTagsLink | safeURL }}"
+              >{{ .Site.Params.footerTags | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerCategoriesLink | safeURL }}"
+              >{{ .Site.Params.footerCategories | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerContributorsLink | safeURL }}"
+              >{{ .Site.Params.footerContributors | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerRssFeedLink | safeURL }}"
+              >{{ .Site.Params.footerRssFeed | safeHTML }}</a
+            >
+          </li>
+        </ul>
+      </div>
 
-          <h6 class="mt-4">{{ .Site.Params.footerPlatform | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerTagsLink | safeHTML }}"
-                >{{ .Site.Params.footerTags | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerCategoriesLink | safeHTML }}"
-                >{{ .Site.Params.footerCategories | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerContributorsLink | safeHTML }}"
-                >{{ .Site.Params.footerContributors | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerRssFeedLink | safeHTML }}"
-                >{{ .Site.Params.footerRssFeed | safeHTML }}</a
-              >
-            </li>
-          </ul>
-        </div>
+      <!-- Community -->
+      <div class="footer__col">
+        <h6>{{ .Site.Params.footerCommunity | safeHTML }}</h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerCommunityLink | safeURL }}"
+              >{{ .Site.Params.footerCommunity | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md"
+              >{{ .Site.Params.footerCodeOfConduct | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="https://github.com/orgs/wheelofheaven/discussions"
+              >{{ .Site.Params.footerGithubDiscussion | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="https://opencollective.com/wheelofheaven"
+              >Open Collective</a
+            >
+          </li>
+          <li>
+            <a href="https://github.com/wheelofheaven/site/blob/main/LICENSE"
+              >{{ .Site.Params.OpenSource | safeHTML }}</a
+            >
+          </li>
+        </ul>
 
-        <!-- Community & Social -->
-        <div class="col-lg-2 col-md-2 col-sm-6 mb-3">
-          <h6>{{ .Site.Params.footerCommunity | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerCommunityLink | safeHTML }}"
-                >{{ .Site.Params.footerCommunity | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md"
-                >{{ .Site.Params.footerCodeOfConduct | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="https://github.com/orgs/wheelofheaven/discussions"
-                >{{ .Site.Params.footerGithubDiscussion | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="https://opencollective.com/wheelofheaven"
-                >Open Collective</a
-              >
-            </li>
-            <li>
-              <a href="https://github.com/wheelofheaven/site/blob/main/LICENSE"
-                >{{ .Site.Params.OpenSource | safeHTML }}</a
-              >
-            </li>
-          </ul>
+        <h6>{{ .Site.Params.footerSocialMedia | safeHTML }}</h6>
+        <ul>
+          <li><a href="https://github.com/wheelofheaven/">GitHub</a></li>
+          <li>
+            <a href="https://opencollective.com/wheelofheaven">Telegram</a>
+          </li>
+          <li><a href="https://opencollective.com/wheelofheaven">𝕏</a></li>
+        </ul>
+      </div>
 
-          <h6 class="mt-4">{{ .Site.Params.footerSocialMedia | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li><a href="https://github.com/wheelofheaven/">GitHub</a></li>
-            <li>
-              <a href="https://opencollective.com/wheelofheaven">Telegram</a>
-            </li>
-            <li><a href="https://opencollective.com/wheelofheaven">𝕏</a></li>
-          </ul>
-        </div>
+      <!-- Development & Legal -->
+      <div class="footer__col">
+        <h6>
+          {{ .Site.Params.footerDevelopment | default "Development" | safeHTML
+          }}
+        </h6>
+        <ul>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md"
+              >{{ .Site.Params.footerContribute | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/site/blob/main/CHANGELOG.md"
+              >{{ .Site.Params.footerChangelog | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/site/graphs/commit-activity"
+              >{{ .Site.Params.footerCommitActivity | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="https://github.com/wheelofheaven/site/blob/main/README.md"
+              >{{ .Site.Params.footerReadme | safeHTML }}</a
+            >
+          </li>
+        </ul>
 
-        <!-- Development & Legal -->
-        <div class="col-lg-2 col-md-2 col-sm-6 mb-3">
-          <h6>Development</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/blob/main/CONTRIBUTE.md"
-                >{{ .Site.Params.footerContribute | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/blob/main/CHANGELOG.md"
-                >{{ .Site.Params.footerChangelog | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/graphs/commit-activity"
-                >{{ .Site.Params.footerCommitActivity | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/blob/main/README.md"
-                >{{ .Site.Params.footerReadme | safeHTML }}</a
-              >
-            </li>
-          </ul>
-
-          <h6 class="mt-4">{{ .Site.Params.footerPrivacyTerms | safeHTML }}</h6>
-          <ul class="list-unstyled">
-            <li>
-              <a href="{{ .Site.Params.footerPrivacyPolicyLink | safeHTML }}"
-                >{{ .Site.Params.footerPrivacyPolicy | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerCookiePolicyLink | safeHTML }}"
-                >{{ .Site.Params.footerCookiePolicy | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a
-                href="https://github.com/wheelofheaven/site/blob/main/SECURITY.md"
-                >{{ .Site.Params.footerSecurityPolicy | safeHTML }}</a
-              >
-            </li>
-            <li>
-              <a href="{{ .Site.Params.footerContactLink | safeHTML }}"
-                >{{ .Site.Params.footerContact | safeHTML }}</a
-              >
-            </li>
-          </ul>
-        </div>
+        <h6>{{ .Site.Params.footerPrivacyTerms | safeHTML }}</h6>
+        <ul>
+          <li>
+            <a href="{{ .Site.Params.footerPrivacyPolicyLink | safeURL }}"
+              >{{ .Site.Params.footerPrivacyPolicy | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerCookiePolicyLink | safeURL }}"
+              >{{ .Site.Params.footerCookiePolicy | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/wheelofheaven/site/blob/main/SECURITY.md"
+              >{{ .Site.Params.footerSecurityPolicy | safeHTML }}</a
+            >
+          </li>
+          <li>
+            <a href="{{ .Site.Params.footerContactLink | safeURL }}"
+              >{{ .Site.Params.footerContact | safeHTML }}</a
+            >
+          </li>
+        </ul>
       </div>
     </div>
   </div>
 
-  <!-- Footer Bottom Section -->
-  <div class="footer-bottom border-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">{{ .Site.Params.footerClosure | safeHTML }}</div>
-        <div class="col-md-10 d-flex justify-content-md-end">
-          {{ range .Site.Menus.social -}}
-          <a
-            class="social-link text-muted"
-            href="{{ .URL | relURL }}"
-            target="_blank"
-            aria-label="{{ .Name }}"
-            title="{{ .Name }}"
-            >{{ .Pre | safeHTML }}</a
-          >
-          {{ end -}}
-        </div>
+  <div class="footer__bottom">
+    <div class="footer__bottom-grid">
+      <div class="footer__closure">
+        {{ .Site.Params.footerClosure | safeHTML }}
+      </div>
+      <div class="footer__socials">
+        {{- range .Site.Menus.social }}
+        <a
+          class="footer__social-link"
+          href="{{ .URL | relURL }}"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ .Name }}"
+          title="{{ .Name }}"
+        >
+          {{ .Pre | safeHTML }}
+        </a>
+        {{- end }}
       </div>
     </div>
   </div>

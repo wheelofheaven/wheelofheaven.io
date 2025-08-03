@@ -12,9 +12,9 @@ $link-color-dark: $blue-300;
 $button-color-dark: $link-color-dark;
 $focus-color-dark: lighten($link-color-dark, 2.5%);
 
-$navbar-dark-color:                 $body-color-dark;
-$navbar-dark-hover-color:           $link-color-dark;
-$navbar-dark-active-color:          $link-color-dark;
+$navbar-dark-color: $body-color-dark;
+$navbar-dark-hover-color: $link-color-dark;
+$navbar-dark-active-color: $link-color-dark;
 
 /** Theme styles */
 
@@ -95,7 +95,7 @@ $navbar-dark-active-color:          $link-color-dark;
 }
 
 [data-dark-mode] .btn-to-top {
-  background-color: rgba(33, 37, 41, 0.20);
+  background-color: rgba(33, 37, 41, 0.2);
   border-color: rgba($border-dark, 0.6);
 }
 
@@ -107,7 +107,7 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] body .navbar,
 [data-dark-mode] body .doks-subnavbar {
-  background-color: rgba(33, 37, 41, 0.90);
+  background-color: rgba(33, 37, 41, 0.9);
   border-bottom: 1px solid $border-dark;
 }
 
@@ -264,7 +264,8 @@ $navbar-dark-active-color:          $link-color-dark;
   color: $link-color-dark;
 }
 
-[data-dark-mode] body .content img[src^="https://latex.codecogs.com/svg.latex"] {
+[data-dark-mode] body .content img[src^="https://latex.codecogs.com/svg.latex"]
+{
   filter: invert(1);
 }
 
@@ -360,8 +361,22 @@ $navbar-dark-active-color:          $link-color-dark;
   border-top: 1px solid $border-dark;
 }
 
-[data-dark-mode] .footer a{
+[data-dark-mode] .footer-brand h3 {
   color: $body-color-dark;
+}
+
+[data-dark-mode] .footer h6 {
+  color: $gray-400;
+}
+
+[data-dark-mode] .footer a {
+  color: $body-color-dark;
+}
+
+[data-dark-mode] .footer-bottom .social-link {
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
 }
 
 [data-dark-mode] body .docs-links,

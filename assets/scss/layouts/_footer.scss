@@ -1,13 +1,43 @@
 .footer {
   font-size: $font-size-sd;
   border-top: 1px solid $gray-200;
+}
+
+.footer-content {
   padding-top: 1.125rem;
   padding-bottom: 1.125rem;
+}
+
+.footer-bottom {
+  padding-top: 1.125rem;
+  padding-bottom: 1.125rem;
+}
+
+.footer-brand {
+  h3 {
+    font-weight: 600;
+    color: $black;
+    margin-bottom: 1rem;
+  }
+
+  .footer-muted {
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
 }
 
 .footer-muted {
   color: #6c757d;
   font-size: $font-size-sm;
+}
+
+.footer h6 {
+  font-weight: 600;
+  font-size: $font-size-sm;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+  color: $gray-700;
 }
 
 .footer ul {
@@ -26,5 +56,25 @@
 @include media-breakpoint-up(md) {
   .footer li {
     font-size: $font-size-base;
+  }
+}
+
+.footer-bottom .social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+  }
+
+  svg {
+    width: 1.25rem;
+    height: 1.25rem;
   }
 }

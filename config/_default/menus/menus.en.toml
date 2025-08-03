@@ -1,71 +1,81 @@
 [[intro]]
-  name = "At a glance"
-  weight = 110
-  identifier = "at-a-glance"
-  url = "/intro/at-a-glance/"
+name = "At a glance"
+weight = 110
+identifier = "at-a-glance"
+url = "/intro/at-a-glance/"
 
 [[intro]]
-  name = "Timeline"
-  weight = 120
-  identifier = "timeline"
-  url = "/intro/timeline/"
+name = "Timeline"
+weight = 120
+identifier = "timeline"
+url = "/intro/timeline/"
 
 [[intro]]
-  name = "Take aways"
-  weight = 130
-  identifier = "take-aways"
-  url = "/intro/take-aways/"
+name = "Take aways"
+weight = 130
+identifier = "take-aways"
+url = "/intro/take-aways/"
 
 [[intro]]
-  name = "See more"
-  weight = 140
-  identifier = "see-more"
-  url = "/intro/see-more/"
+name = "See more"
+weight = 140
+identifier = "see-more"
+url = "/intro/see-more/"
 
 [[main]]
-  name = "Intro"
-  weight = 10
-  identifier = "intro"
-  url = "/intro/"
+name = "Intro"
+weight = 10
+identifier = "intro"
+url = "/intro/"
 
 [[main]]
-  name = "Wiki"
-  url = "/wiki/"
-  weight = 15
+name = "Wiki"
+url = "/wiki/"
+weight = 15
 
 [[main]]
-  name = "Articles"
-  url = "/articles/"
-  weight = 20
+name = "Articles"
+url = "/articles/"
+weight = 20
 
 [[main]]
-  name = "Resources"
-  url = "/resources/"
-  weight = 25
+name = "Resources"
+url = "/resources/"
+weight = 25
 
 [[social]]
-  name = "GitHub"
-  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
-  url = "https://github.com/wheelofheaven/"
-  post = "v0.1.0"
-  weight = 10
+name = "GitHub"
+pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+url = "https://github.com/wheelofheaven/"
+post = "v0.1.0"
+weight = 10
 
 [[social]]
-  name = "Twitter"
-  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon class=\"st0\" points=\"19.2,19 10.4,5 4.8,5 13.6,19 \"/><line class=\"st0\" x1=\"4.8\" y1=\"19\" x2=\"10.4\" y2=\"13.9\"/><line class=\"st0\" x1=\"13.6\" y1=\"10.1\" x2=\"19.2\" y2=\"5\"/></svg>"
-  url = "https://twitter.com/wheelofheaven"
-  weight = 20
+name = "Twitter"
+pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon class=\"st0\" points=\"19.2,19 10.4,5 4.8,5 13.6,19 \"/><line class=\"st0\" x1=\"4.8\" y1=\"19\" x2=\"10.4\" y2=\"13.9\"/><line class=\"st0\" x1=\"13.6\" y1=\"10.1\" x2=\"19.2\" y2=\"5\"/></svg>"
+url = "https://twitter.com/wheelofheaven"
+weight = 20
+
+[[social]]
+name = "Telegram"
+pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12.5 16L9 19.5L7 13l-5.5-2l21-8l-4 18l-7.5-7l4-3\"/></svg>"
+url = "https://t.me/wheelofheaven"
+weight = 30
+
+[[social]]
+name = "YouTube"
+pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z\"/><polygon points=\"9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02\"/></svg>"
+url = "https://youtube.com/@wheelofheaven"
+weight = 40
 
 [[footer]]
-  name = "Privacy"
-  url = "/privacy-policy/"
-  weight = 10
+name = "Privacy"
+url = "/privacy-policy/"
+weight = 10
 
 [[footer]]
-   name = "RSS"
-   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-rss\"><path d=\"M4 11a9 9 0 0 1 9 9\"></path><path d=\"M4 4a16 16 0 0 1 16 16\"></path><circle cx=\"5\" cy=\"19\" r=\"1\"></circle></svg>"
-   url = "/articles/index.xml"
-   post = "v0.1.0"
-   weight = 10
-
-
+name = "RSS"
+pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-rss\"><path d=\"M4 11a9 9 0 0 1 9 9\"></path><path d=\"M4 4a16 16 0 0 1 16 16\"></path><circle cx=\"5\" cy=\"19\" r=\"1\"></circle></svg>"
+url = "/articles/index.xml"
+post = "v0.1.0"
+weight = 10

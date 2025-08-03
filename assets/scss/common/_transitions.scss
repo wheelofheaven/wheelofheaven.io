@@ -1,0 +1,354 @@
+/**
+ * Theme Transition Styles
+ *
+ * This file contains CSS transitions to make the theme switching between
+ * light and dark modes smooth and pleasant for users.
+ */
+
+// Transition duration and easing
+$theme-transition-duration: 0.3s;
+$theme-transition-easing: ease-in-out;
+
+// Base transition properties for theme switching
+$theme-transition-properties:
+  background-color, color, border-color, box-shadow, fill, stroke;
+
+/**
+ * Root element transitions
+ * These apply to the fundamental elements that change during theme switching
+ */
+html {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+body {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Link transitions
+ */
+a {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Navigation and header transitions
+ */
+.navbar,
+.doks-subnavbar {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-brand,
+.navbar-light .navbar-text {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Button transitions
+ */
+.btn {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.btn-toggle,
+.btn-doks-light,
+.doks-sidebar-toggle {
+  transition:
+    color $theme-transition-duration $theme-transition-easing,
+    background-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Form control transitions
+ */
+.form-control {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.form-control.is-search {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Card and content area transitions
+ */
+.card {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.card-body,
+.card-text {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Sidebar and navigation transitions
+ */
+.docs-sidebar {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.docs-navigation {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.docs-link,
+.page-links a {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Code and syntax highlighting transitions
+ */
+code:not(.hljs) {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing;
+}
+
+pre {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+/**
+ * Blockquote transitions
+ */
+blockquote {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Footer transitions
+ */
+.footer {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.footer a {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+.footer-brand h3 {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+.footer h6 {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Alert transitions
+ */
+.alert-doks {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing;
+}
+
+.alert-primary {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Table transitions
+ */
+table {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Offcanvas transitions
+ */
+.offcanvas {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+.offcanvas-header {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.offcanvas .nav-link {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Dropdown transitions
+ */
+.dropdown-menu {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+.dropdown-item {
+  transition:
+    color $theme-transition-duration $theme-transition-easing,
+    background-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Details and summary transitions
+ */
+details {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+summary {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+/**
+ * Pagination transitions
+ */
+.page-link {
+  transition:
+    color $theme-transition-duration $theme-transition-easing,
+    background-color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Timeline and custom component transitions
+ */
+.age {
+  transition:
+    background-color $theme-transition-duration $theme-transition-easing,
+    color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+.timeline-box {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * SVG and graphic transitions
+ */
+.wac-arcs path {
+  transition:
+    fill $theme-transition-duration $theme-transition-easing,
+    stroke $theme-transition-duration $theme-transition-easing;
+}
+
+.wac-text {
+  transition: fill $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Text color utility transitions
+ */
+.text-dark,
+.text-muted,
+.figure-caption {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Border utility transitions
+ */
+.border-top {
+  transition: border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Special elements that need smooth transitions
+ */
+.bg-light {
+  transition: background-color $theme-transition-duration
+    $theme-transition-easing;
+}
+
+.bg-dots {
+  transition: background-image $theme-transition-duration
+    $theme-transition-easing;
+}
+
+.gradient-text {
+  transition: background-image $theme-transition-duration
+    $theme-transition-easing;
+}
+
+/**
+ * Copy button transitions
+ */
+.copy-status::after {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Search-related transitions
+ */
+.doks-search::after {
+  transition:
+    color $theme-transition-duration $theme-transition-easing,
+    border-color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Breadcrumb transitions
+ */
+.breadcrumb-item {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Table of contents transitions
+ */
+#toc a {
+  transition: color $theme-transition-duration $theme-transition-easing;
+}
+
+/**
+ * Performance optimization and accessibility
+ * Disable transitions during page load to prevent unwanted animations
+ * and respect user preference for reduced motion
+ */
+.preload * {
+  transition: none !important;
+}
+
+/* Respect user's motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/**
+ * Focus improvements during theme transitions
+ */
+*:focus-visible {
+  transition:
+    box-shadow $theme-transition-duration $theme-transition-easing,
+    outline-color $theme-transition-duration $theme-transition-easing;
+}

@@ -1,6 +1,10 @@
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(-360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
 }
 
 .navbar-brand:hover svg {
@@ -46,18 +50,26 @@
 
 body .toggle-dark {
   display: block;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
 }
 
 body .toggle-light {
   display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
 }
 
 [data-dark-mode] body .toggle-light {
   display: block;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
 }
 
 [data-dark-mode] body .toggle-dark {
   display: none;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
 }
 
 pre {
@@ -264,7 +276,7 @@ pre {
 }
 
 .btn-to-top {
-  background-color: rgba(255, 255, 255, 0.20);
-  border-color: rgba($gray-200, 0.60);
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba($gray-200, 0.6);
   backdrop-filter: blur(3px);
 }

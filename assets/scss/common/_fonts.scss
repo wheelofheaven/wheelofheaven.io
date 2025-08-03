@@ -6,8 +6,10 @@
   font-display: swap;
   src:
     // Google Fonts Jost
-    local("Jost Regular Regular"),   // Full Name
-    local("Jost-Regular"),           // PostScript name
+    local("Jost Regular Regular"),
+    // Full Name
+    local("Jost-Regular"),
+    // PostScript name
     // indestructible Jost*
     local("Jost* Book"),
     local("Jost-Book"),
@@ -117,36 +119,15 @@
   font-display: swap;
   src:
     local("Space Grotesk"),
-    url("fonts/vendor/spacegrotesk/SpaceGrotesk-Regular.ttf") format("ttf");
-}
-
-
-@font-face {
-  font-family: SpaceGrotesk;
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src:
-    local("Space Grotesk"),
-    url("fonts/vendor/spacegrotesk/SpaceGrotesk-Regular.ttf") format("ttf");
+    url("fonts/vendor/spacegrotesk/SpaceGrotesk-Regular.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: SpaceMono;
+  font-family: IBMPlexMono;
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src:
     local("Space Mono"),
-    url("fonts/vendor/spacemono/SpaceMono-Regular.ttf") format("ttf");
-}
-
-@font-face {
-  font-family: SpaceMono;
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src:
-    local("Space Mono Italic"),
-    url("fonts/vendor/spacemono/SpaceMono-Italic.ttf") format("ttf");
+    url("fonts/vendor/spacemono/IBMPlexMono-Regular.woff2") format("woff2");
 }
